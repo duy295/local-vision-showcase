@@ -49,12 +49,12 @@ export const ClassificationDemo = () => {
     
     setIsClassifying(true);
     
-    // Simulate processing time
+    // Simulate processing time (3000ms = 3 seconds)
     setTimeout(() => {
       const classificationResults = mockClassify(inputText);
       setResults(classificationResults);
       setIsClassifying(false);
-    }, 800);
+    }, 3000);
   };
 
   return (
