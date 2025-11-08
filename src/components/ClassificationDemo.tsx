@@ -60,39 +60,43 @@ export const ClassificationDemo = () => {
   return (
     <div className="w-full max-w-4xl mx-auto space-y-8">
       <Card className="p-8 shadow-soft">
-        <div className="space-y-6">
-          <div className="space-y-2">
-            <label htmlFor="input-text" className="text-sm font-medium text-foreground">
-              Enter text to classify
-            </label>
-            <Textarea
-              id="input-text"
-              placeholder="Type or paste your text here... Try words like 'happy', 'tech', 'sports', etc."
-              value={inputText}
-              onChange={(e) => setInputText(e.target.value)}
-              className="min-h-[120px] resize-none"
-            />
+        <div className="flex flex-col items-center justify-center space-y-6 min-h-[300px]">
+          {/* Circular Processing Indicator */}
+          <div className="relative">
+            <div className="w-32 h-32 rounded-full border-4 border-muted flex items-center justify-center">
+              {isClassifying ? (
+                <div className="absolute inset-0 rounded-full border-4 border-transparent border-t-primary animate-spin" />
+              ) : null}
+              <Sparkles className={`w-12 h-12 ${isClassifying ? 'text-primary animate-pulse' : 'text-muted-foreground'}`} />
+            </div>
           </div>
           
-          <Button
-            onClick={handleClassify}
-            disabled={!inputText.trim() || isClassifying}
-            className="w-full"
-            variant="hero"
-            size="lg"
-          >
-            {isClassifying ? (
-              <>
-                <Sparkles className="animate-spin" />
-                Classifying...
-              </>
-            ) : (
-              <>
-                Classify Text
-                <ArrowRight />
-              </>
-            )}
-          </Button>
+          <div className="text-center space-y-2">
+            <h3 className="text-lg font-semibold text-foreground">
+              {isClassifying ? "Processing Input from ESP32..." : "Waiting for ESP32 Data"}
+            </h3>
+            <p className="text-sm text-muted-foreground">
+              {isClassifying ? "Model is analyzing the input" : "Ready to receive and classify"}
+            </p>
+          </div>
+
+          {/* Hidden textarea for testing */}
+          <div className="w-full space-y-2">
+            <Textarea
+              placeholder="Simulate ESP32 input (for testing)..."
+              value={inputText}
+              onChange={(e) => setInputText(e.target.value)}
+              className="min-h-[80px] resize-none"
+            />
+            <Button
+              onClick={handleClassify}
+              disabled={!inputText.trim() || isClassifying}
+              className="w-full"
+              variant="hero"
+            >
+              Simulate Processing
+            </Button>
+          </div>
         </div>
       </Card>
 
