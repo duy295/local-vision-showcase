@@ -158,8 +158,8 @@ def get_args():
     parser.add_argument('--alpha_soft', type=float, default=0.2)
     parser.add_argument('--beta', type=float, default=0.9)
     
-    parser.add_argument('--p1_epochs', type=int, default=2, help='Phase 1 epochs (default: 20)')
-    parser.add_argument('--p2_epochs', type=int, default=3, help='Phase 2 epochs (default: 40)')
+    parser.add_argument('--p1_epochs', type=int, default=5, help='Phase 1 epochs (default: 20)')
+    parser.add_argument('--p2_epochs', type=int, default=20, help='Phase 2 epochs (default: 40)')
     
     # Max rank difference for normalization
     parser.add_argument('--max_rank_diff', type=float, default=60.0, help='Max rank difference cho normalization (estimate: ~số ảnh/class)')
