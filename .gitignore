@@ -1,24 +1,21 @@
-# Logs
-logs
-*.log
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
-pnpm-debug.log*
-lerna-debug.log*
+# Không đẩy môi trường ảo
+env/
+venv/
+.venv/
 
-node_modules
-dist
-dist-ssr
-*.local
+# Không đẩy Dataset nặng (Sửa tên theo folder của sư đệ)
+CUB_200_2011/
+images/
+*.jpg
+*.png
+output_json
+# Không đẩy các file lưu model
+*.pth
+*.h5
 
-# Editor directories and files
-.vscode/*
-!.vscode/extensions.json
-.idea
+LLM-description
+
+# Các file rác hệ thống
+__pycache__/
 .DS_Store
-*.suo
-*.ntvs*
-*.njsproj
-*.sln
-*.sw?
+.ipynb_checkpoints/
