@@ -7,29 +7,30 @@ import glob
 from torch.utils.data import Sampler
 
 # ========================================================
-# 1. HYBRID HARD RELATION SAMPLER (Bản chuẩn nhất)
+# 1. HYBRID HARD RELATION SAMPLER (Bản chuẩn - Ép 200 Batches)
 # ========================================================
 class HybridHardRelationSampler(Sampler):
     """
-    Chiến thuật lấy mẫu linh hoạt:
-    - pos_fraction=0.25 sẽ tạo ra 8/32 ảnh cùng class (4 cặp pos, 12 cặp neg).
-    - Hỗ trợ Hard Negative từ JSON để ép model học phân biệt loài giống nhau.
+    Sampler chuyên dụng cho Phase 2 & 3.
+    - ÉP CỨNG số lượng batch mỗi epoch (mặc định 200).
+    - Đảm bảo tỉ lệ cặp cùng loài (Positive) và khác loài (Negative).
+    - Hỗ trợ Hard Negative Mining từ JSON.
     """
-    def __init__(self, dataset, batch_size, pos_fraction=0.25, hard_neg_fraction=0.7, sim_matrix=None):
+    def __init__(self, dataset, batch_size, pos_fraction=0.25, hard_neg_fraction=0.7, sim_matrix=None, num_batches=200):
         self.dataset = dataset
         self.batch_size = batch_size
         self.pos_fraction = pos_fraction
         self.hard_neg_fraction = hard_neg_fraction
         self.sim_matrix = sim_matrix or {}
+        self.num_batches = num_batches  # <--- CHÌA KHÓA: Ép số lượng batch cố định
 
-        # --- Bước 1: Trích xuất nhãn nhanh (không load ảnh) ---
+        # --- Bước 1: Trích xuất nhãn ---
         if hasattr(dataset, 'data') and isinstance(dataset.data, dict):
-            labels_list = dataset.data['label']
+            labels_list = dataset.data['label'] # Cho custom dataset dạng dict
         elif hasattr(dataset, 'targets'):
-            labels_list = dataset.targets
+            labels_list = dataset.targets       # Cho ImageFolder chuẩn
         else:
-            # Chỉ gọi nếu dataset không có sẵn list nhãn
-            print("⚠️ Sampler: Đang trích xuất nhãn thủ công (có thể hơi chậm)...")
+            print("⚠️ Sampler: Đang trích xuất nhãn thủ công...")
             labels_list = [dataset[i][1] for i in range(len(dataset))]
 
         # --- Bước 2: Gom index theo từng class ---
@@ -40,54 +41,71 @@ class HybridHardRelationSampler(Sampler):
                 self.label_to_indices[label] = []
             self.label_to_indices[label].append(idx)
         
-        # --- Bước 3: Lọc các class có thể tạo cặp ---
-        # Chỉ giữ class có >= 2 ảnh mới tạo được cặp Positive
+        # --- Bước 3: Chuẩn bị danh sách class hợp lệ ---
+        # Chỉ giữ class có >= 2 ảnh để tạo cặp Positive
         self.labels = [l for l in self.label_to_indices.keys() if len(self.label_to_indices[l]) >= 2]
-        self.all_labels = list(self.label_to_indices.keys()) # Dùng cho Negative sampling
-        
-        self.num_batches = len(dataset) // batch_size
+        self.all_labels = list(self.label_to_indices.keys())
 
     def __iter__(self):
+        # --- VÒNG LẶP VÔ TẬN GIẢ LẬP (Infinite Sampling) ---
+        # Chạy đúng num_batches lần, không phụ thuộc vào độ dài dataset
         for _ in range(self.num_batches):
             batch_indices = []
+            
+            # Tính toán số lượng cặp cần thiết cho batch này
+            # Ví dụ: Batch 512 -> 256 cặp
             num_pairs = self.batch_size // 2
             
-            # Tính toán số lượng cặp
-            # Với batch_size=32, num_pos sẽ là 4 (nếu fraction=0.25)
-            num_pos = int(num_pairs * self.pos_fraction)
-            num_neg = num_pairs - num_pos
+            # Tính số lượng cặp Positive và Negative dựa trên tỷ lệ
+            num_pos = int(num_pairs * self.pos_fraction) # Ví dụ: 25%
+            num_neg = num_pairs - num_pos                # Còn lại là Negative
             
-            # --- TẠO CẶP POSITIVE (Cùng loài) ---
+            # -------------------------------------------------
+            # A. TẠO CẶP POSITIVE (Cùng loài)
+            # -------------------------------------------------
             for _ in range(num_pos):
+                # 1. Chọn ngẫu nhiên 1 loài
                 l = random.choice(self.labels)
+                # 2. Chọn ngẫu nhiên 2 ảnh của loài đó
                 idx1, idx2 = random.sample(self.label_to_indices[l], 2)
                 batch_indices.extend([idx1, idx2])
             
-            # --- TẠO CẶP NEGATIVE (Khác loài) ---
+            # -------------------------------------------------
+            # B. TẠO CẶP NEGATIVE (Khác loài)
+            # -------------------------------------------------
             for _ in range(num_neg):
+                # 1. Chọn loài thứ nhất (Anchor)
                 l1 = random.choice(self.all_labels)
                 
-                # Check xem có dùng Hard Negative từ JSON không
-                is_hard = (random.random() < self.hard_neg_fraction) and \
-                          (l1 in self.sim_matrix) and len(self.sim_matrix[l1]) > 0
+                # 2. Chọn loài thứ hai (Negative)
+                # Logic: Kiểm tra xem có dùng Hard Negative từ JSON không
+                use_hard = (random.random() < self.hard_neg_fraction) and \
+                           (l1 in self.sim_matrix) and \
+                           (len(self.sim_matrix[l1]) > 0)
                 
-                if is_hard:
+                if use_hard:
+                    # Lấy từ danh sách "chim giống nhau" trong JSON
                     l2 = random.choice(self.sim_matrix[l1])
                 else:
-                    # Chọn bừa một class khác l1
-                    l2 = random.choice([l for l in self.all_labels if l != l1])
+                    # Lấy Random (nhưng phải khác l1)
+                    l2 = random.choice(self.all_labels)
+                    while l2 == l1: # Retry nếu lỡ bốc trùng
+                        l2 = random.choice(self.all_labels)
                 
+                # 3. Chọn ảnh đại diện cho mỗi loài
                 idx1 = random.choice(self.label_to_indices[l1])
                 idx2 = random.choice(self.label_to_indices[l2])
                 batch_indices.extend([idx1, idx2])
             
+            # Trả về batch hoàn chỉnh (list các index ảnh)
             yield batch_indices
 
     def __len__(self):
+        # DataLoader sẽ hỏi hàm này để biết thanh progress bar dài bao nhiêu
         return self.num_batches
 
 # ========================================================
-# 2. HELPER: Load Hard Negatives từ JSON
+# 2. HELPER: Load Hard Negatives từ JSON (Giữ nguyên)
 # ========================================================
 def load_hard_negatives_from_json(json_folder, dataset):
     """
@@ -95,13 +113,18 @@ def load_hard_negatives_from_json(json_folder, dataset):
     """
     name_to_idx = {}
     if not hasattr(dataset, 'classes'):
-        print("⚠️ Dataset không có thuộc tính .classes")
-        return {}
-
-    for i, class_name in enumerate(dataset.classes):
-        # Chuẩn hóa tên: "001.Black_footed_Albatross" -> "black_footed_albatross"
-        clean_name = class_name.split('.')[-1].lower().replace(' ', '_')
-        name_to_idx[clean_name] = i
+        # Fallback nếu dùng custom dataset
+        # Giả sử dataset.classes là list tên loài
+        try:
+             # Cố gắng lấy classes từ label_to_indices nếu có thể, hoặc báo lỗi
+             pass 
+        except:
+             print("⚠️ Dataset không có thuộc tính .classes")
+             return {}
+    else:
+        for i, class_name in enumerate(dataset.classes):
+            clean_name = class_name.split('.')[-1].lower().replace(' ', '_')
+            name_to_idx[clean_name] = i
 
     sim_map = {}
     if not os.path.exists(json_folder):
@@ -118,9 +141,12 @@ def load_hard_negatives_from_json(json_folder, dataset):
                 
                 if src_name in name_to_idx:
                     src_idx = name_to_idx[src_name]
-                    hard_indices = [name_to_idx[n.lower().replace(' ', '_')] 
-                                   for n in similar_list 
-                                   if n.lower().replace(' ', '_') in name_to_idx]
+                    hard_indices = []
+                    for n in similar_list:
+                        n_clean = n.lower().replace(' ', '_')
+                        if n_clean in name_to_idx:
+                            hard_indices.append(name_to_idx[n_clean])
+                    
                     if hard_indices:
                         sim_map[src_idx] = hard_indices
         except:
@@ -130,31 +156,35 @@ def load_hard_negatives_from_json(json_folder, dataset):
     return sim_map
 
 # ========================================================
-# 3. CLASS SPECIFIC SAMPLER (Dùng cho Phase 1/Validation)
+# 3. CLASS SPECIFIC SAMPLER (Cập nhật hỗ trợ num_batches)
 # ========================================================
 class ClassSpecificBatchSampler(Sampler):
-    def __init__(self, labels, batch_size):
+    """
+    Sampler cho Phase 1. 
+    Cập nhật: Cho phép ép num_batches=200 để đồng bộ với Phase 2, 3.
+    """
+    def __init__(self, labels, batch_size, num_batches=200):
         self.labels = np.array(labels)
         self.batch_size = batch_size
         self.classes = np.unique(self.labels)
         self.indices_by_class = {c: np.where(self.labels == c)[0] for c in self.classes}
         
-        total_batches = 0
-        for c in self.classes:
-            n = len(self.indices_by_class[c])
-            if n > 1:
-                total_batches += (n + batch_size - 1) // batch_size
-        self.num_batches = total_batches
+        # Nếu muốn tính tự động theo dataset thì dùng logic cũ, 
+        # nhưng ở đây ta ưu tiên tham số num_batches truyền vào.
+        self.num_batches = num_batches
 
     def __iter__(self):
-        shuffled_classes = np.random.permutation(self.classes)
-        for c in shuffled_classes:
-            indices = self.indices_by_class[c].copy()
-            np.random.shuffle(indices)
-            for i in range(0, len(indices), self.batch_size):
-                batch = indices[i : i + self.batch_size]
-                if len(batch) > 1:
-                    yield batch.tolist()
+        for _ in range(self.num_batches):
+            # Chọn ngẫu nhiên 1 class
+            c = np.random.choice(self.classes)
+            indices = self.indices_by_class[c]
+            
+            # Lấy mẫu có lặp lại (replace=True) để đảm bảo luôn đủ batch_size
+            # kể cả khi class đó có ít ảnh hơn batch_size
+            if len(indices) == 0: continue # Skip nếu class rỗng
+            
+            batch = np.random.choice(indices, self.batch_size, replace=(len(indices) < self.batch_size))
+            yield batch.tolist()
 
     def __len__(self):
         return self.num_batches

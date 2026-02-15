@@ -440,25 +440,25 @@ def main():
             balanced_sampler_p2 = HybridHardRelationSampler(
                 train_set,
                 batch_size=args.batch_size,
-                pos_fraction=0.01,      # 25% ảnh cùng loài
-                hard_neg_fraction=0.7,   # 0% hard negatives từ JSON (lấy random)
-                sim_matrix=None          # Không dùng JSON neighbors
-            )
+                pos_fraction=0.25,        # 25% Cùng loài
+                hard_neg_fraction=0.7,    # 70% Hard Negative (từ JSON)
+                sim_matrix=sim_matrix,
+                num_batches=200           # <--- ÉP CỨNG 200 BATCH
+                )
             #loader = DataLoader(train_set, batch_sampler=balanced_sampler_p2, num_workers=4, pin_memory=True)
-            loader = DataLoader(train_set, batch_size=args.batch_size, 
-                       shuffle=True, num_workers=4, pin_memory=True)
+            loader = DataLoader(train_set, batch_sampler=balanced_sampler_p2, num_workers=4, pin_memory=True)
         else:
             # Phase 3: Regularization (15% same class + 85% random negatives)
             phase_name = "Phase 3: Regularization (15% Same Class)"
             balanced_sampler_p3 = HybridHardRelationSampler(
-                train_set, 
-                batch_size=args.batch_size, 
-                pos_fraction=0.0,      # 15% ảnh cùng loài
-                hard_neg_fraction=0.3,   # 0% hard negatives từ JSON (lấy random)
-                sim_matrix=None          # Không dùng JSON neighbors
-            )
-            loader =DataLoader(train_set, batch_size=args.batch_size, 
-                       shuffle=True, num_workers=4, pin_memory=True)
+                 train_set,
+                    batch_size=args.batch_size,
+                    pos_fraction=0.15,        # 15% Cùng loài
+                    hard_neg_fraction=0.3,    # Giảm Hard Negative xuống còn 30%
+                    sim_matrix=sim_matrix,
+                    num_batches=200           # <--- ÉP CỨNG 200 BATCH
+                    )
+            loader =DataLoader(train_set, batch_sampler=balanced_sampler_p3, num_workers=4, pin_memory=True)
         print(f"\nEpoch {epoch+1}/{args.epochs} | {phase_name}")
         print(f"   📦 DataLoader có {len(loader)} batches")
         sys.stdout.flush()
