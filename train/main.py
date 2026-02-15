@@ -440,7 +440,7 @@ def main():
             balanced_sampler_p2 = HybridHardRelationSampler(
                 train_set,
                 batch_size=args.batch_size,
-                pos_fraction=0.07,      # 25% ảnh cùng loài
+                pos_fraction=0.01,      # 25% ảnh cùng loài
                 hard_neg_fraction=0.7,   # 0% hard negatives từ JSON (lấy random)
                 sim_matrix=None          # Không dùng JSON neighbors
             )
