@@ -92,4 +92,4 @@ class HybridResNetBackbone(nn.Module):
         # Ở đây lấy trung bình của 2 nhánh lớn
         final_feat = (global_feat + combined_patch_feat) / 2.0
         
-        return final_feat
+        return final_feat, global_feat, combined_patch_feat

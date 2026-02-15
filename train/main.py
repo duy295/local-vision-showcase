@@ -23,6 +23,36 @@ from backbone.loss import StructureAwareClipLoss
 from utils.samplers import ClassSpecificBatchSampler, HybridHardRelationSampler, load_hard_negatives_from_json
 from torchvision import transforms
 
+# --- LINEAR SCORE COMBINER MODEL ---
+class LinearScoreCombiner(torch.nn.Module):
+    """Kết hợp 3 scores từ các branch khác nhau với learnable weights.
+    scores1 (local features) được ưu tiên hơn scores2 (global) và scores3 (combined patches).
+    """
+    def __init__(self):
+        super().__init__()
+        # Khởi tạo log-space weights để ưu tiên scores1
+        # log_weight[0] ứng với scores1 (khởi tạo lớn hơn)
+        self.log_weights = torch.nn.Parameter(torch.tensor([0.6, 0.2, 0.2]))  # scores1 được ưu tiên
+    
+    def forward(self, scores1, scores2, scores3):
+        """
+        Args:
+            scores1: Similarity scores từ local features [batch_size]
+            scores2: Similarity scores từ global features [batch_size]
+            scores3: Similarity scores từ combined patches [batch_size]
+        Returns:
+            combined_score: Kết hợp 3 scores [batch_size]
+        """
+        # Normalize weights sử dụng softmax để đảm bảo chúng dương và tổng=1
+        normalized_weights = torch.softmax(self.log_weights, dim=0)
+        
+        # Kết hợp: w1*scores1 + w2*scores2 + w3*scores3
+        combined = (normalized_weights[0] * scores1 + 
+                   normalized_weights[1] * scores2 + 
+                   normalized_weights[2] * scores3)
+        
+        return combined
+
 # --- DATASET IMPORT HOẶC FALLBACK ---
 try:
     from utils.data_loader import CUB200_First10, CUB200_Full
@@ -279,23 +309,26 @@ def main():
             return
     else:
         print(f"❌ File sorted json không tìm thấy tại: {sorted_json_path}")
-        returntrans
+        return
 
     # 3. Model & Loss Setup
     print("🛠️ Khởi tạo Model & Loss...")
     backbone = HybridResNetBackbone().to(device)
     relation = BilinearRelationNet().to(device)
+    linear_combiner = LinearScoreCombiner().to(device)  # ← Thêm Score Combiner
+    
     for name, param in backbone.backbone.named_parameters():
         if "layer4" in name: # Mở khóa layer cuối cùng của ResNet
             param.requires_grad = True
 
-# Cập nhật lại Optimizer
+# Cập nhật lại Optimizer (thêm linear_combiner vào)
     trainable_params = [
     {'params': filter(lambda p: p.requires_grad, backbone.parameters()), 'lr': args.lr * 0.1}, # Backbone chạy chậm
-    {'params': relation.parameters(), 'lr': args.lr} # RelationNet chạy tốc độ bình thường
+    {'params': relation.parameters(), 'lr': args.lr}, # RelationNet chạy tốc độ bình thường
+    {'params': linear_combiner.parameters(), 'lr': args.lr}  # ← LinearCombiner cùng tốc độ relation
 ]
 
-    optimizer = optim.Adam(trainable_params)
+    optimizer = optim.Adam(trainable_params, betas=(0.9, 0.999), eps=1e-8)
     # Debug: verify models are on the expected device and show basic GPU memory usage
     try:
         print("Backbone device:", next(backbone.parameters()).device)
@@ -323,6 +356,10 @@ def main():
 
     print(f"🔥 RelationNet trainable params: {trainable:,}")
     print(f"📦 RelationNet total params:     {total:,}")
+    
+    # Debug: Print LinearScoreCombiner status
+    print(f"⚖️ LinearScoreCombiner weights (before training): {linear_combiner.log_weights.data}")
+    print(f"⚖️ LinearScoreCombiner normalized weights: {torch.softmax(linear_combiner.log_weights, dim=0).data}")
     
     # --- KHỞI TẠO LOSS và TẠO DUMMY CLIPS NẾU THIẾU ---
     # Auto-generate dummy CLIP embeddings nếu files bị thiếu
@@ -376,6 +413,7 @@ def main():
         epoch_start = time.time()
         backbone.train()
         relation.train()
+        linear_combiner.train()  # ← Set linear_combiner to training mode
         '''
         # --- LOGIC CHUYỂN ĐỔI PHASE ---
         if epoch < phase1_end:
@@ -467,10 +505,12 @@ def main():
             diff = (img1[0] - img2[0]).abs().sum()
             if diff < 1e-5:
                 print("🚨 CẢNH BÁO: img1 và img2 giống hệt nhau! Kiểm tra lại Sampler/Indexing.")
-            feat1 = backbone(img1)
-            feat2 = backbone(img2)
-            scores = relation(feat1, feat2)
-
+            feat1, global_feat1, combined_patch_feat1 = backbone(img1)
+            feat2, global_feat2, combined_patch_feat2 = backbone(img2)
+            scores1=relation(feat1, feat2)
+            scores2 = relation(global_feat1, global_feat2)
+            score3 = relation(combined_patch_feat1, combined_patch_feat2)
+            scores = linear_combiner(scores1, scores2, score3)  # ← Kết hợp 3 scores
             # Build rank tensors by looking up idx -> rank from sorted json (default 0)
             rank_vals1 = [_get_rank_for_index(i) for i in idx1]
             rank_vals2 = [_get_rank_for_index(i) for i in idx2]
@@ -543,6 +583,7 @@ def main():
     suffix = "_10class" if args.test_10_classes else "_full"
     torch.save(backbone.state_dict(), f'weights/backbone{suffix}.pth')
     torch.save(relation.state_dict(), f'weights/relation{suffix}.pth')
+    torch.save(linear_combiner.state_dict(), f'weights/linear_combiner{suffix}.pth')  # ← Lưu LinearCombiner
     
     print(f"✅ Đã lưu model tại thư mục weights/ (suffix: {suffix})")
     print(f"⏱️ Tổng thời gian train: {(time.time() - total_start_time)/60:.1f} phút")

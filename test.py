@@ -40,8 +40,8 @@ def test_single_pair(path_img1, path_img2, backbone_weight_path, relation_weight
         score = relation(f1, f2)
         
     print(f"--- KẾT QUẢ TEST ---")
-    img1_path = r"E:\DATASET-FSCIL\CUB_200_2011\images\001.Black_footed_Albatross\Black_Footed_Albatross_0074_59.jpg"
-    img2_path = r"E:\DATASET-FSCIL\CUB_200_2011\images\001.Black_footed_Albatross\Black_Footed_Albatross_0089_796069.jpg"
+    img1_path = r"E:\DATASET-FSCIL\CUB_200_2011 - Copy\images\001.Black_footed_Albatross\Black_Footed_Albatross_0074_59.jpg"
+    img2_path = r"E:\DATASET-FSCIL\CUB_200_2011 - Copy\images\003.Sooty_Albatross\Sooty_Albatross_0013_796402.jpg"
     print(f"Ảnh 1: {img1_path}")
     print(f"Ảnh 2: {img2_path}")
     print(f"🔥 Score tương đồng: {score.item():.4f}")
@@ -53,9 +53,9 @@ def test_single_pair(path_img1, path_img2, backbone_weight_path, relation_weight
 
 # --- CHẠY THỬ ---
 test_single_pair(
-    path_img1=r"E:\DATASET-FSCIL\CUB_200_2011\images\001.Black_footed_Albatross\Black_Footed_Albatross_0074_59.jpg",
+    path_img1=r"E:\DATASET-FSCIL\CUB_200_2011 - Copy\images\001.Black_footed_Albatross\Black_Footed_Albatross_0074_59.jpg",
     #path_img2=r"E:\DATASET-FSCIL\CUB_200_2011\images\001.Black_footed_Albatross\Black_Footed_Albatross_0076_417.jpg",
-    path_img2=r"E:\DATASET-FSCIL\CUB_200_2011\images\001.Black_footed_Albatross\Black_Footed_Albatross_0024_796089.jpg",
+    path_img2=r"E:\DATASET-FSCIL\CUB_200_2011 - Copy\images\002.Laysan_Albatross\Laysan_Albatross_0035_876.jpg",
     backbone_weight_path="weights/backbone_full.pth",
     relation_weight_path="weights/relation_full.pth"
 )

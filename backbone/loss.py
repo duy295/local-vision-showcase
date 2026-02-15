@@ -6,7 +6,7 @@ import os
 
 class StructureAwareClipLoss(nn.Module):
     def __init__(self, output_json_path, dataset_name='cifar100', label_to_classname=None, 
-                 alpha=0.05, alpha_soft=0.2, beta=0.9, max_rank_diff=50, device='cpu'):
+                 alpha=0.2, alpha_soft=0.2, beta=0.8, max_rank_diff=50, device='cpu'):
         super(StructureAwareClipLoss, self).__init__()
         self.alpha = alpha
         self.alpha_soft = alpha_soft
