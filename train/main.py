@@ -410,7 +410,7 @@ def main():
     epochs_no_improve = 0
     patience = args.patience
     min_delta = args.min_delta
-
+    sim_matrix = load_hard_negatives_from_json(json_path, train_set)
     for epoch in range(args.epochs):
         epoch_start = time.time()
         backbone.train()
