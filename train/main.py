@@ -444,7 +444,9 @@ def main():
                 hard_neg_fraction=0.7,   # 0% hard negatives từ JSON (lấy random)
                 sim_matrix=None          # Không dùng JSON neighbors
             )
-            loader = DataLoader(train_set, batch_sampler=balanced_sampler_p2, num_workers=4, pin_memory=True)
+            #loader = DataLoader(train_set, batch_sampler=balanced_sampler_p2, num_workers=4, pin_memory=True)
+            loader = DataLoader(train_set, batch_size=args.batch_size, 
+                       shuffle=True, num_workers=4, pin_memory=True)
         else:
             # Phase 3: Regularization (15% same class + 85% random negatives)
             phase_name = "Phase 3: Regularization (15% Same Class)"
@@ -455,7 +457,8 @@ def main():
                 hard_neg_fraction=0.3,   # 0% hard negatives từ JSON (lấy random)
                 sim_matrix=None          # Không dùng JSON neighbors
             )
-            loader = DataLoader(train_set, batch_sampler=balanced_sampler_p3, num_workers=4, pin_memory=True)
+            loader =DataLoader(train_set, batch_size=args.batch_size, 
+                       shuffle=True, num_workers=4, pin_memory=True)
         print(f"\nEpoch {epoch+1}/{args.epochs} | {phase_name}")
         print(f"   📦 DataLoader có {len(loader)} batches")
         sys.stdout.flush()
