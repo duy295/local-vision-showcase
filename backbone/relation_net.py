@@ -19,7 +19,7 @@ class BilinearRelationNet(nn.Module):
         
         # 2. Học cách kết hợp: Thay vì chỉ lấy kết quả toán học thuần túy,
         # model sẽ học cách "tin" vào toán học bao nhiêu phần trăm.
-        self.alpha = nn.Parameter(torch.tensor([0.65])) # Trọng số cho Fuzzy toán học
+        self.alpha = nn.Parameter(torch.tensor([0.75])) # Trọng số cho Fuzzy toán học
         self.beta = nn.Parameter(torch.tensor([0.25]))  # Trọng số cho Bilinear học được
         
         # 3. Phần học bổ trợ (Bilinear) - Giúp bù đắp những gì toán học thuần túy bỏ sót
