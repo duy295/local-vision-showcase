@@ -23,16 +23,21 @@ from backbone.loss import StructureAwareClipLoss
 from utils.samplers import ClassSpecificBatchSampler, HybridHardRelationSampler, load_hard_negatives_from_json
 from torchvision import transforms
 
-# --- LINEAR SCORE COMBINER MODEL ---
-class LinearScoreCombiner(torch.nn.Module):
-    """Kết hợp 3 scores từ các branch khác nhau với learnable weights.
-    scores1 (local features) được ưu tiên hơn scores2 (global) và scores3 (combined patches).
+# --- SCORE COMBINER NEURAL NETWORK ---
+class ScoreCombinerNet(torch.nn.Module):
+    """Kết hợp 3 scores từ các branch khác nhau bằng neural network.
+    Học được non-linear relationships giữa 3 scores để sinh ra final score.
     """
-    def __init__(self):
+    def __init__(self, hidden_dim=64):
         super().__init__()
-        # Khởi tạo log-space weights để ưu tiên scores1
-        # log_weight[0] ứng với scores1 (khởi tạo lớn hơn)
-        self.log_weights = torch.nn.Parameter(torch.tensor([0.6, 0.2, 0.2]))  # scores1 được ưu tiên
+        self.net = torch.nn.Sequential(
+            torch.nn.Linear(3, hidden_dim),              # 3 scores -> hidden
+            torch.nn.ReLU(),
+            torch.nn.Dropout(0.2),
+            torch.nn.Linear(hidden_dim, hidden_dim // 2),
+            torch.nn.ReLU(),
+            torch.nn.Linear(hidden_dim // 2, 1)  # Output raw score (không sigmoid)
+        )
     
     def forward(self, scores1, scores2, scores3):
         """
@@ -41,17 +46,14 @@ class LinearScoreCombiner(torch.nn.Module):
             scores2: Similarity scores từ global features [batch_size]
             scores3: Similarity scores từ combined patches [batch_size]
         Returns:
-            combined_score: Kết hợp 3 scores [batch_size]
+            combined_score: Kết hợp 3 scores [0, 1] [batch_size]
         """
-        # Normalize weights sử dụng softmax để đảm bảo chúng dương và tổng=1
-        normalized_weights = torch.softmax(self.log_weights, dim=0)
-        
-        # Kết hợp: w1*scores1 + w2*scores2 + w3*scores3
-        combined = (normalized_weights[0] * scores1 + 
-                   normalized_weights[1] * scores2 + 
-                   normalized_weights[2] * scores3)
-        
-        return combined
+        # Stack 3 scores thành [batch_size, 3]
+        combined_input = torch.stack([scores1, scores2, scores3], dim=1)
+        # Đưa qua neural network
+        output = self.net(combined_input)  # [batch_size, 1]
+        # Clamp output về [0, 1] để match input range
+        return torch.clamp(output.squeeze(-1), 0, 1)  # [batch_size]
 
 # --- DATASET IMPORT HOẶC FALLBACK ---
 try:
@@ -315,7 +317,7 @@ def main():
     print("🛠️ Khởi tạo Model & Loss...")
     backbone = HybridResNetBackbone().to(device)
     relation = BilinearRelationNet().to(device)
-    linear_combiner = LinearScoreCombiner().to(device)  # ← Thêm Score Combiner
+    score_combiner = ScoreCombinerNet(hidden_dim=64).to(device)  # ← ScoreCombinerNet
     
     for name, param in backbone.backbone.named_parameters():
         if "layer4" in name: # Mở khóa layer cuối cùng của ResNet
@@ -325,7 +327,7 @@ def main():
     trainable_params = [
     {'params': filter(lambda p: p.requires_grad, backbone.parameters()), 'lr': args.lr * 0.1}, # Backbone chạy chậm
     {'params': relation.parameters(), 'lr': args.lr}, # RelationNet chạy tốc độ bình thường
-    {'params': linear_combiner.parameters(), 'lr': args.lr}  # ← LinearCombiner cùng tốc độ relation
+    {'params': score_combiner.parameters(), 'lr': args.lr}  # ← ScoreCombinerNet cùng tốc độ relation
 ]
 
     optimizer = optim.Adam(trainable_params, betas=(0.9, 0.999), eps=1e-8)
@@ -357,9 +359,9 @@ def main():
     print(f"🔥 RelationNet trainable params: {trainable:,}")
     print(f"📦 RelationNet total params:     {total:,}")
     
-    # Debug: Print LinearScoreCombiner status
-    print(f"⚖️ LinearScoreCombiner weights (before training): {linear_combiner.log_weights.data}")
-    print(f"⚖️ LinearScoreCombiner normalized weights: {torch.softmax(linear_combiner.log_weights, dim=0).data}")
+    # Debug: Print ScoreCombinerNet status
+    print(f"🧠 ScoreCombinerNet initialized (hidden_dim=64)")
+    print(f"🧠 ScoreCombinerNet params: {sum(p.numel() for p in score_combiner.parameters()):,}")
     
     # --- KHỞI TẠO LOSS và TẠO DUMMY CLIPS NẾU THIẾU ---
     # Auto-generate dummy CLIP embeddings nếu files bị thiếu
@@ -413,7 +415,7 @@ def main():
         epoch_start = time.time()
         backbone.train()
         relation.train()
-        linear_combiner.train()  # ← Set linear_combiner to training mode
+        score_combiner.train()  # ← Set score_combiner to training mode
         '''
         # --- LOGIC CHUYỂN ĐỔI PHASE ---
         if epoch < phase1_end:
@@ -433,27 +435,27 @@ def main():
             sampler = ClassSpecificBatchSampler(train_labels, args.batch_size)
             loader = DataLoader(train_set, batch_sampler=sampler)
         elif epoch < phase2_end:
-            # Phase 2: Dùng HybridHardRelationSampler (Hard Negative Mining từ JSON)
-            phase_name = "Phase 2: Discrimination (Hard Negative Mining)"
-            hybrid_sampler = HybridHardRelationSampler(
+            # Phase 2: Discrimination (25% same class + 75% random negatives)
+            phase_name = "Phase 2: Discrimination (25% Same Class)"
+            balanced_sampler_p2 = HybridHardRelationSampler(
                 train_set,
                 batch_size=args.batch_size,
-                pos_fraction=0.25,  # 25% positive (same class)
-                hard_neg_fraction=0.9,  # 90% hard negatives (từ JSON neighbors)
-                sim_matrix=hard_sim_map  # Bản đồ neighbors từ JSON
+                pos_fraction=0.01,      # 25% ảnh cùng loài
+                hard_neg_fraction=0.7,   # 0% hard negatives từ JSON (lấy random)
+                sim_matrix=None          # Không dùng JSON neighbors
             )
-            loader = DataLoader(train_set, batch_sampler=hybrid_sampler, num_workers=4, pin_memory=True)
+            loader = DataLoader(train_set, batch_sampler=balanced_sampler_p2, num_workers=4, pin_memory=True)
         else:
-            # Phase 3: Vẫn dùng Balanced Sampler (giữ độ ổn định)
-            phase_name = "Phase 3: Regularization (Balanced 50/50)"
-            balanced_sampler = HybridHardRelationSampler(
+            # Phase 3: Regularization (15% same class + 85% random negatives)
+            phase_name = "Phase 3: Regularization (15% Same Class)"
+            balanced_sampler_p3 = HybridHardRelationSampler(
                 train_set, 
                 batch_size=args.batch_size, 
-                pos_fraction=0.25,      # 8/32 ảnh cùng loài
-                hard_neg_fraction=0.0,   # Tắt Hard Negative để nó lấy random cho ổn định (Regularization)
-                sim_matrix=None          # Không cần truyền ma trận tương đồng
+                pos_fraction=0.005,      # 15% ảnh cùng loài
+                hard_neg_fraction=0.3,   # 0% hard negatives từ JSON (lấy random)
+                sim_matrix=None          # Không dùng JSON neighbors
             )
-            loader = DataLoader(train_set, batch_sampler=balanced_sampler, num_workers=4, pin_memory=True)
+            loader = DataLoader(train_set, batch_sampler=balanced_sampler_p3, num_workers=4, pin_memory=True)
         print(f"\nEpoch {epoch+1}/{args.epochs} | {phase_name}")
         print(f"   📦 DataLoader có {len(loader)} batches")
         sys.stdout.flush()
@@ -510,7 +512,7 @@ def main():
             scores1=relation(feat1, feat2)
             scores2 = relation(global_feat1, global_feat2)
             score3 = relation(combined_patch_feat1, combined_patch_feat2)
-            scores = linear_combiner(scores1, scores2, score3)  # ← Kết hợp 3 scores
+            scores = score_combiner(scores1, scores2, score3)  # ← Kết hợp 3 scores bằng neural network
             # Build rank tensors by looking up idx -> rank from sorted json (default 0)
             rank_vals1 = [_get_rank_for_index(i) for i in idx1]
             rank_vals2 = [_get_rank_for_index(i) for i in idx2]
@@ -583,7 +585,7 @@ def main():
     suffix = "_10class" if args.test_10_classes else "_full"
     torch.save(backbone.state_dict(), f'weights/backbone{suffix}.pth')
     torch.save(relation.state_dict(), f'weights/relation{suffix}.pth')
-    torch.save(linear_combiner.state_dict(), f'weights/linear_combiner{suffix}.pth')  # ← Lưu LinearCombiner
+    torch.save(score_combiner.state_dict(), f'weights/score_combiner{suffix}.pth')  # ← Lưu ScoreCombinerNet
     
     print(f"✅ Đã lưu model tại thư mục weights/ (suffix: {suffix})")
     print(f"⏱️ Tổng thời gian train: {(time.time() - total_start_time)/60:.1f} phút")

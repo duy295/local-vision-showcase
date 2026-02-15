@@ -7,26 +7,44 @@ from backbone.relation_net import BilinearRelationNet
 from backbone.loss import StructureAwareClipLoss
 from utils.samplers import ClassSpecificBatchSampler
 
-# --- LINEAR SCORE COMBINER (match main.py) ---
+# --- SCORE COMBINER NEURAL NETWORK (match main.py) ---
+class ScoreCombinerNet(torch.nn.Module):
+    """Kết hợp 3 scores từ các branch khác nhau bằng neural network."""
+    def __init__(self, hidden_dim=64):
+        super().__init__()
+        self.net = torch.nn.Sequential(
+            torch.nn.Linear(3, hidden_dim),
+            torch.nn.ReLU(),
+            torch.nn.Dropout(0.2),
+            torch.nn.Linear(hidden_dim, hidden_dim // 2),
+            torch.nn.ReLU(),
+            torch.nn.Linear(hidden_dim // 2, 1)  # Output raw score (không sigmoid)
+        )
+    
+    def forward(self, scores1, scores2, scores3):
+        combined_input = torch.stack([scores1, scores2, scores3], dim=1)
+        output = self.net(combined_input)
+        return torch.clamp(output.squeeze(-1), 0, 1)  # Clamp [0, 1]
+
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
-def test_single_pair(path_img1, path_img2, backbone_weight_path, relation_weight_path, linear_combiner_weight_path=None):
+def test_single_pair(path_img1, path_img2, backbone_weight_path, relation_weight_path, score_combiner_weight_path=None):
     # 1. Khởi tạo lại Models (đảm bảo trùng cấu trúc khi train)
     backbone = HybridResNetBackbone().to(device)
     relation = BilinearRelationNet().to(device)
-    linear_combiner = LinearScoreCombiner().to(device)
+    score_combiner = ScoreCombinerNet(hidden_dim=64).to(device)
     
     # 2. Load Weights đã lưu (separate files)
     if backbone_weight_path and torch.cuda.is_available() or True:
         backbone.load_state_dict(torch.load(backbone_weight_path, map_location=device))
     if relation_weight_path:
         relation.load_state_dict(torch.load(relation_weight_path, map_location=device))
-    if linear_combiner_weight_path:
-        linear_combiner.load_state_dict(torch.load(linear_combiner_weight_path, map_location=device))
+    if score_combiner_weight_path:
+        score_combiner.load_state_dict(torch.load(score_combiner_weight_path, map_location=device))
     
     backbone.eval()
     relation.eval()
-    linear_combiner.eval()
+    score_combiner.eval()
 
     # 3. Preprocess ảnh
     transform = transforms.Compose([
@@ -49,8 +67,8 @@ def test_single_pair(path_img1, path_img2, backbone_weight_path, relation_weight
         scores2 = relation(global_feat1, global_feat2)                      # Global features score
         score3 = relation(combined_patch_feat1, combined_patch_feat2)       # Combined patches score
         
-        # Kết hợp 3 scores bằng learnable weights
-        score = linear_combiner(scores1, scores2, score3)
+        # Kết hợp 3 scores bằng neural network
+        score = score_combiner(scores1, scores2, score3)
         
     print(f"--- KẾT QUẢ TEST ---")
     img1_path = r"E:\DATASET-FSCIL\CUB_200_2011 - Copy\images\001.Black_footed_Albatross\Black_Footed_Albatross_0074_59.jpg"
@@ -71,5 +89,5 @@ test_single_pair(
     path_img2=r"E:\DATASET-FSCIL\CUB_200_2011 - Copy\images\002.Laysan_Albatross\Laysan_Albatross_0035_876.jpg",
     backbone_weight_path="weights/backbone_full.pth",
     relation_weight_path="weights/relation_full.pth",
-    linear_combiner_weight_path="weights/linear_combiner_full.pth"
+    score_combiner_weight_path="weights/score_combiner_full.pth"
 )
