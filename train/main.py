@@ -25,36 +25,24 @@ from torchvision import transforms
 
 # --- SCORE COMBINER NEURAL NETWORK ---
 class ScoreCombinerNet(torch.nn.Module):
-    """Kết hợp 3 scores từ các branch khác nhau bằng neural network.
-    Học được non-linear relationships giữa 3 scores để sinh ra final score.
-    """
     def __init__(self, hidden_dim=64):
         super().__init__()
         self.net = torch.nn.Sequential(
-            torch.nn.Linear(3, hidden_dim),              # 3 scores -> hidden
+            torch.nn.Linear(3, hidden_dim),
             torch.nn.ReLU(),
-            torch.nn.Dropout(0.2),
+            torch.nn.Dropout(0.3),              # Tăng Dropout để chống học vẹt
             torch.nn.Linear(hidden_dim, hidden_dim // 2),
             torch.nn.ReLU(),
-            torch.nn.Linear(hidden_dim // 2, 1)  # Output raw score (không sigmoid)
+            torch.nn.Linear(hidden_dim // 2, 1)
         )
     
     def forward(self, scores1, scores2, scores3):
-        """
-        Args:
-            scores1: Similarity scores từ local features [batch_size]
-            scores2: Similarity scores từ global features [batch_size]
-            scores3: Similarity scores từ combined patches [batch_size]
-        Returns:
-            combined_score: Kết hợp 3 scores [0, 1] [batch_size]
-        """
-        # Stack 3 scores thành [batch_size, 3]
         combined_input = torch.stack([scores1, scores2, scores3], dim=1)
-        # Đưa qua neural network
-        output = self.net(combined_input)  # [batch_size, 1]
-        # Clamp output về [0, 1] để match input range
-        return torch.clamp(output.squeeze(-1), 0, 1)  # [batch_size]
-
+        output = self.net(combined_input).squeeze(-1)
+        
+        # THAY THẾ CLAMP BẰNG SIGMOID CÓ GIỚI HẠN (SCALING)
+        # 0.98 là "trần" thực tế, giúp model luôn còn dư địa để học
+        return torch.sigmoid(output) * 0.98
 # --- DATASET IMPORT HOẶC FALLBACK ---
 try:
     from utils.data_loader import CUB200_First10, CUB200_Full
@@ -330,7 +318,10 @@ def main():
     {'params': score_combiner.parameters(), 'lr': args.lr}  # ← ScoreCombinerNet cùng tốc độ relation
 ]
 
-    optimizer = optim.Adam(trainable_params, betas=(0.9, 0.999), eps=1e-8)
+    optimizer = optim.Adam(trainable_params, 
+                       betas=(0.9, 0.999), 
+                       eps=1e-8, 
+                       weight_decay=1e-5)
     # Debug: verify models are on the expected device and show basic GPU memory usage
     try:
         print("Backbone device:", next(backbone.parameters()).device)

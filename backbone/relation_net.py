@@ -54,4 +54,4 @@ class BilinearRelationNet(nn.Module):
         # Quan trọng: Không dùng clamp ngay, để xem giá trị thực tế
         final_score = self.alpha * s_math + self.beta * s_learn
 
-        return torch.clamp(final_score, 0.0, 1.0)
+        return torch.sigmoid(final_score * 2) * 0.98  # Đảm bảo output luôn < 1.0
