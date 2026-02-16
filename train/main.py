@@ -436,11 +436,11 @@ def main():
             loader = DataLoader(train_set, batch_sampler=sampler)
         elif epoch < phase2_end:
             # Phase 2: Discrimination (25% same class + 75% random negatives)
-            phase_name = "Phase 2: Discrimination (25% Same Class)"
+            phase_name = "Phase 2: Discrimination (65% Same Class)"
             balanced_sampler_p2 = HybridHardRelationSampler(
                 train_set,
                 batch_size=args.batch_size,
-                pos_fraction=0.25,        # 25% Cùng loài
+                pos_fraction=0.65,        # 25% Cùng loài
                 hard_neg_fraction=0.7,    # 70% Hard Negative (từ JSON)
                 sim_matrix=sim_matrix,
                 num_batches=200           # <--- ÉP CỨNG 200 BATCH

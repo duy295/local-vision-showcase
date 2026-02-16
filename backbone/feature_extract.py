@@ -1,3 +1,4 @@
+from unicodedata import name
 import torch
 import torch.nn as nn
 import torchvision.models as models
@@ -7,12 +8,16 @@ class HybridResNetBackbone(nn.Module):
         super(HybridResNetBackbone, self).__init__()
         
         # Load ResNet50
-        resnet = models.resnet50(weights='DEFAULT')
+        resnet = models.resnet50(pretrained=True)
         # Bỏ lớp FC cuối, giữ lại đến Average Pool -> ra vector 2048
         self.backbone = nn.Sequential(*list(resnet.children())[:-1])
          # ❄️ FREEZE toàn bộ ResNet
-        for p in self.backbone.parameters():
-            p.requires_grad = False
+        for name, p in self.backbone.named_parameters():
+    # Thường backbone[6] là Layer 3, backbone[7] là Layer 4 trong Sequential
+            if "6" in name or "7" in name: 
+                p.requires_grad = True
+            else:
+                p.requires_grad = False
         # Linear để giảm chiều về output_dim (ví dụ 512 cho nhẹ)
         self.projector = nn.Linear(2048, output_dim)
         
