@@ -1,14 +1,11 @@
-
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
 
 class BilinearRelationNet(nn.Module):
-    def __init__(self, input_dim=512, hidden_dim=256, epsilon=1e-15):
+    def __init__(self, input_dim=512, hidden_dim=256):
         super(BilinearRelationNet, self).__init__()
-        self.epsilon = epsilon
-        
-        # 1. Learnable Projection: Chuẩn bị đặc trưng tốt nhất trước khi đưa vào Fuzzy
+        # --- GIỮ NGUYÊN KHỐI NÀY ĐỂ LOAD ĐƯỢC WEIGHT ---
         self.proj = nn.Sequential(
             nn.Linear(input_dim, hidden_dim),
             nn.BatchNorm1d(hidden_dim),
@@ -16,63 +13,45 @@ class BilinearRelationNet(nn.Module):
             nn.Linear(hidden_dim, hidden_dim // 2),
             nn.ReLU()
         )
-        
-        # 2. Học cách kết hợp: Thay vì chỉ lấy kết quả toán học thuần túy,
-        # model sẽ học cách "tin" vào toán học bao nhiêu phần trăm.
-        self.alpha = nn.Parameter(torch.tensor([0.75])) # Trọng số cho Fuzzy toán học
-        self.beta = nn.Parameter(torch.tensor([0.25]))  # Trọng số cho Bilinear học được
-        
-        # 3. Phần học bổ trợ (Bilinear) - Giúp bù đắp những gì toán học thuần túy bỏ sót
-        # Input: concatenate [f_mul, f_dist, f_add] từ h1, h2 (mỗi cái hidden_dim // 2 = 128)
-        # So 128 * 3 = 384
+        self.alpha = nn.Parameter(torch.tensor([0.75])) 
+        self.beta = nn.Parameter(torch.tensor([0.25]))  
         self.bilinear_refiner = nn.Sequential(
-            nn.Linear(hidden_dim // 2 * 3, 64),  # 128*3 = 384 -> 64
+            nn.Linear(hidden_dim // 2 * 3, 64), 
             nn.ReLU(),
             nn.Linear(64, 1)
         )
-
-    def compute_fuzzy_score(self, X1, X2):
-        """
-        Đây chính là logic toán học chuẩn từ bài báo của sư đệ.
-        Thực hiện Cosine Similarity bằng ma trận để đảm bảo tính đối xứng.
-        """
-        # S = X1 * X2^T
-        S = torch.mm(X1, X2.t())
-        
-        # Tính chuẩn (Norms) cho X1
-        D1 = torch.sqrt(torch.diag(torch.mm(X1, X1.t())))
-        D1 = 1.0 / torch.clamp(D1, min=self.epsilon)
-        D1 = torch.diag_embed(D1)
-        
-        # Tính chuẩn (Norms) cho X2
-        D2 = torch.sqrt(torch.diag(torch.mm(X2, X2.t())))
-        D2 = 1.0 / torch.clamp(D2, min=self.epsilon)
-        D2 = torch.diag_embed(D2)
-        
-        # Kết quả S = D1 * S * D2 (Chuẩn hóa về dải [0, 1])
-        S_fuzzy = torch.mm(torch.mm(D1, S), D2)
-        return torch.clamp(S_fuzzy, 0.0, 1.0)
+        # -----------------------------------------------
 
     def forward(self, x1, x2):
-        # Bước 1: Trích xuất đặc trưng mới qua Projection
+        """
+        x1, x2: Input features (Batch_size, Input_dim)
+        """
+        # 1. Làm phẳng (Flatten) nếu đầu vào là 4D (ví dụ patch feature)
+        if x1.dim() > 2:
+            x1 = x1.view(x1.size(0), -1)
+        if x2.dim() > 2:
+            x2 = x2.view(x2.size(0), -1)
+
+        # 2. Projection (Đưa về không gian chung)
         h1 = self.proj(x1)
         h2 = self.proj(x2)
-        
-        # Bước 2: Tính toán Score theo kiểu TOÁN HỌC (Fuzzy)
-        # Vì forward của chúng ta nhận cặp (x1, x2) tương ứng, ta lấy đường chéo của ma trận S
-        fuzzy_mat = self.compute_fuzzy_score(h1, h2)
-        s_math = torch.diag(fuzzy_mat) # Lấy score của từng cặp tương ứng
-        
-        # Bước 3: Tính toán Score theo kiểu HỌC MÁY (Bilinear Features)
+
+        # 3. Tính Score Toán học (Thay thế ma trận phức tạp bằng Cosine Similarity chuẩn)
+        # F.cosine_similarity tự động chuẩn hóa vector, kết quả từ -1 đến 1
+        # Ta dùng (s + 1) / 2 để đưa về [0, 1]
+        s_math = (F.cosine_similarity(h1, h2, dim=1) + 1.0) / 2.0
+
+        # 4. Tính Score Học máy (Bilinear)
         f_mul = h1 * h2
         f_dist = torch.abs(h1 - h2)
         f_add = h1 + h2
         combined = torch.cat([f_mul, f_dist, f_add], dim=1)
-        s_learn = self.bilinear_refiner(combined).view(-1)
         
-        # Bước 4: Kết hợp cả hai (Hybrid)
-        # Sư huynh dùng Sigmoid cho phần learn để nó về [0, 1] đồng bộ với Fuzzy
-        # Sau đó dùng trọng số alpha, beta để model tự cân bằng.
-        final_score = self.alpha * s_math + self.beta * torch.sigmoid(s_learn)
-        
+        # Output của refiner có thể rất lớn, ta dùng Sigmoid để ép về [0, 1]
+        s_learn = torch.sigmoid(self.bilinear_refiner(combined).view(-1))
+
+        # 5. Kết hợp (Weighted Sum)
+        # Quan trọng: Không dùng clamp ngay, để xem giá trị thực tế
+        final_score = self.alpha * s_math + self.beta * s_learn
+
         return torch.clamp(final_score, 0.0, 1.0)

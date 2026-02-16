@@ -449,12 +449,12 @@ def main():
             loader = DataLoader(train_set, batch_sampler=balanced_sampler_p2, num_workers=4, pin_memory=True)
         else:
             # Phase 3: Regularization (15% same class + 85% random negatives)
-            phase_name = "Phase 3: Regularization (15% Same Class)"
+            phase_name = "Phase 3: Regularization (50% Same Class)"
             balanced_sampler_p3 = HybridHardRelationSampler(
                  train_set,
                     batch_size=args.batch_size,
-                    pos_fraction=0.15,        # 15% Cùng loài
-                    hard_neg_fraction=0.3,    # Giảm Hard Negative xuống còn 30%
+                    pos_fraction=0.5,        # 15% Cùng loài
+                    hard_neg_fraction=0.5,    # Giảm Hard Negative xuống còn 30%
                     sim_matrix=sim_matrix,
                     num_batches=200           # <--- ÉP CỨNG 200 BATCH
                     )

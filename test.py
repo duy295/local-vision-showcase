@@ -84,9 +84,9 @@ def test_single_pair(path_img1, path_img2, backbone_weight_path, relation_weight
 
 # --- CHẠY THỬ ---
 test_single_pair(
-    path_img1=r"E:\DATASET-FSCIL\CUB_200_2011 - Copy\images\001.Black_footed_Albatross\Black_Footed_Albatross_0074_59.jpg",
+    path_img1=r"E:\DATASET-FSCIL\CUB_200_2011\images\001.Black_footed_Albatross\Black_Footed_Albatross_0074_59.jpg",
     #path_img2=r"E:\DATASET-FSCIL\CUB_200_2011\images\001.Black_footed_Albatross\Black_Footed_Albatross_0076_417.jpg",
-    path_img2=r"E:\DATASET-FSCIL\CUB_200_2011 - Copy\images\002.Laysan_Albatross\Laysan_Albatross_0035_876.jpg",
+    path_img2=r"E:\DATASET-FSCIL\CUB_200_2011\images\002.Laysan_Albatross\Laysan_Albatross_0035_876.jpg",
     backbone_weight_path="weights/backbone_full.pth",
     relation_weight_path="weights/relation_full.pth",
     score_combiner_weight_path="weights/score_combiner_full.pth"

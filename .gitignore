@@ -2,7 +2,9 @@
 env/
 venv/
 .venv/
-
+E:/DATASET-FSCIL/
+Ec_result/
+weights/
 # Không đẩy Dataset nặng (Sửa tên theo folder của sư đệ)
 CUB_200_2011/
 images/

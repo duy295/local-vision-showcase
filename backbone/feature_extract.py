@@ -7,7 +7,7 @@ class HybridResNetBackbone(nn.Module):
         super(HybridResNetBackbone, self).__init__()
         
         # Load ResNet50
-        resnet = models.resnet50(pretrained=True)
+        resnet = models.resnet50(weights='DEFAULT')
         # Bỏ lớp FC cuối, giữ lại đến Average Pool -> ra vector 2048
         self.backbone = nn.Sequential(*list(resnet.children())[:-1])
          # ❄️ FREEZE toàn bộ ResNet
