@@ -1,0 +1,154 @@
+{
+  "class_name": "141.Artic_Tern",
+  "class_idx": 140,
+  "num_images_in_class": 29,
+  "ec_size_requested": 30,
+  "ec_size_actual": 29,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\141.Artic_Tern\\Artic_Tern_0085_142083.jpg",
+      "mean_similarity": 0.9478663206100464,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\141.Artic_Tern\\Artic_Tern_0073_143486.jpg",
+      "mean_similarity": 0.9474483132362366,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\141.Artic_Tern\\Artic_Tern_0032_141313.jpg",
+      "mean_similarity": 0.9473058581352234,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\141.Artic_Tern\\Artic_Tern_0089_141652.jpg",
+      "mean_similarity": 0.9469467401504517,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\141.Artic_Tern\\Artic_Tern_0050_140887.jpg",
+      "mean_similarity": 0.9469329118728638,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\141.Artic_Tern\\Artic_Tern_0116_143613.jpg",
+      "mean_similarity": 0.9464528560638428,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\141.Artic_Tern\\Artic_Tern_0055_141524.jpg",
+      "mean_similarity": 0.9460949897766113,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\141.Artic_Tern\\Artic_Tern_0047_143549.jpg",
+      "mean_similarity": 0.9460564255714417,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\141.Artic_Tern\\Artic_Tern_0133_141069.jpg",
+      "mean_similarity": 0.9457276463508606,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\141.Artic_Tern\\Artic_Tern_0101_141075.jpg",
+      "mean_similarity": 0.945656418800354,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\141.Artic_Tern\\Artic_Tern_0063_142495.jpg",
+      "mean_similarity": 0.9454967975616455,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\141.Artic_Tern\\Artic_Tern_0099_141170.jpg",
+      "mean_similarity": 0.944969654083252,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\141.Artic_Tern\\Artic_Tern_0039_141390.jpg",
+      "mean_similarity": 0.9447099566459656,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\141.Artic_Tern\\Artic_Tern_0021_143477.jpg",
+      "mean_similarity": 0.9446260333061218,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\141.Artic_Tern\\Artic_Tern_0052_143244.jpg",
+      "mean_similarity": 0.9442631006240845,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\141.Artic_Tern\\Artic_Tern_0090_143583.jpg",
+      "mean_similarity": 0.9434271454811096,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\141.Artic_Tern\\Artic_Tern_0105_141098.jpg",
+      "mean_similarity": 0.9432299733161926,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\141.Artic_Tern\\Artic_Tern_0026_141839.jpg",
+      "mean_similarity": 0.9431288838386536,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\141.Artic_Tern\\Artic_Tern_0046_140986.jpg",
+      "mean_similarity": 0.9427762031555176,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\141.Artic_Tern\\Artic_Tern_0012_143410.jpg",
+      "mean_similarity": 0.9425711631774902,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\141.Artic_Tern\\Artic_Tern_0122_142448.jpg",
+      "mean_similarity": 0.941237211227417,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\141.Artic_Tern\\Artic_Tern_0056_141858.jpg",
+      "mean_similarity": 0.94109046459198,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\141.Artic_Tern\\Artic_Tern_0080_140889.jpg",
+      "mean_similarity": 0.9403088688850403,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\141.Artic_Tern\\Artic_Tern_0112_141893.jpg",
+      "mean_similarity": 0.9402369260787964,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\141.Artic_Tern\\Artic_Tern_0124_142121.jpg",
+      "mean_similarity": 0.9399212598800659,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\141.Artic_Tern\\Artic_Tern_0092_141849.jpg",
+      "mean_similarity": 0.9382172226905823,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\141.Artic_Tern\\Artic_Tern_0065_141472.jpg",
+      "mean_similarity": 0.9362238645553589,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\141.Artic_Tern\\Artic_Tern_0111_143101.jpg",
+      "mean_similarity": 0.9266799092292786,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\141.Artic_Tern\\Artic_Tern_0107_141181.jpg",
+      "mean_similarity": 0.9075906276702881,
+      "rank": 29
+    }
+  ]
+}

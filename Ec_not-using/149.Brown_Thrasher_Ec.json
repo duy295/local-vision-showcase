@@ -1,0 +1,159 @@
+{
+  "class_name": "149.Brown_Thrasher",
+  "class_idx": 148,
+  "num_images_in_class": 30,
+  "ec_size_requested": 30,
+  "ec_size_actual": 30,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\149.Brown_Thrasher\\Brown_Thrasher_0010_155231.jpg",
+      "mean_similarity": 0.9488003253936768,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\149.Brown_Thrasher\\Brown_Thrasher_0012_155121.jpg",
+      "mean_similarity": 0.948054850101471,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\149.Brown_Thrasher\\Brown_Thrasher_0013_155329.jpg",
+      "mean_similarity": 0.9477511644363403,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\149.Brown_Thrasher\\Brown_Thrasher_0105_155187.jpg",
+      "mean_similarity": 0.9470865726470947,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\149.Brown_Thrasher\\Brown_Thrasher_0079_155394.jpg",
+      "mean_similarity": 0.9467097520828247,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\149.Brown_Thrasher\\Brown_Thrasher_0034_155139.jpg",
+      "mean_similarity": 0.9465107321739197,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\149.Brown_Thrasher\\Brown_Thrasher_0030_155152.jpg",
+      "mean_similarity": 0.946331799030304,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\149.Brown_Thrasher\\Brown_Thrasher_0112_155183.jpg",
+      "mean_similarity": 0.9442690014839172,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\149.Brown_Thrasher\\Brown_Thrasher_0072_155406.jpg",
+      "mean_similarity": 0.9433981776237488,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\149.Brown_Thrasher\\Brown_Thrasher_0052_155254.jpg",
+      "mean_similarity": 0.9425244927406311,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\149.Brown_Thrasher\\Brown_Thrasher_0121_155320.jpg",
+      "mean_similarity": 0.9424517154693604,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\149.Brown_Thrasher\\Brown_Thrasher_0033_155156.jpg",
+      "mean_similarity": 0.9420704245567322,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\149.Brown_Thrasher\\Brown_Thrasher_0069_155151.jpg",
+      "mean_similarity": 0.9411278963088989,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\149.Brown_Thrasher\\Brown_Thrasher_0095_155082.jpg",
+      "mean_similarity": 0.9409669041633606,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\149.Brown_Thrasher\\Brown_Thrasher_0006_155106.jpg",
+      "mean_similarity": 0.9402850270271301,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\149.Brown_Thrasher\\Brown_Thrasher_0100_155129.jpg",
+      "mean_similarity": 0.9394084215164185,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\149.Brown_Thrasher\\Brown_Thrasher_0019_155216.jpg",
+      "mean_similarity": 0.9393171072006226,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\149.Brown_Thrasher\\Brown_Thrasher_0119_155170.jpg",
+      "mean_similarity": 0.9385263919830322,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\149.Brown_Thrasher\\Brown_Thrasher_0085_155445.jpg",
+      "mean_similarity": 0.9381765127182007,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\149.Brown_Thrasher\\Brown_Thrasher_0074_155339.jpg",
+      "mean_similarity": 0.9380161762237549,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\149.Brown_Thrasher\\Brown_Thrasher_0093_155309.jpg",
+      "mean_similarity": 0.9379863142967224,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\149.Brown_Thrasher\\Brown_Thrasher_0106_155083.jpg",
+      "mean_similarity": 0.9374547004699707,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\149.Brown_Thrasher\\Brown_Thrasher_0081_155256.jpg",
+      "mean_similarity": 0.9369761347770691,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\149.Brown_Thrasher\\Brown_Thrasher_0001_155380.jpg",
+      "mean_similarity": 0.936488151550293,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\149.Brown_Thrasher\\Brown_Thrasher_0021_155160.jpg",
+      "mean_similarity": 0.9352546334266663,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\149.Brown_Thrasher\\Brown_Thrasher_0051_155344.jpg",
+      "mean_similarity": 0.9352526068687439,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\149.Brown_Thrasher\\Brown_Thrasher_0045_155182.jpg",
+      "mean_similarity": 0.9338036179542542,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\149.Brown_Thrasher\\Brown_Thrasher_0009_155221.jpg",
+      "mean_similarity": 0.9311516880989075,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\149.Brown_Thrasher\\Brown_Thrasher_0026_155438.jpg",
+      "mean_similarity": 0.930980920791626,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\149.Brown_Thrasher\\Brown_Thrasher_0126_155199.jpg",
+      "mean_similarity": 0.893680989742279,
+      "rank": 30
+    }
+  ]
+}

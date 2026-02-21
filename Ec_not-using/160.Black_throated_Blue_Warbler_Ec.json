@@ -1,0 +1,159 @@
+{
+  "class_name": "160.Black_throated_Blue_Warbler",
+  "class_idx": 159,
+  "num_images_in_class": 30,
+  "ec_size_requested": 30,
+  "ec_size_actual": 30,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\160.Black_throated_Blue_Warbler\\Black_Throated_Blue_Warbler_0060_161644.jpg",
+      "mean_similarity": 0.946361780166626,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\160.Black_throated_Blue_Warbler\\Black_Throated_Blue_Warbler_0054_161158.jpg",
+      "mean_similarity": 0.9455727934837341,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\160.Black_throated_Blue_Warbler\\Black_Throated_Blue_Warbler_0042_161512.jpg",
+      "mean_similarity": 0.9437905550003052,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\160.Black_throated_Blue_Warbler\\Black_Throated_Blue_Warbler_0108_161714.jpg",
+      "mean_similarity": 0.9433450102806091,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\160.Black_throated_Blue_Warbler\\Black_Throated_Blue_Warbler_0123_161542.jpg",
+      "mean_similarity": 0.9430537223815918,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\160.Black_throated_Blue_Warbler\\Black_Throated_Blue_Warbler_0126_161724.jpg",
+      "mean_similarity": 0.9424083828926086,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\160.Black_throated_Blue_Warbler\\Black_Throated_Blue_Warbler_0106_161523.jpg",
+      "mean_similarity": 0.9423023462295532,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\160.Black_throated_Blue_Warbler\\Black_Throated_Blue_Warbler_0061_161667.jpg",
+      "mean_similarity": 0.9416689276695251,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\160.Black_throated_Blue_Warbler\\Black_Throated_Blue_Warbler_0083_161462.jpg",
+      "mean_similarity": 0.9414279460906982,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\160.Black_throated_Blue_Warbler\\Black_Throated_Blue_Warbler_0006_161557.jpg",
+      "mean_similarity": 0.9412341713905334,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\160.Black_throated_Blue_Warbler\\Black_Throated_Blue_Warbler_0043_161438.jpg",
+      "mean_similarity": 0.9410440921783447,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\160.Black_throated_Blue_Warbler\\Black_Throated_Blue_Warbler_0005_161168.jpg",
+      "mean_similarity": 0.9408437013626099,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\160.Black_throated_Blue_Warbler\\Black_Throated_Blue_Warbler_0050_161154.jpg",
+      "mean_similarity": 0.9408323168754578,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\160.Black_throated_Blue_Warbler\\Black_Throated_Blue_Warbler_0053_161684.jpg",
+      "mean_similarity": 0.9397664666175842,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\160.Black_throated_Blue_Warbler\\Black_Throated_Blue_Warbler_0017_161220.jpg",
+      "mean_similarity": 0.939682126045227,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\160.Black_throated_Blue_Warbler\\Black_Throated_Blue_Warbler_0024_161619.jpg",
+      "mean_similarity": 0.9393673539161682,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\160.Black_throated_Blue_Warbler\\Black_Throated_Blue_Warbler_0121_161418.jpg",
+      "mean_similarity": 0.9393422603607178,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\160.Black_throated_Blue_Warbler\\Black_Throated_Blue_Warbler_0063_161213.jpg",
+      "mean_similarity": 0.9389513731002808,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\160.Black_throated_Blue_Warbler\\Black_Throated_Blue_Warbler_0133_161539.jpg",
+      "mean_similarity": 0.9385891556739807,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\160.Black_throated_Blue_Warbler\\Black_Throated_Blue_Warbler_0004_161404.jpg",
+      "mean_similarity": 0.9373793601989746,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\160.Black_throated_Blue_Warbler\\Black_Throated_Blue_Warbler_0090_161507.jpg",
+      "mean_similarity": 0.9350408315658569,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\160.Black_throated_Blue_Warbler\\Black_Throated_Blue_Warbler_0002_161533.jpg",
+      "mean_similarity": 0.9349333643913269,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\160.Black_throated_Blue_Warbler\\Black_Throated_Blue_Warbler_0130_161682.jpg",
+      "mean_similarity": 0.9339780807495117,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\160.Black_throated_Blue_Warbler\\Black_Throated_Blue_Warbler_0010_161169.jpg",
+      "mean_similarity": 0.9331194758415222,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\160.Black_throated_Blue_Warbler\\Black_Throated_Blue_Warbler_0081_161427.jpg",
+      "mean_similarity": 0.9327544569969177,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\160.Black_throated_Blue_Warbler\\Black_Throated_Blue_Warbler_0016_161216.jpg",
+      "mean_similarity": 0.9317469000816345,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\160.Black_throated_Blue_Warbler\\Black_Throated_Blue_Warbler_0073_161558.jpg",
+      "mean_similarity": 0.9302045702934265,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\160.Black_throated_Blue_Warbler\\Black_Throated_Blue_Warbler_0137_161207.jpg",
+      "mean_similarity": 0.9293962121009827,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\160.Black_throated_Blue_Warbler\\Black_Throated_Blue_Warbler_0036_161517.jpg",
+      "mean_similarity": 0.9271765947341919,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\160.Black_throated_Blue_Warbler\\Black_Throated_Blue_Warbler_0037_161707.jpg",
+      "mean_similarity": 0.9239993095397949,
+      "rank": 30
+    }
+  ]
+}

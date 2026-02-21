@@ -1,0 +1,159 @@
+{
+  "class_name": "130.Tree_Sparrow",
+  "class_idx": 129,
+  "num_images_in_class": 30,
+  "ec_size_requested": 30,
+  "ec_size_actual": 30,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\130.Tree_Sparrow\\Tree_Sparrow_0097_123462.jpg",
+      "mean_similarity": 0.9464054107666016,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\130.Tree_Sparrow\\Tree_Sparrow_0035_123211.jpg",
+      "mean_similarity": 0.9462491869926453,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\130.Tree_Sparrow\\Tree_Sparrow_0123_125324.jpg",
+      "mean_similarity": 0.946148693561554,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\130.Tree_Sparrow\\Tree_Sparrow_0081_124348.jpg",
+      "mean_similarity": 0.9460461139678955,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\130.Tree_Sparrow\\Tree_Sparrow_0130_124932.jpg",
+      "mean_similarity": 0.946042001247406,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\130.Tree_Sparrow\\Tree_Sparrow_0086_123751.jpg",
+      "mean_similarity": 0.9458193778991699,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\130.Tree_Sparrow\\Tree_Sparrow_0060_123743.jpg",
+      "mean_similarity": 0.9457401633262634,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\130.Tree_Sparrow\\Tree_Sparrow_0057_123665.jpg",
+      "mean_similarity": 0.9456744194030762,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\130.Tree_Sparrow\\Tree_Sparrow_0119_124114.jpg",
+      "mean_similarity": 0.9454531073570251,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\130.Tree_Sparrow\\Tree_Sparrow_0046_125344.jpg",
+      "mean_similarity": 0.9454247951507568,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\130.Tree_Sparrow\\Tree_Sparrow_0022_123496.jpg",
+      "mean_similarity": 0.9451181292533875,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\130.Tree_Sparrow\\Tree_Sparrow_0039_124140.jpg",
+      "mean_similarity": 0.94483882188797,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\130.Tree_Sparrow\\Tree_Sparrow_0023_124956.jpg",
+      "mean_similarity": 0.9447459578514099,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\130.Tree_Sparrow\\Tree_Sparrow_0018_123574.jpg",
+      "mean_similarity": 0.9446507096290588,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\130.Tree_Sparrow\\Tree_Sparrow_0007_122911.jpg",
+      "mean_similarity": 0.9435338973999023,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\130.Tree_Sparrow\\Tree_Sparrow_0034_123799.jpg",
+      "mean_similarity": 0.9434152841567993,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\130.Tree_Sparrow\\Tree_Sparrow_0101_124104.jpg",
+      "mean_similarity": 0.9432402849197388,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\130.Tree_Sparrow\\Tree_Sparrow_0032_123489.jpg",
+      "mean_similarity": 0.9426504969596863,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\130.Tree_Sparrow\\Tree_Sparrow_0100_122945.jpg",
+      "mean_similarity": 0.9415831565856934,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\130.Tree_Sparrow\\Tree_Sparrow_0122_123927.jpg",
+      "mean_similarity": 0.9411818385124207,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\130.Tree_Sparrow\\Tree_Sparrow_0077_123417.jpg",
+      "mean_similarity": 0.941154420375824,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\130.Tree_Sparrow\\Tree_Sparrow_0108_124754.jpg",
+      "mean_similarity": 0.9398412704467773,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\130.Tree_Sparrow\\Tree_Sparrow_0125_123078.jpg",
+      "mean_similarity": 0.9394589066505432,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\130.Tree_Sparrow\\Tree_Sparrow_0052_123869.jpg",
+      "mean_similarity": 0.9361845850944519,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\130.Tree_Sparrow\\Tree_Sparrow_0129_124960.jpg",
+      "mean_similarity": 0.9355602860450745,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\130.Tree_Sparrow\\Tree_Sparrow_0041_123497.jpg",
+      "mean_similarity": 0.9352254867553711,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\130.Tree_Sparrow\\Tree_Sparrow_0094_124974.jpg",
+      "mean_similarity": 0.9324906468391418,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\130.Tree_Sparrow\\Tree_Sparrow_0107_123822.jpg",
+      "mean_similarity": 0.9259756803512573,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\130.Tree_Sparrow\\Tree_Sparrow_0074_124408.jpg",
+      "mean_similarity": 0.9251936674118042,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\130.Tree_Sparrow\\Tree_Sparrow_0121_124296.jpg",
+      "mean_similarity": 0.9145146608352661,
+      "rank": 30
+    }
+  ]
+}

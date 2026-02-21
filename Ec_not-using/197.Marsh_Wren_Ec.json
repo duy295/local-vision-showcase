@@ -1,0 +1,159 @@
+{
+  "class_name": "197.Marsh_Wren",
+  "class_idx": 196,
+  "num_images_in_class": 30,
+  "ec_size_requested": 30,
+  "ec_size_actual": 30,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\197.Marsh_Wren\\Marsh_Wren_0133_188565.jpg",
+      "mean_similarity": 0.9461458325386047,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\197.Marsh_Wren\\Marsh_Wren_0122_188323.jpg",
+      "mean_similarity": 0.9453587532043457,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\197.Marsh_Wren\\Marsh_Wren_0008_188533.jpg",
+      "mean_similarity": 0.9453031420707703,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\197.Marsh_Wren\\Marsh_Wren_0109_188329.jpg",
+      "mean_similarity": 0.9449946880340576,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\197.Marsh_Wren\\Marsh_Wren_0038_188530.jpg",
+      "mean_similarity": 0.9443823099136353,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\197.Marsh_Wren\\Marsh_Wren_0040_188252.jpg",
+      "mean_similarity": 0.9443774819374084,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\197.Marsh_Wren\\Marsh_Wren_0095_188371.jpg",
+      "mean_similarity": 0.9443284869194031,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\197.Marsh_Wren\\Marsh_Wren_0141_188796.jpg",
+      "mean_similarity": 0.9442135095596313,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\197.Marsh_Wren\\Marsh_Wren_0006_188126.jpg",
+      "mean_similarity": 0.9441080093383789,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\197.Marsh_Wren\\Marsh_Wren_0056_188241.jpg",
+      "mean_similarity": 0.9436469674110413,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\197.Marsh_Wren\\Marsh_Wren_0058_188107.jpg",
+      "mean_similarity": 0.9436333775520325,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\197.Marsh_Wren\\Marsh_Wren_0005_188235.jpg",
+      "mean_similarity": 0.9430364370346069,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\197.Marsh_Wren\\Marsh_Wren_0062_188158.jpg",
+      "mean_similarity": 0.942435085773468,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\197.Marsh_Wren\\Marsh_Wren_0033_188778.jpg",
+      "mean_similarity": 0.9419804215431213,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\197.Marsh_Wren\\Marsh_Wren_0068_188446.jpg",
+      "mean_similarity": 0.9412462115287781,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\197.Marsh_Wren\\Marsh_Wren_0012_188275.jpg",
+      "mean_similarity": 0.9411472678184509,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\197.Marsh_Wren\\Marsh_Wren_0089_188318.jpg",
+      "mean_similarity": 0.9404305815696716,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\197.Marsh_Wren\\Marsh_Wren_0103_188483.jpg",
+      "mean_similarity": 0.9401823878288269,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\197.Marsh_Wren\\Marsh_Wren_0118_188512.jpg",
+      "mean_similarity": 0.9399800896644592,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\197.Marsh_Wren\\Marsh_Wren_0027_188376.jpg",
+      "mean_similarity": 0.9394955635070801,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\197.Marsh_Wren\\Marsh_Wren_0097_188214.jpg",
+      "mean_similarity": 0.9381831288337708,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\197.Marsh_Wren\\Marsh_Wren_0018_188363.jpg",
+      "mean_similarity": 0.937454342842102,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\197.Marsh_Wren\\Marsh_Wren_0019_188460.jpg",
+      "mean_similarity": 0.9372698068618774,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\197.Marsh_Wren\\Marsh_Wren_0075_188549.jpg",
+      "mean_similarity": 0.936359703540802,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\197.Marsh_Wren\\Marsh_Wren_0036_188374.jpg",
+      "mean_similarity": 0.9356188774108887,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\197.Marsh_Wren\\Marsh_Wren_0044_188270.jpg",
+      "mean_similarity": 0.9346084594726562,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\197.Marsh_Wren\\Marsh_Wren_0039_188201.jpg",
+      "mean_similarity": 0.9329933524131775,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\197.Marsh_Wren\\Marsh_Wren_0014_188802.jpg",
+      "mean_similarity": 0.9327746629714966,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\197.Marsh_Wren\\Marsh_Wren_0107_188390.jpg",
+      "mean_similarity": 0.9247390031814575,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\197.Marsh_Wren\\Marsh_Wren_0094_188710.jpg",
+      "mean_similarity": 0.8884369134902954,
+      "rank": 30
+    }
+  ]
+}

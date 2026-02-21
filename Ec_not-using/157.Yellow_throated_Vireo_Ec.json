@@ -1,0 +1,159 @@
+{
+  "class_name": "157.Yellow_throated_Vireo",
+  "class_idx": 156,
+  "num_images_in_class": 30,
+  "ec_size_requested": 30,
+  "ec_size_actual": 30,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\157.Yellow_throated_Vireo\\Yellow_Throated_Vireo_0075_795004.jpg",
+      "mean_similarity": 0.9468371868133545,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\157.Yellow_throated_Vireo\\Yellow_Throated_Vireo_0009_794976.jpg",
+      "mean_similarity": 0.9465236663818359,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\157.Yellow_throated_Vireo\\Yellow_Throated_Vireo_0079_159576.jpg",
+      "mean_similarity": 0.9463570713996887,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\157.Yellow_throated_Vireo\\Yellow_Throated_Vireo_0073_159583.jpg",
+      "mean_similarity": 0.9463048577308655,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\157.Yellow_throated_Vireo\\Yellow_Throated_Vireo_0017_794988.jpg",
+      "mean_similarity": 0.9462560415267944,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\157.Yellow_throated_Vireo\\Yellow_Throated_Vireo_0003_794974.jpg",
+      "mean_similarity": 0.9462190866470337,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\157.Yellow_throated_Vireo\\Yellow_Throated_Vireo_0054_159635.jpg",
+      "mean_similarity": 0.9461852312088013,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\157.Yellow_throated_Vireo\\Yellow_Throated_Vireo_0066_795007.jpg",
+      "mean_similarity": 0.9461774230003357,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\157.Yellow_throated_Vireo\\Yellow_Throated_Vireo_0052_794973.jpg",
+      "mean_similarity": 0.9460977911949158,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\157.Yellow_throated_Vireo\\Yellow_Throated_Vireo_0036_159595.jpg",
+      "mean_similarity": 0.9457601308822632,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\157.Yellow_throated_Vireo\\Yellow_Throated_Vireo_0040_159624.jpg",
+      "mean_similarity": 0.9456985592842102,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\157.Yellow_throated_Vireo\\Yellow_Throated_Vireo_0070_159602.jpg",
+      "mean_similarity": 0.9453763365745544,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\157.Yellow_throated_Vireo\\Yellow_Throated_Vireo_0084_159639.jpg",
+      "mean_similarity": 0.9449694156646729,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\157.Yellow_throated_Vireo\\Yellow_Throated_Vireo_0046_159668.jpg",
+      "mean_similarity": 0.944866418838501,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\157.Yellow_throated_Vireo\\Yellow_Throated_Vireo_0028_795008.jpg",
+      "mean_similarity": 0.9447469711303711,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\157.Yellow_throated_Vireo\\Yellow_Throated_Vireo_0032_159632.jpg",
+      "mean_similarity": 0.9443130493164062,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\157.Yellow_throated_Vireo\\Yellow_Throated_Vireo_0077_159581.jpg",
+      "mean_similarity": 0.9442636966705322,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\157.Yellow_throated_Vireo\\Yellow_Throated_Vireo_0064_794992.jpg",
+      "mean_similarity": 0.9440067410469055,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\157.Yellow_throated_Vireo\\Yellow_Throated_Vireo_0029_794985.jpg",
+      "mean_similarity": 0.9439418315887451,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\157.Yellow_throated_Vireo\\Yellow_Throated_Vireo_0025_795009.jpg",
+      "mean_similarity": 0.9437964558601379,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\157.Yellow_throated_Vireo\\Yellow_Throated_Vireo_0035_794991.jpg",
+      "mean_similarity": 0.9435667991638184,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\157.Yellow_throated_Vireo\\Yellow_Throated_Vireo_0012_794977.jpg",
+      "mean_similarity": 0.9435437917709351,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\157.Yellow_throated_Vireo\\Yellow_Throated_Vireo_0078_159694.jpg",
+      "mean_similarity": 0.9408115744590759,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\157.Yellow_throated_Vireo\\Yellow_Throated_Vireo_0063_159677.jpg",
+      "mean_similarity": 0.9374781847000122,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\157.Yellow_throated_Vireo\\Yellow_Throated_Vireo_0006_159693.jpg",
+      "mean_similarity": 0.9331437349319458,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\157.Yellow_throated_Vireo\\Yellow_Throated_Vireo_0058_794994.jpg",
+      "mean_similarity": 0.9321838617324829,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\157.Yellow_throated_Vireo\\Yellow_Throated_Vireo_0080_794990.jpg",
+      "mean_similarity": 0.9311519265174866,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\157.Yellow_throated_Vireo\\Yellow_Throated_Vireo_0026_159686.jpg",
+      "mean_similarity": 0.9262024164199829,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\157.Yellow_throated_Vireo\\Yellow_Throated_Vireo_0008_159573.jpg",
+      "mean_similarity": 0.9175900220870972,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\157.Yellow_throated_Vireo\\Yellow_Throated_Vireo_0041_794998.jpg",
+      "mean_similarity": 0.9135816693305969,
+      "rank": 30
+    }
+  ]
+}

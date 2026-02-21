@@ -1,0 +1,159 @@
+{
+  "class_name": "158.Bay_breasted_Warbler",
+  "class_idx": 157,
+  "num_images_in_class": 30,
+  "ec_size_requested": 30,
+  "ec_size_actual": 30,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\158.Bay_breasted_Warbler\\Bay_Breasted_Warbler_0062_159783.jpg",
+      "mean_similarity": 0.9479497671127319,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\158.Bay_breasted_Warbler\\Bay_Breasted_Warbler_0060_159863.jpg",
+      "mean_similarity": 0.9451409578323364,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\158.Bay_breasted_Warbler\\Bay_Breasted_Warbler_0093_159764.jpg",
+      "mean_similarity": 0.9451175332069397,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\158.Bay_breasted_Warbler\\Bay_Breasted_Warbler_0112_159839.jpg",
+      "mean_similarity": 0.9444753527641296,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\158.Bay_breasted_Warbler\\Bay_Breasted_Warbler_0087_797122.jpg",
+      "mean_similarity": 0.9440983533859253,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\158.Bay_breasted_Warbler\\Bay_Breasted_Warbler_0095_797113.jpg",
+      "mean_similarity": 0.9432964324951172,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\158.Bay_breasted_Warbler\\Bay_Breasted_Warbler_0100_797142.jpg",
+      "mean_similarity": 0.9423190355300903,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\158.Bay_breasted_Warbler\\Bay_Breasted_Warbler_0020_159737.jpg",
+      "mean_similarity": 0.9421756267547607,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\158.Bay_breasted_Warbler\\Bay_Breasted_Warbler_0049_797129.jpg",
+      "mean_similarity": 0.9416935443878174,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\158.Bay_breasted_Warbler\\Bay_Breasted_Warbler_0012_797171.jpg",
+      "mean_similarity": 0.9405815005302429,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\158.Bay_breasted_Warbler\\Bay_Breasted_Warbler_0005_159739.jpg",
+      "mean_similarity": 0.9404997825622559,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\158.Bay_breasted_Warbler\\Bay_Breasted_Warbler_0099_159753.jpg",
+      "mean_similarity": 0.9392626881599426,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\158.Bay_breasted_Warbler\\Bay_Breasted_Warbler_0079_159998.jpg",
+      "mean_similarity": 0.9390968680381775,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\158.Bay_breasted_Warbler\\Bay_Breasted_Warbler_0078_797163.jpg",
+      "mean_similarity": 0.938202977180481,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\158.Bay_breasted_Warbler\\Bay_Breasted_Warbler_0097_159974.jpg",
+      "mean_similarity": 0.9380014538764954,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\158.Bay_breasted_Warbler\\Bay_Breasted_Warbler_0105_797143.jpg",
+      "mean_similarity": 0.9371604919433594,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\158.Bay_breasted_Warbler\\Bay_Breasted_Warbler_0081_159963.jpg",
+      "mean_similarity": 0.9368776679039001,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\158.Bay_breasted_Warbler\\Bay_Breasted_Warbler_0011_159736.jpg",
+      "mean_similarity": 0.9367325901985168,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\158.Bay_breasted_Warbler\\Bay_Breasted_Warbler_0072_797114.jpg",
+      "mean_similarity": 0.9353064298629761,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\158.Bay_breasted_Warbler\\Bay_Breasted_Warbler_0071_797108.jpg",
+      "mean_similarity": 0.9334034323692322,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\158.Bay_breasted_Warbler\\Bay_Breasted_Warbler_0045_797135.jpg",
+      "mean_similarity": 0.9332446455955505,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\158.Bay_breasted_Warbler\\Bay_Breasted_Warbler_0089_797141.jpg",
+      "mean_similarity": 0.9326927661895752,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\158.Bay_breasted_Warbler\\Bay_Breasted_Warbler_0109_159883.jpg",
+      "mean_similarity": 0.9293474555015564,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\158.Bay_breasted_Warbler\\Bay_Breasted_Warbler_0055_159740.jpg",
+      "mean_similarity": 0.9287829995155334,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\158.Bay_breasted_Warbler\\Bay_Breasted_Warbler_0033_159912.jpg",
+      "mean_similarity": 0.9270515441894531,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\158.Bay_breasted_Warbler\\Bay_Breasted_Warbler_0026_159744.jpg",
+      "mean_similarity": 0.9248902797698975,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\158.Bay_breasted_Warbler\\Bay_Breasted_Warbler_0086_159860.jpg",
+      "mean_similarity": 0.9246916770935059,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\158.Bay_breasted_Warbler\\Bay_Breasted_Warbler_0073_797138.jpg",
+      "mean_similarity": 0.9226298928260803,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\158.Bay_breasted_Warbler\\Bay_Breasted_Warbler_0077_797144.jpg",
+      "mean_similarity": 0.9140784740447998,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\158.Bay_breasted_Warbler\\Bay_Breasted_Warbler_0052_797125.jpg",
+      "mean_similarity": 0.8979479074478149,
+      "rank": 30
+    }
+  ]
+}

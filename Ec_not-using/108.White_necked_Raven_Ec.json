@@ -1,0 +1,159 @@
+{
+  "class_name": "108.White_necked_Raven",
+  "class_idx": 107,
+  "num_images_in_class": 30,
+  "ec_size_requested": 30,
+  "ec_size_actual": 30,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\108.White_necked_Raven\\White_Necked_Raven_0025_797346.jpg",
+      "mean_similarity": 0.9442728161811829,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\108.White_necked_Raven\\White_Necked_Raven_0036_797359.jpg",
+      "mean_similarity": 0.9439636468887329,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\108.White_necked_Raven\\White_Necked_Raven_0050_797374.jpg",
+      "mean_similarity": 0.9438713788986206,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\108.White_necked_Raven\\White_Necked_Raven_0020_102730.jpg",
+      "mean_similarity": 0.9435919523239136,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\108.White_necked_Raven\\White_Necked_Raven_0055_797352.jpg",
+      "mean_similarity": 0.9429001212120056,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\108.White_necked_Raven\\White_Necked_Raven_0002_797370.jpg",
+      "mean_similarity": 0.9425107836723328,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\108.White_necked_Raven\\White_Necked_Raven_0018_102746.jpg",
+      "mean_similarity": 0.9419224262237549,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\108.White_necked_Raven\\White_Necked_Raven_0053_797360.jpg",
+      "mean_similarity": 0.9413987398147583,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\108.White_necked_Raven\\White_Necked_Raven_0001_797384.jpg",
+      "mean_similarity": 0.9411178827285767,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\108.White_necked_Raven\\White_Necked_Raven_0027_797355.jpg",
+      "mean_similarity": 0.9408406615257263,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\108.White_necked_Raven\\White_Necked_Raven_0045_797381.jpg",
+      "mean_similarity": 0.9403451085090637,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\108.White_necked_Raven\\White_Necked_Raven_0014_102687.jpg",
+      "mean_similarity": 0.9402937889099121,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\108.White_necked_Raven\\White_Necked_Raven_0010_797350.jpg",
+      "mean_similarity": 0.9402274489402771,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\108.White_necked_Raven\\White_Necked_Raven_0030_102701.jpg",
+      "mean_similarity": 0.9397919774055481,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\108.White_necked_Raven\\White_Necked_Raven_0003_797376.jpg",
+      "mean_similarity": 0.9397652745246887,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\108.White_necked_Raven\\White_Necked_Raven_0026_797357.jpg",
+      "mean_similarity": 0.9396564960479736,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\108.White_necked_Raven\\White_Necked_Raven_0044_797348.jpg",
+      "mean_similarity": 0.9391566514968872,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\108.White_necked_Raven\\White_Necked_Raven_0042_797356.jpg",
+      "mean_similarity": 0.9386954307556152,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\108.White_necked_Raven\\White_Necked_Raven_0051_797383.jpg",
+      "mean_similarity": 0.9380035996437073,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\108.White_necked_Raven\\White_Necked_Raven_0068_102610.jpg",
+      "mean_similarity": 0.937004029750824,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\108.White_necked_Raven\\White_Necked_Raven_0063_797361.jpg",
+      "mean_similarity": 0.9363508224487305,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\108.White_necked_Raven\\White_Necked_Raven_0072_797391.jpg",
+      "mean_similarity": 0.934230387210846,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\108.White_necked_Raven\\White_Necked_Raven_0023_797371.jpg",
+      "mean_similarity": 0.9324131608009338,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\108.White_necked_Raven\\White_Necked_Raven_0021_797341.jpg",
+      "mean_similarity": 0.9319179058074951,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\108.White_necked_Raven\\White_Necked_Raven_0067_102630.jpg",
+      "mean_similarity": 0.9295865297317505,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\108.White_necked_Raven\\White_Necked_Raven_0059_102668.jpg",
+      "mean_similarity": 0.9238480925559998,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\108.White_necked_Raven\\White_Necked_Raven_0038_797369.jpg",
+      "mean_similarity": 0.9229776859283447,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\108.White_necked_Raven\\White_Necked_Raven_0004_102714.jpg",
+      "mean_similarity": 0.9209924936294556,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\108.White_necked_Raven\\White_Necked_Raven_0007_102676.jpg",
+      "mean_similarity": 0.9178115725517273,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\108.White_necked_Raven\\White_Necked_Raven_0041_797394.jpg",
+      "mean_similarity": 0.9086008071899414,
+      "rank": 30
+    }
+  ]
+}

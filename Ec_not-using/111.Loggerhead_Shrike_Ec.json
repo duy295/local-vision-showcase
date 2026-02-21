@@ -1,0 +1,159 @@
+{
+  "class_name": "111.Loggerhead_Shrike",
+  "class_idx": 110,
+  "num_images_in_class": 30,
+  "ec_size_requested": 30,
+  "ec_size_actual": 30,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\111.Loggerhead_Shrike\\Loggerhead_Shrike_0129_106389.jpg",
+      "mean_similarity": 0.9455704092979431,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\111.Loggerhead_Shrike\\Loggerhead_Shrike_0046_104998.jpg",
+      "mean_similarity": 0.9452389478683472,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\111.Loggerhead_Shrike\\Loggerhead_Shrike_0041_105002.jpg",
+      "mean_similarity": 0.9436208605766296,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\111.Loggerhead_Shrike\\Loggerhead_Shrike_0100_105106.jpg",
+      "mean_similarity": 0.9435634016990662,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\111.Loggerhead_Shrike\\Loggerhead_Shrike_0117_104838.jpg",
+      "mean_similarity": 0.9429934620857239,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\111.Loggerhead_Shrike\\Loggerhead_Shrike_0024_105593.jpg",
+      "mean_similarity": 0.9427905678749084,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\111.Loggerhead_Shrike\\Loggerhead_Shrike_0109_105710.jpg",
+      "mean_similarity": 0.9426444172859192,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\111.Loggerhead_Shrike\\Loggerhead_Shrike_0052_105120.jpg",
+      "mean_similarity": 0.9425286054611206,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\111.Loggerhead_Shrike\\Loggerhead_Shrike_0055_105246.jpg",
+      "mean_similarity": 0.9420323967933655,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\111.Loggerhead_Shrike\\Loggerhead_Shrike_0071_105040.jpg",
+      "mean_similarity": 0.9414204955101013,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\111.Loggerhead_Shrike\\Loggerhead_Shrike_0127_105742.jpg",
+      "mean_similarity": 0.9412260055541992,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\111.Loggerhead_Shrike\\Loggerhead_Shrike_0084_105919.jpg",
+      "mean_similarity": 0.9409783482551575,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\111.Loggerhead_Shrike\\Loggerhead_Shrike_0032_106521.jpg",
+      "mean_similarity": 0.9400423765182495,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\111.Loggerhead_Shrike\\Loggerhead_Shrike_0011_104921.jpg",
+      "mean_similarity": 0.9399604201316833,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\111.Loggerhead_Shrike\\Loggerhead_Shrike_0051_105447.jpg",
+      "mean_similarity": 0.9394490718841553,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\111.Loggerhead_Shrike\\Loggerhead_Shrike_0036_105904.jpg",
+      "mean_similarity": 0.9390265941619873,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\111.Loggerhead_Shrike\\Loggerhead_Shrike_0048_106215.jpg",
+      "mean_similarity": 0.9386787414550781,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\111.Loggerhead_Shrike\\Loggerhead_Shrike_0029_104849.jpg",
+      "mean_similarity": 0.9379297494888306,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\111.Loggerhead_Shrike\\Loggerhead_Shrike_0128_105238.jpg",
+      "mean_similarity": 0.9376800060272217,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\111.Loggerhead_Shrike\\Loggerhead_Shrike_0033_105686.jpg",
+      "mean_similarity": 0.9375165700912476,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\111.Loggerhead_Shrike\\Loggerhead_Shrike_0019_106132.jpg",
+      "mean_similarity": 0.9373028874397278,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\111.Loggerhead_Shrike\\Loggerhead_Shrike_0007_106101.jpg",
+      "mean_similarity": 0.9366323351860046,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\111.Loggerhead_Shrike\\Loggerhead_Shrike_0116_105286.jpg",
+      "mean_similarity": 0.9361698031425476,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\111.Loggerhead_Shrike\\Loggerhead_Shrike_0090_106461.jpg",
+      "mean_similarity": 0.9338728785514832,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\111.Loggerhead_Shrike\\Loggerhead_Shrike_0073_106097.jpg",
+      "mean_similarity": 0.9334914088249207,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\111.Loggerhead_Shrike\\Loggerhead_Shrike_0103_105137.jpg",
+      "mean_similarity": 0.9313008785247803,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\111.Loggerhead_Shrike\\Loggerhead_Shrike_0065_104856.jpg",
+      "mean_similarity": 0.9298880100250244,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\111.Loggerhead_Shrike\\Loggerhead_Shrike_0018_26407.jpg",
+      "mean_similarity": 0.9290764927864075,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\111.Loggerhead_Shrike\\Loggerhead_Shrike_0119_105138.jpg",
+      "mean_similarity": 0.9285845160484314,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\111.Loggerhead_Shrike\\Loggerhead_Shrike_0114_104960.jpg",
+      "mean_similarity": 0.9264394044876099,
+      "rank": 30
+    }
+  ]
+}

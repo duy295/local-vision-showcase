@@ -1,0 +1,154 @@
+{
+  "class_name": "190.Red_cockaded_Woodpecker",
+  "class_idx": 189,
+  "num_images_in_class": 29,
+  "ec_size_requested": 30,
+  "ec_size_actual": 29,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\190.Red_cockaded_Woodpecker\\Red_Cockaded_Woodpecker_0063_794726.jpg",
+      "mean_similarity": 0.9485918879508972,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\190.Red_cockaded_Woodpecker\\Red_Cockaded_Woodpecker_0040_182502.jpg",
+      "mean_similarity": 0.9485331773757935,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\190.Red_cockaded_Woodpecker\\Red_Cockaded_Woodpecker_0062_182371.jpg",
+      "mean_similarity": 0.9484565854072571,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\190.Red_cockaded_Woodpecker\\Red_Cockaded_Woodpecker_0037_794733.jpg",
+      "mean_similarity": 0.9482119679450989,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\190.Red_cockaded_Woodpecker\\Red_Cockaded_Woodpecker_0058_794739.jpg",
+      "mean_similarity": 0.9481338262557983,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\190.Red_cockaded_Woodpecker\\Red_Cockaded_Woodpecker_0023_794701.jpg",
+      "mean_similarity": 0.9480190873146057,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\190.Red_cockaded_Woodpecker\\Red_Cockaded_Woodpecker_0021_182647.jpg",
+      "mean_similarity": 0.9479585886001587,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\190.Red_cockaded_Woodpecker\\Red_Cockaded_Woodpecker_0015_182459.jpg",
+      "mean_similarity": 0.9478870630264282,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\190.Red_cockaded_Woodpecker\\Red_Cockaded_Woodpecker_0032_182376.jpg",
+      "mean_similarity": 0.9473662376403809,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\190.Red_cockaded_Woodpecker\\Red_Cockaded_Woodpecker_0028_182395.jpg",
+      "mean_similarity": 0.9470466375350952,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\190.Red_cockaded_Woodpecker\\Red_Cockaded_Woodpecker_0007_794755.jpg",
+      "mean_similarity": 0.9467480182647705,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\190.Red_cockaded_Woodpecker\\Red_Cockaded_Woodpecker_0004_182340.jpg",
+      "mean_similarity": 0.9467352628707886,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\190.Red_cockaded_Woodpecker\\Red_Cockaded_Woodpecker_0022_794700.jpg",
+      "mean_similarity": 0.9460759162902832,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\190.Red_cockaded_Woodpecker\\Red_Cockaded_Woodpecker_0054_794699.jpg",
+      "mean_similarity": 0.9455897212028503,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\190.Red_cockaded_Woodpecker\\Red_Cockaded_Woodpecker_0036_182519.jpg",
+      "mean_similarity": 0.944994330406189,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\190.Red_cockaded_Woodpecker\\Red_Cockaded_Woodpecker_0060_182377.jpg",
+      "mean_similarity": 0.9445806741714478,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\190.Red_cockaded_Woodpecker\\Red_Cockaded_Woodpecker_0033_794721.jpg",
+      "mean_similarity": 0.9443288445472717,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\190.Red_cockaded_Woodpecker\\Red_Cockaded_Woodpecker_0002_794696.jpg",
+      "mean_similarity": 0.9442003965377808,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\190.Red_cockaded_Woodpecker\\Red_Cockaded_Woodpecker_0006_182592.jpg",
+      "mean_similarity": 0.9441978931427002,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\190.Red_cockaded_Woodpecker\\Red_Cockaded_Woodpecker_0055_182520.jpg",
+      "mean_similarity": 0.9439202547073364,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\190.Red_cockaded_Woodpecker\\Red_Cockaded_Woodpecker_0039_794736.jpg",
+      "mean_similarity": 0.9436873197555542,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\190.Red_cockaded_Woodpecker\\Red_Cockaded_Woodpecker_0020_182683.jpg",
+      "mean_similarity": 0.9436433911323547,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\190.Red_cockaded_Woodpecker\\Red_Cockaded_Woodpecker_0029_794724.jpg",
+      "mean_similarity": 0.9433109164237976,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\190.Red_cockaded_Woodpecker\\Red_Cockaded_Woodpecker_0052_794752.jpg",
+      "mean_similarity": 0.9429388642311096,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\190.Red_cockaded_Woodpecker\\Red_Cockaded_Woodpecker_0059_794709.jpg",
+      "mean_similarity": 0.9422028064727783,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\190.Red_cockaded_Woodpecker\\Red_Cockaded_Woodpecker_0010_182451.jpg",
+      "mean_similarity": 0.9418982267379761,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\190.Red_cockaded_Woodpecker\\Red_Cockaded_Woodpecker_0012_794697.jpg",
+      "mean_similarity": 0.9416412115097046,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\190.Red_cockaded_Woodpecker\\Red_Cockaded_Woodpecker_0018_794705.jpg",
+      "mean_similarity": 0.9414370656013489,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\190.Red_cockaded_Woodpecker\\Red_Cockaded_Woodpecker_0027_794713.jpg",
+      "mean_similarity": 0.93611079454422,
+      "rank": 29
+    }
+  ]
+}

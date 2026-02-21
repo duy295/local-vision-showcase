@@ -1,0 +1,159 @@
+{
+  "class_name": "142.Black_Tern",
+  "class_idx": 141,
+  "num_images_in_class": 30,
+  "ec_size_requested": 30,
+  "ec_size_actual": 30,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\142.Black_Tern\\Black_Tern_0013_143892.jpg",
+      "mean_similarity": 0.9443434476852417,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\142.Black_Tern\\Black_Tern_0055_144607.jpg",
+      "mean_similarity": 0.9435375928878784,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\142.Black_Tern\\Black_Tern_0059_144159.jpg",
+      "mean_similarity": 0.9433574080467224,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\142.Black_Tern\\Black_Tern_0029_144140.jpg",
+      "mean_similarity": 0.943082869052887,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\142.Black_Tern\\Black_Tern_0077_144117.jpg",
+      "mean_similarity": 0.942879855632782,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\142.Black_Tern\\Black_Tern_0099_144242.jpg",
+      "mean_similarity": 0.9426926970481873,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\142.Black_Tern\\Black_Tern_0080_144130.jpg",
+      "mean_similarity": 0.9405441880226135,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\142.Black_Tern\\Black_Tern_0103_143956.jpg",
+      "mean_similarity": 0.9400412440299988,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\142.Black_Tern\\Black_Tern_0010_144341.jpg",
+      "mean_similarity": 0.939903736114502,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\142.Black_Tern\\Black_Tern_0069_144359.jpg",
+      "mean_similarity": 0.9395103454589844,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\142.Black_Tern\\Black_Tern_0057_143884.jpg",
+      "mean_similarity": 0.9390082359313965,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\142.Black_Tern\\Black_Tern_0090_143880.jpg",
+      "mean_similarity": 0.9381706118583679,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\142.Black_Tern\\Black_Tern_0066_144541.jpg",
+      "mean_similarity": 0.937771737575531,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\142.Black_Tern\\Black_Tern_0053_143882.jpg",
+      "mean_similarity": 0.9377075433731079,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\142.Black_Tern\\Black_Tern_0038_144102.jpg",
+      "mean_similarity": 0.9375954270362854,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\142.Black_Tern\\Black_Tern_0083_144083.jpg",
+      "mean_similarity": 0.9375295639038086,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\142.Black_Tern\\Black_Tern_0041_144103.jpg",
+      "mean_similarity": 0.937120258808136,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\142.Black_Tern\\Black_Tern_0079_143998.jpg",
+      "mean_similarity": 0.9365658164024353,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\142.Black_Tern\\Black_Tern_0019_144680.jpg",
+      "mean_similarity": 0.9355500340461731,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\142.Black_Tern\\Black_Tern_0037_144110.jpg",
+      "mean_similarity": 0.935174286365509,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\142.Black_Tern\\Black_Tern_0046_144229.jpg",
+      "mean_similarity": 0.9342082142829895,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\142.Black_Tern\\Black_Tern_0082_144372.jpg",
+      "mean_similarity": 0.9337915778160095,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\142.Black_Tern\\Black_Tern_0015_143979.jpg",
+      "mean_similarity": 0.9325547814369202,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\142.Black_Tern\\Black_Tern_0004_143881.jpg",
+      "mean_similarity": 0.9271317720413208,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\142.Black_Tern\\Black_Tern_0061_143959.jpg",
+      "mean_similarity": 0.9268746376037598,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\142.Black_Tern\\Black_Tern_0063_144731.jpg",
+      "mean_similarity": 0.9263847470283508,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\142.Black_Tern\\Black_Tern_0097_144724.jpg",
+      "mean_similarity": 0.9223816394805908,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\142.Black_Tern\\Black_Tern_0020_144163.jpg",
+      "mean_similarity": 0.9216493964195251,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\142.Black_Tern\\Black_Tern_0009_144046.jpg",
+      "mean_similarity": 0.9137725830078125,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\142.Black_Tern\\Black_Tern_0089_144174.jpg",
+      "mean_similarity": 0.9061037302017212,
+      "rank": 30
+    }
+  ]
+}

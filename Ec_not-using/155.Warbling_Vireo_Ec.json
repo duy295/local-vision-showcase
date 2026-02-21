@@ -1,0 +1,159 @@
+{
+  "class_name": "155.Warbling_Vireo",
+  "class_idx": 154,
+  "num_images_in_class": 30,
+  "ec_size_requested": 30,
+  "ec_size_actual": 30,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\155.Warbling_Vireo\\Warbling_Vireo_0075_158480.jpg",
+      "mean_similarity": 0.945514440536499,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\155.Warbling_Vireo\\Warbling_Vireo_0132_158420.jpg",
+      "mean_similarity": 0.9439918398857117,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\155.Warbling_Vireo\\Warbling_Vireo_0067_158283.jpg",
+      "mean_similarity": 0.9436898827552795,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\155.Warbling_Vireo\\Warbling_Vireo_0097_158579.jpg",
+      "mean_similarity": 0.9432374238967896,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\155.Warbling_Vireo\\Warbling_Vireo_0118_158285.jpg",
+      "mean_similarity": 0.9429823160171509,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\155.Warbling_Vireo\\Warbling_Vireo_0104_158800.jpg",
+      "mean_similarity": 0.9426395297050476,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\155.Warbling_Vireo\\Warbling_Vireo_0022_158144.jpg",
+      "mean_similarity": 0.942250669002533,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\155.Warbling_Vireo\\Warbling_Vireo_0119_158819.jpg",
+      "mean_similarity": 0.9421378374099731,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\155.Warbling_Vireo\\Warbling_Vireo_0070_158459.jpg",
+      "mean_similarity": 0.9419581294059753,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\155.Warbling_Vireo\\Warbling_Vireo_0002_158319.jpg",
+      "mean_similarity": 0.9408018589019775,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\155.Warbling_Vireo\\Warbling_Vireo_0030_158488.jpg",
+      "mean_similarity": 0.9405153393745422,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\155.Warbling_Vireo\\Warbling_Vireo_0007_158717.jpg",
+      "mean_similarity": 0.9404633045196533,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\155.Warbling_Vireo\\Warbling_Vireo_0079_158791.jpg",
+      "mean_similarity": 0.9403847455978394,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\155.Warbling_Vireo\\Warbling_Vireo_0077_158427.jpg",
+      "mean_similarity": 0.9389654397964478,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\155.Warbling_Vireo\\Warbling_Vireo_0029_158679.jpg",
+      "mean_similarity": 0.9382548928260803,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\155.Warbling_Vireo\\Warbling_Vireo_0076_158500.jpg",
+      "mean_similarity": 0.9382538795471191,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\155.Warbling_Vireo\\Warbling_Vireo_0073_158315.jpg",
+      "mean_similarity": 0.9380953311920166,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\155.Warbling_Vireo\\Warbling_Vireo_0045_158399.jpg",
+      "mean_similarity": 0.9375196099281311,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\155.Warbling_Vireo\\Warbling_Vireo_0017_158271.jpg",
+      "mean_similarity": 0.9374169111251831,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\155.Warbling_Vireo\\Warbling_Vireo_0061_158494.jpg",
+      "mean_similarity": 0.9370764493942261,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\155.Warbling_Vireo\\Warbling_Vireo_0028_158492.jpg",
+      "mean_similarity": 0.9363739490509033,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\155.Warbling_Vireo\\Warbling_Vireo_0003_158484.jpg",
+      "mean_similarity": 0.9358457326889038,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\155.Warbling_Vireo\\Warbling_Vireo_0056_21117.jpg",
+      "mean_similarity": 0.935093104839325,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\155.Warbling_Vireo\\Warbling_Vireo_0016_158681.jpg",
+      "mean_similarity": 0.934972882270813,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\155.Warbling_Vireo\\Warbling_Vireo_0116_158740.jpg",
+      "mean_similarity": 0.9335139393806458,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\155.Warbling_Vireo\\Warbling_Vireo_0004_158376.jpg",
+      "mean_similarity": 0.9282426834106445,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\155.Warbling_Vireo\\Warbling_Vireo_0014_158412.jpg",
+      "mean_similarity": 0.9247052669525146,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\155.Warbling_Vireo\\Warbling_Vireo_0107_158453.jpg",
+      "mean_similarity": 0.920721709728241,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\155.Warbling_Vireo\\Warbling_Vireo_0027_158576.jpg",
+      "mean_similarity": 0.9166409969329834,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\155.Warbling_Vireo\\Warbling_Vireo_0053_158675.jpg",
+      "mean_similarity": 0.8990004062652588,
+      "rank": 30
+    }
+  ]
+}

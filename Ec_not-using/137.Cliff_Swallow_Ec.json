@@ -1,0 +1,159 @@
+{
+  "class_name": "137.Cliff_Swallow",
+  "class_idx": 136,
+  "num_images_in_class": 30,
+  "ec_size_requested": 30,
+  "ec_size_actual": 30,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\137.Cliff_Swallow\\Cliff_Swallow_0065_133858.jpg",
+      "mean_similarity": 0.9490149617195129,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\137.Cliff_Swallow\\Cliff_Swallow_0023_134314.jpg",
+      "mean_similarity": 0.9488292336463928,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\137.Cliff_Swallow\\Cliff_Swallow_0069_133521.jpg",
+      "mean_similarity": 0.948805570602417,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\137.Cliff_Swallow\\Cliff_Swallow_0044_133927.jpg",
+      "mean_similarity": 0.9485776424407959,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\137.Cliff_Swallow\\Cliff_Swallow_0018_132974.jpg",
+      "mean_similarity": 0.9482746720314026,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\137.Cliff_Swallow\\Cliff_Swallow_0090_133144.jpg",
+      "mean_similarity": 0.9482492804527283,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\137.Cliff_Swallow\\Cliff_Swallow_0005_133696.jpg",
+      "mean_similarity": 0.9481748342514038,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\137.Cliff_Swallow\\Cliff_Swallow_0101_133069.jpg",
+      "mean_similarity": 0.9478850364685059,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\137.Cliff_Swallow\\Cliff_Swallow_0062_134383.jpg",
+      "mean_similarity": 0.9477438926696777,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\137.Cliff_Swallow\\Cliff_Swallow_0045_133591.jpg",
+      "mean_similarity": 0.9475736618041992,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\137.Cliff_Swallow\\Cliff_Swallow_0103_133882.jpg",
+      "mean_similarity": 0.9474139213562012,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\137.Cliff_Swallow\\Cliff_Swallow_0066_133206.jpg",
+      "mean_similarity": 0.9461733102798462,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\137.Cliff_Swallow\\Cliff_Swallow_0049_132965.jpg",
+      "mean_similarity": 0.9461702704429626,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\137.Cliff_Swallow\\Cliff_Swallow_0055_133624.jpg",
+      "mean_similarity": 0.9460049271583557,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\137.Cliff_Swallow\\Cliff_Swallow_0022_133786.jpg",
+      "mean_similarity": 0.94577556848526,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\137.Cliff_Swallow\\Cliff_Swallow_0071_133742.jpg",
+      "mean_similarity": 0.9457353949546814,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\137.Cliff_Swallow\\Cliff_Swallow_0088_134188.jpg",
+      "mean_similarity": 0.9456843733787537,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\137.Cliff_Swallow\\Cliff_Swallow_0047_133955.jpg",
+      "mean_similarity": 0.9452600479125977,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\137.Cliff_Swallow\\Cliff_Swallow_0050_134054.jpg",
+      "mean_similarity": 0.9448488354682922,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\137.Cliff_Swallow\\Cliff_Swallow_0046_133165.jpg",
+      "mean_similarity": 0.9448097348213196,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\137.Cliff_Swallow\\Cliff_Swallow_0108_133902.jpg",
+      "mean_similarity": 0.9446704387664795,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\137.Cliff_Swallow\\Cliff_Swallow_0094_133114.jpg",
+      "mean_similarity": 0.9443944692611694,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\137.Cliff_Swallow\\Cliff_Swallow_0011_133033.jpg",
+      "mean_similarity": 0.9439528584480286,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\137.Cliff_Swallow\\Cliff_Swallow_0087_133294.jpg",
+      "mean_similarity": 0.9434401988983154,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\137.Cliff_Swallow\\Cliff_Swallow_0058_133060.jpg",
+      "mean_similarity": 0.9410822987556458,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\137.Cliff_Swallow\\Cliff_Swallow_0054_133287.jpg",
+      "mean_similarity": 0.9409549832344055,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\137.Cliff_Swallow\\Cliff_Swallow_0015_133176.jpg",
+      "mean_similarity": 0.9388015866279602,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\137.Cliff_Swallow\\Cliff_Swallow_0092_132971.jpg",
+      "mean_similarity": 0.9368453621864319,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\137.Cliff_Swallow\\Cliff_Swallow_0075_134516.jpg",
+      "mean_similarity": 0.9364158511161804,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\137.Cliff_Swallow\\Cliff_Swallow_0028_132365.jpg",
+      "mean_similarity": 0.9329733848571777,
+      "rank": 30
+    }
+  ]
+}

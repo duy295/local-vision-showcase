@@ -1,0 +1,159 @@
+{
+  "class_name": "148.Green_tailed_Towhee",
+  "class_idx": 147,
+  "num_images_in_class": 30,
+  "ec_size_requested": 30,
+  "ec_size_actual": 30,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\148.Green_tailed_Towhee\\Green_Tailed_Towhee_0039_154802.jpg",
+      "mean_similarity": 0.9451349973678589,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\148.Green_tailed_Towhee\\Green_Tailed_Towhee_0022_154892.jpg",
+      "mean_similarity": 0.943607747554779,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\148.Green_tailed_Towhee\\Green_Tailed_Towhee_0060_154820.jpg",
+      "mean_similarity": 0.942861795425415,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\148.Green_tailed_Towhee\\Green_Tailed_Towhee_0024_154855.jpg",
+      "mean_similarity": 0.9423428177833557,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\148.Green_tailed_Towhee\\Green_Tailed_Towhee_0090_797434.jpg",
+      "mean_similarity": 0.9413620233535767,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\148.Green_tailed_Towhee\\Green_Tailed_Towhee_0042_154801.jpg",
+      "mean_similarity": 0.9413425326347351,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\148.Green_tailed_Towhee\\Green_Tailed_Towhee_0054_154938.jpg",
+      "mean_similarity": 0.9411144256591797,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\148.Green_tailed_Towhee\\Green_Tailed_Towhee_0099_154882.jpg",
+      "mean_similarity": 0.9409159421920776,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\148.Green_tailed_Towhee\\Green_Tailed_Towhee_0027_154823.jpg",
+      "mean_similarity": 0.9404851198196411,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\148.Green_tailed_Towhee\\Green_Tailed_Towhee_0069_797441.jpg",
+      "mean_similarity": 0.9401938319206238,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\148.Green_tailed_Towhee\\Green_Tailed_Towhee_0068_154783.jpg",
+      "mean_similarity": 0.9390520453453064,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\148.Green_tailed_Towhee\\Green_Tailed_Towhee_0096_154945.jpg",
+      "mean_similarity": 0.9387139678001404,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\148.Green_tailed_Towhee\\Green_Tailed_Towhee_0074_154915.jpg",
+      "mean_similarity": 0.9385559558868408,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\148.Green_tailed_Towhee\\Green_Tailed_Towhee_0071_154870.jpg",
+      "mean_similarity": 0.9382824301719666,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\148.Green_tailed_Towhee\\Green_Tailed_Towhee_0077_797443.jpg",
+      "mean_similarity": 0.9377567768096924,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\148.Green_tailed_Towhee\\Green_Tailed_Towhee_0043_797430.jpg",
+      "mean_similarity": 0.9369825124740601,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\148.Green_tailed_Towhee\\Green_Tailed_Towhee_0070_154844.jpg",
+      "mean_similarity": 0.9345386624336243,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\148.Green_tailed_Towhee\\Green_Tailed_Towhee_0094_797396.jpg",
+      "mean_similarity": 0.9340200424194336,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\148.Green_tailed_Towhee\\Green_Tailed_Towhee_0036_154875.jpg",
+      "mean_similarity": 0.9339175820350647,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\148.Green_tailed_Towhee\\Green_Tailed_Towhee_0058_797399.jpg",
+      "mean_similarity": 0.932059645652771,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\148.Green_tailed_Towhee\\Green_Tailed_Towhee_0025_797401.jpg",
+      "mean_similarity": 0.9269647598266602,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\148.Green_tailed_Towhee\\Green_Tailed_Towhee_0012_797435.jpg",
+      "mean_similarity": 0.9268106818199158,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\148.Green_tailed_Towhee\\Green_Tailed_Towhee_0064_154771.jpg",
+      "mean_similarity": 0.919058620929718,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\148.Green_tailed_Towhee\\Green_Tailed_Towhee_0011_797410.jpg",
+      "mean_similarity": 0.9153792858123779,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\148.Green_tailed_Towhee\\Green_Tailed_Towhee_0001_797412.jpg",
+      "mean_similarity": 0.9136123061180115,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\148.Green_tailed_Towhee\\Green_Tailed_Towhee_0018_154825.jpg",
+      "mean_similarity": 0.9063916802406311,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\148.Green_tailed_Towhee\\Green_Tailed_Towhee_0105_797438.jpg",
+      "mean_similarity": 0.9061420559883118,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\148.Green_tailed_Towhee\\Green_Tailed_Towhee_0076_154999.jpg",
+      "mean_similarity": 0.9048909544944763,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\148.Green_tailed_Towhee\\Green_Tailed_Towhee_0046_154967.jpg",
+      "mean_similarity": 0.896817147731781,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\148.Green_tailed_Towhee\\Green_Tailed_Towhee_0066_797439.jpg",
+      "mean_similarity": 0.8863862156867981,
+      "rank": 30
+    }
+  ]
+}

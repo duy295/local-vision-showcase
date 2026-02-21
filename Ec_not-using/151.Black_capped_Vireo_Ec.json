@@ -1,0 +1,159 @@
+{
+  "class_name": "151.Black_capped_Vireo",
+  "class_idx": 150,
+  "num_images_in_class": 30,
+  "ec_size_requested": 30,
+  "ec_size_actual": 30,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\151.Black_capped_Vireo\\Black_Capped_Vireo_0013_155815.jpg",
+      "mean_similarity": 0.9431113004684448,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\151.Black_capped_Vireo\\Black_Capped_Vireo_0004_797476.jpg",
+      "mean_similarity": 0.9411957263946533,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\151.Black_capped_Vireo\\Black_Capped_Vireo_0022_797459.jpg",
+      "mean_similarity": 0.9410650134086609,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\151.Black_capped_Vireo\\Black_Capped_Vireo_0035_797471.jpg",
+      "mean_similarity": 0.9403247833251953,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\151.Black_capped_Vireo\\Black_Capped_Vireo_0043_797458.jpg",
+      "mean_similarity": 0.9390825629234314,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\151.Black_capped_Vireo\\Black_Capped_Vireo_0047_155743.jpg",
+      "mean_similarity": 0.9389215707778931,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\151.Black_capped_Vireo\\Black_Capped_Vireo_0005_797453.jpg",
+      "mean_similarity": 0.9388285875320435,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\151.Black_capped_Vireo\\Black_Capped_Vireo_0008_797454.jpg",
+      "mean_similarity": 0.9386966824531555,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\151.Black_capped_Vireo\\Black_Capped_Vireo_0041_797452.jpg",
+      "mean_similarity": 0.938596785068512,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\151.Black_capped_Vireo\\Black_Capped_Vireo_0044_155819.jpg",
+      "mean_similarity": 0.9372450709342957,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\151.Black_capped_Vireo\\Black_Capped_Vireo_0016_797489.jpg",
+      "mean_similarity": 0.9352889060974121,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\151.Black_capped_Vireo\\Black_Capped_Vireo_0024_155905.jpg",
+      "mean_similarity": 0.9348320364952087,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\151.Black_capped_Vireo\\Black_Capped_Vireo_0010_155832.jpg",
+      "mean_similarity": 0.9348077178001404,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\151.Black_capped_Vireo\\Black_Capped_Vireo_0018_155868.jpg",
+      "mean_similarity": 0.9346129298210144,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\151.Black_capped_Vireo\\Black_Capped_Vireo_0029_797469.jpg",
+      "mean_similarity": 0.9325662851333618,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\151.Black_capped_Vireo\\Black_Capped_Vireo_0053_797478.jpg",
+      "mean_similarity": 0.9317350387573242,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\151.Black_capped_Vireo\\Black_Capped_Vireo_0027_797455.jpg",
+      "mean_similarity": 0.9312929511070251,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\151.Black_capped_Vireo\\Black_Capped_Vireo_0002_797466.jpg",
+      "mean_similarity": 0.9309555292129517,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\151.Black_capped_Vireo\\Black_Capped_Vireo_0015_797450.jpg",
+      "mean_similarity": 0.9287341237068176,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\151.Black_capped_Vireo\\Black_Capped_Vireo_0012_797473.jpg",
+      "mean_similarity": 0.9287233352661133,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\151.Black_capped_Vireo\\Black_Capped_Vireo_0014_797462.jpg",
+      "mean_similarity": 0.9280913472175598,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\151.Black_capped_Vireo\\Black_Capped_Vireo_0009_797493.jpg",
+      "mean_similarity": 0.9263768196105957,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\151.Black_capped_Vireo\\Black_Capped_Vireo_0028_155799.jpg",
+      "mean_similarity": 0.9257950782775879,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\151.Black_capped_Vireo\\Black_Capped_Vireo_0007_797481.jpg",
+      "mean_similarity": 0.9253833889961243,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\151.Black_capped_Vireo\\Black_Capped_Vireo_0039_797451.jpg",
+      "mean_similarity": 0.9238159656524658,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\151.Black_capped_Vireo\\Black_Capped_Vireo_0020_797461.jpg",
+      "mean_similarity": 0.9210794568061829,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\151.Black_capped_Vireo\\Black_Capped_Vireo_0030_155861.jpg",
+      "mean_similarity": 0.9136571884155273,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\151.Black_capped_Vireo\\Black_Capped_Vireo_0006_797491.jpg",
+      "mean_similarity": 0.9132168292999268,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\151.Black_capped_Vireo\\Black_Capped_Vireo_0003_797467.jpg",
+      "mean_similarity": 0.9114199876785278,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\151.Black_capped_Vireo\\Black_Capped_Vireo_0040_797463.jpg",
+      "mean_similarity": 0.9040254950523376,
+      "rank": 30
+    }
+  ]
+}

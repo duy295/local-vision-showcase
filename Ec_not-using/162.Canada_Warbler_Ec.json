@@ -1,0 +1,159 @@
+{
+  "class_name": "162.Canada_Warbler",
+  "class_idx": 161,
+  "num_images_in_class": 30,
+  "ec_size_requested": 30,
+  "ec_size_actual": 30,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\162.Canada_Warbler\\Canada_Warbler_0091_162378.jpg",
+      "mean_similarity": 0.9495879411697388,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\162.Canada_Warbler\\Canada_Warbler_0064_162417.jpg",
+      "mean_similarity": 0.9491289258003235,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\162.Canada_Warbler\\Canada_Warbler_0120_162415.jpg",
+      "mean_similarity": 0.9490638971328735,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\162.Canada_Warbler\\Canada_Warbler_0016_162411.jpg",
+      "mean_similarity": 0.9489438533782959,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\162.Canada_Warbler\\Canada_Warbler_0047_162439.jpg",
+      "mean_similarity": 0.9482226967811584,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\162.Canada_Warbler\\Canada_Warbler_0005_162389.jpg",
+      "mean_similarity": 0.9476501941680908,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\162.Canada_Warbler\\Canada_Warbler_0042_162448.jpg",
+      "mean_similarity": 0.9475702047348022,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\162.Canada_Warbler\\Canada_Warbler_0113_162403.jpg",
+      "mean_similarity": 0.9473446011543274,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\162.Canada_Warbler\\Canada_Warbler_0099_162425.jpg",
+      "mean_similarity": 0.9471919536590576,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\162.Canada_Warbler\\Canada_Warbler_0024_162218.jpg",
+      "mean_similarity": 0.9469521045684814,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\162.Canada_Warbler\\Canada_Warbler_0087_162342.jpg",
+      "mean_similarity": 0.946837842464447,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\162.Canada_Warbler\\Canada_Warbler_0039_162330.jpg",
+      "mean_similarity": 0.946395993232727,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\162.Canada_Warbler\\Canada_Warbler_0004_162224.jpg",
+      "mean_similarity": 0.9462777376174927,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\162.Canada_Warbler\\Canada_Warbler_0009_162343.jpg",
+      "mean_similarity": 0.9457664489746094,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\162.Canada_Warbler\\Canada_Warbler_0032_162229.jpg",
+      "mean_similarity": 0.9452893733978271,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\162.Canada_Warbler\\Canada_Warbler_0088_162341.jpg",
+      "mean_similarity": 0.9452464580535889,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\162.Canada_Warbler\\Canada_Warbler_0049_162379.jpg",
+      "mean_similarity": 0.9452434778213501,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\162.Canada_Warbler\\Canada_Warbler_0040_162352.jpg",
+      "mean_similarity": 0.9448590278625488,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\162.Canada_Warbler\\Canada_Warbler_0085_162385.jpg",
+      "mean_similarity": 0.9441397190093994,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\162.Canada_Warbler\\Canada_Warbler_0121_162310.jpg",
+      "mean_similarity": 0.9430755972862244,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\162.Canada_Warbler\\Canada_Warbler_0080_162392.jpg",
+      "mean_similarity": 0.9423321485519409,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\162.Canada_Warbler\\Canada_Warbler_0041_162418.jpg",
+      "mean_similarity": 0.9420248866081238,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\162.Canada_Warbler\\Canada_Warbler_0048_162326.jpg",
+      "mean_similarity": 0.9410076141357422,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\162.Canada_Warbler\\Canada_Warbler_0019_162409.jpg",
+      "mean_similarity": 0.9408849477767944,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\162.Canada_Warbler\\Canada_Warbler_0077_162437.jpg",
+      "mean_similarity": 0.940199613571167,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\162.Canada_Warbler\\Canada_Warbler_0021_162325.jpg",
+      "mean_similarity": 0.9372007250785828,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\162.Canada_Warbler\\Canada_Warbler_0112_162398.jpg",
+      "mean_similarity": 0.9364018440246582,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\162.Canada_Warbler\\Canada_Warbler_0007_162364.jpg",
+      "mean_similarity": 0.9330716133117676,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\162.Canada_Warbler\\Canada_Warbler_0075_162428.jpg",
+      "mean_similarity": 0.9282686710357666,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\162.Canada_Warbler\\Canada_Warbler_0076_162393.jpg",
+      "mean_similarity": 0.923480212688446,
+      "rank": 30
+    }
+  ]
+}

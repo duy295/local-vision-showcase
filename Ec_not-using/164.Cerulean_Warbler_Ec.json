@@ -1,0 +1,159 @@
+{
+  "class_name": "164.Cerulean_Warbler",
+  "class_idx": 163,
+  "num_images_in_class": 30,
+  "ec_size_requested": 30,
+  "ec_size_actual": 30,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\164.Cerulean_Warbler\\Cerulean_Warbler_0090_797195.jpg",
+      "mean_similarity": 0.9453641772270203,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\164.Cerulean_Warbler\\Cerulean_Warbler_0039_163420.jpg",
+      "mean_similarity": 0.9446519613265991,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\164.Cerulean_Warbler\\Cerulean_Warbler_0063_797204.jpg",
+      "mean_similarity": 0.9446466565132141,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\164.Cerulean_Warbler\\Cerulean_Warbler_0086_797214.jpg",
+      "mean_similarity": 0.9443891048431396,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\164.Cerulean_Warbler\\Cerulean_Warbler_0012_163417.jpg",
+      "mean_similarity": 0.9442529082298279,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\164.Cerulean_Warbler\\Cerulean_Warbler_0035_163269.jpg",
+      "mean_similarity": 0.9438550472259521,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\164.Cerulean_Warbler\\Cerulean_Warbler_0060_797209.jpg",
+      "mean_similarity": 0.9437325596809387,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\164.Cerulean_Warbler\\Cerulean_Warbler_0047_797211.jpg",
+      "mean_similarity": 0.9436675906181335,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\164.Cerulean_Warbler\\Cerulean_Warbler_0010_797210.jpg",
+      "mean_similarity": 0.9432594180107117,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\164.Cerulean_Warbler\\Cerulean_Warbler_0091_163331.jpg",
+      "mean_similarity": 0.9431966543197632,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\164.Cerulean_Warbler\\Cerulean_Warbler_0077_797202.jpg",
+      "mean_similarity": 0.9425979852676392,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\164.Cerulean_Warbler\\Cerulean_Warbler_0083_163380.jpg",
+      "mean_similarity": 0.9422727227210999,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\164.Cerulean_Warbler\\Cerulean_Warbler_0087_163451.jpg",
+      "mean_similarity": 0.9421611428260803,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\164.Cerulean_Warbler\\Cerulean_Warbler_0038_797230.jpg",
+      "mean_similarity": 0.9416754245758057,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\164.Cerulean_Warbler\\Cerulean_Warbler_0023_797191.jpg",
+      "mean_similarity": 0.9412229061126709,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\164.Cerulean_Warbler\\Cerulean_Warbler_0018_797183.jpg",
+      "mean_similarity": 0.9405643939971924,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\164.Cerulean_Warbler\\Cerulean_Warbler_0014_797226.jpg",
+      "mean_similarity": 0.9405214786529541,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\164.Cerulean_Warbler\\Cerulean_Warbler_0071_163201.jpg",
+      "mean_similarity": 0.9399389028549194,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\164.Cerulean_Warbler\\Cerulean_Warbler_0089_163412.jpg",
+      "mean_similarity": 0.9367989897727966,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\164.Cerulean_Warbler\\Cerulean_Warbler_0084_797177.jpg",
+      "mean_similarity": 0.9363741278648376,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\164.Cerulean_Warbler\\Cerulean_Warbler_0056_163339.jpg",
+      "mean_similarity": 0.9357664585113525,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\164.Cerulean_Warbler\\Cerulean_Warbler_0045_797217.jpg",
+      "mean_similarity": 0.9344445466995239,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\164.Cerulean_Warbler\\Cerulean_Warbler_0094_797200.jpg",
+      "mean_similarity": 0.9311880469322205,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\164.Cerulean_Warbler\\Cerulean_Warbler_0080_163399.jpg",
+      "mean_similarity": 0.93089759349823,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\164.Cerulean_Warbler\\Cerulean_Warbler_0076_163294.jpg",
+      "mean_similarity": 0.9258184432983398,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\164.Cerulean_Warbler\\Cerulean_Warbler_0003_163305.jpg",
+      "mean_similarity": 0.9236060976982117,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\164.Cerulean_Warbler\\Cerulean_Warbler_0033_797176.jpg",
+      "mean_similarity": 0.922886848449707,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\164.Cerulean_Warbler\\Cerulean_Warbler_0020_163353.jpg",
+      "mean_similarity": 0.9083425998687744,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\164.Cerulean_Warbler\\Cerulean_Warbler_0072_163200.jpg",
+      "mean_similarity": 0.9060342311859131,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\164.Cerulean_Warbler\\Cerulean_Warbler_0078_163271.jpg",
+      "mean_similarity": 0.8870043754577637,
+      "rank": 30
+    }
+  ]
+}

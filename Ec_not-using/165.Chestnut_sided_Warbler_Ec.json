@@ -1,0 +1,159 @@
+{
+  "class_name": "165.Chestnut_sided_Warbler",
+  "class_idx": 164,
+  "num_images_in_class": 30,
+  "ec_size_requested": 30,
+  "ec_size_actual": 30,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\165.Chestnut_sided_Warbler\\Chestnut_Sided_Warbler_0063_163927.jpg",
+      "mean_similarity": 0.9426270723342896,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\165.Chestnut_sided_Warbler\\Chestnut_Sided_Warbler_0016_164060.jpg",
+      "mean_similarity": 0.9418710470199585,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\165.Chestnut_sided_Warbler\\Chestnut_Sided_Warbler_0043_164114.jpg",
+      "mean_similarity": 0.9418032765388489,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\165.Chestnut_sided_Warbler\\Chestnut_Sided_Warbler_0094_164152.jpg",
+      "mean_similarity": 0.9415798187255859,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\165.Chestnut_sided_Warbler\\Chestnut_Sided_Warbler_0013_163749.jpg",
+      "mean_similarity": 0.9411854147911072,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\165.Chestnut_sided_Warbler\\Chestnut_Sided_Warbler_0006_163858.jpg",
+      "mean_similarity": 0.9411464333534241,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\165.Chestnut_sided_Warbler\\Chestnut_Sided_Warbler_0071_163784.jpg",
+      "mean_similarity": 0.9411234259605408,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\165.Chestnut_sided_Warbler\\Chestnut_Sided_Warbler_0023_164308.jpg",
+      "mean_similarity": 0.9399622082710266,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\165.Chestnut_sided_Warbler\\Chestnut_Sided_Warbler_0121_164125.jpg",
+      "mean_similarity": 0.9380874037742615,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\165.Chestnut_sided_Warbler\\Chestnut_Sided_Warbler_0110_164023.jpg",
+      "mean_similarity": 0.9375007152557373,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\165.Chestnut_sided_Warbler\\Chestnut_Sided_Warbler_0035_163587.jpg",
+      "mean_similarity": 0.9354192614555359,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\165.Chestnut_sided_Warbler\\Chestnut_Sided_Warbler_0081_163854.jpg",
+      "mean_similarity": 0.9347013235092163,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\165.Chestnut_sided_Warbler\\Chestnut_Sided_Warbler_0014_163801.jpg",
+      "mean_similarity": 0.9344415068626404,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\165.Chestnut_sided_Warbler\\Chestnut_Sided_Warbler_0128_163696.jpg",
+      "mean_similarity": 0.9344402551651001,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\165.Chestnut_sided_Warbler\\Chestnut_Sided_Warbler_0101_164324.jpg",
+      "mean_similarity": 0.9343410134315491,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\165.Chestnut_sided_Warbler\\Chestnut_Sided_Warbler_0044_163975.jpg",
+      "mean_similarity": 0.9340399503707886,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\165.Chestnut_sided_Warbler\\Chestnut_Sided_Warbler_0053_163615.jpg",
+      "mean_similarity": 0.9311776757240295,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\165.Chestnut_sided_Warbler\\Chestnut_Sided_Warbler_0073_163868.jpg",
+      "mean_similarity": 0.9300943613052368,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\165.Chestnut_sided_Warbler\\Chestnut_Sided_Warbler_0069_163921.jpg",
+      "mean_similarity": 0.929610013961792,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\165.Chestnut_sided_Warbler\\Chestnut_Sided_Warbler_0075_164231.jpg",
+      "mean_similarity": 0.9293110966682434,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\165.Chestnut_sided_Warbler\\Chestnut_Sided_Warbler_0104_163638.jpg",
+      "mean_similarity": 0.9282927513122559,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\165.Chestnut_sided_Warbler\\Chestnut_Sided_Warbler_0107_164040.jpg",
+      "mean_similarity": 0.923977792263031,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\165.Chestnut_sided_Warbler\\Chestnut_Sided_Warbler_0041_163944.jpg",
+      "mean_similarity": 0.9223138093948364,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\165.Chestnut_sided_Warbler\\Chestnut_Sided_Warbler_0126_164090.jpg",
+      "mean_similarity": 0.9205092787742615,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\165.Chestnut_sided_Warbler\\Chestnut_Sided_Warbler_0105_163996.jpg",
+      "mean_similarity": 0.9186012148857117,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\165.Chestnut_sided_Warbler\\Chestnut_Sided_Warbler_0066_164078.jpg",
+      "mean_similarity": 0.9177451133728027,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\165.Chestnut_sided_Warbler\\Chestnut_Sided_Warbler_0097_163750.jpg",
+      "mean_similarity": 0.91242915391922,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\165.Chestnut_sided_Warbler\\Chestnut_Sided_Warbler_0098_164352.jpg",
+      "mean_similarity": 0.9116498827934265,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\165.Chestnut_sided_Warbler\\Chestnut_Sided_Warbler_0018_164148.jpg",
+      "mean_similarity": 0.8676876425743103,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\165.Chestnut_sided_Warbler\\Chestnut_Sided_Warbler_0124_164109.jpg",
+      "mean_similarity": 0.8586838841438293,
+      "rank": 30
+    }
+  ]
+}

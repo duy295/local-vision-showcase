@@ -1,0 +1,159 @@
+{
+  "class_name": "182.Yellow_Warbler",
+  "class_idx": 181,
+  "num_images_in_class": 30,
+  "ec_size_requested": 30,
+  "ec_size_actual": 30,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\182.Yellow_Warbler\\Yellow_Warbler_0090_176366.jpg",
+      "mean_similarity": 0.9500874280929565,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\182.Yellow_Warbler\\Yellow_Warbler_0034_176204.jpg",
+      "mean_similarity": 0.949907124042511,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\182.Yellow_Warbler\\Yellow_Warbler_0049_176526.jpg",
+      "mean_similarity": 0.949211835861206,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\182.Yellow_Warbler\\Yellow_Warbler_0097_176538.jpg",
+      "mean_similarity": 0.9490606784820557,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\182.Yellow_Warbler\\Yellow_Warbler_0121_176402.jpg",
+      "mean_similarity": 0.9490199685096741,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\182.Yellow_Warbler\\Yellow_Warbler_0025_176189.jpg",
+      "mean_similarity": 0.9488123655319214,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\182.Yellow_Warbler\\Yellow_Warbler_0067_176856.jpg",
+      "mean_similarity": 0.9483842253684998,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\182.Yellow_Warbler\\Yellow_Warbler_0100_176733.jpg",
+      "mean_similarity": 0.9481819272041321,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\182.Yellow_Warbler\\Yellow_Warbler_0044_176367.jpg",
+      "mean_similarity": 0.9481074810028076,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\182.Yellow_Warbler\\Yellow_Warbler_0021_176421.jpg",
+      "mean_similarity": 0.948091447353363,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\182.Yellow_Warbler\\Yellow_Warbler_0119_176485.jpg",
+      "mean_similarity": 0.9479687809944153,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\182.Yellow_Warbler\\Yellow_Warbler_0013_176437.jpg",
+      "mean_similarity": 0.9479482173919678,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\182.Yellow_Warbler\\Yellow_Warbler_0039_176444.jpg",
+      "mean_similarity": 0.9474545121192932,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\182.Yellow_Warbler\\Yellow_Warbler_0069_176346.jpg",
+      "mean_similarity": 0.946856677532196,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\182.Yellow_Warbler\\Yellow_Warbler_0046_176212.jpg",
+      "mean_similarity": 0.9467837810516357,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\182.Yellow_Warbler\\Yellow_Warbler_0095_176202.jpg",
+      "mean_similarity": 0.9466690421104431,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\182.Yellow_Warbler\\Yellow_Warbler_0030_176236.jpg",
+      "mean_similarity": 0.9465671181678772,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\182.Yellow_Warbler\\Yellow_Warbler_0102_176821.jpg",
+      "mean_similarity": 0.9463620781898499,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\182.Yellow_Warbler\\Yellow_Warbler_0094_176365.jpg",
+      "mean_similarity": 0.9463211297988892,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\182.Yellow_Warbler\\Yellow_Warbler_0096_176586.jpg",
+      "mean_similarity": 0.9455682039260864,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\182.Yellow_Warbler\\Yellow_Warbler_0083_176292.jpg",
+      "mean_similarity": 0.9451838731765747,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\182.Yellow_Warbler\\Yellow_Warbler_0007_176616.jpg",
+      "mean_similarity": 0.9449019432067871,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\182.Yellow_Warbler\\Yellow_Warbler_0028_176391.jpg",
+      "mean_similarity": 0.9443094730377197,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\182.Yellow_Warbler\\Yellow_Warbler_0104_176541.jpg",
+      "mean_similarity": 0.9430339336395264,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\182.Yellow_Warbler\\Yellow_Warbler_0020_176364.jpg",
+      "mean_similarity": 0.9429018497467041,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\182.Yellow_Warbler\\Yellow_Warbler_0056_176320.jpg",
+      "mean_similarity": 0.9409299492835999,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\182.Yellow_Warbler\\Yellow_Warbler_0087_176591.jpg",
+      "mean_similarity": 0.9387564659118652,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\182.Yellow_Warbler\\Yellow_Warbler_0004_176947.jpg",
+      "mean_similarity": 0.9353904724121094,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\182.Yellow_Warbler\\Yellow_Warbler_0043_176247.jpg",
+      "mean_similarity": 0.9290570616722107,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\182.Yellow_Warbler\\Yellow_Warbler_0018_176674.jpg",
+      "mean_similarity": 0.9203508496284485,
+      "rank": 30
+    }
+  ]
+}

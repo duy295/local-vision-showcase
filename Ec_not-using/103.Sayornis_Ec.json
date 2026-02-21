@@ -1,0 +1,159 @@
+{
+  "class_name": "103.Sayornis",
+  "class_idx": 102,
+  "num_images_in_class": 30,
+  "ec_size_requested": 30,
+  "ec_size_actual": 30,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\103.Sayornis\\Sayornis_0056_99553.jpg",
+      "mean_similarity": 0.9475356340408325,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\103.Sayornis\\Sayornis_0127_98865.jpg",
+      "mean_similarity": 0.947003185749054,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\103.Sayornis\\Sayornis_0086_98829.jpg",
+      "mean_similarity": 0.9464563131332397,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\103.Sayornis\\Sayornis_0019_98636.jpg",
+      "mean_similarity": 0.9458280205726624,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\103.Sayornis\\Sayornis_0109_98906.jpg",
+      "mean_similarity": 0.9453924894332886,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\103.Sayornis\\Sayornis_0106_98841.jpg",
+      "mean_similarity": 0.9448073506355286,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\103.Sayornis\\Sayornis_0129_98924.jpg",
+      "mean_similarity": 0.9448027014732361,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\103.Sayornis\\Sayornis_0111_98406.jpg",
+      "mean_similarity": 0.9445707201957703,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\103.Sayornis\\Sayornis_0005_98958.jpg",
+      "mean_similarity": 0.9441072940826416,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\103.Sayornis\\Sayornis_0038_98441.jpg",
+      "mean_similarity": 0.943945586681366,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\103.Sayornis\\Sayornis_0076_98941.jpg",
+      "mean_similarity": 0.9439082741737366,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\103.Sayornis\\Sayornis_0066_98309.jpg",
+      "mean_similarity": 0.9437189102172852,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\103.Sayornis\\Sayornis_0011_98610.jpg",
+      "mean_similarity": 0.9429653882980347,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\103.Sayornis\\Sayornis_0070_99354.jpg",
+      "mean_similarity": 0.9409025311470032,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\103.Sayornis\\Sayornis_0010_98611.jpg",
+      "mean_similarity": 0.9407394528388977,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\103.Sayornis\\Sayornis_0081_99508.jpg",
+      "mean_similarity": 0.9405538439750671,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\103.Sayornis\\Sayornis_0098_98419.jpg",
+      "mean_similarity": 0.9405346512794495,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\103.Sayornis\\Sayornis_0036_98323.jpg",
+      "mean_similarity": 0.9404110908508301,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\103.Sayornis\\Sayornis_0099_98593.jpg",
+      "mean_similarity": 0.9400507211685181,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\103.Sayornis\\Sayornis_0085_99503.jpg",
+      "mean_similarity": 0.939668595790863,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\103.Sayornis\\Sayornis_0058_98798.jpg",
+      "mean_similarity": 0.9391530752182007,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\103.Sayornis\\Sayornis_0130_98678.jpg",
+      "mean_similarity": 0.9386504292488098,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\103.Sayornis\\Sayornis_0002_98596.jpg",
+      "mean_similarity": 0.9384199976921082,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\103.Sayornis\\Sayornis_0025_98620.jpg",
+      "mean_similarity": 0.9382296800613403,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\103.Sayornis\\Sayornis_0003_98618.jpg",
+      "mean_similarity": 0.9364891052246094,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\103.Sayornis\\Sayornis_0113_98630.jpg",
+      "mean_similarity": 0.935642659664154,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\103.Sayornis\\Sayornis_0012_98881.jpg",
+      "mean_similarity": 0.934007465839386,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\103.Sayornis\\Sayornis_0114_98976.jpg",
+      "mean_similarity": 0.9327547550201416,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\103.Sayornis\\Sayornis_0133_99129.jpg",
+      "mean_similarity": 0.931991696357727,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\103.Sayornis\\Sayornis_0020_98727.jpg",
+      "mean_similarity": 0.9248660206794739,
+      "rank": 30
+    }
+  ]
+}

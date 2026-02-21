@@ -1,0 +1,159 @@
+{
+  "class_name": "131.Vesper_Sparrow",
+  "class_idx": 130,
+  "num_images_in_class": 30,
+  "ec_size_requested": 30,
+  "ec_size_actual": 30,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\131.Vesper_Sparrow\\Vesper_Sparrow_0015_125653.jpg",
+      "mean_similarity": 0.9458820819854736,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\131.Vesper_Sparrow\\Vesper_Sparrow_0033_125568.jpg",
+      "mean_similarity": 0.9456401467323303,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\131.Vesper_Sparrow\\Vesper_Sparrow_0019_125558.jpg",
+      "mean_similarity": 0.9453856945037842,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\131.Vesper_Sparrow\\Vesper_Sparrow_0017_125534.jpg",
+      "mean_similarity": 0.9451054334640503,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\131.Vesper_Sparrow\\Vesper_Sparrow_0005_125440.jpg",
+      "mean_similarity": 0.944875955581665,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\131.Vesper_Sparrow\\Vesper_Sparrow_0094_125602.jpg",
+      "mean_similarity": 0.9447301626205444,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\131.Vesper_Sparrow\\Vesper_Sparrow_0009_125713.jpg",
+      "mean_similarity": 0.9438534379005432,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\131.Vesper_Sparrow\\Vesper_Sparrow_0007_125630.jpg",
+      "mean_similarity": 0.9437341094017029,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\131.Vesper_Sparrow\\Vesper_Sparrow_0046_125575.jpg",
+      "mean_similarity": 0.9434196352958679,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\131.Vesper_Sparrow\\Vesper_Sparrow_0087_125712.jpg",
+      "mean_similarity": 0.9430485367774963,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\131.Vesper_Sparrow\\Vesper_Sparrow_0057_125649.jpg",
+      "mean_similarity": 0.9427806735038757,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\131.Vesper_Sparrow\\Vesper_Sparrow_0062_125669.jpg",
+      "mean_similarity": 0.9427403211593628,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\131.Vesper_Sparrow\\Vesper_Sparrow_0073_125605.jpg",
+      "mean_similarity": 0.9422573447227478,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\131.Vesper_Sparrow\\Vesper_Sparrow_0053_125641.jpg",
+      "mean_similarity": 0.9408194422721863,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\131.Vesper_Sparrow\\Vesper_Sparrow_0041_125458.jpg",
+      "mean_similarity": 0.9402894377708435,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\131.Vesper_Sparrow\\Vesper_Sparrow_0018_125651.jpg",
+      "mean_similarity": 0.93861323595047,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\131.Vesper_Sparrow\\Vesper_Sparrow_0002_125454.jpg",
+      "mean_similarity": 0.9384733438491821,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\131.Vesper_Sparrow\\Vesper_Sparrow_0076_125737.jpg",
+      "mean_similarity": 0.9380119442939758,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\131.Vesper_Sparrow\\Vesper_Sparrow_0022_125719.jpg",
+      "mean_similarity": 0.9363503456115723,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\131.Vesper_Sparrow\\Vesper_Sparrow_0084_125532.jpg",
+      "mean_similarity": 0.9361363649368286,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\131.Vesper_Sparrow\\Vesper_Sparrow_0066_125619.jpg",
+      "mean_similarity": 0.93590247631073,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\131.Vesper_Sparrow\\Vesper_Sparrow_0079_125579.jpg",
+      "mean_similarity": 0.935626208782196,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\131.Vesper_Sparrow\\Vesper_Sparrow_0044_125470.jpg",
+      "mean_similarity": 0.9350513815879822,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\131.Vesper_Sparrow\\Vesper_Sparrow_0070_125555.jpg",
+      "mean_similarity": 0.9344255924224854,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\131.Vesper_Sparrow\\Vesper_Sparrow_0020_125794.jpg",
+      "mean_similarity": 0.934382975101471,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\131.Vesper_Sparrow\\Vesper_Sparrow_0090_125690.jpg",
+      "mean_similarity": 0.9339333772659302,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\131.Vesper_Sparrow\\Vesper_Sparrow_0080_125606.jpg",
+      "mean_similarity": 0.9337427020072937,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\131.Vesper_Sparrow\\Vesper_Sparrow_0040_125441.jpg",
+      "mean_similarity": 0.9331192970275879,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\131.Vesper_Sparrow\\Vesper_Sparrow_0029_125498.jpg",
+      "mean_similarity": 0.9310111999511719,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\131.Vesper_Sparrow\\Vesper_Sparrow_0013_109937.jpg",
+      "mean_similarity": 0.8914681673049927,
+      "rank": 30
+    }
+  ]
+}

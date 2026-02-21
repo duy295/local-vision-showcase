@@ -1,0 +1,159 @@
+{
+  "class_name": "185.Bohemian_Waxwing",
+  "class_idx": 184,
+  "num_images_in_class": 30,
+  "ec_size_requested": 30,
+  "ec_size_actual": 30,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\185.Bohemian_Waxwing\\Bohemian_Waxwing_0010_796672.jpg",
+      "mean_similarity": 0.9473316669464111,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\185.Bohemian_Waxwing\\Bohemian_Waxwing_0013_796660.jpg",
+      "mean_similarity": 0.9467064142227173,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\185.Bohemian_Waxwing\\Bohemian_Waxwing_0114_177621.jpg",
+      "mean_similarity": 0.9461355209350586,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\185.Bohemian_Waxwing\\Bohemian_Waxwing_0072_177901.jpg",
+      "mean_similarity": 0.9460433125495911,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\185.Bohemian_Waxwing\\Bohemian_Waxwing_0024_177661.jpg",
+      "mean_similarity": 0.9456872344017029,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\185.Bohemian_Waxwing\\Bohemian_Waxwing_0113_177823.jpg",
+      "mean_similarity": 0.9448261857032776,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\185.Bohemian_Waxwing\\Bohemian_Waxwing_0028_796647.jpg",
+      "mean_similarity": 0.9447231888771057,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\185.Bohemian_Waxwing\\Bohemian_Waxwing_0006_796651.jpg",
+      "mean_similarity": 0.9445978403091431,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\185.Bohemian_Waxwing\\Bohemian_Waxwing_0042_177887.jpg",
+      "mean_similarity": 0.9440333247184753,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\185.Bohemian_Waxwing\\Bohemian_Waxwing_0030_177635.jpg",
+      "mean_similarity": 0.9427753686904907,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\185.Bohemian_Waxwing\\Bohemian_Waxwing_0122_796654.jpg",
+      "mean_similarity": 0.9427721500396729,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\185.Bohemian_Waxwing\\Bohemian_Waxwing_0048_177821.jpg",
+      "mean_similarity": 0.9423946738243103,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\185.Bohemian_Waxwing\\Bohemian_Waxwing_0021_796625.jpg",
+      "mean_similarity": 0.9420075416564941,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\185.Bohemian_Waxwing\\Bohemian_Waxwing_0046_177864.jpg",
+      "mean_similarity": 0.9419739842414856,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\185.Bohemian_Waxwing\\Bohemian_Waxwing_0117_177858.jpg",
+      "mean_similarity": 0.9415667057037354,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\185.Bohemian_Waxwing\\Bohemian_Waxwing_0031_796633.jpg",
+      "mean_similarity": 0.9414200782775879,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\185.Bohemian_Waxwing\\Bohemian_Waxwing_0039_177702.jpg",
+      "mean_similarity": 0.9405055642127991,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\185.Bohemian_Waxwing\\Bohemian_Waxwing_0096_177969.jpg",
+      "mean_similarity": 0.9397870898246765,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\185.Bohemian_Waxwing\\Bohemian_Waxwing_0009_177972.jpg",
+      "mean_similarity": 0.9384223222732544,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\185.Bohemian_Waxwing\\Bohemian_Waxwing_0040_177914.jpg",
+      "mean_similarity": 0.9355975985527039,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\185.Bohemian_Waxwing\\Bohemian_Waxwing_0019_177684.jpg",
+      "mean_similarity": 0.9344687461853027,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\185.Bohemian_Waxwing\\Bohemian_Waxwing_0092_796666.jpg",
+      "mean_similarity": 0.9340140223503113,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\185.Bohemian_Waxwing\\Bohemian_Waxwing_0002_177986.jpg",
+      "mean_similarity": 0.9336802959442139,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\185.Bohemian_Waxwing\\Bohemian_Waxwing_0097_177944.jpg",
+      "mean_similarity": 0.9327073097229004,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\185.Bohemian_Waxwing\\Bohemian_Waxwing_0094_177955.jpg",
+      "mean_similarity": 0.9306253790855408,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\185.Bohemian_Waxwing\\Bohemian_Waxwing_0022_177642.jpg",
+      "mean_similarity": 0.9293424487113953,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\185.Bohemian_Waxwing\\Bohemian_Waxwing_0095_177709.jpg",
+      "mean_similarity": 0.927083432674408,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\185.Bohemian_Waxwing\\Bohemian_Waxwing_0091_796634.jpg",
+      "mean_similarity": 0.9184954166412354,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\185.Bohemian_Waxwing\\Bohemian_Waxwing_0075_796678.jpg",
+      "mean_similarity": 0.917303204536438,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\185.Bohemian_Waxwing\\Bohemian_Waxwing_0015_177816.jpg",
+      "mean_similarity": 0.8383818864822388,
+      "rank": 30
+    }
+  ]
+}

@@ -1,0 +1,159 @@
+{
+  "class_name": "187.American_Three_toed_Woodpecker",
+  "class_idx": 186,
+  "num_images_in_class": 30,
+  "ec_size_requested": 30,
+  "ec_size_actual": 30,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\187.American_Three_toed_Woodpecker\\American_Three_Toed_Woodpecker_0024_179876.jpg",
+      "mean_similarity": 0.9494473934173584,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\187.American_Three_toed_Woodpecker\\American_Three_Toed_Woodpecker_0029_796143.jpg",
+      "mean_similarity": 0.9494115710258484,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\187.American_Three_toed_Woodpecker\\American_Three_Toed_Woodpecker_0007_179932.jpg",
+      "mean_similarity": 0.9494048953056335,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\187.American_Three_toed_Woodpecker\\American_Three_Toed_Woodpecker_0018_179831.jpg",
+      "mean_similarity": 0.949398934841156,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\187.American_Three_toed_Woodpecker\\American_Three_Toed_Woodpecker_0004_179908.jpg",
+      "mean_similarity": 0.9492722749710083,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\187.American_Three_toed_Woodpecker\\American_Three_Toed_Woodpecker_0016_179927.jpg",
+      "mean_similarity": 0.9491168260574341,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\187.American_Three_toed_Woodpecker\\American_Three_Toed_Woodpecker_0037_796166.jpg",
+      "mean_similarity": 0.9485815763473511,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\187.American_Three_toed_Woodpecker\\American_Three_Toed_Woodpecker_0031_796172.jpg",
+      "mean_similarity": 0.9485405087471008,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\187.American_Three_toed_Woodpecker\\American_Three_Toed_Woodpecker_0012_179905.jpg",
+      "mean_similarity": 0.9484124183654785,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\187.American_Three_toed_Woodpecker\\American_Three_Toed_Woodpecker_0009_179919.jpg",
+      "mean_similarity": 0.9483814835548401,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\187.American_Three_toed_Woodpecker\\American_Three_Toed_Woodpecker_0001_179912.jpg",
+      "mean_similarity": 0.948335587978363,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\187.American_Three_toed_Woodpecker\\American_Three_Toed_Woodpecker_0015_179827.jpg",
+      "mean_similarity": 0.9482784867286682,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\187.American_Three_toed_Woodpecker\\American_Three_Toed_Woodpecker_0041_796150.jpg",
+      "mean_similarity": 0.9481703042984009,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\187.American_Three_toed_Woodpecker\\American_Three_Toed_Woodpecker_0039_796168.jpg",
+      "mean_similarity": 0.9479917287826538,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\187.American_Three_toed_Woodpecker\\American_Three_Toed_Woodpecker_0033_796169.jpg",
+      "mean_similarity": 0.9477956295013428,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\187.American_Three_toed_Woodpecker\\American_Three_Toed_Woodpecker_0027_796147.jpg",
+      "mean_similarity": 0.9476370811462402,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\187.American_Three_toed_Woodpecker\\American_Three_Toed_Woodpecker_0030_796144.jpg",
+      "mean_similarity": 0.9476248621940613,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\187.American_Three_toed_Woodpecker\\American_Three_Toed_Woodpecker_0013_179833.jpg",
+      "mean_similarity": 0.9471352696418762,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\187.American_Three_toed_Woodpecker\\American_Three_Toed_Woodpecker_0038_796182.jpg",
+      "mean_similarity": 0.946731686592102,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\187.American_Three_toed_Woodpecker\\American_Three_Toed_Woodpecker_0008_179850.jpg",
+      "mean_similarity": 0.9465349316596985,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\187.American_Three_toed_Woodpecker\\American_Three_Toed_Woodpecker_0011_179847.jpg",
+      "mean_similarity": 0.9464752078056335,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\187.American_Three_toed_Woodpecker\\American_Three_Toed_Woodpecker_0002_179885.jpg",
+      "mean_similarity": 0.9462966322898865,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\187.American_Three_toed_Woodpecker\\American_Three_Toed_Woodpecker_0010_179874.jpg",
+      "mean_similarity": 0.9457002282142639,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\187.American_Three_toed_Woodpecker\\American_Three_Toed_Woodpecker_0046_796153.jpg",
+      "mean_similarity": 0.9453555345535278,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\187.American_Three_toed_Woodpecker\\American_Three_Toed_Woodpecker_0049_796191.jpg",
+      "mean_similarity": 0.9449108839035034,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\187.American_Three_toed_Woodpecker\\American_Three_Toed_Woodpecker_0025_179918.jpg",
+      "mean_similarity": 0.9438859224319458,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\187.American_Three_toed_Woodpecker\\American_Three_Toed_Woodpecker_0006_179838.jpg",
+      "mean_similarity": 0.9420689344406128,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\187.American_Three_toed_Woodpecker\\American_Three_Toed_Woodpecker_0043_796187.jpg",
+      "mean_similarity": 0.9417281150817871,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\187.American_Three_toed_Woodpecker\\American_Three_Toed_Woodpecker_0021_179832.jpg",
+      "mean_similarity": 0.9377739429473877,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\187.American_Three_toed_Woodpecker\\American_Three_Toed_Woodpecker_0044_796151.jpg",
+      "mean_similarity": 0.9336020350456238,
+      "rank": 30
+    }
+  ]
+}

@@ -1,0 +1,159 @@
+{
+  "class_name": "188.Pileated_Woodpecker",
+  "class_idx": 187,
+  "num_images_in_class": 30,
+  "ec_size_requested": 30,
+  "ec_size_actual": 30,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\188.Pileated_Woodpecker\\Pileated_Woodpecker_0125_179971.jpg",
+      "mean_similarity": 0.9444575309753418,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\188.Pileated_Woodpecker\\Pileated_Woodpecker_0088_180054.jpg",
+      "mean_similarity": 0.9439212083816528,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\188.Pileated_Woodpecker\\Pileated_Woodpecker_0057_180612.jpg",
+      "mean_similarity": 0.9431912899017334,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\188.Pileated_Woodpecker\\Pileated_Woodpecker_0056_180094.jpg",
+      "mean_similarity": 0.9426531195640564,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\188.Pileated_Woodpecker\\Pileated_Woodpecker_0059_180177.jpg",
+      "mean_similarity": 0.942232072353363,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\188.Pileated_Woodpecker\\Pileated_Woodpecker_0077_180286.jpg",
+      "mean_similarity": 0.9419910907745361,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\188.Pileated_Woodpecker\\Pileated_Woodpecker_0110_180521.jpg",
+      "mean_similarity": 0.9411212205886841,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\188.Pileated_Woodpecker\\Pileated_Woodpecker_0105_180246.jpg",
+      "mean_similarity": 0.9410794377326965,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\188.Pileated_Woodpecker\\Pileated_Woodpecker_0124_180168.jpg",
+      "mean_similarity": 0.940701425075531,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\188.Pileated_Woodpecker\\Pileated_Woodpecker_0028_180258.jpg",
+      "mean_similarity": 0.9406476616859436,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\188.Pileated_Woodpecker\\Pileated_Woodpecker_0081_180249.jpg",
+      "mean_similarity": 0.9405930638313293,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\188.Pileated_Woodpecker\\Pileated_Woodpecker_0038_180300.jpg",
+      "mean_similarity": 0.940401554107666,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\188.Pileated_Woodpecker\\Pileated_Woodpecker_0004_180307.jpg",
+      "mean_similarity": 0.9394925832748413,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\188.Pileated_Woodpecker\\Pileated_Woodpecker_0078_180236.jpg",
+      "mean_similarity": 0.9390271902084351,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\188.Pileated_Woodpecker\\Pileated_Woodpecker_0065_180324.jpg",
+      "mean_similarity": 0.9388184547424316,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\188.Pileated_Woodpecker\\Pileated_Woodpecker_0033_180179.jpg",
+      "mean_similarity": 0.9384315013885498,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\188.Pileated_Woodpecker\\Pileated_Woodpecker_0112_180439.jpg",
+      "mean_similarity": 0.9370747208595276,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\188.Pileated_Woodpecker\\Pileated_Woodpecker_0087_179959.jpg",
+      "mean_similarity": 0.9370229840278625,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\188.Pileated_Woodpecker\\Pileated_Woodpecker_0034_180419.jpg",
+      "mean_similarity": 0.9365016222000122,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\188.Pileated_Woodpecker\\Pileated_Woodpecker_0051_179965.jpg",
+      "mean_similarity": 0.9362850785255432,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\188.Pileated_Woodpecker\\Pileated_Woodpecker_0030_180208.jpg",
+      "mean_similarity": 0.9360522627830505,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\188.Pileated_Woodpecker\\Pileated_Woodpecker_0072_180006.jpg",
+      "mean_similarity": 0.9344657063484192,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\188.Pileated_Woodpecker\\Pileated_Woodpecker_0089_179969.jpg",
+      "mean_similarity": 0.9316896796226501,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\188.Pileated_Woodpecker\\Pileated_Woodpecker_0116_179948.jpg",
+      "mean_similarity": 0.931102991104126,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\188.Pileated_Woodpecker\\Pileated_Woodpecker_0011_180519.jpg",
+      "mean_similarity": 0.930840790271759,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\188.Pileated_Woodpecker\\Pileated_Woodpecker_0032_180347.jpg",
+      "mean_similarity": 0.9301103353500366,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\188.Pileated_Woodpecker\\Pileated_Woodpecker_0025_180253.jpg",
+      "mean_similarity": 0.9265506267547607,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\188.Pileated_Woodpecker\\Pileated_Woodpecker_0079_180388.jpg",
+      "mean_similarity": 0.9264334440231323,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\188.Pileated_Woodpecker\\Pileated_Woodpecker_0119_180030.jpg",
+      "mean_similarity": 0.9182685017585754,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\188.Pileated_Woodpecker\\Pileated_Woodpecker_0008_180400.jpg",
+      "mean_similarity": 0.9077429175376892,
+      "rank": 30
+    }
+  ]
+}

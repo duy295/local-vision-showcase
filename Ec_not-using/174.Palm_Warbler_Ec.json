@@ -1,0 +1,159 @@
+{
+  "class_name": "174.Palm_Warbler",
+  "class_idx": 173,
+  "num_images_in_class": 30,
+  "ec_size_requested": 30,
+  "ec_size_actual": 30,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\174.Palm_Warbler\\Palm_Warbler_0020_168857.jpg",
+      "mean_similarity": 0.9419569969177246,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\174.Palm_Warbler\\Palm_Warbler_0056_168740.jpg",
+      "mean_similarity": 0.9415634870529175,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\174.Palm_Warbler\\Palm_Warbler_0006_169429.jpg",
+      "mean_similarity": 0.9394860863685608,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\174.Palm_Warbler\\Palm_Warbler_0095_170610.jpg",
+      "mean_similarity": 0.9358264207839966,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\174.Palm_Warbler\\Palm_Warbler_0083_170281.jpg",
+      "mean_similarity": 0.9352815747261047,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\174.Palm_Warbler\\Palm_Warbler_0118_170081.jpg",
+      "mean_similarity": 0.9349212646484375,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\174.Palm_Warbler\\Palm_Warbler_0060_168686.jpg",
+      "mean_similarity": 0.9343700408935547,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\174.Palm_Warbler\\Palm_Warbler_0028_169670.jpg",
+      "mean_similarity": 0.9327569603919983,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\174.Palm_Warbler\\Palm_Warbler_0093_170499.jpg",
+      "mean_similarity": 0.9319273233413696,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\174.Palm_Warbler\\Palm_Warbler_0117_170073.jpg",
+      "mean_similarity": 0.9314219951629639,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\174.Palm_Warbler\\Palm_Warbler_0113_170080.jpg",
+      "mean_similarity": 0.9313262104988098,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\174.Palm_Warbler\\Palm_Warbler_0134_168943.jpg",
+      "mean_similarity": 0.930555522441864,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\174.Palm_Warbler\\Palm_Warbler_0003_170474.jpg",
+      "mean_similarity": 0.9299620389938354,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\174.Palm_Warbler\\Palm_Warbler_0133_169575.jpg",
+      "mean_similarity": 0.9299328327178955,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\174.Palm_Warbler\\Palm_Warbler_0004_168786.jpg",
+      "mean_similarity": 0.9295811057090759,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\174.Palm_Warbler\\Palm_Warbler_0055_170219.jpg",
+      "mean_similarity": 0.9269497990608215,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\174.Palm_Warbler\\Palm_Warbler_0040_169922.jpg",
+      "mean_similarity": 0.9259256720542908,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\174.Palm_Warbler\\Palm_Warbler_0126_170311.jpg",
+      "mean_similarity": 0.9244435429573059,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\174.Palm_Warbler\\Palm_Warbler_0136_170276.jpg",
+      "mean_similarity": 0.9240668416023254,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\174.Palm_Warbler\\Palm_Warbler_0024_170501.jpg",
+      "mean_similarity": 0.9233720302581787,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\174.Palm_Warbler\\Palm_Warbler_0012_170857.jpg",
+      "mean_similarity": 0.9232208728790283,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\174.Palm_Warbler\\Palm_Warbler_0049_169885.jpg",
+      "mean_similarity": 0.9167835712432861,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\174.Palm_Warbler\\Palm_Warbler_0054_169175.jpg",
+      "mean_similarity": 0.9135630130767822,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\174.Palm_Warbler\\Palm_Warbler_0089_168968.jpg",
+      "mean_similarity": 0.9055717587471008,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\174.Palm_Warbler\\Palm_Warbler_0010_169452.jpg",
+      "mean_similarity": 0.9040666222572327,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\174.Palm_Warbler\\Palm_Warbler_0001_170297.jpg",
+      "mean_similarity": 0.9013135433197021,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\174.Palm_Warbler\\Palm_Warbler_0015_169626.jpg",
+      "mean_similarity": 0.8958507180213928,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\174.Palm_Warbler\\Palm_Warbler_0061_169954.jpg",
+      "mean_similarity": 0.875860333442688,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\174.Palm_Warbler\\Palm_Warbler_0112_169595.jpg",
+      "mean_similarity": 0.8469251394271851,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\174.Palm_Warbler\\Palm_Warbler_0092_170604.jpg",
+      "mean_similarity": 0.7781050801277161,
+      "rank": 30
+    }
+  ]
+}

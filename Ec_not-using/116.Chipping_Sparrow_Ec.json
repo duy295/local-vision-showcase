@@ -1,0 +1,159 @@
+{
+  "class_name": "116.Chipping_Sparrow",
+  "class_idx": 115,
+  "num_images_in_class": 30,
+  "ec_size_requested": 30,
+  "ec_size_actual": 30,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\116.Chipping_Sparrow\\Chipping_Sparrow_0039_107864.jpg",
+      "mean_similarity": 0.9430765509605408,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\116.Chipping_Sparrow\\Chipping_Sparrow_0045_109985.jpg",
+      "mean_similarity": 0.9422670602798462,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\116.Chipping_Sparrow\\Chipping_Sparrow_0071_108735.jpg",
+      "mean_similarity": 0.9421632885932922,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\116.Chipping_Sparrow\\Chipping_Sparrow_0064_108204.jpg",
+      "mean_similarity": 0.9419407248497009,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\116.Chipping_Sparrow\\Chipping_Sparrow_0008_107810.jpg",
+      "mean_similarity": 0.9418781995773315,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\116.Chipping_Sparrow\\Chipping_Sparrow_0076_108919.jpg",
+      "mean_similarity": 0.941405713558197,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\116.Chipping_Sparrow\\Chipping_Sparrow_0038_109234.jpg",
+      "mean_similarity": 0.940767765045166,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\116.Chipping_Sparrow\\Chipping_Sparrow_0025_108653.jpg",
+      "mean_similarity": 0.9407201409339905,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\116.Chipping_Sparrow\\Chipping_Sparrow_0079_110449.jpg",
+      "mean_similarity": 0.9405901432037354,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\116.Chipping_Sparrow\\Chipping_Sparrow_0036_107695.jpg",
+      "mean_similarity": 0.9403349757194519,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\116.Chipping_Sparrow\\Chipping_Sparrow_0073_108881.jpg",
+      "mean_similarity": 0.9401594400405884,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\116.Chipping_Sparrow\\Chipping_Sparrow_0011_108081.jpg",
+      "mean_similarity": 0.9399983882904053,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\116.Chipping_Sparrow\\Chipping_Sparrow_0012_108576.jpg",
+      "mean_similarity": 0.939516544342041,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\116.Chipping_Sparrow\\Chipping_Sparrow_0032_108882.jpg",
+      "mean_similarity": 0.9391720294952393,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\116.Chipping_Sparrow\\Chipping_Sparrow_0023_108684.jpg",
+      "mean_similarity": 0.9388173818588257,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\116.Chipping_Sparrow\\Chipping_Sparrow_0110_108974.jpg",
+      "mean_similarity": 0.9385738372802734,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\116.Chipping_Sparrow\\Chipping_Sparrow_0015_108462.jpg",
+      "mean_similarity": 0.9385013580322266,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\116.Chipping_Sparrow\\Chipping_Sparrow_0042_107791.jpg",
+      "mean_similarity": 0.9384638667106628,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\116.Chipping_Sparrow\\Chipping_Sparrow_0080_108685.jpg",
+      "mean_similarity": 0.9383344054222107,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\116.Chipping_Sparrow\\Chipping_Sparrow_0066_109187.jpg",
+      "mean_similarity": 0.9374440312385559,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\116.Chipping_Sparrow\\Chipping_Sparrow_0063_108139.jpg",
+      "mean_similarity": 0.9370824694633484,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\116.Chipping_Sparrow\\Chipping_Sparrow_0033_109069.jpg",
+      "mean_similarity": 0.9369280338287354,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\116.Chipping_Sparrow\\Chipping_Sparrow_0037_109851.jpg",
+      "mean_similarity": 0.9327555894851685,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\116.Chipping_Sparrow\\Chipping_Sparrow_0098_108644.jpg",
+      "mean_similarity": 0.9318619966506958,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\116.Chipping_Sparrow\\Chipping_Sparrow_0001_108638.jpg",
+      "mean_similarity": 0.9295922517776489,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\116.Chipping_Sparrow\\Chipping_Sparrow_0030_109741.jpg",
+      "mean_similarity": 0.9283774495124817,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\116.Chipping_Sparrow\\Chipping_Sparrow_0088_107562.jpg",
+      "mean_similarity": 0.925207257270813,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\116.Chipping_Sparrow\\Chipping_Sparrow_0010_109760.jpg",
+      "mean_similarity": 0.9191870093345642,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\116.Chipping_Sparrow\\Chipping_Sparrow_0053_109774.jpg",
+      "mean_similarity": 0.896867573261261,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\116.Chipping_Sparrow\\Chipping_Sparrow_0005_108931.jpg",
+      "mean_similarity": 0.8873171210289001,
+      "rank": 30
+    }
+  ]
+}

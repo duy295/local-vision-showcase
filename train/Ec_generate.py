@@ -22,8 +22,6 @@ from backbone.relation_net import BilinearRelationNet
 
 
 class ScoreCombinerNet(torch.nn.Module):
-    """Match architecture from train/main.py."""
-
     def __init__(self, hidden_dim=64):
         super().__init__()
         self.net = torch.nn.Sequential(
@@ -32,13 +30,15 @@ class ScoreCombinerNet(torch.nn.Module):
             torch.nn.Dropout(0.2),
             torch.nn.Linear(hidden_dim, hidden_dim // 2),
             torch.nn.ReLU(),
-            torch.nn.Linear(hidden_dim // 2, 1),
+            torch.nn.Linear(hidden_dim // 2, 1)
         )
-
+    
     def forward(self, scores1, scores2, scores3):
         combined_input = torch.stack([scores1, scores2, scores3], dim=1)
         output = self.net(combined_input)
-        return torch.clamp(output.squeeze(-1), 0.0, 1.0)
+        # SỬA Ở ĐÂY: Dùng Sigmoid và Scaling y hệt lúc Train
+        return torch.sigmoid(output.squeeze(-1)) * 0.98
+device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
 
 class ImageFolderWithPath(Dataset):
@@ -109,10 +109,16 @@ def parse_args():
     return parser.parse_args()
 
 
-def resolve_images_dir(root):
+'''def resolve_images_dir(root):
     if root.replace("\\", "/").endswith("/images") or root.replace("\\", "/").endswith("images"):
         return root
     return os.path.join(root, "images")
+'''
+
+def resolve_images_dir(root):
+    if root.replace("\\", "/").endswith("/train") or root.replace("\\", "/").endswith("train"):
+        return root
+    return os.path.join(root, "train")
 
 
 def load_state_dict_flexible(model, ckpt_path, model_name):

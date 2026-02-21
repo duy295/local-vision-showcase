@@ -1,0 +1,159 @@
+{
+  "class_name": "186.Cedar_Waxwing",
+  "class_idx": 185,
+  "num_images_in_class": 30,
+  "ec_size_requested": 30,
+  "ec_size_actual": 30,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\186.Cedar_Waxwing\\Cedar_Waxwing_0093_178139.jpg",
+      "mean_similarity": 0.9480860829353333,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\186.Cedar_Waxwing\\Cedar_Waxwing_0048_178960.jpg",
+      "mean_similarity": 0.9478683471679688,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\186.Cedar_Waxwing\\Cedar_Waxwing_0077_178191.jpg",
+      "mean_similarity": 0.9477019309997559,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\186.Cedar_Waxwing\\Cedar_Waxwing_0029_179569.jpg",
+      "mean_similarity": 0.947684109210968,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\186.Cedar_Waxwing\\Cedar_Waxwing_0062_178788.jpg",
+      "mean_similarity": 0.9472866654396057,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\186.Cedar_Waxwing\\Cedar_Waxwing_0098_178971.jpg",
+      "mean_similarity": 0.9471676349639893,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\186.Cedar_Waxwing\\Cedar_Waxwing_0008_178345.jpg",
+      "mean_similarity": 0.9471390843391418,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\186.Cedar_Waxwing\\Cedar_Waxwing_0101_179707.jpg",
+      "mean_similarity": 0.9468567967414856,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\186.Cedar_Waxwing\\Cedar_Waxwing_0013_178830.jpg",
+      "mean_similarity": 0.946710467338562,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\186.Cedar_Waxwing\\Cedar_Waxwing_0125_178921.jpg",
+      "mean_similarity": 0.9467057585716248,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\186.Cedar_Waxwing\\Cedar_Waxwing_0037_179710.jpg",
+      "mean_similarity": 0.9466627836227417,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\186.Cedar_Waxwing\\Cedar_Waxwing_0031_178929.jpg",
+      "mean_similarity": 0.9465911984443665,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\186.Cedar_Waxwing\\Cedar_Waxwing_0076_178732.jpg",
+      "mean_similarity": 0.9457297325134277,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\186.Cedar_Waxwing\\Cedar_Waxwing_0004_179215.jpg",
+      "mean_similarity": 0.945645272731781,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\186.Cedar_Waxwing\\Cedar_Waxwing_0016_178629.jpg",
+      "mean_similarity": 0.9454500675201416,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\186.Cedar_Waxwing\\Cedar_Waxwing_0060_178190.jpg",
+      "mean_similarity": 0.9450314044952393,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\186.Cedar_Waxwing\\Cedar_Waxwing_0096_178164.jpg",
+      "mean_similarity": 0.9444499015808105,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\186.Cedar_Waxwing\\Cedar_Waxwing_0065_179017.jpg",
+      "mean_similarity": 0.9438894987106323,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\186.Cedar_Waxwing\\Cedar_Waxwing_0094_178049.jpg",
+      "mean_similarity": 0.9438856840133667,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\186.Cedar_Waxwing\\Cedar_Waxwing_0003_178570.jpg",
+      "mean_similarity": 0.9436488747596741,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\186.Cedar_Waxwing\\Cedar_Waxwing_0095_178163.jpg",
+      "mean_similarity": 0.9428592324256897,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\186.Cedar_Waxwing\\Cedar_Waxwing_0054_178141.jpg",
+      "mean_similarity": 0.9424272775650024,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\186.Cedar_Waxwing\\Cedar_Waxwing_0006_179394.jpg",
+      "mean_similarity": 0.9420769214630127,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\186.Cedar_Waxwing\\Cedar_Waxwing_0066_178719.jpg",
+      "mean_similarity": 0.940954327583313,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\186.Cedar_Waxwing\\Cedar_Waxwing_0130_178308.jpg",
+      "mean_similarity": 0.9403741955757141,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\186.Cedar_Waxwing\\Cedar_Waxwing_0092_179123.jpg",
+      "mean_similarity": 0.9395051598548889,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\186.Cedar_Waxwing\\Cedar_Waxwing_0026_178878.jpg",
+      "mean_similarity": 0.9366955757141113,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\186.Cedar_Waxwing\\Cedar_Waxwing_0041_179183.jpg",
+      "mean_similarity": 0.9351460933685303,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\186.Cedar_Waxwing\\Cedar_Waxwing_0118_178779.jpg",
+      "mean_similarity": 0.9285633563995361,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\186.Cedar_Waxwing\\Cedar_Waxwing_0103_179559.jpg",
+      "mean_similarity": 0.9002506732940674,
+      "rank": 30
+    }
+  ]
+}

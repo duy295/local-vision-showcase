@@ -1,0 +1,159 @@
+{
+  "class_name": "183.Northern_Waterthrush",
+  "class_idx": 182,
+  "num_images_in_class": 30,
+  "ec_size_requested": 30,
+  "ec_size_actual": 30,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\183.Northern_Waterthrush\\Northern_Waterthrush_0061_177172.jpg",
+      "mean_similarity": 0.950160026550293,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\183.Northern_Waterthrush\\Northern_Waterthrush_0015_177075.jpg",
+      "mean_similarity": 0.9500917196273804,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\183.Northern_Waterthrush\\Northern_Waterthrush_0043_177070.jpg",
+      "mean_similarity": 0.9499838948249817,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\183.Northern_Waterthrush\\Northern_Waterthrush_0011_177311.jpg",
+      "mean_similarity": 0.9497106075286865,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\183.Northern_Waterthrush\\Northern_Waterthrush_0104_177137.jpg",
+      "mean_similarity": 0.949702799320221,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\183.Northern_Waterthrush\\Northern_Waterthrush_0105_176970.jpg",
+      "mean_similarity": 0.9496191740036011,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\183.Northern_Waterthrush\\Northern_Waterthrush_0013_177343.jpg",
+      "mean_similarity": 0.9495630264282227,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\183.Northern_Waterthrush\\Northern_Waterthrush_0014_177305.jpg",
+      "mean_similarity": 0.9495076537132263,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\183.Northern_Waterthrush\\Northern_Waterthrush_0080_177080.jpg",
+      "mean_similarity": 0.9493892192840576,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\183.Northern_Waterthrush\\Northern_Waterthrush_0006_176988.jpg",
+      "mean_similarity": 0.9493856430053711,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\183.Northern_Waterthrush\\Northern_Waterthrush_0051_177120.jpg",
+      "mean_similarity": 0.9493304491043091,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\183.Northern_Waterthrush\\Northern_Waterthrush_0084_177239.jpg",
+      "mean_similarity": 0.9493110775947571,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\183.Northern_Waterthrush\\Northern_Waterthrush_0089_177167.jpg",
+      "mean_similarity": 0.949226438999176,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\183.Northern_Waterthrush\\Northern_Waterthrush_0020_177149.jpg",
+      "mean_similarity": 0.9491317272186279,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\183.Northern_Waterthrush\\Northern_Waterthrush_0016_177345.jpg",
+      "mean_similarity": 0.949009358882904,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\183.Northern_Waterthrush\\Northern_Waterthrush_0044_176961.jpg",
+      "mean_similarity": 0.9489782452583313,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\183.Northern_Waterthrush\\Northern_Waterthrush_0022_177003.jpg",
+      "mean_similarity": 0.9488502144813538,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\183.Northern_Waterthrush\\Northern_Waterthrush_0066_177110.jpg",
+      "mean_similarity": 0.9488346576690674,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\183.Northern_Waterthrush\\Northern_Waterthrush_0024_177293.jpg",
+      "mean_similarity": 0.9487217664718628,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\183.Northern_Waterthrush\\Northern_Waterthrush_0070_177096.jpg",
+      "mean_similarity": 0.9487175345420837,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\183.Northern_Waterthrush\\Northern_Waterthrush_0108_177059.jpg",
+      "mean_similarity": 0.9485156536102295,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\183.Northern_Waterthrush\\Northern_Waterthrush_0048_177129.jpg",
+      "mean_similarity": 0.9484594464302063,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\183.Northern_Waterthrush\\Northern_Waterthrush_0049_177173.jpg",
+      "mean_similarity": 0.9483802914619446,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\183.Northern_Waterthrush\\Northern_Waterthrush_0009_177078.jpg",
+      "mean_similarity": 0.9479404091835022,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\183.Northern_Waterthrush\\Northern_Waterthrush_0103_177162.jpg",
+      "mean_similarity": 0.9479025602340698,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\183.Northern_Waterthrush\\Northern_Waterthrush_0090_177283.jpg",
+      "mean_similarity": 0.9478081464767456,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\183.Northern_Waterthrush\\Northern_Waterthrush_0068_177273.jpg",
+      "mean_similarity": 0.9475153088569641,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\183.Northern_Waterthrush\\Northern_Waterthrush_0055_177114.jpg",
+      "mean_similarity": 0.9463590979576111,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\183.Northern_Waterthrush\\Northern_Waterthrush_0050_177331.jpg",
+      "mean_similarity": 0.9232794642448425,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\183.Northern_Waterthrush\\Northern_Waterthrush_0076_176986.jpg",
+      "mean_similarity": 0.8905928730964661,
+      "rank": 30
+    }
+  ]
+}

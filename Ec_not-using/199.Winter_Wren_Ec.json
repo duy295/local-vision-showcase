@@ -1,0 +1,159 @@
+{
+  "class_name": "199.Winter_Wren",
+  "class_idx": 198,
+  "num_images_in_class": 30,
+  "ec_size_requested": 30,
+  "ec_size_actual": 30,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\199.Winter_Wren\\Winter_Wren_0066_189637.jpg",
+      "mean_similarity": 0.950024425983429,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\199.Winter_Wren\\Winter_Wren_0029_190376.jpg",
+      "mean_similarity": 0.9495344161987305,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\199.Winter_Wren\\Winter_Wren_0026_189816.jpg",
+      "mean_similarity": 0.9493340849876404,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\199.Winter_Wren\\Winter_Wren_0119_189545.jpg",
+      "mean_similarity": 0.9491337537765503,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\199.Winter_Wren\\Winter_Wren_0044_190068.jpg",
+      "mean_similarity": 0.9489455223083496,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\199.Winter_Wren\\Winter_Wren_0116_189834.jpg",
+      "mean_similarity": 0.9487093687057495,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\199.Winter_Wren\\Winter_Wren_0129_189843.jpg",
+      "mean_similarity": 0.9487053155899048,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\199.Winter_Wren\\Winter_Wren_0075_189578.jpg",
+      "mean_similarity": 0.9484371542930603,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\199.Winter_Wren\\Winter_Wren_0113_189558.jpg",
+      "mean_similarity": 0.948399007320404,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\199.Winter_Wren\\Winter_Wren_0033_189635.jpg",
+      "mean_similarity": 0.9483518600463867,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\199.Winter_Wren\\Winter_Wren_0095_189985.jpg",
+      "mean_similarity": 0.9483305811882019,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\199.Winter_Wren\\Winter_Wren_0081_190049.jpg",
+      "mean_similarity": 0.9482980966567993,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\199.Winter_Wren\\Winter_Wren_0030_190311.jpg",
+      "mean_similarity": 0.9482482075691223,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\199.Winter_Wren\\Winter_Wren_0087_190135.jpg",
+      "mean_similarity": 0.9481158256530762,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\199.Winter_Wren\\Winter_Wren_0037_190123.jpg",
+      "mean_similarity": 0.9479562044143677,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\199.Winter_Wren\\Winter_Wren_0015_190099.jpg",
+      "mean_similarity": 0.9476664066314697,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\199.Winter_Wren\\Winter_Wren_0117_189999.jpg",
+      "mean_similarity": 0.9474069476127625,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\199.Winter_Wren\\Winter_Wren_0072_189521.jpg",
+      "mean_similarity": 0.9471675157546997,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\199.Winter_Wren\\Winter_Wren_0005_189750.jpg",
+      "mean_similarity": 0.9471325278282166,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\199.Winter_Wren\\Winter_Wren_0130_189531.jpg",
+      "mean_similarity": 0.9467517137527466,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\199.Winter_Wren\\Winter_Wren_0131_190061.jpg",
+      "mean_similarity": 0.9462498426437378,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\199.Winter_Wren\\Winter_Wren_0103_189509.jpg",
+      "mean_similarity": 0.9455206990242004,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\199.Winter_Wren\\Winter_Wren_0077_190366.jpg",
+      "mean_similarity": 0.9442482590675354,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\199.Winter_Wren\\Winter_Wren_0007_190052.jpg",
+      "mean_similarity": 0.9438313245773315,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\199.Winter_Wren\\Winter_Wren_0118_189805.jpg",
+      "mean_similarity": 0.9438125491142273,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\199.Winter_Wren\\Winter_Wren_0051_189990.jpg",
+      "mean_similarity": 0.9434325098991394,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\199.Winter_Wren\\Winter_Wren_0065_189675.jpg",
+      "mean_similarity": 0.9433603286743164,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\199.Winter_Wren\\Winter_Wren_0128_190093.jpg",
+      "mean_similarity": 0.9387107491493225,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\199.Winter_Wren\\Winter_Wren_0126_190342.jpg",
+      "mean_similarity": 0.9365401268005371,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\199.Winter_Wren\\Winter_Wren_0109_189850.jpg",
+      "mean_similarity": 0.9343389272689819,
+      "rank": 30
+    }
+  ]
+}

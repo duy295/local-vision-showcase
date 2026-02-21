@@ -1,0 +1,159 @@
+{
+  "class_name": "180.Wilson_Warbler",
+  "class_idx": 179,
+  "num_images_in_class": 30,
+  "ec_size_requested": 30,
+  "ec_size_actual": 30,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\180.Wilson_Warbler\\Wilson_Warbler_0020_175505.jpg",
+      "mean_similarity": 0.9505753517150879,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\180.Wilson_Warbler\\Wilson_Warbler_0102_175769.jpg",
+      "mean_similarity": 0.9504297375679016,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\180.Wilson_Warbler\\Wilson_Warbler_0054_175285.jpg",
+      "mean_similarity": 0.9499741196632385,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\180.Wilson_Warbler\\Wilson_Warbler_0050_175573.jpg",
+      "mean_similarity": 0.9499045610427856,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\180.Wilson_Warbler\\Wilson_Warbler_0136_175186.jpg",
+      "mean_similarity": 0.9498494863510132,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\180.Wilson_Warbler\\Wilson_Warbler_0129_175256.jpg",
+      "mean_similarity": 0.9497345089912415,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\180.Wilson_Warbler\\Wilson_Warbler_0059_175249.jpg",
+      "mean_similarity": 0.9495795369148254,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\180.Wilson_Warbler\\Wilson_Warbler_0076_175780.jpg",
+      "mean_similarity": 0.9495599269866943,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\180.Wilson_Warbler\\Wilson_Warbler_0047_175304.jpg",
+      "mean_similarity": 0.949531078338623,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\180.Wilson_Warbler\\Wilson_Warbler_0117_175262.jpg",
+      "mean_similarity": 0.948957085609436,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\180.Wilson_Warbler\\Wilson_Warbler_0126_175368.jpg",
+      "mean_similarity": 0.9488483667373657,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\180.Wilson_Warbler\\Wilson_Warbler_0025_175859.jpg",
+      "mean_similarity": 0.9487509727478027,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\180.Wilson_Warbler\\Wilson_Warbler_0041_175464.jpg",
+      "mean_similarity": 0.948749840259552,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\180.Wilson_Warbler\\Wilson_Warbler_0108_175179.jpg",
+      "mean_similarity": 0.9486015439033508,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\180.Wilson_Warbler\\Wilson_Warbler_0033_175259.jpg",
+      "mean_similarity": 0.9485935568809509,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\180.Wilson_Warbler\\Wilson_Warbler_0089_175619.jpg",
+      "mean_similarity": 0.9485486149787903,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\180.Wilson_Warbler\\Wilson_Warbler_0083_175253.jpg",
+      "mean_similarity": 0.9483649134635925,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\180.Wilson_Warbler\\Wilson_Warbler_0122_175937.jpg",
+      "mean_similarity": 0.948058009147644,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\180.Wilson_Warbler\\Wilson_Warbler_0070_175169.jpg",
+      "mean_similarity": 0.9478554129600525,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\180.Wilson_Warbler\\Wilson_Warbler_0107_175320.jpg",
+      "mean_similarity": 0.9467824697494507,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\180.Wilson_Warbler\\Wilson_Warbler_0069_175181.jpg",
+      "mean_similarity": 0.9465080499649048,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\180.Wilson_Warbler\\Wilson_Warbler_0065_175924.jpg",
+      "mean_similarity": 0.9462477564811707,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\180.Wilson_Warbler\\Wilson_Warbler_0114_175295.jpg",
+      "mean_similarity": 0.9461630582809448,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\180.Wilson_Warbler\\Wilson_Warbler_0100_175726.jpg",
+      "mean_similarity": 0.9454736709594727,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\180.Wilson_Warbler\\Wilson_Warbler_0132_175600.jpg",
+      "mean_similarity": 0.9449843168258667,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\180.Wilson_Warbler\\Wilson_Warbler_0038_175449.jpg",
+      "mean_similarity": 0.9439311623573303,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\180.Wilson_Warbler\\Wilson_Warbler_0073_175876.jpg",
+      "mean_similarity": 0.9426214098930359,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\180.Wilson_Warbler\\Wilson_Warbler_0045_175623.jpg",
+      "mean_similarity": 0.9422153830528259,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\180.Wilson_Warbler\\Wilson_Warbler_0018_175389.jpg",
+      "mean_similarity": 0.9412747025489807,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\180.Wilson_Warbler\\Wilson_Warbler_0010_175750.jpg",
+      "mean_similarity": 0.9351878762245178,
+      "rank": 30
+    }
+  ]
+}

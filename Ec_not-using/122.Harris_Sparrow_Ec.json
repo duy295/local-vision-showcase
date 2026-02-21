@@ -1,0 +1,159 @@
+{
+  "class_name": "122.Harris_Sparrow",
+  "class_idx": 121,
+  "num_images_in_class": 30,
+  "ec_size_requested": 30,
+  "ec_size_actual": 30,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\122.Harris_Sparrow\\Harris_Sparrow_0028_116656.jpg",
+      "mean_similarity": 0.9452564120292664,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\122.Harris_Sparrow\\Harris_Sparrow_0023_116363.jpg",
+      "mean_similarity": 0.9428780674934387,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\122.Harris_Sparrow\\Harris_Sparrow_0020_116379.jpg",
+      "mean_similarity": 0.9423161149024963,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\122.Harris_Sparrow\\Harris_Sparrow_0073_116577.jpg",
+      "mean_similarity": 0.9416368007659912,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\122.Harris_Sparrow\\Harris_Sparrow_0072_116662.jpg",
+      "mean_similarity": 0.9415267109870911,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\122.Harris_Sparrow\\Harris_Sparrow_0027_116687.jpg",
+      "mean_similarity": 0.9413889050483704,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\122.Harris_Sparrow\\Harris_Sparrow_0038_116610.jpg",
+      "mean_similarity": 0.9413371086120605,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\122.Harris_Sparrow\\Harris_Sparrow_0056_116532.jpg",
+      "mean_similarity": 0.9412005543708801,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\122.Harris_Sparrow\\Harris_Sparrow_0065_116435.jpg",
+      "mean_similarity": 0.9410616755485535,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\122.Harris_Sparrow\\Harris_Sparrow_0055_116512.jpg",
+      "mean_similarity": 0.9408860206604004,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\122.Harris_Sparrow\\Harris_Sparrow_0046_116425.jpg",
+      "mean_similarity": 0.9401900172233582,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\122.Harris_Sparrow\\Harris_Sparrow_0011_116597.jpg",
+      "mean_similarity": 0.9399452805519104,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\122.Harris_Sparrow\\Harris_Sparrow_0029_116516.jpg",
+      "mean_similarity": 0.9389979243278503,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\122.Harris_Sparrow\\Harris_Sparrow_0057_116374.jpg",
+      "mean_similarity": 0.9388151168823242,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\122.Harris_Sparrow\\Harris_Sparrow_0052_116544.jpg",
+      "mean_similarity": 0.9374275803565979,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\122.Harris_Sparrow\\Harris_Sparrow_0081_116574.jpg",
+      "mean_similarity": 0.9370071887969971,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\122.Harris_Sparrow\\Harris_Sparrow_0053_116595.jpg",
+      "mean_similarity": 0.936958372592926,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\122.Harris_Sparrow\\Harris_Sparrow_0024_116480.jpg",
+      "mean_similarity": 0.9361793994903564,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\122.Harris_Sparrow\\Harris_Sparrow_0041_116611.jpg",
+      "mean_similarity": 0.9361231327056885,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\122.Harris_Sparrow\\Harris_Sparrow_0034_116439.jpg",
+      "mean_similarity": 0.9354619383811951,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\122.Harris_Sparrow\\Harris_Sparrow_0025_116648.jpg",
+      "mean_similarity": 0.9334868788719177,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\122.Harris_Sparrow\\Harris_Sparrow_0074_116539.jpg",
+      "mean_similarity": 0.9332650303840637,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\122.Harris_Sparrow\\Harris_Sparrow_0039_116409.jpg",
+      "mean_similarity": 0.9327512383460999,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\122.Harris_Sparrow\\Harris_Sparrow_0018_116402.jpg",
+      "mean_similarity": 0.9304051995277405,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\122.Harris_Sparrow\\Harris_Sparrow_0005_116694.jpg",
+      "mean_similarity": 0.9299625754356384,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\122.Harris_Sparrow\\Harris_Sparrow_0006_116364.jpg",
+      "mean_similarity": 0.9296784996986389,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\122.Harris_Sparrow\\Harris_Sparrow_0026_116620.jpg",
+      "mean_similarity": 0.9286544919013977,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\122.Harris_Sparrow\\Harris_Sparrow_0035_116529.jpg",
+      "mean_similarity": 0.9223583936691284,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\122.Harris_Sparrow\\Harris_Sparrow_0016_116661.jpg",
+      "mean_similarity": 0.9221518039703369,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\122.Harris_Sparrow\\Harris_Sparrow_0088_116445.jpg",
+      "mean_similarity": 0.904567301273346,
+      "rank": 30
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+import json
+
+p = r"C:\Users\FPT SHOP\CODING PROBLEM\LLM via FSCIL\output_json\CUB200-json\incre\Ec_synthesizer\session 3\clip_topk_incre_session3.json"
+#p = r"C:\Users\FPT SHOP\CODING PROBLEM\LLM via FSCIL\output_json\CUB200-json\base\clip_top5_result_test.json"
+d = json.load(open(p, "r", encoding="utf-8"))
+
+allowed = d["final_summary"]["allowed_classes"]
+loaded  = set(d["final_summary"]["selected_classes"])
+
+print("missing:", [k for k in allowed if k not in loaded])
+print("missing_count:", d["final_summary"]["files_missing"])
+print("skipped_count:", d["final_summary"]["files_skipped"])

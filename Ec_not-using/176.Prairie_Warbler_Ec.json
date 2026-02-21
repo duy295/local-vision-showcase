@@ -1,0 +1,159 @@
+{
+  "class_name": "176.Prairie_Warbler",
+  "class_idx": 175,
+  "num_images_in_class": 30,
+  "ec_size_requested": 30,
+  "ec_size_actual": 30,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\176.Prairie_Warbler\\Prairie_Warbler_0120_173097.jpg",
+      "mean_similarity": 0.9499775171279907,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\176.Prairie_Warbler\\Prairie_Warbler_0054_172602.jpg",
+      "mean_similarity": 0.9498313069343567,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\176.Prairie_Warbler\\Prairie_Warbler_0104_172615.jpg",
+      "mean_similarity": 0.9497592449188232,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\176.Prairie_Warbler\\Prairie_Warbler_0123_172603.jpg",
+      "mean_similarity": 0.949630856513977,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\176.Prairie_Warbler\\Prairie_Warbler_0002_172622.jpg",
+      "mean_similarity": 0.9495285749435425,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\176.Prairie_Warbler\\Prairie_Warbler_0051_172585.jpg",
+      "mean_similarity": 0.9495140314102173,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\176.Prairie_Warbler\\Prairie_Warbler_0073_172771.jpg",
+      "mean_similarity": 0.9494865536689758,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\176.Prairie_Warbler\\Prairie_Warbler_0031_172818.jpg",
+      "mean_similarity": 0.9494657516479492,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\176.Prairie_Warbler\\Prairie_Warbler_0112_173383.jpg",
+      "mean_similarity": 0.9494159817695618,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\176.Prairie_Warbler\\Prairie_Warbler_0115_172689.jpg",
+      "mean_similarity": 0.9493244886398315,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\176.Prairie_Warbler\\Prairie_Warbler_0135_172745.jpg",
+      "mean_similarity": 0.9493210911750793,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\176.Prairie_Warbler\\Prairie_Warbler_0107_173080.jpg",
+      "mean_similarity": 0.9491272568702698,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\176.Prairie_Warbler\\Prairie_Warbler_0080_172724.jpg",
+      "mean_similarity": 0.9490594267845154,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\176.Prairie_Warbler\\Prairie_Warbler_0075_172709.jpg",
+      "mean_similarity": 0.9488725662231445,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\176.Prairie_Warbler\\Prairie_Warbler_0086_172534.jpg",
+      "mean_similarity": 0.9488437175750732,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\176.Prairie_Warbler\\Prairie_Warbler_0034_172549.jpg",
+      "mean_similarity": 0.948744535446167,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\176.Prairie_Warbler\\Prairie_Warbler_0025_165306.jpg",
+      "mean_similarity": 0.9486836791038513,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\176.Prairie_Warbler\\Prairie_Warbler_0047_173210.jpg",
+      "mean_similarity": 0.9486528635025024,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\176.Prairie_Warbler\\Prairie_Warbler_0136_172768.jpg",
+      "mean_similarity": 0.9485998153686523,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\176.Prairie_Warbler\\Prairie_Warbler_0020_173359.jpg",
+      "mean_similarity": 0.9484605193138123,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\176.Prairie_Warbler\\Prairie_Warbler_0105_172982.jpg",
+      "mean_similarity": 0.948212742805481,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\176.Prairie_Warbler\\Prairie_Warbler_0106_173071.jpg",
+      "mean_similarity": 0.9481561779975891,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\176.Prairie_Warbler\\Prairie_Warbler_0007_173081.jpg",
+      "mean_similarity": 0.9481117129325867,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\176.Prairie_Warbler\\Prairie_Warbler_0053_173290.jpg",
+      "mean_similarity": 0.9477843046188354,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\176.Prairie_Warbler\\Prairie_Warbler_0082_172783.jpg",
+      "mean_similarity": 0.9474441409111023,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\176.Prairie_Warbler\\Prairie_Warbler_0050_173281.jpg",
+      "mean_similarity": 0.9464927315711975,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\176.Prairie_Warbler\\Prairie_Warbler_0137_172610.jpg",
+      "mean_similarity": 0.9436619281768799,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\176.Prairie_Warbler\\Prairie_Warbler_0109_172909.jpg",
+      "mean_similarity": 0.9403185248374939,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\176.Prairie_Warbler\\Prairie_Warbler_0063_172682.jpg",
+      "mean_similarity": 0.9286606907844543,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\176.Prairie_Warbler\\Prairie_Warbler_0040_173056.jpg",
+      "mean_similarity": 0.9172823429107666,
+      "rank": 30
+    }
+  ]
+}

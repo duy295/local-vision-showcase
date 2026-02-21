@@ -1,0 +1,159 @@
+{
+  "class_name": "178.Swainson_Warbler",
+  "class_idx": 177,
+  "num_images_in_class": 30,
+  "ec_size_requested": 30,
+  "ec_size_actual": 30,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\178.Swainson_Warbler\\Swainson_Warbler_0034_794890.jpg",
+      "mean_similarity": 0.94549161195755,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\178.Swainson_Warbler\\Swainson_Warbler_0025_794881.jpg",
+      "mean_similarity": 0.9435164332389832,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\178.Swainson_Warbler\\Swainson_Warbler_0051_794900.jpg",
+      "mean_similarity": 0.9429875016212463,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\178.Swainson_Warbler\\Swainson_Warbler_0044_794894.jpg",
+      "mean_similarity": 0.9427439570426941,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\178.Swainson_Warbler\\Swainson_Warbler_0004_794874.jpg",
+      "mean_similarity": 0.9425012469291687,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\178.Swainson_Warbler\\Swainson_Warbler_0048_794887.jpg",
+      "mean_similarity": 0.9415046572685242,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\178.Swainson_Warbler\\Swainson_Warbler_0020_794863.jpg",
+      "mean_similarity": 0.9412930011749268,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\178.Swainson_Warbler\\Swainson_Warbler_0007_174745.jpg",
+      "mean_similarity": 0.9408167600631714,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\178.Swainson_Warbler\\Swainson_Warbler_0036_174699.jpg",
+      "mean_similarity": 0.9382109642028809,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\178.Swainson_Warbler\\Swainson_Warbler_0043_794865.jpg",
+      "mean_similarity": 0.9380221962928772,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\178.Swainson_Warbler\\Swainson_Warbler_0039_794859.jpg",
+      "mean_similarity": 0.9380071759223938,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\178.Swainson_Warbler\\Swainson_Warbler_0049_794880.jpg",
+      "mean_similarity": 0.9376437664031982,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\178.Swainson_Warbler\\Swainson_Warbler_0041_794893.jpg",
+      "mean_similarity": 0.9372434020042419,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\178.Swainson_Warbler\\Swainson_Warbler_0023_174717.jpg",
+      "mean_similarity": 0.9368945360183716,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\178.Swainson_Warbler\\Swainson_Warbler_0037_174691.jpg",
+      "mean_similarity": 0.9368570446968079,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\178.Swainson_Warbler\\Swainson_Warbler_0040_794860.jpg",
+      "mean_similarity": 0.935926616191864,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\178.Swainson_Warbler\\Swainson_Warbler_0022_794868.jpg",
+      "mean_similarity": 0.9340218305587769,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\178.Swainson_Warbler\\Swainson_Warbler_0047_794870.jpg",
+      "mean_similarity": 0.9338361024856567,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\178.Swainson_Warbler\\Swainson_Warbler_0045_794876.jpg",
+      "mean_similarity": 0.9308215379714966,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\178.Swainson_Warbler\\Swainson_Warbler_0030_794864.jpg",
+      "mean_similarity": 0.9305968284606934,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\178.Swainson_Warbler\\Swainson_Warbler_0002_174683.jpg",
+      "mean_similarity": 0.9302694797515869,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\178.Swainson_Warbler\\Swainson_Warbler_0019_174692.jpg",
+      "mean_similarity": 0.9300622940063477,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\178.Swainson_Warbler\\Swainson_Warbler_0018_174715.jpg",
+      "mean_similarity": 0.929436206817627,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\178.Swainson_Warbler\\Swainson_Warbler_0054_174689.jpg",
+      "mean_similarity": 0.9256806969642639,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\178.Swainson_Warbler\\Swainson_Warbler_0032_174728.jpg",
+      "mean_similarity": 0.9250048995018005,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\178.Swainson_Warbler\\Swainson_Warbler_0021_794898.jpg",
+      "mean_similarity": 0.9238197207450867,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\178.Swainson_Warbler\\Swainson_Warbler_0017_174685.jpg",
+      "mean_similarity": 0.9230906963348389,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\178.Swainson_Warbler\\Swainson_Warbler_0011_174680.jpg",
+      "mean_similarity": 0.9229989051818848,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\178.Swainson_Warbler\\Swainson_Warbler_0024_794885.jpg",
+      "mean_similarity": 0.9223211407661438,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\178.Swainson_Warbler\\Swainson_Warbler_0038_794882.jpg",
+      "mean_similarity": 0.8961993455886841,
+      "rank": 30
+    }
+  ]
+}

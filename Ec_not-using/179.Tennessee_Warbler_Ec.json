@@ -1,0 +1,159 @@
+{
+  "class_name": "179.Tennessee_Warbler",
+  "class_idx": 178,
+  "num_images_in_class": 30,
+  "ec_size_requested": 30,
+  "ec_size_actual": 30,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\179.Tennessee_Warbler\\Tennessee_Warbler_0043_175003.jpg",
+      "mean_similarity": 0.9436911344528198,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\179.Tennessee_Warbler\\Tennessee_Warbler_0021_174761.jpg",
+      "mean_similarity": 0.9428303241729736,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\179.Tennessee_Warbler\\Tennessee_Warbler_0091_175050.jpg",
+      "mean_similarity": 0.942316472530365,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\179.Tennessee_Warbler\\Tennessee_Warbler_0063_168561.jpg",
+      "mean_similarity": 0.940255880355835,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\179.Tennessee_Warbler\\Tennessee_Warbler_0023_174977.jpg",
+      "mean_similarity": 0.940060555934906,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\179.Tennessee_Warbler\\Tennessee_Warbler_0052_175089.jpg",
+      "mean_similarity": 0.9399692416191101,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\179.Tennessee_Warbler\\Tennessee_Warbler_0022_174799.jpg",
+      "mean_similarity": 0.9397070407867432,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\179.Tennessee_Warbler\\Tennessee_Warbler_0044_174824.jpg",
+      "mean_similarity": 0.9379491806030273,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\179.Tennessee_Warbler\\Tennessee_Warbler_0033_174772.jpg",
+      "mean_similarity": 0.9366873502731323,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\179.Tennessee_Warbler\\Tennessee_Warbler_0045_174913.jpg",
+      "mean_similarity": 0.935901403427124,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\179.Tennessee_Warbler\\Tennessee_Warbler_0062_174949.jpg",
+      "mean_similarity": 0.9351769685745239,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\179.Tennessee_Warbler\\Tennessee_Warbler_0019_174786.jpg",
+      "mean_similarity": 0.9351528882980347,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\179.Tennessee_Warbler\\Tennessee_Warbler_0071_175084.jpg",
+      "mean_similarity": 0.9349704384803772,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\179.Tennessee_Warbler\\Tennessee_Warbler_0015_174847.jpg",
+      "mean_similarity": 0.9333288073539734,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\179.Tennessee_Warbler\\Tennessee_Warbler_0051_175015.jpg",
+      "mean_similarity": 0.9326300621032715,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\179.Tennessee_Warbler\\Tennessee_Warbler_0034_174854.jpg",
+      "mean_similarity": 0.9313137531280518,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\179.Tennessee_Warbler\\Tennessee_Warbler_0061_174775.jpg",
+      "mean_similarity": 0.9302036166191101,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\179.Tennessee_Warbler\\Tennessee_Warbler_0074_175058.jpg",
+      "mean_similarity": 0.9294261932373047,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\179.Tennessee_Warbler\\Tennessee_Warbler_0031_174802.jpg",
+      "mean_similarity": 0.9292314052581787,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\179.Tennessee_Warbler\\Tennessee_Warbler_0084_174891.jpg",
+      "mean_similarity": 0.9266471862792969,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\179.Tennessee_Warbler\\Tennessee_Warbler_0024_174980.jpg",
+      "mean_similarity": 0.9260615706443787,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\179.Tennessee_Warbler\\Tennessee_Warbler_0030_172338.jpg",
+      "mean_similarity": 0.9252004623413086,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\179.Tennessee_Warbler\\Tennessee_Warbler_0100_175168.jpg",
+      "mean_similarity": 0.9250895380973816,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\179.Tennessee_Warbler\\Tennessee_Warbler_0060_174840.jpg",
+      "mean_similarity": 0.9237278699874878,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\179.Tennessee_Warbler\\Tennessee_Warbler_0004_174997.jpg",
+      "mean_similarity": 0.9212905764579773,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\179.Tennessee_Warbler\\Tennessee_Warbler_0067_174999.jpg",
+      "mean_similarity": 0.9203309416770935,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\179.Tennessee_Warbler\\Tennessee_Warbler_0095_174903.jpg",
+      "mean_similarity": 0.9140216112136841,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\179.Tennessee_Warbler\\Tennessee_Warbler_0046_174798.jpg",
+      "mean_similarity": 0.9135664701461792,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\179.Tennessee_Warbler\\Tennessee_Warbler_0096_174993.jpg",
+      "mean_similarity": 0.9040190577507019,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\179.Tennessee_Warbler\\Tennessee_Warbler_0026_175118.jpg",
+      "mean_similarity": 0.9017577171325684,
+      "rank": 30
+    }
+  ]
+}

@@ -1,0 +1,159 @@
+{
+  "class_name": "101.White_Pelican",
+  "class_idx": 100,
+  "num_images_in_class": 30,
+  "ec_size_requested": 30,
+  "ec_size_actual": 30,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\101.White_Pelican\\White_Pelican_0047_97190.jpg",
+      "mean_similarity": 0.9445523023605347,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\101.White_Pelican\\White_Pelican_0024_96554.jpg",
+      "mean_similarity": 0.9442479610443115,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\101.White_Pelican\\White_Pelican_0010_96876.jpg",
+      "mean_similarity": 0.9439821243286133,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\101.White_Pelican\\White_Pelican_0005_95916.jpg",
+      "mean_similarity": 0.9438135623931885,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\101.White_Pelican\\White_Pelican_0028_95950.jpg",
+      "mean_similarity": 0.9426716566085815,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\101.White_Pelican\\White_Pelican_0032_96920.jpg",
+      "mean_similarity": 0.942534327507019,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\101.White_Pelican\\White_Pelican_0054_97528.jpg",
+      "mean_similarity": 0.9424675107002258,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\101.White_Pelican\\White_Pelican_0081_96148.jpg",
+      "mean_similarity": 0.9424329400062561,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\101.White_Pelican\\White_Pelican_0037_95570.jpg",
+      "mean_similarity": 0.9423620104789734,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\101.White_Pelican\\White_Pelican_0044_96028.jpg",
+      "mean_similarity": 0.9422163367271423,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\101.White_Pelican\\White_Pelican_0012_97261.jpg",
+      "mean_similarity": 0.9422010779380798,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\101.White_Pelican\\White_Pelican_0084_95877.jpg",
+      "mean_similarity": 0.9419810771942139,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\101.White_Pelican\\White_Pelican_0042_97250.jpg",
+      "mean_similarity": 0.9402927756309509,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\101.White_Pelican\\White_Pelican_0056_97071.jpg",
+      "mean_similarity": 0.9402719736099243,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\101.White_Pelican\\White_Pelican_0015_96952.jpg",
+      "mean_similarity": 0.9381576180458069,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\101.White_Pelican\\White_Pelican_0035_96312.jpg",
+      "mean_similarity": 0.9374104142189026,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\101.White_Pelican\\White_Pelican_0068_95635.jpg",
+      "mean_similarity": 0.9370095729827881,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\101.White_Pelican\\White_Pelican_0073_96260.jpg",
+      "mean_similarity": 0.9338201880455017,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\101.White_Pelican\\White_Pelican_0059_96675.jpg",
+      "mean_similarity": 0.9330620169639587,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\101.White_Pelican\\White_Pelican_0053_96236.jpg",
+      "mean_similarity": 0.9323669672012329,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\101.White_Pelican\\White_Pelican_0075_96422.jpg",
+      "mean_similarity": 0.9313027858734131,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\101.White_Pelican\\White_Pelican_0039_97363.jpg",
+      "mean_similarity": 0.9301580190658569,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\101.White_Pelican\\White_Pelican_0013_96901.jpg",
+      "mean_similarity": 0.9291589260101318,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\101.White_Pelican\\White_Pelican_0079_97380.jpg",
+      "mean_similarity": 0.9250014424324036,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\101.White_Pelican\\White_Pelican_0022_95897.jpg",
+      "mean_similarity": 0.9229494333267212,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\101.White_Pelican\\White_Pelican_0050_97913.jpg",
+      "mean_similarity": 0.9226630330085754,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\101.White_Pelican\\White_Pelican_0026_95832.jpg",
+      "mean_similarity": 0.9194507002830505,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\101.White_Pelican\\White_Pelican_0071_96061.jpg",
+      "mean_similarity": 0.9157216548919678,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\101.White_Pelican\\White_Pelican_0009_97340.jpg",
+      "mean_similarity": 0.9123712778091431,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\101.White_Pelican\\White_Pelican_0067_95573.jpg",
+      "mean_similarity": 0.8744235038757324,
+      "rank": 30
+    }
+  ]
+}

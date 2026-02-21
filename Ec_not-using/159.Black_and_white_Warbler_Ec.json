@@ -1,0 +1,159 @@
+{
+  "class_name": "159.Black_and_white_Warbler",
+  "class_idx": 158,
+  "num_images_in_class": 30,
+  "ec_size_requested": 30,
+  "ec_size_actual": 30,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\159.Black_and_white_Warbler\\Black_And_White_Warbler_0007_160758.jpg",
+      "mean_similarity": 0.9469397664070129,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\159.Black_and_white_Warbler\\Black_And_White_Warbler_0095_160406.jpg",
+      "mean_similarity": 0.9462798237800598,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\159.Black_and_white_Warbler\\Black_And_White_Warbler_0060_160764.jpg",
+      "mean_similarity": 0.9460517764091492,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\159.Black_and_white_Warbler\\Black_And_White_Warbler_0022_160512.jpg",
+      "mean_similarity": 0.9459145665168762,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\159.Black_and_white_Warbler\\Black_And_White_Warbler_0115_160654.jpg",
+      "mean_similarity": 0.9454723596572876,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\159.Black_and_white_Warbler\\Black_And_White_Warbler_0119_160898.jpg",
+      "mean_similarity": 0.9451070427894592,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\159.Black_and_white_Warbler\\Black_And_White_Warbler_0077_160440.jpg",
+      "mean_similarity": 0.945004940032959,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\159.Black_and_white_Warbler\\Black_And_White_Warbler_0018_160438.jpg",
+      "mean_similarity": 0.9445074200630188,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\159.Black_and_white_Warbler\\Black_And_White_Warbler_0048_160287.jpg",
+      "mean_similarity": 0.9441437125205994,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\159.Black_and_white_Warbler\\Black_And_White_Warbler_0057_160037.jpg",
+      "mean_similarity": 0.9435423612594604,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\159.Black_and_white_Warbler\\Black_And_White_Warbler_0117_160369.jpg",
+      "mean_similarity": 0.9434041976928711,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\159.Black_and_white_Warbler\\Black_And_White_Warbler_0053_160010.jpg",
+      "mean_similarity": 0.9433554410934448,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\159.Black_and_white_Warbler\\Black_And_White_Warbler_0021_160686.jpg",
+      "mean_similarity": 0.942378044128418,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\159.Black_and_white_Warbler\\Black_And_White_Warbler_0080_160375.jpg",
+      "mean_similarity": 0.9420850276947021,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\159.Black_and_white_Warbler\\Black_And_White_Warbler_0035_160102.jpg",
+      "mean_similarity": 0.9417972564697266,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\159.Black_and_white_Warbler\\Black_And_White_Warbler_0074_160361.jpg",
+      "mean_similarity": 0.9416606426239014,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\159.Black_and_white_Warbler\\Black_And_White_Warbler_0127_160031.jpg",
+      "mean_similarity": 0.9414591193199158,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\159.Black_and_white_Warbler\\Black_And_White_Warbler_0098_160808.jpg",
+      "mean_similarity": 0.9412257075309753,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\159.Black_and_white_Warbler\\Black_And_White_Warbler_0065_160111.jpg",
+      "mean_similarity": 0.9395721554756165,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\159.Black_and_white_Warbler\\Black_And_White_Warbler_0028_160371.jpg",
+      "mean_similarity": 0.9392050504684448,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\159.Black_and_white_Warbler\\Black_And_White_Warbler_0081_110906.jpg",
+      "mean_similarity": 0.9389209747314453,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\159.Black_and_white_Warbler\\Black_And_White_Warbler_0072_160353.jpg",
+      "mean_similarity": 0.9389196038246155,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\159.Black_and_white_Warbler\\Black_And_White_Warbler_0086_160836.jpg",
+      "mean_similarity": 0.9388258457183838,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\159.Black_and_white_Warbler\\Black_And_White_Warbler_0041_160639.jpg",
+      "mean_similarity": 0.9373419284820557,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\159.Black_and_white_Warbler\\Black_And_White_Warbler_0051_160603.jpg",
+      "mean_similarity": 0.9302369356155396,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\159.Black_and_white_Warbler\\Black_And_White_Warbler_0001_160352.jpg",
+      "mean_similarity": 0.9277547597885132,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\159.Black_and_white_Warbler\\Black_And_White_Warbler_0078_160365.jpg",
+      "mean_similarity": 0.9271957278251648,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\159.Black_and_white_Warbler\\Black_And_White_Warbler_0046_160202.jpg",
+      "mean_similarity": 0.9108074307441711,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\159.Black_and_white_Warbler\\Black_And_White_Warbler_0102_160073.jpg",
+      "mean_similarity": 0.9049457907676697,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\159.Black_and_white_Warbler\\Black_And_White_Warbler_0031_160773.jpg",
+      "mean_similarity": 0.8989595770835876,
+      "rank": 30
+    }
+  ]
+}

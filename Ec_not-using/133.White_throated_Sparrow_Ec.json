@@ -1,0 +1,159 @@
+{
+  "class_name": "133.White_throated_Sparrow",
+  "class_idx": 132,
+  "num_images_in_class": 30,
+  "ec_size_requested": 30,
+  "ec_size_actual": 30,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\133.White_throated_Sparrow\\White_Throated_Sparrow_0069_128951.jpg",
+      "mean_similarity": 0.9490647912025452,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\133.White_throated_Sparrow\\White_Throated_Sparrow_0042_128899.jpg",
+      "mean_similarity": 0.9489282369613647,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\133.White_throated_Sparrow\\White_Throated_Sparrow_0031_128808.jpg",
+      "mean_similarity": 0.9486032724380493,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\133.White_throated_Sparrow\\White_Throated_Sparrow_0027_128847.jpg",
+      "mean_similarity": 0.9484620094299316,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\133.White_throated_Sparrow\\White_Throated_Sparrow_0071_128915.jpg",
+      "mean_similarity": 0.9484469890594482,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\133.White_throated_Sparrow\\White_Throated_Sparrow_0124_128801.jpg",
+      "mean_similarity": 0.9483841061592102,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\133.White_throated_Sparrow\\White_Throated_Sparrow_0112_129101.jpg",
+      "mean_similarity": 0.9482137560844421,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\133.White_throated_Sparrow\\White_Throated_Sparrow_0050_129051.jpg",
+      "mean_similarity": 0.9481871724128723,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\133.White_throated_Sparrow\\White_Throated_Sparrow_0085_129180.jpg",
+      "mean_similarity": 0.9480190873146057,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\133.White_throated_Sparrow\\White_Throated_Sparrow_0023_129179.jpg",
+      "mean_similarity": 0.9476419687271118,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\133.White_throated_Sparrow\\White_Throated_Sparrow_0020_129007.jpg",
+      "mean_similarity": 0.9472819566726685,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\133.White_throated_Sparrow\\White_Throated_Sparrow_0056_128906.jpg",
+      "mean_similarity": 0.9470540881156921,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\133.White_throated_Sparrow\\White_Throated_Sparrow_0061_128902.jpg",
+      "mean_similarity": 0.9469038844108582,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\133.White_throated_Sparrow\\White_Throated_Sparrow_0021_128804.jpg",
+      "mean_similarity": 0.9468101859092712,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\133.White_throated_Sparrow\\White_Throated_Sparrow_0128_128956.jpg",
+      "mean_similarity": 0.9467798471450806,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\133.White_throated_Sparrow\\White_Throated_Sparrow_0108_129184.jpg",
+      "mean_similarity": 0.9466384053230286,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\133.White_throated_Sparrow\\White_Throated_Sparrow_0134_129190.jpg",
+      "mean_similarity": 0.9462187886238098,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\133.White_throated_Sparrow\\White_Throated_Sparrow_0002_129057.jpg",
+      "mean_similarity": 0.9461684226989746,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\133.White_throated_Sparrow\\White_Throated_Sparrow_0113_128936.jpg",
+      "mean_similarity": 0.9452261924743652,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\133.White_throated_Sparrow\\White_Throated_Sparrow_0034_129054.jpg",
+      "mean_similarity": 0.9448961019515991,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\133.White_throated_Sparrow\\White_Throated_Sparrow_0119_128827.jpg",
+      "mean_similarity": 0.9445985555648804,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\133.White_throated_Sparrow\\White_Throated_Sparrow_0125_128832.jpg",
+      "mean_similarity": 0.9440814256668091,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\133.White_throated_Sparrow\\White_Throated_Sparrow_0015_129138.jpg",
+      "mean_similarity": 0.9437881112098694,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\133.White_throated_Sparrow\\White_Throated_Sparrow_0123_129009.jpg",
+      "mean_similarity": 0.9436079859733582,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\133.White_throated_Sparrow\\White_Throated_Sparrow_0097_128967.jpg",
+      "mean_similarity": 0.9429379105567932,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\133.White_throated_Sparrow\\White_Throated_Sparrow_0118_129084.jpg",
+      "mean_similarity": 0.9417453408241272,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\133.White_throated_Sparrow\\White_Throated_Sparrow_0102_128911.jpg",
+      "mean_similarity": 0.9406782984733582,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\133.White_throated_Sparrow\\White_Throated_Sparrow_0073_129110.jpg",
+      "mean_similarity": 0.9388401508331299,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\133.White_throated_Sparrow\\White_Throated_Sparrow_0028_129118.jpg",
+      "mean_similarity": 0.9350103139877319,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\133.White_throated_Sparrow\\White_Throated_Sparrow_0016_129158.jpg",
+      "mean_similarity": 0.930325984954834,
+      "rank": 30
+    }
+  ]
+}

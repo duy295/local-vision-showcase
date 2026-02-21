@@ -1,0 +1,154 @@
+{
+  "class_name": "135.Bank_Swallow",
+  "class_idx": 134,
+  "num_images_in_class": 29,
+  "ec_size_requested": 30,
+  "ec_size_actual": 29,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\135.Bank_Swallow\\Bank_Swallow_0007_129514.jpg",
+      "mean_similarity": 0.9492555260658264,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\135.Bank_Swallow\\Bank_Swallow_0064_129816.jpg",
+      "mean_similarity": 0.9488416910171509,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\135.Bank_Swallow\\Bank_Swallow_0067_129959.jpg",
+      "mean_similarity": 0.9485611915588379,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\135.Bank_Swallow\\Bank_Swallow_0020_129747.jpg",
+      "mean_similarity": 0.9475594758987427,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\135.Bank_Swallow\\Bank_Swallow_0036_129567.jpg",
+      "mean_similarity": 0.9473443031311035,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\135.Bank_Swallow\\Bank_Swallow_0004_129549.jpg",
+      "mean_similarity": 0.9470853805541992,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\135.Bank_Swallow\\Bank_Swallow_0057_129499.jpg",
+      "mean_similarity": 0.946993887424469,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\135.Bank_Swallow\\Bank_Swallow_0015_129853.jpg",
+      "mean_similarity": 0.9465539455413818,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\135.Bank_Swallow\\Bank_Swallow_0024_129779.jpg",
+      "mean_similarity": 0.9465404152870178,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\135.Bank_Swallow\\Bank_Swallow_0066_129559.jpg",
+      "mean_similarity": 0.9464138150215149,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\135.Bank_Swallow\\Bank_Swallow_0069_129802.jpg",
+      "mean_similarity": 0.9462133646011353,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\135.Bank_Swallow\\Bank_Swallow_0045_129483.jpg",
+      "mean_similarity": 0.9458615779876709,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\135.Bank_Swallow\\Bank_Swallow_0037_129903.jpg",
+      "mean_similarity": 0.9453253746032715,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\135.Bank_Swallow\\Bank_Swallow_0053_129501.jpg",
+      "mean_similarity": 0.9452527165412903,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\135.Bank_Swallow\\Bank_Swallow_0031_129507.jpg",
+      "mean_similarity": 0.9450873136520386,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\135.Bank_Swallow\\Bank_Swallow_0017_129755.jpg",
+      "mean_similarity": 0.9444801211357117,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\135.Bank_Swallow\\Bank_Swallow_0054_129743.jpg",
+      "mean_similarity": 0.9443188309669495,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\135.Bank_Swallow\\Bank_Swallow_0003_129623.jpg",
+      "mean_similarity": 0.9439787864685059,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\135.Bank_Swallow\\Bank_Swallow_0030_129560.jpg",
+      "mean_similarity": 0.9437761902809143,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\135.Bank_Swallow\\Bank_Swallow_0068_129806.jpg",
+      "mean_similarity": 0.9437442421913147,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\135.Bank_Swallow\\Bank_Swallow_0010_129592.jpg",
+      "mean_similarity": 0.9429942965507507,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\135.Bank_Swallow\\Bank_Swallow_0052_129575.jpg",
+      "mean_similarity": 0.9427599906921387,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\135.Bank_Swallow\\Bank_Swallow_0062_129548.jpg",
+      "mean_similarity": 0.9423718452453613,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\135.Bank_Swallow\\Bank_Swallow_0044_129687.jpg",
+      "mean_similarity": 0.9404568672180176,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\135.Bank_Swallow\\Bank_Swallow_0048_129546.jpg",
+      "mean_similarity": 0.9392362833023071,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\135.Bank_Swallow\\Bank_Swallow_0002_129654.jpg",
+      "mean_similarity": 0.938586950302124,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\135.Bank_Swallow\\Bank_Swallow_0049_129611.jpg",
+      "mean_similarity": 0.9374902248382568,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\135.Bank_Swallow\\Bank_Swallow_0023_129878.jpg",
+      "mean_similarity": 0.9314089417457581,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\135.Bank_Swallow\\Bank_Swallow_0058_129756.jpg",
+      "mean_similarity": 0.9299368858337402,
+      "rank": 29
+    }
+  ]
+}

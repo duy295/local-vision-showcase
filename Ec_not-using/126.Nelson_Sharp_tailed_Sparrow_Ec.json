@@ -1,0 +1,154 @@
+{
+  "class_name": "126.Nelson_Sharp_tailed_Sparrow",
+  "class_idx": 125,
+  "num_images_in_class": 29,
+  "ec_size_requested": 30,
+  "ec_size_actual": 29,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\126.Nelson_Sharp_tailed_Sparrow\\Nelson_Sharp_Tailed_Sparrow_0018_118011.jpg",
+      "mean_similarity": 0.9506614804267883,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\126.Nelson_Sharp_tailed_Sparrow\\Nelson_Sharp_Tailed_Sparrow_0017_796910.jpg",
+      "mean_similarity": 0.9506525993347168,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\126.Nelson_Sharp_tailed_Sparrow\\Nelson_Sharp_Tailed_Sparrow_0074_796901.jpg",
+      "mean_similarity": 0.9506083130836487,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\126.Nelson_Sharp_tailed_Sparrow\\Nelson_Sharp_Tailed_Sparrow_0066_118088.jpg",
+      "mean_similarity": 0.9500658512115479,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\126.Nelson_Sharp_tailed_Sparrow\\Nelson_Sharp_Tailed_Sparrow_0019_118066.jpg",
+      "mean_similarity": 0.9500428438186646,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\126.Nelson_Sharp_tailed_Sparrow\\Nelson_Sharp_Tailed_Sparrow_0049_118033.jpg",
+      "mean_similarity": 0.9495768547058105,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\126.Nelson_Sharp_tailed_Sparrow\\Nelson_Sharp_Tailed_Sparrow_0067_796912.jpg",
+      "mean_similarity": 0.9494694471359253,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\126.Nelson_Sharp_tailed_Sparrow\\Nelson_Sharp_Tailed_Sparrow_0056_117974.jpg",
+      "mean_similarity": 0.9493042230606079,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\126.Nelson_Sharp_tailed_Sparrow\\Nelson_Sharp_Tailed_Sparrow_0022_796905.jpg",
+      "mean_similarity": 0.949277937412262,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\126.Nelson_Sharp_tailed_Sparrow\\Nelson_Sharp_Tailed_Sparrow_0023_796899.jpg",
+      "mean_similarity": 0.9492614269256592,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\126.Nelson_Sharp_tailed_Sparrow\\Nelson_Sharp_Tailed_Sparrow_0015_796922.jpg",
+      "mean_similarity": 0.9491534233093262,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\126.Nelson_Sharp_tailed_Sparrow\\Nelson_Sharp_Tailed_Sparrow_0013_796942.jpg",
+      "mean_similarity": 0.948799192905426,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\126.Nelson_Sharp_tailed_Sparrow\\Nelson_Sharp_Tailed_Sparrow_0068_796930.jpg",
+      "mean_similarity": 0.9485809206962585,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\126.Nelson_Sharp_tailed_Sparrow\\Nelson_Sharp_Tailed_Sparrow_0030_118064.jpg",
+      "mean_similarity": 0.9478920698165894,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\126.Nelson_Sharp_tailed_Sparrow\\Nelson_Sharp_Tailed_Sparrow_0045_118004.jpg",
+      "mean_similarity": 0.9476682543754578,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\126.Nelson_Sharp_tailed_Sparrow\\Nelson_Sharp_Tailed_Sparrow_0064_117965.jpg",
+      "mean_similarity": 0.9474687576293945,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\126.Nelson_Sharp_tailed_Sparrow\\Nelson_Sharp_Tailed_Sparrow_0051_796902.jpg",
+      "mean_similarity": 0.9471990466117859,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\126.Nelson_Sharp_tailed_Sparrow\\Nelson_Sharp_Tailed_Sparrow_0058_118023.jpg",
+      "mean_similarity": 0.9471672773361206,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\126.Nelson_Sharp_tailed_Sparrow\\Nelson_Sharp_Tailed_Sparrow_0079_796934.jpg",
+      "mean_similarity": 0.9467759728431702,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\126.Nelson_Sharp_tailed_Sparrow\\Nelson_Sharp_Tailed_Sparrow_0038_796920.jpg",
+      "mean_similarity": 0.9466963410377502,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\126.Nelson_Sharp_tailed_Sparrow\\Nelson_Sharp_Tailed_Sparrow_0077_796913.jpg",
+      "mean_similarity": 0.9462080597877502,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\126.Nelson_Sharp_tailed_Sparrow\\Nelson_Sharp_Tailed_Sparrow_0014_796906.jpg",
+      "mean_similarity": 0.9457570910453796,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\126.Nelson_Sharp_tailed_Sparrow\\Nelson_Sharp_Tailed_Sparrow_0002_796908.jpg",
+      "mean_similarity": 0.9450667500495911,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\126.Nelson_Sharp_tailed_Sparrow\\Nelson_Sharp_Tailed_Sparrow_0004_796941.jpg",
+      "mean_similarity": 0.9450352787971497,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\126.Nelson_Sharp_tailed_Sparrow\\Nelson_Sharp_Tailed_Sparrow_0062_796919.jpg",
+      "mean_similarity": 0.9434144496917725,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\126.Nelson_Sharp_tailed_Sparrow\\Nelson_Sharp_Tailed_Sparrow_0033_118024.jpg",
+      "mean_similarity": 0.9430467486381531,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\126.Nelson_Sharp_tailed_Sparrow\\Nelson_Sharp_Tailed_Sparrow_0071_796946.jpg",
+      "mean_similarity": 0.942878246307373,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\126.Nelson_Sharp_tailed_Sparrow\\Nelson_Sharp_Tailed_Sparrow_0042_796911.jpg",
+      "mean_similarity": 0.9417150616645813,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\126.Nelson_Sharp_tailed_Sparrow\\Nelson_Sharp_Tailed_Sparrow_0055_796937.jpg",
+      "mean_similarity": 0.939570963382721,
+      "rank": 29
+    }
+  ]
+}

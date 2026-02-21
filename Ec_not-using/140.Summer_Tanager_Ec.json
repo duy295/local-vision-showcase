@@ -1,0 +1,159 @@
+{
+  "class_name": "140.Summer_Tanager",
+  "class_idx": 139,
+  "num_images_in_class": 30,
+  "ec_size_requested": 30,
+  "ec_size_actual": 30,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\140.Summer_Tanager\\Summer_Tanager_0068_139875.jpg",
+      "mean_similarity": 0.9512709975242615,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\140.Summer_Tanager\\Summer_Tanager_0095_139882.jpg",
+      "mean_similarity": 0.951244592666626,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\140.Summer_Tanager\\Summer_Tanager_0033_140268.jpg",
+      "mean_similarity": 0.9511942267417908,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\140.Summer_Tanager\\Summer_Tanager_0056_139211.jpg",
+      "mean_similarity": 0.9511321187019348,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\140.Summer_Tanager\\Summer_Tanager_0025_139320.jpg",
+      "mean_similarity": 0.9511098265647888,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\140.Summer_Tanager\\Summer_Tanager_0018_139290.jpg",
+      "mean_similarity": 0.9510684013366699,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\140.Summer_Tanager\\Summer_Tanager_0088_139473.jpg",
+      "mean_similarity": 0.951027512550354,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\140.Summer_Tanager\\Summer_Tanager_0099_139310.jpg",
+      "mean_similarity": 0.9510137438774109,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\140.Summer_Tanager\\Summer_Tanager_0030_139210.jpg",
+      "mean_similarity": 0.9510110020637512,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\140.Summer_Tanager\\Summer_Tanager_0037_140330.jpg",
+      "mean_similarity": 0.9509594440460205,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\140.Summer_Tanager\\Summer_Tanager_0032_140425.jpg",
+      "mean_similarity": 0.9509466886520386,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\140.Summer_Tanager\\Summer_Tanager_0006_140137.jpg",
+      "mean_similarity": 0.9509172439575195,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\140.Summer_Tanager\\Summer_Tanager_0063_139743.jpg",
+      "mean_similarity": 0.950914204120636,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\140.Summer_Tanager\\Summer_Tanager_0065_139198.jpg",
+      "mean_similarity": 0.9508943557739258,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\140.Summer_Tanager\\Summer_Tanager_0120_140060.jpg",
+      "mean_similarity": 0.950879693031311,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\140.Summer_Tanager\\Summer_Tanager_0125_139399.jpg",
+      "mean_similarity": 0.9508762359619141,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\140.Summer_Tanager\\Summer_Tanager_0111_139605.jpg",
+      "mean_similarity": 0.9507772326469421,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\140.Summer_Tanager\\Summer_Tanager_0109_139522.jpg",
+      "mean_similarity": 0.9507025480270386,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\140.Summer_Tanager\\Summer_Tanager_0058_139427.jpg",
+      "mean_similarity": 0.9505874514579773,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\140.Summer_Tanager\\Summer_Tanager_0035_139561.jpg",
+      "mean_similarity": 0.9504863023757935,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\140.Summer_Tanager\\Summer_Tanager_0004_139916.jpg",
+      "mean_similarity": 0.9503493309020996,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\140.Summer_Tanager\\Summer_Tanager_0013_140828.jpg",
+      "mean_similarity": 0.9502474665641785,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\140.Summer_Tanager\\Summer_Tanager_0001_139289.jpg",
+      "mean_similarity": 0.9502320885658264,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\140.Summer_Tanager\\Summer_Tanager_0066_140621.jpg",
+      "mean_similarity": 0.9498019814491272,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\140.Summer_Tanager\\Summer_Tanager_0010_139948.jpg",
+      "mean_similarity": 0.9495102167129517,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\140.Summer_Tanager\\Summer_Tanager_0119_140617.jpg",
+      "mean_similarity": 0.9492975473403931,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\140.Summer_Tanager\\Summer_Tanager_0034_139781.jpg",
+      "mean_similarity": 0.94846510887146,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\140.Summer_Tanager\\Summer_Tanager_0046_139802.jpg",
+      "mean_similarity": 0.9480201601982117,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\140.Summer_Tanager\\Summer_Tanager_0097_140042.jpg",
+      "mean_similarity": 0.9462391138076782,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\140.Summer_Tanager\\Summer_Tanager_0116_139923.jpg",
+      "mean_similarity": 0.9417862892150879,
+      "rank": 30
+    }
+  ]
+}

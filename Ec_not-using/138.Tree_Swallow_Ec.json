@@ -1,0 +1,159 @@
+{
+  "class_name": "138.Tree_Swallow",
+  "class_idx": 137,
+  "num_images_in_class": 30,
+  "ec_size_requested": 30,
+  "ec_size_actual": 30,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\138.Tree_Swallow\\Tree_Swallow_0111_135253.jpg",
+      "mean_similarity": 0.9489467144012451,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\138.Tree_Swallow\\Tree_Swallow_0015_134790.jpg",
+      "mean_similarity": 0.9482511281967163,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\138.Tree_Swallow\\Tree_Swallow_0002_136792.jpg",
+      "mean_similarity": 0.9482226967811584,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\138.Tree_Swallow\\Tree_Swallow_0108_135068.jpg",
+      "mean_similarity": 0.9477111101150513,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\138.Tree_Swallow\\Tree_Swallow_0114_136265.jpg",
+      "mean_similarity": 0.9462037682533264,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\138.Tree_Swallow\\Tree_Swallow_0067_136244.jpg",
+      "mean_similarity": 0.946188747882843,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\138.Tree_Swallow\\Tree_Swallow_0087_137354.jpg",
+      "mean_similarity": 0.9460405707359314,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\138.Tree_Swallow\\Tree_Swallow_0013_135923.jpg",
+      "mean_similarity": 0.945173978805542,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\138.Tree_Swallow\\Tree_Swallow_0004_135411.jpg",
+      "mean_similarity": 0.944068193435669,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\138.Tree_Swallow\\Tree_Swallow_0076_137232.jpg",
+      "mean_similarity": 0.9439070820808411,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\138.Tree_Swallow\\Tree_Swallow_0117_134925.jpg",
+      "mean_similarity": 0.9437179565429688,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\138.Tree_Swallow\\Tree_Swallow_0019_137073.jpg",
+      "mean_similarity": 0.9436492919921875,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\138.Tree_Swallow\\Tree_Swallow_0102_135061.jpg",
+      "mean_similarity": 0.9430043697357178,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\138.Tree_Swallow\\Tree_Swallow_0109_135272.jpg",
+      "mean_similarity": 0.9429523944854736,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\138.Tree_Swallow\\Tree_Swallow_0043_136878.jpg",
+      "mean_similarity": 0.9421448111534119,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\138.Tree_Swallow\\Tree_Swallow_0071_136749.jpg",
+      "mean_similarity": 0.9417604207992554,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\138.Tree_Swallow\\Tree_Swallow_0041_136439.jpg",
+      "mean_similarity": 0.941455602645874,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\138.Tree_Swallow\\Tree_Swallow_0127_135912.jpg",
+      "mean_similarity": 0.941064715385437,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\138.Tree_Swallow\\Tree_Swallow_0030_134942.jpg",
+      "mean_similarity": 0.9408631324768066,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\138.Tree_Swallow\\Tree_Swallow_0069_135148.jpg",
+      "mean_similarity": 0.9406542181968689,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\138.Tree_Swallow\\Tree_Swallow_0040_135172.jpg",
+      "mean_similarity": 0.9406424760818481,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\138.Tree_Swallow\\Tree_Swallow_0105_134648.jpg",
+      "mean_similarity": 0.940274178981781,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\138.Tree_Swallow\\Tree_Swallow_0017_135062.jpg",
+      "mean_similarity": 0.9401305317878723,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\138.Tree_Swallow\\Tree_Swallow_0103_137272.jpg",
+      "mean_similarity": 0.9400559663772583,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\138.Tree_Swallow\\Tree_Swallow_0046_135770.jpg",
+      "mean_similarity": 0.9399553537368774,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\138.Tree_Swallow\\Tree_Swallow_0060_134961.jpg",
+      "mean_similarity": 0.9382151961326599,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\138.Tree_Swallow\\Tree_Swallow_0064_136322.jpg",
+      "mean_similarity": 0.9371281266212463,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\138.Tree_Swallow\\Tree_Swallow_0062_137426.jpg",
+      "mean_similarity": 0.9342997074127197,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\138.Tree_Swallow\\Tree_Swallow_0049_134740.jpg",
+      "mean_similarity": 0.9247106313705444,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\138.Tree_Swallow\\Tree_Swallow_0058_134987.jpg",
+      "mean_similarity": 0.9209015965461731,
+      "rank": 30
+    }
+  ]
+}

@@ -1,0 +1,159 @@
+{
+  "class_name": "121.Grasshopper_Sparrow",
+  "class_idx": 120,
+  "num_images_in_class": 30,
+  "ec_size_requested": 30,
+  "ec_size_actual": 30,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\121.Grasshopper_Sparrow\\Grasshopper_Sparrow_0098_116027.jpg",
+      "mean_similarity": 0.9467788934707642,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\121.Grasshopper_Sparrow\\Grasshopper_Sparrow_0014_116129.jpg",
+      "mean_similarity": 0.946573793888092,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\121.Grasshopper_Sparrow\\Grasshopper_Sparrow_0019_115958.jpg",
+      "mean_similarity": 0.946134626865387,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\121.Grasshopper_Sparrow\\Grasshopper_Sparrow_0018_116056.jpg",
+      "mean_similarity": 0.9458313584327698,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\121.Grasshopper_Sparrow\\Grasshopper_Sparrow_0114_116160.jpg",
+      "mean_similarity": 0.945173978805542,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\121.Grasshopper_Sparrow\\Grasshopper_Sparrow_0042_115638.jpg",
+      "mean_similarity": 0.9450766444206238,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\121.Grasshopper_Sparrow\\Grasshopper_Sparrow_0017_115908.jpg",
+      "mean_similarity": 0.9448966979980469,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\121.Grasshopper_Sparrow\\Grasshopper_Sparrow_0126_116029.jpg",
+      "mean_similarity": 0.9448909163475037,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\121.Grasshopper_Sparrow\\Grasshopper_Sparrow_0119_116081.jpg",
+      "mean_similarity": 0.9445927739143372,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\121.Grasshopper_Sparrow\\Grasshopper_Sparrow_0038_115704.jpg",
+      "mean_similarity": 0.9443333745002747,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\121.Grasshopper_Sparrow\\Grasshopper_Sparrow_0001_115938.jpg",
+      "mean_similarity": 0.9442398548126221,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\121.Grasshopper_Sparrow\\Grasshopper_Sparrow_0070_115645.jpg",
+      "mean_similarity": 0.9440901279449463,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\121.Grasshopper_Sparrow\\Grasshopper_Sparrow_0110_115644.jpg",
+      "mean_similarity": 0.9439282417297363,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\121.Grasshopper_Sparrow\\Grasshopper_Sparrow_0050_116301.jpg",
+      "mean_similarity": 0.9437624216079712,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\121.Grasshopper_Sparrow\\Grasshopper_Sparrow_0003_115676.jpg",
+      "mean_similarity": 0.943568766117096,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\121.Grasshopper_Sparrow\\Grasshopper_Sparrow_0058_115862.jpg",
+      "mean_similarity": 0.943561315536499,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\121.Grasshopper_Sparrow\\Grasshopper_Sparrow_0020_116289.jpg",
+      "mean_similarity": 0.9433108568191528,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\121.Grasshopper_Sparrow\\Grasshopper_Sparrow_0041_116288.jpg",
+      "mean_similarity": 0.9431815147399902,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\121.Grasshopper_Sparrow\\Grasshopper_Sparrow_0073_115996.jpg",
+      "mean_similarity": 0.9430244565010071,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\121.Grasshopper_Sparrow\\Grasshopper_Sparrow_0040_115696.jpg",
+      "mean_similarity": 0.9427568316459656,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\121.Grasshopper_Sparrow\\Grasshopper_Sparrow_0026_115915.jpg",
+      "mean_similarity": 0.9416881203651428,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\121.Grasshopper_Sparrow\\Grasshopper_Sparrow_0039_115980.jpg",
+      "mean_similarity": 0.9389146566390991,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\121.Grasshopper_Sparrow\\Grasshopper_Sparrow_0035_116049.jpg",
+      "mean_similarity": 0.9387218952178955,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\121.Grasshopper_Sparrow\\Grasshopper_Sparrow_0029_115761.jpg",
+      "mean_similarity": 0.9376546740531921,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\121.Grasshopper_Sparrow\\Grasshopper_Sparrow_0081_116326.jpg",
+      "mean_similarity": 0.9375370144844055,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\121.Grasshopper_Sparrow\\Grasshopper_Sparrow_0068_115799.jpg",
+      "mean_similarity": 0.9372358322143555,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\121.Grasshopper_Sparrow\\Grasshopper_Sparrow_0125_116031.jpg",
+      "mean_similarity": 0.9297404885292053,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\121.Grasshopper_Sparrow\\Grasshopper_Sparrow_0115_115914.jpg",
+      "mean_similarity": 0.9237410426139832,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\121.Grasshopper_Sparrow\\Grasshopper_Sparrow_0072_115663.jpg",
+      "mean_similarity": 0.9172462821006775,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\121.Grasshopper_Sparrow\\Grasshopper_Sparrow_0064_116106.jpg",
+      "mean_similarity": 0.9140819907188416,
+      "rank": 30
+    }
+  ]
+}

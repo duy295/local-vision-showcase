@@ -1,0 +1,159 @@
+{
+  "class_name": "124.Le_Conte_Sparrow",
+  "class_idx": 123,
+  "num_images_in_class": 30,
+  "ec_size_requested": 30,
+  "ec_size_actual": 30,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\124.Le_Conte_Sparrow\\Le_Conte_Sparrow_0007_795148.jpg",
+      "mean_similarity": 0.9504626393318176,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\124.Le_Conte_Sparrow\\Le_Conte_Sparrow_0003_795175.jpg",
+      "mean_similarity": 0.9502099752426147,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\124.Le_Conte_Sparrow\\Le_Conte_Sparrow_0034_795150.jpg",
+      "mean_similarity": 0.9500594139099121,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\124.Le_Conte_Sparrow\\Le_Conte_Sparrow_0043_795213.jpg",
+      "mean_similarity": 0.9499022364616394,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\124.Le_Conte_Sparrow\\Le_Conte_Sparrow_0055_117036.jpg",
+      "mean_similarity": 0.9497886896133423,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\124.Le_Conte_Sparrow\\Le_Conte_Sparrow_0045_795162.jpg",
+      "mean_similarity": 0.9497555494308472,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\124.Le_Conte_Sparrow\\Le_Conte_Sparrow_0078_117052.jpg",
+      "mean_similarity": 0.9497553110122681,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\124.Le_Conte_Sparrow\\Le_Conte_Sparrow_0022_117039.jpg",
+      "mean_similarity": 0.9495269060134888,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\124.Le_Conte_Sparrow\\Le_Conte_Sparrow_0058_795181.jpg",
+      "mean_similarity": 0.949195384979248,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\124.Le_Conte_Sparrow\\Le_Conte_Sparrow_0063_795149.jpg",
+      "mean_similarity": 0.9491180777549744,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\124.Le_Conte_Sparrow\\Le_Conte_Sparrow_0081_795215.jpg",
+      "mean_similarity": 0.9490929841995239,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\124.Le_Conte_Sparrow\\Le_Conte_Sparrow_0071_795185.jpg",
+      "mean_similarity": 0.9490663409233093,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\124.Le_Conte_Sparrow\\Le_Conte_Sparrow_0099_795182.jpg",
+      "mean_similarity": 0.9490072131156921,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\124.Le_Conte_Sparrow\\Le_Conte_Sparrow_0016_795223.jpg",
+      "mean_similarity": 0.9489973187446594,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\124.Le_Conte_Sparrow\\Le_Conte_Sparrow_0021_117105.jpg",
+      "mean_similarity": 0.9486353397369385,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\124.Le_Conte_Sparrow\\Le_Conte_Sparrow_0040_117088.jpg",
+      "mean_similarity": 0.9483872056007385,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\124.Le_Conte_Sparrow\\Le_Conte_Sparrow_0020_117035.jpg",
+      "mean_similarity": 0.948114275932312,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\124.Le_Conte_Sparrow\\Le_Conte_Sparrow_0056_795178.jpg",
+      "mean_similarity": 0.9480018019676208,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\124.Le_Conte_Sparrow\\Le_Conte_Sparrow_0032_795186.jpg",
+      "mean_similarity": 0.947873055934906,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\124.Le_Conte_Sparrow\\Le_Conte_Sparrow_0067_117146.jpg",
+      "mean_similarity": 0.9478089809417725,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\124.Le_Conte_Sparrow\\Le_Conte_Sparrow_0068_795180.jpg",
+      "mean_similarity": 0.9478020668029785,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\124.Le_Conte_Sparrow\\Le_Conte_Sparrow_0015_795152.jpg",
+      "mean_similarity": 0.9476555585861206,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\124.Le_Conte_Sparrow\\Le_Conte_Sparrow_0073_117127.jpg",
+      "mean_similarity": 0.9474543929100037,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\124.Le_Conte_Sparrow\\Le_Conte_Sparrow_0070_795135.jpg",
+      "mean_similarity": 0.9472657442092896,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\124.Le_Conte_Sparrow\\Le_Conte_Sparrow_0084_795189.jpg",
+      "mean_similarity": 0.9451927542686462,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\124.Le_Conte_Sparrow\\Le_Conte_Sparrow_0075_795234.jpg",
+      "mean_similarity": 0.9442995190620422,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\124.Le_Conte_Sparrow\\Le_Conte_Sparrow_0064_795235.jpg",
+      "mean_similarity": 0.9396995902061462,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\124.Le_Conte_Sparrow\\Le_Conte_Sparrow_0060_795160.jpg",
+      "mean_similarity": 0.9396695494651794,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\124.Le_Conte_Sparrow\\Le_Conte_Sparrow_0089_795154.jpg",
+      "mean_similarity": 0.9393714070320129,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\124.Le_Conte_Sparrow\\Le_Conte_Sparrow_0072_795230.jpg",
+      "mean_similarity": 0.9280662536621094,
+      "rank": 30
+    }
+  ]
+}

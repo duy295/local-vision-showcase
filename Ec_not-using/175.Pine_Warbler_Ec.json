@@ -1,0 +1,159 @@
+{
+  "class_name": "175.Pine_Warbler",
+  "class_idx": 174,
+  "num_images_in_class": 30,
+  "ec_size_requested": 30,
+  "ec_size_actual": 30,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\175.Pine_Warbler\\Pine_Warbler_0037_171649.jpg",
+      "mean_similarity": 0.9494161009788513,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\175.Pine_Warbler\\Pine_Warbler_0032_172080.jpg",
+      "mean_similarity": 0.9489682912826538,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\175.Pine_Warbler\\Pine_Warbler_0033_171657.jpg",
+      "mean_similarity": 0.9489534497261047,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\175.Pine_Warbler\\Pine_Warbler_0074_172061.jpg",
+      "mean_similarity": 0.94854336977005,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\175.Pine_Warbler\\Pine_Warbler_0004_171215.jpg",
+      "mean_similarity": 0.9482911229133606,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\175.Pine_Warbler\\Pine_Warbler_0085_170981.jpg",
+      "mean_similarity": 0.9480598568916321,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\175.Pine_Warbler\\Pine_Warbler_0127_171742.jpg",
+      "mean_similarity": 0.9479578733444214,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\175.Pine_Warbler\\Pine_Warbler_0041_171477.jpg",
+      "mean_similarity": 0.9478262066841125,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\175.Pine_Warbler\\Pine_Warbler_0022_172197.jpg",
+      "mean_similarity": 0.9477375745773315,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\175.Pine_Warbler\\Pine_Warbler_0106_171107.jpg",
+      "mean_similarity": 0.9468274116516113,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\175.Pine_Warbler\\Pine_Warbler_0003_171639.jpg",
+      "mean_similarity": 0.9466936588287354,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\175.Pine_Warbler\\Pine_Warbler_0010_171239.jpg",
+      "mean_similarity": 0.9464252591133118,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\175.Pine_Warbler\\Pine_Warbler_0091_171627.jpg",
+      "mean_similarity": 0.9459447860717773,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\175.Pine_Warbler\\Pine_Warbler_0088_170980.jpg",
+      "mean_similarity": 0.9458781480789185,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\175.Pine_Warbler\\Pine_Warbler_0129_171035.jpg",
+      "mean_similarity": 0.9449598789215088,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\175.Pine_Warbler\\Pine_Warbler_0007_171523.jpg",
+      "mean_similarity": 0.9446797966957092,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\175.Pine_Warbler\\Pine_Warbler_0105_170983.jpg",
+      "mean_similarity": 0.9433963298797607,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\175.Pine_Warbler\\Pine_Warbler_0102_171147.jpg",
+      "mean_similarity": 0.9427782893180847,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\175.Pine_Warbler\\Pine_Warbler_0009_171869.jpg",
+      "mean_similarity": 0.9423885941505432,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\175.Pine_Warbler\\Pine_Warbler_0025_171110.jpg",
+      "mean_similarity": 0.9421197175979614,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\175.Pine_Warbler\\Pine_Warbler_0017_171678.jpg",
+      "mean_similarity": 0.9409312009811401,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\175.Pine_Warbler\\Pine_Warbler_0046_171452.jpg",
+      "mean_similarity": 0.9404783248901367,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\175.Pine_Warbler\\Pine_Warbler_0021_171525.jpg",
+      "mean_similarity": 0.9404553174972534,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\175.Pine_Warbler\\Pine_Warbler_0056_172064.jpg",
+      "mean_similarity": 0.9392006993293762,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\175.Pine_Warbler\\Pine_Warbler_0083_171117.jpg",
+      "mean_similarity": 0.9376717209815979,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\175.Pine_Warbler\\Pine_Warbler_0078_171374.jpg",
+      "mean_similarity": 0.9365617632865906,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\175.Pine_Warbler\\Pine_Warbler_0126_171282.jpg",
+      "mean_similarity": 0.9351953864097595,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\175.Pine_Warbler\\Pine_Warbler_0060_171635.jpg",
+      "mean_similarity": 0.9336567521095276,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\175.Pine_Warbler\\Pine_Warbler_0118_171152.jpg",
+      "mean_similarity": 0.9327734708786011,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\175.Pine_Warbler\\Pine_Warbler_0108_170597.jpg",
+      "mean_similarity": 0.9010461568832397,
+      "rank": 30
+    }
+  ]
+}

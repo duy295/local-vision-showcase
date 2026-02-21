@@ -1,0 +1,159 @@
+{
+  "class_name": "195.Carolina_Wren",
+  "class_idx": 194,
+  "num_images_in_class": 30,
+  "ec_size_requested": 30,
+  "ec_size_actual": 30,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\195.Carolina_Wren\\Carolina_Wren_0043_186286.jpg",
+      "mean_similarity": 0.9480398893356323,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\195.Carolina_Wren\\Carolina_Wren_0014_186525.jpg",
+      "mean_similarity": 0.9476916193962097,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\195.Carolina_Wren\\Carolina_Wren_0047_186928.jpg",
+      "mean_similarity": 0.9476292133331299,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\195.Carolina_Wren\\Carolina_Wren_0045_186165.jpg",
+      "mean_similarity": 0.9476091265678406,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\195.Carolina_Wren\\Carolina_Wren_0095_186561.jpg",
+      "mean_similarity": 0.9475921988487244,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\195.Carolina_Wren\\Carolina_Wren_0029_186212.jpg",
+      "mean_similarity": 0.9475409984588623,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\195.Carolina_Wren\\Carolina_Wren_0033_186848.jpg",
+      "mean_similarity": 0.9472166299819946,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\195.Carolina_Wren\\Carolina_Wren_0128_186581.jpg",
+      "mean_similarity": 0.946411669254303,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\195.Carolina_Wren\\Carolina_Wren_0058_186409.jpg",
+      "mean_similarity": 0.9463571310043335,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\195.Carolina_Wren\\Carolina_Wren_0122_186365.jpg",
+      "mean_similarity": 0.946243941783905,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\195.Carolina_Wren\\Carolina_Wren_0099_186237.jpg",
+      "mean_similarity": 0.9461488127708435,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\195.Carolina_Wren\\Carolina_Wren_0035_186356.jpg",
+      "mean_similarity": 0.9460698366165161,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\195.Carolina_Wren\\Carolina_Wren_0113_186675.jpg",
+      "mean_similarity": 0.9455327987670898,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\195.Carolina_Wren\\Carolina_Wren_0117_186916.jpg",
+      "mean_similarity": 0.9455044269561768,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\195.Carolina_Wren\\Carolina_Wren_0013_187086.jpg",
+      "mean_similarity": 0.9454975724220276,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\195.Carolina_Wren\\Carolina_Wren_0049_186129.jpg",
+      "mean_similarity": 0.9454898238182068,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\195.Carolina_Wren\\Carolina_Wren_0024_186377.jpg",
+      "mean_similarity": 0.945368230342865,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\195.Carolina_Wren\\Carolina_Wren_0072_186309.jpg",
+      "mean_similarity": 0.9449731111526489,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\195.Carolina_Wren\\Carolina_Wren_0065_186517.jpg",
+      "mean_similarity": 0.944882333278656,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\195.Carolina_Wren\\Carolina_Wren_0141_186347.jpg",
+      "mean_similarity": 0.9442362189292908,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\195.Carolina_Wren\\Carolina_Wren_0056_186313.jpg",
+      "mean_similarity": 0.943636417388916,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\195.Carolina_Wren\\Carolina_Wren_0142_186443.jpg",
+      "mean_similarity": 0.9427142143249512,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\195.Carolina_Wren\\Carolina_Wren_0038_186436.jpg",
+      "mean_similarity": 0.9414741396903992,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\195.Carolina_Wren\\Carolina_Wren_0020_186702.jpg",
+      "mean_similarity": 0.9411782622337341,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\195.Carolina_Wren\\Carolina_Wren_0051_186510.jpg",
+      "mean_similarity": 0.9411628842353821,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\195.Carolina_Wren\\Carolina_Wren_0091_186464.jpg",
+      "mean_similarity": 0.9367388486862183,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\195.Carolina_Wren\\Carolina_Wren_0055_186154.jpg",
+      "mean_similarity": 0.9356331825256348,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\195.Carolina_Wren\\Carolina_Wren_0107_186972.jpg",
+      "mean_similarity": 0.9315851330757141,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\195.Carolina_Wren\\Carolina_Wren_0112_186562.jpg",
+      "mean_similarity": 0.9307677149772644,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\195.Carolina_Wren\\Carolina_Wren_0086_186431.jpg",
+      "mean_similarity": 0.9178148508071899,
+      "rank": 30
+    }
+  ]
+}

@@ -1,0 +1,159 @@
+{
+  "class_name": "123.Henslow_Sparrow",
+  "class_idx": 122,
+  "num_images_in_class": 30,
+  "ec_size_requested": 30,
+  "ec_size_actual": 30,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\123.Henslow_Sparrow\\Henslow_Sparrow_0087_116942.jpg",
+      "mean_similarity": 0.9503761529922485,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\123.Henslow_Sparrow\\Henslow_Sparrow_0009_796611.jpg",
+      "mean_similarity": 0.9502415060997009,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\123.Henslow_Sparrow\\Henslow_Sparrow_0058_796616.jpg",
+      "mean_similarity": 0.9500982165336609,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\123.Henslow_Sparrow\\Henslow_Sparrow_0054_116850.jpg",
+      "mean_similarity": 0.949995756149292,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\123.Henslow_Sparrow\\Henslow_Sparrow_0106_796580.jpg",
+      "mean_similarity": 0.9499547481536865,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\123.Henslow_Sparrow\\Henslow_Sparrow_0070_796571.jpg",
+      "mean_similarity": 0.9497528672218323,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\123.Henslow_Sparrow\\Henslow_Sparrow_0061_116751.jpg",
+      "mean_similarity": 0.9497126936912537,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\123.Henslow_Sparrow\\Henslow_Sparrow_0042_796595.jpg",
+      "mean_similarity": 0.9494568109512329,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\123.Henslow_Sparrow\\Henslow_Sparrow_0037_796579.jpg",
+      "mean_similarity": 0.9493756294250488,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\123.Henslow_Sparrow\\Henslow_Sparrow_0006_796607.jpg",
+      "mean_similarity": 0.9493321180343628,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\123.Henslow_Sparrow\\Henslow_Sparrow_0096_116758.jpg",
+      "mean_similarity": 0.9492117166519165,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\123.Henslow_Sparrow\\Henslow_Sparrow_0023_796582.jpg",
+      "mean_similarity": 0.949203372001648,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\123.Henslow_Sparrow\\Henslow_Sparrow_0030_116890.jpg",
+      "mean_similarity": 0.9491729736328125,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\123.Henslow_Sparrow\\Henslow_Sparrow_0064_796573.jpg",
+      "mean_similarity": 0.9488613605499268,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\123.Henslow_Sparrow\\Henslow_Sparrow_0059_796569.jpg",
+      "mean_similarity": 0.948858916759491,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\123.Henslow_Sparrow\\Henslow_Sparrow_0069_116832.jpg",
+      "mean_similarity": 0.9487627148628235,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\123.Henslow_Sparrow\\Henslow_Sparrow_0002_116930.jpg",
+      "mean_similarity": 0.9485138058662415,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\123.Henslow_Sparrow\\Henslow_Sparrow_0113_116801.jpg",
+      "mean_similarity": 0.9484741687774658,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\123.Henslow_Sparrow\\Henslow_Sparrow_0083_116844.jpg",
+      "mean_similarity": 0.9483844637870789,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\123.Henslow_Sparrow\\Henslow_Sparrow_0098_796601.jpg",
+      "mean_similarity": 0.9474805593490601,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\123.Henslow_Sparrow\\Henslow_Sparrow_0021_116931.jpg",
+      "mean_similarity": 0.9470664858818054,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\123.Henslow_Sparrow\\Henslow_Sparrow_0076_116810.jpg",
+      "mean_similarity": 0.9463895559310913,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\123.Henslow_Sparrow\\Henslow_Sparrow_0052_796599.jpg",
+      "mean_similarity": 0.9461280703544617,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\123.Henslow_Sparrow\\Henslow_Sparrow_0018_116834.jpg",
+      "mean_similarity": 0.9452576637268066,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\123.Henslow_Sparrow\\Henslow_Sparrow_0027_796543.jpg",
+      "mean_similarity": 0.9451533555984497,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\123.Henslow_Sparrow\\Henslow_Sparrow_0031_796594.jpg",
+      "mean_similarity": 0.9450879096984863,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\123.Henslow_Sparrow\\Henslow_Sparrow_0107_796614.jpg",
+      "mean_similarity": 0.9385460615158081,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\123.Henslow_Sparrow\\Henslow_Sparrow_0085_116971.jpg",
+      "mean_similarity": 0.9375165700912476,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\123.Henslow_Sparrow\\Henslow_Sparrow_0074_116905.jpg",
+      "mean_similarity": 0.9373759031295776,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\123.Henslow_Sparrow\\Henslow_Sparrow_0081_116755.jpg",
+      "mean_similarity": 0.933691680431366,
+      "rank": 30
+    }
+  ]
+}

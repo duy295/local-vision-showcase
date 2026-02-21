@@ -1,0 +1,159 @@
+{
+  "class_name": "200.Common_Yellowthroat",
+  "class_idx": 199,
+  "num_images_in_class": 30,
+  "ec_size_requested": 30,
+  "ec_size_actual": 30,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\200.Common_Yellowthroat\\Common_Yellowthroat_0072_190402.jpg",
+      "mean_similarity": 0.9469505548477173,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\200.Common_Yellowthroat\\Common_Yellowthroat_0090_190503.jpg",
+      "mean_similarity": 0.9468483328819275,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\200.Common_Yellowthroat\\Common_Yellowthroat_0015_190556.jpg",
+      "mean_similarity": 0.9463001489639282,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\200.Common_Yellowthroat\\Common_Yellowthroat_0028_190527.jpg",
+      "mean_similarity": 0.9456912279129028,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\200.Common_Yellowthroat\\Common_Yellowthroat_0126_190407.jpg",
+      "mean_similarity": 0.9454716444015503,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\200.Common_Yellowthroat\\Common_Yellowthroat_0075_190900.jpg",
+      "mean_similarity": 0.9452852606773376,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\200.Common_Yellowthroat\\Common_Yellowthroat_0121_190597.jpg",
+      "mean_similarity": 0.9452500939369202,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\200.Common_Yellowthroat\\Common_Yellowthroat_0106_190989.jpg",
+      "mean_similarity": 0.9451190829277039,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\200.Common_Yellowthroat\\Common_Yellowthroat_0054_190398.jpg",
+      "mean_similarity": 0.9449811577796936,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\200.Common_Yellowthroat\\Common_Yellowthroat_0004_190606.jpg",
+      "mean_similarity": 0.944877028465271,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\200.Common_Yellowthroat\\Common_Yellowthroat_0080_190663.jpg",
+      "mean_similarity": 0.9445655941963196,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\200.Common_Yellowthroat\\Common_Yellowthroat_0035_190567.jpg",
+      "mean_similarity": 0.9430396556854248,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\200.Common_Yellowthroat\\Common_Yellowthroat_0104_190489.jpg",
+      "mean_similarity": 0.9427071213722229,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\200.Common_Yellowthroat\\Common_Yellowthroat_0081_190525.jpg",
+      "mean_similarity": 0.942501962184906,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\200.Common_Yellowthroat\\Common_Yellowthroat_0006_190576.jpg",
+      "mean_similarity": 0.9415269494056702,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\200.Common_Yellowthroat\\Common_Yellowthroat_0088_190594.jpg",
+      "mean_similarity": 0.9414749145507812,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\200.Common_Yellowthroat\\Common_Yellowthroat_0098_190430.jpg",
+      "mean_similarity": 0.9404940009117126,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\200.Common_Yellowthroat\\Common_Yellowthroat_0093_190609.jpg",
+      "mean_similarity": 0.9403890371322632,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\200.Common_Yellowthroat\\Common_Yellowthroat_0069_190400.jpg",
+      "mean_similarity": 0.940275251865387,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\200.Common_Yellowthroat\\Common_Yellowthroat_0092_190573.jpg",
+      "mean_similarity": 0.9378361105918884,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\200.Common_Yellowthroat\\Common_Yellowthroat_0077_190990.jpg",
+      "mean_similarity": 0.9375346302986145,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\200.Common_Yellowthroat\\Common_Yellowthroat_0049_190708.jpg",
+      "mean_similarity": 0.9362285733222961,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\200.Common_Yellowthroat\\Common_Yellowthroat_0037_190698.jpg",
+      "mean_similarity": 0.9358748197555542,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\200.Common_Yellowthroat\\Common_Yellowthroat_0032_190592.jpg",
+      "mean_similarity": 0.9357193112373352,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\200.Common_Yellowthroat\\Common_Yellowthroat_0010_190572.jpg",
+      "mean_similarity": 0.934246301651001,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\200.Common_Yellowthroat\\Common_Yellowthroat_0009_190578.jpg",
+      "mean_similarity": 0.9322866201400757,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\200.Common_Yellowthroat\\Common_Yellowthroat_0094_190690.jpg",
+      "mean_similarity": 0.932212769985199,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\200.Common_Yellowthroat\\Common_Yellowthroat_0087_190414.jpg",
+      "mean_similarity": 0.9309656620025635,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\200.Common_Yellowthroat\\Common_Yellowthroat_0122_190570.jpg",
+      "mean_similarity": 0.9268838763237,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\200.Common_Yellowthroat\\Common_Yellowthroat_0003_190521.jpg",
+      "mean_similarity": 0.9250935316085815,
+      "rank": 30
+    }
+  ]
+}

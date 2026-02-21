@@ -1,0 +1,159 @@
+{
+  "class_name": "145.Elegant_Tern",
+  "class_idx": 144,
+  "num_images_in_class": 30,
+  "ec_size_requested": 30,
+  "ec_size_actual": 30,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\145.Elegant_Tern\\Elegant_Tern_0098_151028.jpg",
+      "mean_similarity": 0.9493457078933716,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\145.Elegant_Tern\\Elegant_Tern_0074_151036.jpg",
+      "mean_similarity": 0.9490198493003845,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\145.Elegant_Tern\\Elegant_Tern_0061_150524.jpg",
+      "mean_similarity": 0.9481800198554993,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\145.Elegant_Tern\\Elegant_Tern_0065_151021.jpg",
+      "mean_similarity": 0.9480359554290771,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\145.Elegant_Tern\\Elegant_Tern_0076_150519.jpg",
+      "mean_similarity": 0.9479024410247803,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\145.Elegant_Tern\\Elegant_Tern_0078_151196.jpg",
+      "mean_similarity": 0.9478614926338196,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\145.Elegant_Tern\\Elegant_Tern_0083_150829.jpg",
+      "mean_similarity": 0.9476872086524963,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\145.Elegant_Tern\\Elegant_Tern_0052_150695.jpg",
+      "mean_similarity": 0.9475486874580383,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\145.Elegant_Tern\\Elegant_Tern_0073_150925.jpg",
+      "mean_similarity": 0.9474886059761047,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\145.Elegant_Tern\\Elegant_Tern_0029_150494.jpg",
+      "mean_similarity": 0.9473696947097778,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\145.Elegant_Tern\\Elegant_Tern_0004_150948.jpg",
+      "mean_similarity": 0.9471657872200012,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\145.Elegant_Tern\\Elegant_Tern_0048_150693.jpg",
+      "mean_similarity": 0.9471001625061035,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\145.Elegant_Tern\\Elegant_Tern_0026_150869.jpg",
+      "mean_similarity": 0.9470513463020325,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\145.Elegant_Tern\\Elegant_Tern_0103_150493.jpg",
+      "mean_similarity": 0.9469653367996216,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\145.Elegant_Tern\\Elegant_Tern_0046_150905.jpg",
+      "mean_similarity": 0.9465957283973694,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\145.Elegant_Tern\\Elegant_Tern_0070_147548.jpg",
+      "mean_similarity": 0.9464963674545288,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\145.Elegant_Tern\\Elegant_Tern_0008_145044.jpg",
+      "mean_similarity": 0.9463790059089661,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\145.Elegant_Tern\\Elegant_Tern_0045_150752.jpg",
+      "mean_similarity": 0.9462827444076538,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\145.Elegant_Tern\\Elegant_Tern_0047_150626.jpg",
+      "mean_similarity": 0.945837676525116,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\145.Elegant_Tern\\Elegant_Tern_0032_150488.jpg",
+      "mean_similarity": 0.9456868767738342,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\145.Elegant_Tern\\Elegant_Tern_0063_150873.jpg",
+      "mean_similarity": 0.9456049203872681,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\145.Elegant_Tern\\Elegant_Tern_0050_150521.jpg",
+      "mean_similarity": 0.9455737471580505,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\145.Elegant_Tern\\Elegant_Tern_0064_150822.jpg",
+      "mean_similarity": 0.9454159140586853,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\145.Elegant_Tern\\Elegant_Tern_0088_151089.jpg",
+      "mean_similarity": 0.9439131021499634,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\145.Elegant_Tern\\Elegant_Tern_0068_150526.jpg",
+      "mean_similarity": 0.9436289668083191,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\145.Elegant_Tern\\Elegant_Tern_0009_150954.jpg",
+      "mean_similarity": 0.9432296752929688,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\145.Elegant_Tern\\Elegant_Tern_0014_150523.jpg",
+      "mean_similarity": 0.9430435299873352,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\145.Elegant_Tern\\Elegant_Tern_0066_150864.jpg",
+      "mean_similarity": 0.9425331354141235,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\145.Elegant_Tern\\Elegant_Tern_0034_45914.jpg",
+      "mean_similarity": 0.9401816725730896,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\145.Elegant_Tern\\Elegant_Tern_0028_151019.jpg",
+      "mean_similarity": 0.9391289949417114,
+      "rank": 30
+    }
+  ]
+}

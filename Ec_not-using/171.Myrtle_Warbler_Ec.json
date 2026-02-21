@@ -1,0 +1,159 @@
+{
+  "class_name": "171.Myrtle_Warbler",
+  "class_idx": 170,
+  "num_images_in_class": 30,
+  "ec_size_requested": 30,
+  "ec_size_actual": 30,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\171.Myrtle_Warbler\\Myrtle_Warbler_0065_166885.jpg",
+      "mean_similarity": 0.9463221430778503,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\171.Myrtle_Warbler\\Myrtle_Warbler_0073_166798.jpg",
+      "mean_similarity": 0.9451016187667847,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\171.Myrtle_Warbler\\Myrtle_Warbler_0037_166690.jpg",
+      "mean_similarity": 0.9447634220123291,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\171.Myrtle_Warbler\\Myrtle_Warbler_0023_166764.jpg",
+      "mean_similarity": 0.9442380666732788,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\171.Myrtle_Warbler\\Myrtle_Warbler_0033_166727.jpg",
+      "mean_similarity": 0.9436686635017395,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\171.Myrtle_Warbler\\Myrtle_Warbler_0101_166942.jpg",
+      "mean_similarity": 0.9430208206176758,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\171.Myrtle_Warbler\\Myrtle_Warbler_0015_166713.jpg",
+      "mean_similarity": 0.9426795244216919,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\171.Myrtle_Warbler\\Myrtle_Warbler_0064_166679.jpg",
+      "mean_similarity": 0.9419851303100586,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\171.Myrtle_Warbler\\Myrtle_Warbler_0089_166896.jpg",
+      "mean_similarity": 0.941129207611084,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\171.Myrtle_Warbler\\Myrtle_Warbler_0059_166946.jpg",
+      "mean_similarity": 0.9409976005554199,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\171.Myrtle_Warbler\\Myrtle_Warbler_0110_166785.jpg",
+      "mean_similarity": 0.9407259225845337,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\171.Myrtle_Warbler\\Myrtle_Warbler_0069_166914.jpg",
+      "mean_similarity": 0.9405664801597595,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\171.Myrtle_Warbler\\Myrtle_Warbler_0107_166917.jpg",
+      "mean_similarity": 0.9400454759597778,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\171.Myrtle_Warbler\\Myrtle_Warbler_0100_166871.jpg",
+      "mean_similarity": 0.9388328790664673,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\171.Myrtle_Warbler\\Myrtle_Warbler_0050_166820.jpg",
+      "mean_similarity": 0.938377320766449,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\171.Myrtle_Warbler\\Myrtle_Warbler_0067_166828.jpg",
+      "mean_similarity": 0.9383212327957153,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\171.Myrtle_Warbler\\Myrtle_Warbler_0008_166927.jpg",
+      "mean_similarity": 0.9379830360412598,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\171.Myrtle_Warbler\\Myrtle_Warbler_0103_166963.jpg",
+      "mean_similarity": 0.9378660917282104,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\171.Myrtle_Warbler\\Myrtle_Warbler_0112_166754.jpg",
+      "mean_similarity": 0.9376499652862549,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\171.Myrtle_Warbler\\Myrtle_Warbler_0102_166725.jpg",
+      "mean_similarity": 0.9362642168998718,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\171.Myrtle_Warbler\\Myrtle_Warbler_0009_166752.jpg",
+      "mean_similarity": 0.9362238049507141,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\171.Myrtle_Warbler\\Myrtle_Warbler_0043_166708.jpg",
+      "mean_similarity": 0.9341694116592407,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\171.Myrtle_Warbler\\Myrtle_Warbler_0084_166747.jpg",
+      "mean_similarity": 0.9332184791564941,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\171.Myrtle_Warbler\\Myrtle_Warbler_0036_166833.jpg",
+      "mean_similarity": 0.9310067296028137,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\171.Myrtle_Warbler\\Myrtle_Warbler_0072_166702.jpg",
+      "mean_similarity": 0.9260887503623962,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\171.Myrtle_Warbler\\Myrtle_Warbler_0104_166829.jpg",
+      "mean_similarity": 0.9208043813705444,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\171.Myrtle_Warbler\\Myrtle_Warbler_0007_166897.jpg",
+      "mean_similarity": 0.9070836901664734,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\171.Myrtle_Warbler\\Myrtle_Warbler_0025_166704.jpg",
+      "mean_similarity": 0.8916879296302795,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\171.Myrtle_Warbler\\Myrtle_Warbler_0026_166680.jpg",
+      "mean_similarity": 0.8871843814849854,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\171.Myrtle_Warbler\\Myrtle_Warbler_0098_166794.jpg",
+      "mean_similarity": 0.8830689787864685,
+      "rank": 30
+    }
+  ]
+}

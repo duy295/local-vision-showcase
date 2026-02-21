@@ -1,0 +1,159 @@
+{
+  "class_name": "118.House_Sparrow",
+  "class_idx": 117,
+  "num_images_in_class": 30,
+  "ec_size_requested": 30,
+  "ec_size_actual": 30,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\118.House_Sparrow\\House_Sparrow_0108_112963.jpg",
+      "mean_similarity": 0.9466061592102051,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\118.House_Sparrow\\House_Sparrow_0046_112845.jpg",
+      "mean_similarity": 0.9465728998184204,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\118.House_Sparrow\\House_Sparrow_0067_112913.jpg",
+      "mean_similarity": 0.94635009765625,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\118.House_Sparrow\\House_Sparrow_0074_111997.jpg",
+      "mean_similarity": 0.9462926983833313,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\118.House_Sparrow\\House_Sparrow_0030_111387.jpg",
+      "mean_similarity": 0.946201741695404,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\118.House_Sparrow\\House_Sparrow_0139_112438.jpg",
+      "mean_similarity": 0.9459741115570068,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\118.House_Sparrow\\House_Sparrow_0011_112099.jpg",
+      "mean_similarity": 0.9457806348800659,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\118.House_Sparrow\\House_Sparrow_0128_110971.jpg",
+      "mean_similarity": 0.9447875618934631,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\118.House_Sparrow\\House_Sparrow_0137_111219.jpg",
+      "mean_similarity": 0.9447651505470276,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\118.House_Sparrow\\House_Sparrow_0093_110990.jpg",
+      "mean_similarity": 0.9447485208511353,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\118.House_Sparrow\\House_Sparrow_0086_111385.jpg",
+      "mean_similarity": 0.9446502923965454,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\118.House_Sparrow\\House_Sparrow_0053_111388.jpg",
+      "mean_similarity": 0.9444969296455383,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\118.House_Sparrow\\House_Sparrow_0008_111204.jpg",
+      "mean_similarity": 0.9444347023963928,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\118.House_Sparrow\\House_Sparrow_0145_112703.jpg",
+      "mean_similarity": 0.94413822889328,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\118.House_Sparrow\\House_Sparrow_0073_112745.jpg",
+      "mean_similarity": 0.9440744519233704,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\118.House_Sparrow\\House_Sparrow_0119_111471.jpg",
+      "mean_similarity": 0.9439902305603027,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\118.House_Sparrow\\House_Sparrow_0121_113182.jpg",
+      "mean_similarity": 0.9439665675163269,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\118.House_Sparrow\\House_Sparrow_0111_112968.jpg",
+      "mean_similarity": 0.9438108205795288,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\118.House_Sparrow\\House_Sparrow_0104_113105.jpg",
+      "mean_similarity": 0.9436995387077332,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\118.House_Sparrow\\House_Sparrow_0092_111413.jpg",
+      "mean_similarity": 0.9435123801231384,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\118.House_Sparrow\\House_Sparrow_0055_111393.jpg",
+      "mean_similarity": 0.9432054758071899,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\118.House_Sparrow\\House_Sparrow_0144_113216.jpg",
+      "mean_similarity": 0.9423925280570984,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\118.House_Sparrow\\House_Sparrow_0080_111099.jpg",
+      "mean_similarity": 0.9406134486198425,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\118.House_Sparrow\\House_Sparrow_0006_111034.jpg",
+      "mean_similarity": 0.9393435716629028,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\118.House_Sparrow\\House_Sparrow_0130_110985.jpg",
+      "mean_similarity": 0.9344175457954407,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\118.House_Sparrow\\House_Sparrow_0059_111164.jpg",
+      "mean_similarity": 0.9344043135643005,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\118.House_Sparrow\\House_Sparrow_0133_112368.jpg",
+      "mean_similarity": 0.9333359003067017,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\118.House_Sparrow\\House_Sparrow_0083_111470.jpg",
+      "mean_similarity": 0.9321572780609131,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\118.House_Sparrow\\House_Sparrow_0106_111564.jpg",
+      "mean_similarity": 0.9264824986457825,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\118.House_Sparrow\\House_Sparrow_0082_112478.jpg",
+      "mean_similarity": 0.9201252460479736,
+      "rank": 30
+    }
+  ]
+}

@@ -1,0 +1,159 @@
+{
+  "class_name": "109.American_Redstart",
+  "class_idx": 108,
+  "num_images_in_class": 30,
+  "ec_size_requested": 30,
+  "ec_size_actual": 30,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\109.American_Redstart\\American_Redstart_0096_102853.jpg",
+      "mean_similarity": 0.9473236203193665,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\109.American_Redstart\\American_Redstart_0054_103543.jpg",
+      "mean_similarity": 0.9469820261001587,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\109.American_Redstart\\American_Redstart_0036_103231.jpg",
+      "mean_similarity": 0.9468883872032166,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\109.American_Redstart\\American_Redstart_0066_102774.jpg",
+      "mean_similarity": 0.9461730122566223,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\109.American_Redstart\\American_Redstart_0116_103631.jpg",
+      "mean_similarity": 0.9461150169372559,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\109.American_Redstart\\American_Redstart_0031_102890.jpg",
+      "mean_similarity": 0.946072518825531,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\109.American_Redstart\\American_Redstart_0071_103266.jpg",
+      "mean_similarity": 0.946045994758606,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\109.American_Redstart\\American_Redstart_0049_103176.jpg",
+      "mean_similarity": 0.9455083608627319,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\109.American_Redstart\\American_Redstart_0138_102869.jpg",
+      "mean_similarity": 0.9453843235969543,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\109.American_Redstart\\American_Redstart_0013_103677.jpg",
+      "mean_similarity": 0.9451963901519775,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\109.American_Redstart\\American_Redstart_0033_103783.jpg",
+      "mean_similarity": 0.9448776245117188,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\109.American_Redstart\\American_Redstart_0027_103168.jpg",
+      "mean_similarity": 0.9446232318878174,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\109.American_Redstart\\American_Redstart_0085_103155.jpg",
+      "mean_similarity": 0.9443288445472717,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\109.American_Redstart\\American_Redstart_0090_102940.jpg",
+      "mean_similarity": 0.943903923034668,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\109.American_Redstart\\American_Redstart_0108_103686.jpg",
+      "mean_similarity": 0.9415475130081177,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\109.American_Redstart\\American_Redstart_0093_103071.jpg",
+      "mean_similarity": 0.9413629174232483,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\109.American_Redstart\\American_Redstart_0077_104042.jpg",
+      "mean_similarity": 0.9412946701049805,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\109.American_Redstart\\American_Redstart_0067_103259.jpg",
+      "mean_similarity": 0.9410667419433594,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\109.American_Redstart\\American_Redstart_0080_103749.jpg",
+      "mean_similarity": 0.9403390288352966,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\109.American_Redstart\\American_Redstart_0111_102945.jpg",
+      "mean_similarity": 0.939207136631012,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\109.American_Redstart\\American_Redstart_0118_103033.jpg",
+      "mean_similarity": 0.9388173222541809,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\109.American_Redstart\\American_Redstart_0045_102823.jpg",
+      "mean_similarity": 0.9383410811424255,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\109.American_Redstart\\American_Redstart_0056_103241.jpg",
+      "mean_similarity": 0.9377560019493103,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\109.American_Redstart\\American_Redstart_0109_103795.jpg",
+      "mean_similarity": 0.9375954270362854,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\109.American_Redstart\\American_Redstart_0024_103042.jpg",
+      "mean_similarity": 0.9375612735748291,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\109.American_Redstart\\American_Redstart_0009_103974.jpg",
+      "mean_similarity": 0.9357121586799622,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\109.American_Redstart\\American_Redstart_0128_102983.jpg",
+      "mean_similarity": 0.9284929633140564,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\109.American_Redstart\\American_Redstart_0087_103371.jpg",
+      "mean_similarity": 0.924750804901123,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\109.American_Redstart\\American_Redstart_0022_103701.jpg",
+      "mean_similarity": 0.9229253530502319,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\109.American_Redstart\\American_Redstart_0089_103187.jpg",
+      "mean_similarity": 0.9164332747459412,
+      "rank": 30
+    }
+  ]
+}

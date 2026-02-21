@@ -1,0 +1,159 @@
+{
+  "class_name": "125.Lincoln_Sparrow",
+  "class_idx": 124,
+  "num_images_in_class": 30,
+  "ec_size_requested": 30,
+  "ec_size_actual": 30,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\125.Lincoln_Sparrow\\Lincoln_Sparrow_0115_117216.jpg",
+      "mean_similarity": 0.9481894373893738,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\125.Lincoln_Sparrow\\Lincoln_Sparrow_0044_117687.jpg",
+      "mean_similarity": 0.9481380581855774,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\125.Lincoln_Sparrow\\Lincoln_Sparrow_0088_117634.jpg",
+      "mean_similarity": 0.9473970532417297,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\125.Lincoln_Sparrow\\Lincoln_Sparrow_0022_117759.jpg",
+      "mean_similarity": 0.9470138549804688,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\125.Lincoln_Sparrow\\Lincoln_Sparrow_0110_117264.jpg",
+      "mean_similarity": 0.9469791054725647,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\125.Lincoln_Sparrow\\Lincoln_Sparrow_0042_117507.jpg",
+      "mean_similarity": 0.9469407200813293,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\125.Lincoln_Sparrow\\Lincoln_Sparrow_0109_117940.jpg",
+      "mean_similarity": 0.9468855857849121,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\125.Lincoln_Sparrow\\Lincoln_Sparrow_0064_117602.jpg",
+      "mean_similarity": 0.946551501750946,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\125.Lincoln_Sparrow\\Lincoln_Sparrow_0009_117535.jpg",
+      "mean_similarity": 0.9461376667022705,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\125.Lincoln_Sparrow\\Lincoln_Sparrow_0087_117444.jpg",
+      "mean_similarity": 0.9460316300392151,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\125.Lincoln_Sparrow\\Lincoln_Sparrow_0032_117747.jpg",
+      "mean_similarity": 0.9460020065307617,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\125.Lincoln_Sparrow\\Lincoln_Sparrow_0038_117461.jpg",
+      "mean_similarity": 0.9457252621650696,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\125.Lincoln_Sparrow\\Lincoln_Sparrow_0083_117272.jpg",
+      "mean_similarity": 0.9456953406333923,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\125.Lincoln_Sparrow\\Lincoln_Sparrow_0128_117851.jpg",
+      "mean_similarity": 0.945466160774231,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\125.Lincoln_Sparrow\\Lincoln_Sparrow_0040_117721.jpg",
+      "mean_similarity": 0.9452097415924072,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\125.Lincoln_Sparrow\\Lincoln_Sparrow_0057_117334.jpg",
+      "mean_similarity": 0.9450899958610535,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\125.Lincoln_Sparrow\\Lincoln_Sparrow_0070_117342.jpg",
+      "mean_similarity": 0.9438462257385254,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\125.Lincoln_Sparrow\\Lincoln_Sparrow_0058_117503.jpg",
+      "mean_similarity": 0.943254292011261,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\125.Lincoln_Sparrow\\Lincoln_Sparrow_0050_117744.jpg",
+      "mean_similarity": 0.9429705142974854,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\125.Lincoln_Sparrow\\Lincoln_Sparrow_0072_117951.jpg",
+      "mean_similarity": 0.9413479566574097,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\125.Lincoln_Sparrow\\Lincoln_Sparrow_0014_117883.jpg",
+      "mean_similarity": 0.9405346512794495,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\125.Lincoln_Sparrow\\Lincoln_Sparrow_0090_117857.jpg",
+      "mean_similarity": 0.9396238327026367,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\125.Lincoln_Sparrow\\Lincoln_Sparrow_0046_117405.jpg",
+      "mean_similarity": 0.939508855342865,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\125.Lincoln_Sparrow\\Lincoln_Sparrow_0063_117509.jpg",
+      "mean_similarity": 0.9382712244987488,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\125.Lincoln_Sparrow\\Lincoln_Sparrow_0108_117773.jpg",
+      "mean_similarity": 0.9373648762702942,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\125.Lincoln_Sparrow\\Lincoln_Sparrow_0079_117919.jpg",
+      "mean_similarity": 0.935700535774231,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\125.Lincoln_Sparrow\\Lincoln_Sparrow_0084_117492.jpg",
+      "mean_similarity": 0.9351587295532227,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\125.Lincoln_Sparrow\\Lincoln_Sparrow_0059_117271.jpg",
+      "mean_similarity": 0.9273560643196106,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\125.Lincoln_Sparrow\\Lincoln_Sparrow_0036_117280.jpg",
+      "mean_similarity": 0.9262989163398743,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\125.Lincoln_Sparrow\\Lincoln_Sparrow_0119_117270.jpg",
+      "mean_similarity": 0.9255083799362183,
+      "rank": 30
+    }
+  ]
+}

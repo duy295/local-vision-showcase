@@ -9,7 +9,6 @@ from utils.samplers import ClassSpecificBatchSampler
 
 # --- SCORE COMBINER NEURAL NETWORK (match main.py) ---
 class ScoreCombinerNet(torch.nn.Module):
-    """Kết hợp 3 scores từ các branch khác nhau bằng neural network."""
     def __init__(self, hidden_dim=64):
         super().__init__()
         self.net = torch.nn.Sequential(
@@ -18,14 +17,14 @@ class ScoreCombinerNet(torch.nn.Module):
             torch.nn.Dropout(0.2),
             torch.nn.Linear(hidden_dim, hidden_dim // 2),
             torch.nn.ReLU(),
-            torch.nn.Linear(hidden_dim // 2, 1)  # Output raw score (không sigmoid)
+            torch.nn.Linear(hidden_dim // 2, 1)
         )
     
     def forward(self, scores1, scores2, scores3):
         combined_input = torch.stack([scores1, scores2, scores3], dim=1)
         output = self.net(combined_input)
-        return torch.clamp(output.squeeze(-1), 0, 1)  # Clamp [0, 1]
-
+        # SỬA Ở ĐÂY: Dùng Sigmoid và Scaling y hệt lúc Train
+        return torch.sigmoid(output.squeeze(-1)) * 0.98
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
 def test_single_pair(path_img1, path_img2, backbone_weight_path, relation_weight_path, score_combiner_weight_path=None):
@@ -81,12 +80,14 @@ def test_single_pair(path_img1, path_img2, backbone_weight_path, relation_weight
         print("✅ Kết luận: Cùng loài (Predict: SAME)")
     else:
         print("❌ Kết luận: Khác loài (Predict: DIFFERENT)")
-
+path_img1=r"E:\DATASET-FSCIL\CUB_200_2011\images\001.Black_footed_Albatross\Black_Footed_Albatross_0074_59.jpg"
+path_img2=r"E:\DATASET-FSCIL\CUB_200_2011\images\001.Black_footed_Albatross\Black_Footed_Albatross_0076_417.jpg"
 # --- CHẠY THỬ ---
+print(f"Ảnh 1: {path_img1}") # Dùng path_img1 thay vì hard-code string
+print(f"Ảnh 2: {path_img2}")
 test_single_pair(
-    path_img1=r"E:\DATASET-FSCIL\CUB_200_2011\images\001.Black_footed_Albatross\Black_Footed_Albatross_0074_59.jpg",
-    #path_img2=r"E:\DATASET-FSCIL\CUB_200_2011\images\001.Black_footed_Albatross\Black_Footed_Albatross_0076_417.jpg",
-    path_img2=r"E:\DATASET-FSCIL\CUB_200_2011\images\007.Parakeet_Auklet\Parakeet_Auklet_0003_795982.jpg",
+    path_img1=r"E:\DATASET-FSCIL\CUB_200_2011\building model\train\001.Black_footed_Albatross\Black_Footed_Albatross_0010_796097.jpg",
+    path_img2=r"E:\DATASET-FSCIL\CUB_200_2011\building model\train\200.Common_Yellowthroat\Common_Yellowthroat_0003_190521.jpg", # Chim sẻ
     backbone_weight_path="weights/backbone_full.pth",
     relation_weight_path="weights/relation_full.pth",
     score_combiner_weight_path="weights/score_combiner_full.pth"

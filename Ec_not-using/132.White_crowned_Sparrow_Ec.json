@@ -1,0 +1,159 @@
+{
+  "class_name": "132.White_crowned_Sparrow",
+  "class_idx": 131,
+  "num_images_in_class": 30,
+  "ec_size_requested": 30,
+  "ec_size_actual": 30,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\132.White_crowned_Sparrow\\White_Crowned_Sparrow_0087_128008.jpg",
+      "mean_similarity": 0.9458314180374146,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\132.White_crowned_Sparrow\\White_Crowned_Sparrow_0095_127118.jpg",
+      "mean_similarity": 0.945512592792511,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\132.White_crowned_Sparrow\\White_Crowned_Sparrow_0072_127080.jpg",
+      "mean_similarity": 0.9454236626625061,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\132.White_crowned_Sparrow\\White_Crowned_Sparrow_0129_127860.jpg",
+      "mean_similarity": 0.9454017877578735,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\132.White_crowned_Sparrow\\White_Crowned_Sparrow_0140_125967.jpg",
+      "mean_similarity": 0.94510817527771,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\132.White_crowned_Sparrow\\White_Crowned_Sparrow_0115_126027.jpg",
+      "mean_similarity": 0.9450933337211609,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\132.White_crowned_Sparrow\\White_Crowned_Sparrow_0113_128095.jpg",
+      "mean_similarity": 0.9448330998420715,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\132.White_crowned_Sparrow\\White_Crowned_Sparrow_0010_127651.jpg",
+      "mean_similarity": 0.9448240995407104,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\132.White_crowned_Sparrow\\White_Crowned_Sparrow_0100_126267.jpg",
+      "mean_similarity": 0.9448221325874329,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\132.White_crowned_Sparrow\\White_Crowned_Sparrow_0094_128627.jpg",
+      "mean_similarity": 0.944754421710968,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\132.White_crowned_Sparrow\\White_Crowned_Sparrow_0067_127576.jpg",
+      "mean_similarity": 0.9444034099578857,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\132.White_crowned_Sparrow\\White_Crowned_Sparrow_0119_126932.jpg",
+      "mean_similarity": 0.9442622661590576,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\132.White_crowned_Sparrow\\White_Crowned_Sparrow_0099_127213.jpg",
+      "mean_similarity": 0.9441981911659241,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\132.White_crowned_Sparrow\\White_Crowned_Sparrow_0068_126156.jpg",
+      "mean_similarity": 0.9429455995559692,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\132.White_crowned_Sparrow\\White_Crowned_Sparrow_0029_127503.jpg",
+      "mean_similarity": 0.9428024291992188,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\132.White_crowned_Sparrow\\White_Crowned_Sparrow_0107_128662.jpg",
+      "mean_similarity": 0.9416414499282837,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\132.White_crowned_Sparrow\\White_Crowned_Sparrow_0061_126315.jpg",
+      "mean_similarity": 0.9415488243103027,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\132.White_crowned_Sparrow\\White_Crowned_Sparrow_0105_126818.jpg",
+      "mean_similarity": 0.9398185610771179,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\132.White_crowned_Sparrow\\White_Crowned_Sparrow_0057_127927.jpg",
+      "mean_similarity": 0.9394584894180298,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\132.White_crowned_Sparrow\\White_Crowned_Sparrow_0033_127728.jpg",
+      "mean_similarity": 0.9392196536064148,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\132.White_crowned_Sparrow\\White_Crowned_Sparrow_0101_127058.jpg",
+      "mean_similarity": 0.9383838176727295,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\132.White_crowned_Sparrow\\White_Crowned_Sparrow_0001_127115.jpg",
+      "mean_similarity": 0.9368512630462646,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\132.White_crowned_Sparrow\\White_Crowned_Sparrow_0124_128082.jpg",
+      "mean_similarity": 0.9361832737922668,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\132.White_crowned_Sparrow\\White_Crowned_Sparrow_0064_126467.jpg",
+      "mean_similarity": 0.9339093565940857,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\132.White_crowned_Sparrow\\White_Crowned_Sparrow_0127_126923.jpg",
+      "mean_similarity": 0.933345377445221,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\132.White_crowned_Sparrow\\White_Crowned_Sparrow_0021_127092.jpg",
+      "mean_similarity": 0.9330751895904541,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\132.White_crowned_Sparrow\\White_Crowned_Sparrow_0114_127027.jpg",
+      "mean_similarity": 0.9321175217628479,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\132.White_crowned_Sparrow\\White_Crowned_Sparrow_0078_127603.jpg",
+      "mean_similarity": 0.9317072033882141,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\132.White_crowned_Sparrow\\White_Crowned_Sparrow_0122_128577.jpg",
+      "mean_similarity": 0.9286016821861267,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\132.White_crowned_Sparrow\\White_Crowned_Sparrow_0034_126199.jpg",
+      "mean_similarity": 0.9239336252212524,
+      "rank": 30
+    }
+  ]
+}

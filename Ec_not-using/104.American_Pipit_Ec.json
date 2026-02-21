@@ -1,0 +1,159 @@
+{
+  "class_name": "104.American_Pipit",
+  "class_idx": 103,
+  "num_images_in_class": 30,
+  "ec_size_requested": 30,
+  "ec_size_actual": 30,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\104.American_Pipit\\American_Pipit_0019_99810.jpg",
+      "mean_similarity": 0.9450963139533997,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\104.American_Pipit\\American_Pipit_0087_99996.jpg",
+      "mean_similarity": 0.94504314661026,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\104.American_Pipit\\American_Pipit_0113_99939.jpg",
+      "mean_similarity": 0.9440150856971741,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\104.American_Pipit\\American_Pipit_0085_100246.jpg",
+      "mean_similarity": 0.9436734914779663,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\104.American_Pipit\\American_Pipit_0027_100189.jpg",
+      "mean_similarity": 0.9435220956802368,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\104.American_Pipit\\American_Pipit_0024_99813.jpg",
+      "mean_similarity": 0.9433123469352722,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\104.American_Pipit\\American_Pipit_0011_99630.jpg",
+      "mean_similarity": 0.9426167011260986,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\104.American_Pipit\\American_Pipit_0114_100380.jpg",
+      "mean_similarity": 0.9422739148139954,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\104.American_Pipit\\American_Pipit_0045_99687.jpg",
+      "mean_similarity": 0.9415488243103027,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\104.American_Pipit\\American_Pipit_0031_99607.jpg",
+      "mean_similarity": 0.941251814365387,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\104.American_Pipit\\American_Pipit_0095_99959.jpg",
+      "mean_similarity": 0.940791666507721,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\104.American_Pipit\\American_Pipit_0006_99857.jpg",
+      "mean_similarity": 0.9407671093940735,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\104.American_Pipit\\American_Pipit_0002_100023.jpg",
+      "mean_similarity": 0.9399508237838745,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\104.American_Pipit\\American_Pipit_0082_99867.jpg",
+      "mean_similarity": 0.9398522973060608,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\104.American_Pipit\\American_Pipit_0058_100218.jpg",
+      "mean_similarity": 0.9391034245491028,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\104.American_Pipit\\American_Pipit_0015_99932.jpg",
+      "mean_similarity": 0.9383816123008728,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\104.American_Pipit\\American_Pipit_0037_99954.jpg",
+      "mean_similarity": 0.9383206963539124,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\104.American_Pipit\\American_Pipit_0062_100000.jpg",
+      "mean_similarity": 0.9380324482917786,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\104.American_Pipit\\American_Pipit_0073_99642.jpg",
+      "mean_similarity": 0.9380294680595398,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\104.American_Pipit\\American_Pipit_0081_99785.jpg",
+      "mean_similarity": 0.9372481107711792,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\104.American_Pipit\\American_Pipit_0008_100390.jpg",
+      "mean_similarity": 0.937213122844696,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\104.American_Pipit\\American_Pipit_0036_99658.jpg",
+      "mean_similarity": 0.9369719624519348,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\104.American_Pipit\\American_Pipit_0067_100237.jpg",
+      "mean_similarity": 0.9369158148765564,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\104.American_Pipit\\American_Pipit_0116_100015.jpg",
+      "mean_similarity": 0.9365195631980896,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\104.American_Pipit\\American_Pipit_0074_100154.jpg",
+      "mean_similarity": 0.9358959197998047,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\104.American_Pipit\\American_Pipit_0089_100260.jpg",
+      "mean_similarity": 0.9355220198631287,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\104.American_Pipit\\American_Pipit_0102_99979.jpg",
+      "mean_similarity": 0.9351503849029541,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\104.American_Pipit\\American_Pipit_0039_99841.jpg",
+      "mean_similarity": 0.9345992207527161,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\104.American_Pipit\\American_Pipit_0034_99946.jpg",
+      "mean_similarity": 0.92817622423172,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\104.American_Pipit\\American_Pipit_0021_100378.jpg",
+      "mean_similarity": 0.9111605882644653,
+      "rank": 30
+    }
+  ]
+}

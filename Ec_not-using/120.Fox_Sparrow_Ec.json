@@ -1,0 +1,159 @@
+{
+  "class_name": "120.Fox_Sparrow",
+  "class_idx": 119,
+  "num_images_in_class": 30,
+  "ec_size_requested": 30,
+  "ec_size_actual": 30,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\120.Fox_Sparrow\\Fox_Sparrow_0012_115324.jpg",
+      "mean_similarity": 0.950506865978241,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\120.Fox_Sparrow\\Fox_Sparrow_0113_114389.jpg",
+      "mean_similarity": 0.9504458904266357,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\120.Fox_Sparrow\\Fox_Sparrow_0086_115484.jpg",
+      "mean_similarity": 0.950247585773468,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\120.Fox_Sparrow\\Fox_Sparrow_0091_115550.jpg",
+      "mean_similarity": 0.949725866317749,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\120.Fox_Sparrow\\Fox_Sparrow_0025_114555.jpg",
+      "mean_similarity": 0.9494747519493103,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\120.Fox_Sparrow\\Fox_Sparrow_0075_114920.jpg",
+      "mean_similarity": 0.9494690895080566,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\120.Fox_Sparrow\\Fox_Sparrow_0044_114747.jpg",
+      "mean_similarity": 0.9493891596794128,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\120.Fox_Sparrow\\Fox_Sparrow_0093_114757.jpg",
+      "mean_similarity": 0.9491438865661621,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\120.Fox_Sparrow\\Fox_Sparrow_0078_114582.jpg",
+      "mean_similarity": 0.949062168598175,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\120.Fox_Sparrow\\Fox_Sparrow_0116_115311.jpg",
+      "mean_similarity": 0.9486174583435059,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\120.Fox_Sparrow\\Fox_Sparrow_0109_114859.jpg",
+      "mean_similarity": 0.9482288956642151,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\120.Fox_Sparrow\\Fox_Sparrow_0118_114884.jpg",
+      "mean_similarity": 0.9481044411659241,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\120.Fox_Sparrow\\Fox_Sparrow_0035_114866.jpg",
+      "mean_similarity": 0.9478302597999573,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\120.Fox_Sparrow\\Fox_Sparrow_0110_115172.jpg",
+      "mean_similarity": 0.9477334022521973,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\120.Fox_Sparrow\\Fox_Sparrow_0077_114944.jpg",
+      "mean_similarity": 0.9474428296089172,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\120.Fox_Sparrow\\Fox_Sparrow_0055_114809.jpg",
+      "mean_similarity": 0.9473215937614441,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\120.Fox_Sparrow\\Fox_Sparrow_0092_114774.jpg",
+      "mean_similarity": 0.9467482566833496,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\120.Fox_Sparrow\\Fox_Sparrow_0058_114789.jpg",
+      "mean_similarity": 0.9465022087097168,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\120.Fox_Sparrow\\Fox_Sparrow_0010_114728.jpg",
+      "mean_similarity": 0.9459897875785828,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\120.Fox_Sparrow\\Fox_Sparrow_0138_114586.jpg",
+      "mean_similarity": 0.945735514163971,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\120.Fox_Sparrow\\Fox_Sparrow_0122_114776.jpg",
+      "mean_similarity": 0.9449808597564697,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\120.Fox_Sparrow\\Fox_Sparrow_0039_114816.jpg",
+      "mean_similarity": 0.9447256922721863,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\120.Fox_Sparrow\\Fox_Sparrow_0053_114780.jpg",
+      "mean_similarity": 0.9440315365791321,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\120.Fox_Sparrow\\Fox_Sparrow_0124_114662.jpg",
+      "mean_similarity": 0.9424047470092773,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\120.Fox_Sparrow\\Fox_Sparrow_0119_115512.jpg",
+      "mean_similarity": 0.942318856716156,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\120.Fox_Sparrow\\Fox_Sparrow_0036_115581.jpg",
+      "mean_similarity": 0.9400796890258789,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\120.Fox_Sparrow\\Fox_Sparrow_0063_114350.jpg",
+      "mean_similarity": 0.9362801909446716,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\120.Fox_Sparrow\\Fox_Sparrow_0104_114908.jpg",
+      "mean_similarity": 0.9362788796424866,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\120.Fox_Sparrow\\Fox_Sparrow_0009_114796.jpg",
+      "mean_similarity": 0.9305652976036072,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\120.Fox_Sparrow\\Fox_Sparrow_0041_115218.jpg",
+      "mean_similarity": 0.926328718662262,
+      "rank": 30
+    }
+  ]
+}

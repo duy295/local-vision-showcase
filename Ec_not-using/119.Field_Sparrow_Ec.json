@@ -1,0 +1,159 @@
+{
+  "class_name": "119.Field_Sparrow",
+  "class_idx": 118,
+  "num_images_in_class": 30,
+  "ec_size_requested": 30,
+  "ec_size_actual": 30,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\119.Field_Sparrow\\Field_Sparrow_0034_113364.jpg",
+      "mean_similarity": 0.943311870098114,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\119.Field_Sparrow\\Field_Sparrow_0105_113822.jpg",
+      "mean_similarity": 0.9426374435424805,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\119.Field_Sparrow\\Field_Sparrow_0110_113995.jpg",
+      "mean_similarity": 0.9417053461074829,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\119.Field_Sparrow\\Field_Sparrow_0108_114154.jpg",
+      "mean_similarity": 0.941178560256958,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\119.Field_Sparrow\\Field_Sparrow_0100_113503.jpg",
+      "mean_similarity": 0.9398366808891296,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\119.Field_Sparrow\\Field_Sparrow_0011_113420.jpg",
+      "mean_similarity": 0.9397981762886047,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\119.Field_Sparrow\\Field_Sparrow_0025_113683.jpg",
+      "mean_similarity": 0.9380086064338684,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\119.Field_Sparrow\\Field_Sparrow_0125_113869.jpg",
+      "mean_similarity": 0.9379795789718628,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\119.Field_Sparrow\\Field_Sparrow_0126_113426.jpg",
+      "mean_similarity": 0.9377727508544922,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\119.Field_Sparrow\\Field_Sparrow_0091_113486.jpg",
+      "mean_similarity": 0.9377325773239136,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\119.Field_Sparrow\\Field_Sparrow_0013_113599.jpg",
+      "mean_similarity": 0.9375926852226257,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\119.Field_Sparrow\\Field_Sparrow_0066_114109.jpg",
+      "mean_similarity": 0.9369730353355408,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\119.Field_Sparrow\\Field_Sparrow_0099_113872.jpg",
+      "mean_similarity": 0.9368993639945984,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\119.Field_Sparrow\\Field_Sparrow_0029_113434.jpg",
+      "mean_similarity": 0.9355403780937195,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\119.Field_Sparrow\\Field_Sparrow_0095_113842.jpg",
+      "mean_similarity": 0.935309886932373,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\119.Field_Sparrow\\Field_Sparrow_0078_113575.jpg",
+      "mean_similarity": 0.9340907335281372,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\119.Field_Sparrow\\Field_Sparrow_0055_113929.jpg",
+      "mean_similarity": 0.9327398538589478,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\119.Field_Sparrow\\Field_Sparrow_0127_114087.jpg",
+      "mean_similarity": 0.9324746131896973,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\119.Field_Sparrow\\Field_Sparrow_0102_113595.jpg",
+      "mean_similarity": 0.9322090744972229,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\119.Field_Sparrow\\Field_Sparrow_0107_113659.jpg",
+      "mean_similarity": 0.9315733313560486,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\119.Field_Sparrow\\Field_Sparrow_0106_113350.jpg",
+      "mean_similarity": 0.931477427482605,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\119.Field_Sparrow\\Field_Sparrow_0130_113846.jpg",
+      "mean_similarity": 0.9291664361953735,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\119.Field_Sparrow\\Field_Sparrow_0043_113607.jpg",
+      "mean_similarity": 0.9274647831916809,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\119.Field_Sparrow\\Field_Sparrow_0121_113455.jpg",
+      "mean_similarity": 0.9273527264595032,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\119.Field_Sparrow\\Field_Sparrow_0074_113504.jpg",
+      "mean_similarity": 0.924163281917572,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\119.Field_Sparrow\\Field_Sparrow_0069_113827.jpg",
+      "mean_similarity": 0.9184600710868835,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\119.Field_Sparrow\\Field_Sparrow_0059_113759.jpg",
+      "mean_similarity": 0.9136942028999329,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\119.Field_Sparrow\\Field_Sparrow_0101_113762.jpg",
+      "mean_similarity": 0.9090502262115479,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\119.Field_Sparrow\\Field_Sparrow_0111_113899.jpg",
+      "mean_similarity": 0.8968184590339661,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\119.Field_Sparrow\\Field_Sparrow_0027_113353.jpg",
+      "mean_similarity": 0.8954738974571228,
+      "rank": 30
+    }
+  ]
+}

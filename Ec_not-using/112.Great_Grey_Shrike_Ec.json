@@ -1,0 +1,159 @@
+{
+  "class_name": "112.Great_Grey_Shrike",
+  "class_idx": 111,
+  "num_images_in_class": 30,
+  "ec_size_requested": 30,
+  "ec_size_actual": 30,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\112.Great_Grey_Shrike\\Great_Grey_Shrike_0009_797038.jpg",
+      "mean_similarity": 0.9471023678779602,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\112.Great_Grey_Shrike\\Great_Grey_Shrike_0018_106776.jpg",
+      "mean_similarity": 0.9470476508140564,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\112.Great_Grey_Shrike\\Great_Grey_Shrike_0032_797021.jpg",
+      "mean_similarity": 0.9469357132911682,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\112.Great_Grey_Shrike\\Great_Grey_Shrike_0057_106681.jpg",
+      "mean_similarity": 0.9468045830726624,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\112.Great_Grey_Shrike\\Great_Grey_Shrike_0063_797042.jpg",
+      "mean_similarity": 0.9465087056159973,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\112.Great_Grey_Shrike\\Great_Grey_Shrike_0022_797057.jpg",
+      "mean_similarity": 0.9457799792289734,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\112.Great_Grey_Shrike\\Great_Grey_Shrike_0004_797041.jpg",
+      "mean_similarity": 0.945549488067627,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\112.Great_Grey_Shrike\\Great_Grey_Shrike_0043_106818.jpg",
+      "mean_similarity": 0.9447920918464661,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\112.Great_Grey_Shrike\\Great_Grey_Shrike_0017_797028.jpg",
+      "mean_similarity": 0.9444807767868042,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\112.Great_Grey_Shrike\\Great_Grey_Shrike_0029_106668.jpg",
+      "mean_similarity": 0.944426417350769,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\112.Great_Grey_Shrike\\Great_Grey_Shrike_0083_797051.jpg",
+      "mean_similarity": 0.9443444609642029,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\112.Great_Grey_Shrike\\Great_Grey_Shrike_0020_797052.jpg",
+      "mean_similarity": 0.9443430304527283,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\112.Great_Grey_Shrike\\Great_Grey_Shrike_0061_106580.jpg",
+      "mean_similarity": 0.9441107511520386,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\112.Great_Grey_Shrike\\Great_Grey_Shrike_0050_797012.jpg",
+      "mean_similarity": 0.9438971281051636,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\112.Great_Grey_Shrike\\Great_Grey_Shrike_0070_106547.jpg",
+      "mean_similarity": 0.9438536763191223,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\112.Great_Grey_Shrike\\Great_Grey_Shrike_0076_797050.jpg",
+      "mean_similarity": 0.9436250925064087,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\112.Great_Grey_Shrike\\Great_Grey_Shrike_0008_797053.jpg",
+      "mean_similarity": 0.942832350730896,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\112.Great_Grey_Shrike\\Great_Grey_Shrike_0054_106768.jpg",
+      "mean_similarity": 0.9413749575614929,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\112.Great_Grey_Shrike\\Great_Grey_Shrike_0042_797056.jpg",
+      "mean_similarity": 0.9413630962371826,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\112.Great_Grey_Shrike\\Great_Grey_Shrike_0092_797048.jpg",
+      "mean_similarity": 0.9410748481750488,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\112.Great_Grey_Shrike\\Great_Grey_Shrike_0049_797025.jpg",
+      "mean_similarity": 0.9408971667289734,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\112.Great_Grey_Shrike\\Great_Grey_Shrike_0079_797018.jpg",
+      "mean_similarity": 0.9401030540466309,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\112.Great_Grey_Shrike\\Great_Grey_Shrike_0045_797047.jpg",
+      "mean_similarity": 0.9400844573974609,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\112.Great_Grey_Shrike\\Great_Grey_Shrike_0016_106720.jpg",
+      "mean_similarity": 0.9395034313201904,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\112.Great_Grey_Shrike\\Great_Grey_Shrike_0003_106552.jpg",
+      "mean_similarity": 0.9390367865562439,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\112.Great_Grey_Shrike\\Great_Grey_Shrike_0064_106778.jpg",
+      "mean_similarity": 0.9388740658760071,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\112.Great_Grey_Shrike\\Great_Grey_Shrike_0056_106752.jpg",
+      "mean_similarity": 0.9367743730545044,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\112.Great_Grey_Shrike\\Great_Grey_Shrike_0014_797044.jpg",
+      "mean_similarity": 0.9364291429519653,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\112.Great_Grey_Shrike\\Great_Grey_Shrike_0058_106634.jpg",
+      "mean_similarity": 0.9311884641647339,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\112.Great_Grey_Shrike\\Great_Grey_Shrike_0089_797036.jpg",
+      "mean_similarity": 0.923086404800415,
+      "rank": 30
+    }
+  ]
+}

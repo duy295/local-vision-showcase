@@ -1,0 +1,159 @@
+{
+  "class_name": "170.Mourning_Warbler",
+  "class_idx": 169,
+  "num_images_in_class": 30,
+  "ec_size_requested": 30,
+  "ec_size_actual": 30,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\170.Mourning_Warbler\\Mourning_Warbler_0062_166531.jpg",
+      "mean_similarity": 0.9484804272651672,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\170.Mourning_Warbler\\Mourning_Warbler_0007_166500.jpg",
+      "mean_similarity": 0.9477779865264893,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\170.Mourning_Warbler\\Mourning_Warbler_0069_166559.jpg",
+      "mean_similarity": 0.9474136233329773,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\170.Mourning_Warbler\\Mourning_Warbler_0082_166574.jpg",
+      "mean_similarity": 0.9464871883392334,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\170.Mourning_Warbler\\Mourning_Warbler_0059_795365.jpg",
+      "mean_similarity": 0.9463615417480469,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\170.Mourning_Warbler\\Mourning_Warbler_0014_166427.jpg",
+      "mean_similarity": 0.946226954460144,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\170.Mourning_Warbler\\Mourning_Warbler_0064_166447.jpg",
+      "mean_similarity": 0.946033775806427,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\170.Mourning_Warbler\\Mourning_Warbler_0020_166440.jpg",
+      "mean_similarity": 0.9449976086616516,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\170.Mourning_Warbler\\Mourning_Warbler_0079_166564.jpg",
+      "mean_similarity": 0.9444466233253479,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\170.Mourning_Warbler\\Mourning_Warbler_0011_795380.jpg",
+      "mean_similarity": 0.9440677762031555,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\170.Mourning_Warbler\\Mourning_Warbler_0015_166535.jpg",
+      "mean_similarity": 0.9438097476959229,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\170.Mourning_Warbler\\Mourning_Warbler_0073_166524.jpg",
+      "mean_similarity": 0.9436010122299194,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\170.Mourning_Warbler\\Mourning_Warbler_0036_166432.jpg",
+      "mean_similarity": 0.9435775876045227,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\170.Mourning_Warbler\\Mourning_Warbler_0078_795377.jpg",
+      "mean_similarity": 0.9430165886878967,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\170.Mourning_Warbler\\Mourning_Warbler_0051_795352.jpg",
+      "mean_similarity": 0.9416216015815735,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\170.Mourning_Warbler\\Mourning_Warbler_0021_166560.jpg",
+      "mean_similarity": 0.9414934515953064,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\170.Mourning_Warbler\\Mourning_Warbler_0034_795384.jpg",
+      "mean_similarity": 0.9414504170417786,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\170.Mourning_Warbler\\Mourning_Warbler_0012_166515.jpg",
+      "mean_similarity": 0.9402256011962891,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\170.Mourning_Warbler\\Mourning_Warbler_0037_795381.jpg",
+      "mean_similarity": 0.9395021796226501,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\170.Mourning_Warbler\\Mourning_Warbler_0081_166434.jpg",
+      "mean_similarity": 0.9386023879051208,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\170.Mourning_Warbler\\Mourning_Warbler_0026_166538.jpg",
+      "mean_similarity": 0.9375731945037842,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\170.Mourning_Warbler\\Mourning_Warbler_0052_166537.jpg",
+      "mean_similarity": 0.9373664259910583,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\170.Mourning_Warbler\\Mourning_Warbler_0042_166493.jpg",
+      "mean_similarity": 0.9368703365325928,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\170.Mourning_Warbler\\Mourning_Warbler_0035_166586.jpg",
+      "mean_similarity": 0.9367457628250122,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\170.Mourning_Warbler\\Mourning_Warbler_0008_166467.jpg",
+      "mean_similarity": 0.9319397211074829,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\170.Mourning_Warbler\\Mourning_Warbler_0072_795379.jpg",
+      "mean_similarity": 0.9314810037612915,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\170.Mourning_Warbler\\Mourning_Warbler_0029_166530.jpg",
+      "mean_similarity": 0.9295172691345215,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\170.Mourning_Warbler\\Mourning_Warbler_0002_166520.jpg",
+      "mean_similarity": 0.9281402230262756,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\170.Mourning_Warbler\\Mourning_Warbler_0074_795367.jpg",
+      "mean_similarity": 0.9248301386833191,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\170.Mourning_Warbler\\Mourning_Warbler_0049_166469.jpg",
+      "mean_similarity": 0.9143158197402954,
+      "rank": 30
+    }
+  ]
+}

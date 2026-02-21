@@ -1,0 +1,159 @@
+{
+  "class_name": "153.Philadelphia_Vireo",
+  "class_idx": 152,
+  "num_images_in_class": 30,
+  "ec_size_requested": 30,
+  "ec_size_actual": 30,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\153.Philadelphia_Vireo\\Philadelphia_Vireo_0002_156591.jpg",
+      "mean_similarity": 0.9469331502914429,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\153.Philadelphia_Vireo\\Philadelphia_Vireo_0019_156640.jpg",
+      "mean_similarity": 0.9465175867080688,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\153.Philadelphia_Vireo\\Philadelphia_Vireo_0049_794756.jpg",
+      "mean_similarity": 0.9462289214134216,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\153.Philadelphia_Vireo\\Philadelphia_Vireo_0012_794785.jpg",
+      "mean_similarity": 0.9461345076560974,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\153.Philadelphia_Vireo\\Philadelphia_Vireo_0001_156554.jpg",
+      "mean_similarity": 0.9460831880569458,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\153.Philadelphia_Vireo\\Philadelphia_Vireo_0045_156608.jpg",
+      "mean_similarity": 0.9460172653198242,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\153.Philadelphia_Vireo\\Philadelphia_Vireo_0067_156584.jpg",
+      "mean_similarity": 0.9459496736526489,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\153.Philadelphia_Vireo\\Philadelphia_Vireo_0052_794774.jpg",
+      "mean_similarity": 0.9451518654823303,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\153.Philadelphia_Vireo\\Philadelphia_Vireo_0015_794778.jpg",
+      "mean_similarity": 0.9433812499046326,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\153.Philadelphia_Vireo\\Philadelphia_Vireo_0068_794763.jpg",
+      "mean_similarity": 0.9433724880218506,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\153.Philadelphia_Vireo\\Philadelphia_Vireo_0029_794760.jpg",
+      "mean_similarity": 0.9430843591690063,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\153.Philadelphia_Vireo\\Philadelphia_Vireo_0003_156565.jpg",
+      "mean_similarity": 0.9426738023757935,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\153.Philadelphia_Vireo\\Philadelphia_Vireo_0047_156521.jpg",
+      "mean_similarity": 0.9424336552619934,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\153.Philadelphia_Vireo\\Philadelphia_Vireo_0039_794794.jpg",
+      "mean_similarity": 0.9417298436164856,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\153.Philadelphia_Vireo\\Philadelphia_Vireo_0070_794758.jpg",
+      "mean_similarity": 0.9398194551467896,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\153.Philadelphia_Vireo\\Philadelphia_Vireo_0042_156528.jpg",
+      "mean_similarity": 0.9397539496421814,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\153.Philadelphia_Vireo\\Philadelphia_Vireo_0043_794792.jpg",
+      "mean_similarity": 0.9397132396697998,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\153.Philadelphia_Vireo\\Philadelphia_Vireo_0071_794796.jpg",
+      "mean_similarity": 0.9395365118980408,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\153.Philadelphia_Vireo\\Philadelphia_Vireo_0040_794764.jpg",
+      "mean_similarity": 0.9395163059234619,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\153.Philadelphia_Vireo\\Philadelphia_Vireo_0046_794798.jpg",
+      "mean_similarity": 0.9379315972328186,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\153.Philadelphia_Vireo\\Philadelphia_Vireo_0030_156533.jpg",
+      "mean_similarity": 0.9372482299804688,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\153.Philadelphia_Vireo\\Philadelphia_Vireo_0034_794766.jpg",
+      "mean_similarity": 0.9367945194244385,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\153.Philadelphia_Vireo\\Philadelphia_Vireo_0061_156613.jpg",
+      "mean_similarity": 0.9361275434494019,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\153.Philadelphia_Vireo\\Philadelphia_Vireo_0085_794757.jpg",
+      "mean_similarity": 0.9349374771118164,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\153.Philadelphia_Vireo\\Philadelphia_Vireo_0087_794767.jpg",
+      "mean_similarity": 0.9328595399856567,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\153.Philadelphia_Vireo\\Philadelphia_Vireo_0078_794776.jpg",
+      "mean_similarity": 0.9323942065238953,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\153.Philadelphia_Vireo\\Philadelphia_Vireo_0013_794772.jpg",
+      "mean_similarity": 0.9307525157928467,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\153.Philadelphia_Vireo\\Philadelphia_Vireo_0007_156617.jpg",
+      "mean_similarity": 0.9253104329109192,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\153.Philadelphia_Vireo\\Philadelphia_Vireo_0074_156492.jpg",
+      "mean_similarity": 0.9205323457717896,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\153.Philadelphia_Vireo\\Philadelphia_Vireo_0024_156645.jpg",
+      "mean_similarity": 0.9172139763832092,
+      "rank": 30
+    }
+  ]
+}

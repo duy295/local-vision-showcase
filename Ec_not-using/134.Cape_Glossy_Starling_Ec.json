@@ -1,0 +1,159 @@
+{
+  "class_name": "134.Cape_Glossy_Starling",
+  "class_idx": 133,
+  "num_images_in_class": 30,
+  "ec_size_requested": 30,
+  "ec_size_actual": 30,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\134.Cape_Glossy_Starling\\Cape_Glossy_Starling_0017_129337.jpg",
+      "mean_similarity": 0.9511388540267944,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\134.Cape_Glossy_Starling\\Cape_Glossy_Starling_0010_129352.jpg",
+      "mean_similarity": 0.9510998129844666,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\134.Cape_Glossy_Starling\\Cape_Glossy_Starling_0039_129469.jpg",
+      "mean_similarity": 0.951039731502533,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\134.Cape_Glossy_Starling\\Cape_Glossy_Starling_0088_129437.jpg",
+      "mean_similarity": 0.9506842494010925,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\134.Cape_Glossy_Starling\\Cape_Glossy_Starling_0028_129309.jpg",
+      "mean_similarity": 0.9502838850021362,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\134.Cape_Glossy_Starling\\Cape_Glossy_Starling_0070_129322.jpg",
+      "mean_similarity": 0.9501966834068298,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\134.Cape_Glossy_Starling\\Cape_Glossy_Starling_0091_129470.jpg",
+      "mean_similarity": 0.9501597285270691,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\134.Cape_Glossy_Starling\\Cape_Glossy_Starling_0033_129435.jpg",
+      "mean_similarity": 0.9500402212142944,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\134.Cape_Glossy_Starling\\Cape_Glossy_Starling_0046_129434.jpg",
+      "mean_similarity": 0.9497013688087463,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\134.Cape_Glossy_Starling\\Cape_Glossy_Starling_0092_129349.jpg",
+      "mean_similarity": 0.9496399164199829,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\134.Cape_Glossy_Starling\\Cape_Glossy_Starling_0019_129407.jpg",
+      "mean_similarity": 0.9494507908821106,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\134.Cape_Glossy_Starling\\Cape_Glossy_Starling_0059_129357.jpg",
+      "mean_similarity": 0.9492621421813965,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\134.Cape_Glossy_Starling\\Cape_Glossy_Starling_0075_129431.jpg",
+      "mean_similarity": 0.9492455720901489,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\134.Cape_Glossy_Starling\\Cape_Glossy_Starling_0067_129380.jpg",
+      "mean_similarity": 0.9492245316505432,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\134.Cape_Glossy_Starling\\Cape_Glossy_Starling_0054_129440.jpg",
+      "mean_similarity": 0.9486482739448547,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\134.Cape_Glossy_Starling\\Cape_Glossy_Starling_0020_129328.jpg",
+      "mean_similarity": 0.948538601398468,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\134.Cape_Glossy_Starling\\Cape_Glossy_Starling_0076_129377.jpg",
+      "mean_similarity": 0.948527455329895,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\134.Cape_Glossy_Starling\\Cape_Glossy_Starling_0096_129388.jpg",
+      "mean_similarity": 0.9484595060348511,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\134.Cape_Glossy_Starling\\Cape_Glossy_Starling_0034_129455.jpg",
+      "mean_similarity": 0.9480056166648865,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\134.Cape_Glossy_Starling\\Cape_Glossy_Starling_0065_129299.jpg",
+      "mean_similarity": 0.9475911855697632,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\134.Cape_Glossy_Starling\\Cape_Glossy_Starling_0024_129384.jpg",
+      "mean_similarity": 0.947372317314148,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\134.Cape_Glossy_Starling\\Cape_Glossy_Starling_0080_129362.jpg",
+      "mean_similarity": 0.9473583698272705,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\134.Cape_Glossy_Starling\\Cape_Glossy_Starling_0043_129358.jpg",
+      "mean_similarity": 0.9463409781455994,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\134.Cape_Glossy_Starling\\Cape_Glossy_Starling_0077_129378.jpg",
+      "mean_similarity": 0.9461385607719421,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\134.Cape_Glossy_Starling\\Cape_Glossy_Starling_0048_129397.jpg",
+      "mean_similarity": 0.9444445967674255,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\134.Cape_Glossy_Starling\\Cape_Glossy_Starling_0012_129225.jpg",
+      "mean_similarity": 0.9431357383728027,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\134.Cape_Glossy_Starling\\Cape_Glossy_Starling_0084_129346.jpg",
+      "mean_similarity": 0.9420285224914551,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\134.Cape_Glossy_Starling\\Cape_Glossy_Starling_0042_129385.jpg",
+      "mean_similarity": 0.939052164554596,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\134.Cape_Glossy_Starling\\Cape_Glossy_Starling_0006_129295.jpg",
+      "mean_similarity": 0.9389201402664185,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\134.Cape_Glossy_Starling\\Cape_Glossy_Starling_0030_129443.jpg",
+      "mean_similarity": 0.9254257678985596,
+      "rank": 30
+    }
+  ]
+}

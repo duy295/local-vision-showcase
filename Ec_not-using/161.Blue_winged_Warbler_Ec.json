@@ -1,0 +1,159 @@
+{
+  "class_name": "161.Blue_winged_Warbler",
+  "class_idx": 160,
+  "num_images_in_class": 30,
+  "ec_size_requested": 30,
+  "ec_size_actual": 30,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\161.Blue_winged_Warbler\\Blue_Winged_Warbler_0077_162021.jpg",
+      "mean_similarity": 0.9438919425010681,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\161.Blue_winged_Warbler\\Blue_Winged_Warbler_0009_161880.jpg",
+      "mean_similarity": 0.9437699317932129,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\161.Blue_winged_Warbler\\Blue_Winged_Warbler_0002_161890.jpg",
+      "mean_similarity": 0.9437453150749207,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\161.Blue_winged_Warbler\\Blue_Winged_Warbler_0012_162086.jpg",
+      "mean_similarity": 0.9433596134185791,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\161.Blue_winged_Warbler\\Blue_Winged_Warbler_0034_161861.jpg",
+      "mean_similarity": 0.9431999325752258,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\161.Blue_winged_Warbler\\Blue_Winged_Warbler_0018_161871.jpg",
+      "mean_similarity": 0.9429975152015686,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\161.Blue_winged_Warbler\\Blue_Winged_Warbler_0071_161900.jpg",
+      "mean_similarity": 0.9427157640457153,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\161.Blue_winged_Warbler\\Blue_Winged_Warbler_0027_161795.jpg",
+      "mean_similarity": 0.9411481618881226,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\161.Blue_winged_Warbler\\Blue_Winged_Warbler_0092_162044.jpg",
+      "mean_similarity": 0.9405216574668884,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\161.Blue_winged_Warbler\\Blue_Winged_Warbler_0043_161804.jpg",
+      "mean_similarity": 0.9403064250946045,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\161.Blue_winged_Warbler\\Blue_Winged_Warbler_0079_161909.jpg",
+      "mean_similarity": 0.9394452571868896,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\161.Blue_winged_Warbler\\Blue_Winged_Warbler_0054_161862.jpg",
+      "mean_similarity": 0.9380767941474915,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\161.Blue_winged_Warbler\\Blue_Winged_Warbler_0040_161883.jpg",
+      "mean_similarity": 0.9372287392616272,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\161.Blue_winged_Warbler\\Blue_Winged_Warbler_0023_161774.jpg",
+      "mean_similarity": 0.9369843602180481,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\161.Blue_winged_Warbler\\Blue_Winged_Warbler_0032_162029.jpg",
+      "mean_similarity": 0.9366324543952942,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\161.Blue_winged_Warbler\\Blue_Winged_Warbler_0076_161894.jpg",
+      "mean_similarity": 0.93656986951828,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\161.Blue_winged_Warbler\\Blue_Winged_Warbler_0037_161999.jpg",
+      "mean_similarity": 0.9357936382293701,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\161.Blue_winged_Warbler\\Blue_Winged_Warbler_0044_161760.jpg",
+      "mean_similarity": 0.9352637529373169,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\161.Blue_winged_Warbler\\Blue_Winged_Warbler_0021_161858.jpg",
+      "mean_similarity": 0.9350296258926392,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\161.Blue_winged_Warbler\\Blue_Winged_Warbler_0082_161772.jpg",
+      "mean_similarity": 0.934339165687561,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\161.Blue_winged_Warbler\\Blue_Winged_Warbler_0014_161783.jpg",
+      "mean_similarity": 0.9329348802566528,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\161.Blue_winged_Warbler\\Blue_Winged_Warbler_0051_161766.jpg",
+      "mean_similarity": 0.9327380657196045,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\161.Blue_winged_Warbler\\Blue_Winged_Warbler_0091_162051.jpg",
+      "mean_similarity": 0.932647168636322,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\161.Blue_winged_Warbler\\Blue_Winged_Warbler_0005_162095.jpg",
+      "mean_similarity": 0.9306336641311646,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\161.Blue_winged_Warbler\\Blue_Winged_Warbler_0020_161875.jpg",
+      "mean_similarity": 0.9301283955574036,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\161.Blue_winged_Warbler\\Blue_Winged_Warbler_0075_161844.jpg",
+      "mean_similarity": 0.9292758107185364,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\161.Blue_winged_Warbler\\Blue_Winged_Warbler_0035_161741.jpg",
+      "mean_similarity": 0.9277490377426147,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\161.Blue_winged_Warbler\\Blue_Winged_Warbler_0059_162064.jpg",
+      "mean_similarity": 0.9262493848800659,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\161.Blue_winged_Warbler\\Blue_Winged_Warbler_0036_161758.jpg",
+      "mean_similarity": 0.9229156374931335,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\161.Blue_winged_Warbler\\Blue_Winged_Warbler_0028_161787.jpg",
+      "mean_similarity": 0.9225942492485046,
+      "rank": 30
+    }
+  ]
+}

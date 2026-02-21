@@ -1,0 +1,159 @@
+{
+  "class_name": "127.Savannah_Sparrow",
+  "class_idx": 126,
+  "num_images_in_class": 30,
+  "ec_size_requested": 30,
+  "ec_size_actual": 30,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\127.Savannah_Sparrow\\Savannah_Sparrow_0029_119621.jpg",
+      "mean_similarity": 0.9511018991470337,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\127.Savannah_Sparrow\\Savannah_Sparrow_0009_120205.jpg",
+      "mean_similarity": 0.950969934463501,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\127.Savannah_Sparrow\\Savannah_Sparrow_0079_118817.jpg",
+      "mean_similarity": 0.950897216796875,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\127.Savannah_Sparrow\\Savannah_Sparrow_0022_118989.jpg",
+      "mean_similarity": 0.9508101344108582,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\127.Savannah_Sparrow\\Savannah_Sparrow_0067_118491.jpg",
+      "mean_similarity": 0.9507573843002319,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\127.Savannah_Sparrow\\Savannah_Sparrow_0137_119757.jpg",
+      "mean_similarity": 0.9505744576454163,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\127.Savannah_Sparrow\\Savannah_Sparrow_0080_118120.jpg",
+      "mean_similarity": 0.9502337574958801,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\127.Savannah_Sparrow\\Savannah_Sparrow_0049_119596.jpg",
+      "mean_similarity": 0.9501726627349854,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\127.Savannah_Sparrow\\Savannah_Sparrow_0116_118108.jpg",
+      "mean_similarity": 0.9501515030860901,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\127.Savannah_Sparrow\\Savannah_Sparrow_0017_119171.jpg",
+      "mean_similarity": 0.9498884081840515,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\127.Savannah_Sparrow\\Savannah_Sparrow_0091_120630.jpg",
+      "mean_similarity": 0.9497243762016296,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\127.Savannah_Sparrow\\Savannah_Sparrow_0001_118956.jpg",
+      "mean_similarity": 0.949515163898468,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\127.Savannah_Sparrow\\Savannah_Sparrow_0021_118886.jpg",
+      "mean_similarity": 0.9489893913269043,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\127.Savannah_Sparrow\\Savannah_Sparrow_0008_118929.jpg",
+      "mean_similarity": 0.9489874243736267,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\127.Savannah_Sparrow\\Savannah_Sparrow_0094_119040.jpg",
+      "mean_similarity": 0.9483090043067932,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\127.Savannah_Sparrow\\Savannah_Sparrow_0033_118871.jpg",
+      "mean_similarity": 0.9479126930236816,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\127.Savannah_Sparrow\\Savannah_Sparrow_0066_119949.jpg",
+      "mean_similarity": 0.9478181004524231,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\127.Savannah_Sparrow\\Savannah_Sparrow_0047_119365.jpg",
+      "mean_similarity": 0.947540819644928,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\127.Savannah_Sparrow\\Savannah_Sparrow_0014_120072.jpg",
+      "mean_similarity": 0.9472758769989014,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\127.Savannah_Sparrow\\Savannah_Sparrow_0064_119316.jpg",
+      "mean_similarity": 0.9470979571342468,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\127.Savannah_Sparrow\\Savannah_Sparrow_0068_119972.jpg",
+      "mean_similarity": 0.9465845227241516,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\127.Savannah_Sparrow\\Savannah_Sparrow_0061_119783.jpg",
+      "mean_similarity": 0.94657301902771,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\127.Savannah_Sparrow\\Savannah_Sparrow_0052_118583.jpg",
+      "mean_similarity": 0.9458979964256287,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\127.Savannah_Sparrow\\Savannah_Sparrow_0045_119398.jpg",
+      "mean_similarity": 0.9457579851150513,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\127.Savannah_Sparrow\\Savannah_Sparrow_0118_118603.jpg",
+      "mean_similarity": 0.9451537132263184,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\127.Savannah_Sparrow\\Savannah_Sparrow_0011_119459.jpg",
+      "mean_similarity": 0.9450573325157166,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\127.Savannah_Sparrow\\Savannah_Sparrow_0107_119671.jpg",
+      "mean_similarity": 0.9427880644798279,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\127.Savannah_Sparrow\\Savannah_Sparrow_0054_120057.jpg",
+      "mean_similarity": 0.9415945410728455,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\127.Savannah_Sparrow\\Savannah_Sparrow_0109_119674.jpg",
+      "mean_similarity": 0.9387033581733704,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\127.Savannah_Sparrow\\Savannah_Sparrow_0124_118820.jpg",
+      "mean_similarity": 0.9367902278900146,
+      "rank": 30
+    }
+  ]
+}

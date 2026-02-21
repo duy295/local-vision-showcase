@@ -1,0 +1,159 @@
+{
+  "class_name": "117.Clay_colored_Sparrow",
+  "class_idx": 116,
+  "num_images_in_class": 30,
+  "ec_size_requested": 30,
+  "ec_size_actual": 30,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\117.Clay_colored_Sparrow\\Clay_Colored_Sparrow_0041_110726.jpg",
+      "mean_similarity": 0.9475376009941101,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\117.Clay_colored_Sparrow\\Clay_Colored_Sparrow_0080_797253.jpg",
+      "mean_similarity": 0.9460822939872742,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\117.Clay_colored_Sparrow\\Clay_Colored_Sparrow_0061_110830.jpg",
+      "mean_similarity": 0.9457883834838867,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\117.Clay_colored_Sparrow\\Clay_Colored_Sparrow_0002_110606.jpg",
+      "mean_similarity": 0.9455931186676025,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\117.Clay_colored_Sparrow\\Clay_Colored_Sparrow_0105_110547.jpg",
+      "mean_similarity": 0.9455161094665527,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\117.Clay_colored_Sparrow\\Clay_Colored_Sparrow_0081_110682.jpg",
+      "mean_similarity": 0.9452234506607056,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\117.Clay_colored_Sparrow\\Clay_Colored_Sparrow_0003_110672.jpg",
+      "mean_similarity": 0.9450551867485046,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\117.Clay_colored_Sparrow\\Clay_Colored_Sparrow_0044_110942.jpg",
+      "mean_similarity": 0.9449548721313477,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\117.Clay_colored_Sparrow\\Clay_Colored_Sparrow_0091_110768.jpg",
+      "mean_similarity": 0.9448121786117554,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\117.Clay_colored_Sparrow\\Clay_Colored_Sparrow_0062_110908.jpg",
+      "mean_similarity": 0.9446613192558289,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\117.Clay_colored_Sparrow\\Clay_Colored_Sparrow_0064_110664.jpg",
+      "mean_similarity": 0.9441344141960144,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\117.Clay_colored_Sparrow\\Clay_Colored_Sparrow_0106_797247.jpg",
+      "mean_similarity": 0.9429664611816406,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\117.Clay_colored_Sparrow\\Clay_Colored_Sparrow_0104_110699.jpg",
+      "mean_similarity": 0.9426319003105164,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\117.Clay_colored_Sparrow\\Clay_Colored_Sparrow_0056_110848.jpg",
+      "mean_similarity": 0.942549467086792,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\117.Clay_colored_Sparrow\\Clay_Colored_Sparrow_0018_797246.jpg",
+      "mean_similarity": 0.9424923062324524,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\117.Clay_colored_Sparrow\\Clay_Colored_Sparrow_0029_110720.jpg",
+      "mean_similarity": 0.9423015713691711,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\117.Clay_colored_Sparrow\\Clay_Colored_Sparrow_0066_110819.jpg",
+      "mean_similarity": 0.9422647953033447,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\117.Clay_colored_Sparrow\\Clay_Colored_Sparrow_0099_110561.jpg",
+      "mean_similarity": 0.9421045780181885,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\117.Clay_colored_Sparrow\\Clay_Colored_Sparrow_0036_110924.jpg",
+      "mean_similarity": 0.9414122104644775,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\117.Clay_colored_Sparrow\\Clay_Colored_Sparrow_0087_110946.jpg",
+      "mean_similarity": 0.9414048194885254,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\117.Clay_colored_Sparrow\\Clay_Colored_Sparrow_0043_110685.jpg",
+      "mean_similarity": 0.941299557685852,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\117.Clay_colored_Sparrow\\Clay_Colored_Sparrow_0078_110912.jpg",
+      "mean_similarity": 0.9409591555595398,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\117.Clay_colored_Sparrow\\Clay_Colored_Sparrow_0098_110735.jpg",
+      "mean_similarity": 0.9408226609230042,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\117.Clay_colored_Sparrow\\Clay_Colored_Sparrow_0054_110948.jpg",
+      "mean_similarity": 0.9398142099380493,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\117.Clay_colored_Sparrow\\Clay_Colored_Sparrow_0071_110656.jpg",
+      "mean_similarity": 0.9395956993103027,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\117.Clay_colored_Sparrow\\Clay_Colored_Sparrow_0023_797258.jpg",
+      "mean_similarity": 0.9384701251983643,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\117.Clay_colored_Sparrow\\Clay_Colored_Sparrow_0005_110911.jpg",
+      "mean_similarity": 0.9379259347915649,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\117.Clay_colored_Sparrow\\Clay_Colored_Sparrow_0095_110635.jpg",
+      "mean_similarity": 0.9373943209648132,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\117.Clay_colored_Sparrow\\Clay_Colored_Sparrow_0033_797255.jpg",
+      "mean_similarity": 0.934658944606781,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\117.Clay_colored_Sparrow\\Clay_Colored_Sparrow_0026_110774.jpg",
+      "mean_similarity": 0.891022264957428,
+      "rank": 30
+    }
+  ]
+}

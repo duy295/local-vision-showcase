@@ -1,0 +1,159 @@
+{
+  "class_name": "177.Prothonotary_Warbler",
+  "class_idx": 176,
+  "num_images_in_class": 30,
+  "ec_size_requested": 30,
+  "ec_size_actual": 30,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\177.Prothonotary_Warbler\\Prothonotary_Warbler_0062_174412.jpg",
+      "mean_similarity": 0.9479090571403503,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\177.Prothonotary_Warbler\\Prothonotary_Warbler_0082_173970.jpg",
+      "mean_similarity": 0.9476997256278992,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\177.Prothonotary_Warbler\\Prothonotary_Warbler_0076_174118.jpg",
+      "mean_similarity": 0.9475122690200806,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\177.Prothonotary_Warbler\\Prothonotary_Warbler_0110_173857.jpg",
+      "mean_similarity": 0.9474285840988159,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\177.Prothonotary_Warbler\\Prothonotary_Warbler_0108_174125.jpg",
+      "mean_similarity": 0.9473465085029602,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\177.Prothonotary_Warbler\\Prothonotary_Warbler_0112_174594.jpg",
+      "mean_similarity": 0.9468226432800293,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\177.Prothonotary_Warbler\\Prothonotary_Warbler_0084_173939.jpg",
+      "mean_similarity": 0.9467585682868958,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\177.Prothonotary_Warbler\\Prothonotary_Warbler_0055_173419.jpg",
+      "mean_similarity": 0.946566104888916,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\177.Prothonotary_Warbler\\Prothonotary_Warbler_0083_173929.jpg",
+      "mean_similarity": 0.9464558362960815,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\177.Prothonotary_Warbler\\Prothonotary_Warbler_0064_174106.jpg",
+      "mean_similarity": 0.9464391469955444,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\177.Prothonotary_Warbler\\Prothonotary_Warbler_0066_174318.jpg",
+      "mean_similarity": 0.9464230537414551,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\177.Prothonotary_Warbler\\Prothonotary_Warbler_0020_174122.jpg",
+      "mean_similarity": 0.9461934566497803,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\177.Prothonotary_Warbler\\Prothonotary_Warbler_0045_173536.jpg",
+      "mean_similarity": 0.9461207389831543,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\177.Prothonotary_Warbler\\Prothonotary_Warbler_0073_174607.jpg",
+      "mean_similarity": 0.9459600448608398,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\177.Prothonotary_Warbler\\Prothonotary_Warbler_0021_173816.jpg",
+      "mean_similarity": 0.9459593892097473,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\177.Prothonotary_Warbler\\Prothonotary_Warbler_0070_174650.jpg",
+      "mean_similarity": 0.9458810091018677,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\177.Prothonotary_Warbler\\Prothonotary_Warbler_0008_173425.jpg",
+      "mean_similarity": 0.9450445175170898,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\177.Prothonotary_Warbler\\Prothonotary_Warbler_0124_173686.jpg",
+      "mean_similarity": 0.9450135827064514,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\177.Prothonotary_Warbler\\Prothonotary_Warbler_0038_173867.jpg",
+      "mean_similarity": 0.9448439478874207,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\177.Prothonotary_Warbler\\Prothonotary_Warbler_0097_174554.jpg",
+      "mean_similarity": 0.9447854161262512,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\177.Prothonotary_Warbler\\Prothonotary_Warbler_0098_173913.jpg",
+      "mean_similarity": 0.9446107149124146,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\177.Prothonotary_Warbler\\Prothonotary_Warbler_0088_173606.jpg",
+      "mean_similarity": 0.9434311389923096,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\177.Prothonotary_Warbler\\Prothonotary_Warbler_0037_173418.jpg",
+      "mean_similarity": 0.9433652758598328,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\177.Prothonotary_Warbler\\Prothonotary_Warbler_0058_173440.jpg",
+      "mean_similarity": 0.9432179927825928,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\177.Prothonotary_Warbler\\Prothonotary_Warbler_0063_173830.jpg",
+      "mean_similarity": 0.94314044713974,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\177.Prothonotary_Warbler\\Prothonotary_Warbler_0096_174372.jpg",
+      "mean_similarity": 0.9428749084472656,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\177.Prothonotary_Warbler\\Prothonotary_Warbler_0046_174104.jpg",
+      "mean_similarity": 0.9406965970993042,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\177.Prothonotary_Warbler\\Prothonotary_Warbler_0116_173444.jpg",
+      "mean_similarity": 0.9404747486114502,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\177.Prothonotary_Warbler\\Prothonotary_Warbler_0079_173899.jpg",
+      "mean_similarity": 0.9296818375587463,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\177.Prothonotary_Warbler\\Prothonotary_Warbler_0109_174121.jpg",
+      "mean_similarity": 0.9101338386535645,
+      "rank": 30
+    }
+  ]
+}

@@ -1,0 +1,159 @@
+{
+  "class_name": "168.Kentucky_Warbler",
+  "class_idx": 167,
+  "num_images_in_class": 30,
+  "ec_size_requested": 30,
+  "ec_size_actual": 30,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\168.Kentucky_Warbler\\Kentucky_Warbler_0038_795909.jpg",
+      "mean_similarity": 0.9495527744293213,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\168.Kentucky_Warbler\\Kentucky_Warbler_0079_165339.jpg",
+      "mean_similarity": 0.9487174153327942,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\168.Kentucky_Warbler\\Kentucky_Warbler_0071_165342.jpg",
+      "mean_similarity": 0.9479789137840271,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\168.Kentucky_Warbler\\Kentucky_Warbler_0040_795868.jpg",
+      "mean_similarity": 0.9477011561393738,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\168.Kentucky_Warbler\\Kentucky_Warbler_0051_795884.jpg",
+      "mean_similarity": 0.9475029110908508,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\168.Kentucky_Warbler\\Kentucky_Warbler_0025_165304.jpg",
+      "mean_similarity": 0.9469908475875854,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\168.Kentucky_Warbler\\Kentucky_Warbler_0008_165369.jpg",
+      "mean_similarity": 0.9469558596611023,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\168.Kentucky_Warbler\\Kentucky_Warbler_0004_165358.jpg",
+      "mean_similarity": 0.9465455412864685,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\168.Kentucky_Warbler\\Kentucky_Warbler_0031_165363.jpg",
+      "mean_similarity": 0.9462326169013977,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\168.Kentucky_Warbler\\Kentucky_Warbler_0041_795888.jpg",
+      "mean_similarity": 0.9460166096687317,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\168.Kentucky_Warbler\\Kentucky_Warbler_0042_165268.jpg",
+      "mean_similarity": 0.9458540678024292,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\168.Kentucky_Warbler\\Kentucky_Warbler_0062_795897.jpg",
+      "mean_similarity": 0.945544958114624,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\168.Kentucky_Warbler\\Kentucky_Warbler_0027_795917.jpg",
+      "mean_similarity": 0.9454606175422668,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\168.Kentucky_Warbler\\Kentucky_Warbler_0010_795912.jpg",
+      "mean_similarity": 0.9453347325325012,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\168.Kentucky_Warbler\\Kentucky_Warbler_0059_795905.jpg",
+      "mean_similarity": 0.9452601671218872,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\168.Kentucky_Warbler\\Kentucky_Warbler_0068_795893.jpg",
+      "mean_similarity": 0.9446755051612854,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\168.Kentucky_Warbler\\Kentucky_Warbler_0035_795878.jpg",
+      "mean_similarity": 0.9439142942428589,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\168.Kentucky_Warbler\\Kentucky_Warbler_0069_165318.jpg",
+      "mean_similarity": 0.9431872367858887,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\168.Kentucky_Warbler\\Kentucky_Warbler_0055_165426.jpg",
+      "mean_similarity": 0.9427444338798523,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\168.Kentucky_Warbler\\Kentucky_Warbler_0033_165271.jpg",
+      "mean_similarity": 0.9417247176170349,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\168.Kentucky_Warbler\\Kentucky_Warbler_0052_795874.jpg",
+      "mean_similarity": 0.9412225484848022,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\168.Kentucky_Warbler\\Kentucky_Warbler_0020_795903.jpg",
+      "mean_similarity": 0.9407506585121155,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\168.Kentucky_Warbler\\Kentucky_Warbler_0080_165351.jpg",
+      "mean_similarity": 0.9403420686721802,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\168.Kentucky_Warbler\\Kentucky_Warbler_0072_165305.jpg",
+      "mean_similarity": 0.939710795879364,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\168.Kentucky_Warbler\\Kentucky_Warbler_0039_165324.jpg",
+      "mean_similarity": 0.9375618100166321,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\168.Kentucky_Warbler\\Kentucky_Warbler_0078_795889.jpg",
+      "mean_similarity": 0.935142993927002,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\168.Kentucky_Warbler\\Kentucky_Warbler_0050_165278.jpg",
+      "mean_similarity": 0.9348074793815613,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\168.Kentucky_Warbler\\Kentucky_Warbler_0013_165228.jpg",
+      "mean_similarity": 0.9257689714431763,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\168.Kentucky_Warbler\\Kentucky_Warbler_0024_165405.jpg",
+      "mean_similarity": 0.9227814078330994,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\168.Kentucky_Warbler\\Kentucky_Warbler_0066_165290.jpg",
+      "mean_similarity": 0.9080960750579834,
+      "rank": 30
+    }
+  ]
+}

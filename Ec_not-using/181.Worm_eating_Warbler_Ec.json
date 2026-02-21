@@ -1,0 +1,159 @@
+{
+  "class_name": "181.Worm_eating_Warbler",
+  "class_idx": 180,
+  "num_images_in_class": 30,
+  "ec_size_requested": 30,
+  "ec_size_actual": 30,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\181.Worm_eating_Warbler\\Worm_Eating_Warbler_0012_795515.jpg",
+      "mean_similarity": 0.94199138879776,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\181.Worm_eating_Warbler\\Worm_Eating_Warbler_0034_795560.jpg",
+      "mean_similarity": 0.9414287209510803,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\181.Worm_eating_Warbler\\Worm_Eating_Warbler_0023_176118.jpg",
+      "mean_similarity": 0.940231442451477,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\181.Worm_eating_Warbler\\Worm_Eating_Warbler_0035_795575.jpg",
+      "mean_similarity": 0.9399167895317078,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\181.Worm_eating_Warbler\\Worm_Eating_Warbler_0101_795557.jpg",
+      "mean_similarity": 0.9392737150192261,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\181.Worm_eating_Warbler\\Worm_Eating_Warbler_0004_795550.jpg",
+      "mean_similarity": 0.9391259551048279,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\181.Worm_eating_Warbler\\Worm_Eating_Warbler_0054_176130.jpg",
+      "mean_similarity": 0.9383848309516907,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\181.Worm_eating_Warbler\\Worm_Eating_Warbler_0050_176150.jpg",
+      "mean_similarity": 0.9383670091629028,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\181.Worm_eating_Warbler\\Worm_Eating_Warbler_0097_176010.jpg",
+      "mean_similarity": 0.937979519367218,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\181.Worm_eating_Warbler\\Worm_Eating_Warbler_0082_176144.jpg",
+      "mean_similarity": 0.9363148212432861,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\181.Worm_eating_Warbler\\Worm_Eating_Warbler_0057_176006.jpg",
+      "mean_similarity": 0.9361844658851624,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\181.Worm_eating_Warbler\\Worm_Eating_Warbler_0022_176111.jpg",
+      "mean_similarity": 0.9359824061393738,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\181.Worm_eating_Warbler\\Worm_Eating_Warbler_0092_795524.jpg",
+      "mean_similarity": 0.9353544116020203,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\181.Worm_eating_Warbler\\Worm_Eating_Warbler_0018_795546.jpg",
+      "mean_similarity": 0.934994637966156,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\181.Worm_eating_Warbler\\Worm_Eating_Warbler_0026_176096.jpg",
+      "mean_similarity": 0.9337827563285828,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\181.Worm_eating_Warbler\\Worm_Eating_Warbler_0102_176069.jpg",
+      "mean_similarity": 0.9332669377326965,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\181.Worm_eating_Warbler\\Worm_Eating_Warbler_0078_795532.jpg",
+      "mean_similarity": 0.9331105351448059,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\181.Worm_eating_Warbler\\Worm_Eating_Warbler_0049_795561.jpg",
+      "mean_similarity": 0.9328119158744812,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\181.Worm_eating_Warbler\\Worm_Eating_Warbler_0074_176093.jpg",
+      "mean_similarity": 0.9324914813041687,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\181.Worm_eating_Warbler\\Worm_Eating_Warbler_0063_795553.jpg",
+      "mean_similarity": 0.9314296245574951,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\181.Worm_eating_Warbler\\Worm_Eating_Warbler_0085_795540.jpg",
+      "mean_similarity": 0.9310449361801147,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\181.Worm_eating_Warbler\\Worm_Eating_Warbler_0006_176037.jpg",
+      "mean_similarity": 0.9304912090301514,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\181.Worm_eating_Warbler\\Worm_Eating_Warbler_0013_795534.jpg",
+      "mean_similarity": 0.9303184151649475,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\181.Worm_eating_Warbler\\Worm_Eating_Warbler_0011_795566.jpg",
+      "mean_similarity": 0.9277653098106384,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\181.Worm_eating_Warbler\\Worm_Eating_Warbler_0015_795570.jpg",
+      "mean_similarity": 0.9268407821655273,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\181.Worm_eating_Warbler\\Worm_Eating_Warbler_0094_795522.jpg",
+      "mean_similarity": 0.9260401129722595,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\181.Worm_eating_Warbler\\Worm_Eating_Warbler_0081_175971.jpg",
+      "mean_similarity": 0.9252870082855225,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\181.Worm_eating_Warbler\\Worm_Eating_Warbler_0060_175969.jpg",
+      "mean_similarity": 0.9240388870239258,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\181.Worm_eating_Warbler\\Worm_Eating_Warbler_0055_795555.jpg",
+      "mean_similarity": 0.915369987487793,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\181.Worm_eating_Warbler\\Worm_Eating_Warbler_0065_795551.jpg",
+      "mean_similarity": 0.9021499752998352,
+      "rank": 30
+    }
+  ]
+}

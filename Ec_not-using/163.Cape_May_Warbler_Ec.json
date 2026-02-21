@@ -1,0 +1,159 @@
+{
+  "class_name": "163.Cape_May_Warbler",
+  "class_idx": 162,
+  "num_images_in_class": 30,
+  "ec_size_requested": 30,
+  "ec_size_actual": 30,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\163.Cape_May_Warbler\\Cape_May_Warbler_0113_163130.jpg",
+      "mean_similarity": 0.9509707689285278,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\163.Cape_May_Warbler\\Cape_May_Warbler_0103_162972.jpg",
+      "mean_similarity": 0.9506934285163879,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\163.Cape_May_Warbler\\Cape_May_Warbler_0077_162979.jpg",
+      "mean_similarity": 0.9504642486572266,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\163.Cape_May_Warbler\\Cape_May_Warbler_0020_162629.jpg",
+      "mean_similarity": 0.950286328792572,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\163.Cape_May_Warbler\\Cape_May_Warbler_0101_163169.jpg",
+      "mean_similarity": 0.9501509666442871,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\163.Cape_May_Warbler\\Cape_May_Warbler_0040_163036.jpg",
+      "mean_similarity": 0.9501439332962036,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\163.Cape_May_Warbler\\Cape_May_Warbler_0012_162701.jpg",
+      "mean_similarity": 0.9500480890274048,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\163.Cape_May_Warbler\\Cape_May_Warbler_0005_163197.jpg",
+      "mean_similarity": 0.9499539136886597,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\163.Cape_May_Warbler\\Cape_May_Warbler_0069_162980.jpg",
+      "mean_similarity": 0.9498348832130432,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\163.Cape_May_Warbler\\Cape_May_Warbler_0081_162936.jpg",
+      "mean_similarity": 0.9498180747032166,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\163.Cape_May_Warbler\\Cape_May_Warbler_0061_163061.jpg",
+      "mean_similarity": 0.9495348334312439,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\163.Cape_May_Warbler\\Cape_May_Warbler_0111_162959.jpg",
+      "mean_similarity": 0.9490262866020203,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\163.Cape_May_Warbler\\Cape_May_Warbler_0088_163149.jpg",
+      "mean_similarity": 0.9488653540611267,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\163.Cape_May_Warbler\\Cape_May_Warbler_0084_163132.jpg",
+      "mean_similarity": 0.9486569166183472,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\163.Cape_May_Warbler\\Cape_May_Warbler_0001_139008.jpg",
+      "mean_similarity": 0.9485273361206055,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\163.Cape_May_Warbler\\Cape_May_Warbler_0066_163005.jpg",
+      "mean_similarity": 0.9482938647270203,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\163.Cape_May_Warbler\\Cape_May_Warbler_0043_163172.jpg",
+      "mean_similarity": 0.9473890066146851,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\163.Cape_May_Warbler\\Cape_May_Warbler_0031_163012.jpg",
+      "mean_similarity": 0.9466529488563538,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\163.Cape_May_Warbler\\Cape_May_Warbler_0013_163052.jpg",
+      "mean_similarity": 0.9462928771972656,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\163.Cape_May_Warbler\\Cape_May_Warbler_0023_163133.jpg",
+      "mean_similarity": 0.9462864995002747,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\163.Cape_May_Warbler\\Cape_May_Warbler_0028_163177.jpg",
+      "mean_similarity": 0.9461123943328857,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\163.Cape_May_Warbler\\Cape_May_Warbler_0128_162971.jpg",
+      "mean_similarity": 0.9457180500030518,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\163.Cape_May_Warbler\\Cape_May_Warbler_0022_162912.jpg",
+      "mean_similarity": 0.945487916469574,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\163.Cape_May_Warbler\\Cape_May_Warbler_0073_162993.jpg",
+      "mean_similarity": 0.9450145959854126,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\163.Cape_May_Warbler\\Cape_May_Warbler_0076_163075.jpg",
+      "mean_similarity": 0.9445249438285828,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\163.Cape_May_Warbler\\Cape_May_Warbler_0049_162909.jpg",
+      "mean_similarity": 0.9416343569755554,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\163.Cape_May_Warbler\\Cape_May_Warbler_0068_163147.jpg",
+      "mean_similarity": 0.9405121803283691,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\163.Cape_May_Warbler\\Cape_May_Warbler_0108_163108.jpg",
+      "mean_similarity": 0.9401338696479797,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\163.Cape_May_Warbler\\Cape_May_Warbler_0032_162659.jpg",
+      "mean_similarity": 0.938086211681366,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\163.Cape_May_Warbler\\Cape_May_Warbler_0058_162948.jpg",
+      "mean_similarity": 0.934657096862793,
+      "rank": 30
+    }
+  ]
+}

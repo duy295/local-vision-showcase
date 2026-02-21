@@ -1,0 +1,159 @@
+{
+  "class_name": "184.Louisiana_Waterthrush",
+  "class_idx": 183,
+  "num_images_in_class": 30,
+  "ec_size_requested": 30,
+  "ec_size_actual": 30,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\184.Louisiana_Waterthrush\\Louisiana_Waterthrush_0031_177509.jpg",
+      "mean_similarity": 0.9475669860839844,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\184.Louisiana_Waterthrush\\Louisiana_Waterthrush_0077_795247.jpg",
+      "mean_similarity": 0.9471634030342102,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\184.Louisiana_Waterthrush\\Louisiana_Waterthrush_0048_795277.jpg",
+      "mean_similarity": 0.9459919333457947,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\184.Louisiana_Waterthrush\\Louisiana_Waterthrush_0042_177551.jpg",
+      "mean_similarity": 0.9456833004951477,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\184.Louisiana_Waterthrush\\Louisiana_Waterthrush_0003_177479.jpg",
+      "mean_similarity": 0.9456092119216919,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\184.Louisiana_Waterthrush\\Louisiana_Waterthrush_0004_177455.jpg",
+      "mean_similarity": 0.9451271295547485,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\184.Louisiana_Waterthrush\\Louisiana_Waterthrush_0026_177503.jpg",
+      "mean_similarity": 0.944984495639801,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\184.Louisiana_Waterthrush\\Louisiana_Waterthrush_0023_795269.jpg",
+      "mean_similarity": 0.9448045492172241,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\184.Louisiana_Waterthrush\\Louisiana_Waterthrush_0045_795274.jpg",
+      "mean_similarity": 0.9446635246276855,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\184.Louisiana_Waterthrush\\Louisiana_Waterthrush_0087_795261.jpg",
+      "mean_similarity": 0.9441953301429749,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\184.Louisiana_Waterthrush\\Louisiana_Waterthrush_0018_177557.jpg",
+      "mean_similarity": 0.9441289305686951,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\184.Louisiana_Waterthrush\\Louisiana_Waterthrush_0020_795265.jpg",
+      "mean_similarity": 0.9440319538116455,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\184.Louisiana_Waterthrush\\Louisiana_Waterthrush_0080_177379.jpg",
+      "mean_similarity": 0.9439511895179749,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\184.Louisiana_Waterthrush\\Louisiana_Waterthrush_0014_795238.jpg",
+      "mean_similarity": 0.9439464211463928,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\184.Louisiana_Waterthrush\\Louisiana_Waterthrush_0029_795262.jpg",
+      "mean_similarity": 0.9438105821609497,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\184.Louisiana_Waterthrush\\Louisiana_Waterthrush_0060_177583.jpg",
+      "mean_similarity": 0.9428350329399109,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\184.Louisiana_Waterthrush\\Louisiana_Waterthrush_0056_795245.jpg",
+      "mean_similarity": 0.9426634907722473,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\184.Louisiana_Waterthrush\\Louisiana_Waterthrush_0015_177515.jpg",
+      "mean_similarity": 0.9424014687538147,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\184.Louisiana_Waterthrush\\Louisiana_Waterthrush_0034_795242.jpg",
+      "mean_similarity": 0.9421419501304626,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\184.Louisiana_Waterthrush\\Louisiana_Waterthrush_0025_177403.jpg",
+      "mean_similarity": 0.9400195479393005,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\184.Louisiana_Waterthrush\\Louisiana_Waterthrush_0068_177462.jpg",
+      "mean_similarity": 0.9398801326751709,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\184.Louisiana_Waterthrush\\Louisiana_Waterthrush_0041_795279.jpg",
+      "mean_similarity": 0.9395879507064819,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\184.Louisiana_Waterthrush\\Louisiana_Waterthrush_0091_795246.jpg",
+      "mean_similarity": 0.9384081959724426,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\184.Louisiana_Waterthrush\\Louisiana_Waterthrush_0062_177285.jpg",
+      "mean_similarity": 0.9372279644012451,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\184.Louisiana_Waterthrush\\Louisiana_Waterthrush_0082_177596.jpg",
+      "mean_similarity": 0.9371040463447571,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\184.Louisiana_Waterthrush\\Louisiana_Waterthrush_0001_795271.jpg",
+      "mean_similarity": 0.9369969367980957,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\184.Louisiana_Waterthrush\\Louisiana_Waterthrush_0049_795244.jpg",
+      "mean_similarity": 0.9307193756103516,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\184.Louisiana_Waterthrush\\Louisiana_Waterthrush_0021_795250.jpg",
+      "mean_similarity": 0.9265460968017578,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\184.Louisiana_Waterthrush\\Louisiana_Waterthrush_0035_177457.jpg",
+      "mean_similarity": 0.9244836568832397,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\184.Louisiana_Waterthrush\\Louisiana_Waterthrush_0044_177526.jpg",
+      "mean_similarity": 0.9172330498695374,
+      "rank": 30
+    }
+  ]
+}

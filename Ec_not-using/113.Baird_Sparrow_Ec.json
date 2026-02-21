@@ -1,0 +1,159 @@
+{
+  "class_name": "113.Baird_Sparrow",
+  "class_idx": 112,
+  "num_images_in_class": 30,
+  "ec_size_requested": 30,
+  "ec_size_actual": 30,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\113.Baird_Sparrow\\Baird_Sparrow_0038_794592.jpg",
+      "mean_similarity": 0.9496996998786926,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\113.Baird_Sparrow\\Baird_Sparrow_0045_794571.jpg",
+      "mean_similarity": 0.9494771361351013,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\113.Baird_Sparrow\\Baird_Sparrow_0016_794556.jpg",
+      "mean_similarity": 0.9490770101547241,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\113.Baird_Sparrow\\Baird_Sparrow_0018_794584.jpg",
+      "mean_similarity": 0.948772668838501,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\113.Baird_Sparrow\\Baird_Sparrow_0032_794553.jpg",
+      "mean_similarity": 0.9485363960266113,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\113.Baird_Sparrow\\Baird_Sparrow_0039_794591.jpg",
+      "mean_similarity": 0.9484348893165588,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\113.Baird_Sparrow\\Baird_Sparrow_0021_794576.jpg",
+      "mean_similarity": 0.9484050273895264,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\113.Baird_Sparrow\\Baird_Sparrow_0022_794570.jpg",
+      "mean_similarity": 0.948291003704071,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\113.Baird_Sparrow\\Baird_Sparrow_0051_787319.jpg",
+      "mean_similarity": 0.9482859969139099,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\113.Baird_Sparrow\\Baird_Sparrow_0014_794549.jpg",
+      "mean_similarity": 0.9479071497917175,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\113.Baird_Sparrow\\Baird_Sparrow_0029_794583.jpg",
+      "mean_similarity": 0.9479050040245056,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\113.Baird_Sparrow\\Baird_Sparrow_0002_794551.jpg",
+      "mean_similarity": 0.9477096796035767,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\113.Baird_Sparrow\\Baird_Sparrow_0048_787323.jpg",
+      "mean_similarity": 0.9473205804824829,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\113.Baird_Sparrow\\Baird_Sparrow_0025_794564.jpg",
+      "mean_similarity": 0.9471748471260071,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\113.Baird_Sparrow\\Baird_Sparrow_0026_794574.jpg",
+      "mean_similarity": 0.946955144405365,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\113.Baird_Sparrow\\Baird_Sparrow_0030_794569.jpg",
+      "mean_similarity": 0.9469053149223328,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\113.Baird_Sparrow\\Baird_Sparrow_0034_794589.jpg",
+      "mean_similarity": 0.9468332529067993,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\113.Baird_Sparrow\\Baird_Sparrow_0027_794590.jpg",
+      "mean_similarity": 0.9462469816207886,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\113.Baird_Sparrow\\Baird_Sparrow_0040_794581.jpg",
+      "mean_similarity": 0.9461256861686707,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\113.Baird_Sparrow\\Baird_Sparrow_0046_794588.jpg",
+      "mean_similarity": 0.9455668926239014,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\113.Baird_Sparrow\\Baird_Sparrow_0049_787324.jpg",
+      "mean_similarity": 0.9454999566078186,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\113.Baird_Sparrow\\Baird_Sparrow_0036_794572.jpg",
+      "mean_similarity": 0.9447779655456543,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\113.Baird_Sparrow\\Baird_Sparrow_0010_794575.jpg",
+      "mean_similarity": 0.9436354637145996,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\113.Baird_Sparrow\\Baird_Sparrow_0035_106904.jpg",
+      "mean_similarity": 0.9432212114334106,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\113.Baird_Sparrow\\Baird_Sparrow_0041_794582.jpg",
+      "mean_similarity": 0.9420588612556458,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\113.Baird_Sparrow\\Baird_Sparrow_0028_794557.jpg",
+      "mean_similarity": 0.9420372247695923,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\113.Baird_Sparrow\\Baird_Sparrow_0043_794555.jpg",
+      "mean_similarity": 0.9419875144958496,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\113.Baird_Sparrow\\Baird_Sparrow_0008_106929.jpg",
+      "mean_similarity": 0.9395161271095276,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\113.Baird_Sparrow\\Baird_Sparrow_0047_787318.jpg",
+      "mean_similarity": 0.9335314035415649,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\113.Baird_Sparrow\\Baird_Sparrow_0009_106882.jpg",
+      "mean_similarity": 0.9158792495727539,
+      "rank": 30
+    }
+  ]
+}

@@ -1,0 +1,159 @@
+{
+  "class_name": "146.Forsters_Tern",
+  "class_idx": 145,
+  "num_images_in_class": 30,
+  "ec_size_requested": 30,
+  "ec_size_actual": 30,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\146.Forsters_Tern\\Forsters_Tern_0088_151893.jpg",
+      "mean_similarity": 0.9486212730407715,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\146.Forsters_Tern\\Forsters_Tern_0118_151564.jpg",
+      "mean_similarity": 0.948579728603363,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\146.Forsters_Tern\\Forsters_Tern_0066_151478.jpg",
+      "mean_similarity": 0.9485273361206055,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\146.Forsters_Tern\\Forsters_Tern_0127_150418.jpg",
+      "mean_similarity": 0.9484024047851562,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\146.Forsters_Tern\\Forsters_Tern_0027_151456.jpg",
+      "mean_similarity": 0.9483237862586975,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\146.Forsters_Tern\\Forsters_Tern_0070_152107.jpg",
+      "mean_similarity": 0.9478524923324585,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\146.Forsters_Tern\\Forsters_Tern_0123_151789.jpg",
+      "mean_similarity": 0.9476770758628845,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\146.Forsters_Tern\\Forsters_Tern_0017_152696.jpg",
+      "mean_similarity": 0.9475834965705872,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\146.Forsters_Tern\\Forsters_Tern_0053_152175.jpg",
+      "mean_similarity": 0.947340726852417,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\146.Forsters_Tern\\Forsters_Tern_0077_152255.jpg",
+      "mean_similarity": 0.9473208785057068,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\146.Forsters_Tern\\Forsters_Tern_0121_151385.jpg",
+      "mean_similarity": 0.9471927285194397,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\146.Forsters_Tern\\Forsters_Tern_0002_151622.jpg",
+      "mean_similarity": 0.9471452832221985,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\146.Forsters_Tern\\Forsters_Tern_0075_152258.jpg",
+      "mean_similarity": 0.9468299746513367,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\146.Forsters_Tern\\Forsters_Tern_0062_151780.jpg",
+      "mean_similarity": 0.9467339515686035,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\146.Forsters_Tern\\Forsters_Tern_0080_152521.jpg",
+      "mean_similarity": 0.9465276598930359,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\146.Forsters_Tern\\Forsters_Tern_0060_152190.jpg",
+      "mean_similarity": 0.9458439350128174,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\146.Forsters_Tern\\Forsters_Tern_0007_152110.jpg",
+      "mean_similarity": 0.9451941847801208,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\146.Forsters_Tern\\Forsters_Tern_0125_151399.jpg",
+      "mean_similarity": 0.9449079036712646,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\146.Forsters_Tern\\Forsters_Tern_0068_152078.jpg",
+      "mean_similarity": 0.944866955280304,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\146.Forsters_Tern\\Forsters_Tern_0114_152768.jpg",
+      "mean_similarity": 0.944643497467041,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\146.Forsters_Tern\\Forsters_Tern_0104_152666.jpg",
+      "mean_similarity": 0.9444507956504822,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\146.Forsters_Tern\\Forsters_Tern_0045_151227.jpg",
+      "mean_similarity": 0.9435991048812866,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\146.Forsters_Tern\\Forsters_Tern_0001_152174.jpg",
+      "mean_similarity": 0.9432576894760132,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\146.Forsters_Tern\\Forsters_Tern_0089_152372.jpg",
+      "mean_similarity": 0.9430548548698425,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\146.Forsters_Tern\\Forsters_Tern_0035_151757.jpg",
+      "mean_similarity": 0.9424298405647278,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\146.Forsters_Tern\\Forsters_Tern_0016_152463.jpg",
+      "mean_similarity": 0.9423837065696716,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\146.Forsters_Tern\\Forsters_Tern_0119_152709.jpg",
+      "mean_similarity": 0.9413130283355713,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\146.Forsters_Tern\\Forsters_Tern_0100_151774.jpg",
+      "mean_similarity": 0.9368058443069458,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\146.Forsters_Tern\\Forsters_Tern_0069_151229.jpg",
+      "mean_similarity": 0.9337670803070068,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\146.Forsters_Tern\\Forsters_Tern_0034_152667.jpg",
+      "mean_similarity": 0.9203770160675049,
+      "rank": 30
+    }
+  ]
+}

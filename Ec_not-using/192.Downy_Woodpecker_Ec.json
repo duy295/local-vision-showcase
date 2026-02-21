@@ -1,0 +1,159 @@
+{
+  "class_name": "192.Downy_Woodpecker",
+  "class_idx": 191,
+  "num_images_in_class": 30,
+  "ec_size_requested": 30,
+  "ec_size_actual": 30,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\192.Downy_Woodpecker\\Downy_Woodpecker_0038_184418.jpg",
+      "mean_similarity": 0.9497323632240295,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\192.Downy_Woodpecker\\Downy_Woodpecker_0096_184532.jpg",
+      "mean_similarity": 0.9493612051010132,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\192.Downy_Woodpecker\\Downy_Woodpecker_0073_184430.jpg",
+      "mean_similarity": 0.9491227269172668,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\192.Downy_Woodpecker\\Downy_Woodpecker_0043_184314.jpg",
+      "mean_similarity": 0.9489855170249939,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\192.Downy_Woodpecker\\Downy_Woodpecker_0066_183953.jpg",
+      "mean_similarity": 0.9488587975502014,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\192.Downy_Woodpecker\\Downy_Woodpecker_0115_184096.jpg",
+      "mean_similarity": 0.9484755992889404,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\192.Downy_Woodpecker\\Downy_Woodpecker_0102_184263.jpg",
+      "mean_similarity": 0.9483960866928101,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\192.Downy_Woodpecker\\Downy_Woodpecker_0049_183920.jpg",
+      "mean_similarity": 0.9482668042182922,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\192.Downy_Woodpecker\\Downy_Woodpecker_0030_184368.jpg",
+      "mean_similarity": 0.9482408761978149,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\192.Downy_Woodpecker\\Downy_Woodpecker_0007_184051.jpg",
+      "mean_similarity": 0.9481602907180786,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\192.Downy_Woodpecker\\Downy_Woodpecker_0032_184622.jpg",
+      "mean_similarity": 0.9481449723243713,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\192.Downy_Woodpecker\\Downy_Woodpecker_0062_184343.jpg",
+      "mean_similarity": 0.9479261040687561,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\192.Downy_Woodpecker\\Downy_Woodpecker_0080_184240.jpg",
+      "mean_similarity": 0.9476462602615356,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\192.Downy_Woodpecker\\Downy_Woodpecker_0003_183933.jpg",
+      "mean_similarity": 0.9475492238998413,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\192.Downy_Woodpecker\\Downy_Woodpecker_0075_184346.jpg",
+      "mean_similarity": 0.9475389122962952,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\192.Downy_Woodpecker\\Downy_Woodpecker_0033_184636.jpg",
+      "mean_similarity": 0.9474532604217529,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\192.Downy_Woodpecker\\Downy_Woodpecker_0101_184139.jpg",
+      "mean_similarity": 0.9473361372947693,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\192.Downy_Woodpecker\\Downy_Woodpecker_0044_184170.jpg",
+      "mean_similarity": 0.9473063945770264,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\192.Downy_Woodpecker\\Downy_Woodpecker_0042_184144.jpg",
+      "mean_similarity": 0.9472925066947937,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\192.Downy_Woodpecker\\Downy_Woodpecker_0138_184385.jpg",
+      "mean_similarity": 0.9461827874183655,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\192.Downy_Woodpecker\\Downy_Woodpecker_0136_184534.jpg",
+      "mean_similarity": 0.9455655813217163,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\192.Downy_Woodpecker\\Downy_Woodpecker_0014_183975.jpg",
+      "mean_similarity": 0.9442712068557739,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\192.Downy_Woodpecker\\Downy_Woodpecker_0040_184061.jpg",
+      "mean_similarity": 0.9441989064216614,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\192.Downy_Woodpecker\\Downy_Woodpecker_0031_184120.jpg",
+      "mean_similarity": 0.9440474510192871,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\192.Downy_Woodpecker\\Downy_Woodpecker_0123_184692.jpg",
+      "mean_similarity": 0.9435675740242004,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\192.Downy_Woodpecker\\Downy_Woodpecker_0090_183964.jpg",
+      "mean_similarity": 0.9434205293655396,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\192.Downy_Woodpecker\\Downy_Woodpecker_0011_183934.jpg",
+      "mean_similarity": 0.9412602186203003,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\192.Downy_Woodpecker\\Downy_Woodpecker_0005_184098.jpg",
+      "mean_similarity": 0.9411404132843018,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\192.Downy_Woodpecker\\Downy_Woodpecker_0041_184528.jpg",
+      "mean_similarity": 0.9409064054489136,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\192.Downy_Woodpecker\\Downy_Woodpecker_0121_184002.jpg",
+      "mean_similarity": 0.9351544976234436,
+      "rank": 30
+    }
+  ]
+}

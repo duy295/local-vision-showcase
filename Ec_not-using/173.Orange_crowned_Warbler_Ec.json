@@ -1,0 +1,159 @@
+{
+  "class_name": "173.Orange_crowned_Warbler",
+  "class_idx": 172,
+  "num_images_in_class": 30,
+  "ec_size_requested": 30,
+  "ec_size_actual": 30,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\173.Orange_crowned_Warbler\\Orange_Crowned_Warbler_0079_168372.jpg",
+      "mean_similarity": 0.9486680030822754,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\173.Orange_crowned_Warbler\\Orange_Crowned_Warbler_0066_167949.jpg",
+      "mean_similarity": 0.9484536647796631,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\173.Orange_crowned_Warbler\\Orange_Crowned_Warbler_0042_167614.jpg",
+      "mean_similarity": 0.9483346343040466,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\173.Orange_crowned_Warbler\\Orange_Crowned_Warbler_0119_167658.jpg",
+      "mean_similarity": 0.9481868147850037,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\173.Orange_crowned_Warbler\\Orange_Crowned_Warbler_0087_168439.jpg",
+      "mean_similarity": 0.9481159448623657,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\173.Orange_crowned_Warbler\\Orange_Crowned_Warbler_0111_168040.jpg",
+      "mean_similarity": 0.9471798539161682,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\173.Orange_crowned_Warbler\\Orange_Crowned_Warbler_0068_167585.jpg",
+      "mean_similarity": 0.9460968375205994,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\173.Orange_crowned_Warbler\\Orange_Crowned_Warbler_0071_167595.jpg",
+      "mean_similarity": 0.9460663795471191,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\173.Orange_crowned_Warbler\\Orange_Crowned_Warbler_0080_167960.jpg",
+      "mean_similarity": 0.9451611042022705,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\173.Orange_crowned_Warbler\\Orange_Crowned_Warbler_0128_168012.jpg",
+      "mean_similarity": 0.9451063275337219,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\173.Orange_crowned_Warbler\\Orange_Crowned_Warbler_0034_168185.jpg",
+      "mean_similarity": 0.9450638890266418,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\173.Orange_crowned_Warbler\\Orange_Crowned_Warbler_0049_167974.jpg",
+      "mean_similarity": 0.9448238611221313,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\173.Orange_crowned_Warbler\\Orange_Crowned_Warbler_0028_167641.jpg",
+      "mean_similarity": 0.9446617364883423,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\173.Orange_crowned_Warbler\\Orange_Crowned_Warbler_0018_168126.jpg",
+      "mean_similarity": 0.9445083737373352,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\173.Orange_crowned_Warbler\\Orange_Crowned_Warbler_0050_168166.jpg",
+      "mean_similarity": 0.9439928531646729,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\173.Orange_crowned_Warbler\\Orange_Crowned_Warbler_0032_167589.jpg",
+      "mean_similarity": 0.9429980516433716,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\173.Orange_crowned_Warbler\\Orange_Crowned_Warbler_0120_167587.jpg",
+      "mean_similarity": 0.9424718618392944,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\173.Orange_crowned_Warbler\\Orange_Crowned_Warbler_0118_167640.jpg",
+      "mean_similarity": 0.9419554471969604,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\173.Orange_crowned_Warbler\\Orange_Crowned_Warbler_0057_168424.jpg",
+      "mean_similarity": 0.9404431581497192,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\173.Orange_crowned_Warbler\\Orange_Crowned_Warbler_0001_167660.jpg",
+      "mean_similarity": 0.9398198127746582,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\173.Orange_crowned_Warbler\\Orange_Crowned_Warbler_0083_167948.jpg",
+      "mean_similarity": 0.9397648572921753,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\173.Orange_crowned_Warbler\\Orange_Crowned_Warbler_0052_168013.jpg",
+      "mean_similarity": 0.9393806457519531,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\173.Orange_crowned_Warbler\\Orange_Crowned_Warbler_0030_168376.jpg",
+      "mean_similarity": 0.9392495155334473,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\173.Orange_crowned_Warbler\\Orange_Crowned_Warbler_0067_167588.jpg",
+      "mean_similarity": 0.9388740658760071,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\173.Orange_crowned_Warbler\\Orange_Crowned_Warbler_0091_167578.jpg",
+      "mean_similarity": 0.9375354647636414,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\173.Orange_crowned_Warbler\\Orange_Crowned_Warbler_0055_168600.jpg",
+      "mean_similarity": 0.9364046454429626,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\173.Orange_crowned_Warbler\\Orange_Crowned_Warbler_0062_168119.jpg",
+      "mean_similarity": 0.9355642795562744,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\173.Orange_crowned_Warbler\\Orange_Crowned_Warbler_0103_168566.jpg",
+      "mean_similarity": 0.9335213899612427,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\173.Orange_crowned_Warbler\\Orange_Crowned_Warbler_0051_168002.jpg",
+      "mean_similarity": 0.9319273829460144,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\173.Orange_crowned_Warbler\\Orange_Crowned_Warbler_0056_167876.jpg",
+      "mean_similarity": 0.9276713132858276,
+      "rank": 30
+    }
+  ]
+}

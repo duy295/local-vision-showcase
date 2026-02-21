@@ -1,0 +1,159 @@
+{
+  "class_name": "154.Red_eyed_Vireo",
+  "class_idx": 153,
+  "num_images_in_class": 30,
+  "ec_size_requested": 30,
+  "ec_size_actual": 30,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\154.Red_eyed_Vireo\\Red_Eyed_Vireo_0062_157324.jpg",
+      "mean_similarity": 0.9484703540802002,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\154.Red_eyed_Vireo\\Red_Eyed_Vireo_0086_157038.jpg",
+      "mean_similarity": 0.948285698890686,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\154.Red_eyed_Vireo\\Red_Eyed_Vireo_0073_156944.jpg",
+      "mean_similarity": 0.9482499361038208,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\154.Red_eyed_Vireo\\Red_Eyed_Vireo_0109_157176.jpg",
+      "mean_similarity": 0.948132336139679,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\154.Red_eyed_Vireo\\Red_Eyed_Vireo_0055_157096.jpg",
+      "mean_similarity": 0.9478740692138672,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\154.Red_eyed_Vireo\\Red_Eyed_Vireo_0034_157219.jpg",
+      "mean_similarity": 0.9470422267913818,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\154.Red_eyed_Vireo\\Red_Eyed_Vireo_0030_156987.jpg",
+      "mean_similarity": 0.9469383358955383,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\154.Red_eyed_Vireo\\Red_Eyed_Vireo_0056_156968.jpg",
+      "mean_similarity": 0.9457263350486755,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\154.Red_eyed_Vireo\\Red_Eyed_Vireo_0101_156988.jpg",
+      "mean_similarity": 0.9453786611557007,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\154.Red_eyed_Vireo\\Red_Eyed_Vireo_0019_156921.jpg",
+      "mean_similarity": 0.9450390934944153,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\154.Red_eyed_Vireo\\Red_Eyed_Vireo_0106_157102.jpg",
+      "mean_similarity": 0.9448177218437195,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\154.Red_eyed_Vireo\\Red_Eyed_Vireo_0041_156954.jpg",
+      "mean_similarity": 0.9445862174034119,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\154.Red_eyed_Vireo\\Red_Eyed_Vireo_0095_157082.jpg",
+      "mean_similarity": 0.944313645362854,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\154.Red_eyed_Vireo\\Red_Eyed_Vireo_0084_156943.jpg",
+      "mean_similarity": 0.9436153769493103,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\154.Red_eyed_Vireo\\Red_Eyed_Vireo_0077_157005.jpg",
+      "mean_similarity": 0.9432507753372192,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\154.Red_eyed_Vireo\\Red_Eyed_Vireo_0038_156963.jpg",
+      "mean_similarity": 0.9430454969406128,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\154.Red_eyed_Vireo\\Red_Eyed_Vireo_0115_157004.jpg",
+      "mean_similarity": 0.942960798740387,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\154.Red_eyed_Vireo\\Red_Eyed_Vireo_0053_156885.jpg",
+      "mean_similarity": 0.9428932070732117,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\154.Red_eyed_Vireo\\Red_Eyed_Vireo_0112_156742.jpg",
+      "mean_similarity": 0.942628800868988,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\154.Red_eyed_Vireo\\Red_Eyed_Vireo_0058_156965.jpg",
+      "mean_similarity": 0.9423559308052063,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\154.Red_eyed_Vireo\\Red_Eyed_Vireo_0140_157237.jpg",
+      "mean_similarity": 0.9414833188056946,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\154.Red_eyed_Vireo\\Red_Eyed_Vireo_0006_157025.jpg",
+      "mean_similarity": 0.940477192401886,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\154.Red_eyed_Vireo\\Red_Eyed_Vireo_0003_157226.jpg",
+      "mean_similarity": 0.9384252429008484,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\154.Red_eyed_Vireo\\Red_Eyed_Vireo_0071_156967.jpg",
+      "mean_similarity": 0.9380753040313721,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\154.Red_eyed_Vireo\\Red_Eyed_Vireo_0131_156765.jpg",
+      "mean_similarity": 0.9371771812438965,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\154.Red_eyed_Vireo\\Red_Eyed_Vireo_0111_157030.jpg",
+      "mean_similarity": 0.9368227124214172,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\154.Red_eyed_Vireo\\Red_Eyed_Vireo_0002_156470.jpg",
+      "mean_similarity": 0.9364734292030334,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\154.Red_eyed_Vireo\\Red_Eyed_Vireo_0045_157252.jpg",
+      "mean_similarity": 0.9329527020454407,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\154.Red_eyed_Vireo\\Red_Eyed_Vireo_0029_156777.jpg",
+      "mean_similarity": 0.9298608899116516,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\154.Red_eyed_Vireo\\Red_Eyed_Vireo_0083_157063.jpg",
+      "mean_similarity": 0.9272938370704651,
+      "rank": 30
+    }
+  ]
+}

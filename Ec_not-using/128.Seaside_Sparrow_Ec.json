@@ -1,0 +1,159 @@
+{
+  "class_name": "128.Seaside_Sparrow",
+  "class_idx": 127,
+  "num_images_in_class": 30,
+  "ec_size_requested": 30,
+  "ec_size_actual": 30,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\128.Seaside_Sparrow\\Seaside_Sparrow_0064_120813.jpg",
+      "mean_similarity": 0.9464539885520935,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\128.Seaside_Sparrow\\Seaside_Sparrow_0066_120791.jpg",
+      "mean_similarity": 0.9458869099617004,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\128.Seaside_Sparrow\\Seaside_Sparrow_0024_120751.jpg",
+      "mean_similarity": 0.9451902508735657,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\128.Seaside_Sparrow\\Seaside_Sparrow_0051_796522.jpg",
+      "mean_similarity": 0.9450762271881104,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\128.Seaside_Sparrow\\Seaside_Sparrow_0011_120820.jpg",
+      "mean_similarity": 0.9450705051422119,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\128.Seaside_Sparrow\\Seaside_Sparrow_0045_120696.jpg",
+      "mean_similarity": 0.9447824358940125,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\128.Seaside_Sparrow\\Seaside_Sparrow_0027_796512.jpg",
+      "mean_similarity": 0.9438824653625488,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\128.Seaside_Sparrow\\Seaside_Sparrow_0002_796536.jpg",
+      "mean_similarity": 0.9434455037117004,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\128.Seaside_Sparrow\\Seaside_Sparrow_0001_120720.jpg",
+      "mean_similarity": 0.9432944059371948,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\128.Seaside_Sparrow\\Seaside_Sparrow_0047_796520.jpg",
+      "mean_similarity": 0.9431939125061035,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\128.Seaside_Sparrow\\Seaside_Sparrow_0041_796529.jpg",
+      "mean_similarity": 0.9430936574935913,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\128.Seaside_Sparrow\\Seaside_Sparrow_0071_796519.jpg",
+      "mean_similarity": 0.9427892565727234,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\128.Seaside_Sparrow\\Seaside_Sparrow_0015_796500.jpg",
+      "mean_similarity": 0.9425008296966553,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\128.Seaside_Sparrow\\Seaside_Sparrow_0012_120732.jpg",
+      "mean_similarity": 0.9421680569648743,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\128.Seaside_Sparrow\\Seaside_Sparrow_0046_120768.jpg",
+      "mean_similarity": 0.9418820142745972,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\128.Seaside_Sparrow\\Seaside_Sparrow_0050_796508.jpg",
+      "mean_similarity": 0.9417974948883057,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\128.Seaside_Sparrow\\Seaside_Sparrow_0021_120699.jpg",
+      "mean_similarity": 0.941065788269043,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\128.Seaside_Sparrow\\Seaside_Sparrow_0044_119287.jpg",
+      "mean_similarity": 0.9408627152442932,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\128.Seaside_Sparrow\\Seaside_Sparrow_0023_796525.jpg",
+      "mean_similarity": 0.9408011436462402,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\128.Seaside_Sparrow\\Seaside_Sparrow_0042_796528.jpg",
+      "mean_similarity": 0.9400782585144043,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\128.Seaside_Sparrow\\Seaside_Sparrow_0028_120766.jpg",
+      "mean_similarity": 0.9384244680404663,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\128.Seaside_Sparrow\\Seaside_Sparrow_0039_796530.jpg",
+      "mean_similarity": 0.9379777312278748,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\128.Seaside_Sparrow\\Seaside_Sparrow_0067_796532.jpg",
+      "mean_similarity": 0.9377766251564026,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\128.Seaside_Sparrow\\Seaside_Sparrow_0048_120758.jpg",
+      "mean_similarity": 0.9369718432426453,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\128.Seaside_Sparrow\\Seaside_Sparrow_0035_796533.jpg",
+      "mean_similarity": 0.9356494545936584,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\128.Seaside_Sparrow\\Seaside_Sparrow_0049_120735.jpg",
+      "mean_similarity": 0.9353967905044556,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\128.Seaside_Sparrow\\Seaside_Sparrow_0025_796518.jpg",
+      "mean_similarity": 0.9343490600585938,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\128.Seaside_Sparrow\\Seaside_Sparrow_0017_796513.jpg",
+      "mean_similarity": 0.93207848072052,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\128.Seaside_Sparrow\\Seaside_Sparrow_0036_120785.jpg",
+      "mean_similarity": 0.9178363680839539,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\128.Seaside_Sparrow\\Seaside_Sparrow_0005_796516.jpg",
+      "mean_similarity": 0.9109456539154053,
+      "rank": 30
+    }
+  ]
+}

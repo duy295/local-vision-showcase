@@ -1,0 +1,159 @@
+{
+  "class_name": "129.Song_Sparrow",
+  "class_idx": 128,
+  "num_images_in_class": 30,
+  "ec_size_requested": 30,
+  "ec_size_actual": 30,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\129.Song_Sparrow\\Song_Sparrow_0110_120872.jpg",
+      "mean_similarity": 0.9480494260787964,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\129.Song_Sparrow\\Song_Sparrow_0088_121615.jpg",
+      "mean_similarity": 0.9476444125175476,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\129.Song_Sparrow\\Song_Sparrow_0061_120891.jpg",
+      "mean_similarity": 0.9470839500427246,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\129.Song_Sparrow\\Song_Sparrow_0101_120920.jpg",
+      "mean_similarity": 0.9467081427574158,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\129.Song_Sparrow\\Song_Sparrow_0132_121153.jpg",
+      "mean_similarity": 0.9463866353034973,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\129.Song_Sparrow\\Song_Sparrow_0029_120989.jpg",
+      "mean_similarity": 0.9463741779327393,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\129.Song_Sparrow\\Song_Sparrow_0116_121211.jpg",
+      "mean_similarity": 0.9459149837493896,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\129.Song_Sparrow\\Song_Sparrow_0091_121651.jpg",
+      "mean_similarity": 0.9456304311752319,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\129.Song_Sparrow\\Song_Sparrow_0125_122435.jpg",
+      "mean_similarity": 0.9453378915786743,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\129.Song_Sparrow\\Song_Sparrow_0044_121931.jpg",
+      "mean_similarity": 0.9453008770942688,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\129.Song_Sparrow\\Song_Sparrow_0046_121903.jpg",
+      "mean_similarity": 0.9444124102592468,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\129.Song_Sparrow\\Song_Sparrow_0087_121062.jpg",
+      "mean_similarity": 0.9432417750358582,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\129.Song_Sparrow\\Song_Sparrow_0058_121832.jpg",
+      "mean_similarity": 0.9419038891792297,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\129.Song_Sparrow\\Song_Sparrow_0112_121027.jpg",
+      "mean_similarity": 0.9418753385543823,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\129.Song_Sparrow\\Song_Sparrow_0086_121999.jpg",
+      "mean_similarity": 0.9414766430854797,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\129.Song_Sparrow\\Song_Sparrow_0121_121203.jpg",
+      "mean_similarity": 0.9410122632980347,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\129.Song_Sparrow\\Song_Sparrow_0042_121314.jpg",
+      "mean_similarity": 0.9402514696121216,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\129.Song_Sparrow\\Song_Sparrow_0135_121261.jpg",
+      "mean_similarity": 0.9400604367256165,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\129.Song_Sparrow\\Song_Sparrow_0107_120990.jpg",
+      "mean_similarity": 0.9399250149726868,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\129.Song_Sparrow\\Song_Sparrow_0036_121679.jpg",
+      "mean_similarity": 0.9394301176071167,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\129.Song_Sparrow\\Song_Sparrow_0077_121196.jpg",
+      "mean_similarity": 0.938601016998291,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\129.Song_Sparrow\\Song_Sparrow_0092_121969.jpg",
+      "mean_similarity": 0.9375256896018982,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\129.Song_Sparrow\\Song_Sparrow_0007_121133.jpg",
+      "mean_similarity": 0.9374675154685974,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\129.Song_Sparrow\\Song_Sparrow_0013_121056.jpg",
+      "mean_similarity": 0.9364597797393799,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\129.Song_Sparrow\\Song_Sparrow_0089_120894.jpg",
+      "mean_similarity": 0.9329343438148499,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\129.Song_Sparrow\\Song_Sparrow_0040_121617.jpg",
+      "mean_similarity": 0.9328089952468872,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\129.Song_Sparrow\\Song_Sparrow_0090_121057.jpg",
+      "mean_similarity": 0.925563633441925,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\129.Song_Sparrow\\Song_Sparrow_0010_121331.jpg",
+      "mean_similarity": 0.9224553108215332,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\129.Song_Sparrow\\Song_Sparrow_0055_121158.jpg",
+      "mean_similarity": 0.9216402173042297,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\129.Song_Sparrow\\Song_Sparrow_0020_121490.jpg",
+      "mean_similarity": 0.9193070530891418,
+      "rank": 30
+    }
+  ]
+}

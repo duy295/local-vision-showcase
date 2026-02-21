@@ -1,0 +1,159 @@
+{
+  "class_name": "102.Western_Wood_Pewee",
+  "class_idx": 101,
+  "num_images_in_class": 30,
+  "ec_size_requested": 30,
+  "ec_size_actual": 30,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\102.Western_Wood_Pewee\\Western_Wood_Pewee_0059_98262.jpg",
+      "mean_similarity": 0.9476799368858337,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\102.Western_Wood_Pewee\\Western_Wood_Pewee_0003_795050.jpg",
+      "mean_similarity": 0.9474965333938599,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\102.Western_Wood_Pewee\\Western_Wood_Pewee_0012_98031.jpg",
+      "mean_similarity": 0.9474526643753052,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\102.Western_Wood_Pewee\\Western_Wood_Pewee_0008_795043.jpg",
+      "mean_similarity": 0.9473032355308533,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\102.Western_Wood_Pewee\\Western_Wood_Pewee_0021_98101.jpg",
+      "mean_similarity": 0.9472715854644775,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\102.Western_Wood_Pewee\\Western_Wood_Pewee_0015_98184.jpg",
+      "mean_similarity": 0.9471993446350098,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\102.Western_Wood_Pewee\\Western_Wood_Pewee_0076_98002.jpg",
+      "mean_similarity": 0.9467025995254517,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\102.Western_Wood_Pewee\\Western_Wood_Pewee_0011_98205.jpg",
+      "mean_similarity": 0.9463774561882019,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\102.Western_Wood_Pewee\\Western_Wood_Pewee_0049_98263.jpg",
+      "mean_similarity": 0.946359395980835,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\102.Western_Wood_Pewee\\Western_Wood_Pewee_0016_98082.jpg",
+      "mean_similarity": 0.9457271099090576,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\102.Western_Wood_Pewee\\Western_Wood_Pewee_0060_795045.jpg",
+      "mean_similarity": 0.9456921219825745,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\102.Western_Wood_Pewee\\Western_Wood_Pewee_0057_795040.jpg",
+      "mean_similarity": 0.9452996253967285,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\102.Western_Wood_Pewee\\Western_Wood_Pewee_0007_97985.jpg",
+      "mean_similarity": 0.9450708627700806,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\102.Western_Wood_Pewee\\Western_Wood_Pewee_0028_795057.jpg",
+      "mean_similarity": 0.9442926645278931,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\102.Western_Wood_Pewee\\Western_Wood_Pewee_0020_795054.jpg",
+      "mean_similarity": 0.944169282913208,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\102.Western_Wood_Pewee\\Western_Wood_Pewee_0079_795047.jpg",
+      "mean_similarity": 0.9439234137535095,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\102.Western_Wood_Pewee\\Western_Wood_Pewee_0035_795062.jpg",
+      "mean_similarity": 0.94329833984375,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\102.Western_Wood_Pewee\\Western_Wood_Pewee_0054_97982.jpg",
+      "mean_similarity": 0.9426990747451782,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\102.Western_Wood_Pewee\\Western_Wood_Pewee_0068_98024.jpg",
+      "mean_similarity": 0.942318856716156,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\102.Western_Wood_Pewee\\Western_Wood_Pewee_0072_98035.jpg",
+      "mean_similarity": 0.9417803287506104,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\102.Western_Wood_Pewee\\Western_Wood_Pewee_0046_98113.jpg",
+      "mean_similarity": 0.9409219026565552,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\102.Western_Wood_Pewee\\Western_Wood_Pewee_0004_98257.jpg",
+      "mean_similarity": 0.9384620785713196,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\102.Western_Wood_Pewee\\Western_Wood_Pewee_0081_98270.jpg",
+      "mean_similarity": 0.9378240704536438,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\102.Western_Wood_Pewee\\Western_Wood_Pewee_0047_98274.jpg",
+      "mean_similarity": 0.9378014802932739,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\102.Western_Wood_Pewee\\Western_Wood_Pewee_0026_98191.jpg",
+      "mean_similarity": 0.9369829297065735,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\102.Western_Wood_Pewee\\Western_Wood_Pewee_0041_795048.jpg",
+      "mean_similarity": 0.9334273338317871,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\102.Western_Wood_Pewee\\Western_Wood_Pewee_0040_795051.jpg",
+      "mean_similarity": 0.9282069802284241,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\102.Western_Wood_Pewee\\Western_Wood_Pewee_0074_98282.jpg",
+      "mean_similarity": 0.9265886545181274,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\102.Western_Wood_Pewee\\Western_Wood_Pewee_0030_98272.jpg",
+      "mean_similarity": 0.9206863641738892,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\102.Western_Wood_Pewee\\Western_Wood_Pewee_0039_795063.jpg",
+      "mean_similarity": 0.9165159463882446,
+      "rank": 30
+    }
+  ]
+}

@@ -1,0 +1,159 @@
+{
+  "class_name": "106.Horned_Puffin",
+  "class_idx": 105,
+  "num_images_in_class": 30,
+  "ec_size_requested": 30,
+  "ec_size_actual": 30,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\106.Horned_Puffin\\Horned_Puffin_0006_100989.jpg",
+      "mean_similarity": 0.942063570022583,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\106.Horned_Puffin\\Horned_Puffin_0082_100876.jpg",
+      "mean_similarity": 0.941114068031311,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\106.Horned_Puffin\\Horned_Puffin_0062_100693.jpg",
+      "mean_similarity": 0.9390817880630493,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\106.Horned_Puffin\\Horned_Puffin_0055_100882.jpg",
+      "mean_similarity": 0.9388731718063354,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\106.Horned_Puffin\\Horned_Puffin_0042_100760.jpg",
+      "mean_similarity": 0.9383699297904968,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\106.Horned_Puffin\\Horned_Puffin_0028_100765.jpg",
+      "mean_similarity": 0.9381448030471802,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\106.Horned_Puffin\\Horned_Puffin_0078_100777.jpg",
+      "mean_similarity": 0.9379421472549438,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\106.Horned_Puffin\\Horned_Puffin_0056_101030.jpg",
+      "mean_similarity": 0.9376735091209412,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\106.Horned_Puffin\\Horned_Puffin_0034_100895.jpg",
+      "mean_similarity": 0.9362795352935791,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\106.Horned_Puffin\\Horned_Puffin_0031_100804.jpg",
+      "mean_similarity": 0.9355571269989014,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\106.Horned_Puffin\\Horned_Puffin_0033_100731.jpg",
+      "mean_similarity": 0.9355130791664124,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\106.Horned_Puffin\\Horned_Puffin_0007_100699.jpg",
+      "mean_similarity": 0.9348273277282715,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\106.Horned_Puffin\\Horned_Puffin_0060_100726.jpg",
+      "mean_similarity": 0.9344580769538879,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\106.Horned_Puffin\\Horned_Puffin_0081_101054.jpg",
+      "mean_similarity": 0.9342097640037537,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\106.Horned_Puffin\\Horned_Puffin_0016_100993.jpg",
+      "mean_similarity": 0.9340381026268005,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\106.Horned_Puffin\\Horned_Puffin_0021_100780.jpg",
+      "mean_similarity": 0.9339916706085205,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\106.Horned_Puffin\\Horned_Puffin_0022_100766.jpg",
+      "mean_similarity": 0.9333434104919434,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\106.Horned_Puffin\\Horned_Puffin_0024_100620.jpg",
+      "mean_similarity": 0.9327658414840698,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\106.Horned_Puffin\\Horned_Puffin_0030_100725.jpg",
+      "mean_similarity": 0.9319650530815125,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\106.Horned_Puffin\\Horned_Puffin_0001_100973.jpg",
+      "mean_similarity": 0.9314516186714172,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\106.Horned_Puffin\\Horned_Puffin_0040_100891.jpg",
+      "mean_similarity": 0.9303755760192871,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\106.Horned_Puffin\\Horned_Puffin_0067_100737.jpg",
+      "mean_similarity": 0.92857426404953,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\106.Horned_Puffin\\Horned_Puffin_0052_100977.jpg",
+      "mean_similarity": 0.9274468421936035,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\106.Horned_Puffin\\Horned_Puffin_0046_100785.jpg",
+      "mean_similarity": 0.9238377213478088,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\106.Horned_Puffin\\Horned_Puffin_0012_100763.jpg",
+      "mean_similarity": 0.9223340153694153,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\106.Horned_Puffin\\Horned_Puffin_0029_100888.jpg",
+      "mean_similarity": 0.9210489392280579,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\106.Horned_Puffin\\Horned_Puffin_0072_100938.jpg",
+      "mean_similarity": 0.921036958694458,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\106.Horned_Puffin\\Horned_Puffin_0004_100733.jpg",
+      "mean_similarity": 0.9207688570022583,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\106.Horned_Puffin\\Horned_Puffin_0025_100942.jpg",
+      "mean_similarity": 0.9185879230499268,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\106.Horned_Puffin\\Horned_Puffin_0066_100877.jpg",
+      "mean_similarity": 0.9171575903892517,
+      "rank": 30
+    }
+  ]
+}

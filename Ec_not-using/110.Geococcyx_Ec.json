@@ -1,0 +1,159 @@
+{
+  "class_name": "110.Geococcyx",
+  "class_idx": 109,
+  "num_images_in_class": 30,
+  "ec_size_requested": 30,
+  "ec_size_actual": 30,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\110.Geococcyx\\Geococcyx_0106_104216.jpg",
+      "mean_similarity": 0.9497789740562439,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\110.Geococcyx\\Geococcyx_0075_104334.jpg",
+      "mean_similarity": 0.9497305750846863,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\110.Geococcyx\\Geococcyx_0114_104136.jpg",
+      "mean_similarity": 0.9495807886123657,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\110.Geococcyx\\Geococcyx_0022_104157.jpg",
+      "mean_similarity": 0.9492294192314148,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\110.Geococcyx\\Geococcyx_0131_104300.jpg",
+      "mean_similarity": 0.9491651058197021,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\110.Geococcyx\\Geococcyx_0030_104525.jpg",
+      "mean_similarity": 0.94910728931427,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\110.Geococcyx\\Geococcyx_0005_104187.jpg",
+      "mean_similarity": 0.9488382339477539,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\110.Geococcyx\\Geococcyx_0095_104358.jpg",
+      "mean_similarity": 0.9488012194633484,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\110.Geococcyx\\Geococcyx_0009_104372.jpg",
+      "mean_similarity": 0.9486424922943115,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\110.Geococcyx\\Geococcyx_0107_104534.jpg",
+      "mean_similarity": 0.948547899723053,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\110.Geococcyx\\Geococcyx_0078_104468.jpg",
+      "mean_similarity": 0.9484647512435913,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\110.Geococcyx\\Geococcyx_0124_104141.jpg",
+      "mean_similarity": 0.9480815529823303,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\110.Geococcyx\\Geococcyx_0038_104266.jpg",
+      "mean_similarity": 0.9480326175689697,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\110.Geococcyx\\Geococcyx_0006_104523.jpg",
+      "mean_similarity": 0.9477101564407349,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\110.Geococcyx\\Geococcyx_0117_104227.jpg",
+      "mean_similarity": 0.9476819634437561,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\110.Geococcyx\\Geococcyx_0041_104273.jpg",
+      "mean_similarity": 0.947666585445404,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\110.Geococcyx\\Geococcyx_0047_104259.jpg",
+      "mean_similarity": 0.9474289417266846,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\110.Geococcyx\\Geococcyx_0065_104806.jpg",
+      "mean_similarity": 0.947413980960846,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\110.Geococcyx\\Geococcyx_0010_104197.jpg",
+      "mean_similarity": 0.9472887516021729,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\110.Geococcyx\\Geococcyx_0028_104751.jpg",
+      "mean_similarity": 0.9469709396362305,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\110.Geococcyx\\Geococcyx_0091_104301.jpg",
+      "mean_similarity": 0.9468944072723389,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\110.Geococcyx\\Geococcyx_0110_104163.jpg",
+      "mean_similarity": 0.9461244940757751,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\110.Geococcyx\\Geococcyx_0084_104574.jpg",
+      "mean_similarity": 0.9460591077804565,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\110.Geococcyx\\Geococcyx_0112_104548.jpg",
+      "mean_similarity": 0.9452788233757019,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\110.Geococcyx\\Geococcyx_0086_104755.jpg",
+      "mean_similarity": 0.9449829459190369,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\110.Geococcyx\\Geococcyx_0105_104239.jpg",
+      "mean_similarity": 0.9430027008056641,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\110.Geococcyx\\Geococcyx_0036_104173.jpg",
+      "mean_similarity": 0.9422141909599304,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\110.Geococcyx\\Geococcyx_0061_104553.jpg",
+      "mean_similarity": 0.9405083656311035,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\110.Geococcyx\\Geococcyx_0068_104149.jpg",
+      "mean_similarity": 0.9365195035934448,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\110.Geococcyx\\Geococcyx_0096_104369.jpg",
+      "mean_similarity": 0.9313512444496155,
+      "rank": 30
+    }
+  ]
+}

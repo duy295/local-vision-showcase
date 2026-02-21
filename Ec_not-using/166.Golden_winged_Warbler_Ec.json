@@ -1,0 +1,159 @@
+{
+  "class_name": "166.Golden_winged_Warbler",
+  "class_idx": 165,
+  "num_images_in_class": 30,
+  "ec_size_requested": 30,
+  "ec_size_actual": 30,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\166.Golden_winged_Warbler\\Golden_Winged_Warbler_0056_794845.jpg",
+      "mean_similarity": 0.9492479562759399,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\166.Golden_winged_Warbler\\Golden_Winged_Warbler_0044_794836.jpg",
+      "mean_similarity": 0.9486561417579651,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\166.Golden_winged_Warbler\\Golden_Winged_Warbler_0071_164370.jpg",
+      "mean_similarity": 0.9485908150672913,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\166.Golden_winged_Warbler\\Golden_Winged_Warbler_0016_794841.jpg",
+      "mean_similarity": 0.9484354853630066,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\166.Golden_winged_Warbler\\Golden_Winged_Warbler_0015_794819.jpg",
+      "mean_similarity": 0.948395311832428,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\166.Golden_winged_Warbler\\Golden_Winged_Warbler_0051_794805.jpg",
+      "mean_similarity": 0.9481028318405151,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\166.Golden_winged_Warbler\\Golden_Winged_Warbler_0003_164469.jpg",
+      "mean_similarity": 0.9480463266372681,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\166.Golden_winged_Warbler\\Golden_Winged_Warbler_0030_164462.jpg",
+      "mean_similarity": 0.9471944570541382,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\166.Golden_winged_Warbler\\Golden_Winged_Warbler_0009_794813.jpg",
+      "mean_similarity": 0.9471847414970398,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\166.Golden_winged_Warbler\\Golden_Winged_Warbler_0062_794850.jpg",
+      "mean_similarity": 0.9462043046951294,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\166.Golden_winged_Warbler\\Golden_Winged_Warbler_0021_794821.jpg",
+      "mean_similarity": 0.9456613659858704,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\166.Golden_winged_Warbler\\Golden_Winged_Warbler_0014_164464.jpg",
+      "mean_similarity": 0.9448235630989075,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\166.Golden_winged_Warbler\\Golden_Winged_Warbler_0012_164496.jpg",
+      "mean_similarity": 0.9446935057640076,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\166.Golden_winged_Warbler\\Golden_Winged_Warbler_0083_794801.jpg",
+      "mean_similarity": 0.9444689750671387,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\166.Golden_winged_Warbler\\Golden_Winged_Warbler_0061_164516.jpg",
+      "mean_similarity": 0.9440228939056396,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\166.Golden_winged_Warbler\\Golden_Winged_Warbler_0066_794803.jpg",
+      "mean_similarity": 0.943572998046875,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\166.Golden_winged_Warbler\\Golden_Winged_Warbler_0092_164465.jpg",
+      "mean_similarity": 0.9432168006896973,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\166.Golden_winged_Warbler\\Golden_Winged_Warbler_0078_794827.jpg",
+      "mean_similarity": 0.9431881308555603,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\166.Golden_winged_Warbler\\Golden_Winged_Warbler_0079_794820.jpg",
+      "mean_similarity": 0.9420352578163147,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\166.Golden_winged_Warbler\\Golden_Winged_Warbler_0059_794855.jpg",
+      "mean_similarity": 0.9418876767158508,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\166.Golden_winged_Warbler\\Golden_Winged_Warbler_0013_794837.jpg",
+      "mean_similarity": 0.9418581128120422,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\166.Golden_winged_Warbler\\Golden_Winged_Warbler_0054_794847.jpg",
+      "mean_similarity": 0.9412260055541992,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\166.Golden_winged_Warbler\\Golden_Winged_Warbler_0060_164368.jpg",
+      "mean_similarity": 0.9410207271575928,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\166.Golden_winged_Warbler\\Golden_Winged_Warbler_0011_794812.jpg",
+      "mean_similarity": 0.9405854344367981,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\166.Golden_winged_Warbler\\Golden_Winged_Warbler_0024_794807.jpg",
+      "mean_similarity": 0.9395299553871155,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\166.Golden_winged_Warbler\\Golden_Winged_Warbler_0046_794828.jpg",
+      "mean_similarity": 0.9384428262710571,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\166.Golden_winged_Warbler\\Golden_Winged_Warbler_0004_164470.jpg",
+      "mean_similarity": 0.9381729364395142,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\166.Golden_winged_Warbler\\Golden_Winged_Warbler_0018_164558.jpg",
+      "mean_similarity": 0.9368305802345276,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\166.Golden_winged_Warbler\\Golden_Winged_Warbler_0069_164456.jpg",
+      "mean_similarity": 0.9179769158363342,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\166.Golden_winged_Warbler\\Golden_Winged_Warbler_0068_794825.jpg",
+      "mean_similarity": 0.8566731214523315,
+      "rank": 30
+    }
+  ]
+}

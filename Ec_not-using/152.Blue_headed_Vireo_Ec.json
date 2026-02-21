@@ -1,0 +1,159 @@
+{
+  "class_name": "152.Blue_headed_Vireo",
+  "class_idx": 151,
+  "num_images_in_class": 30,
+  "ec_size_requested": 30,
+  "ec_size_actual": 30,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\152.Blue_headed_Vireo\\Blue_Headed_Vireo_0034_156251.jpg",
+      "mean_similarity": 0.944206953048706,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\152.Blue_headed_Vireo\\Blue_Headed_Vireo_0020_155994.jpg",
+      "mean_similarity": 0.94392991065979,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\152.Blue_headed_Vireo\\Blue_Headed_Vireo_0101_156203.jpg",
+      "mean_similarity": 0.9421780109405518,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\152.Blue_headed_Vireo\\Blue_Headed_Vireo_0009_155953.jpg",
+      "mean_similarity": 0.942031979560852,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\152.Blue_headed_Vireo\\Blue_Headed_Vireo_0098_156348.jpg",
+      "mean_similarity": 0.942028820514679,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\152.Blue_headed_Vireo\\Blue_Headed_Vireo_0023_156112.jpg",
+      "mean_similarity": 0.9414346218109131,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\152.Blue_headed_Vireo\\Blue_Headed_Vireo_0089_156062.jpg",
+      "mean_similarity": 0.9401354193687439,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\152.Blue_headed_Vireo\\Blue_Headed_Vireo_0068_156222.jpg",
+      "mean_similarity": 0.9398874640464783,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\152.Blue_headed_Vireo\\Blue_Headed_Vireo_0019_156311.jpg",
+      "mean_similarity": 0.9394274950027466,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\152.Blue_headed_Vireo\\Blue_Headed_Vireo_0075_156181.jpg",
+      "mean_similarity": 0.9388402700424194,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\152.Blue_headed_Vireo\\Blue_Headed_Vireo_0110_155952.jpg",
+      "mean_similarity": 0.938767671585083,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\152.Blue_headed_Vireo\\Blue_Headed_Vireo_0062_156109.jpg",
+      "mean_similarity": 0.9385374784469604,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\152.Blue_headed_Vireo\\Blue_Headed_Vireo_0122_156017.jpg",
+      "mean_similarity": 0.9384759068489075,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\152.Blue_headed_Vireo\\Blue_Headed_Vireo_0055_156247.jpg",
+      "mean_similarity": 0.9383774995803833,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\152.Blue_headed_Vireo\\Blue_Headed_Vireo_0096_155969.jpg",
+      "mean_similarity": 0.9377928972244263,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\152.Blue_headed_Vireo\\Blue_Headed_Vireo_0121_156233.jpg",
+      "mean_similarity": 0.9370290040969849,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\152.Blue_headed_Vireo\\Blue_Headed_Vireo_0054_156455.jpg",
+      "mean_similarity": 0.9363458752632141,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\152.Blue_headed_Vireo\\Blue_Headed_Vireo_0082_155965.jpg",
+      "mean_similarity": 0.9355102777481079,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\152.Blue_headed_Vireo\\Blue_Headed_Vireo_0060_156171.jpg",
+      "mean_similarity": 0.9335241317749023,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\152.Blue_headed_Vireo\\Blue_Headed_Vireo_0026_156245.jpg",
+      "mean_similarity": 0.9328777194023132,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\152.Blue_headed_Vireo\\Blue_Headed_Vireo_0095_156092.jpg",
+      "mean_similarity": 0.931571364402771,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\152.Blue_headed_Vireo\\Blue_Headed_Vireo_0119_156259.jpg",
+      "mean_similarity": 0.9314124584197998,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\152.Blue_headed_Vireo\\Blue_Headed_Vireo_0031_156056.jpg",
+      "mean_similarity": 0.9309881329536438,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\152.Blue_headed_Vireo\\Blue_Headed_Vireo_0010_156344.jpg",
+      "mean_similarity": 0.9309523701667786,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\152.Blue_headed_Vireo\\Blue_Headed_Vireo_0025_156439.jpg",
+      "mean_similarity": 0.928862988948822,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\152.Blue_headed_Vireo\\Blue_Headed_Vireo_0097_156272.jpg",
+      "mean_similarity": 0.922191858291626,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\152.Blue_headed_Vireo\\Blue_Headed_Vireo_0011_156276.jpg",
+      "mean_similarity": 0.9187043309211731,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\152.Blue_headed_Vireo\\Blue_Headed_Vireo_0065_156260.jpg",
+      "mean_similarity": 0.915924608707428,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\152.Blue_headed_Vireo\\Blue_Headed_Vireo_0112_156196.jpg",
+      "mean_similarity": 0.8993359208106995,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\152.Blue_headed_Vireo\\Blue_Headed_Vireo_0039_156397.jpg",
+      "mean_similarity": 0.8946737051010132,
+      "rank": 30
+    }
+  ]
+}

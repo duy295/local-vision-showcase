@@ -1,0 +1,159 @@
+{
+  "class_name": "114.Black_throated_Sparrow",
+  "class_idx": 113,
+  "num_images_in_class": 30,
+  "ec_size_requested": 30,
+  "ec_size_actual": 30,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\114.Black_throated_Sparrow\\Black_Throated_Sparrow_0088_107220.jpg",
+      "mean_similarity": 0.940777063369751,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\114.Black_throated_Sparrow\\Black_Throated_Sparrow_0020_106971.jpg",
+      "mean_similarity": 0.938031017780304,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\114.Black_throated_Sparrow\\Black_Throated_Sparrow_0010_107375.jpg",
+      "mean_similarity": 0.9363410472869873,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\114.Black_throated_Sparrow\\Black_Throated_Sparrow_0011_107115.jpg",
+      "mean_similarity": 0.935973584651947,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\114.Black_throated_Sparrow\\Black_Throated_Sparrow_0096_107238.jpg",
+      "mean_similarity": 0.9355254173278809,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\114.Black_throated_Sparrow\\Black_Throated_Sparrow_0102_107243.jpg",
+      "mean_similarity": 0.9352898001670837,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\114.Black_throated_Sparrow\\Black_Throated_Sparrow_0081_107111.jpg",
+      "mean_similarity": 0.934450626373291,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\114.Black_throated_Sparrow\\Black_Throated_Sparrow_0091_107346.jpg",
+      "mean_similarity": 0.9341317415237427,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\114.Black_throated_Sparrow\\Black_Throated_Sparrow_0055_107213.jpg",
+      "mean_similarity": 0.933975338935852,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\114.Black_throated_Sparrow\\Black_Throated_Sparrow_0069_107116.jpg",
+      "mean_similarity": 0.933864176273346,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\114.Black_throated_Sparrow\\Black_Throated_Sparrow_0090_107295.jpg",
+      "mean_similarity": 0.9333028793334961,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\114.Black_throated_Sparrow\\Black_Throated_Sparrow_0001_107233.jpg",
+      "mean_similarity": 0.9330376982688904,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\114.Black_throated_Sparrow\\Black_Throated_Sparrow_0033_107042.jpg",
+      "mean_similarity": 0.9326483011245728,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\114.Black_throated_Sparrow\\Black_Throated_Sparrow_0072_107255.jpg",
+      "mean_similarity": 0.9318952560424805,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\114.Black_throated_Sparrow\\Black_Throated_Sparrow_0065_107087.jpg",
+      "mean_similarity": 0.9317685961723328,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\114.Black_throated_Sparrow\\Black_Throated_Sparrow_0023_107104.jpg",
+      "mean_similarity": 0.9313822984695435,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\114.Black_throated_Sparrow\\Black_Throated_Sparrow_0027_107278.jpg",
+      "mean_similarity": 0.9312495589256287,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\114.Black_throated_Sparrow\\Black_Throated_Sparrow_0095_107268.jpg",
+      "mean_similarity": 0.9301902651786804,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\114.Black_throated_Sparrow\\Black_Throated_Sparrow_0019_107192.jpg",
+      "mean_similarity": 0.9287171959877014,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\114.Black_throated_Sparrow\\Black_Throated_Sparrow_0035_107185.jpg",
+      "mean_similarity": 0.92759108543396,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\114.Black_throated_Sparrow\\Black_Throated_Sparrow_0046_107339.jpg",
+      "mean_similarity": 0.9271549582481384,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\114.Black_throated_Sparrow\\Black_Throated_Sparrow_0097_106935.jpg",
+      "mean_similarity": 0.9268184304237366,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\114.Black_throated_Sparrow\\Black_Throated_Sparrow_0017_107355.jpg",
+      "mean_similarity": 0.9266514778137207,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\114.Black_throated_Sparrow\\Black_Throated_Sparrow_0049_106958.jpg",
+      "mean_similarity": 0.9265854954719543,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\114.Black_throated_Sparrow\\Black_Throated_Sparrow_0086_106970.jpg",
+      "mean_similarity": 0.9235242605209351,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\114.Black_throated_Sparrow\\Black_Throated_Sparrow_0026_107198.jpg",
+      "mean_similarity": 0.9219775795936584,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\114.Black_throated_Sparrow\\Black_Throated_Sparrow_0034_107327.jpg",
+      "mean_similarity": 0.9194968342781067,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\114.Black_throated_Sparrow\\Black_Throated_Sparrow_0078_107298.jpg",
+      "mean_similarity": 0.9171047210693359,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\114.Black_throated_Sparrow\\Black_Throated_Sparrow_0066_106974.jpg",
+      "mean_similarity": 0.9160377383232117,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\114.Black_throated_Sparrow\\Black_Throated_Sparrow_0009_107333.jpg",
+      "mean_similarity": 0.7350775003433228,
+      "rank": 30
+    }
+  ]
+}

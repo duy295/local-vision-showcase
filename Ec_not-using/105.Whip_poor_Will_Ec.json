@@ -1,0 +1,159 @@
+{
+  "class_name": "105.Whip_poor_Will",
+  "class_idx": 104,
+  "num_images_in_class": 30,
+  "ec_size_requested": 30,
+  "ec_size_actual": 30,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\105.Whip_poor_Will\\Whip_Poor_Will_0046_796440.jpg",
+      "mean_similarity": 0.9508062601089478,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\105.Whip_poor_Will\\Whip_Poor_Will_0031_100397.jpg",
+      "mean_similarity": 0.9506399631500244,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\105.Whip_poor_Will\\Whip_Poor_Will_0040_100482.jpg",
+      "mean_similarity": 0.950489342212677,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\105.Whip_poor_Will\\Whip_Poor_Will_0009_796423.jpg",
+      "mean_similarity": 0.9503544569015503,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\105.Whip_poor_Will\\Whip_Poor_Will_0050_796415.jpg",
+      "mean_similarity": 0.9502304196357727,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\105.Whip_poor_Will\\Whip_Poor_Will_0017_796429.jpg",
+      "mean_similarity": 0.9499577283859253,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\105.Whip_poor_Will\\Whip_Poor_Will_0003_796409.jpg",
+      "mean_similarity": 0.9498721361160278,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\105.Whip_poor_Will\\Whip_Poor_Will_0001_796411.jpg",
+      "mean_similarity": 0.9496929049491882,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\105.Whip_poor_Will\\Whip_Poor_Will_0030_100412.jpg",
+      "mean_similarity": 0.9495974779129028,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\105.Whip_poor_Will\\Whip_Poor_Will_0006_22800.jpg",
+      "mean_similarity": 0.9494081735610962,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\105.Whip_poor_Will\\Whip_Poor_Will_0035_796430.jpg",
+      "mean_similarity": 0.9493650197982788,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\105.Whip_poor_Will\\Whip_Poor_Will_0008_796420.jpg",
+      "mean_similarity": 0.9493391513824463,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\105.Whip_poor_Will\\Whip_Poor_Will_0007_796431.jpg",
+      "mean_similarity": 0.9492385983467102,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\105.Whip_poor_Will\\Whip_Poor_Will_0048_796417.jpg",
+      "mean_similarity": 0.9489942193031311,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\105.Whip_poor_Will\\Whip_Poor_Will_0024_100444.jpg",
+      "mean_similarity": 0.9489569664001465,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\105.Whip_poor_Will\\Whip_Poor_Will_0044_796407.jpg",
+      "mean_similarity": 0.9488654136657715,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\105.Whip_poor_Will\\Whip_Poor_Will_0038_100443.jpg",
+      "mean_similarity": 0.9487987160682678,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\105.Whip_poor_Will\\Whip_Poor_Will_0018_796403.jpg",
+      "mean_similarity": 0.9487901926040649,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\105.Whip_poor_Will\\Whip_Poor_Will_0047_796412.jpg",
+      "mean_similarity": 0.9487646818161011,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\105.Whip_poor_Will\\Whip_Poor_Will_0011_796416.jpg",
+      "mean_similarity": 0.9487296342849731,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\105.Whip_poor_Will\\Whip_Poor_Will_0033_82166.jpg",
+      "mean_similarity": 0.9485535621643066,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\105.Whip_poor_Will\\Whip_Poor_Will_0026_100456.jpg",
+      "mean_similarity": 0.9483997821807861,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\105.Whip_poor_Will\\Whip_Poor_Will_0004_100479.jpg",
+      "mean_similarity": 0.948215126991272,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\105.Whip_poor_Will\\Whip_Poor_Will_0043_796442.jpg",
+      "mean_similarity": 0.9472991228103638,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\105.Whip_poor_Will\\Whip_Poor_Will_0013_796439.jpg",
+      "mean_similarity": 0.9472895860671997,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\105.Whip_poor_Will\\Whip_Poor_Will_0049_83621.jpg",
+      "mean_similarity": 0.9466773867607117,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\105.Whip_poor_Will\\Whip_Poor_Will_0012_796414.jpg",
+      "mean_similarity": 0.9457485675811768,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\105.Whip_poor_Will\\Whip_Poor_Will_0016_796424.jpg",
+      "mean_similarity": 0.9442194700241089,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\105.Whip_poor_Will\\Whip_Poor_Will_0010_100464.jpg",
+      "mean_similarity": 0.9382197856903076,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\105.Whip_poor_Will\\Whip_Poor_Will_0037_796405.jpg",
+      "mean_similarity": 0.9365668296813965,
+      "rank": 30
+    }
+  ]
+}

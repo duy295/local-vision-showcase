@@ -1,0 +1,159 @@
+{
+  "class_name": "139.Scarlet_Tanager",
+  "class_idx": 138,
+  "num_images_in_class": 30,
+  "ec_size_requested": 30,
+  "ec_size_actual": 30,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\139.Scarlet_Tanager\\Scarlet_Tanager_0107_138577.jpg",
+      "mean_similarity": 0.9503560662269592,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\139.Scarlet_Tanager\\Scarlet_Tanager_0075_137602.jpg",
+      "mean_similarity": 0.9501274824142456,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\139.Scarlet_Tanager\\Scarlet_Tanager_0119_138291.jpg",
+      "mean_similarity": 0.9501073360443115,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\139.Scarlet_Tanager\\Scarlet_Tanager_0018_138294.jpg",
+      "mean_similarity": 0.949883222579956,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\139.Scarlet_Tanager\\Scarlet_Tanager_0053_138940.jpg",
+      "mean_similarity": 0.9498704075813293,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\139.Scarlet_Tanager\\Scarlet_Tanager_0079_138669.jpg",
+      "mean_similarity": 0.949845552444458,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\139.Scarlet_Tanager\\Scarlet_Tanager_0095_137618.jpg",
+      "mean_similarity": 0.9497984647750854,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\139.Scarlet_Tanager\\Scarlet_Tanager_0040_137885.jpg",
+      "mean_similarity": 0.9497664570808411,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\139.Scarlet_Tanager\\Scarlet_Tanager_0100_138006.jpg",
+      "mean_similarity": 0.9497179388999939,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\139.Scarlet_Tanager\\Scarlet_Tanager_0120_138344.jpg",
+      "mean_similarity": 0.9497001767158508,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\139.Scarlet_Tanager\\Scarlet_Tanager_0130_138661.jpg",
+      "mean_similarity": 0.9496833086013794,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\139.Scarlet_Tanager\\Scarlet_Tanager_0058_137710.jpg",
+      "mean_similarity": 0.9495145082473755,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\139.Scarlet_Tanager\\Scarlet_Tanager_0016_138008.jpg",
+      "mean_similarity": 0.9494965076446533,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\139.Scarlet_Tanager\\Scarlet_Tanager_0090_137703.jpg",
+      "mean_similarity": 0.9493451118469238,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\139.Scarlet_Tanager\\Scarlet_Tanager_0042_138287.jpg",
+      "mean_similarity": 0.9493410587310791,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\139.Scarlet_Tanager\\Scarlet_Tanager_0060_138384.jpg",
+      "mean_similarity": 0.9492959976196289,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\139.Scarlet_Tanager\\Scarlet_Tanager_0093_138250.jpg",
+      "mean_similarity": 0.9489824771881104,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\139.Scarlet_Tanager\\Scarlet_Tanager_0024_137712.jpg",
+      "mean_similarity": 0.9489521384239197,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\139.Scarlet_Tanager\\Scarlet_Tanager_0033_137603.jpg",
+      "mean_similarity": 0.9488714933395386,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\139.Scarlet_Tanager\\Scarlet_Tanager_0017_138484.jpg",
+      "mean_similarity": 0.9487277865409851,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\139.Scarlet_Tanager\\Scarlet_Tanager_0086_138272.jpg",
+      "mean_similarity": 0.9487076997756958,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\139.Scarlet_Tanager\\Scarlet_Tanager_0128_138711.jpg",
+      "mean_similarity": 0.9486690163612366,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\139.Scarlet_Tanager\\Scarlet_Tanager_0083_138500.jpg",
+      "mean_similarity": 0.9482123255729675,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\139.Scarlet_Tanager\\Scarlet_Tanager_0055_138186.jpg",
+      "mean_similarity": 0.9473062753677368,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\139.Scarlet_Tanager\\Scarlet_Tanager_0077_137626.jpg",
+      "mean_similarity": 0.9469144344329834,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\139.Scarlet_Tanager\\Scarlet_Tanager_0089_138281.jpg",
+      "mean_similarity": 0.9468450546264648,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\139.Scarlet_Tanager\\Scarlet_Tanager_0132_138001.jpg",
+      "mean_similarity": 0.9465104341506958,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\139.Scarlet_Tanager\\Scarlet_Tanager_0110_138274.jpg",
+      "mean_similarity": 0.9450024366378784,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\139.Scarlet_Tanager\\Scarlet_Tanager_0113_138262.jpg",
+      "mean_similarity": 0.9422039985656738,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\139.Scarlet_Tanager\\Scarlet_Tanager_0131_138740.jpg",
+      "mean_similarity": 0.933724582195282,
+      "rank": 30
+    }
+  ]
+}

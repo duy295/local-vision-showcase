@@ -1,0 +1,159 @@
+{
+  "class_name": "167.Hooded_Warbler",
+  "class_idx": 166,
+  "num_images_in_class": 30,
+  "ec_size_requested": 30,
+  "ec_size_actual": 30,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\167.Hooded_Warbler\\Hooded_Warbler_0084_164944.jpg",
+      "mean_similarity": 0.9458504319190979,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\167.Hooded_Warbler\\Hooded_Warbler_0040_165173.jpg",
+      "mean_similarity": 0.9452767372131348,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\167.Hooded_Warbler\\Hooded_Warbler_0003_164915.jpg",
+      "mean_similarity": 0.9440276622772217,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\167.Hooded_Warbler\\Hooded_Warbler_0001_164704.jpg",
+      "mean_similarity": 0.9438239336013794,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\167.Hooded_Warbler\\Hooded_Warbler_0057_164137.jpg",
+      "mean_similarity": 0.9433383345603943,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\167.Hooded_Warbler\\Hooded_Warbler_0104_164982.jpg",
+      "mean_similarity": 0.9432356953620911,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\167.Hooded_Warbler\\Hooded_Warbler_0053_164631.jpg",
+      "mean_similarity": 0.9416746497154236,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\167.Hooded_Warbler\\Hooded_Warbler_0134_164708.jpg",
+      "mean_similarity": 0.9415834546089172,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\167.Hooded_Warbler\\Hooded_Warbler_0124_164923.jpg",
+      "mean_similarity": 0.940567135810852,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\167.Hooded_Warbler\\Hooded_Warbler_0016_164837.jpg",
+      "mean_similarity": 0.9394294619560242,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\167.Hooded_Warbler\\Hooded_Warbler_0011_164801.jpg",
+      "mean_similarity": 0.9389708638191223,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\167.Hooded_Warbler\\Hooded_Warbler_0130_164826.jpg",
+      "mean_similarity": 0.9389646053314209,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\167.Hooded_Warbler\\Hooded_Warbler_0012_164891.jpg",
+      "mean_similarity": 0.9388960003852844,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\167.Hooded_Warbler\\Hooded_Warbler_0115_165041.jpg",
+      "mean_similarity": 0.9381243586540222,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\167.Hooded_Warbler\\Hooded_Warbler_0041_164807.jpg",
+      "mean_similarity": 0.9378975033760071,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\167.Hooded_Warbler\\Hooded_Warbler_0129_90165.jpg",
+      "mean_similarity": 0.9373428225517273,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\167.Hooded_Warbler\\Hooded_Warbler_0021_165057.jpg",
+      "mean_similarity": 0.9373044967651367,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\167.Hooded_Warbler\\Hooded_Warbler_0008_164641.jpg",
+      "mean_similarity": 0.9366686940193176,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\167.Hooded_Warbler\\Hooded_Warbler_0078_165123.jpg",
+      "mean_similarity": 0.934367299079895,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\167.Hooded_Warbler\\Hooded_Warbler_0062_165199.jpg",
+      "mean_similarity": 0.9339597225189209,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\167.Hooded_Warbler\\Hooded_Warbler_0087_164833.jpg",
+      "mean_similarity": 0.9336789846420288,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\167.Hooded_Warbler\\Hooded_Warbler_0085_164846.jpg",
+      "mean_similarity": 0.933305561542511,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\167.Hooded_Warbler\\Hooded_Warbler_0014_164672.jpg",
+      "mean_similarity": 0.9282530546188354,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\167.Hooded_Warbler\\Hooded_Warbler_0058_164674.jpg",
+      "mean_similarity": 0.9269979596138,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\167.Hooded_Warbler\\Hooded_Warbler_0043_164864.jpg",
+      "mean_similarity": 0.926373302936554,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\167.Hooded_Warbler\\Hooded_Warbler_0013_164627.jpg",
+      "mean_similarity": 0.9207974076271057,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\167.Hooded_Warbler\\Hooded_Warbler_0039_164928.jpg",
+      "mean_similarity": 0.9151191115379333,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\167.Hooded_Warbler\\Hooded_Warbler_0070_164930.jpg",
+      "mean_similarity": 0.9134938716888428,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\167.Hooded_Warbler\\Hooded_Warbler_0135_164824.jpg",
+      "mean_similarity": 0.9131215810775757,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\167.Hooded_Warbler\\Hooded_Warbler_0121_164639.jpg",
+      "mean_similarity": 0.9128028154373169,
+      "rank": 30
+    }
+  ]
+}

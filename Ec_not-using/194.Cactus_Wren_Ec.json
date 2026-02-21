@@ -1,0 +1,159 @@
+{
+  "class_name": "194.Cactus_Wren",
+  "class_idx": 193,
+  "num_images_in_class": 30,
+  "ec_size_requested": 30,
+  "ec_size_actual": 30,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\194.Cactus_Wren\\Cactus_Wren_0123_186068.jpg",
+      "mean_similarity": 0.9489288330078125,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\194.Cactus_Wren\\Cactus_Wren_0078_185899.jpg",
+      "mean_similarity": 0.9489019513130188,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\194.Cactus_Wren\\Cactus_Wren_0001_185645.jpg",
+      "mean_similarity": 0.9488204121589661,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\194.Cactus_Wren\\Cactus_Wren_0073_185670.jpg",
+      "mean_similarity": 0.9485502243041992,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\194.Cactus_Wren\\Cactus_Wren_0064_185826.jpg",
+      "mean_similarity": 0.9481651186943054,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\194.Cactus_Wren\\Cactus_Wren_0016_185582.jpg",
+      "mean_similarity": 0.9481264352798462,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\194.Cactus_Wren\\Cactus_Wren_0030_185798.jpg",
+      "mean_similarity": 0.9480339288711548,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\194.Cactus_Wren\\Cactus_Wren_0086_185630.jpg",
+      "mean_similarity": 0.9479966163635254,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\194.Cactus_Wren\\Cactus_Wren_0117_185591.jpg",
+      "mean_similarity": 0.9479610919952393,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\194.Cactus_Wren\\Cactus_Wren_0060_185950.jpg",
+      "mean_similarity": 0.9479237198829651,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\194.Cactus_Wren\\Cactus_Wren_0033_186014.jpg",
+      "mean_similarity": 0.9478846788406372,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\194.Cactus_Wren\\Cactus_Wren_0020_186012.jpg",
+      "mean_similarity": 0.9478732347488403,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\194.Cactus_Wren\\Cactus_Wren_0066_186028.jpg",
+      "mean_similarity": 0.9478427171707153,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\194.Cactus_Wren\\Cactus_Wren_0075_186066.jpg",
+      "mean_similarity": 0.9476991891860962,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\194.Cactus_Wren\\Cactus_Wren_0098_185637.jpg",
+      "mean_similarity": 0.9476937651634216,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\194.Cactus_Wren\\Cactus_Wren_0089_186023.jpg",
+      "mean_similarity": 0.9475858211517334,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\194.Cactus_Wren\\Cactus_Wren_0097_186015.jpg",
+      "mean_similarity": 0.9475484490394592,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\194.Cactus_Wren\\Cactus_Wren_0058_185903.jpg",
+      "mean_similarity": 0.9473488926887512,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\194.Cactus_Wren\\Cactus_Wren_0118_185788.jpg",
+      "mean_similarity": 0.9472439289093018,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\194.Cactus_Wren\\Cactus_Wren_0008_186083.jpg",
+      "mean_similarity": 0.9469863772392273,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\194.Cactus_Wren\\Cactus_Wren_0028_185795.jpg",
+      "mean_similarity": 0.9467881321907043,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\194.Cactus_Wren\\Cactus_Wren_0103_185506.jpg",
+      "mean_similarity": 0.9458867907524109,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\194.Cactus_Wren\\Cactus_Wren_0108_185733.jpg",
+      "mean_similarity": 0.9456636309623718,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\194.Cactus_Wren\\Cactus_Wren_0069_186033.jpg",
+      "mean_similarity": 0.945560872554779,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\194.Cactus_Wren\\Cactus_Wren_0044_185492.jpg",
+      "mean_similarity": 0.944885790348053,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\194.Cactus_Wren\\Cactus_Wren_0125_185648.jpg",
+      "mean_similarity": 0.9443717002868652,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\194.Cactus_Wren\\Cactus_Wren_0080_185901.jpg",
+      "mean_similarity": 0.9441242814064026,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\194.Cactus_Wren\\Cactus_Wren_0034_185817.jpg",
+      "mean_similarity": 0.9425927400588989,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\194.Cactus_Wren\\Cactus_Wren_0041_185691.jpg",
+      "mean_similarity": 0.9317631125450134,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\194.Cactus_Wren\\Cactus_Wren_0025_185696.jpg",
+      "mean_similarity": 0.9048148989677429,
+      "rank": 30
+    }
+  ]
+}

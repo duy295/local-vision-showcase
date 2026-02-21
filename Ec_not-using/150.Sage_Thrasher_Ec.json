@@ -1,0 +1,159 @@
+{
+  "class_name": "150.Sage_Thrasher",
+  "class_idx": 149,
+  "num_images_in_class": 30,
+  "ec_size_requested": 30,
+  "ec_size_actual": 30,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\150.Sage_Thrasher\\Sage_Thrasher_0025_155661.jpg",
+      "mean_similarity": 0.9486043453216553,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\150.Sage_Thrasher\\Sage_Thrasher_0018_796443.jpg",
+      "mean_similarity": 0.9485393166542053,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\150.Sage_Thrasher\\Sage_Thrasher_0031_796455.jpg",
+      "mean_similarity": 0.9471646547317505,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\150.Sage_Thrasher\\Sage_Thrasher_0106_155618.jpg",
+      "mean_similarity": 0.9464898705482483,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\150.Sage_Thrasher\\Sage_Thrasher_0052_155605.jpg",
+      "mean_similarity": 0.9463396072387695,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\150.Sage_Thrasher\\Sage_Thrasher_0040_155667.jpg",
+      "mean_similarity": 0.9452341198921204,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\150.Sage_Thrasher\\Sage_Thrasher_0103_155575.jpg",
+      "mean_similarity": 0.9450645446777344,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\150.Sage_Thrasher\\Sage_Thrasher_0045_155448.jpg",
+      "mean_similarity": 0.9449846148490906,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\150.Sage_Thrasher\\Sage_Thrasher_0096_155449.jpg",
+      "mean_similarity": 0.9448890686035156,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\150.Sage_Thrasher\\Sage_Thrasher_0104_155529.jpg",
+      "mean_similarity": 0.9445570111274719,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\150.Sage_Thrasher\\Sage_Thrasher_0069_155544.jpg",
+      "mean_similarity": 0.9445021748542786,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\150.Sage_Thrasher\\Sage_Thrasher_0092_155482.jpg",
+      "mean_similarity": 0.9444764256477356,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\150.Sage_Thrasher\\Sage_Thrasher_0095_796446.jpg",
+      "mean_similarity": 0.9433796405792236,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\150.Sage_Thrasher\\Sage_Thrasher_0021_155548.jpg",
+      "mean_similarity": 0.9430803656578064,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\150.Sage_Thrasher\\Sage_Thrasher_0071_155642.jpg",
+      "mean_similarity": 0.9427232146263123,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\150.Sage_Thrasher\\Sage_Thrasher_0093_155501.jpg",
+      "mean_similarity": 0.9424450397491455,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\150.Sage_Thrasher\\Sage_Thrasher_0076_796445.jpg",
+      "mean_similarity": 0.942408561706543,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\150.Sage_Thrasher\\Sage_Thrasher_0060_155728.jpg",
+      "mean_similarity": 0.9422006011009216,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\150.Sage_Thrasher\\Sage_Thrasher_0014_155541.jpg",
+      "mean_similarity": 0.941002368927002,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\150.Sage_Thrasher\\Sage_Thrasher_0051_155464.jpg",
+      "mean_similarity": 0.9406012296676636,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\150.Sage_Thrasher\\Sage_Thrasher_0083_796450.jpg",
+      "mean_similarity": 0.9401677846908569,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\150.Sage_Thrasher\\Sage_Thrasher_0039_796449.jpg",
+      "mean_similarity": 0.9388327598571777,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\150.Sage_Thrasher\\Sage_Thrasher_0070_155732.jpg",
+      "mean_similarity": 0.9388083815574646,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\150.Sage_Thrasher\\Sage_Thrasher_0075_155527.jpg",
+      "mean_similarity": 0.9386833310127258,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\150.Sage_Thrasher\\Sage_Thrasher_0077_155608.jpg",
+      "mean_similarity": 0.9386361837387085,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\150.Sage_Thrasher\\Sage_Thrasher_0066_155666.jpg",
+      "mean_similarity": 0.9380106329917908,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\150.Sage_Thrasher\\Sage_Thrasher_0079_155718.jpg",
+      "mean_similarity": 0.937647819519043,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\150.Sage_Thrasher\\Sage_Thrasher_0033_155511.jpg",
+      "mean_similarity": 0.9369857311248779,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\150.Sage_Thrasher\\Sage_Thrasher_0043_155574.jpg",
+      "mean_similarity": 0.932454526424408,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\150.Sage_Thrasher\\Sage_Thrasher_0019_107436.jpg",
+      "mean_similarity": 0.9137221574783325,
+      "rank": 30
+    }
+  ]
+}

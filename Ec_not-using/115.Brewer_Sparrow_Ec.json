@@ -1,0 +1,159 @@
+{
+  "class_name": "115.Brewer_Sparrow",
+  "class_idx": 114,
+  "num_images_in_class": 30,
+  "ec_size_requested": 30,
+  "ec_size_actual": 30,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\115.Brewer_Sparrow\\Brewer_Sparrow_0012_107411.jpg",
+      "mean_similarity": 0.9464408755302429,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\115.Brewer_Sparrow\\Brewer_Sparrow_0023_107489.jpg",
+      "mean_similarity": 0.9461822509765625,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\115.Brewer_Sparrow\\Brewer_Sparrow_0064_107502.jpg",
+      "mean_similarity": 0.9455116391181946,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\115.Brewer_Sparrow\\Brewer_Sparrow_0066_107510.jpg",
+      "mean_similarity": 0.9451889991760254,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\115.Brewer_Sparrow\\Brewer_Sparrow_0001_796718.jpg",
+      "mean_similarity": 0.944302499294281,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\115.Brewer_Sparrow\\Brewer_Sparrow_0060_107391.jpg",
+      "mean_similarity": 0.9440616965293884,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\115.Brewer_Sparrow\\Brewer_Sparrow_0029_796699.jpg",
+      "mean_similarity": 0.9433929324150085,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\115.Brewer_Sparrow\\Brewer_Sparrow_0069_796709.jpg",
+      "mean_similarity": 0.9424793720245361,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\115.Brewer_Sparrow\\Brewer_Sparrow_0014_107435.jpg",
+      "mean_similarity": 0.9423689246177673,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\115.Brewer_Sparrow\\Brewer_Sparrow_0019_107452.jpg",
+      "mean_similarity": 0.9420100450515747,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\115.Brewer_Sparrow\\Brewer_Sparrow_0053_796694.jpg",
+      "mean_similarity": 0.9419074654579163,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\115.Brewer_Sparrow\\Brewer_Sparrow_0020_796697.jpg",
+      "mean_similarity": 0.9418262839317322,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\115.Brewer_Sparrow\\Brewer_Sparrow_0004_107496.jpg",
+      "mean_similarity": 0.9414406418800354,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\115.Brewer_Sparrow\\Brewer_Sparrow_0035_107509.jpg",
+      "mean_similarity": 0.9409123063087463,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\115.Brewer_Sparrow\\Brewer_Sparrow_0049_796705.jpg",
+      "mean_similarity": 0.9401470422744751,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\115.Brewer_Sparrow\\Brewer_Sparrow_0028_107467.jpg",
+      "mean_similarity": 0.9397964477539062,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\115.Brewer_Sparrow\\Brewer_Sparrow_0008_796703.jpg",
+      "mean_similarity": 0.9395920038223267,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\115.Brewer_Sparrow\\Brewer_Sparrow_0063_796714.jpg",
+      "mean_similarity": 0.937524676322937,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\115.Brewer_Sparrow\\Brewer_Sparrow_0009_107481.jpg",
+      "mean_similarity": 0.9370923042297363,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\115.Brewer_Sparrow\\Brewer_Sparrow_0051_796710.jpg",
+      "mean_similarity": 0.9369826912879944,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\115.Brewer_Sparrow\\Brewer_Sparrow_0076_107393.jpg",
+      "mean_similarity": 0.9353537559509277,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\115.Brewer_Sparrow\\Brewer_Sparrow_0041_796711.jpg",
+      "mean_similarity": 0.9351310729980469,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\115.Brewer_Sparrow\\Brewer_Sparrow_0046_796696.jpg",
+      "mean_similarity": 0.9328329563140869,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\115.Brewer_Sparrow\\Brewer_Sparrow_0032_796702.jpg",
+      "mean_similarity": 0.9310489892959595,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\115.Brewer_Sparrow\\Brewer_Sparrow_0036_107451.jpg",
+      "mean_similarity": 0.9305161237716675,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\115.Brewer_Sparrow\\Brewer_Sparrow_0058_796701.jpg",
+      "mean_similarity": 0.9299999475479126,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\115.Brewer_Sparrow\\Brewer_Sparrow_0068_107422.jpg",
+      "mean_similarity": 0.9296725392341614,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\115.Brewer_Sparrow\\Brewer_Sparrow_0026_107432.jpg",
+      "mean_similarity": 0.926478385925293,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\115.Brewer_Sparrow\\Brewer_Sparrow_0074_107408.jpg",
+      "mean_similarity": 0.926098644733429,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\115.Brewer_Sparrow\\Brewer_Sparrow_0022_107440.jpg",
+      "mean_similarity": 0.9048318266868591,
+      "rank": 30
+    }
+  ]
+}
