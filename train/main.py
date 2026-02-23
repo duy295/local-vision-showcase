@@ -17,6 +17,7 @@ parent_dir = os.path.dirname(current_dir)
 sys.path.append(parent_dir)
 
 # --- IMPORT CUSTOM MODULES ---
+import backbone
 from backbone.feature_extract import HybridResNetBackbone
 from backbone.relation_net import BilinearRelationNet
 from backbone.loss import StructureAwareClipLoss
@@ -180,7 +181,8 @@ def get_args():
     
     parser.add_argument('--p1_epochs', type=int, default=5, help='Phase 1 epochs (default: 20)')
     parser.add_argument('--p2_epochs', type=int, default=20, help='Phase 2 epochs (default: 40)')
-    
+    parser.add_argument('--ckpt_dir', type=str, default='weights',
+                    help='Folder để lưu checkpoint .pth')
     # Max rank difference for normalization
     parser.add_argument('--max_rank_diff', type=float, default=60.0, help='Max rank difference cho normalization (estimate: ~số ảnh/class)')
     
@@ -205,8 +207,8 @@ def main():
         except Exception:
             pass
     
-    dataset_name = 'CUB200' # Tên dataset chuẩn
-
+    #dataset_name = 'CUB200' # Tên dataset chuẩn
+    dataset_name = 'cifar100'
     # 1. Data Setup
     transform = transforms.Compose([
     # Thay Resize + CenterCrop bằng RandomResizedCrop
@@ -575,11 +577,13 @@ def main():
     print("\n" + "="*50)
     print("💾 Đang lưu model weights...")
     os.makedirs('weights', exist_ok=True)
-    
+    ckpt_dir = args.ckpt_dir
+    os.makedirs(ckpt_dir, exist_ok=True)
+
     suffix = "_10class" if args.test_10_classes else "_full"
-    torch.save(backbone.state_dict(), f'weights/backbone{suffix}.pth')
-    torch.save(relation.state_dict(), f'weights/relation{suffix}.pth')
-    torch.save(score_combiner.state_dict(), f'weights/score_combiner{suffix}.pth')  # ← Lưu ScoreCombinerNet
+    torch.save(backbone.state_dict(), os.path.join(ckpt_dir, f'backbone{suffix}.pth'))
+    torch.save(relation.state_dict(), os.path.join(ckpt_dir, f'relation{suffix}.pth'))
+    torch.save(score_combiner.state_dict(), os.path.join(ckpt_dir, f'score_combiner{suffix}.pth'))  # ← Lưu ScoreCombinerNet
     
     print(f"✅ Đã lưu model tại thư mục weights/ (suffix: {suffix})")
     print(f"⏱️ Tổng thời gian train: {(time.time() - total_start_time)/60:.1f} phút")
