@@ -16,7 +16,7 @@ output_json
 *.h5
 
 LLM-description
-
+.vscode/test.py
 # Các file rác hệ thống
 __pycache__/
 .DS_Store

@@ -1,6 +1,6 @@
 import json
 
-p = r"C:\Users\FPT SHOP\CODING PROBLEM\LLM via FSCIL\output_json\CUB200-json\incre\Ec_synthesizer\session 3\clip_topk_incre_session3.json"
+p = r"C:\Users\FPT SHOP\CODING PROBLEM\LLM via FSCIL\output_json\cifar100_json\clip_top5_result_s2.json"
 #p = r"C:\Users\FPT SHOP\CODING PROBLEM\LLM via FSCIL\output_json\CUB200-json\base\clip_top5_result_test.json"
 d = json.load(open(p, "r", encoding="utf-8"))
 

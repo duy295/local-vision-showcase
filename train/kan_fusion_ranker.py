@@ -86,10 +86,17 @@ def _extract_ec_topk_from_section(section: dict) -> List[dict]:
 
 
 def _extract_clip_topk_from_section(section: dict) -> List[dict]:
-    """Đọc CLIP scores từ section.clip_topk"""
+    """?????c CLIP scores t??? section.clip_topk"""
     rows = section.get("clip_topk", []) or []
+    if isinstance(rows, dict):
+        # Some JSONs wrap clip results inside a dict with key "clip_topk" or "top_k".
+        rows = rows.get("clip_topk") or rows.get("top_k") or []
+    if not isinstance(rows, list):
+        return []
     out = []
     for row in rows:
+        if not isinstance(row, dict):
+            continue
         cls = row.get("class_name") or row.get("class_raw") or row.get("class")
         if not cls:
             continue
@@ -101,7 +108,6 @@ def _extract_clip_topk_from_section(section: dict) -> List[dict]:
         })
     out.sort(key=lambda x: x["rank"])
     return out
-
 
 def _extract_all_sources(item: dict) -> Tuple[List, List, List, List]:
     """Trả về (ec_final, ec_global, clip_final, clip_global) từ 1 item"""
@@ -484,7 +490,7 @@ def compute_sample_loss_weight(g: GroupSample, alpha=0.15, beta=0.15,
 
 # ─────────────────────────────────────────────
 #  Train / Eval
-# ─────────────────────────────────────────────
+# ──────────────────────────────────────────────
 
 def _split_train_val(n, val_ratio, seed):
     idx = list(range(n))
@@ -737,7 +743,7 @@ if __name__ == "__main__":
                    help="EC JSON file (contains EC + CLIP scores for final & global)")
     p.add_argument("--model_path",  type=str, default="weights/kan_fusion_ranker.pth")
     p.add_argument("--output_json", type=str, default="output_json/kan_fusion_eval.json")
-    p.add_argument("--candidate_pool_k", type=int,   default=20)
+    p.add_argument("--candidate_pool_k", type=int,   default=12)
     p.add_argument("--top_k_out",        type=int,   default=5)
     p.add_argument("--epochs",           type=int,   default=150)
     p.add_argument("--val_ratio",        type=float, default=0.2) #=0.2

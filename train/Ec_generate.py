@@ -1,10 +1,9 @@
 import argparse
 import json
 import os
-import sys # Phải import sys trước
+import sys # Phải import
 from collections import defaultdict
 
-# Thêm đường dẫn vào sys.path TRƯỚC KHI import module nội bộ
 current_dir = os.path.dirname(os.path.abspath(__file__))
 parent_dir = os.path.dirname(current_dir)
 if parent_dir not in sys.path:

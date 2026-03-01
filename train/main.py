@@ -48,7 +48,7 @@ class ScoreCombinerNet(torch.nn.Module):
 try:
     from utils.data_loader import CUB200_First10, CUB200_Full
 except ImportError:
-    print("⚠️ Không tìm thấy utils.data_loader. Đang dùng Dummy Dataset để test luồng...")
+    print("Cảnh báo: Không tìm thấy utils.data_loader. Đang dùng Dummy Dataset để test luồng...")
     from torch.utils.data import Dataset
     class CUB200_First10(Dataset):
         def __init__(self, root, train=True, transform=None):
@@ -132,7 +132,7 @@ def extract_class_names_from_files(output_json_path, dataset_name):
             print(f"✓ Extracted {len(class_names_list)} class names từ {target_dir}")
             return class_names_list
     except Exception as e:
-        print(f"⚠️ Lỗi extract class names từ files: {e}")
+        print(f"Lỗi extract class names từ files: {e}")
     
     return None
 
@@ -194,10 +194,10 @@ def main():
     # Handle deprecated --test_10_classes flag
     if args.test_10_classes:
         args.num_classes = 10
-        print("⚠️ --test_10_classes is deprecated. Use --num_classes 10 instead.")
+        print("--test_10_classes is deprecated. Use --num_classes 10 instead.")
     
     device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
-    print(f"🚀 Bắt đầu Training trên thiết bị: {device}")
+    print(f"Bắt đầu Training trên thiết bị: {device}")
 
     # Debug prints: confirm whether CUDA is available and which device is used
     print("Using CUDA:", torch.cuda.is_available())
@@ -211,28 +211,23 @@ def main():
     dataset_name = 'cifar100'
     # 1. Data Setup
     transform = transforms.Compose([
-    # Thay Resize + CenterCrop bằng RandomResizedCrop
-    # Nó sẽ lấy một vùng ngẫu nhiên và scale lên 224x224
     transforms.RandomResizedCrop(224, scale=(0.7, 1.0)),
-    
-    # Lật ảnh ngẫu nhiên (Con chim nhìn trái hay nhìn phải vẫn là con chim đó)
     transforms.RandomHorizontalFlip(p=0.5),
     
-    # Thay đổi nhẹ độ sáng, tương phản để model không bị đánh lừa bởi điều kiện ánh sáng
     transforms.ColorJitter(brightness=0.1, contrast=0.1, saturation=0.1),
     
     transforms.ToTensor(),
     transforms.Normalize([0.485, 0.456, 0.406], [0.229, 0.224, 0.225])
 ])
 
-    print("⏳ Đang load dữ liệu...")
+    print("Đang load dữ liệu...")
     try:
         # Chọn dataset class dựa trên num_classes
         if args.num_classes == 10:
-            print("   📌 Mode: Training 10 classes")
+            print("    Mode: Training 10 classes")
             train_set = CUB200_First10(args.root, train=True, transform=transform)
         else:
-            print("   📌 Mode: Training tất cả 200 classes")
+            print(f"    Mode: Training tất cả {args.num_classes} classes")
             train_set = CUB200_Full(args.root, train=True, transform=transform)
         
         # --- LẤY DANH SÁCH CLASS NAMES (Bắt buộc cho Loss mới) ---
@@ -245,20 +240,20 @@ def main():
             for _, y, _ in train_set:
                 if y > max_label: max_label = y
             class_names = [f"class_{i}" for i in range(max_label + 1)]
-            print(f"⚠️ Dataset không có thuộc tính .classes, tự động tạo: {len(class_names)} class giả.")
+            print(f"Cảnh báo: Dataset không có thuộc tính .classes, tự động tạo: {len(class_names)} class giả.")
         
         # Debug: In class names đầu tiên để kiểm tra format
-        print(f"📋 Sample class names (from dataset): {class_names[:3] if len(class_names) >= 3 else class_names}")
+        print(f"Sample class names (from dataset): {class_names[:3] if len(class_names) >= 3 else class_names}")
         
         # Cố gắng extract class names từ files trong output_json nếu tồn tại
         # (để match với tên file thực tế nếu khác với dataset.classes)
         extracted_class_names = extract_class_names_from_files(args.output_json_path, dataset_name)
         if extracted_class_names:
-            print(f"📁 Found {len(extracted_class_names)} classes từ output_json folder")
+            print(f" Found {len(extracted_class_names)} classes từ output_json folder")
             class_names = extracted_class_names  # Use extracted names
         else:
             # Fallback: normalize class names từ dataset (strip số, convert to lowercase)
-            print(f"📋 Normalizing class names (removing leading numbers, converting to lowercase)...")
+            print(f"Normalizing class names (removing leading numbers, converting to lowercase)...")
             class_names = [normalize_class_name(cls) for cls in class_names]
             print(f"   Sample normalized names: {class_names[:3] if len(class_names) >= 3 else class_names}")
 
@@ -270,11 +265,11 @@ def main():
         else:
             train_labels = [y for _, y, _ in train_set]
             
-        print(f"✅ Đã load {len(train_set)} ảnh training.")
-        print(f"📋 Số lượng Class: {len(class_names)}")
+        print(f"Đã load {len(train_set)} ảnh training.")
+        print(f"Số lượng Class: {len(class_names)}")
         
     except Exception as e:
-        print(f"❌ Lỗi load data: {e}")
+        print(f"Lỗi load data: {e}")
         return
 
     # 2. Load sorted per-class JSON (from explicit path)
@@ -297,10 +292,10 @@ def main():
                         basename_rank_map[b] = 0.0
             print(f"✓ Loaded sorted ranks file with {len(basename_rank_map)} entries from {sorted_json_path}")
         except Exception as e:
-            print(f"⚠️ Không thể đọc {sorted_json_path}: {e}")
+            print(f"Cảnh báo: Không thể đọc {sorted_json_path}: {e}")
             return
     else:
-        print(f"❌ File sorted json không tìm thấy tại: {sorted_json_path}")
+        print(f" File sorted json không tìm thấy tại: {sorted_json_path}")
         return
 
     # 3. Model & Loss Setup
@@ -349,12 +344,12 @@ def main():
     trainable = sum(p.numel() for p in relation.parameters() if p.requires_grad)
     total = sum(p.numel() for p in relation.parameters())
 
-    print(f"🔥 RelationNet trainable params: {trainable:,}")
-    print(f"📦 RelationNet total params:     {total:,}")
+    print(f"RelationNet trainable params: {trainable:,}")
+    print(f"RelationNet total params:     {total:,}")
     
     # Debug: Print ScoreCombinerNet status
-    print(f"🧠 ScoreCombinerNet initialized (hidden_dim=64)")
-    print(f"🧠 ScoreCombinerNet params: {sum(p.numel() for p in score_combiner.parameters()):,}")
+    print(f" ScoreCombinerNet initialized (hidden_dim=64)")
+    print(f"ScoreCombinerNet params: {sum(p.numel() for p in score_combiner.parameters()):,}")
     
     # --- KHỞI TẠO LOSS và TẠO DUMMY CLIPS NẾU THIẾU ---
     # Auto-generate dummy CLIP embeddings nếu files bị thiếu
@@ -369,7 +364,7 @@ def main():
         max_rank_diff=args.max_rank_diff,      # Từ argument
         device=device
     )
-    # Chèn vào sau dòng: loss = loss_fn(scores, feat1, feat2, rank1, rank2, lbl1, lbl2
+    # loss = loss_fn(scores, feat1, feat2, rank1, rank2, lbl1, lbl2
     #optimizer = optim.Adam(list(backbone.parameters()) + list(relation.parameters()), lr=args.lr)
     '''optimizer = optim.Adam(
     list(filter(lambda p: p.requires_grad, backbone.parameters())) +
@@ -385,9 +380,9 @@ def main():
     print("\n" + "="*50)
     print(">>> TRAINING PHASE DISTRIBUTION")
     print("="*50)
-    print(f"📊 Phase 1 (Structure Learning):    Epoch 1-{phase1_end} ({phase1_end} epochs)")
-    print(f"📊 Phase 2 (Discrimination):         Epoch {phase1_end+1}-{phase2_end} ({args.p2_epochs} epochs)")
-    print(f"📊 Phase 3 (Regularization):         Epoch {phase2_end+1}-{args.epochs} ({phase3_epochs} epochs)")
+    print(f"Phase 1 (Structure Learning):    Epoch 1-{phase1_end} ({phase1_end} epochs)")
+    print(f" Phase 2 (Discrimination):         Epoch {phase1_end+1}-{phase2_end} ({args.p2_epochs} epochs)")
+    print(f" Phase 3 (Regularization):         Epoch {phase2_end+1}-{args.epochs} ({phase3_epochs} epochs)")
     print("="*50)
     print(">>> START TRAINING 3-PHASE STRATEGY")
     print("="*50)
@@ -395,7 +390,7 @@ def main():
     # --- LOAD HARD NEGATIVES TỪ JSON (CHO PHASE 2-3) ---
     json_path = os.path.join(args.output_json_path, dataset_name)
     hard_sim_map = load_hard_negatives_from_json(json_path, train_set)
-    print(f"🗺️ Hard Negative similarity map loaded: {len(hard_sim_map)} classes have neighbors")
+    print(f" Hard Negative similarity map loaded: {len(hard_sim_map)} classes have neighbors")
     
     total_start_time = time.time()
 
@@ -453,7 +448,7 @@ def main():
                     )
             loader =DataLoader(train_set, batch_sampler=balanced_sampler_p3, num_workers=4, pin_memory=True)
         print(f"\nEpoch {epoch+1}/{args.epochs} | {phase_name}")
-        print(f"   📦 DataLoader có {len(loader)} batches")
+        print(f"   DataLoader có {len(loader)} batches")
         sys.stdout.flush()
         
         epoch_loss = 0
@@ -502,7 +497,7 @@ def main():
             # Kiểm tra xem có phải đang so sánh ảnh với chính nó không
             diff = (img1[0] - img2[0]).abs().sum()
             if diff < 1e-5:
-                print("🚨 CẢNH BÁO: img1 và img2 giống hệt nhau! Kiểm tra lại Sampler/Indexing.")
+                print("img1 và img2 giống hệt nhau")
             feat1, global_feat1, combined_patch_feat1 = backbone(img1)
             feat2, global_feat2, combined_patch_feat2 = backbone(img2)
             scores1=relation(feat1, feat2)
@@ -566,16 +561,16 @@ def main():
             print(f"   ✓ Loss improved to {best_loss:.6f} (epoch {best_epoch})")
         else:
             epochs_no_improve += 1
-            print(f"   ⚠️ No improvement for {epochs_no_improve}/{patience} epochs")
+            print(f"   Cảnh báo: No improvement for {epochs_no_improve}/{patience} epochs")
 
         if epochs_no_improve >= patience:
-            print(f"⏹️ Early stopping: no improvement in {patience} epochs. Stopping training.")
+            print(f"⏹ Early stopping: no improvement in {patience} epochs. Stopping training.")
             break
 
 
     # 5. Save Model
     print("\n" + "="*50)
-    print("💾 Đang lưu model weights...")
+    print(" lưu model weights...")
     os.makedirs('weights', exist_ok=True)
     ckpt_dir = args.ckpt_dir
     os.makedirs(ckpt_dir, exist_ok=True)
@@ -585,8 +580,8 @@ def main():
     torch.save(relation.state_dict(), os.path.join(ckpt_dir, f'relation{suffix}.pth'))
     torch.save(score_combiner.state_dict(), os.path.join(ckpt_dir, f'score_combiner{suffix}.pth'))  # ← Lưu ScoreCombinerNet
     
-    print(f"✅ Đã lưu model tại thư mục weights/ (suffix: {suffix})")
-    print(f"⏱️ Tổng thời gian train: {(time.time() - total_start_time)/60:.1f} phút")
+    print(f"Đã lưu model tại thư mục weights/ (suffix: {suffix})")
+    print(f"Tổng thời gian train: {(time.time() - total_start_time)/60:.1f} phút")
 
 if __name__ == "__main__":
     main()

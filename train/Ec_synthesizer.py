@@ -3,23 +3,6 @@ ec_synthesizer.py
 ─────────────────────────────────────────────────────────────────────
 Tổng hợp Exemplar Set (Ec) cho Incremental Classes.
 
-FIX đã áp dụng:
-  FIX-1: preprocess_for_clip — bỏ số prefix + underscore trước khi CLIP encode
-          "033.Yellow_billed_Cuckoo" → "a photo of a Yellow Billed Cuckoo"
-  FIX-2: load_clip_topk_json — basename fallback tránh miss cross-OS path
-  FIX-3: mean_sim_to_fewshot_backbone — đúng chiều query/support:
-          few-shot làm query, exemplar làm support → average qua N
-  FIX-4: hybrid_lambda expose ra CLI --hybrid_lambda
-  FIX-5: class_name output = "Geococcyx" (không phải "101.Geococcyx")
-          file name = "101.geococcyx_ec.json"
-  FIX-6: dedup dùng backbone cosine, fallback CLIP nếu không có backbone
-
-IMPROVE:
-  + _pick_segment_representatives: near / 1/3 / 2/3 / far centroid
-  + score_segments hybrid: z-norm(magnitude) * λ + z-norm(Borda) * (1-λ)
-  + mean_similarity_to_fewshot_backbone: field thực cho mọi entry,
-    không extract few-shot lần 2
-
 Output JSON khớp base class Ec:
   {
     "class_name": "Geococcyx",
@@ -363,64 +346,68 @@ class BaseClassEC:
 
 def load_base_ec(
     base_ec_dir: str,
-    base_classes: List[str],   # list like "002.Laysan_Albatross"
+    base_classes: List[str],
     clip_extractor: CLIPExtractor,
     ec_scorer: Optional[ECScorer] = None,
 ) -> Dict[str, BaseClassEC]:
     """
     Support 2 layouts:
-    (A) Folder per class: base_ec_dir/002.Laysan_Albatross/*.jpg
-    (B) JSON per class:   base_ec_dir/002.Laysan_Albatross_Ec.json
-
-    Your case is (B).
+    (A) Folder per class: base_ec_dir/002.class_name/*.jpg
+    (B) JSON per class:   base_ec_dir/002.class_name_Ec.json or class_name_Ec.json
     """
     ec_dict: Dict[str, BaseClassEC] = {}
     print(f"Loading base EC for {len(base_classes)} classes...")
 
-    # --- detect layout quickly ---
     entries = os.listdir(base_ec_dir)
     has_folders = any(os.path.isdir(os.path.join(base_ec_dir, e)) for e in entries)
 
-    # Build json lookup: "002.Laysan_Albatross" -> json_path
+    # Build json lookup for both naming styles.
     json_map: Dict[str, str] = {}
     for fn in entries:
         fp = os.path.join(base_ec_dir, fn)
         if not (os.path.isfile(fp) and fn.lower().endswith(".json")):
             continue
-
-        # match: 002.Laysan_Albatross_Ec.json or _ec.json
-        m = re.match(r"^(\d+)\.(.*)_(ec|Ec)\.json$", fn)
-        if not m:
+        if fn.lower() == "ec_all_classes.json":
             continue
-        cls_folder = f"{int(m.group(1)):03d}.{m.group(2)}"
-        json_map[cls_folder] = fp
 
-    # --- load each class ---
+        m_num = re.match(r"^(\d+)\.(.*)_(ec|Ec)\.json$", fn)
+        if m_num:
+            idx = int(m_num.group(1))
+            raw_name = m_num.group(2)
+            cls_folder = f"{idx:03d}.{raw_name}"
+            json_map[cls_folder] = fp
+            json_map[raw_name] = fp
+            json_map[normalize_name(raw_name)] = fp
+            continue
+
+        m_plain = re.match(r"^(.*)_(ec|Ec)\.json$", fn)
+        if m_plain:
+            raw_name = m_plain.group(1)
+            json_map[raw_name] = fp
+            json_map[normalize_name(raw_name)] = fp
+
     for cls_folder in tqdm(base_classes, desc="Load EC"):
-        # 1) try JSON first (your layout)
         img_paths: List[str] = []
         class_name_for_text = cls_folder
 
         jp = json_map.get(cls_folder)
+        if jp is None:
+            jp = json_map.get(normalize_name(cls_folder))
+
         if jp is not None:
             try:
                 d = load_json(jp)
-                # class_name in your base json is like "002.Laysan_Albatross"
                 class_name_for_text = d.get("class_name", cls_folder)
 
                 ec_list = d.get("Ec", [])
                 for it in ec_list:
                     if isinstance(it, dict):
                         p = it.get("path", "")
-                        if isinstance(p, str) and p:
-                            # only keep existing files to avoid later crash
-                            if os.path.isfile(p):
-                                img_paths.append(p)
-                # If json has 0 valid paths, fall back to folder (if exists)
+                        if isinstance(p, str) and p and os.path.isfile(p):
+                            img_paths.append(p)
             except Exception as e:
                 print(f"[WARN] Failed to read {jp}: {e}")
 
-        # 2) folder fallback (if you ever use it)
         if not img_paths and has_folders:
             cls_dir = os.path.join(base_ec_dir, cls_folder)
             if not os.path.isdir(cls_dir):
@@ -432,15 +419,12 @@ def load_base_ec(
                 ])
 
         if not img_paths:
-            # debug to know why class missing
-            # print(f"[WARN] No images for base class: {cls_folder} (json={jp})")
             continue
 
-        # IMPORTANT: dict key must align with find_related_* normalize_name(...)
         cls_key = normalize_name(class_name_for_text)
 
         img_feats = clip_extractor.get_batch_image_feats(img_paths)
-        text_feat = clip_extractor.get_text_feat(class_name_for_text)  # FIX-1 inside
+        text_feat = clip_extractor.get_text_feat(class_name_for_text)
 
         ec_feat = ec_global = ec_patch = None
         if ec_scorer is not None:
@@ -457,9 +441,6 @@ def load_base_ec(
 
     print(f"Loaded {len(ec_dict)} base classes EC")
     return ec_dict
-# ──────────────────────────────────────────────────────────
-#  Step 1+2: Related Base Classes
-# ──────────────────────────────────────────────────────────
 
 def find_related_full_clip(
     novel_class_name: str,
@@ -1123,11 +1104,10 @@ def auto_detect_base_classes(base_ec_dir: str, n_base: int = 100) -> List[str]:
     Support 2 layouts:
     (A) Folder per class: 001.xxx/, 002.xxx/, ...
     (B) JSON per class:   001.xxx_Ec.json, 002.xxx_Ec.json, ...
-    Return list of class_folder_name like "001.Black_footed_Albatross".
+    Also supports plain JSON names: class_name_Ec.json
     """
     entries = os.listdir(base_ec_dir)
 
-    # 1) Try folder layout
     folders = [f for f in entries if os.path.isdir(os.path.join(base_ec_dir, f))]
     folder_classes = sorted(
         [f for f in folders
@@ -1135,28 +1115,49 @@ def auto_detect_base_classes(base_ec_dir: str, n_base: int = 100) -> List[str]:
         key=_get_class_index
     )
     if folder_classes:
-        print(f"Auto-detected {len(folder_classes)} base classes from FOLDERS (1–{n_base})")
+        print(f"Auto-detected {len(folder_classes)} base classes from FOLDERS (1-{n_base})")
         return folder_classes
 
-    # 2) Try json layout
     jsons = [f for f in entries
              if os.path.isfile(os.path.join(base_ec_dir, f))
              and f.lower().endswith(".json")
-             and re.match(r"^\d+\..*_(ec|Ec)\.json$", f) is not None]
-    json_classes = []
+             and f.lower() != "ec_all_classes.json"]
+
+    json_classes_num = []
     for fn in jsons:
         m = re.match(r"^(\d+)\.(.*)_(ec|Ec)\.json$", fn)
         if not m:
             continue
         idx = int(m.group(1))
         if 1 <= idx <= n_base:
-            # rebuild folder-style name "003.Sooty_Albatross"
-            json_classes.append(f"{idx:03d}.{m.group(2)}")
-    json_classes = sorted(set(json_classes), key=_get_class_index)
+            json_classes_num.append(f"{idx:03d}.{m.group(2)}")
 
-    print(f"Auto-detected {len(json_classes)} base classes from JSON (1–{n_base})")
-    return json_classes
+    json_classes_num = sorted(set(json_classes_num), key=_get_class_index)
+    if json_classes_num:
+        print(f"Auto-detected {len(json_classes_num)} base classes from JSON (1-{n_base})")
+        return json_classes_num
 
+    json_classes_plain = []
+    for fn in jsons:
+        m = re.match(r"^(.*)_(ec|Ec)\.json$", fn)
+        if not m:
+            continue
+        cls_name = m.group(1).strip()
+        if cls_name:
+            json_classes_plain.append(cls_name)
+
+    json_classes_plain = sorted(set(json_classes_plain), key=lambda x: x.lower())
+    if n_base and n_base > 0:
+        json_classes_plain = json_classes_plain[:n_base]
+
+    if json_classes_plain:
+        print(f"Auto-detected {len(json_classes_plain)} base classes from JSON (plain names)")
+        if n_base and len(json_classes_plain) < n_base:
+            print(f"[WARN] Expected {n_base} classes but found {len(json_classes_plain)} in {base_ec_dir}")
+        return json_classes_plain
+
+    print(f"Auto-detected 0 base classes from JSON in {base_ec_dir}")
+    return []
 
 def auto_detect_incremental_classes(
     inc_root_dir: str, session: int,
@@ -1175,14 +1176,23 @@ def auto_detect_incremental_classes(
         print(f"  {n}")
     return result
 
-def sample_fewshot_images(class_dir: str, n_shots: int = 10,
-                          seed: int = 42) -> List[str]:
+def sample_fewshot_images(
+    class_dir: str,
+    n_shots: int = 10,
+    seed: int = 42,
+    sampling: str = "random",
+) -> List[str]:
     imgs = sorted([os.path.join(class_dir, f)
                    for f in os.listdir(class_dir) if _is_img(f)])
     if not imgs:
         return []
-    random.seed(seed)
-    return random.sample(imgs, min(n_shots, len(imgs)))
+    k = min(n_shots, len(imgs))
+    if sampling == "first":
+        return imgs[:k]
+    if sampling == "random":
+        random.seed(seed)
+        return random.sample(imgs, k)
+    raise ValueError(f"Unsupported few-shot sampling mode: {sampling}")
 
 
 def main(args):
@@ -1225,9 +1235,16 @@ def main(args):
     if not session_classes:
         raise RuntimeError(f"Không tìm thấy class nào cho session {args.session}")
 
+    sampling_mode = args.fewshot_sampling
+    if sampling_mode == "auto":
+        sampling_mode = "first" if args.clip_topk_json else "random"
+    print(f"Few-shot sampling mode: {sampling_mode}")
+
     all_results = {}
     for cls_folder, cls_dir, cls_idx in session_classes:
-        few_shot_paths = sample_fewshot_images(cls_dir, args.n_shots, seed=args.seed)
+        few_shot_paths = sample_fewshot_images(
+            cls_dir, args.n_shots, seed=args.seed, sampling=sampling_mode
+        )
         if not few_shot_paths:
             print(f"  Bỏ qua {cls_folder}: không có ảnh")
             continue
@@ -1292,6 +1309,9 @@ if __name__ == "__main__":
     p.add_argument("--n_per_session",     type=int, default=10)
     p.add_argument("--n_shots",           type=int, default=10)
     p.add_argument("--seed",              type=int, default=42)
+    p.add_argument("--fewshot_sampling",  type=str, default="auto",
+                   choices=["auto", "first", "random"],
+                   help="auto: first if --clip_topk_json is set, else random")
     p.add_argument("--n_segments",        type=int,   default=5)
     p.add_argument("--n_repr_per_seg",    type=int,   default=4,
                    help="Số representatives mỗi segment (near/1/3/2/3/far)")

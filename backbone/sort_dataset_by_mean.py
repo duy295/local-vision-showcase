@@ -73,7 +73,7 @@ def main():
         if not features: continue
         
         features_np = np.array(features)
-        # Tính Mean Vector (Tâm của class trong không gian đặc trưng)
+        # Tính Mean Vector
         class_mean = np.mean(features_np, axis=0)
         
         # Tính khoảng cách Euclidean từ từng ảnh tới tâm

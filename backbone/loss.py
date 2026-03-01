@@ -44,13 +44,12 @@ class StructureAwareClipLoss(nn.Module):
         return embedding
 
     def forward(self, fuzzy_scores, feat1, feat2, rank1, rank2, label1, label2):
-        # Chặn nhẹ scores để ổn định gradient
+
         fuzzy_scores = torch.clamp(fuzzy_scores, 1e-4, 1.0 - 1e-4)
         
         is_same = (label1 == label2).float()
         is_diff = 1.0 - is_same
 
-        # Visual Similarity (Feature backbone)
         with torch.no_grad():
             feat_sim = F.cosine_similarity(feat1, feat2).detach()
             feat_sim = torch.clamp(feat_sim, 0.0, 1.0)
@@ -66,8 +65,6 @@ class StructureAwareClipLoss(nn.Module):
         
         # Loss MSE chính
         loss_same_mse = F.mse_loss(fuzzy_scores, target_same, reduction='none')
-        
-        # Penalty: Chỉ phạt khi score thấp hơn beta (SỬA LỖI TẠI ĐÂY)
         loss_penalty_same = torch.pow(F.relu(self.beta - fuzzy_scores), 2)
         
         loss_same_total = (loss_same_mse + 0.5 * loss_penalty_same) * is_same
@@ -97,8 +94,6 @@ class StructureAwareClipLoss(nn.Module):
             
             # Loss MSE chính cho Diff class
             loss_diff_mse = F.mse_loss(fuzzy_scores, target_diff, reduction='none')
-            
-            # Penalty: Chỉ phạt khi score vượt quá alpha
             loss_penalty_diff = torch.pow(F.relu(fuzzy_scores - self.alpha), 2)
             
             loss_diff_total = (loss_diff_mse + 0.5 * loss_penalty_diff) * is_diff
