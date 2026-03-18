@@ -1,0 +1,159 @@
+{
+  "class_name": "041.Scissor_tailed_Flycatcher",
+  "class_idx": 40,
+  "num_images_in_class": 30,
+  "ec_size_requested": 30,
+  "ec_size_actual": 30,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\041.Scissor_tailed_Flycatcher\\Scissor_Tailed_Flycatcher_0020_41680.jpg",
+      "mean_similarity": 0.9473817944526672,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\041.Scissor_tailed_Flycatcher\\Scissor_Tailed_Flycatcher_0126_41905.jpg",
+      "mean_similarity": 0.9471213817596436,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\041.Scissor_tailed_Flycatcher\\Scissor_Tailed_Flycatcher_0026_41774.jpg",
+      "mean_similarity": 0.946444034576416,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\041.Scissor_tailed_Flycatcher\\Scissor_Tailed_Flycatcher_0098_41731.jpg",
+      "mean_similarity": 0.9461191296577454,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\041.Scissor_tailed_Flycatcher\\Scissor_Tailed_Flycatcher_0003_41849.jpg",
+      "mean_similarity": 0.946103036403656,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\041.Scissor_tailed_Flycatcher\\Scissor_Tailed_Flycatcher_0114_41704.jpg",
+      "mean_similarity": 0.9460171461105347,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\041.Scissor_tailed_Flycatcher\\Scissor_Tailed_Flycatcher_0097_41701.jpg",
+      "mean_similarity": 0.9457859396934509,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\041.Scissor_tailed_Flycatcher\\Scissor_Tailed_Flycatcher_0088_41700.jpg",
+      "mean_similarity": 0.9449886679649353,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\041.Scissor_tailed_Flycatcher\\Scissor_Tailed_Flycatcher_0005_41727.jpg",
+      "mean_similarity": 0.9445164799690247,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\041.Scissor_tailed_Flycatcher\\Scissor_Tailed_Flycatcher_0085_41830.jpg",
+      "mean_similarity": 0.9441744089126587,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\041.Scissor_tailed_Flycatcher\\Scissor_Tailed_Flycatcher_0119_41879.jpg",
+      "mean_similarity": 0.9435023069381714,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\041.Scissor_tailed_Flycatcher\\Scissor_Tailed_Flycatcher_0089_41810.jpg",
+      "mean_similarity": 0.9434159398078918,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\041.Scissor_tailed_Flycatcher\\Scissor_Tailed_Flycatcher_0111_42118.jpg",
+      "mean_similarity": 0.9433577656745911,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\041.Scissor_tailed_Flycatcher\\Scissor_Tailed_Flycatcher_0077_41688.jpg",
+      "mean_similarity": 0.9432850480079651,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\041.Scissor_tailed_Flycatcher\\Scissor_Tailed_Flycatcher_0023_42117.jpg",
+      "mean_similarity": 0.9426567554473877,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\041.Scissor_tailed_Flycatcher\\Scissor_Tailed_Flycatcher_0069_41827.jpg",
+      "mean_similarity": 0.942216157913208,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\041.Scissor_tailed_Flycatcher\\Scissor_Tailed_Flycatcher_0068_41835.jpg",
+      "mean_similarity": 0.9422097206115723,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\041.Scissor_tailed_Flycatcher\\Scissor_Tailed_Flycatcher_0092_41767.jpg",
+      "mean_similarity": 0.9418157339096069,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\041.Scissor_tailed_Flycatcher\\Scissor_Tailed_Flycatcher_0038_41649.jpg",
+      "mean_similarity": 0.9407792091369629,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\041.Scissor_tailed_Flycatcher\\Scissor_Tailed_Flycatcher_0002_41762.jpg",
+      "mean_similarity": 0.940536618232727,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\041.Scissor_tailed_Flycatcher\\Scissor_Tailed_Flycatcher_0062_41952.jpg",
+      "mean_similarity": 0.9390456080436707,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\041.Scissor_tailed_Flycatcher\\Scissor_Tailed_Flycatcher_0110_42136.jpg",
+      "mean_similarity": 0.937678873538971,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\041.Scissor_tailed_Flycatcher\\Scissor_Tailed_Flycatcher_0021_41931.jpg",
+      "mean_similarity": 0.9367451071739197,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\041.Scissor_tailed_Flycatcher\\Scissor_Tailed_Flycatcher_0115_42137.jpg",
+      "mean_similarity": 0.9359055757522583,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\041.Scissor_tailed_Flycatcher\\Scissor_Tailed_Flycatcher_0106_41684.jpg",
+      "mean_similarity": 0.9356286525726318,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\041.Scissor_tailed_Flycatcher\\Scissor_Tailed_Flycatcher_0008_41670.jpg",
+      "mean_similarity": 0.9326693415641785,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\041.Scissor_tailed_Flycatcher\\Scissor_Tailed_Flycatcher_0028_42010.jpg",
+      "mean_similarity": 0.9295154809951782,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\041.Scissor_tailed_Flycatcher\\Scissor_Tailed_Flycatcher_0016_42111.jpg",
+      "mean_similarity": 0.9273789525032043,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\041.Scissor_tailed_Flycatcher\\Scissor_Tailed_Flycatcher_0035_42025.jpg",
+      "mean_similarity": 0.9273585677146912,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\041.Scissor_tailed_Flycatcher\\Scissor_Tailed_Flycatcher_0109_41720.jpg",
+      "mean_similarity": 0.9215297102928162,
+      "rank": 30
+    }
+  ]
+}

@@ -1,0 +1,1259 @@
+{
+  "class_name": "orchid",
+  "class_idx": 54,
+  "num_images_in_class": 500,
+  "ec_size_requested": 250,
+  "ec_size_actual": 250,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\orchid_s_001764.png",
+      "mean_similarity": 0.9403272271156311,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\butterfly_orchid_s_001364.png",
+      "mean_similarity": 0.9401564598083496,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\butterfly_orchid_s_001077.png",
+      "mean_similarity": 0.9401013851165771,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\butterfly_orchid_s_001363.png",
+      "mean_similarity": 0.9397872686386108,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\butterfly_orchid_s_001915.png",
+      "mean_similarity": 0.9396277070045471,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\orchid_s_001532.png",
+      "mean_similarity": 0.9395186305046082,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\butterfly_orchid_s_000551.png",
+      "mean_similarity": 0.9395000338554382,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\butterfly_orchid_s_001365.png",
+      "mean_similarity": 0.9393872022628784,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\orchid_s_000591.png",
+      "mean_similarity": 0.9386405944824219,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\orchid_s_001205.png",
+      "mean_similarity": 0.9386206865310669,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\orchid_s_000146.png",
+      "mean_similarity": 0.9385942220687866,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\butterfly_orchid_s_001200.png",
+      "mean_similarity": 0.9385255575180054,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\orchid_s_000581.png",
+      "mean_similarity": 0.9384687542915344,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\butterfly_orchid_s_001722.png",
+      "mean_similarity": 0.9384223818778992,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\orchid_s_000173.png",
+      "mean_similarity": 0.938413679599762,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\butterfly_orchid_s_001669.png",
+      "mean_similarity": 0.9383845925331116,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\butterfly_orchid_s_001354.png",
+      "mean_similarity": 0.938327968120575,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\orchid_s_000053.png",
+      "mean_similarity": 0.9382340908050537,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\butterfly_orchid_s_000951.png",
+      "mean_similarity": 0.9380267262458801,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\butterfly_orchid_s_001895.png",
+      "mean_similarity": 0.9379689693450928,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\orchid_s_001126.png",
+      "mean_similarity": 0.9379330277442932,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\orchid_s_001603.png",
+      "mean_similarity": 0.9379210472106934,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\orchid_s_000377.png",
+      "mean_similarity": 0.9379016757011414,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\orchid_s_001542.png",
+      "mean_similarity": 0.9378103017807007,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\butterfly_orchid_s_000628.png",
+      "mean_similarity": 0.9377451539039612,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\butterfly_orchid_s_000719.png",
+      "mean_similarity": 0.9376692771911621,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\orchid_s_001578.png",
+      "mean_similarity": 0.9376054406166077,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\orchid_s_000279.png",
+      "mean_similarity": 0.9375860095024109,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\orchid_s_001579.png",
+      "mean_similarity": 0.9375649094581604,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\orchid_s_000468.png",
+      "mean_similarity": 0.9375433325767517,
+      "rank": 30
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\orchid_s_000881.png",
+      "mean_similarity": 0.9375296831130981,
+      "rank": 31
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\orchid_s_000310.png",
+      "mean_similarity": 0.9375201463699341,
+      "rank": 32
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\butterfly_orchid_s_000093.png",
+      "mean_similarity": 0.9375028610229492,
+      "rank": 33
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\butterfly_orchid_s_001668.png",
+      "mean_similarity": 0.9374974370002747,
+      "rank": 34
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\butterfly_orchid_s_000397.png",
+      "mean_similarity": 0.937484085559845,
+      "rank": 35
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\butterfly_orchid_s_001040.png",
+      "mean_similarity": 0.93746417760849,
+      "rank": 36
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\orchid_s_000268.png",
+      "mean_similarity": 0.9374637603759766,
+      "rank": 37
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\orchid_s_001907.png",
+      "mean_similarity": 0.9374426603317261,
+      "rank": 38
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\butterfly_orchid_s_001679.png",
+      "mean_similarity": 0.9374005794525146,
+      "rank": 39
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\butterfly_orchid_s_001204.png",
+      "mean_similarity": 0.9373816847801208,
+      "rank": 40
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\butterfly_orchid_s_001916.png",
+      "mean_similarity": 0.9373041987419128,
+      "rank": 41
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\butterfly_orchid_s_001919.png",
+      "mean_similarity": 0.937221109867096,
+      "rank": 42
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\butterfly_orchid_s_000798.png",
+      "mean_similarity": 0.9371840357780457,
+      "rank": 43
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\butterfly_orchid_s_001362.png",
+      "mean_similarity": 0.9371565580368042,
+      "rank": 44
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\butterfly_orchid_s_001434.png",
+      "mean_similarity": 0.93712317943573,
+      "rank": 45
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\orchid_s_000043.png",
+      "mean_similarity": 0.9371125102043152,
+      "rank": 46
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\orchid_s_000203.png",
+      "mean_similarity": 0.9370776414871216,
+      "rank": 47
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\butterfly_orchid_s_000565.png",
+      "mean_similarity": 0.9370741248130798,
+      "rank": 48
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\orchid_s_000022.png",
+      "mean_similarity": 0.9370675086975098,
+      "rank": 49
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\orchid_s_000370.png",
+      "mean_similarity": 0.9369198083877563,
+      "rank": 50
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\orchid_s_000687.png",
+      "mean_similarity": 0.9369017481803894,
+      "rank": 51
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\orchid_s_001281.png",
+      "mean_similarity": 0.9368874430656433,
+      "rank": 52
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\orchid_s_001725.png",
+      "mean_similarity": 0.936859667301178,
+      "rank": 53
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\orchid_s_001133.png",
+      "mean_similarity": 0.9368526339530945,
+      "rank": 54
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\orchid_s_000350.png",
+      "mean_similarity": 0.9368452429771423,
+      "rank": 55
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\butterfly_orchid_s_000442.png",
+      "mean_similarity": 0.9367954730987549,
+      "rank": 56
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\butterfly_orchid_s_001361.png",
+      "mean_similarity": 0.936722457408905,
+      "rank": 57
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\butterfly_orchid_s_001357.png",
+      "mean_similarity": 0.9367128014564514,
+      "rank": 58
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\butterfly_orchid_s_000875.png",
+      "mean_similarity": 0.9366821050643921,
+      "rank": 59
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\butterfly_orchid_s_001391.png",
+      "mean_similarity": 0.9366649389266968,
+      "rank": 60
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\orchid_s_000118.png",
+      "mean_similarity": 0.9366427659988403,
+      "rank": 61
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\orchid_s_000948.png",
+      "mean_similarity": 0.9364123940467834,
+      "rank": 62
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\orchid_s_001765.png",
+      "mean_similarity": 0.9363842010498047,
+      "rank": 63
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\butterfly_orchid_s_001884.png",
+      "mean_similarity": 0.9363046288490295,
+      "rank": 64
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\butterfly_orchid_s_000946.png",
+      "mean_similarity": 0.9362274408340454,
+      "rank": 65
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\butterfly_orchid_s_001390.png",
+      "mean_similarity": 0.9362181425094604,
+      "rank": 66
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\orchid_s_001264.png",
+      "mean_similarity": 0.936099112033844,
+      "rank": 67
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\butterfly_orchid_s_000871.png",
+      "mean_similarity": 0.9360539317131042,
+      "rank": 68
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\butterfly_orchid_s_000566.png",
+      "mean_similarity": 0.9360411763191223,
+      "rank": 69
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\orchid_s_001229.png",
+      "mean_similarity": 0.9358529448509216,
+      "rank": 70
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\butterfly_orchid_s_000404.png",
+      "mean_similarity": 0.9358386397361755,
+      "rank": 71
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\orchis_s_000172.png",
+      "mean_similarity": 0.935814619064331,
+      "rank": 72
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\butterfly_orchid_s_001033.png",
+      "mean_similarity": 0.9358026385307312,
+      "rank": 73
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\butterfly_orchid_s_000072.png",
+      "mean_similarity": 0.9357936978340149,
+      "rank": 74
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\orchid_s_000882.png",
+      "mean_similarity": 0.935772180557251,
+      "rank": 75
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\orchid_s_001115.png",
+      "mean_similarity": 0.9356587529182434,
+      "rank": 76
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\orchid_s_001427.png",
+      "mean_similarity": 0.9354628324508667,
+      "rank": 77
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\orchid_s_001132.png",
+      "mean_similarity": 0.9354566931724548,
+      "rank": 78
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\butterfly_orchid_s_000480.png",
+      "mean_similarity": 0.9354383945465088,
+      "rank": 79
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\butterfly_orchid_s_001960.png",
+      "mean_similarity": 0.9353893995285034,
+      "rank": 80
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\orchid_s_000685.png",
+      "mean_similarity": 0.9353867769241333,
+      "rank": 81
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\orchid_s_000248.png",
+      "mean_similarity": 0.9353307485580444,
+      "rank": 82
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\butterfly_orchid_s_000400.png",
+      "mean_similarity": 0.9352841377258301,
+      "rank": 83
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\orchid_s_001118.png",
+      "mean_similarity": 0.9352401494979858,
+      "rank": 84
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\orchid_s_001846.png",
+      "mean_similarity": 0.9351999759674072,
+      "rank": 85
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\butterfly_orchid_s_001300.png",
+      "mean_similarity": 0.935199499130249,
+      "rank": 86
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\orchid_s_001178.png",
+      "mean_similarity": 0.9351751804351807,
+      "rank": 87
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\orchid_s_001577.png",
+      "mean_similarity": 0.9351059198379517,
+      "rank": 88
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\orchid_s_000230.png",
+      "mean_similarity": 0.9350961446762085,
+      "rank": 89
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\orchid_s_001761.png",
+      "mean_similarity": 0.9350735545158386,
+      "rank": 90
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\orchid_s_001677.png",
+      "mean_similarity": 0.9348952174186707,
+      "rank": 91
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\orchid_s_000347.png",
+      "mean_similarity": 0.9348890781402588,
+      "rank": 92
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\orchid_s_001844.png",
+      "mean_similarity": 0.9348618984222412,
+      "rank": 93
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\orchid_s_000193.png",
+      "mean_similarity": 0.9348340630531311,
+      "rank": 94
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\orchid_s_000629.png",
+      "mean_similarity": 0.9348124861717224,
+      "rank": 95
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\butterfly_orchid_s_001346.png",
+      "mean_similarity": 0.9347950220108032,
+      "rank": 96
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\butterfly_orchid_s_000247.png",
+      "mean_similarity": 0.9347723126411438,
+      "rank": 97
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\butterfly_orchid_s_000997.png",
+      "mean_similarity": 0.9347690939903259,
+      "rank": 98
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\orchid_s_000211.png",
+      "mean_similarity": 0.9347248673439026,
+      "rank": 99
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\orchid_s_001843.png",
+      "mean_similarity": 0.9346852898597717,
+      "rank": 100
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\orchid_s_000884.png",
+      "mean_similarity": 0.9346571564674377,
+      "rank": 101
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\orchid_s_001852.png",
+      "mean_similarity": 0.934637725353241,
+      "rank": 102
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\orchid_s_000363.png",
+      "mean_similarity": 0.9346134066581726,
+      "rank": 103
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\orchid_s_001048.png",
+      "mean_similarity": 0.9346089363098145,
+      "rank": 104
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\orchid_s_000653.png",
+      "mean_similarity": 0.9345556497573853,
+      "rank": 105
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\orchid_s_001839.png",
+      "mean_similarity": 0.934545636177063,
+      "rank": 106
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\butterfly_orchid_s_000530.png",
+      "mean_similarity": 0.9345031380653381,
+      "rank": 107
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\orchid_s_000297.png",
+      "mean_similarity": 0.9344633221626282,
+      "rank": 108
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\orchid_s_001401.png",
+      "mean_similarity": 0.9344349503517151,
+      "rank": 109
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\orchid_s_001543.png",
+      "mean_similarity": 0.9343331456184387,
+      "rank": 110
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\butterfly_orchid_s_001670.png",
+      "mean_similarity": 0.934325635433197,
+      "rank": 111
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\orchid_s_000029.png",
+      "mean_similarity": 0.9343038201332092,
+      "rank": 112
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\orchid_s_001670.png",
+      "mean_similarity": 0.9342185854911804,
+      "rank": 113
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\orchidaceous_plant_s_000044.png",
+      "mean_similarity": 0.9341846704483032,
+      "rank": 114
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\orchid_s_000682.png",
+      "mean_similarity": 0.9341751337051392,
+      "rank": 115
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\orchid_s_000941.png",
+      "mean_similarity": 0.9341646432876587,
+      "rank": 116
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\orchid_s_001836.png",
+      "mean_similarity": 0.9340888857841492,
+      "rank": 117
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\butterfly_orchid_s_000800.png",
+      "mean_similarity": 0.9340569972991943,
+      "rank": 118
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\orchid_s_000016.png",
+      "mean_similarity": 0.9339702725410461,
+      "rank": 119
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\orchid_s_001058.png",
+      "mean_similarity": 0.9338014125823975,
+      "rank": 120
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\orchid_s_000507.png",
+      "mean_similarity": 0.9337784051895142,
+      "rank": 121
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\orchid_s_000342.png",
+      "mean_similarity": 0.9337425231933594,
+      "rank": 122
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\butterfly_orchid_s_001282.png",
+      "mean_similarity": 0.9337153434753418,
+      "rank": 123
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\butterfly_orchid_s_000004.png",
+      "mean_similarity": 0.9336941838264465,
+      "rank": 124
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\orchid_s_000263.png",
+      "mean_similarity": 0.9336435198783875,
+      "rank": 125
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\butterfly_orchid_s_001356.png",
+      "mean_similarity": 0.93364018201828,
+      "rank": 126
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\orchid_s_000472.png",
+      "mean_similarity": 0.9336163401603699,
+      "rank": 127
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\orchid_s_000663.png",
+      "mean_similarity": 0.933584451675415,
+      "rank": 128
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\butterfly_orchid_s_000359.png",
+      "mean_similarity": 0.9335620999336243,
+      "rank": 129
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\orchid_s_001727.png",
+      "mean_similarity": 0.9334842562675476,
+      "rank": 130
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\orchid_s_001750.png",
+      "mean_similarity": 0.9334178566932678,
+      "rank": 131
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\orchid_s_000867.png",
+      "mean_similarity": 0.9333842992782593,
+      "rank": 132
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\orchid_s_001611.png",
+      "mean_similarity": 0.9333772659301758,
+      "rank": 133
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\butterfly_orchid_s_001867.png",
+      "mean_similarity": 0.9333720207214355,
+      "rank": 134
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\orchis_s_000175.png",
+      "mean_similarity": 0.9333542585372925,
+      "rank": 135
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\butterfly_orchid_s_001950.png",
+      "mean_similarity": 0.9333397150039673,
+      "rank": 136
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\orchis_s_000088.png",
+      "mean_similarity": 0.9333222508430481,
+      "rank": 137
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\butterfly_orchid_s_000199.png",
+      "mean_similarity": 0.9333081841468811,
+      "rank": 138
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\orchid_s_000883.png",
+      "mean_similarity": 0.9332848191261292,
+      "rank": 139
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\orchid_s_000231.png",
+      "mean_similarity": 0.9331207275390625,
+      "rank": 140
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\butterfly_orchid_s_001431.png",
+      "mean_similarity": 0.9330982565879822,
+      "rank": 141
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\butterfly_orchid_s_000684.png",
+      "mean_similarity": 0.9330432415008545,
+      "rank": 142
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\butterfly_orchid_s_001388.png",
+      "mean_similarity": 0.9329806566238403,
+      "rank": 143
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\orchid_s_000017.png",
+      "mean_similarity": 0.9329501986503601,
+      "rank": 144
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\orchid_s_001494.png",
+      "mean_similarity": 0.932839572429657,
+      "rank": 145
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\butterfly_orchid_s_000151.png",
+      "mean_similarity": 0.9327823519706726,
+      "rank": 146
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\orchid_s_001041.png",
+      "mean_similarity": 0.9327415227890015,
+      "rank": 147
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\butterfly_orchid_s_000950.png",
+      "mean_similarity": 0.9327154159545898,
+      "rank": 148
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\orchid_s_001271.png",
+      "mean_similarity": 0.9327122569084167,
+      "rank": 149
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\orchid_s_001032.png",
+      "mean_similarity": 0.9327054023742676,
+      "rank": 150
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\orchid_s_001634.png",
+      "mean_similarity": 0.9326938986778259,
+      "rank": 151
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\orchid_s_000858.png",
+      "mean_similarity": 0.9326607584953308,
+      "rank": 152
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\orchis_s_000086.png",
+      "mean_similarity": 0.9326350688934326,
+      "rank": 153
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\butterfly_orchid_s_000878.png",
+      "mean_similarity": 0.9326121211051941,
+      "rank": 154
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\butterfly_orchid_s_001367.png",
+      "mean_similarity": 0.9325914978981018,
+      "rank": 155
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\orchid_s_001119.png",
+      "mean_similarity": 0.9325844049453735,
+      "rank": 156
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\orchid_s_001449.png",
+      "mean_similarity": 0.9325569868087769,
+      "rank": 157
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\orchid_s_000978.png",
+      "mean_similarity": 0.9325501918792725,
+      "rank": 158
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\butterfly_orchid_s_001031.png",
+      "mean_similarity": 0.9324876070022583,
+      "rank": 159
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\orchid_s_001241.png",
+      "mean_similarity": 0.9324339032173157,
+      "rank": 160
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\orchid_s_000839.png",
+      "mean_similarity": 0.9324016571044922,
+      "rank": 161
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\butterfly_orchid_s_000555.png",
+      "mean_similarity": 0.9323973059654236,
+      "rank": 162
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\orchid_s_000130.png",
+      "mean_similarity": 0.9323934316635132,
+      "rank": 163
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\butterfly_orchid_s_000509.png",
+      "mean_similarity": 0.9323928356170654,
+      "rank": 164
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\butterfly_orchid_s_001037.png",
+      "mean_similarity": 0.9323597550392151,
+      "rank": 165
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\butterfly_orchid_s_001933.png",
+      "mean_similarity": 0.9323561787605286,
+      "rank": 166
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\orchid_s_001812.png",
+      "mean_similarity": 0.9323338866233826,
+      "rank": 167
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\orchid_s_001182.png",
+      "mean_similarity": 0.9323191046714783,
+      "rank": 168
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\butterfly_orchid_s_000474.png",
+      "mean_similarity": 0.9322973489761353,
+      "rank": 169
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\orchid_s_001116.png",
+      "mean_similarity": 0.9322050213813782,
+      "rank": 170
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\butterfly_orchid_s_001335.png",
+      "mean_similarity": 0.9321456551551819,
+      "rank": 171
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\orchid_s_001657.png",
+      "mean_similarity": 0.9320982098579407,
+      "rank": 172
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\orchid_s_001340.png",
+      "mean_similarity": 0.9319634437561035,
+      "rank": 173
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\orchid_s_000473.png",
+      "mean_similarity": 0.9318851232528687,
+      "rank": 174
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\orchid_s_000122.png",
+      "mean_similarity": 0.9318711161613464,
+      "rank": 175
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\butterfly_orchid_s_001189.png",
+      "mean_similarity": 0.931755006313324,
+      "rank": 176
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\butterfly_orchid_s_000402.png",
+      "mean_similarity": 0.9316086173057556,
+      "rank": 177
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\orchid_s_001026.png",
+      "mean_similarity": 0.9316014647483826,
+      "rank": 178
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\orchid_s_000256.png",
+      "mean_similarity": 0.9315935373306274,
+      "rank": 179
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\orchid_s_000032.png",
+      "mean_similarity": 0.9315728545188904,
+      "rank": 180
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\orchid_s_000448.png",
+      "mean_similarity": 0.9315135478973389,
+      "rank": 181
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\orchid_s_000596.png",
+      "mean_similarity": 0.9314716458320618,
+      "rank": 182
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\orchid_s_000127.png",
+      "mean_similarity": 0.931471586227417,
+      "rank": 183
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\orchid_s_000045.png",
+      "mean_similarity": 0.9314321279525757,
+      "rank": 184
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\butterfly_orchid_s_001210.png",
+      "mean_similarity": 0.9313797354698181,
+      "rank": 185
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\orchid_s_001536.png",
+      "mean_similarity": 0.9313599467277527,
+      "rank": 186
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\butterfly_orchid_s_000403.png",
+      "mean_similarity": 0.9313458800315857,
+      "rank": 187
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\orchid_s_001675.png",
+      "mean_similarity": 0.9313227534294128,
+      "rank": 188
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\orchid_s_001501.png",
+      "mean_similarity": 0.9312723278999329,
+      "rank": 189
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\butterfly_orchid_s_000365.png",
+      "mean_similarity": 0.9312683343887329,
+      "rank": 190
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\butterfly_orchid_s_000947.png",
+      "mean_similarity": 0.9312512278556824,
+      "rank": 191
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\orchid_s_001933.png",
+      "mean_similarity": 0.9312233924865723,
+      "rank": 192
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\orchid_s_000319.png",
+      "mean_similarity": 0.9311165809631348,
+      "rank": 193
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\orchid_s_001416.png",
+      "mean_similarity": 0.9309424757957458,
+      "rank": 194
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\orchid_s_001754.png",
+      "mean_similarity": 0.9309353828430176,
+      "rank": 195
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\butterfly_orchid_s_001568.png",
+      "mean_similarity": 0.9308481812477112,
+      "rank": 196
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\butterfly_orchid_s_000234.png",
+      "mean_similarity": 0.930787980556488,
+      "rank": 197
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\butterfly_orchid_s_001443.png",
+      "mean_similarity": 0.9307111501693726,
+      "rank": 198
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\orchid_s_001687.png",
+      "mean_similarity": 0.930698812007904,
+      "rank": 199
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\butterfly_orchid_s_000634.png",
+      "mean_similarity": 0.9306774139404297,
+      "rank": 200
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\orchid_s_001818.png",
+      "mean_similarity": 0.9306413531303406,
+      "rank": 201
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\orchid_s_000004.png",
+      "mean_similarity": 0.9306303262710571,
+      "rank": 202
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\butterfly_orchid_s_000239.png",
+      "mean_similarity": 0.9306058883666992,
+      "rank": 203
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\orchid_s_001809.png",
+      "mean_similarity": 0.9305861592292786,
+      "rank": 204
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\orchid_s_000569.png",
+      "mean_similarity": 0.9305818676948547,
+      "rank": 205
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\orchid_s_000028.png",
+      "mean_similarity": 0.930565357208252,
+      "rank": 206
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\orchid_s_000023.png",
+      "mean_similarity": 0.930534839630127,
+      "rank": 207
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\orchid_s_001169.png",
+      "mean_similarity": 0.930526077747345,
+      "rank": 208
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\orchid_s_001974.png",
+      "mean_similarity": 0.9304935932159424,
+      "rank": 209
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\orchid_s_000168.png",
+      "mean_similarity": 0.9304763078689575,
+      "rank": 210
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\orchid_s_001025.png",
+      "mean_similarity": 0.9304271340370178,
+      "rank": 211
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\orchid_s_000046.png",
+      "mean_similarity": 0.9303975701332092,
+      "rank": 212
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\butterfly_orchid_s_001442.png",
+      "mean_similarity": 0.9301022291183472,
+      "rank": 213
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\orchid_s_000543.png",
+      "mean_similarity": 0.9300808906555176,
+      "rank": 214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\orchid_s_000333.png",
+      "mean_similarity": 0.9300244450569153,
+      "rank": 215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\orchid_s_000412.png",
+      "mean_similarity": 0.9300212264060974,
+      "rank": 216
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\orchid_s_000010.png",
+      "mean_similarity": 0.9299980401992798,
+      "rank": 217
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\orchid_s_000639.png",
+      "mean_similarity": 0.9299451112747192,
+      "rank": 218
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\orchid_s_000844.png",
+      "mean_similarity": 0.9298423528671265,
+      "rank": 219
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\butterfly_orchid_s_000549.png",
+      "mean_similarity": 0.9295673966407776,
+      "rank": 220
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\orchid_s_001959.png",
+      "mean_similarity": 0.929556131362915,
+      "rank": 221
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\butterfly_orchid_s_000612.png",
+      "mean_similarity": 0.9295498728752136,
+      "rank": 222
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\orchid_s_000574.png",
+      "mean_similarity": 0.9295250773429871,
+      "rank": 223
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\butterfly_orchid_s_001366.png",
+      "mean_similarity": 0.9295130968093872,
+      "rank": 224
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\butterfly_orchid_s_001231.png",
+      "mean_similarity": 0.9294837117195129,
+      "rank": 225
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\orchid_s_000314.png",
+      "mean_similarity": 0.9294829964637756,
+      "rank": 226
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\orchid_s_001831.png",
+      "mean_similarity": 0.929479718208313,
+      "rank": 227
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\butterfly_orchid_s_000593.png",
+      "mean_similarity": 0.9294739365577698,
+      "rank": 228
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\orchid_s_000024.png",
+      "mean_similarity": 0.9294492602348328,
+      "rank": 229
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\orchid_s_001824.png",
+      "mean_similarity": 0.9294185638427734,
+      "rank": 230
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\butterfly_orchid_s_001205.png",
+      "mean_similarity": 0.9293968677520752,
+      "rank": 231
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\orchid_s_001743.png",
+      "mean_similarity": 0.9293275475502014,
+      "rank": 232
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\orchid_s_000374.png",
+      "mean_similarity": 0.929304301738739,
+      "rank": 233
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\butterfly_orchid_s_001389.png",
+      "mean_similarity": 0.9292727708816528,
+      "rank": 234
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\orchid_s_000784.png",
+      "mean_similarity": 0.9292550683021545,
+      "rank": 235
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\orchid_s_001650.png",
+      "mean_similarity": 0.9292154908180237,
+      "rank": 236
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\butterfly_orchid_s_001191.png",
+      "mean_similarity": 0.9292106628417969,
+      "rank": 237
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\butterfly_orchid_s_000874.png",
+      "mean_similarity": 0.929158627986908,
+      "rank": 238
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\orchid_s_001339.png",
+      "mean_similarity": 0.9290983080863953,
+      "rank": 239
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\orchid_s_000886.png",
+      "mean_similarity": 0.9289623498916626,
+      "rank": 240
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\orchid_s_001127.png",
+      "mean_similarity": 0.9289454817771912,
+      "rank": 241
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\orchid_s_001606.png",
+      "mean_similarity": 0.9288815855979919,
+      "rank": 242
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\butterfly_orchid_s_000967.png",
+      "mean_similarity": 0.9287354350090027,
+      "rank": 243
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\butterfly_orchid_s_001677.png",
+      "mean_similarity": 0.9287021160125732,
+      "rank": 244
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\butterfly_orchid_s_001678.png",
+      "mean_similarity": 0.9285905957221985,
+      "rank": 245
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\orchid_s_000380.png",
+      "mean_similarity": 0.9285875558853149,
+      "rank": 246
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\orchid_s_001379.png",
+      "mean_similarity": 0.9285829067230225,
+      "rank": 247
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\butterfly_orchid_s_000208.png",
+      "mean_similarity": 0.9285220503807068,
+      "rank": 248
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\butterfly_orchid_s_000201.png",
+      "mean_similarity": 0.9285195469856262,
+      "rank": 249
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\055.orchid\\butterfly_orchid_s_000066.png",
+      "mean_similarity": 0.9285136461257935,
+      "rank": 250
+    }
+  ]
+}

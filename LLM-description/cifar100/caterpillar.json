@@ -1,0 +1,24 @@
+{
+  "class_name": "caterpillar",
+  "global_description": "Elongated, segmented body with vibrant colors, often green or brown, covered in fine hairs or spines. Multiple pairs of short, stubby legs along the underside, small head with simple eyes and tiny antennae, soft and flexible texture.",
+  "discriminative_attributes": [
+    "Elongated segmented body",
+    "Vibrant green or brown",
+    "Fine hairs or spines",
+    "Multiple short legs",
+    "Small head with antennae"
+  ],
+  "part_details": {
+    "head": "Small with simple eyes and tiny antennae",
+    "body": "Elongated, segmented, often vibrant with fine hairs or spines",
+    "legs": "Multiple pairs of short, stubby legs along underside",
+    "texture": "Soft and flexible"
+  },
+  "spatial_relations": [
+    "Head at front of body",
+    "Legs along underside of body",
+    "Antennae on head"
+  ],
+  "original_dataset_key": "cifar100",
+  "original_class_key": "caterpillar"
+}

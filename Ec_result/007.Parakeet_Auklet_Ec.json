@@ -1,0 +1,159 @@
+{
+  "class_name": "007.Parakeet_Auklet",
+  "class_idx": 6,
+  "num_images_in_class": 30,
+  "ec_size_requested": 30,
+  "ec_size_actual": 30,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\007.Parakeet_Auklet\\Parakeet_Auklet_0001_795972.jpg",
+      "mean_similarity": 0.9463327527046204,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\007.Parakeet_Auklet\\Parakeet_Auklet_0012_795927.jpg",
+      "mean_similarity": 0.9461394548416138,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\007.Parakeet_Auklet\\Parakeet_Auklet_0027_795925.jpg",
+      "mean_similarity": 0.9460785984992981,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\007.Parakeet_Auklet\\Parakeet_Auklet_0078_2004.jpg",
+      "mean_similarity": 0.9456844925880432,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\007.Parakeet_Auklet\\Parakeet_Auklet_0025_795975.jpg",
+      "mean_similarity": 0.9454490542411804,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\007.Parakeet_Auklet\\Parakeet_Auklet_0035_795934.jpg",
+      "mean_similarity": 0.9453251957893372,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\007.Parakeet_Auklet\\Parakeet_Auklet_0045_795953.jpg",
+      "mean_similarity": 0.9449926614761353,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\007.Parakeet_Auklet\\Parakeet_Auklet_0043_795948.jpg",
+      "mean_similarity": 0.9445449709892273,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\007.Parakeet_Auklet\\Parakeet_Auklet_0007_795932.jpg",
+      "mean_similarity": 0.9441474080085754,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\007.Parakeet_Auklet\\Parakeet_Auklet_0048_795980.jpg",
+      "mean_similarity": 0.9440877437591553,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\007.Parakeet_Auklet\\Parakeet_Auklet_0047_795956.jpg",
+      "mean_similarity": 0.9436228275299072,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\007.Parakeet_Auklet\\Parakeet_Auklet_0080_795965.jpg",
+      "mean_similarity": 0.943571150302887,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\007.Parakeet_Auklet\\Parakeet_Auklet_0032_795986.jpg",
+      "mean_similarity": 0.9431138038635254,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\007.Parakeet_Auklet\\Parakeet_Auklet_0059_795973.jpg",
+      "mean_similarity": 0.9428414702415466,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\007.Parakeet_Auklet\\Parakeet_Auklet_0036_795943.jpg",
+      "mean_similarity": 0.9428098201751709,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\007.Parakeet_Auklet\\Parakeet_Auklet_0004_795921.jpg",
+      "mean_similarity": 0.9423785209655762,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\007.Parakeet_Auklet\\Parakeet_Auklet_0028_795944.jpg",
+      "mean_similarity": 0.9423236846923828,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\007.Parakeet_Auklet\\Parakeet_Auklet_0062_795958.jpg",
+      "mean_similarity": 0.9421411156654358,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\007.Parakeet_Auklet\\Parakeet_Auklet_0041_795933.jpg",
+      "mean_similarity": 0.9417628049850464,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\007.Parakeet_Auklet\\Parakeet_Auklet_0069_795936.jpg",
+      "mean_similarity": 0.9414997696876526,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\007.Parakeet_Auklet\\Parakeet_Auklet_0038_795935.jpg",
+      "mean_similarity": 0.9412511587142944,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\007.Parakeet_Auklet\\Parakeet_Auklet_0065_795969.jpg",
+      "mean_similarity": 0.9406905174255371,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\007.Parakeet_Auklet\\Parakeet_Auklet_0074_795976.jpg",
+      "mean_similarity": 0.9406179189682007,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\007.Parakeet_Auklet\\Parakeet_Auklet_0076_796001.jpg",
+      "mean_similarity": 0.9405913352966309,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\007.Parakeet_Auklet\\Parakeet_Auklet_0003_795982.jpg",
+      "mean_similarity": 0.9401156902313232,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\007.Parakeet_Auklet\\Parakeet_Auklet_0019_795987.jpg",
+      "mean_similarity": 0.9383260011672974,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\007.Parakeet_Auklet\\Parakeet_Auklet_0073_795939.jpg",
+      "mean_similarity": 0.9366248250007629,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\007.Parakeet_Auklet\\Parakeet_Auklet_0056_795926.jpg",
+      "mean_similarity": 0.9357215762138367,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\007.Parakeet_Auklet\\Parakeet_Auklet_0024_2045.jpg",
+      "mean_similarity": 0.9345489740371704,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\007.Parakeet_Auklet\\Parakeet_Auklet_0042_795961.jpg",
+      "mean_similarity": 0.9344465136528015,
+      "rank": 30
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "class_name": "Whip Poor Will",
+  "global_description": "A medium-sized nocturnal bird with a mottled brown, gray, and black plumage, providing excellent camouflage. It has a rounded body, short neck, and a large, flat head. The wings are long and pointed, and the tail is slightly rounded with white tips.",
+  "discriminative_attributes": [
+    "Mottled brown, gray, black plumage",
+    "Large flat head",
+    "Long pointed wings",
+    "Short neck",
+    "Rounded tail with white tips"
+  ],
+  "part_details": {
+    "head": "Large, flat, with a wide mouth and small, dark eyes, covered in mottled feathers.",
+    "wings": "Long, pointed, with a mix of brown, gray, and black feathers.",
+    "tail": "Slightly rounded with distinctive white tips on the outer feathers.",
+    "body": "Rounded, compact, with a mottled pattern for camouflage.",
+    "plumage": "Mottled brown, gray, and black, providing excellent camouflage against forest floors."
+  },
+  "spatial_relations": [
+    "The large flat head is positioned at the front of the rounded body.",
+    "The long pointed wings extend from the sides of the body.",
+    "The slightly rounded tail with white tips is at the rear of the body."
+  ],
+  "original_dataset_key": "CUB200",
+  "original_class_key": "whip_poor_will"
+}

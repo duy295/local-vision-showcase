@@ -1,0 +1,26 @@
+{
+  "class_name": "camel",
+  "global_description": "Large mammal with a long neck, humped back, and sandy brown fur. It has long legs, a small head with a split upper lip, and large, padded feet adapted for desert terrain.",
+  "discriminative_attributes": [
+    "Humped back",
+    "Long neck",
+    "Sandy brown fur",
+    "Split upper lip",
+    "Large padded feet"
+  ],
+  "part_details": {
+    "head": "Small with a split upper lip and large eyes",
+    "neck": "Long and slender, connecting head to body",
+    "hump": "Large, rounded, located on the back",
+    "legs": "Long and sturdy, adapted for walking on sand",
+    "feet": "Large and padded, preventing sinking in sand"
+  },
+  "spatial_relations": [
+    "Neck connects head to body",
+    "Hump positioned on back",
+    "Legs extend from body",
+    "Feet at end of legs"
+  ],
+  "original_dataset_key": "ImageNetR",
+  "original_class_key": "camel"
+}

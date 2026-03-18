@@ -1,0 +1,24 @@
+{
+  "class_name": "Myrtle Warbler",
+  "global_description": "A small, agile songbird with a streamlined body and pointed wings. It features a mix of gray, white, and yellow plumage, with a distinctive yellow rump and throat patch. The bird has a slender, pointed beak and a short tail with white edges.",
+  "discriminative_attributes": [
+    "Gray and white plumage",
+    "Distinctive yellow rump",
+    "Yellow throat patch",
+    "Pointed wings",
+    "Short tail with white edges"
+  ],
+  "part_details": {
+    "plumage": "Gray and white with a smooth texture, featuring a bright yellow rump and throat.",
+    "beak": "Slender, pointed, and dark in color.",
+    "wings": "Pointed and streamlined, aiding in agile flight.",
+    "tail": "Short with white edges, providing balance during flight."
+  },
+  "spatial_relations": [
+    "The yellow throat patch is located below the beak.",
+    "The yellow rump is positioned at the base of the tail.",
+    "The pointed wings extend from the sides of the body."
+  ],
+  "original_dataset_key": "CUB200",
+  "original_class_key": "myrtle_warbler"
+}

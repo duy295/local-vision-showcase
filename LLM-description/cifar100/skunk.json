@@ -1,0 +1,26 @@
+{
+  "class_name": "skunk",
+  "global_description": "Small mammal with elongated body, black fur with distinctive white stripes running from head to tail, bushy tail, small head with pointed snout, short legs, known for its strong odor.",
+  "discriminative_attributes": [
+    "Black fur with white stripes",
+    "Bushy tail",
+    "Pointed snout",
+    "Short legs",
+    "Strong odor"
+  ],
+  "part_details": {
+    "head": "Small with pointed snout and black fur",
+    "body": "Elongated with black fur and white stripes",
+    "tail": "Bushy, black with white tip",
+    "legs": "Short and sturdy",
+    "fur": "Black with distinctive white stripes"
+  },
+  "spatial_relations": [
+    "White stripes run from head to tail",
+    "Tail extends from rear",
+    "Legs beneath body",
+    "Head at front"
+  ],
+  "original_dataset_key": "cifar100",
+  "original_class_key": "skunk"
+}

@@ -1,0 +1,26 @@
+{
+  "class_name": "windmill",
+  "global_description": "Tall structure with a cylindrical tower, usually white or light gray, topped with a rotating set of blades. The blades are long, slender, and often metallic, designed to capture wind energy. The nacelle, housing the generator, is positioned at the top of the tower.",
+  "discriminative_attributes": [
+    "Cylindrical tower",
+    "Rotating blades",
+    "Nacelle at top",
+    "White or light gray color",
+    "Tall structure"
+  ],
+  "part_details": {
+    "tower": "Tall, cylindrical, often white or light gray",
+    "blades": "Long, slender, metallic, rotating",
+    "nacelle": "Compact housing at top of tower",
+    "base": "Sturdy, supporting the tower",
+    "hub": "Central point connecting blades"
+  },
+  "spatial_relations": [
+    "Blades extend from hub",
+    "Nacelle positioned at top of tower",
+    "Tower rises from base",
+    "Hub connects blades to nacelle"
+  ],
+  "original_dataset_key": "ImageNetR",
+  "original_class_key": "windmill"
+}

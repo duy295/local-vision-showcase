@@ -1,0 +1,26 @@
+{
+  "class_name": "cat",
+  "global_description": "Medium-sized mammal with a sleek, flexible body, covered in soft fur. Typically features a variety of colors and patterns, such as solid, tabby, or calico. The head is rounded with prominent whiskers, pointed ears, and sharp eyes. The tail is long and expressive, aiding in balance.",
+  "discriminative_attributes": [
+    "Sleek, flexible body",
+    "Soft fur in various colors",
+    "Prominent whiskers",
+    "Pointed ears",
+    "Long, expressive tail"
+  ],
+  "part_details": {
+    "head": "Rounded with sharp eyes, pointed ears, and prominent whiskers",
+    "body": "Sleek and flexible, covered in soft fur",
+    "tail": "Long and expressive, aiding in balance",
+    "fur": "Soft, with various colors and patterns",
+    "paws": "Small with retractable claws"
+  },
+  "spatial_relations": [
+    "Head at front, tail at rear",
+    "Ears on top of head",
+    "Whiskers extending from sides of face",
+    "Paws beneath body"
+  ],
+  "original_dataset_key": "ImageNetR",
+  "original_class_key": "cat"
+}

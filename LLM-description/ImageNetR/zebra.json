@@ -1,0 +1,26 @@
+{
+  "class_name": "zebra",
+  "global_description": "A medium-sized mammal with a horse-like body, covered in distinctive black and white stripes. The fur is short and smooth, with a mane running along the neck. The legs are long and slender, ending in hooves. The tail is long with a tuft of hair at the end.",
+  "discriminative_attributes": [
+    "Black and white stripes",
+    "Horse-like body",
+    "Short, smooth fur",
+    "Long, slender legs",
+    "Mane along neck"
+  ],
+  "part_details": {
+    "head": "Elongated with black and white stripes, large eyes, and rounded ears.",
+    "body": "Horse-like, covered in black and white stripes, smooth fur.",
+    "legs": "Long, slender, striped, ending in hooves.",
+    "mane": "Short, upright, black and white, runs along neck.",
+    "tail": "Long with tuft of hair at end, striped."
+  },
+  "spatial_relations": [
+    "Mane runs along top of neck",
+    "Tail extends from rear",
+    "Legs positioned beneath body",
+    "Head at front of body"
+  ],
+  "original_dataset_key": "ImageNetR",
+  "original_class_key": "zebra"
+}

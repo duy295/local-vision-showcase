@@ -1,0 +1,26 @@
+{
+  "class_name": "Bird",
+  "global_description": "A small, compact songbird with a rounded body and short tail. It features a distinctive blue-gray head, white underparts, and olive-green back. The wings and tail are dark with two white wing bars, and the eyes are surrounded by a white ring.",
+  "discriminative_attributes": [
+    "Blue-gray head",
+    "White eye ring",
+    "Olive-green back",
+    "White underparts",
+    "Dark wings with white bars"
+  ],
+  "part_details": {
+    "head": "Blue-gray, rounded with a prominent white eye ring.",
+    "back": "Olive-green, smooth and slightly glossy.",
+    "wings": "Dark with two distinct white bars, medium length.",
+    "tail": "Short, dark, matching the wings in color.",
+    "underparts": "White, clean and smooth."
+  },
+  "spatial_relations": [
+    "The blue-gray head is positioned above the white underparts.",
+    "The olive-green back extends from the head to the tail.",
+    "The wings are attached to the sides of the body, featuring white bars.",
+    "The white eye ring encircles the eyes on the blue-gray head."
+  ],
+  "original_dataset_key": "CUB200",
+  "original_class_key": "blue_headed_vireo"
+}

@@ -1,0 +1,25 @@
+{
+  "class_name": "Bird",
+  "global_description": "A small, slender bird with a streamlined body and pointed wings. Predominantly black plumage with a glossy sheen, contrasting with a lighter underbelly. The bird has a forked tail and a sharp, pointed beak.",
+  "discriminative_attributes": [
+    "Glossy black plumage",
+    "Forked tail",
+    "Pointed wings",
+    "Sharp beak",
+    "Lighter underbelly"
+  ],
+  "part_details": {
+    "plumage": "Glossy black feathers covering most of the body",
+    "tail": "Forked, black with a slight sheen",
+    "wings": "Pointed, black with a streamlined shape",
+    "beak": "Sharp, pointed, black",
+    "underbelly": "Lighter in color, contrasting with the black upper parts"
+  },
+  "spatial_relations": [
+    "The pointed wings extend from the sides of the streamlined body",
+    "The forked tail is positioned at the rear of the body",
+    "The sharp beak protrudes from the front of the head"
+  ],
+  "original_dataset_key": "CUB200",
+  "original_class_key": "black_tern"
+}

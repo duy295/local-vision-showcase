@@ -1,0 +1,446 @@
+{
+  "class_name": "Cactus Wren",
+  "class_idx": 194,
+  "class_folder": "194.Cactus_Wren",
+  "num_images_in_class": 10,
+  "ec_size_requested": 30,
+  "ec_size_actual": 40,
+  "num_fewshot": 10,
+  "num_synthesized": 30,
+  "fewshot_emphasis_weight": 3.0,
+  "hybrid_lambda": 0.6,
+  "related_base_classes": [
+    {
+      "class_key": "blue_grosbeak",
+      "relevance_score": 1.8799
+    },
+    {
+      "class_key": "brown_creeper",
+      "relevance_score": 1.654
+    },
+    {
+      "class_key": "pomarine_jaeger",
+      "relevance_score": 1.4564
+    },
+    {
+      "class_key": "western_meadowlark",
+      "relevance_score": 1.3103
+    },
+    {
+      "class_key": "red_breasted_merganser",
+      "relevance_score": 1.2997
+    },
+    {
+      "class_key": "ringed_kingfisher",
+      "relevance_score": 1.1796
+    },
+    {
+      "class_key": "european_goldfinch",
+      "relevance_score": 1.1551
+    },
+    {
+      "class_key": "chuck_will_widow",
+      "relevance_score": 0.7696
+    }
+  ],
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\Incremental class - Copy\\194.Cactus_Wren\\Cactus_Wren_0086_185630.jpg",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 1,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\Incremental class - Copy\\194.Cactus_Wren\\Cactus_Wren_0020_186012.jpg",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 2,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\Incremental class - Copy\\194.Cactus_Wren\\Cactus_Wren_0001_185645.jpg",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 3,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\Incremental class - Copy\\194.Cactus_Wren\\Cactus_Wren_0098_185637.jpg",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 4,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\Incremental class - Copy\\194.Cactus_Wren\\Cactus_Wren_0034_185817.jpg",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 5,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\Incremental class - Copy\\194.Cactus_Wren\\Cactus_Wren_0033_186014.jpg",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 6,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\Incremental class - Copy\\194.Cactus_Wren\\Cactus_Wren_0103_185506.jpg",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 7,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\Incremental class - Copy\\194.Cactus_Wren\\Cactus_Wren_0025_185696.jpg",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 8,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\Incremental class - Copy\\194.Cactus_Wren\\Cactus_Wren_0123_186068.jpg",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 9,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\Incremental class - Copy\\194.Cactus_Wren\\Cactus_Wren_0075_186066.jpg",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 10,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\022.Chuck_will_Widow\\Chuck_Will_Widow_0046_796966.jpg",
+      "mean_similarity": 0.9792155,
+      "rank": 11,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979216
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\022.Chuck_will_Widow\\Chuck_Will_Widow_0006_796986.jpg",
+      "mean_similarity": 0.9792154000000001,
+      "rank": 12,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\028.Brown_Creeper\\Brown_Creeper_0100_24502.jpg",
+      "mean_similarity": 0.9792152000000001,
+      "rank": 13,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\028.Brown_Creeper\\Brown_Creeper_0074_24789.jpg",
+      "mean_similarity": 0.9792152000000001,
+      "rank": 14,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\022.Chuck_will_Widow\\Chuck_Will_Widow_0053_796953.jpg",
+      "mean_similarity": 0.9792151000000001,
+      "rank": 15,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\028.Brown_Creeper\\Brown_Creeper_0115_24488.jpg",
+      "mean_similarity": 0.979215,
+      "rank": 16,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\028.Brown_Creeper\\Brown_Creeper_0121_24574.jpg",
+      "mean_similarity": 0.979215,
+      "rank": 17,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\022.Chuck_will_Widow\\Chuck_Will_Widow_0055_796973.jpg",
+      "mean_similarity": 0.979215,
+      "rank": 18,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\022.Chuck_will_Widow\\Chuck_Will_Widow_0005_796998.jpg",
+      "mean_similarity": 0.979215,
+      "rank": 19,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\022.Chuck_will_Widow\\Chuck_Will_Widow_0059_796982.jpg",
+      "mean_similarity": 0.9792149000000001,
+      "rank": 20,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\028.Brown_Creeper\\Brown_Creeper_0120_24955.jpg",
+      "mean_similarity": 0.9792147999999999,
+      "rank": 21,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\028.Brown_Creeper\\Brown_Creeper_0061_24601.jpg",
+      "mean_similarity": 0.9792147999999999,
+      "rank": 22,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\028.Brown_Creeper\\Brown_Creeper_0064_24840.jpg",
+      "mean_similarity": 0.9792147999999999,
+      "rank": 23,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\028.Brown_Creeper\\Brown_Creeper_0042_24578.jpg",
+      "mean_similarity": 0.9792147,
+      "rank": 24,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\028.Brown_Creeper\\Brown_Creeper_0049_24911.jpg",
+      "mean_similarity": 0.9792146000000002,
+      "rank": 25,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\088.Western_Meadowlark\\Western_Meadowlark_0097_78239.jpg",
+      "mean_similarity": 0.9792145,
+      "rank": 26,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\028.Brown_Creeper\\Brown_Creeper_0113_24560.jpg",
+      "mean_similarity": 0.9792144,
+      "rank": 27,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\028.Brown_Creeper\\Brown_Creeper_0083_24967.jpg",
+      "mean_similarity": 0.9792143,
+      "rank": 28,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\088.Western_Meadowlark\\Western_Meadowlark_0053_77774.jpg",
+      "mean_similarity": 0.9792141000000001,
+      "rank": 29,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\088.Western_Meadowlark\\Western_Meadowlark_0118_78820.jpg",
+      "mean_similarity": 0.979214,
+      "rank": 30,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\054.Blue_Grosbeak\\Blue_Grosbeak_0045_36672.jpg",
+      "mean_similarity": 0.9792139000000001,
+      "rank": 31,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\054.Blue_Grosbeak\\Blue_Grosbeak_0036_37048.jpg",
+      "mean_similarity": 0.9792138,
+      "rank": 32,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\088.Western_Meadowlark\\Western_Meadowlark_0085_77745.jpg",
+      "mean_similarity": 0.9792137000000001,
+      "rank": 33,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\088.Western_Meadowlark\\Western_Meadowlark_0104_78105.jpg",
+      "mean_similarity": 0.9792137000000001,
+      "rank": 34,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\054.Blue_Grosbeak\\Blue_Grosbeak_0099_36828.jpg",
+      "mean_similarity": 0.9792136,
+      "rank": 35,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\088.Western_Meadowlark\\Western_Meadowlark_0024_78432.jpg",
+      "mean_similarity": 0.9792136,
+      "rank": 36,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\054.Blue_Grosbeak\\Blue_Grosbeak_0023_37069.jpg",
+      "mean_similarity": 0.9792135000000001,
+      "rank": 37,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\054.Blue_Grosbeak\\Blue_Grosbeak_0094_36995.jpg",
+      "mean_similarity": 0.9792135000000001,
+      "rank": 38,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\054.Blue_Grosbeak\\Blue_Grosbeak_0038_37095.jpg",
+      "mean_similarity": 0.9792135000000001,
+      "rank": 39,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\082.Ringed_Kingfisher\\Ringed_Kingfisher_0077_72872.jpg",
+      "mean_similarity": 0.9792135000000001,
+      "rank": 40,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979213
+    }
+  ],
+  "debug": {
+    "total_candidates": 126,
+    "after_voting": 126,
+    "after_dedup": 30,
+    "dedup_mode": "backbone",
+    "top_segments": [
+      {
+        "class": "022.Chuck_will_Widow",
+        "seg": 0,
+        "hybrid": 1.6722,
+        "magnitude": 9.7922,
+        "borda": 388.0
+      },
+      {
+        "class": "028.Brown_Creeper",
+        "seg": 2,
+        "hybrid": 1.5324,
+        "magnitude": 9.7922,
+        "borda": 364.0
+      },
+      {
+        "class": "022.Chuck_will_Widow",
+        "seg": 1,
+        "hybrid": 1.5324,
+        "magnitude": 9.7922,
+        "borda": 364.0
+      },
+      {
+        "class": "022.Chuck_will_Widow",
+        "seg": 3,
+        "hybrid": 1.5324,
+        "magnitude": 9.7922,
+        "borda": 364.0
+      },
+      {
+        "class": "028.Brown_Creeper",
+        "seg": 1,
+        "hybrid": 1.4755,
+        "magnitude": 9.7921,
+        "borda": 363.0
+      },
+      {
+        "class": "022.Chuck_will_Widow",
+        "seg": 4,
+        "hybrid": 1.4358,
+        "magnitude": 9.7921,
+        "borda": 352.0
+      },
+      {
+        "class": "022.Chuck_will_Widow",
+        "seg": 2,
+        "hybrid": 1.3428,
+        "magnitude": 9.7921,
+        "borda": 341.0
+      },
+      {
+        "class": "028.Brown_Creeper",
+        "seg": 3,
+        "hybrid": 1.2571,
+        "magnitude": 9.7921,
+        "borda": 332.0
+      },
+      {
+        "class": "028.Brown_Creeper",
+        "seg": 0,
+        "hybrid": 1.1605,
+        "magnitude": 9.7921,
+        "borda": 320.0
+      },
+      {
+        "class": "028.Brown_Creeper",
+        "seg": 4,
+        "hybrid": 0.944,
+        "magnitude": 9.7921,
+        "borda": 319.0
+      }
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "class_name": "Bird",
+  "global_description": "A medium-sized bird with a sleek, elongated body and a distinctive long, boat-shaped tail. Its plumage is predominantly glossy black with iridescent blue and purple hues. The bird has a sharp, pointed beak and long legs.",
+  "discriminative_attributes": [
+    "Glossy black plumage with iridescent blue and purple",
+    "Long, boat-shaped tail",
+    "Sharp, pointed beak",
+    "Long legs",
+    "Sleek, elongated body"
+  ],
+  "part_details": {
+    "plumage": "Glossy black with iridescent blue and purple sheen, smooth texture.",
+    "tail": "Long, boat-shaped, tapering to a point, glossy black.",
+    "beak": "Sharp, pointed, conical, black.",
+    "legs": "Long, slender, black.",
+    "body": "Sleek, elongated, streamlined shape."
+  },
+  "spatial_relations": [
+    "The long tail extends from the rear of the body.",
+    "The sharp beak is positioned at the front of the head.",
+    "The long legs are positioned beneath the body, supporting it."
+  ],
+  "original_dataset_key": "CUB200",
+  "original_class_key": "boat_tailed_grackle"
+}

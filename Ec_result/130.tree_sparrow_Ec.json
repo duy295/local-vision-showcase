@@ -1,0 +1,446 @@
+{
+  "class_name": "Tree Sparrow",
+  "class_idx": 130,
+  "class_folder": "130.Tree_Sparrow",
+  "num_images_in_class": 10,
+  "ec_size_requested": 30,
+  "ec_size_actual": 40,
+  "num_fewshot": 10,
+  "num_synthesized": 30,
+  "fewshot_emphasis_weight": 3.0,
+  "hybrid_lambda": 0.6,
+  "related_base_classes": [
+    {
+      "class_key": "gray_crowned_rosy_finch",
+      "relevance_score": 2.062
+    },
+    {
+      "class_key": "european_goldfinch",
+      "relevance_score": 1.8916
+    },
+    {
+      "class_key": "red_breasted_merganser",
+      "relevance_score": 1.5966
+    },
+    {
+      "class_key": "ringed_kingfisher",
+      "relevance_score": 1.5687
+    },
+    {
+      "class_key": "western_meadowlark",
+      "relevance_score": 1.4987
+    },
+    {
+      "class_key": "pine_grosbeak",
+      "relevance_score": 1.2728
+    },
+    {
+      "class_key": "brown_creeper",
+      "relevance_score": 1.231
+    },
+    {
+      "class_key": "yellow_billed_cuckoo",
+      "relevance_score": 1.1939
+    }
+  ],
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\Incremental class - Copy\\130.Tree_Sparrow\\Tree_Sparrow_0101_124104.jpg",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 1,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\Incremental class - Copy\\130.Tree_Sparrow\\Tree_Sparrow_0023_124956.jpg",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 2,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\Incremental class - Copy\\130.Tree_Sparrow\\Tree_Sparrow_0007_122911.jpg",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 3,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\Incremental class - Copy\\130.Tree_Sparrow\\Tree_Sparrow_0119_124114.jpg",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 4,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\Incremental class - Copy\\130.Tree_Sparrow\\Tree_Sparrow_0041_123497.jpg",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 5,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\Incremental class - Copy\\130.Tree_Sparrow\\Tree_Sparrow_0039_124140.jpg",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 6,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\Incremental class - Copy\\130.Tree_Sparrow\\Tree_Sparrow_0121_124296.jpg",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 7,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\Incremental class - Copy\\130.Tree_Sparrow\\Tree_Sparrow_0032_123489.jpg",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 8,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\Incremental class - Copy\\130.Tree_Sparrow\\Tree_Sparrow_0129_124960.jpg",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 9,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\Incremental class - Copy\\130.Tree_Sparrow\\Tree_Sparrow_0094_124974.jpg",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 10,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\034.Gray_crowned_Rosy_Finch\\Gray_Crowned_Rosy_Finch_0044_26976.jpg",
+      "mean_similarity": 0.979215,
+      "rank": 11,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\034.Gray_crowned_Rosy_Finch\\Gray_Crowned_Rosy_Finch_0038_797309.jpg",
+      "mean_similarity": 0.9792147999999999,
+      "rank": 12,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\034.Gray_crowned_Rosy_Finch\\Gray_Crowned_Rosy_Finch_0010_27039.jpg",
+      "mean_similarity": 0.9792147999999999,
+      "rank": 13,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\034.Gray_crowned_Rosy_Finch\\Gray_Crowned_Rosy_Finch_0046_797295.jpg",
+      "mean_similarity": 0.9792147999999999,
+      "rank": 14,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\034.Gray_crowned_Rosy_Finch\\Gray_Crowned_Rosy_Finch_0065_797301.jpg",
+      "mean_similarity": 0.9792147999999999,
+      "rank": 15,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\034.Gray_crowned_Rosy_Finch\\Gray_Crowned_Rosy_Finch_0021_797286.jpg",
+      "mean_similarity": 0.9792146000000002,
+      "rank": 16,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\034.Gray_crowned_Rosy_Finch\\Gray_Crowned_Rosy_Finch_0006_797284.jpg",
+      "mean_similarity": 0.9792146000000002,
+      "rank": 17,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\034.Gray_crowned_Rosy_Finch\\Gray_Crowned_Rosy_Finch_0074_27156.jpg",
+      "mean_similarity": 0.9792145,
+      "rank": 18,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\028.Brown_Creeper\\Brown_Creeper_0061_24601.jpg",
+      "mean_similarity": 0.9792144,
+      "rank": 19,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\056.Pine_Grosbeak\\Pine_Grosbeak_0102_38216.jpg",
+      "mean_similarity": 0.9792143,
+      "rank": 20,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\056.Pine_Grosbeak\\Pine_Grosbeak_0003_38437.jpg",
+      "mean_similarity": 0.9792143,
+      "rank": 21,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\056.Pine_Grosbeak\\Pine_Grosbeak_0012_38466.jpg",
+      "mean_similarity": 0.9792142,
+      "rank": 22,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\034.Gray_crowned_Rosy_Finch\\Gray_Crowned_Rosy_Finch_0026_27160.jpg",
+      "mean_similarity": 0.9792141000000001,
+      "rank": 23,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\056.Pine_Grosbeak\\Pine_Grosbeak_0019_38845.jpg",
+      "mean_similarity": 0.9792141000000001,
+      "rank": 24,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\028.Brown_Creeper\\Brown_Creeper_0083_24967.jpg",
+      "mean_similarity": 0.9792141000000001,
+      "rank": 25,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\056.Pine_Grosbeak\\Pine_Grosbeak_0059_38581.jpg",
+      "mean_similarity": 0.979214,
+      "rank": 26,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\028.Brown_Creeper\\Brown_Creeper_0120_24955.jpg",
+      "mean_similarity": 0.979214,
+      "rank": 27,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\034.Gray_crowned_Rosy_Finch\\Gray_Crowned_Rosy_Finch_0063_27123.jpg",
+      "mean_similarity": 0.9792139000000001,
+      "rank": 28,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\056.Pine_Grosbeak\\Pine_Grosbeak_0100_38988.jpg",
+      "mean_similarity": 0.9792139000000001,
+      "rank": 29,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\082.Ringed_Kingfisher\\Ringed_Kingfisher_0039_71052.jpg",
+      "mean_similarity": 0.9792139000000001,
+      "rank": 30,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\082.Ringed_Kingfisher\\Ringed_Kingfisher_0108_73169.jpg",
+      "mean_similarity": 0.9792139000000001,
+      "rank": 31,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\056.Pine_Grosbeak\\Pine_Grosbeak_0115_38330.jpg",
+      "mean_similarity": 0.9792138,
+      "rank": 32,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\048.European_Goldfinch\\European_Goldfinch_0041_794645.jpg",
+      "mean_similarity": 0.9792138,
+      "rank": 33,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\056.Pine_Grosbeak\\Pine_Grosbeak_0054_38953.jpg",
+      "mean_similarity": 0.9792137000000001,
+      "rank": 34,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\028.Brown_Creeper\\Brown_Creeper_0074_24789.jpg",
+      "mean_similarity": 0.9792137000000001,
+      "rank": 35,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\028.Brown_Creeper\\Brown_Creeper_0100_24502.jpg",
+      "mean_similarity": 0.9792137000000001,
+      "rank": 36,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\028.Brown_Creeper\\Brown_Creeper_0064_24840.jpg",
+      "mean_similarity": 0.9792136,
+      "rank": 37,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\082.Ringed_Kingfisher\\Ringed_Kingfisher_0004_72966.jpg",
+      "mean_similarity": 0.9792135000000001,
+      "rank": 38,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\082.Ringed_Kingfisher\\Ringed_Kingfisher_0057_72812.jpg",
+      "mean_similarity": 0.9792135000000001,
+      "rank": 39,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\048.European_Goldfinch\\European_Goldfinch_0032_794679.jpg",
+      "mean_similarity": 0.9792135000000001,
+      "rank": 40,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979213
+    }
+  ],
+  "debug": {
+    "total_candidates": 136,
+    "after_voting": 136,
+    "after_dedup": 30,
+    "dedup_mode": "backbone",
+    "top_segments": [
+      {
+        "class": "034.Gray_crowned_Rosy_Finch",
+        "seg": 2,
+        "hybrid": 1.7676,
+        "magnitude": 9.7921,
+        "borda": 387.0
+      },
+      {
+        "class": "034.Gray_crowned_Rosy_Finch",
+        "seg": 3,
+        "hybrid": 1.7676,
+        "magnitude": 9.7921,
+        "borda": 387.0
+      },
+      {
+        "class": "034.Gray_crowned_Rosy_Finch",
+        "seg": 4,
+        "hybrid": 1.7242,
+        "magnitude": 9.7921,
+        "borda": 375.0
+      },
+      {
+        "class": "034.Gray_crowned_Rosy_Finch",
+        "seg": 1,
+        "hybrid": 1.6631,
+        "magnitude": 9.7921,
+        "borda": 380.0
+      },
+      {
+        "class": "034.Gray_crowned_Rosy_Finch",
+        "seg": 0,
+        "hybrid": 1.6233,
+        "magnitude": 9.7921,
+        "borda": 369.0
+      },
+      {
+        "class": "056.Pine_Grosbeak",
+        "seg": 0,
+        "hybrid": 1.3024,
+        "magnitude": 9.7921,
+        "borda": 346.0
+      },
+      {
+        "class": "028.Brown_Creeper",
+        "seg": 4,
+        "hybrid": 1.2698,
+        "magnitude": 9.7921,
+        "borda": 337.0
+      },
+      {
+        "class": "056.Pine_Grosbeak",
+        "seg": 1,
+        "hybrid": 0.8698,
+        "magnitude": 9.7921,
+        "borda": 314.0
+      },
+      {
+        "class": "056.Pine_Grosbeak",
+        "seg": 4,
+        "hybrid": 0.7938,
+        "magnitude": 9.7921,
+        "borda": 293.0
+      },
+      {
+        "class": "056.Pine_Grosbeak",
+        "seg": 3,
+        "hybrid": 0.7902,
+        "magnitude": 9.7921,
+        "borda": 292.0
+      }
+    ]
+  }
+}

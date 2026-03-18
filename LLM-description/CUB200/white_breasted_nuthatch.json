@@ -1,0 +1,24 @@
+{
+  "class_name": "Bird",
+  "global_description": "A small, agile bird with a compact, streamlined body. It has a distinctive white breast and face, contrasted by a blue-gray back and wings. The bird's head is adorned with a black cap and nape, and it features a short, pointed bill. Its tail is short and square.",
+  "discriminative_attributes": [
+    "White breast and face",
+    "Blue-gray back and wings",
+    "Black cap and nape",
+    "Short, pointed bill",
+    "Compact, streamlined body"
+  ],
+  "part_details": {
+    "head": "Black cap and nape, white face with a short, pointed bill.",
+    "body": "Compact and streamlined with a white breast and blue-gray back.",
+    "wings": "Blue-gray, blending with the back, providing a sleek appearance.",
+    "tail": "Short and square, matching the blue-gray of the wings."
+  },
+  "spatial_relations": [
+    "The black cap covers the top of the head and nape.",
+    "The white breast transitions into the blue-gray of the back.",
+    "The wings are positioned laterally, extending from the sides of the body."
+  ],
+  "original_dataset_key": "CUB200",
+  "original_class_key": "white_breasted_nuthatch"
+}

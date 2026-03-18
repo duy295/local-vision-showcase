@@ -1,0 +1,159 @@
+{
+  "class_name": "049.Boat_tailed_Grackle",
+  "class_idx": 48,
+  "num_images_in_class": 30,
+  "ec_size_requested": 30,
+  "ec_size_actual": 30,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\049.Boat_tailed_Grackle\\Boat_Tailed_Grackle_0112_33841.jpg",
+      "mean_similarity": 0.9489955306053162,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\049.Boat_tailed_Grackle\\Boat_Tailed_Grackle_0011_34020.jpg",
+      "mean_similarity": 0.9487374424934387,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\049.Boat_tailed_Grackle\\Boat_Tailed_Grackle_0030_33615.jpg",
+      "mean_similarity": 0.9487261176109314,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\049.Boat_tailed_Grackle\\Boat_Tailed_Grackle_0050_33501.jpg",
+      "mean_similarity": 0.948399543762207,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\049.Boat_tailed_Grackle\\Boat_Tailed_Grackle_0123_33695.jpg",
+      "mean_similarity": 0.9483363032341003,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\049.Boat_tailed_Grackle\\Boat_Tailed_Grackle_0033_33524.jpg",
+      "mean_similarity": 0.9477850794792175,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\049.Boat_tailed_Grackle\\Boat_Tailed_Grackle_0063_33492.jpg",
+      "mean_similarity": 0.947659969329834,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\049.Boat_tailed_Grackle\\Boat_Tailed_Grackle_0067_34032.jpg",
+      "mean_similarity": 0.9476433396339417,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\049.Boat_tailed_Grackle\\Boat_Tailed_Grackle_0028_33777.jpg",
+      "mean_similarity": 0.9474597573280334,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\049.Boat_tailed_Grackle\\Boat_Tailed_Grackle_0040_33417.jpg",
+      "mean_similarity": 0.9473275542259216,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\049.Boat_tailed_Grackle\\Boat_Tailed_Grackle_0117_33576.jpg",
+      "mean_similarity": 0.9467428922653198,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\049.Boat_tailed_Grackle\\Boat_Tailed_Grackle_0070_33612.jpg",
+      "mean_similarity": 0.946686863899231,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\049.Boat_tailed_Grackle\\Boat_Tailed_Grackle_0047_33500.jpg",
+      "mean_similarity": 0.9460768699645996,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\049.Boat_tailed_Grackle\\Boat_Tailed_Grackle_0089_33807.jpg",
+      "mean_similarity": 0.9445376396179199,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\049.Boat_tailed_Grackle\\Boat_Tailed_Grackle_0126_33593.jpg",
+      "mean_similarity": 0.9444899559020996,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\049.Boat_tailed_Grackle\\Boat_Tailed_Grackle_0085_33384.jpg",
+      "mean_similarity": 0.9444656372070312,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\049.Boat_tailed_Grackle\\Boat_Tailed_Grackle_0016_33770.jpg",
+      "mean_similarity": 0.9443539381027222,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\049.Boat_tailed_Grackle\\Boat_Tailed_Grackle_0100_33985.jpg",
+      "mean_similarity": 0.9443152546882629,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\049.Boat_tailed_Grackle\\Boat_Tailed_Grackle_0082_33488.jpg",
+      "mean_similarity": 0.9440465569496155,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\049.Boat_tailed_Grackle\\Boat_Tailed_Grackle_0068_33387.jpg",
+      "mean_similarity": 0.9439273476600647,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\049.Boat_tailed_Grackle\\Boat_Tailed_Grackle_0062_33650.jpg",
+      "mean_similarity": 0.9419680833816528,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\049.Boat_tailed_Grackle\\Boat_Tailed_Grackle_0113_33490.jpg",
+      "mean_similarity": 0.9405111074447632,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\049.Boat_tailed_Grackle\\Boat_Tailed_Grackle_0056_33649.jpg",
+      "mean_similarity": 0.9390131235122681,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\049.Boat_tailed_Grackle\\Boat_Tailed_Grackle_0043_33595.jpg",
+      "mean_similarity": 0.938112735748291,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\049.Boat_tailed_Grackle\\Boat_Tailed_Grackle_0097_33759.jpg",
+      "mean_similarity": 0.9376257658004761,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\049.Boat_tailed_Grackle\\Boat_Tailed_Grackle_0086_33818.jpg",
+      "mean_similarity": 0.9372797012329102,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\049.Boat_tailed_Grackle\\Boat_Tailed_Grackle_0073_33723.jpg",
+      "mean_similarity": 0.9372476935386658,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\049.Boat_tailed_Grackle\\Boat_Tailed_Grackle_0017_33480.jpg",
+      "mean_similarity": 0.9366707801818848,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\049.Boat_tailed_Grackle\\Boat_Tailed_Grackle_0041_33396.jpg",
+      "mean_similarity": 0.9363905787467957,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\049.Boat_tailed_Grackle\\Boat_Tailed_Grackle_0027_33743.jpg",
+      "mean_similarity": 0.9355791807174683,
+      "rank": 30
+    }
+  ]
+}

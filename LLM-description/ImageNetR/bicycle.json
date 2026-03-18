@@ -1,0 +1,27 @@
+{
+  "class_name": "bicycle",
+  "global_description": "Two-wheeled vehicle with a slender frame, typically metallic, featuring handlebars, a seat, pedals, and a chain. The wheels are large and circular, often with spokes, and the frame is usually painted in various colors.",
+  "discriminative_attributes": [
+    "Two large wheels",
+    "Slender metallic frame",
+    "Handlebars for steering",
+    "Pedals for propulsion",
+    "Chain connecting pedals to rear wheel"
+  ],
+  "part_details": {
+    "frame": "Slender, metallic, often painted",
+    "wheels": "Large, circular with spokes",
+    "handlebars": "Curved or straight for steering",
+    "seat": "Small, padded, positioned above frame",
+    "pedals": "Flat, attached to cranks",
+    "chain": "Metallic, links pedals to rear wheel"
+  },
+  "spatial_relations": [
+    "Handlebars at front of frame",
+    "Seat positioned above rear wheel",
+    "Pedals connected to cranks near bottom of frame",
+    "Chain runs from pedals to rear wheel"
+  ],
+  "original_dataset_key": "ImageNetR",
+  "original_class_key": "bicycle"
+}

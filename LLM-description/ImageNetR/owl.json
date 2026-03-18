@@ -1,0 +1,27 @@
+{
+  "class_name": "owl",
+  "global_description": "Medium-sized bird with a rounded head, large forward-facing eyes, and a flat face. Its plumage is often mottled brown, gray, or white, providing camouflage. The body is compact with broad wings and a short tail. The beak is hooked and sharp, and the legs are feathered with sharp talons.",
+  "discriminative_attributes": [
+    "Rounded head",
+    "Large forward-facing eyes",
+    "Mottled plumage",
+    "Hooked beak",
+    "Feathered legs"
+  ],
+  "part_details": {
+    "head": "Rounded with large eyes and a flat face",
+    "eyes": "Large, forward-facing, often bright yellow or orange",
+    "beak": "Hooked and sharp, positioned at the front of the face",
+    "body": "Compact with mottled brown, gray, or white plumage",
+    "wings": "Broad and rounded, suitable for silent flight",
+    "legs": "Feathered with sharp talons"
+  },
+  "spatial_relations": [
+    "Eyes positioned on the front of the head",
+    "Beak located at the center of the face",
+    "Wings attached to the sides of the body",
+    "Legs beneath the body, extending slightly"
+  ],
+  "original_dataset_key": "ImageNetR",
+  "original_class_key": "owl"
+}

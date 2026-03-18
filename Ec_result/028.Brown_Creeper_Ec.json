@@ -1,0 +1,159 @@
+{
+  "class_name": "028.Brown_Creeper",
+  "class_idx": 27,
+  "num_images_in_class": 30,
+  "ec_size_requested": 30,
+  "ec_size_actual": 30,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\028.Brown_Creeper\\Brown_Creeper_0007_24902.jpg",
+      "mean_similarity": 0.9482269883155823,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\028.Brown_Creeper\\Brown_Creeper_0064_24840.jpg",
+      "mean_similarity": 0.9481985569000244,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\028.Brown_Creeper\\Brown_Creeper_0103_24632.jpg",
+      "mean_similarity": 0.9481805562973022,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\028.Brown_Creeper\\Brown_Creeper_0074_24789.jpg",
+      "mean_similarity": 0.948018491268158,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\028.Brown_Creeper\\Brown_Creeper_0100_24502.jpg",
+      "mean_similarity": 0.9477795958518982,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\028.Brown_Creeper\\Brown_Creeper_0049_24911.jpg",
+      "mean_similarity": 0.9475097060203552,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\028.Brown_Creeper\\Brown_Creeper_0048_24976.jpg",
+      "mean_similarity": 0.9473004937171936,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\028.Brown_Creeper\\Brown_Creeper_0047_24984.jpg",
+      "mean_similarity": 0.9472299814224243,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\028.Brown_Creeper\\Brown_Creeper_0115_24488.jpg",
+      "mean_similarity": 0.9471065998077393,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\028.Brown_Creeper\\Brown_Creeper_0043_24549.jpg",
+      "mean_similarity": 0.946884274482727,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\028.Brown_Creeper\\Brown_Creeper_0106_24617.jpg",
+      "mean_similarity": 0.9468808770179749,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\028.Brown_Creeper\\Brown_Creeper_0053_24451.jpg",
+      "mean_similarity": 0.9468725919723511,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\028.Brown_Creeper\\Brown_Creeper_0058_24933.jpg",
+      "mean_similarity": 0.9465428590774536,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\028.Brown_Creeper\\Brown_Creeper_0114_24649.jpg",
+      "mean_similarity": 0.9464982151985168,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\028.Brown_Creeper\\Brown_Creeper_0002_24838.jpg",
+      "mean_similarity": 0.9464477896690369,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\028.Brown_Creeper\\Brown_Creeper_0110_24866.jpg",
+      "mean_similarity": 0.9462011456489563,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\028.Brown_Creeper\\Brown_Creeper_0127_24656.jpg",
+      "mean_similarity": 0.9455353021621704,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\028.Brown_Creeper\\Brown_Creeper_0059_25010.jpg",
+      "mean_similarity": 0.9455311298370361,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\028.Brown_Creeper\\Brown_Creeper_0072_24977.jpg",
+      "mean_similarity": 0.9454771876335144,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\028.Brown_Creeper\\Brown_Creeper_0023_24940.jpg",
+      "mean_similarity": 0.9450250267982483,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\028.Brown_Creeper\\Brown_Creeper_0118_24500.jpg",
+      "mean_similarity": 0.9441311955451965,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\028.Brown_Creeper\\Brown_Creeper_0032_24800.jpg",
+      "mean_similarity": 0.9437679648399353,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\028.Brown_Creeper\\Brown_Creeper_0125_24995.jpg",
+      "mean_similarity": 0.9436584115028381,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\028.Brown_Creeper\\Brown_Creeper_0063_24724.jpg",
+      "mean_similarity": 0.9435468316078186,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\028.Brown_Creeper\\Brown_Creeper_0113_24560.jpg",
+      "mean_similarity": 0.9427095055580139,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\028.Brown_Creeper\\Brown_Creeper_0042_24578.jpg",
+      "mean_similarity": 0.941140353679657,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\028.Brown_Creeper\\Brown_Creeper_0121_24574.jpg",
+      "mean_similarity": 0.9410325288772583,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\028.Brown_Creeper\\Brown_Creeper_0120_24955.jpg",
+      "mean_similarity": 0.9398739337921143,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\028.Brown_Creeper\\Brown_Creeper_0061_24601.jpg",
+      "mean_similarity": 0.9364553093910217,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\028.Brown_Creeper\\Brown_Creeper_0083_24967.jpg",
+      "mean_similarity": 0.8894799947738647,
+      "rank": 30
+    }
+  ]
+}

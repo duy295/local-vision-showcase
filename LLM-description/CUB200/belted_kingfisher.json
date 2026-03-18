@@ -1,0 +1,27 @@
+{
+  "class_name": "Belted Kingfisher",
+  "global_description": "A medium-sized bird with a stocky body, large head, and a prominent crest. It features a striking blue-gray plumage with a distinctive white collar and a broad, dark blue band across the chest. The wings and tail are marked with white spots, and the beak is long and pointed.",
+  "discriminative_attributes": [
+    "Stocky body with large head",
+    "Prominent crest on head",
+    "Blue-gray plumage with white collar",
+    "Broad dark blue chest band",
+    "White spots on wings and tail"
+  ],
+  "part_details": {
+    "head": "Large, with a prominent crest and blue-gray color",
+    "beak": "Long, pointed, and dark in color",
+    "chest": "Broad dark blue band across white background",
+    "wings": "Blue-gray with white spots",
+    "tail": "Blue-gray with white spots"
+  },
+  "spatial_relations": [
+    "The crest is positioned on top of the head",
+    "The beak extends forward from the face",
+    "The chest band runs horizontally across the upper body",
+    "The wings are attached to the sides of the body",
+    "The tail extends from the rear of the body"
+  ],
+  "original_dataset_key": "CUB200",
+  "original_class_key": "belted_kingfisher"
+}

@@ -1,0 +1,24 @@
+{
+  "class_name": "Crested Auklet",
+  "global_description": "A small, stocky seabird with a compact body and a distinctive crest. It has predominantly dark gray plumage with a lighter underbelly. The bird features a prominent orange bill and a unique forward-curving crest on its head. Its eyes are surrounded by a striking white eye-ring.",
+  "discriminative_attributes": [
+    "Forward-curving head crest",
+    "Bright orange bill",
+    "Dark gray plumage",
+    "White eye-ring",
+    "Compact body shape"
+  ],
+  "part_details": {
+    "crest": "Forward-curving, wispy, dark feathers on top of the head.",
+    "bill": "Short, thick, bright orange with a slightly curved tip.",
+    "plumage": "Dark gray with a lighter gray underbelly, smooth texture.",
+    "eye_ring": "Thin, bright white circle surrounding the eye."
+  },
+  "spatial_relations": [
+    "The crest is positioned on top of the head, curving forward.",
+    "The orange bill protrudes from the front of the face.",
+    "The white eye-ring encircles the eye."
+  ],
+  "original_dataset_key": "CUB200",
+  "original_class_key": "crested_auklet"
+}

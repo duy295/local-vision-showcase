@@ -1,0 +1,24 @@
+{
+  "class_name": "ray",
+  "global_description": "A flat, diamond-shaped marine creature with a smooth, leathery texture. Its body is typically gray or brown, with a long, whip-like tail. The pectoral fins are large and wing-like, extending from the sides of the body, and the eyes are positioned on the top of the head.",
+  "discriminative_attributes": [
+    "Flat, diamond-shaped body",
+    "Smooth, leathery texture",
+    "Long, whip-like tail",
+    "Large, wing-like pectoral fins",
+    "Eyes on top of head"
+  ],
+  "part_details": {
+    "body": "Flat, diamond-shaped with smooth, leathery skin, usually gray or brown.",
+    "tail": "Long, whip-like, extending from the rear of the body.",
+    "pectoral fins": "Large, wing-like, extending from the sides of the body.",
+    "eyes": "Positioned on the top of the head, small and round."
+  },
+  "spatial_relations": [
+    "Pectoral fins extend from sides of body",
+    "Tail extends from rear of body",
+    "Eyes positioned on top of head"
+  ],
+  "original_dataset_key": "cifar100",
+  "original_class_key": "ray"
+}

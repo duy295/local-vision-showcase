@@ -1,0 +1,454 @@
+{
+  "class_name": "Summer Tanager",
+  "class_idx": 140,
+  "class_folder": "140.Summer_Tanager",
+  "num_images_in_class": 10,
+  "ec_size_requested": 30,
+  "ec_size_actual": 40,
+  "num_fewshot": 10,
+  "num_synthesized": 30,
+  "fewshot_emphasis_weight": 3.0,
+  "hybrid_lambda": 0.6,
+  "related_base_classes": [
+    {
+      "class_key": "vermilion_flycatcher",
+      "relevance_score": 2.3322
+    },
+    {
+      "class_key": "cardinal",
+      "relevance_score": 2.2719
+    },
+    {
+      "class_key": "pine_grosbeak",
+      "relevance_score": 2.1672
+    },
+    {
+      "class_key": "spotted_catbird",
+      "relevance_score": 2.0334
+    },
+    {
+      "class_key": "ruby_throated_hummingbird",
+      "relevance_score": 1.8735
+    },
+    {
+      "class_key": "painted_bunting",
+      "relevance_score": 1.8388
+    },
+    {
+      "class_key": "orchard_oriole",
+      "relevance_score": 1.8142
+    },
+    {
+      "class_key": "purple_finch",
+      "relevance_score": 1.8067
+    },
+    {
+      "class_key": "rufous_hummingbird",
+      "relevance_score": 1.6066
+    },
+    {
+      "class_key": "european_goldfinch",
+      "relevance_score": 1.1325
+    }
+  ],
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\Incremental class - Copy\\140.Summer_Tanager\\Summer_Tanager_0088_139473.jpg",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 1,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\Incremental class - Copy\\140.Summer_Tanager\\Summer_Tanager_0010_139948.jpg",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 2,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\Incremental class - Copy\\140.Summer_Tanager\\Summer_Tanager_0001_139289.jpg",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 3,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\Incremental class - Copy\\140.Summer_Tanager\\Summer_Tanager_0099_139310.jpg",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 4,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\Incremental class - Copy\\140.Summer_Tanager\\Summer_Tanager_0032_140425.jpg",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 5,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\Incremental class - Copy\\140.Summer_Tanager\\Summer_Tanager_0030_139210.jpg",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 6,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\Incremental class - Copy\\140.Summer_Tanager\\Summer_Tanager_0109_139522.jpg",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 7,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\Incremental class - Copy\\140.Summer_Tanager\\Summer_Tanager_0013_140828.jpg",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 8,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\Incremental class - Copy\\140.Summer_Tanager\\Summer_Tanager_0120_140060.jpg",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 9,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\Incremental class - Copy\\140.Summer_Tanager\\Summer_Tanager_0065_139198.jpg",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 10,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\017.Cardinal\\Cardinal_0054_19334.jpg",
+      "mean_similarity": 0.9792147999999999,
+      "rank": 11,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\016.Painted_Bunting\\Painted_Bunting_0036_16563.jpg",
+      "mean_similarity": 0.9792145,
+      "rank": 12,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\016.Painted_Bunting\\Painted_Bunting_0046_16535.jpg",
+      "mean_similarity": 0.9792145,
+      "rank": 13,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\016.Painted_Bunting\\Painted_Bunting_0087_15232.jpg",
+      "mean_similarity": 0.9792145,
+      "rank": 14,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\035.Purple_Finch\\Purple_Finch_0086_27637.jpg",
+      "mean_similarity": 0.9792145,
+      "rank": 15,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\017.Cardinal\\Cardinal_0007_18537.jpg",
+      "mean_similarity": 0.9792144,
+      "rank": 16,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\097.Orchard_Oriole\\Orchard_Oriole_0035_92003.jpg",
+      "mean_similarity": 0.9792144,
+      "rank": 17,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\017.Cardinal\\Cardinal_0020_18664.jpg",
+      "mean_similarity": 0.9792143,
+      "rank": 18,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\056.Pine_Grosbeak\\Pine_Grosbeak_0100_38988.jpg",
+      "mean_similarity": 0.9792143,
+      "rank": 19,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\056.Pine_Grosbeak\\Pine_Grosbeak_0115_38330.jpg",
+      "mean_similarity": 0.9792143,
+      "rank": 20,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\056.Pine_Grosbeak\\Pine_Grosbeak_0003_38437.jpg",
+      "mean_similarity": 0.9792143,
+      "rank": 21,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\035.Purple_Finch\\Purple_Finch_0110_27750.jpg",
+      "mean_similarity": 0.9792143,
+      "rank": 22,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\069.Rufous_Hummingbird\\Rufous_Hummingbird_0106_60465.jpg",
+      "mean_similarity": 0.9792142,
+      "rank": 23,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\068.Ruby_throated_Hummingbird\\Ruby_Throated_Hummingbird_0117_58092.jpg",
+      "mean_similarity": 0.9792142,
+      "rank": 24,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\035.Purple_Finch\\Purple_Finch_0025_28174.jpg",
+      "mean_similarity": 0.9792141000000001,
+      "rank": 25,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\035.Purple_Finch\\Purple_Finch_0006_27950.jpg",
+      "mean_similarity": 0.9792141000000001,
+      "rank": 26,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\017.Cardinal\\Cardinal_0028_18054.jpg",
+      "mean_similarity": 0.9792141000000001,
+      "rank": 27,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\035.Purple_Finch\\Purple_Finch_0050_27702.jpg",
+      "mean_similarity": 0.9792141000000001,
+      "rank": 28,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\042.Vermilion_Flycatcher\\Vermilion_Flycatcher_0005_42478.jpg",
+      "mean_similarity": 0.9792141000000001,
+      "rank": 29,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\097.Orchard_Oriole\\Orchard_Oriole_0092_92128.jpg",
+      "mean_similarity": 0.9792141000000001,
+      "rank": 30,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\056.Pine_Grosbeak\\Pine_Grosbeak_0054_38953.jpg",
+      "mean_similarity": 0.9792141000000001,
+      "rank": 31,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\035.Purple_Finch\\Purple_Finch_0096_27688.jpg",
+      "mean_similarity": 0.9792141000000001,
+      "rank": 32,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\016.Painted_Bunting\\Painted_Bunting_0071_15209.jpg",
+      "mean_similarity": 0.9792141000000001,
+      "rank": 33,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\016.Painted_Bunting\\Painted_Bunting_0055_15208.jpg",
+      "mean_similarity": 0.9792141000000001,
+      "rank": 34,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\069.Rufous_Hummingbird\\Rufous_Hummingbird_0077_59452.jpg",
+      "mean_similarity": 0.9792141000000001,
+      "rank": 35,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\069.Rufous_Hummingbird\\Rufous_Hummingbird_0120_59900.jpg",
+      "mean_similarity": 0.9792141000000001,
+      "rank": 36,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\069.Rufous_Hummingbird\\Rufous_Hummingbird_0047_59448.jpg",
+      "mean_similarity": 0.9792141000000001,
+      "rank": 37,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\069.Rufous_Hummingbird\\Rufous_Hummingbird_0091_60551.jpg",
+      "mean_similarity": 0.9792141000000001,
+      "rank": 38,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\056.Pine_Grosbeak\\Pine_Grosbeak_0102_38216.jpg",
+      "mean_similarity": 0.9792141000000001,
+      "rank": 39,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\056.Pine_Grosbeak\\Pine_Grosbeak_0019_38845.jpg",
+      "mean_similarity": 0.9792141000000001,
+      "rank": 40,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    }
+  ],
+  "debug": {
+    "total_candidates": 165,
+    "after_voting": 165,
+    "after_dedup": 30,
+    "dedup_mode": "backbone",
+    "top_segments": [
+      {
+        "class": "017.Cardinal",
+        "seg": 2,
+        "hybrid": 1.4675,
+        "magnitude": 9.7921,
+        "borda": 486.0
+      },
+      {
+        "class": "017.Cardinal",
+        "seg": 0,
+        "hybrid": 1.3422,
+        "magnitude": 9.7921,
+        "borda": 482.0
+      },
+      {
+        "class": "017.Cardinal",
+        "seg": 1,
+        "hybrid": 1.1646,
+        "magnitude": 9.7921,
+        "borda": 460.0
+      },
+      {
+        "class": "016.Painted_Bunting",
+        "seg": 1,
+        "hybrid": 1.1355,
+        "magnitude": 9.7921,
+        "borda": 450.0
+      },
+      {
+        "class": "017.Cardinal",
+        "seg": 3,
+        "hybrid": 0.9986,
+        "magnitude": 9.7921,
+        "borda": 442.0
+      },
+      {
+        "class": "056.Pine_Grosbeak",
+        "seg": 2,
+        "hybrid": 0.9898,
+        "magnitude": 9.7921,
+        "borda": 439.0
+      },
+      {
+        "class": "056.Pine_Grosbeak",
+        "seg": 3,
+        "hybrid": 0.9607,
+        "magnitude": 9.7921,
+        "borda": 429.0
+      },
+      {
+        "class": "016.Painted_Bunting",
+        "seg": 0,
+        "hybrid": 0.9549,
+        "magnitude": 9.7921,
+        "borda": 427.0
+      },
+      {
+        "class": "035.Purple_Finch",
+        "seg": 3,
+        "hybrid": 0.8328,
+        "magnitude": 9.7921,
+        "borda": 385.0
+      },
+      {
+        "class": "035.Purple_Finch",
+        "seg": 4,
+        "hybrid": 0.8269,
+        "magnitude": 9.7921,
+        "borda": 383.0
+      }
+    ]
+  }
+}

@@ -1,0 +1,159 @@
+{
+  "class_name": "044.Frigatebird",
+  "class_idx": 43,
+  "num_images_in_class": 30,
+  "ec_size_requested": 30,
+  "ec_size_actual": 30,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\044.Frigatebird\\Frigatebird_0012_43062.jpg",
+      "mean_similarity": 0.9413890838623047,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\044.Frigatebird\\Frigatebird_0035_43420.jpg",
+      "mean_similarity": 0.9406461715698242,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\044.Frigatebird\\Frigatebird_0084_43006.jpg",
+      "mean_similarity": 0.9405788779258728,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\044.Frigatebird\\Frigatebird_0001_43101.jpg",
+      "mean_similarity": 0.9392948746681213,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\044.Frigatebird\\Frigatebird_0021_42913.jpg",
+      "mean_similarity": 0.9392276406288147,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\044.Frigatebird\\Frigatebird_0107_42773.jpg",
+      "mean_similarity": 0.9386696815490723,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\044.Frigatebird\\Frigatebird_0040_42860.jpg",
+      "mean_similarity": 0.9384239315986633,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\044.Frigatebird\\Frigatebird_0059_42838.jpg",
+      "mean_similarity": 0.9380879998207092,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\044.Frigatebird\\Frigatebird_0008_43058.jpg",
+      "mean_similarity": 0.9380397200584412,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\044.Frigatebird\\Frigatebird_0006_43381.jpg",
+      "mean_similarity": 0.9374198913574219,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\044.Frigatebird\\Frigatebird_0022_43457.jpg",
+      "mean_similarity": 0.936944305896759,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\044.Frigatebird\\Frigatebird_0114_42807.jpg",
+      "mean_similarity": 0.9356498718261719,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\044.Frigatebird\\Frigatebird_0005_42828.jpg",
+      "mean_similarity": 0.9353967905044556,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\044.Frigatebird\\Frigatebird_0068_42795.jpg",
+      "mean_similarity": 0.935373067855835,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\044.Frigatebird\\Frigatebird_0053_43220.jpg",
+      "mean_similarity": 0.9352603554725647,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\044.Frigatebird\\Frigatebird_0090_43511.jpg",
+      "mean_similarity": 0.9345993995666504,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\044.Frigatebird\\Frigatebird_0049_43044.jpg",
+      "mean_similarity": 0.9339595437049866,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\044.Frigatebird\\Frigatebird_0070_43516.jpg",
+      "mean_similarity": 0.9333211779594421,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\044.Frigatebird\\Frigatebird_0119_43042.jpg",
+      "mean_similarity": 0.9328368306159973,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\044.Frigatebird\\Frigatebird_0095_42785.jpg",
+      "mean_similarity": 0.9307997822761536,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\044.Frigatebird\\Frigatebird_0116_43410.jpg",
+      "mean_similarity": 0.9304578304290771,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\044.Frigatebird\\Frigatebird_0112_43394.jpg",
+      "mean_similarity": 0.9302385449409485,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\044.Frigatebird\\Frigatebird_0045_42823.jpg",
+      "mean_similarity": 0.9299932718276978,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\044.Frigatebird\\Frigatebird_0057_43016.jpg",
+      "mean_similarity": 0.9281362295150757,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\044.Frigatebird\\Frigatebird_0080_43064.jpg",
+      "mean_similarity": 0.9270793795585632,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\044.Frigatebird\\Frigatebird_0082_42989.jpg",
+      "mean_similarity": 0.9264198541641235,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\044.Frigatebird\\Frigatebird_0051_43043.jpg",
+      "mean_similarity": 0.9211873412132263,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\044.Frigatebird\\Frigatebird_0004_43221.jpg",
+      "mean_similarity": 0.9089219570159912,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\044.Frigatebird\\Frigatebird_0047_43039.jpg",
+      "mean_similarity": 0.9059715270996094,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\044.Frigatebird\\Frigatebird_0115_42973.jpg",
+      "mean_similarity": 0.9046709537506104,
+      "rank": 30
+    }
+  ]
+}

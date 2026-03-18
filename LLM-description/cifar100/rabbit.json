@@ -1,0 +1,26 @@
+{
+  "class_name": "rabbit",
+  "global_description": "Small mammal with a compact, rounded body, covered in soft fur, typically gray, brown, or white. It has long ears, a short fluffy tail, and strong hind legs for hopping. The face is characterized by a small nose and prominent whiskers.",
+  "discriminative_attributes": [
+    "Long ears",
+    "Soft fur",
+    "Short fluffy tail",
+    "Strong hind legs",
+    "Small nose with whiskers"
+  ],
+  "part_details": {
+    "ears": "Long and upright, covered in soft fur",
+    "body": "Compact and rounded, with soft fur",
+    "tail": "Short and fluffy",
+    "legs": "Strong hind legs, shorter front legs",
+    "face": "Small nose, prominent whiskers"
+  },
+  "spatial_relations": [
+    "Ears positioned on top of head",
+    "Tail at rear of body",
+    "Hind legs beneath body, longer than front legs",
+    "Nose at front of face, whiskers extending outward"
+  ],
+  "original_dataset_key": "cifar100",
+  "original_class_key": "rabbit"
+}

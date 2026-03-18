@@ -1,0 +1,159 @@
+{
+  "class_name": "051.Horned_Grebe",
+  "class_idx": 50,
+  "num_images_in_class": 30,
+  "ec_size_requested": 30,
+  "ec_size_actual": 30,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\051.Horned_Grebe\\Horned_Grebe_0101_35203.jpg",
+      "mean_similarity": 0.9487588405609131,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\051.Horned_Grebe\\Horned_Grebe_0040_34548.jpg",
+      "mean_similarity": 0.9484475255012512,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\051.Horned_Grebe\\Horned_Grebe_0033_34736.jpg",
+      "mean_similarity": 0.9479565024375916,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\051.Horned_Grebe\\Horned_Grebe_0093_34720.jpg",
+      "mean_similarity": 0.9478752613067627,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\051.Horned_Grebe\\Horned_Grebe_0011_34687.jpg",
+      "mean_similarity": 0.9478573203086853,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\051.Horned_Grebe\\Horned_Grebe_0088_35023.jpg",
+      "mean_similarity": 0.9478306770324707,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\051.Horned_Grebe\\Horned_Grebe_0098_34662.jpg",
+      "mean_similarity": 0.9478268027305603,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\051.Horned_Grebe\\Horned_Grebe_0002_34577.jpg",
+      "mean_similarity": 0.9477582573890686,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\051.Horned_Grebe\\Horned_Grebe_0070_34514.jpg",
+      "mean_similarity": 0.9476392269134521,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\051.Horned_Grebe\\Horned_Grebe_0031_34626.jpg",
+      "mean_similarity": 0.9475653767585754,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\051.Horned_Grebe\\Horned_Grebe_0006_34718.jpg",
+      "mean_similarity": 0.9475477337837219,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\051.Horned_Grebe\\Horned_Grebe_0099_34989.jpg",
+      "mean_similarity": 0.9474341869354248,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\051.Horned_Grebe\\Horned_Grebe_0090_34640.jpg",
+      "mean_similarity": 0.947356104850769,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\051.Horned_Grebe\\Horned_Grebe_0103_34822.jpg",
+      "mean_similarity": 0.947283923625946,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\051.Horned_Grebe\\Horned_Grebe_0039_34848.jpg",
+      "mean_similarity": 0.947265088558197,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\051.Horned_Grebe\\Horned_Grebe_0112_34864.jpg",
+      "mean_similarity": 0.9471149444580078,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\051.Horned_Grebe\\Horned_Grebe_0019_34811.jpg",
+      "mean_similarity": 0.947019636631012,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\051.Horned_Grebe\\Horned_Grebe_0068_35111.jpg",
+      "mean_similarity": 0.946701169013977,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\051.Horned_Grebe\\Horned_Grebe_0066_34738.jpg",
+      "mean_similarity": 0.9466567039489746,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\051.Horned_Grebe\\Horned_Grebe_0078_34799.jpg",
+      "mean_similarity": 0.9465529322624207,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\051.Horned_Grebe\\Horned_Grebe_0017_35073.jpg",
+      "mean_similarity": 0.9464950561523438,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\051.Horned_Grebe\\Horned_Grebe_0055_35104.jpg",
+      "mean_similarity": 0.9464539885520935,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\051.Horned_Grebe\\Horned_Grebe_0046_34926.jpg",
+      "mean_similarity": 0.9464429616928101,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\051.Horned_Grebe\\Horned_Grebe_0072_34497.jpg",
+      "mean_similarity": 0.9463098645210266,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\051.Horned_Grebe\\Horned_Grebe_0086_34749.jpg",
+      "mean_similarity": 0.9444135427474976,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\051.Horned_Grebe\\Horned_Grebe_0076_34841.jpg",
+      "mean_similarity": 0.9439037442207336,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\051.Horned_Grebe\\Horned_Grebe_0041_34535.jpg",
+      "mean_similarity": 0.9432024359703064,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\051.Horned_Grebe\\Horned_Grebe_0003_34983.jpg",
+      "mean_similarity": 0.9415154457092285,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\051.Horned_Grebe\\Horned_Grebe_0102_34448.jpg",
+      "mean_similarity": 0.9292643666267395,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\051.Horned_Grebe\\Horned_Grebe_0049_34779.jpg",
+      "mean_similarity": 0.9288554191589355,
+      "rank": 30
+    }
+  ]
+}

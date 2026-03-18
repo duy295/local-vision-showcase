@@ -1,0 +1,26 @@
+{
+  "class_name": "Seaside Sparrow",
+  "global_description": "A small, slender bird with a streamlined body, predominantly grayish-brown plumage. It features a short, conical bill and a distinctive yellow streak above the eye. The wings and tail are short, with subtle streaks and a slightly rounded shape.",
+  "discriminative_attributes": [
+    "Grayish-brown plumage",
+    "Yellow streak above eye",
+    "Short conical bill",
+    "Subtle streaks on wings",
+    "Slightly rounded tail"
+  ],
+  "part_details": {
+    "plumage": "Grayish-brown with subtle streaks, providing camouflage in marshy environments.",
+    "bill": "Short, conical, dark gray, suited for seed and insect foraging.",
+    "eye_streak": "Bright yellow line above the eye, contrasting with the darker head.",
+    "wings": "Short, rounded, with faint streaks, aiding in agile flight.",
+    "tail": "Short, slightly rounded, matching the wing coloration."
+  },
+  "spatial_relations": [
+    "The yellow streak is positioned above the eye, enhancing visibility.",
+    "The short bill is centrally located on the face, below the eye streak.",
+    "The wings are attached to the sides of the body, slightly rounded at the tips.",
+    "The tail extends from the rear, complementing the wing shape."
+  ],
+  "original_dataset_key": "CUB200",
+  "original_class_key": "seaside_sparrow"
+}

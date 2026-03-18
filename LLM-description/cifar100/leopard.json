@@ -1,0 +1,26 @@
+{
+  "class_name": "leopard",
+  "global_description": "Medium-sized wild cat with a muscular, sleek body, covered in golden-yellow fur with distinctive black rosettes and spots. It has a broad head, powerful limbs, and a long tail. The fur is short and dense, providing camouflage in its natural habitat.",
+  "discriminative_attributes": [
+    "Golden-yellow fur",
+    "Black rosettes and spots",
+    "Muscular, sleek body",
+    "Broad head",
+    "Long tail"
+  ],
+  "part_details": {
+    "head": "Broad with small rounded ears and sharp eyes",
+    "body": "Muscular, sleek, covered in golden-yellow fur with black rosettes",
+    "limbs": "Powerful and muscular, adapted for climbing and running",
+    "tail": "Long and thick, aiding in balance",
+    "fur": "Short, dense, golden-yellow with black rosettes"
+  },
+  "spatial_relations": [
+    "Head at front of body",
+    "Limbs attached to sides of body",
+    "Tail extending from rear",
+    "Rosettes covering body"
+  ],
+  "original_dataset_key": "cifar100",
+  "original_class_key": "leopard"
+}

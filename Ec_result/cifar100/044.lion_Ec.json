@@ -1,0 +1,1259 @@
+{
+  "class_name": "lion",
+  "class_idx": 43,
+  "num_images_in_class": 500,
+  "ec_size_requested": 250,
+  "ec_size_actual": 250,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\panthera_leo_s_000722.png",
+      "mean_similarity": 0.9452511072158813,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\panthera_leo_s_001081.png",
+      "mean_similarity": 0.9451455473899841,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\lion_s_000166.png",
+      "mean_similarity": 0.9451406598091125,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\panthera_leo_s_000276.png",
+      "mean_similarity": 0.9451087713241577,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\lion_cub_s_000012.png",
+      "mean_similarity": 0.9449763298034668,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\king_of_beasts_s_000786.png",
+      "mean_similarity": 0.9445934295654297,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\panthera_leo_s_001015.png",
+      "mean_similarity": 0.9445546269416809,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\lion_s_000157.png",
+      "mean_similarity": 0.9445375204086304,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\lion_cub_s_001328.png",
+      "mean_similarity": 0.9445306658744812,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\lion_s_000003.png",
+      "mean_similarity": 0.9445081949234009,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\panthera_leo_s_001147.png",
+      "mean_similarity": 0.944481611251831,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\lion_s_000156.png",
+      "mean_similarity": 0.9444433450698853,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\panthera_leo_s_000956.png",
+      "mean_similarity": 0.9444288015365601,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\panthera_leo_s_000666.png",
+      "mean_similarity": 0.9443666338920593,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\king_of_beasts_s_000149.png",
+      "mean_similarity": 0.9441874027252197,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\panthera_leo_s_000521.png",
+      "mean_similarity": 0.9441348910331726,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\panthera_leo_s_000079.png",
+      "mean_similarity": 0.9440255165100098,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\lion_s_000635.png",
+      "mean_similarity": 0.9439501762390137,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\lion_s_000087.png",
+      "mean_similarity": 0.9439200162887573,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\panthera_leo_s_001357.png",
+      "mean_similarity": 0.9439181089401245,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\panthera_leo_s_000483.png",
+      "mean_similarity": 0.9439006447792053,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\lioness_s_000003.png",
+      "mean_similarity": 0.9437828063964844,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\lion_s_000335.png",
+      "mean_similarity": 0.9437636137008667,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\king_of_beasts_s_001070.png",
+      "mean_similarity": 0.9436713457107544,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\king_of_beasts_s_001330.png",
+      "mean_similarity": 0.9436508417129517,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\lion_cub_s_001338.png",
+      "mean_similarity": 0.943635106086731,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\panthera_leo_s_001083.png",
+      "mean_similarity": 0.9435744285583496,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\panthera_leo_s_000378.png",
+      "mean_similarity": 0.9435716271400452,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\panthera_leo_s_001516.png",
+      "mean_similarity": 0.9435679912567139,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\panthera_leo_s_000925.png",
+      "mean_similarity": 0.9435465335845947,
+      "rank": 30
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\panthera_leo_s_000843.png",
+      "mean_similarity": 0.9435127973556519,
+      "rank": 31
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\lion_cub_s_001797.png",
+      "mean_similarity": 0.9434922933578491,
+      "rank": 32
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\panthera_leo_s_000650.png",
+      "mean_similarity": 0.9434458613395691,
+      "rank": 33
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\lion_s_000952.png",
+      "mean_similarity": 0.9434021711349487,
+      "rank": 34
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\king_of_beasts_s_001478.png",
+      "mean_similarity": 0.9433464407920837,
+      "rank": 35
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\king_of_beasts_s_001275.png",
+      "mean_similarity": 0.9433296918869019,
+      "rank": 36
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\lion_s_001366.png",
+      "mean_similarity": 0.9433100819587708,
+      "rank": 37
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\king_of_beasts_s_001291.png",
+      "mean_similarity": 0.9432972073554993,
+      "rank": 38
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\lion_s_002168.png",
+      "mean_similarity": 0.9432790875434875,
+      "rank": 39
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\lion_s_000763.png",
+      "mean_similarity": 0.9432324171066284,
+      "rank": 40
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\king_of_beasts_s_001934.png",
+      "mean_similarity": 0.9432127475738525,
+      "rank": 41
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\panthera_leo_s_001183.png",
+      "mean_similarity": 0.943195641040802,
+      "rank": 42
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\king_of_beasts_s_001951.png",
+      "mean_similarity": 0.9431945085525513,
+      "rank": 43
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\lion_s_000152.png",
+      "mean_similarity": 0.943189799785614,
+      "rank": 44
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\panthera_leo_s_000021.png",
+      "mean_similarity": 0.9431728720664978,
+      "rank": 45
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\panthera_leo_s_000701.png",
+      "mean_similarity": 0.9431406855583191,
+      "rank": 46
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\king_of_beasts_s_000812.png",
+      "mean_similarity": 0.9431160688400269,
+      "rank": 47
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\lion_s_000163.png",
+      "mean_similarity": 0.9431118965148926,
+      "rank": 48
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\panthera_leo_s_001241.png",
+      "mean_similarity": 0.9430875778198242,
+      "rank": 49
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\panthera_leo_s_001671.png",
+      "mean_similarity": 0.9430420398712158,
+      "rank": 50
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\lion_cub_s_001970.png",
+      "mean_similarity": 0.9430259466171265,
+      "rank": 51
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\panthera_leo_s_001065.png",
+      "mean_similarity": 0.9430146217346191,
+      "rank": 52
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\lion_s_001317.png",
+      "mean_similarity": 0.9429959654808044,
+      "rank": 53
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\lion_s_000209.png",
+      "mean_similarity": 0.9429419636726379,
+      "rank": 54
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\panthera_leo_s_001721.png",
+      "mean_similarity": 0.9428864121437073,
+      "rank": 55
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\lion_s_000022.png",
+      "mean_similarity": 0.9428809881210327,
+      "rank": 56
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\panthera_leo_s_001732.png",
+      "mean_similarity": 0.9428733587265015,
+      "rank": 57
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\panthera_leo_s_000103.png",
+      "mean_similarity": 0.9428147673606873,
+      "rank": 58
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\lion_cub_s_000556.png",
+      "mean_similarity": 0.9427931904792786,
+      "rank": 59
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\lion_s_003014.png",
+      "mean_similarity": 0.9427741169929504,
+      "rank": 60
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\lion_s_002163.png",
+      "mean_similarity": 0.9427648186683655,
+      "rank": 61
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\panthera_leo_s_000414.png",
+      "mean_similarity": 0.9427579045295715,
+      "rank": 62
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\lion_s_001676.png",
+      "mean_similarity": 0.9427139759063721,
+      "rank": 63
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\lion_s_002944.png",
+      "mean_similarity": 0.9427025318145752,
+      "rank": 64
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\panthera_leo_s_000508.png",
+      "mean_similarity": 0.9426751732826233,
+      "rank": 65
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\lion_cub_s_001903.png",
+      "mean_similarity": 0.9426683187484741,
+      "rank": 66
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\panthera_leo_s_001630.png",
+      "mean_similarity": 0.9426360130310059,
+      "rank": 67
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\king_of_beasts_s_000106.png",
+      "mean_similarity": 0.9426189064979553,
+      "rank": 68
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\panthera_leo_s_001908.png",
+      "mean_similarity": 0.9426164627075195,
+      "rank": 69
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\lion_s_000732.png",
+      "mean_similarity": 0.9426053166389465,
+      "rank": 70
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\lion_s_000228.png",
+      "mean_similarity": 0.9426015019416809,
+      "rank": 71
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\panthera_leo_s_001677.png",
+      "mean_similarity": 0.9425867199897766,
+      "rank": 72
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\panthera_leo_s_001254.png",
+      "mean_similarity": 0.9425607323646545,
+      "rank": 73
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\panthera_leo_s_001483.png",
+      "mean_similarity": 0.9425363540649414,
+      "rank": 74
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\lion_s_001443.png",
+      "mean_similarity": 0.942480206489563,
+      "rank": 75
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\lion_s_001275.png",
+      "mean_similarity": 0.9424406290054321,
+      "rank": 76
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\panthera_leo_s_001339.png",
+      "mean_similarity": 0.9424252510070801,
+      "rank": 77
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\lion_s_000953.png",
+      "mean_similarity": 0.9424228072166443,
+      "rank": 78
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\panthera_leo_s_000080.png",
+      "mean_similarity": 0.9424019455909729,
+      "rank": 79
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\panthera_leo_s_001857.png",
+      "mean_similarity": 0.942343533039093,
+      "rank": 80
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\lion_s_001528.png",
+      "mean_similarity": 0.9423074722290039,
+      "rank": 81
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\king_of_beasts_s_000984.png",
+      "mean_similarity": 0.9422964453697205,
+      "rank": 82
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\king_of_beasts_s_001895.png",
+      "mean_similarity": 0.9422865509986877,
+      "rank": 83
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\lion_s_000045.png",
+      "mean_similarity": 0.942257821559906,
+      "rank": 84
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\lion_s_001216.png",
+      "mean_similarity": 0.942257821559906,
+      "rank": 85
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\king_of_beasts_s_000163.png",
+      "mean_similarity": 0.9421694874763489,
+      "rank": 86
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\lion_s_000106.png",
+      "mean_similarity": 0.9421597123146057,
+      "rank": 87
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\panthera_leo_s_001726.png",
+      "mean_similarity": 0.9421380162239075,
+      "rank": 88
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\panthera_leo_s_000082.png",
+      "mean_similarity": 0.9421362280845642,
+      "rank": 89
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\lion_s_001607.png",
+      "mean_similarity": 0.9421334266662598,
+      "rank": 90
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\lion_s_000019.png",
+      "mean_similarity": 0.9420902132987976,
+      "rank": 91
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\panthera_leo_s_001515.png",
+      "mean_similarity": 0.9420760869979858,
+      "rank": 92
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\panthera_leo_s_001616.png",
+      "mean_similarity": 0.9420745968818665,
+      "rank": 93
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\panthera_leo_s_000911.png",
+      "mean_similarity": 0.9420657753944397,
+      "rank": 94
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\panthera_leo_s_001915.png",
+      "mean_similarity": 0.9420257806777954,
+      "rank": 95
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\lion_s_002536.png",
+      "mean_similarity": 0.9420205354690552,
+      "rank": 96
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\panthera_leo_s_000018.png",
+      "mean_similarity": 0.9419970512390137,
+      "rank": 97
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\panthera_leo_s_001839.png",
+      "mean_similarity": 0.9419848322868347,
+      "rank": 98
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\lion_s_001786.png",
+      "mean_similarity": 0.9419745206832886,
+      "rank": 99
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\king_of_beasts_s_001578.png",
+      "mean_similarity": 0.9419313669204712,
+      "rank": 100
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\panthera_leo_s_001097.png",
+      "mean_similarity": 0.9418880939483643,
+      "rank": 101
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\lion_s_000835.png",
+      "mean_similarity": 0.9418783783912659,
+      "rank": 102
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\panthera_leo_s_000220.png",
+      "mean_similarity": 0.9418237209320068,
+      "rank": 103
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\lioness_s_000014.png",
+      "mean_similarity": 0.9418056607246399,
+      "rank": 104
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\panthera_leo_s_001527.png",
+      "mean_similarity": 0.9417803287506104,
+      "rank": 105
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\panthera_leo_s_001175.png",
+      "mean_similarity": 0.9417780041694641,
+      "rank": 106
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\panthera_leo_s_001690.png",
+      "mean_similarity": 0.9417643547058105,
+      "rank": 107
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\panthera_leo_s_000078.png",
+      "mean_similarity": 0.9417630434036255,
+      "rank": 108
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\lion_s_002154.png",
+      "mean_similarity": 0.9417499303817749,
+      "rank": 109
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\panthera_leo_s_000955.png",
+      "mean_similarity": 0.9417393207550049,
+      "rank": 110
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\panthera_leo_s_000730.png",
+      "mean_similarity": 0.941729724407196,
+      "rank": 111
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\lion_cub_s_000021.png",
+      "mean_similarity": 0.9417093396186829,
+      "rank": 112
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\panthera_leo_s_001835.png",
+      "mean_similarity": 0.9416899085044861,
+      "rank": 113
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\panthera_leo_s_000120.png",
+      "mean_similarity": 0.9416861534118652,
+      "rank": 114
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\lion_s_000636.png",
+      "mean_similarity": 0.9416432976722717,
+      "rank": 115
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\king_of_beasts_s_000703.png",
+      "mean_similarity": 0.9416365623474121,
+      "rank": 116
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\lion_s_000161.png",
+      "mean_similarity": 0.9416359663009644,
+      "rank": 117
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\lion_s_000585.png",
+      "mean_similarity": 0.9416358470916748,
+      "rank": 118
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\king_of_beasts_s_001427.png",
+      "mean_similarity": 0.941635012626648,
+      "rank": 119
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\lion_s_000039.png",
+      "mean_similarity": 0.9416255950927734,
+      "rank": 120
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\lion_s_001296.png",
+      "mean_similarity": 0.9415935277938843,
+      "rank": 121
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\lion_s_001777.png",
+      "mean_similarity": 0.9415897130966187,
+      "rank": 122
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\king_of_beasts_s_001196.png",
+      "mean_similarity": 0.9415702819824219,
+      "rank": 123
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\lion_s_000131.png",
+      "mean_similarity": 0.9415541291236877,
+      "rank": 124
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\lion_s_001389.png",
+      "mean_similarity": 0.9415437579154968,
+      "rank": 125
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\panthera_leo_s_000692.png",
+      "mean_similarity": 0.9415218234062195,
+      "rank": 126
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\panthera_leo_s_001172.png",
+      "mean_similarity": 0.9415216445922852,
+      "rank": 127
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\lion_s_000443.png",
+      "mean_similarity": 0.9415152668952942,
+      "rank": 128
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\panthera_leo_s_000500.png",
+      "mean_similarity": 0.9415109157562256,
+      "rank": 129
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\panthera_leo_s_001145.png",
+      "mean_similarity": 0.9414786100387573,
+      "rank": 130
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\lion_s_000603.png",
+      "mean_similarity": 0.941460132598877,
+      "rank": 131
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\panthera_leo_s_001575.png",
+      "mean_similarity": 0.941453218460083,
+      "rank": 132
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\lion_s_002665.png",
+      "mean_similarity": 0.9413761496543884,
+      "rank": 133
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\panthera_leo_s_000943.png",
+      "mean_similarity": 0.9413759708404541,
+      "rank": 134
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\panthera_leo_s_000429.png",
+      "mean_similarity": 0.9413727521896362,
+      "rank": 135
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\lion_s_000031.png",
+      "mean_similarity": 0.9413700103759766,
+      "rank": 136
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\lion_s_001649.png",
+      "mean_similarity": 0.9413681626319885,
+      "rank": 137
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\panthera_leo_s_001197.png",
+      "mean_similarity": 0.9413394331932068,
+      "rank": 138
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\king_of_beasts_s_000412.png",
+      "mean_similarity": 0.9413250684738159,
+      "rank": 139
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\king_of_beasts_s_000343.png",
+      "mean_similarity": 0.9413127303123474,
+      "rank": 140
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\lion_s_001743.png",
+      "mean_similarity": 0.9412983655929565,
+      "rank": 141
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\king_of_beasts_s_000115.png",
+      "mean_similarity": 0.9412569403648376,
+      "rank": 142
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\panthera_leo_s_000432.png",
+      "mean_similarity": 0.9412182569503784,
+      "rank": 143
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\lion_s_000764.png",
+      "mean_similarity": 0.9411660432815552,
+      "rank": 144
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\panthera_leo_s_000613.png",
+      "mean_similarity": 0.9411517381668091,
+      "rank": 145
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\lion_s_000761.png",
+      "mean_similarity": 0.9411343336105347,
+      "rank": 146
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\panthera_leo_s_001216.png",
+      "mean_similarity": 0.9410980343818665,
+      "rank": 147
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\panthera_leo_s_000945.png",
+      "mean_similarity": 0.9410861730575562,
+      "rank": 148
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\panthera_leo_s_001005.png",
+      "mean_similarity": 0.9410688877105713,
+      "rank": 149
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\panthera_leo_s_000135.png",
+      "mean_similarity": 0.9410656690597534,
+      "rank": 150
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\panthera_leo_s_000450.png",
+      "mean_similarity": 0.9410588145256042,
+      "rank": 151
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\lion_s_000133.png",
+      "mean_similarity": 0.9409864544868469,
+      "rank": 152
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\lion_s_000981.png",
+      "mean_similarity": 0.9409736394882202,
+      "rank": 153
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\panthera_leo_s_000012.png",
+      "mean_similarity": 0.9409574270248413,
+      "rank": 154
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\king_of_beasts_s_000407.png",
+      "mean_similarity": 0.940930187702179,
+      "rank": 155
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\lion_cub_s_000703.png",
+      "mean_similarity": 0.940893828868866,
+      "rank": 156
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\lion_s_001107.png",
+      "mean_similarity": 0.9408931732177734,
+      "rank": 157
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\panthera_leo_s_000068.png",
+      "mean_similarity": 0.9408733248710632,
+      "rank": 158
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\king_of_beasts_s_000099.png",
+      "mean_similarity": 0.9408382773399353,
+      "rank": 159
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\panthera_leo_s_000894.png",
+      "mean_similarity": 0.9408020973205566,
+      "rank": 160
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\lion_s_000094.png",
+      "mean_similarity": 0.9408006072044373,
+      "rank": 161
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\lion_s_000762.png",
+      "mean_similarity": 0.9407877326011658,
+      "rank": 162
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\panthera_leo_s_001252.png",
+      "mean_similarity": 0.9407781362533569,
+      "rank": 163
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\lion_s_000471.png",
+      "mean_similarity": 0.9407724142074585,
+      "rank": 164
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\panthera_leo_s_001949.png",
+      "mean_similarity": 0.9407641291618347,
+      "rank": 165
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\panthera_leo_s_001324.png",
+      "mean_similarity": 0.9407558441162109,
+      "rank": 166
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\panthera_leo_s_001830.png",
+      "mean_similarity": 0.9407536387443542,
+      "rank": 167
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\king_of_beasts_s_000168.png",
+      "mean_similarity": 0.9407535195350647,
+      "rank": 168
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\panthera_leo_s_000529.png",
+      "mean_similarity": 0.9406959414482117,
+      "rank": 169
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\panthera_leo_s_001388.png",
+      "mean_similarity": 0.9406735897064209,
+      "rank": 170
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\panthera_leo_s_001481.png",
+      "mean_similarity": 0.9405961632728577,
+      "rank": 171
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\panthera_leo_s_000984.png",
+      "mean_similarity": 0.9405885338783264,
+      "rank": 172
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\panthera_leo_s_000373.png",
+      "mean_similarity": 0.940523624420166,
+      "rank": 173
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\panthera_leo_s_000720.png",
+      "mean_similarity": 0.9405118823051453,
+      "rank": 174
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\king_of_beasts_s_001277.png",
+      "mean_similarity": 0.9405044317245483,
+      "rank": 175
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\lion_s_001123.png",
+      "mean_similarity": 0.9404991865158081,
+      "rank": 176
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\king_of_beasts_s_000561.png",
+      "mean_similarity": 0.9404793381690979,
+      "rank": 177
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\panthera_leo_s_001626.png",
+      "mean_similarity": 0.9404641389846802,
+      "rank": 178
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\panthera_leo_s_000438.png",
+      "mean_similarity": 0.9404442310333252,
+      "rank": 179
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\lion_s_001520.png",
+      "mean_similarity": 0.940443217754364,
+      "rank": 180
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\king_of_beasts_s_000155.png",
+      "mean_similarity": 0.9404014945030212,
+      "rank": 181
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\lion_s_001577.png",
+      "mean_similarity": 0.94036865234375,
+      "rank": 182
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\lion_cub_s_000663.png",
+      "mean_similarity": 0.9403281807899475,
+      "rank": 183
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\lion_cub_s_000560.png",
+      "mean_similarity": 0.9402996301651001,
+      "rank": 184
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\lion_cub_s_001078.png",
+      "mean_similarity": 0.9402968883514404,
+      "rank": 185
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\king_of_beasts_s_000433.png",
+      "mean_similarity": 0.9402777552604675,
+      "rank": 186
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\lion_s_000399.png",
+      "mean_similarity": 0.9402710795402527,
+      "rank": 187
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\panthera_leo_s_000691.png",
+      "mean_similarity": 0.9402632713317871,
+      "rank": 188
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\king_of_beasts_s_000542.png",
+      "mean_similarity": 0.9402622580528259,
+      "rank": 189
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\lion_s_000821.png",
+      "mean_similarity": 0.9402600526809692,
+      "rank": 190
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\panthera_leo_s_001406.png",
+      "mean_similarity": 0.9402356147766113,
+      "rank": 191
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\panthera_leo_s_000592.png",
+      "mean_similarity": 0.9401871562004089,
+      "rank": 192
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\panthera_leo_s_000789.png",
+      "mean_similarity": 0.9401614665985107,
+      "rank": 193
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\lion_s_001063.png",
+      "mean_similarity": 0.9401131868362427,
+      "rank": 194
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\panthera_leo_s_000486.png",
+      "mean_similarity": 0.9401034712791443,
+      "rank": 195
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\panthera_leo_s_000924.png",
+      "mean_similarity": 0.9400931000709534,
+      "rank": 196
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\king_of_beasts_s_000952.png",
+      "mean_similarity": 0.9400634765625,
+      "rank": 197
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\lion_cub_s_000524.png",
+      "mean_similarity": 0.9400328397750854,
+      "rank": 198
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\lion_s_000084.png",
+      "mean_similarity": 0.9400076866149902,
+      "rank": 199
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\lion_cub_s_000221.png",
+      "mean_similarity": 0.9399973750114441,
+      "rank": 200
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\king_of_beasts_s_000374.png",
+      "mean_similarity": 0.9399591088294983,
+      "rank": 201
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\panthera_leo_s_000395.png",
+      "mean_similarity": 0.9399434924125671,
+      "rank": 202
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\panthera_leo_s_000272.png",
+      "mean_similarity": 0.9399319291114807,
+      "rank": 203
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\panthera_leo_s_000418.png",
+      "mean_similarity": 0.9399248957633972,
+      "rank": 204
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\panthera_leo_s_001849.png",
+      "mean_similarity": 0.9398281574249268,
+      "rank": 205
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\king_of_beasts_s_001195.png",
+      "mean_similarity": 0.9398224949836731,
+      "rank": 206
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\lion_s_000041.png",
+      "mean_similarity": 0.9398124814033508,
+      "rank": 207
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\panthera_leo_s_000827.png",
+      "mean_similarity": 0.9398072361946106,
+      "rank": 208
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\panthera_leo_s_000831.png",
+      "mean_similarity": 0.939807116985321,
+      "rank": 209
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\panthera_leo_s_001415.png",
+      "mean_similarity": 0.9398045539855957,
+      "rank": 210
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\panthera_leo_s_000114.png",
+      "mean_similarity": 0.9397220611572266,
+      "rank": 211
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\king_of_beasts_s_001376.png",
+      "mean_similarity": 0.9397145509719849,
+      "rank": 212
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\panthera_leo_s_000906.png",
+      "mean_similarity": 0.9397066831588745,
+      "rank": 213
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\panthera_leo_s_001171.png",
+      "mean_similarity": 0.9396767020225525,
+      "rank": 214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\king_of_beasts_s_000527.png",
+      "mean_similarity": 0.9396359324455261,
+      "rank": 215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\king_of_beasts_s_000146.png",
+      "mean_similarity": 0.9395968317985535,
+      "rank": 216
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\panthera_leo_s_001536.png",
+      "mean_similarity": 0.9395951628684998,
+      "rank": 217
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\lion_cub_s_000684.png",
+      "mean_similarity": 0.9395557641983032,
+      "rank": 218
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\panthera_leo_s_001101.png",
+      "mean_similarity": 0.9395067095756531,
+      "rank": 219
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\panthera_leo_s_001473.png",
+      "mean_similarity": 0.9394800662994385,
+      "rank": 220
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\panthera_leo_s_000543.png",
+      "mean_similarity": 0.939476728439331,
+      "rank": 221
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\panthera_leo_s_001201.png",
+      "mean_similarity": 0.9394755959510803,
+      "rank": 222
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\panthera_leo_s_001199.png",
+      "mean_similarity": 0.9394312500953674,
+      "rank": 223
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\panthera_leo_s_001392.png",
+      "mean_similarity": 0.9393500089645386,
+      "rank": 224
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\panthera_leo_s_001373.png",
+      "mean_similarity": 0.9393173456192017,
+      "rank": 225
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\lion_cub_s_000640.png",
+      "mean_similarity": 0.9393083453178406,
+      "rank": 226
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\panthera_leo_s_001658.png",
+      "mean_similarity": 0.9392735958099365,
+      "rank": 227
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\panthera_leo_s_000382.png",
+      "mean_similarity": 0.9392704367637634,
+      "rank": 228
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\king_of_beasts_s_000375.png",
+      "mean_similarity": 0.9392663836479187,
+      "rank": 229
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\lion_cub_s_001914.png",
+      "mean_similarity": 0.9392633438110352,
+      "rank": 230
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\panthera_leo_s_000953.png",
+      "mean_similarity": 0.9392567276954651,
+      "rank": 231
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\panthera_leo_s_000431.png",
+      "mean_similarity": 0.9392513632774353,
+      "rank": 232
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\panthera_leo_s_001866.png",
+      "mean_similarity": 0.939250648021698,
+      "rank": 233
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\panthera_leo_s_000048.png",
+      "mean_similarity": 0.9392198920249939,
+      "rank": 234
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\panthera_leo_s_001243.png",
+      "mean_similarity": 0.9392114281654358,
+      "rank": 235
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\panthera_leo_s_001146.png",
+      "mean_similarity": 0.9391701221466064,
+      "rank": 236
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\panthera_leo_s_000019.png",
+      "mean_similarity": 0.9391632676124573,
+      "rank": 237
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\panthera_leo_s_000457.png",
+      "mean_similarity": 0.9391106367111206,
+      "rank": 238
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\panthera_leo_s_001861.png",
+      "mean_similarity": 0.9390824437141418,
+      "rank": 239
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\lion_s_000001.png",
+      "mean_similarity": 0.9390409588813782,
+      "rank": 240
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\panthera_leo_s_001223.png",
+      "mean_similarity": 0.9390247464179993,
+      "rank": 241
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\lion_s_002854.png",
+      "mean_similarity": 0.9390181303024292,
+      "rank": 242
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\panthera_leo_s_000538.png",
+      "mean_similarity": 0.9389897584915161,
+      "rank": 243
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\panthera_leo_s_001582.png",
+      "mean_similarity": 0.9389448165893555,
+      "rank": 244
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\king_of_beasts_s_001037.png",
+      "mean_similarity": 0.9389039278030396,
+      "rank": 245
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\panthera_leo_s_000816.png",
+      "mean_similarity": 0.9388923645019531,
+      "rank": 246
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\panthera_leo_s_000085.png",
+      "mean_similarity": 0.9388802647590637,
+      "rank": 247
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\panthera_leo_s_001687.png",
+      "mean_similarity": 0.9388790130615234,
+      "rank": 248
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\lion_s_000390.png",
+      "mean_similarity": 0.9387611746788025,
+      "rank": 249
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\044.lion\\panthera_leo_s_001444.png",
+      "mean_similarity": 0.938742458820343,
+      "rank": 250
+    }
+  ]
+}

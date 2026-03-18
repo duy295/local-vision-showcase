@@ -1,0 +1,26 @@
+{
+  "class_name": "sheep",
+  "global_description": "Medium-sized mammal with a bulky, woolly body, typically white or off-white, with a rounded face, short legs, and a short tail. The wool is dense and curly, covering most of the body, providing insulation.",
+  "discriminative_attributes": [
+    "Woolly body",
+    "Rounded face",
+    "Short legs",
+    "Short tail",
+    "Curly wool"
+  ],
+  "part_details": {
+    "head": "Rounded with a gentle expression, often with small ears and a short muzzle.",
+    "body": "Bulky, covered in dense, curly wool, usually white or off-white.",
+    "legs": "Short and sturdy, supporting the heavy body.",
+    "tail": "Short, often hidden by wool.",
+    "wool": "Thick, curly, and insulating, covering most of the body."
+  },
+  "spatial_relations": [
+    "Head at front of body",
+    "Legs beneath body",
+    "Tail at rear",
+    "Wool covering entire body"
+  ],
+  "original_dataset_key": "ImageNetR",
+  "original_class_key": "sheep"
+}

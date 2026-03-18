@@ -1,0 +1,159 @@
+{
+  "class_name": "053.Western_Grebe",
+  "class_idx": 52,
+  "num_images_in_class": 30,
+  "ec_size_requested": 30,
+  "ec_size_actual": 30,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\053.Western_Grebe\\Western_Grebe_0001_36481.jpg",
+      "mean_similarity": 0.9481133222579956,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\053.Western_Grebe\\Western_Grebe_0067_36610.jpg",
+      "mean_similarity": 0.9479633569717407,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\053.Western_Grebe\\Western_Grebe_0075_36435.jpg",
+      "mean_similarity": 0.9478747844696045,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\053.Western_Grebe\\Western_Grebe_0014_36185.jpg",
+      "mean_similarity": 0.9478635787963867,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\053.Western_Grebe\\Western_Grebe_0099_36112.jpg",
+      "mean_similarity": 0.947853147983551,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\053.Western_Grebe\\Western_Grebe_0025_36251.jpg",
+      "mean_similarity": 0.9478310346603394,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\053.Western_Grebe\\Western_Grebe_0088_36428.jpg",
+      "mean_similarity": 0.9477709531784058,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\053.Western_Grebe\\Western_Grebe_0080_36310.jpg",
+      "mean_similarity": 0.9477704167366028,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\053.Western_Grebe\\Western_Grebe_0007_36074.jpg",
+      "mean_similarity": 0.9475884437561035,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\053.Western_Grebe\\Western_Grebe_0017_36218.jpg",
+      "mean_similarity": 0.9475536346435547,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\053.Western_Grebe\\Western_Grebe_0045_36425.jpg",
+      "mean_similarity": 0.9475499987602234,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\053.Western_Grebe\\Western_Grebe_0056_36216.jpg",
+      "mean_similarity": 0.9475147128105164,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\053.Western_Grebe\\Western_Grebe_0046_36118.jpg",
+      "mean_similarity": 0.9474887251853943,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\053.Western_Grebe\\Western_Grebe_0086_36478.jpg",
+      "mean_similarity": 0.9474723935127258,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\053.Western_Grebe\\Western_Grebe_0037_36469.jpg",
+      "mean_similarity": 0.9474043846130371,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\053.Western_Grebe\\Western_Grebe_0047_36203.jpg",
+      "mean_similarity": 0.9473760724067688,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\053.Western_Grebe\\Western_Grebe_0034_36149.jpg",
+      "mean_similarity": 0.947202742099762,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\053.Western_Grebe\\Western_Grebe_0093_36193.jpg",
+      "mean_similarity": 0.9470935463905334,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\053.Western_Grebe\\Western_Grebe_0004_36130.jpg",
+      "mean_similarity": 0.9470626711845398,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\053.Western_Grebe\\Western_Grebe_0057_36157.jpg",
+      "mean_similarity": 0.9467640519142151,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\053.Western_Grebe\\Western_Grebe_0061_36181.jpg",
+      "mean_similarity": 0.9463480114936829,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\053.Western_Grebe\\Western_Grebe_0058_36403.jpg",
+      "mean_similarity": 0.9462717175483704,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\053.Western_Grebe\\Western_Grebe_0032_36439.jpg",
+      "mean_similarity": 0.9462546110153198,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\053.Western_Grebe\\Western_Grebe_0070_36162.jpg",
+      "mean_similarity": 0.9453348517417908,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\053.Western_Grebe\\Western_Grebe_0069_36486.jpg",
+      "mean_similarity": 0.9452725052833557,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\053.Western_Grebe\\Western_Grebe_0050_36163.jpg",
+      "mean_similarity": 0.9417243003845215,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\053.Western_Grebe\\Western_Grebe_0092_36121.jpg",
+      "mean_similarity": 0.9372567534446716,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\053.Western_Grebe\\Western_Grebe_0085_36224.jpg",
+      "mean_similarity": 0.9350255131721497,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\053.Western_Grebe\\Western_Grebe_0022_36148.jpg",
+      "mean_similarity": 0.9337437748908997,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\053.Western_Grebe\\Western_Grebe_0028_36196.jpg",
+      "mean_similarity": 0.9270745515823364,
+      "rank": 30
+    }
+  ]
+}

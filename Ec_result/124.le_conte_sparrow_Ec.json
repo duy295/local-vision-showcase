@@ -1,0 +1,446 @@
+{
+  "class_name": "Le Conte Sparrow",
+  "class_idx": 124,
+  "class_folder": "124.Le_Conte_Sparrow",
+  "num_images_in_class": 10,
+  "ec_size_requested": 30,
+  "ec_size_actual": 40,
+  "num_fewshot": 10,
+  "num_synthesized": 30,
+  "fewshot_emphasis_weight": 3.0,
+  "hybrid_lambda": 0.6,
+  "related_base_classes": [
+    {
+      "class_key": "ovenbird",
+      "relevance_score": 2.2218
+    },
+    {
+      "class_key": "western_meadowlark",
+      "relevance_score": 2.2075
+    },
+    {
+      "class_key": "brown_creeper",
+      "relevance_score": 2.0591
+    },
+    {
+      "class_key": "great_crested_flycatcher",
+      "relevance_score": 2.0468
+    },
+    {
+      "class_key": "european_goldfinch",
+      "relevance_score": 1.7741
+    },
+    {
+      "class_key": "yellow_bellied_flycatcher",
+      "relevance_score": 1.7445
+    },
+    {
+      "class_key": "purple_finch",
+      "relevance_score": 1.7288
+    },
+    {
+      "class_key": "red_breasted_merganser",
+      "relevance_score": 1.1468
+    }
+  ],
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\Incremental class - Copy\\124.Le_Conte_Sparrow\\Le_Conte_Sparrow_0070_795135.jpg",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 1,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\Incremental class - Copy\\124.Le_Conte_Sparrow\\Le_Conte_Sparrow_0016_795223.jpg",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 2,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\Incremental class - Copy\\124.Le_Conte_Sparrow\\Le_Conte_Sparrow_0003_795175.jpg",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 3,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\Incremental class - Copy\\124.Le_Conte_Sparrow\\Le_Conte_Sparrow_0073_117127.jpg",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 4,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\Incremental class - Copy\\124.Le_Conte_Sparrow\\Le_Conte_Sparrow_0034_795150.jpg",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 5,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\Incremental class - Copy\\124.Le_Conte_Sparrow\\Le_Conte_Sparrow_0032_795186.jpg",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 6,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\Incremental class - Copy\\124.Le_Conte_Sparrow\\Le_Conte_Sparrow_0075_795234.jpg",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 7,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\Incremental class - Copy\\124.Le_Conte_Sparrow\\Le_Conte_Sparrow_0020_117035.jpg",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 8,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\Incremental class - Copy\\124.Le_Conte_Sparrow\\Le_Conte_Sparrow_0089_795154.jpg",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 9,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\Incremental class - Copy\\124.Le_Conte_Sparrow\\Le_Conte_Sparrow_0064_795235.jpg",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 10,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\099.Ovenbird\\Ovenbird_0034_93006.jpg",
+      "mean_similarity": 0.9792147,
+      "rank": 11,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\088.Western_Meadowlark\\Western_Meadowlark_0053_77774.jpg",
+      "mean_similarity": 0.9792147,
+      "rank": 12,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\099.Ovenbird\\Ovenbird_0128_93366.jpg",
+      "mean_similarity": 0.9792147,
+      "rank": 13,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\099.Ovenbird\\Ovenbird_0064_93208.jpg",
+      "mean_similarity": 0.9792146000000002,
+      "rank": 14,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\088.Western_Meadowlark\\Western_Meadowlark_0118_78820.jpg",
+      "mean_similarity": 0.9792145,
+      "rank": 15,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\028.Brown_Creeper\\Brown_Creeper_0120_24955.jpg",
+      "mean_similarity": 0.9792145,
+      "rank": 16,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\099.Ovenbird\\Ovenbird_0118_93002.jpg",
+      "mean_similarity": 0.9792145,
+      "rank": 17,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\035.Purple_Finch\\Purple_Finch_0096_27688.jpg",
+      "mean_similarity": 0.9792145,
+      "rank": 18,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\088.Western_Meadowlark\\Western_Meadowlark_0104_78105.jpg",
+      "mean_similarity": 0.9792144,
+      "rank": 19,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\035.Purple_Finch\\Purple_Finch_0006_27950.jpg",
+      "mean_similarity": 0.9792144,
+      "rank": 20,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\035.Purple_Finch\\Purple_Finch_0050_27702.jpg",
+      "mean_similarity": 0.9792143,
+      "rank": 21,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\028.Brown_Creeper\\Brown_Creeper_0061_24601.jpg",
+      "mean_similarity": 0.9792143,
+      "rank": 22,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\035.Purple_Finch\\Purple_Finch_0048_27670.jpg",
+      "mean_similarity": 0.9792142,
+      "rank": 23,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\088.Western_Meadowlark\\Western_Meadowlark_0097_78239.jpg",
+      "mean_similarity": 0.9792141000000001,
+      "rank": 24,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\088.Western_Meadowlark\\Western_Meadowlark_0085_77745.jpg",
+      "mean_similarity": 0.9792141000000001,
+      "rank": 25,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\099.Ovenbird\\Ovenbird_0104_92763.jpg",
+      "mean_similarity": 0.9792141000000001,
+      "rank": 26,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\099.Ovenbird\\Ovenbird_0024_92583.jpg",
+      "mean_similarity": 0.979214,
+      "rank": 27,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\088.Western_Meadowlark\\Western_Meadowlark_0058_78247.jpg",
+      "mean_similarity": 0.9792139000000001,
+      "rank": 28,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\099.Ovenbird\\Ovenbird_0045_92973.jpg",
+      "mean_similarity": 0.9792139000000001,
+      "rank": 29,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\028.Brown_Creeper\\Brown_Creeper_0002_24838.jpg",
+      "mean_similarity": 0.9792139000000001,
+      "rank": 30,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\035.Purple_Finch\\Purple_Finch_0110_27750.jpg",
+      "mean_similarity": 0.9792139000000001,
+      "rank": 31,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\099.Ovenbird\\Ovenbird_0136_92859.jpg",
+      "mean_similarity": 0.9792138,
+      "rank": 32,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\028.Brown_Creeper\\Brown_Creeper_0074_24789.jpg",
+      "mean_similarity": 0.9792137000000001,
+      "rank": 33,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\088.Western_Meadowlark\\Western_Meadowlark_0112_78760.jpg",
+      "mean_similarity": 0.9792136,
+      "rank": 34,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\028.Brown_Creeper\\Brown_Creeper_0048_24976.jpg",
+      "mean_similarity": 0.9792136,
+      "rank": 35,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\088.Western_Meadowlark\\Western_Meadowlark_0052_77781.jpg",
+      "mean_similarity": 0.9792135000000001,
+      "rank": 36,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\048.European_Goldfinch\\European_Goldfinch_0032_794679.jpg",
+      "mean_similarity": 0.9792135000000001,
+      "rank": 37,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\028.Brown_Creeper\\Brown_Creeper_0083_24967.jpg",
+      "mean_similarity": 0.9792134000000001,
+      "rank": 38,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979213
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\099.Ovenbird\\Ovenbird_0032_93199.jpg",
+      "mean_similarity": 0.9792133000000001,
+      "rank": 39,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979213
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\028.Brown_Creeper\\Brown_Creeper_0023_24940.jpg",
+      "mean_similarity": 0.9792133000000001,
+      "rank": 40,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979213
+    }
+  ],
+  "debug": {
+    "total_candidates": 131,
+    "after_voting": 131,
+    "after_dedup": 30,
+    "dedup_mode": "backbone",
+    "top_segments": [
+      {
+        "class": "099.Ovenbird",
+        "seg": 2,
+        "hybrid": 1.4819,
+        "magnitude": 9.7921,
+        "borda": 376.0
+      },
+      {
+        "class": "088.Western_Meadowlark",
+        "seg": 1,
+        "hybrid": 1.428,
+        "magnitude": 9.7921,
+        "borda": 377.0
+      },
+      {
+        "class": "099.Ovenbird",
+        "seg": 3,
+        "hybrid": 1.3451,
+        "magnitude": 9.7921,
+        "borda": 370.0
+      },
+      {
+        "class": "099.Ovenbird",
+        "seg": 0,
+        "hybrid": 1.1537,
+        "magnitude": 9.7921,
+        "borda": 333.0
+      },
+      {
+        "class": "088.Western_Meadowlark",
+        "seg": 0,
+        "hybrid": 1.1142,
+        "magnitude": 9.7921,
+        "borda": 338.0
+      },
+      {
+        "class": "028.Brown_Creeper",
+        "seg": 2,
+        "hybrid": 1.0241,
+        "magnitude": 9.7921,
+        "borda": 329.0
+      },
+      {
+        "class": "099.Ovenbird",
+        "seg": 4,
+        "hybrid": 1.0021,
+        "magnitude": 9.7921,
+        "borda": 307.0
+      },
+      {
+        "class": "035.Purple_Finch",
+        "seg": 2,
+        "hybrid": 0.9988,
+        "magnitude": 9.7921,
+        "borda": 322.0
+      },
+      {
+        "class": "088.Western_Meadowlark",
+        "seg": 4,
+        "hybrid": 0.9807,
+        "magnitude": 9.7921,
+        "borda": 317.0
+      },
+      {
+        "class": "035.Purple_Finch",
+        "seg": 0,
+        "hybrid": 0.9268,
+        "magnitude": 9.7921,
+        "borda": 318.0
+      }
+    ]
+  }
+}

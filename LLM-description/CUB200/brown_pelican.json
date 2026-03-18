@@ -1,0 +1,25 @@
+{
+  "class_name": "Brown Pelican",
+  "global_description": "A large, aquatic bird with a distinctive long bill and expansive wingspan. It features a predominantly brown and gray plumage with a white head and neck. The bird's body is streamlined for diving, and its bill has a large, expandable throat pouch.",
+  "discriminative_attributes": [
+    "Long bill with throat pouch",
+    "White head and neck",
+    "Brown and gray plumage",
+    "Large wingspan",
+    "Streamlined body for diving"
+  ],
+  "part_details": {
+    "bill": "Long, straight, grayish with a large, expandable throat pouch.",
+    "head": "White with a slight yellowish tinge, small eyes.",
+    "wings": "Large, broad, brown with grayish tips.",
+    "body": "Streamlined, covered in brown and gray feathers.",
+    "legs": "Short, webbed feet, dark gray."
+  },
+  "spatial_relations": [
+    "The long bill extends forward from the head.",
+    "The large wings extend laterally from the body.",
+    "The white head sits atop the streamlined body."
+  ],
+  "original_dataset_key": "CUB200",
+  "original_class_key": "brown_pelican"
+}

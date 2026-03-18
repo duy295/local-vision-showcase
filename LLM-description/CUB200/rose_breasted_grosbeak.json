@@ -1,0 +1,25 @@
+{
+  "class_name": "Bird",
+  "global_description": "A medium-sized songbird with a stocky body and short neck. It has a striking black and white plumage with a vivid rose-red patch on its breast. The wings are black with white patches, and the tail is black with white tips. The beak is thick and conical, ideal for seed eating.",
+  "discriminative_attributes": [
+    "Rose-red breast patch",
+    "Black and white plumage",
+    "Thick conical beak",
+    "White wing patches",
+    "Black tail with white tips"
+  ],
+  "part_details": {
+    "head": "Black with a short neck, featuring a thick, pale conical beak.",
+    "breast": "Bright rose-red patch contrasting with the white underparts.",
+    "wings": "Black with distinct white patches, medium length.",
+    "tail": "Black with white tips, slightly rounded.",
+    "body": "Stocky, predominantly white with black upperparts."
+  },
+  "spatial_relations": [
+    "The rose-red patch is located centrally on the breast.",
+    "The white patches are distributed across the black wings.",
+    "The thick beak is positioned centrally on the black head."
+  ],
+  "original_dataset_key": "CUB200",
+  "original_class_key": "rose_breasted_grosbeak"
+}

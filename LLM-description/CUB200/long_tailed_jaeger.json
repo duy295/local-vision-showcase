@@ -1,0 +1,24 @@
+{
+  "class_name": "Long Tailed Jaeger",
+  "global_description": "A medium-sized seabird with a streamlined body and long, pointed wings. It features a distinctive long tail with central feathers extending beyond the rest. The plumage is a mix of brown, gray, and white, with a dark cap on the head and a pale underbelly.",
+  "discriminative_attributes": [
+    "Long central tail feathers",
+    "Dark cap on head",
+    "Pointed wings",
+    "Pale underbelly",
+    "Brown and gray plumage"
+  ],
+  "part_details": {
+    "tail": "Long, central feathers extending beyond the rest, dark brown.",
+    "wings": "Long, pointed, with a mix of brown and gray feathers.",
+    "head": "Dark cap, contrasting with lighter neck and body.",
+    "underbelly": "Pale, almost white, contrasting with darker upper parts."
+  },
+  "spatial_relations": [
+    "The long central tail feathers extend beyond the rest of the tail.",
+    "The dark cap covers the top of the head, contrasting with the lighter neck.",
+    "The pointed wings extend laterally from the streamlined body."
+  ],
+  "original_dataset_key": "CUB200",
+  "original_class_key": "long_tailed_jaeger"
+}

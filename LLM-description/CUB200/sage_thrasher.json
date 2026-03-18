@@ -1,0 +1,25 @@
+{
+  "class_name": "Bird",
+  "global_description": "A medium-sized songbird with a slender body and long tail. It features a speckled brown and gray plumage with a streaked breast and a pale belly. The bird has a slightly curved bill and yellow eyes.",
+  "discriminative_attributes": [
+    "Speckled brown and gray plumage",
+    "Streaked breast",
+    "Pale belly",
+    "Slightly curved bill",
+    "Yellow eyes"
+  ],
+  "part_details": {
+    "plumage": "Speckled brown and gray feathers covering the body, providing camouflage.",
+    "breast": "Streaked with dark brown lines against a lighter background.",
+    "belly": "Pale, almost white, contrasting with the darker upper parts.",
+    "bill": "Slightly curved, medium length, suitable for insect foraging.",
+    "eyes": "Bright yellow, standing out against the head's plumage."
+  },
+  "spatial_relations": [
+    "The streaked breast transitions into the pale belly.",
+    "The slightly curved bill is positioned at the front of the head.",
+    "The yellow eyes are set on either side of the head."
+  ],
+  "original_dataset_key": "CUB200",
+  "original_class_key": "sage_thrasher"
+}

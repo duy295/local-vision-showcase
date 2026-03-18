@@ -1,0 +1,26 @@
+{
+  "class_name": "Orange Crowned Warbler",
+  "global_description": "A small, slender songbird with a predominantly olive-green body. It features a subtle orange crown patch on its head, which is often hidden. The bird has a pointed beak, pale underparts, and a slightly forked tail. Its wings and back are a muted green, blending into its natural habitat.",
+  "discriminative_attributes": [
+    "Subtle orange crown patch",
+    "Olive-green body",
+    "Pale underparts",
+    "Pointed beak",
+    "Slightly forked tail"
+  ],
+  "part_details": {
+    "head": "Olive-green with a hidden orange crown patch, small and rounded.",
+    "beak": "Short, pointed, and slightly curved, suitable for insectivory.",
+    "body": "Slender and streamlined, predominantly olive-green with pale underparts.",
+    "wings": "Muted green, blending with the back, providing camouflage.",
+    "tail": "Slightly forked, aiding in agile flight."
+  },
+  "spatial_relations": [
+    "The orange crown patch is located on the top of the head.",
+    "The pointed beak extends from the front of the head.",
+    "The wings are attached to the sides of the body.",
+    "The tail extends from the rear of the body."
+  ],
+  "original_dataset_key": "CUB200",
+  "original_class_key": "orange_crowned_warbler"
+}

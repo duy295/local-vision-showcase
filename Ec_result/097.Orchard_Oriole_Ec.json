@@ -1,0 +1,159 @@
+{
+  "class_name": "097.Orchard_Oriole",
+  "class_idx": 96,
+  "num_images_in_class": 30,
+  "ec_size_requested": 30,
+  "ec_size_actual": 30,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\097.Orchard_Oriole\\Orchard_Oriole_0023_91705.jpg",
+      "mean_similarity": 0.9398938417434692,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\097.Orchard_Oriole\\Orchard_Oriole_0091_91774.jpg",
+      "mean_similarity": 0.938969075679779,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\097.Orchard_Oriole\\Orchard_Oriole_0042_91678.jpg",
+      "mean_similarity": 0.9380762577056885,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\097.Orchard_Oriole\\Orchard_Oriole_0080_91417.jpg",
+      "mean_similarity": 0.9373311996459961,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\097.Orchard_Oriole\\Orchard_Oriole_0075_91847.jpg",
+      "mean_similarity": 0.9372978210449219,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\097.Orchard_Oriole\\Orchard_Oriole_0044_91360.jpg",
+      "mean_similarity": 0.9360354542732239,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\097.Orchard_Oriole\\Orchard_Oriole_0004_91275.jpg",
+      "mean_similarity": 0.9356111884117126,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\097.Orchard_Oriole\\Orchard_Oriole_0009_91902.jpg",
+      "mean_similarity": 0.9355607032775879,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\097.Orchard_Oriole\\Orchard_Oriole_0035_92003.jpg",
+      "mean_similarity": 0.9352397322654724,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\097.Orchard_Oriole\\Orchard_Oriole_0046_91646.jpg",
+      "mean_similarity": 0.9351890683174133,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\097.Orchard_Oriole\\Orchard_Oriole_0032_91201.jpg",
+      "mean_similarity": 0.934790849685669,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\097.Orchard_Oriole\\Orchard_Oriole_0098_91401.jpg",
+      "mean_similarity": 0.9343222975730896,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\097.Orchard_Oriole\\Orchard_Oriole_0082_91654.jpg",
+      "mean_similarity": 0.934095561504364,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\097.Orchard_Oriole\\Orchard_Oriole_0039_91267.jpg",
+      "mean_similarity": 0.9340562224388123,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\097.Orchard_Oriole\\Orchard_Oriole_0005_91682.jpg",
+      "mean_similarity": 0.9332984089851379,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\097.Orchard_Oriole\\Orchard_Oriole_0092_92128.jpg",
+      "mean_similarity": 0.932637095451355,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\097.Orchard_Oriole\\Orchard_Oriole_0048_91393.jpg",
+      "mean_similarity": 0.9321647882461548,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\097.Orchard_Oriole\\Orchard_Oriole_0061_91941.jpg",
+      "mean_similarity": 0.9320342540740967,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\097.Orchard_Oriole\\Orchard_Oriole_0019_91338.jpg",
+      "mean_similarity": 0.9319958090782166,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\097.Orchard_Oriole\\Orchard_Oriole_0095_91345.jpg",
+      "mean_similarity": 0.9278141260147095,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\097.Orchard_Oriole\\Orchard_Oriole_0024_91755.jpg",
+      "mean_similarity": 0.9269475340843201,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\097.Orchard_Oriole\\Orchard_Oriole_0011_91592.jpg",
+      "mean_similarity": 0.925796627998352,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\097.Orchard_Oriole\\Orchard_Oriole_0006_91724.jpg",
+      "mean_similarity": 0.9191287159919739,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\097.Orchard_Oriole\\Orchard_Oriole_0116_91645.jpg",
+      "mean_similarity": 0.9089686274528503,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\097.Orchard_Oriole\\Orchard_Oriole_0051_91787.jpg",
+      "mean_similarity": 0.900809109210968,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\097.Orchard_Oriole\\Orchard_Oriole_0015_91565.jpg",
+      "mean_similarity": 0.8985102772712708,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\097.Orchard_Oriole\\Orchard_Oriole_0034_91825.jpg",
+      "mean_similarity": 0.8869843482971191,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\097.Orchard_Oriole\\Orchard_Oriole_0059_92046.jpg",
+      "mean_similarity": 0.8824060559272766,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\097.Orchard_Oriole\\Orchard_Oriole_0033_91532.jpg",
+      "mean_similarity": 0.8790336847305298,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\097.Orchard_Oriole\\Orchard_Oriole_0084_91658.jpg",
+      "mean_similarity": 0.8371682167053223,
+      "rank": 30
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "class_name": "goldfish",
+  "global_description": "Small freshwater fish with a streamlined, elongated body, vibrant orange or gold scales, flowing fins, and a fan-shaped tail. The body is covered in shiny, metallic scales, and the fins are delicate and translucent.",
+  "discriminative_attributes": [
+    "Vibrant orange or gold color",
+    "Streamlined, elongated body",
+    "Flowing fins",
+    "Fan-shaped tail",
+    "Metallic scales"
+  ],
+  "part_details": {
+    "body": "Streamlined, elongated with vibrant orange or gold metallic scales",
+    "fins": "Flowing, delicate, and translucent",
+    "tail": "Fan-shaped, often with a flowing appearance",
+    "scales": "Shiny, metallic, covering the entire body",
+    "eyes": "Round, prominent, located on the sides of the head"
+  },
+  "spatial_relations": [
+    "Fins extend from sides and back of body",
+    "Tail positioned at rear of body",
+    "Eyes located on sides of head"
+  ],
+  "original_dataset_key": "ImageNetR",
+  "original_class_key": "goldfish"
+}

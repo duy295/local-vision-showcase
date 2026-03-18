@@ -1,0 +1,25 @@
+{
+  "class_name": "Elegant Tern",
+  "global_description": "A medium-sized seabird with a slender, streamlined body and long, pointed wings. It features a predominantly white body with a light gray back and wings. The head is capped with a distinctive black crest, and the bill is long, slender, and bright orange. The legs are short and black.",
+  "discriminative_attributes": [
+    "Slender, streamlined body",
+    "Long, pointed wings",
+    "Black crest on head",
+    "Bright orange slender bill",
+    "Light gray back and wings"
+  ],
+  "part_details": {
+    "body": "Streamlined, predominantly white with a light gray back.",
+    "wings": "Long, pointed, light gray with white undersides.",
+    "head": "White with a distinctive black crest.",
+    "bill": "Long, slender, bright orange.",
+    "legs": "Short, black."
+  },
+  "spatial_relations": [
+    "The black crest is positioned on top of the head.",
+    "The long wings extend from the sides of the body.",
+    "The bright orange bill protrudes from the front of the head."
+  ],
+  "original_dataset_key": "CUB200",
+  "original_class_key": "elegant_tern"
+}

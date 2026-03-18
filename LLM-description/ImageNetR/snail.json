@@ -1,0 +1,22 @@
+{
+  "class_name": "snail",
+  "global_description": "Small mollusk with a coiled shell, soft elongated body, typically brown or gray, with a moist texture. The shell is spiraled and hard, providing protection. The body is flexible and extends from the shell, with two pairs of tentacles on the head.",
+  "discriminative_attributes": [
+    "Coiled shell",
+    "Soft elongated body",
+    "Two pairs of tentacles",
+    "Moist texture",
+    "Spiraled shell"
+  ],
+  "part_details": {
+    "shell": "Coiled, spiraled, hard, usually brown or gray",
+    "body": "Soft, elongated, moist, extends from shell",
+    "tentacles": "Two pairs, located on head, flexible"
+  },
+  "spatial_relations": [
+    "Body extends from shell",
+    "Tentacles on head"
+  ],
+  "original_dataset_key": "ImageNetR",
+  "original_class_key": "snail"
+}

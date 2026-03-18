@@ -1,0 +1,27 @@
+{
+  "class_name": "lobster",
+  "global_description": "Marine crustacean with elongated body, hard exoskeleton, typically reddish-brown, large claws, segmented tail, long antennae, multiple legs, and compound eyes.",
+  "discriminative_attributes": [
+    "Elongated body",
+    "Hard exoskeleton",
+    "Large claws",
+    "Segmented tail",
+    "Long antennae"
+  ],
+  "part_details": {
+    "claws": "Large, powerful, and often asymmetrical, used for defense and feeding.",
+    "body": "Elongated with a hard, reddish-brown exoskeleton.",
+    "tail": "Segmented, muscular, used for swimming.",
+    "antennae": "Long and thin, used for sensing the environment.",
+    "eyes": "Compound, located on stalks for a wide field of vision."
+  },
+  "spatial_relations": [
+    "Claws at front of body",
+    "Antennae extend from head",
+    "Tail at rear of body",
+    "Legs beneath body",
+    "Eyes on stalks above head"
+  ],
+  "original_dataset_key": "ImageNetR",
+  "original_class_key": "lobster"
+}

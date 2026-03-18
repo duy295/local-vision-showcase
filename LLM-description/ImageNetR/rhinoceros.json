@@ -1,0 +1,26 @@
+{
+  "class_name": "rhinoceros",
+  "global_description": "Large, robust mammal with thick, gray skin and a massive body. It features one or two prominent horns on its snout, small eyes, and large, rounded ears. The legs are short and sturdy, supporting its heavy frame.",
+  "discriminative_attributes": [
+    "Thick gray skin",
+    "One or two horns on snout",
+    "Massive body",
+    "Short sturdy legs",
+    "Large rounded ears"
+  ],
+  "part_details": {
+    "head": "Large with one or two prominent horns on the snout, small eyes, and large rounded ears.",
+    "body": "Massive and robust, covered in thick, gray skin.",
+    "legs": "Short and sturdy, supporting the heavy body.",
+    "horns": "Prominent, located on the snout, typically one or two.",
+    "ears": "Large and rounded, positioned on the sides of the head."
+  },
+  "spatial_relations": [
+    "Horns positioned on snout",
+    "Ears on sides of head",
+    "Legs beneath body",
+    "Head at front of body"
+  ],
+  "original_dataset_key": "ImageNetR",
+  "original_class_key": "rhinoceros"
+}

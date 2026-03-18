@@ -1,0 +1,26 @@
+{
+  "class_name": "panda",
+  "global_description": "Large bear-like mammal with a distinctive black and white coat, round body, and a gentle expression. Its fur is thick and woolly, with black patches around the eyes, ears, and limbs. The rest of the body is predominantly white, providing a striking contrast.",
+  "discriminative_attributes": [
+    "Black and white coat",
+    "Round body",
+    "Black patches around eyes",
+    "Thick woolly fur",
+    "Gentle expression"
+  ],
+  "part_details": {
+    "head": "Round with black patches around the eyes and small black ears",
+    "body": "Large and round, covered in thick white fur",
+    "limbs": "Short and sturdy, black in color",
+    "fur": "Thick, woolly, and soft",
+    "eyes": "Black patches around them"
+  },
+  "spatial_relations": [
+    "Head at front of body",
+    "Limbs attached to sides of body",
+    "Ears on top of head",
+    "Eyes centered on face"
+  ],
+  "original_dataset_key": "ImageNetR",
+  "original_class_key": "panda"
+}

@@ -1,0 +1,26 @@
+{
+  "class_name": "Bird",
+  "global_description": "A medium-sized bird with a slender body and a striking color pattern. It features a predominantly black head and back, with vibrant orange-yellow underparts. The wings and tail are black with white markings, and the beak is pointed and pale.",
+  "discriminative_attributes": [
+    "Black head and back",
+    "Bright orange-yellow underparts",
+    "Black wings with white markings",
+    "Pointed pale beak",
+    "Black tail with white edges"
+  ],
+  "part_details": {
+    "head": "Black, smooth, with a glossy sheen.",
+    "underparts": "Vibrant orange-yellow, smooth and bright.",
+    "wings": "Black with distinct white markings, elongated and pointed.",
+    "tail": "Black with white edges, fan-shaped.",
+    "beak": "Pointed, pale, and slightly curved."
+  },
+  "spatial_relations": [
+    "The black head transitions into the black back.",
+    "The orange-yellow underparts contrast with the black wings.",
+    "The wings are positioned laterally, extending from the body.",
+    "The tail fans out from the rear of the body."
+  ],
+  "original_dataset_key": "CUB200",
+  "original_class_key": "scott_oriole"
+}

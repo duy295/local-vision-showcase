@@ -1,0 +1,25 @@
+{
+  "class_name": "Hooded Merganser",
+  "global_description": "A small, sleek waterfowl with a distinctive fan-shaped crest. The male features a striking black and white head with a large white patch, contrasting with a chestnut brown body and black back. The female is more subdued with a grayish-brown body and a cinnamon-brown crest.",
+  "discriminative_attributes": [
+    "Fan-shaped crest",
+    "Black and white head with large white patch",
+    "Chestnut brown body",
+    "Black back",
+    "Cinnamon-brown crest on female"
+  ],
+  "part_details": {
+    "head": "Male has a black and white head with a large white patch; female has a cinnamon-brown crest.",
+    "crest": "Fan-shaped, prominent on both sexes, more colorful in males.",
+    "body": "Male has chestnut brown body; female is grayish-brown.",
+    "back": "Black in males, blending into the body color.",
+    "bill": "Thin, serrated, dark-colored."
+  },
+  "spatial_relations": [
+    "The fan-shaped crest is positioned on top of the head.",
+    "The black and white head contrasts with the chestnut brown body.",
+    "The black back extends from the head to the tail."
+  ],
+  "original_dataset_key": "CUB200",
+  "original_class_key": "hooded_merganser"
+}

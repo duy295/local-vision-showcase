@@ -1,0 +1,159 @@
+{
+  "class_name": "093.Clark_Nutcracker",
+  "class_idx": 92,
+  "num_images_in_class": 30,
+  "ec_size_requested": 30,
+  "ec_size_actual": 30,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\093.Clark_Nutcracker\\Clark_Nutcracker_0017_84777.jpg",
+      "mean_similarity": 0.9459855556488037,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\093.Clark_Nutcracker\\Clark_Nutcracker_0112_85350.jpg",
+      "mean_similarity": 0.945736825466156,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\093.Clark_Nutcracker\\Clark_Nutcracker_0067_85302.jpg",
+      "mean_similarity": 0.9452230334281921,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\093.Clark_Nutcracker\\Clark_Nutcracker_0066_85390.jpg",
+      "mean_similarity": 0.9449880719184875,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\093.Clark_Nutcracker\\Clark_Nutcracker_0062_85464.jpg",
+      "mean_similarity": 0.9445361495018005,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\093.Clark_Nutcracker\\Clark_Nutcracker_0087_84898.jpg",
+      "mean_similarity": 0.9443719387054443,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\093.Clark_Nutcracker\\Clark_Nutcracker_0071_85125.jpg",
+      "mean_similarity": 0.9443656206130981,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\093.Clark_Nutcracker\\Clark_Nutcracker_0013_84791.jpg",
+      "mean_similarity": 0.9442399144172668,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\093.Clark_Nutcracker\\Clark_Nutcracker_0117_84912.jpg",
+      "mean_similarity": 0.9438938498497009,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\093.Clark_Nutcracker\\Clark_Nutcracker_0138_85633.jpg",
+      "mean_similarity": 0.9438192248344421,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\093.Clark_Nutcracker\\Clark_Nutcracker_0026_84945.jpg",
+      "mean_similarity": 0.9437445998191833,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\093.Clark_Nutcracker\\Clark_Nutcracker_0020_85099.jpg",
+      "mean_similarity": 0.9431809782981873,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\093.Clark_Nutcracker\\Clark_Nutcracker_0075_85715.jpg",
+      "mean_similarity": 0.9426601529121399,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\093.Clark_Nutcracker\\Clark_Nutcracker_0137_85172.jpg",
+      "mean_similarity": 0.9426478147506714,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\093.Clark_Nutcracker\\Clark_Nutcracker_0082_85477.jpg",
+      "mean_similarity": 0.942645251750946,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\093.Clark_Nutcracker\\Clark_Nutcracker_0003_85296.jpg",
+      "mean_similarity": 0.9424031972885132,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\093.Clark_Nutcracker\\Clark_Nutcracker_0084_85149.jpg",
+      "mean_similarity": 0.9420706033706665,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\093.Clark_Nutcracker\\Clark_Nutcracker_0130_85304.jpg",
+      "mean_similarity": 0.9417332410812378,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\093.Clark_Nutcracker\\Clark_Nutcracker_0124_85128.jpg",
+      "mean_similarity": 0.9413447976112366,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\093.Clark_Nutcracker\\Clark_Nutcracker_0136_85490.jpg",
+      "mean_similarity": 0.9401463866233826,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\093.Clark_Nutcracker\\Clark_Nutcracker_0011_85698.jpg",
+      "mean_similarity": 0.939742386341095,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\093.Clark_Nutcracker\\Clark_Nutcracker_0101_85656.jpg",
+      "mean_similarity": 0.9358004927635193,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\093.Clark_Nutcracker\\Clark_Nutcracker_0073_85343.jpg",
+      "mean_similarity": 0.9349238872528076,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\093.Clark_Nutcracker\\Clark_Nutcracker_0058_85384.jpg",
+      "mean_similarity": 0.9348294734954834,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\093.Clark_Nutcracker\\Clark_Nutcracker_0098_85105.jpg",
+      "mean_similarity": 0.9345969557762146,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\093.Clark_Nutcracker\\Clark_Nutcracker_0105_85097.jpg",
+      "mean_similarity": 0.9319760799407959,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\093.Clark_Nutcracker\\Clark_Nutcracker_0060_84862.jpg",
+      "mean_similarity": 0.9307335019111633,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\093.Clark_Nutcracker\\Clark_Nutcracker_0063_84869.jpg",
+      "mean_similarity": 0.9302274584770203,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\093.Clark_Nutcracker\\Clark_Nutcracker_0069_84767.jpg",
+      "mean_similarity": 0.9300999045372009,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\093.Clark_Nutcracker\\Clark_Nutcracker_0083_85480.jpg",
+      "mean_similarity": 0.9298514127731323,
+      "rank": 30
+    }
+  ]
+}

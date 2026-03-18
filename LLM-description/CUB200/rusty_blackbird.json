@@ -1,0 +1,25 @@
+{
+  "class_name": "Bird",
+  "global_description": "A medium-sized songbird with a slender, elongated body and a slightly curved beak. It has a predominantly black plumage with a rusty or brownish tinge, especially on the head and upperparts. The bird features a glossy sheen on its feathers, giving it a metallic appearance.",
+  "discriminative_attributes": [
+    "Rusty brownish tinge on head",
+    "Glossy black plumage",
+    "Slightly curved beak",
+    "Metallic sheen on feathers",
+    "Medium-sized, slender body"
+  ],
+  "part_details": {
+    "head": "Rusty brownish coloration, slightly rounded with a glossy sheen.",
+    "beak": "Slightly curved, slender, and pointed, dark in color.",
+    "plumage": "Predominantly black with a metallic sheen, rusty tinge on upperparts.",
+    "wings": "Glossy black with hints of brown, medium length.",
+    "tail": "Long, narrow, and black with a slight sheen."
+  },
+  "spatial_relations": [
+    "The rusty head transitions into glossy black plumage on the body.",
+    "The slightly curved beak protrudes from the front of the head.",
+    "The wings extend laterally from the body, showing a metallic sheen."
+  ],
+  "original_dataset_key": "CUB200",
+  "original_class_key": "rusty_blackbird"
+}

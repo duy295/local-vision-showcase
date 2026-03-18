@@ -1,0 +1,159 @@
+{
+  "class_name": "098.Scott_Oriole",
+  "class_idx": 97,
+  "num_images_in_class": 30,
+  "ec_size_requested": 30,
+  "ec_size_actual": 30,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\098.Scott_Oriole\\Scott_Oriole_0068_795804.jpg",
+      "mean_similarity": 0.9389512538909912,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\098.Scott_Oriole\\Scott_Oriole_0043_795828.jpg",
+      "mean_similarity": 0.93803471326828,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\098.Scott_Oriole\\Scott_Oriole_0001_795826.jpg",
+      "mean_similarity": 0.9379410743713379,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\098.Scott_Oriole\\Scott_Oriole_0016_92398.jpg",
+      "mean_similarity": 0.9342504143714905,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\098.Scott_Oriole\\Scott_Oriole_0012_795837.jpg",
+      "mean_similarity": 0.933984637260437,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\098.Scott_Oriole\\Scott_Oriole_0005_92362.jpg",
+      "mean_similarity": 0.9336867332458496,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\098.Scott_Oriole\\Scott_Oriole_0045_92237.jpg",
+      "mean_similarity": 0.9335058927536011,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\098.Scott_Oriole\\Scott_Oriole_0078_795833.jpg",
+      "mean_similarity": 0.933316707611084,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\098.Scott_Oriole\\Scott_Oriole_0075_795817.jpg",
+      "mean_similarity": 0.9321603178977966,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\098.Scott_Oriole\\Scott_Oriole_0025_92207.jpg",
+      "mean_similarity": 0.93206787109375,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\098.Scott_Oriole\\Scott_Oriole_0042_795844.jpg",
+      "mean_similarity": 0.9320296049118042,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\098.Scott_Oriole\\Scott_Oriole_0067_795858.jpg",
+      "mean_similarity": 0.9317123889923096,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\098.Scott_Oriole\\Scott_Oriole_0051_795807.jpg",
+      "mean_similarity": 0.9308149218559265,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\098.Scott_Oriole\\Scott_Oriole_0019_795815.jpg",
+      "mean_similarity": 0.9307608008384705,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\098.Scott_Oriole\\Scott_Oriole_0022_92356.jpg",
+      "mean_similarity": 0.928052544593811,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\098.Scott_Oriole\\Scott_Oriole_0031_90270.jpg",
+      "mean_similarity": 0.9277089834213257,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\098.Scott_Oriole\\Scott_Oriole_0058_795849.jpg",
+      "mean_similarity": 0.9275426268577576,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\098.Scott_Oriole\\Scott_Oriole_0083_795821.jpg",
+      "mean_similarity": 0.9274512529373169,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\098.Scott_Oriole\\Scott_Oriole_0085_92206.jpg",
+      "mean_similarity": 0.9273579120635986,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\098.Scott_Oriole\\Scott_Oriole_0040_795839.jpg",
+      "mean_similarity": 0.9267680644989014,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\098.Scott_Oriole\\Scott_Oriole_0064_92321.jpg",
+      "mean_similarity": 0.925782322883606,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\098.Scott_Oriole\\Scott_Oriole_0056_795816.jpg",
+      "mean_similarity": 0.9250993728637695,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\098.Scott_Oriole\\Scott_Oriole_0077_795831.jpg",
+      "mean_similarity": 0.9228224158287048,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\098.Scott_Oriole\\Scott_Oriole_0008_795814.jpg",
+      "mean_similarity": 0.9225819110870361,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\098.Scott_Oriole\\Scott_Oriole_0024_92302.jpg",
+      "mean_similarity": 0.9195139408111572,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\098.Scott_Oriole\\Scott_Oriole_0030_795830.jpg",
+      "mean_similarity": 0.9140090942382812,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\098.Scott_Oriole\\Scott_Oriole_0069_92271.jpg",
+      "mean_similarity": 0.9049504399299622,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\098.Scott_Oriole\\Scott_Oriole_0003_92247.jpg",
+      "mean_similarity": 0.898030161857605,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\098.Scott_Oriole\\Scott_Oriole_0023_795835.jpg",
+      "mean_similarity": 0.8958032727241516,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\098.Scott_Oriole\\Scott_Oriole_0032_795810.jpg",
+      "mean_similarity": 0.850110650062561,
+      "rank": 30
+    }
+  ]
+}

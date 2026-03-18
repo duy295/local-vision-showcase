@@ -1,0 +1,22 @@
+{
+  "class_name": "Bird",
+  "global_description": "A medium-sized seabird with a robust, streamlined body. It has dark gray plumage on the back and wings, with a lighter gray belly. The bird features a distinctive white facial plume and a prominent, horn-like extension on its beak. The beak is thick and orange, contrasting with its dark feathers.",
+  "discriminative_attributes": [
+    "Dark gray back and wings",
+    "White facial plume",
+    "Horn-like beak extension",
+    "Thick orange beak",
+    "Lighter gray belly"
+  ],
+  "part_details": {
+    "beak": "Thick, orange, with a horn-like extension",
+    "plumage": "Dark gray on back and wings, lighter gray on belly",
+    "facial_plume": "White, distinctive, extending from the face"
+  },
+  "spatial_relations": [
+    "The horn-like extension is on top of the beak",
+    "The white facial plume extends from the face"
+  ],
+  "original_dataset_key": "CUB200",
+  "original_class_key": "rhinoceros_auklet"
+}

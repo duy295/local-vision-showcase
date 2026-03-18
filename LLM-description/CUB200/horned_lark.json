@@ -1,0 +1,23 @@
+{
+  "class_name": "Bird",
+  "global_description": "A small, slender bird with a rounded body and short tail. It features a distinctive black mask across its face and a pair of small, pointed horns. The plumage is a mix of brown, white, and yellow, with a pale underbelly and darker wings.",
+  "discriminative_attributes": [
+    "Black facial mask",
+    "Small pointed horns",
+    "Brown and yellow plumage",
+    "Pale underbelly",
+    "Short tail"
+  ],
+  "part_details": {
+    "face": "Black mask-like markings with small pointed horns above the eyes.",
+    "plumage": "Mix of brown, white, and yellow with darker wings and pale underbelly.",
+    "tail": "Short and rounded, matching the body color."
+  },
+  "spatial_relations": [
+    "The black mask covers the face around the eyes.",
+    "The small horns are positioned above the eyes.",
+    "The wings are darker compared to the pale underbelly."
+  ],
+  "original_dataset_key": "CUB200",
+  "original_class_key": "horned_lark"
+}

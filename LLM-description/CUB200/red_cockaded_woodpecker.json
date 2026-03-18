@@ -1,0 +1,27 @@
+{
+  "class_name": "Bird",
+  "global_description": "A small, slender woodpecker with a black and white barred back and a distinctive red cap. The bird has a white cheek patch and a black crown. Its wings are black with white spots, and it has a white belly. The tail is black with white outer feathers.",
+  "discriminative_attributes": [
+    "Black and white barred back",
+    "Distinctive red cap",
+    "White cheek patch",
+    "Black crown",
+    "Black wings with white spots"
+  ],
+  "part_details": {
+    "head": "Black crown with a red cap and white cheek patch",
+    "back": "Black and white barred pattern",
+    "wings": "Black with white spots",
+    "belly": "White",
+    "tail": "Black with white outer feathers"
+  },
+  "spatial_relations": [
+    "The red cap is on top of the black crown",
+    "The white cheek patch is below the black crown",
+    "The barred back extends from the neck to the tail",
+    "The wings are attached to the sides of the body",
+    "The tail extends from the back end of the body"
+  ],
+  "original_dataset_key": "CUB200",
+  "original_class_key": "red_cockaded_woodpecker"
+}

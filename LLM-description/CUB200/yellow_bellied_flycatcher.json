@@ -1,0 +1,26 @@
+{
+  "class_name": "Bird",
+  "global_description": "A small, compact bird with a rounded body and a short tail. It has a distinctive yellow belly and olive-green upperparts. The wings and tail are darker with subtle white wing bars. The head is rounded with a short, broad bill and a slight eye ring.",
+  "discriminative_attributes": [
+    "Yellow belly",
+    "Olive-green upperparts",
+    "Short broad bill",
+    "Subtle white wing bars",
+    "Rounded head with eye ring"
+  ],
+  "part_details": {
+    "belly": "Bright yellow, smooth texture, rounded shape.",
+    "upperparts": "Olive-green, matte, covering back and wings.",
+    "wings": "Darker olive with subtle white bars, medium length.",
+    "tail": "Short, darker olive, slightly rounded.",
+    "head": "Rounded, olive-green with a slight eye ring."
+  },
+  "spatial_relations": [
+    "The yellow belly is positioned below the olive-green upperparts.",
+    "The wings extend laterally from the sides of the body.",
+    "The short tail is positioned at the rear of the body.",
+    "The head is positioned at the top of the body, above the belly."
+  ],
+  "original_dataset_key": "CUB200",
+  "original_class_key": "yellow_bellied_flycatcher"
+}

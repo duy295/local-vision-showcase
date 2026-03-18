@@ -1,0 +1,159 @@
+{
+  "class_name": "037.Acadian_Flycatcher",
+  "class_idx": 36,
+  "num_images_in_class": 30,
+  "ec_size_requested": 30,
+  "ec_size_actual": 30,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\037.Acadian_Flycatcher\\Acadian_Flycatcher_0053_795620.jpg",
+      "mean_similarity": 0.9444923996925354,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\037.Acadian_Flycatcher\\Acadian_Flycatcher_0003_29094.jpg",
+      "mean_similarity": 0.9430887699127197,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\037.Acadian_Flycatcher\\Acadian_Flycatcher_0035_795618.jpg",
+      "mean_similarity": 0.9427286386489868,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\037.Acadian_Flycatcher\\Acadian_Flycatcher_0028_795611.jpg",
+      "mean_similarity": 0.9412617683410645,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\037.Acadian_Flycatcher\\Acadian_Flycatcher_0007_795600.jpg",
+      "mean_similarity": 0.9412233829498291,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\037.Acadian_Flycatcher\\Acadian_Flycatcher_0014_795607.jpg",
+      "mean_similarity": 0.9403949975967407,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\037.Acadian_Flycatcher\\Acadian_Flycatcher_0068_795590.jpg",
+      "mean_similarity": 0.9403055310249329,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\037.Acadian_Flycatcher\\Acadian_Flycatcher_0039_795606.jpg",
+      "mean_similarity": 0.9391089677810669,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\037.Acadian_Flycatcher\\Acadian_Flycatcher_0055_795609.jpg",
+      "mean_similarity": 0.9382516741752625,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\037.Acadian_Flycatcher\\Acadian_Flycatcher_0056_29086.jpg",
+      "mean_similarity": 0.9378537535667419,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\037.Acadian_Flycatcher\\Acadian_Flycatcher_0045_795587.jpg",
+      "mean_similarity": 0.9376981258392334,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\037.Acadian_Flycatcher\\Acadian_Flycatcher_0032_795622.jpg",
+      "mean_similarity": 0.9373931884765625,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\037.Acadian_Flycatcher\\Acadian_Flycatcher_0009_29155.jpg",
+      "mean_similarity": 0.9372829794883728,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\037.Acadian_Flycatcher\\Acadian_Flycatcher_0054_29113.jpg",
+      "mean_similarity": 0.9365895986557007,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\037.Acadian_Flycatcher\\Acadian_Flycatcher_0017_795598.jpg",
+      "mean_similarity": 0.9363434314727783,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\037.Acadian_Flycatcher\\Acadian_Flycatcher_0008_795599.jpg",
+      "mean_similarity": 0.9363418817520142,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\037.Acadian_Flycatcher\\Acadian_Flycatcher_0006_795595.jpg",
+      "mean_similarity": 0.935864269733429,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\037.Acadian_Flycatcher\\Acadian_Flycatcher_0019_795592.jpg",
+      "mean_similarity": 0.9357913136482239,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\037.Acadian_Flycatcher\\Acadian_Flycatcher_0067_29197.jpg",
+      "mean_similarity": 0.9356486797332764,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\037.Acadian_Flycatcher\\Acadian_Flycatcher_0033_29195.jpg",
+      "mean_similarity": 0.9344779849052429,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\037.Acadian_Flycatcher\\Acadian_Flycatcher_0063_795585.jpg",
+      "mean_similarity": 0.9341611862182617,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\037.Acadian_Flycatcher\\Acadian_Flycatcher_0058_795602.jpg",
+      "mean_similarity": 0.9337756633758545,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\037.Acadian_Flycatcher\\Acadian_Flycatcher_0020_29069.jpg",
+      "mean_similarity": 0.9321927428245544,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\037.Acadian_Flycatcher\\Acadian_Flycatcher_0047_795593.jpg",
+      "mean_similarity": 0.9318942427635193,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\037.Acadian_Flycatcher\\Acadian_Flycatcher_0016_29217.jpg",
+      "mean_similarity": 0.9294887781143188,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\037.Acadian_Flycatcher\\Acadian_Flycatcher_0040_795629.jpg",
+      "mean_similarity": 0.9270967841148376,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\037.Acadian_Flycatcher\\Acadian_Flycatcher_0066_29190.jpg",
+      "mean_similarity": 0.9267924427986145,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\037.Acadian_Flycatcher\\Acadian_Flycatcher_0004_795623.jpg",
+      "mean_similarity": 0.9239742159843445,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\037.Acadian_Flycatcher\\Acadian_Flycatcher_0010_29199.jpg",
+      "mean_similarity": 0.92387855052948,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\037.Acadian_Flycatcher\\Acadian_Flycatcher_0065_29070.jpg",
+      "mean_similarity": 0.9230445027351379,
+      "rank": 30
+    }
+  ]
+}

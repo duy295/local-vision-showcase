@@ -1,0 +1,25 @@
+{
+  "class_name": "Bird",
+  "global_description": "A small, compact bird with a square tail and pointed wings. It has a dark blue back, pale underparts, and a distinctive chestnut-colored throat and forehead. The bird's wings and tail are dark with lighter edges, and its body is covered in smooth feathers.",
+  "discriminative_attributes": [
+    "Square tail",
+    "Chestnut throat and forehead",
+    "Dark blue back",
+    "Pale underparts",
+    "Pointed wings"
+  ],
+  "part_details": {
+    "throat": "Chestnut-colored, smooth texture",
+    "back": "Dark blue, glossy feathers",
+    "wings": "Pointed, dark with lighter edges",
+    "tail": "Square-shaped, dark with light edges",
+    "underparts": "Pale, smooth feathers"
+  },
+  "spatial_relations": [
+    "The chestnut throat is below the dark blue head",
+    "The pointed wings extend from the sides of the body",
+    "The square tail is at the rear of the body"
+  ],
+  "original_dataset_key": "CUB200",
+  "original_class_key": "cliff_swallow"
+}

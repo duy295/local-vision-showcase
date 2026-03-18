@@ -1,0 +1,25 @@
+{
+  "class_name": "Lazuli Bunting",
+  "global_description": "A small, compact songbird with a vibrant blue head and back, contrasting with a rusty orange breast and white belly. The wings are dark with blue edges, and the tail is short and slightly forked. The bird's plumage is smooth and glossy.",
+  "discriminative_attributes": [
+    "Vibrant blue head and back",
+    "Rusty orange breast",
+    "White belly",
+    "Dark wings with blue edges",
+    "Short slightly forked tail"
+  ],
+  "part_details": {
+    "head": "Bright blue, smooth and glossy, with small dark eyes.",
+    "breast": "Rusty orange, smooth texture, contrasting with the blue head.",
+    "belly": "White, smooth, blending into the orange breast.",
+    "wings": "Dark with blue edges, compact and streamlined.",
+    "tail": "Short, slightly forked, dark with blue highlights."
+  },
+  "spatial_relations": [
+    "The blue head transitions into a rusty orange breast.",
+    "The wings are attached to the sides of the body, edged with blue.",
+    "The tail extends from the rear, slightly forked."
+  ],
+  "original_dataset_key": "CUB200",
+  "original_class_key": "lazuli_bunting"
+}

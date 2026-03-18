@@ -1,0 +1,26 @@
+{
+  "class_name": "bee",
+  "global_description": "Small insect with a compact, oval body, covered in fine hairs. Predominantly yellow and black striped pattern, with translucent wings and six legs. The head features large compound eyes and antennae, while the abdomen ends with a stinger.",
+  "discriminative_attributes": [
+    "Yellow and black stripes",
+    "Translucent wings",
+    "Compact oval body",
+    "Large compound eyes",
+    "Stinger"
+  ],
+  "part_details": {
+    "head": "Small with large compound eyes and antennae",
+    "thorax": "Middle segment with wings and legs attached",
+    "abdomen": "Striped, ending with a stinger",
+    "wings": "Translucent, veined",
+    "legs": "Six, attached to thorax"
+  },
+  "spatial_relations": [
+    "Head at front, abdomen at rear",
+    "Wings attached to thorax",
+    "Legs beneath thorax",
+    "Antennae on head"
+  ],
+  "original_dataset_key": "cifar100",
+  "original_class_key": "bee"
+}

@@ -1,0 +1,159 @@
+{
+  "class_name": "081.Pied_Kingfisher",
+  "class_idx": 80,
+  "num_images_in_class": 30,
+  "ec_size_requested": 30,
+  "ec_size_actual": 30,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\081.Pied_Kingfisher\\Pied_Kingfisher_0016_72280.jpg",
+      "mean_similarity": 0.9480671286582947,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\081.Pied_Kingfisher\\Pied_Kingfisher_0007_72438.jpg",
+      "mean_similarity": 0.9478524327278137,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\081.Pied_Kingfisher\\Pied_Kingfisher_0128_72775.jpg",
+      "mean_similarity": 0.947607696056366,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\081.Pied_Kingfisher\\Pied_Kingfisher_0017_72316.jpg",
+      "mean_similarity": 0.9475983381271362,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\081.Pied_Kingfisher\\Pied_Kingfisher_0046_72156.jpg",
+      "mean_similarity": 0.9475481510162354,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\081.Pied_Kingfisher\\Pied_Kingfisher_0109_72082.jpg",
+      "mean_similarity": 0.9474655389785767,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\081.Pied_Kingfisher\\Pied_Kingfisher_0014_72119.jpg",
+      "mean_similarity": 0.9474345445632935,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\081.Pied_Kingfisher\\Pied_Kingfisher_0024_71560.jpg",
+      "mean_similarity": 0.9472917914390564,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\081.Pied_Kingfisher\\Pied_Kingfisher_0073_72508.jpg",
+      "mean_similarity": 0.946850597858429,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\081.Pied_Kingfisher\\Pied_Kingfisher_0074_71830.jpg",
+      "mean_similarity": 0.9465793967247009,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\081.Pied_Kingfisher\\Pied_Kingfisher_0122_71789.jpg",
+      "mean_similarity": 0.9462527632713318,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\081.Pied_Kingfisher\\Pied_Kingfisher_0026_71875.jpg",
+      "mean_similarity": 0.9460852146148682,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\081.Pied_Kingfisher\\Pied_Kingfisher_0011_72143.jpg",
+      "mean_similarity": 0.9457545280456543,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\081.Pied_Kingfisher\\Pied_Kingfisher_0019_72659.jpg",
+      "mean_similarity": 0.9453096389770508,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\081.Pied_Kingfisher\\Pied_Kingfisher_0062_72379.jpg",
+      "mean_similarity": 0.9443112015724182,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\081.Pied_Kingfisher\\Pied_Kingfisher_0029_72440.jpg",
+      "mean_similarity": 0.9442877769470215,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\081.Pied_Kingfisher\\Pied_Kingfisher_0061_72193.jpg",
+      "mean_similarity": 0.9441850781440735,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\081.Pied_Kingfisher\\Pied_Kingfisher_0075_72581.jpg",
+      "mean_similarity": 0.9438583254814148,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\081.Pied_Kingfisher\\Pied_Kingfisher_0022_72247.jpg",
+      "mean_similarity": 0.9437131881713867,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\081.Pied_Kingfisher\\Pied_Kingfisher_0051_71429.jpg",
+      "mean_similarity": 0.9436222314834595,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\081.Pied_Kingfisher\\Pied_Kingfisher_0121_72378.jpg",
+      "mean_similarity": 0.9433484673500061,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\081.Pied_Kingfisher\\Pied_Kingfisher_0093_72465.jpg",
+      "mean_similarity": 0.94317227602005,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\081.Pied_Kingfisher\\Pied_Kingfisher_0080_72199.jpg",
+      "mean_similarity": 0.9425035119056702,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\081.Pied_Kingfisher\\Pied_Kingfisher_0033_71883.jpg",
+      "mean_similarity": 0.9423165917396545,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\081.Pied_Kingfisher\\Pied_Kingfisher_0040_72739.jpg",
+      "mean_similarity": 0.9420033097267151,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\081.Pied_Kingfisher\\Pied_Kingfisher_0106_71404.jpg",
+      "mean_similarity": 0.9414265155792236,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\081.Pied_Kingfisher\\Pied_Kingfisher_0071_72576.jpg",
+      "mean_similarity": 0.9411895275115967,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\081.Pied_Kingfisher\\Pied_Kingfisher_0107_71987.jpg",
+      "mean_similarity": 0.939405083656311,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\081.Pied_Kingfisher\\Pied_Kingfisher_0083_72430.jpg",
+      "mean_similarity": 0.9343336820602417,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\081.Pied_Kingfisher\\Pied_Kingfisher_0063_71999.jpg",
+      "mean_similarity": 0.9305148720741272,
+      "rank": 30
+    }
+  ]
+}

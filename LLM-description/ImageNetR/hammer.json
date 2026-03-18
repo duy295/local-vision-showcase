@@ -1,0 +1,24 @@
+{
+  "class_name": "hammer",
+  "global_description": "Tool with a long wooden or metal handle and a heavy metal head, typically used for driving nails. The head is often dual-sided, with one flat surface for striking and a claw on the opposite side for pulling nails.",
+  "discriminative_attributes": [
+    "Long handle",
+    "Heavy metal head",
+    "Flat striking surface",
+    "Claw for pulling nails",
+    "Wooden or metal material"
+  ],
+  "part_details": {
+    "handle": "Long, cylindrical, made of wood or metal, smooth texture",
+    "head": "Heavy, metallic, dual-sided with flat and claw surfaces",
+    "striking_surface": "Flat, smooth, metallic",
+    "claw": "Curved, forked, metallic"
+  },
+  "spatial_relations": [
+    "Head attached to top of handle",
+    "Striking surface on one side of head",
+    "Claw opposite striking surface"
+  ],
+  "original_dataset_key": "ImageNetR",
+  "original_class_key": "hammer"
+}

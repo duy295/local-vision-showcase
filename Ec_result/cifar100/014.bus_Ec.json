@@ -1,0 +1,1259 @@
+{
+  "class_name": "bus",
+  "class_idx": 13,
+  "num_images_in_class": 500,
+  "ec_size_requested": 250,
+  "ec_size_actual": 250,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\minibus_s_002291.png",
+      "mean_similarity": 0.944290280342102,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\minibus_s_000176.png",
+      "mean_similarity": 0.9442634582519531,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\bus_s_000988.png",
+      "mean_similarity": 0.944149911403656,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\bus_s_000454.png",
+      "mean_similarity": 0.9440736174583435,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\bus_s_000011.png",
+      "mean_similarity": 0.943708598613739,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\minibus_s_000211.png",
+      "mean_similarity": 0.9436375498771667,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\bus_s_001842.png",
+      "mean_similarity": 0.9435825943946838,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\bus_s_000457.png",
+      "mean_similarity": 0.9434217214584351,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\school_bus_s_000175.png",
+      "mean_similarity": 0.9433620572090149,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\bus_s_000499.png",
+      "mean_similarity": 0.9432302117347717,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\trolleybus_s_000238.png",
+      "mean_similarity": 0.9432275295257568,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\bus_s_000520.png",
+      "mean_similarity": 0.9430724382400513,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\school_bus_s_000361.png",
+      "mean_similarity": 0.9429821968078613,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\trolleybus_s_000124.png",
+      "mean_similarity": 0.9429520964622498,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\school_bus_s_000568.png",
+      "mean_similarity": 0.9429305791854858,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\bus_s_000337.png",
+      "mean_similarity": 0.9428637623786926,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\bus_s_000324.png",
+      "mean_similarity": 0.9428372383117676,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\minibus_s_000198.png",
+      "mean_similarity": 0.94283527135849,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\bus_s_000171.png",
+      "mean_similarity": 0.9427943825721741,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\bus_s_000519.png",
+      "mean_similarity": 0.9427820444107056,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\bus_s_001174.png",
+      "mean_similarity": 0.9427589178085327,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\bus_s_000586.png",
+      "mean_similarity": 0.9427493810653687,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\trolleybus_s_000065.png",
+      "mean_similarity": 0.9426606893539429,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\bus_s_000188.png",
+      "mean_similarity": 0.9426594376564026,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\bus_s_001165.png",
+      "mean_similarity": 0.9425554275512695,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\school_bus_s_001505.png",
+      "mean_similarity": 0.9425314664840698,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\bus_s_002509.png",
+      "mean_similarity": 0.9424960613250732,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\trolleybus_s_000080.png",
+      "mean_similarity": 0.9424905180931091,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\school_bus_s_000486.png",
+      "mean_similarity": 0.9424884915351868,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\school_bus_s_000396.png",
+      "mean_similarity": 0.9424211978912354,
+      "rank": 30
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\minibus_s_001169.png",
+      "mean_similarity": 0.942409873008728,
+      "rank": 31
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\minibus_s_000260.png",
+      "mean_similarity": 0.9424065351486206,
+      "rank": 32
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\bus_s_002358.png",
+      "mean_similarity": 0.9424004554748535,
+      "rank": 33
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\bus_s_002610.png",
+      "mean_similarity": 0.9423919916152954,
+      "rank": 34
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\bus_s_001492.png",
+      "mean_similarity": 0.9423885941505432,
+      "rank": 35
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\bus_s_001644.png",
+      "mean_similarity": 0.9423527121543884,
+      "rank": 36
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\bus_s_002451.png",
+      "mean_similarity": 0.9423293471336365,
+      "rank": 37
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\school_bus_s_001075.png",
+      "mean_similarity": 0.9422904253005981,
+      "rank": 38
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\minibus_s_000765.png",
+      "mean_similarity": 0.9422420263290405,
+      "rank": 39
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\minibus_s_000371.png",
+      "mean_similarity": 0.9421802163124084,
+      "rank": 40
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\bus_s_001000.png",
+      "mean_similarity": 0.9421776533126831,
+      "rank": 41
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\bus_s_002258.png",
+      "mean_similarity": 0.9421736598014832,
+      "rank": 42
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\bus_s_000503.png",
+      "mean_similarity": 0.9421014785766602,
+      "rank": 43
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\trolleybus_s_000106.png",
+      "mean_similarity": 0.9420834183692932,
+      "rank": 44
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\bus_s_000280.png",
+      "mean_similarity": 0.9420572519302368,
+      "rank": 45
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\bus_s_003081.png",
+      "mean_similarity": 0.9420437216758728,
+      "rank": 46
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\minibus_s_001386.png",
+      "mean_similarity": 0.9420412182807922,
+      "rank": 47
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\bus_s_001491.png",
+      "mean_similarity": 0.9420337080955505,
+      "rank": 48
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\bus_s_000412.png",
+      "mean_similarity": 0.9420247673988342,
+      "rank": 49
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\bus_s_000064.png",
+      "mean_similarity": 0.942023754119873,
+      "rank": 50
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\bus_s_000110.png",
+      "mean_similarity": 0.9420143961906433,
+      "rank": 51
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\minibus_s_001632.png",
+      "mean_similarity": 0.9419988989830017,
+      "rank": 52
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\bus_s_000036.png",
+      "mean_similarity": 0.9418871402740479,
+      "rank": 53
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\minibus_s_001541.png",
+      "mean_similarity": 0.9418661594390869,
+      "rank": 54
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\minibus_s_001966.png",
+      "mean_similarity": 0.9418652653694153,
+      "rank": 55
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\bus_s_000233.png",
+      "mean_similarity": 0.941862165927887,
+      "rank": 56
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\bus_s_000325.png",
+      "mean_similarity": 0.9418138265609741,
+      "rank": 57
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\school_bus_s_000838.png",
+      "mean_similarity": 0.941802442073822,
+      "rank": 58
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\trolleybus_s_000255.png",
+      "mean_similarity": 0.9417961835861206,
+      "rank": 59
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\bus_s_000006.png",
+      "mean_similarity": 0.9417564272880554,
+      "rank": 60
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\bus_s_000469.png",
+      "mean_similarity": 0.9417402744293213,
+      "rank": 61
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\minibus_s_001775.png",
+      "mean_similarity": 0.9417183995246887,
+      "rank": 62
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\bus_s_000866.png",
+      "mean_similarity": 0.9417031407356262,
+      "rank": 63
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\bus_s_000467.png",
+      "mean_similarity": 0.9416902661323547,
+      "rank": 64
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\school_bus_s_000637.png",
+      "mean_similarity": 0.9416731595993042,
+      "rank": 65
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\school_bus_s_002130.png",
+      "mean_similarity": 0.9416530728340149,
+      "rank": 66
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\school_bus_s_000909.png",
+      "mean_similarity": 0.9416507482528687,
+      "rank": 67
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\bus_s_000172.png",
+      "mean_similarity": 0.9416344165802002,
+      "rank": 68
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\bus_s_003204.png",
+      "mean_similarity": 0.9416051506996155,
+      "rank": 69
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\school_bus_s_000010.png",
+      "mean_similarity": 0.9415196776390076,
+      "rank": 70
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\school_bus_s_001405.png",
+      "mean_similarity": 0.9415174126625061,
+      "rank": 71
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\minibus_s_001729.png",
+      "mean_similarity": 0.9415155053138733,
+      "rank": 72
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\bus_s_000411.png",
+      "mean_similarity": 0.9414057731628418,
+      "rank": 73
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\minibus_s_001003.png",
+      "mean_similarity": 0.9414000511169434,
+      "rank": 74
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\bus_s_000593.png",
+      "mean_similarity": 0.9413717985153198,
+      "rank": 75
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\school_bus_s_001492.png",
+      "mean_similarity": 0.9412457942962646,
+      "rank": 76
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\minibus_s_000959.png",
+      "mean_similarity": 0.9411883354187012,
+      "rank": 77
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\bus_s_001151.png",
+      "mean_similarity": 0.9411637187004089,
+      "rank": 78
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\bus_s_000166.png",
+      "mean_similarity": 0.9411560297012329,
+      "rank": 79
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\bus_s_002994.png",
+      "mean_similarity": 0.9411547780036926,
+      "rank": 80
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\minibus_s_000427.png",
+      "mean_similarity": 0.9411160349845886,
+      "rank": 81
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\bus_s_000405.png",
+      "mean_similarity": 0.9410803318023682,
+      "rank": 82
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\school_bus_s_000443.png",
+      "mean_similarity": 0.9410507678985596,
+      "rank": 83
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\bus_s_000024.png",
+      "mean_similarity": 0.9410265684127808,
+      "rank": 84
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\minibus_s_000477.png",
+      "mean_similarity": 0.9410020112991333,
+      "rank": 85
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\minibus_s_000544.png",
+      "mean_similarity": 0.9409683346748352,
+      "rank": 86
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\school_bus_s_001120.png",
+      "mean_similarity": 0.9409247040748596,
+      "rank": 87
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\minibus_s_001910.png",
+      "mean_similarity": 0.9409202933311462,
+      "rank": 88
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\minibus_s_000309.png",
+      "mean_similarity": 0.9409192204475403,
+      "rank": 89
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\bus_s_002576.png",
+      "mean_similarity": 0.9408774971961975,
+      "rank": 90
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\bus_s_000446.png",
+      "mean_similarity": 0.9408584237098694,
+      "rank": 91
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\bus_s_002036.png",
+      "mean_similarity": 0.9408419132232666,
+      "rank": 92
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\bus_s_000463.png",
+      "mean_similarity": 0.9408366680145264,
+      "rank": 93
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\bus_s_002591.png",
+      "mean_similarity": 0.9408166408538818,
+      "rank": 94
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\minibus_s_000301.png",
+      "mean_similarity": 0.9408019185066223,
+      "rank": 95
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\trolleybus_s_000002.png",
+      "mean_similarity": 0.9407922625541687,
+      "rank": 96
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\school_bus_s_000017.png",
+      "mean_similarity": 0.9407661557197571,
+      "rank": 97
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\bus_s_000124.png",
+      "mean_similarity": 0.9407433271408081,
+      "rank": 98
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\minibus_s_001205.png",
+      "mean_similarity": 0.9407383799552917,
+      "rank": 99
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\minibus_s_001414.png",
+      "mean_similarity": 0.9407314658164978,
+      "rank": 100
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\bus_s_000062.png",
+      "mean_similarity": 0.9407212138175964,
+      "rank": 101
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\minibus_s_000199.png",
+      "mean_similarity": 0.9407099485397339,
+      "rank": 102
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\bus_s_000072.png",
+      "mean_similarity": 0.940659761428833,
+      "rank": 103
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\minibus_s_001302.png",
+      "mean_similarity": 0.9406211376190186,
+      "rank": 104
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\minibus_s_000183.png",
+      "mean_similarity": 0.9405667185783386,
+      "rank": 105
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\bus_s_000002.png",
+      "mean_similarity": 0.9405587315559387,
+      "rank": 106
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\bus_s_000159.png",
+      "mean_similarity": 0.9405390620231628,
+      "rank": 107
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\bus_s_000069.png",
+      "mean_similarity": 0.9404962658882141,
+      "rank": 108
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\bus_s_000015.png",
+      "mean_similarity": 0.9404588341712952,
+      "rank": 109
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\bus_s_000034.png",
+      "mean_similarity": 0.940457284450531,
+      "rank": 110
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\minibus_s_000250.png",
+      "mean_similarity": 0.9404129385948181,
+      "rank": 111
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\bus_s_001772.png",
+      "mean_similarity": 0.9404115676879883,
+      "rank": 112
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\bus_s_000706.png",
+      "mean_similarity": 0.9404030442237854,
+      "rank": 113
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\minibus_s_001207.png",
+      "mean_similarity": 0.9403911232948303,
+      "rank": 114
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\bus_s_000904.png",
+      "mean_similarity": 0.9403566718101501,
+      "rank": 115
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\minibus_s_000518.png",
+      "mean_similarity": 0.9403363466262817,
+      "rank": 116
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\school_bus_s_001159.png",
+      "mean_similarity": 0.9403197169303894,
+      "rank": 117
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\school_bus_s_000236.png",
+      "mean_similarity": 0.9402956366539001,
+      "rank": 118
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\bus_s_002382.png",
+      "mean_similarity": 0.9402780532836914,
+      "rank": 119
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\bus_s_000223.png",
+      "mean_similarity": 0.9402543902397156,
+      "rank": 120
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\bus_s_001389.png",
+      "mean_similarity": 0.9402334690093994,
+      "rank": 121
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\school_bus_s_001693.png",
+      "mean_similarity": 0.9401838183403015,
+      "rank": 122
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\minibus_s_002199.png",
+      "mean_similarity": 0.9401249885559082,
+      "rank": 123
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\bus_s_001787.png",
+      "mean_similarity": 0.9401038885116577,
+      "rank": 124
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\minibus_s_001032.png",
+      "mean_similarity": 0.9401028752326965,
+      "rank": 125
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\trolleybus_s_000194.png",
+      "mean_similarity": 0.9400397539138794,
+      "rank": 126
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\school_bus_s_001104.png",
+      "mean_similarity": 0.9400342702865601,
+      "rank": 127
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\bus_s_000252.png",
+      "mean_similarity": 0.9400189518928528,
+      "rank": 128
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\bus_s_000596.png",
+      "mean_similarity": 0.9399598836898804,
+      "rank": 129
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\bus_s_002688.png",
+      "mean_similarity": 0.939940869808197,
+      "rank": 130
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\school_bus_s_001370.png",
+      "mean_similarity": 0.9399046301841736,
+      "rank": 131
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\minibus_s_000461.png",
+      "mean_similarity": 0.939903974533081,
+      "rank": 132
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\bus_s_000017.png",
+      "mean_similarity": 0.9398839473724365,
+      "rank": 133
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\bus_s_000523.png",
+      "mean_similarity": 0.9398742914199829,
+      "rank": 134
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\bus_s_000030.png",
+      "mean_similarity": 0.939873456954956,
+      "rank": 135
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\minibus_s_001389.png",
+      "mean_similarity": 0.9398501515388489,
+      "rank": 136
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\bus_s_002891.png",
+      "mean_similarity": 0.9398335218429565,
+      "rank": 137
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\minibus_s_001154.png",
+      "mean_similarity": 0.9398300051689148,
+      "rank": 138
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\school_bus_s_001613.png",
+      "mean_similarity": 0.9398018717765808,
+      "rank": 139
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\minibus_s_000052.png",
+      "mean_similarity": 0.9397938847541809,
+      "rank": 140
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\bus_s_000289.png",
+      "mean_similarity": 0.9397883415222168,
+      "rank": 141
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\minibus_s_000354.png",
+      "mean_similarity": 0.9397541880607605,
+      "rank": 142
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\trolleybus_s_000264.png",
+      "mean_similarity": 0.9397011399269104,
+      "rank": 143
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\minibus_s_000735.png",
+      "mean_similarity": 0.9396960735321045,
+      "rank": 144
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\bus_s_001944.png",
+      "mean_similarity": 0.9396929144859314,
+      "rank": 145
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\minibus_s_001225.png",
+      "mean_similarity": 0.9396848082542419,
+      "rank": 146
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\minibus_s_001662.png",
+      "mean_similarity": 0.9396839737892151,
+      "rank": 147
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\bus_s_000153.png",
+      "mean_similarity": 0.9396276473999023,
+      "rank": 148
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\bus_s_000310.png",
+      "mean_similarity": 0.9395855069160461,
+      "rank": 149
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\bus_s_002127.png",
+      "mean_similarity": 0.9395710229873657,
+      "rank": 150
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\bus_s_002857.png",
+      "mean_similarity": 0.9395559430122375,
+      "rank": 151
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\minibus_s_002056.png",
+      "mean_similarity": 0.9395558834075928,
+      "rank": 152
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\school_bus_s_001114.png",
+      "mean_similarity": 0.9395509362220764,
+      "rank": 153
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\bus_s_002394.png",
+      "mean_similarity": 0.9395436644554138,
+      "rank": 154
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\bus_s_001737.png",
+      "mean_similarity": 0.9395340085029602,
+      "rank": 155
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\bus_s_000021.png",
+      "mean_similarity": 0.9395084977149963,
+      "rank": 156
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\school_bus_s_001881.png",
+      "mean_similarity": 0.9394927024841309,
+      "rank": 157
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\minibus_s_000730.png",
+      "mean_similarity": 0.9394720792770386,
+      "rank": 158
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\school_bus_s_000517.png",
+      "mean_similarity": 0.9394508004188538,
+      "rank": 159
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\bus_s_000043.png",
+      "mean_similarity": 0.9394426345825195,
+      "rank": 160
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\bus_s_000145.png",
+      "mean_similarity": 0.9394347667694092,
+      "rank": 161
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\bus_s_000916.png",
+      "mean_similarity": 0.9394229650497437,
+      "rank": 162
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\bus_s_000967.png",
+      "mean_similarity": 0.9394189715385437,
+      "rank": 163
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\school_bus_s_001954.png",
+      "mean_similarity": 0.9394056797027588,
+      "rank": 164
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\school_bus_s_000309.png",
+      "mean_similarity": 0.9393953084945679,
+      "rank": 165
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\minibus_s_002190.png",
+      "mean_similarity": 0.9393617510795593,
+      "rank": 166
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\bus_s_003139.png",
+      "mean_similarity": 0.9393489360809326,
+      "rank": 167
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\bus_s_000569.png",
+      "mean_similarity": 0.9393463134765625,
+      "rank": 168
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\trolleybus_s_000072.png",
+      "mean_similarity": 0.9393383860588074,
+      "rank": 169
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\minibus_s_002109.png",
+      "mean_similarity": 0.9393266439437866,
+      "rank": 170
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\bus_s_001959.png",
+      "mean_similarity": 0.9393155574798584,
+      "rank": 171
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\bus_s_000035.png",
+      "mean_similarity": 0.9393066763877869,
+      "rank": 172
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\minibus_s_002051.png",
+      "mean_similarity": 0.9392738342285156,
+      "rank": 173
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\minibus_s_002110.png",
+      "mean_similarity": 0.9392547607421875,
+      "rank": 174
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\school_bus_s_001543.png",
+      "mean_similarity": 0.9392426609992981,
+      "rank": 175
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\bus_s_000079.png",
+      "mean_similarity": 0.9392290711402893,
+      "rank": 176
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\minibus_s_001305.png",
+      "mean_similarity": 0.9392129182815552,
+      "rank": 177
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\bus_s_000575.png",
+      "mean_similarity": 0.9392103552818298,
+      "rank": 178
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\minibus_s_000163.png",
+      "mean_similarity": 0.9392077922821045,
+      "rank": 179
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\school_bus_s_001211.png",
+      "mean_similarity": 0.9391883015632629,
+      "rank": 180
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\school_bus_s_000621.png",
+      "mean_similarity": 0.9391689896583557,
+      "rank": 181
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\bus_s_000335.png",
+      "mean_similarity": 0.9391685724258423,
+      "rank": 182
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\bus_s_002831.png",
+      "mean_similarity": 0.9391366839408875,
+      "rank": 183
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\minibus_s_001323.png",
+      "mean_similarity": 0.9391364455223083,
+      "rank": 184
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\minibus_s_001319.png",
+      "mean_similarity": 0.9390760660171509,
+      "rank": 185
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\bus_s_001721.png",
+      "mean_similarity": 0.9390659928321838,
+      "rank": 186
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\bus_s_000468.png",
+      "mean_similarity": 0.9390490055084229,
+      "rank": 187
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\bus_s_002448.png",
+      "mean_similarity": 0.9389892220497131,
+      "rank": 188
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\bus_s_000205.png",
+      "mean_similarity": 0.9389874339103699,
+      "rank": 189
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\minibus_s_002204.png",
+      "mean_similarity": 0.9389829635620117,
+      "rank": 190
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\minibus_s_000279.png",
+      "mean_similarity": 0.9389798641204834,
+      "rank": 191
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\school_bus_s_001106.png",
+      "mean_similarity": 0.9389767646789551,
+      "rank": 192
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\bus_s_002759.png",
+      "mean_similarity": 0.9389697909355164,
+      "rank": 193
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\bus_s_000013.png",
+      "mean_similarity": 0.9389623999595642,
+      "rank": 194
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\minibus_s_002169.png",
+      "mean_similarity": 0.9389424324035645,
+      "rank": 195
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\bus_s_000014.png",
+      "mean_similarity": 0.9389393925666809,
+      "rank": 196
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\bus_s_000818.png",
+      "mean_similarity": 0.9388503432273865,
+      "rank": 197
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\school_bus_s_001510.png",
+      "mean_similarity": 0.9388313293457031,
+      "rank": 198
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\school_bus_s_000709.png",
+      "mean_similarity": 0.9388212561607361,
+      "rank": 199
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\minibus_s_000156.png",
+      "mean_similarity": 0.9387556910514832,
+      "rank": 200
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\minibus_s_000448.png",
+      "mean_similarity": 0.9387279748916626,
+      "rank": 201
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\minibus_s_001616.png",
+      "mean_similarity": 0.9386935234069824,
+      "rank": 202
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\minibus_s_000566.png",
+      "mean_similarity": 0.9386922717094421,
+      "rank": 203
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\minibus_s_000976.png",
+      "mean_similarity": 0.9386206865310669,
+      "rank": 204
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\bus_s_000001.png",
+      "mean_similarity": 0.9385724663734436,
+      "rank": 205
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\bus_s_002263.png",
+      "mean_similarity": 0.9385396838188171,
+      "rank": 206
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\bus_s_002693.png",
+      "mean_similarity": 0.9385126829147339,
+      "rank": 207
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\minibus_s_001590.png",
+      "mean_similarity": 0.9385027289390564,
+      "rank": 208
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\school_bus_s_000679.png",
+      "mean_similarity": 0.9384512305259705,
+      "rank": 209
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\minibus_s_000105.png",
+      "mean_similarity": 0.9384161829948425,
+      "rank": 210
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\trolleybus_s_000258.png",
+      "mean_similarity": 0.9383801817893982,
+      "rank": 211
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\minibus_s_000516.png",
+      "mean_similarity": 0.9383592009544373,
+      "rank": 212
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\minibus_s_000068.png",
+      "mean_similarity": 0.9382714033126831,
+      "rank": 213
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\trolleybus_s_000335.png",
+      "mean_similarity": 0.9382684826850891,
+      "rank": 214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\minibus_s_000237.png",
+      "mean_similarity": 0.938256025314331,
+      "rank": 215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\minibus_s_000585.png",
+      "mean_similarity": 0.9382069706916809,
+      "rank": 216
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\school_bus_s_002042.png",
+      "mean_similarity": 0.9381723999977112,
+      "rank": 217
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\bus_s_000286.png",
+      "mean_similarity": 0.9381282329559326,
+      "rank": 218
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\bus_s_000042.png",
+      "mean_similarity": 0.9380995035171509,
+      "rank": 219
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\school_bus_s_000171.png",
+      "mean_similarity": 0.9380894899368286,
+      "rank": 220
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\minibus_s_000267.png",
+      "mean_similarity": 0.9380637407302856,
+      "rank": 221
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\school_bus_s_001308.png",
+      "mean_similarity": 0.9380573034286499,
+      "rank": 222
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\bus_s_000027.png",
+      "mean_similarity": 0.9380304217338562,
+      "rank": 223
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\school_bus_s_000957.png",
+      "mean_similarity": 0.9379875063896179,
+      "rank": 224
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\minibus_s_000528.png",
+      "mean_similarity": 0.9379718899726868,
+      "rank": 225
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\bus_s_000180.png",
+      "mean_similarity": 0.9379353523254395,
+      "rank": 226
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\minibus_s_000710.png",
+      "mean_similarity": 0.9379318952560425,
+      "rank": 227
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\school_bus_s_000492.png",
+      "mean_similarity": 0.9379251599311829,
+      "rank": 228
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\minibus_s_000306.png",
+      "mean_similarity": 0.9378873109817505,
+      "rank": 229
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\trolleybus_s_000103.png",
+      "mean_similarity": 0.9378800392150879,
+      "rank": 230
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\minibus_s_002284.png",
+      "mean_similarity": 0.9378423094749451,
+      "rank": 231
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\school_bus_s_001390.png",
+      "mean_similarity": 0.9378124475479126,
+      "rank": 232
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\minibus_s_002098.png",
+      "mean_similarity": 0.9377517104148865,
+      "rank": 233
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\minibus_s_000775.png",
+      "mean_similarity": 0.9377237558364868,
+      "rank": 234
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\minibus_s_000097.png",
+      "mean_similarity": 0.9376705288887024,
+      "rank": 235
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\school_bus_s_002034.png",
+      "mean_similarity": 0.9376652836799622,
+      "rank": 236
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\school_bus_s_002243.png",
+      "mean_similarity": 0.9376344084739685,
+      "rank": 237
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\bus_s_000078.png",
+      "mean_similarity": 0.9376225471496582,
+      "rank": 238
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\minibus_s_000685.png",
+      "mean_similarity": 0.9376139640808105,
+      "rank": 239
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\bus_s_000333.png",
+      "mean_similarity": 0.9376128315925598,
+      "rank": 240
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\minibus_s_000307.png",
+      "mean_similarity": 0.9376018047332764,
+      "rank": 241
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\minibus_s_001344.png",
+      "mean_similarity": 0.9375923871994019,
+      "rank": 242
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\bus_s_003117.png",
+      "mean_similarity": 0.9375669360160828,
+      "rank": 243
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\minibus_s_000283.png",
+      "mean_similarity": 0.9375647306442261,
+      "rank": 244
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\bus_s_000053.png",
+      "mean_similarity": 0.937532901763916,
+      "rank": 245
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\trolleybus_s_000138.png",
+      "mean_similarity": 0.937397837638855,
+      "rank": 246
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\bus_s_000210.png",
+      "mean_similarity": 0.9373746514320374,
+      "rank": 247
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\minibus_s_000409.png",
+      "mean_similarity": 0.9373733997344971,
+      "rank": 248
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\bus_s_000193.png",
+      "mean_similarity": 0.9373583793640137,
+      "rank": 249
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\minibus_s_000950.png",
+      "mean_similarity": 0.9373358488082886,
+      "rank": 250
+    }
+  ]
+}

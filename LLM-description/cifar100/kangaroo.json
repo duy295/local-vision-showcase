@@ -1,0 +1,26 @@
+{
+  "class_name": "kangaroo",
+  "global_description": "Large marsupial with powerful hind legs, long tail, and small head. Fur is typically brown or gray, with a muscular build. The body is upright, and the forelimbs are short and slender.",
+  "discriminative_attributes": [
+    "Powerful hind legs",
+    "Long tail",
+    "Small head",
+    "Muscular build",
+    "Upright posture"
+  ],
+  "part_details": {
+    "head": "Small with large ears and a pointed snout",
+    "body": "Muscular and upright with short fur",
+    "hind legs": "Powerful and large, adapted for jumping",
+    "tail": "Long and thick, used for balance",
+    "forelimbs": "Short and slender"
+  },
+  "spatial_relations": [
+    "Head at top of body",
+    "Hind legs beneath body",
+    "Tail extending from rear",
+    "Forelimbs at front of body"
+  ],
+  "original_dataset_key": "cifar100",
+  "original_class_key": "kangaroo"
+}

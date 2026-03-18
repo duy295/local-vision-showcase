@@ -1,0 +1,159 @@
+{
+  "class_name": "056.Pine_Grosbeak",
+  "class_idx": 55,
+  "num_images_in_class": 30,
+  "ec_size_requested": 30,
+  "ec_size_actual": 30,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\056.Pine_Grosbeak\\Pine_Grosbeak_0068_38981.jpg",
+      "mean_similarity": 0.9477502107620239,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\056.Pine_Grosbeak\\Pine_Grosbeak_0100_38988.jpg",
+      "mean_similarity": 0.9474598169326782,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\056.Pine_Grosbeak\\Pine_Grosbeak_0107_38351.jpg",
+      "mean_similarity": 0.9470489025115967,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\056.Pine_Grosbeak\\Pine_Grosbeak_0049_38380.jpg",
+      "mean_similarity": 0.9469743371009827,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\056.Pine_Grosbeak\\Pine_Grosbeak_0025_38443.jpg",
+      "mean_similarity": 0.9467712640762329,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\056.Pine_Grosbeak\\Pine_Grosbeak_0102_38216.jpg",
+      "mean_similarity": 0.9464641213417053,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\056.Pine_Grosbeak\\Pine_Grosbeak_0082_38552.jpg",
+      "mean_similarity": 0.9463841915130615,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\056.Pine_Grosbeak\\Pine_Grosbeak_0048_38434.jpg",
+      "mean_similarity": 0.9463307857513428,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\056.Pine_Grosbeak\\Pine_Grosbeak_0050_38475.jpg",
+      "mean_similarity": 0.9461998343467712,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\056.Pine_Grosbeak\\Pine_Grosbeak_0114_38259.jpg",
+      "mean_similarity": 0.9461601376533508,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\056.Pine_Grosbeak\\Pine_Grosbeak_0058_38431.jpg",
+      "mean_similarity": 0.9460513591766357,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\056.Pine_Grosbeak\\Pine_Grosbeak_0078_38242.jpg",
+      "mean_similarity": 0.9457372426986694,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\056.Pine_Grosbeak\\Pine_Grosbeak_0006_38421.jpg",
+      "mean_similarity": 0.945588231086731,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\056.Pine_Grosbeak\\Pine_Grosbeak_0038_38956.jpg",
+      "mean_similarity": 0.9455606937408447,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\056.Pine_Grosbeak\\Pine_Grosbeak_0088_38830.jpg",
+      "mean_similarity": 0.9452806711196899,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\056.Pine_Grosbeak\\Pine_Grosbeak_0105_38210.jpg",
+      "mean_similarity": 0.9446094036102295,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\056.Pine_Grosbeak\\Pine_Grosbeak_0036_38968.jpg",
+      "mean_similarity": 0.9443175196647644,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\056.Pine_Grosbeak\\Pine_Grosbeak_0104_38362.jpg",
+      "mean_similarity": 0.9429957270622253,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\056.Pine_Grosbeak\\Pine_Grosbeak_0043_38992.jpg",
+      "mean_similarity": 0.9428525567054749,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\056.Pine_Grosbeak\\Pine_Grosbeak_0054_38953.jpg",
+      "mean_similarity": 0.94221031665802,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\056.Pine_Grosbeak\\Pine_Grosbeak_0115_38330.jpg",
+      "mean_similarity": 0.9418814778327942,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\056.Pine_Grosbeak\\Pine_Grosbeak_0002_38214.jpg",
+      "mean_similarity": 0.9413486123085022,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\056.Pine_Grosbeak\\Pine_Grosbeak_0003_38437.jpg",
+      "mean_similarity": 0.9405714869499207,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\056.Pine_Grosbeak\\Pine_Grosbeak_0111_38741.jpg",
+      "mean_similarity": 0.9400945901870728,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\056.Pine_Grosbeak\\Pine_Grosbeak_0012_38466.jpg",
+      "mean_similarity": 0.939566433429718,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\056.Pine_Grosbeak\\Pine_Grosbeak_0033_38945.jpg",
+      "mean_similarity": 0.9379560947418213,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\056.Pine_Grosbeak\\Pine_Grosbeak_0097_38735.jpg",
+      "mean_similarity": 0.9280505776405334,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\056.Pine_Grosbeak\\Pine_Grosbeak_0035_38729.jpg",
+      "mean_similarity": 0.9275199770927429,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\056.Pine_Grosbeak\\Pine_Grosbeak_0019_38845.jpg",
+      "mean_similarity": 0.9183513522148132,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\056.Pine_Grosbeak\\Pine_Grosbeak_0059_38581.jpg",
+      "mean_similarity": 0.8864689469337463,
+      "rank": 30
+    }
+  ]
+}

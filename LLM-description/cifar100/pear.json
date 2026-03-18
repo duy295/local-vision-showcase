@@ -1,0 +1,24 @@
+{
+  "class_name": "pear",
+  "global_description": "A pear is a fruit with a distinctive teardrop shape, smooth skin, and a range of colors from green to yellow. The surface is often slightly bumpy, and the flesh inside is juicy and soft. The stem is short and thin, protruding from the top.",
+  "discriminative_attributes": [
+    "Teardrop shape",
+    "Smooth skin",
+    "Green to yellow color",
+    "Short thin stem",
+    "Juicy soft flesh"
+  ],
+  "part_details": {
+    "skin": "Smooth, slightly bumpy, green to yellow",
+    "flesh": "Juicy, soft, pale interior",
+    "stem": "Short, thin, brown",
+    "shape": "Distinctive teardrop"
+  },
+  "spatial_relations": [
+    "Stem protrudes from top",
+    "Flesh beneath skin",
+    "Teardrop shape with wider base"
+  ],
+  "original_dataset_key": "cifar100",
+  "original_class_key": "pear"
+}

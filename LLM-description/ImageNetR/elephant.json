@@ -1,0 +1,27 @@
+{
+  "class_name": "elephant",
+  "global_description": "Large mammal with massive body, thick gray skin, long trunk, large ears, tusks, and pillar-like legs. The skin is rough and wrinkled, providing a distinctive texture. The trunk is flexible and elongated, used for various tasks. The ears are large and fan-like, aiding in temperature regulation.",
+  "discriminative_attributes": [
+    "Massive body",
+    "Thick gray skin",
+    "Long trunk",
+    "Large ears",
+    "Tusks"
+  ],
+  "part_details": {
+    "trunk": "Long, flexible, and muscular, extending from the face",
+    "ears": "Large, fan-like, and thin, positioned on the sides of the head",
+    "tusks": "Long, curved, and ivory-colored, extending from the upper jaw",
+    "legs": "Thick, pillar-like, supporting the massive body",
+    "skin": "Thick, gray, rough, and wrinkled"
+  },
+  "spatial_relations": [
+    "Trunk extends from the front of the head",
+    "Ears positioned on sides of head",
+    "Tusks protrude from upper jaw",
+    "Legs beneath body",
+    "Skin covers entire body"
+  ],
+  "original_dataset_key": "ImageNetR",
+  "original_class_key": "elephant"
+}

@@ -1,0 +1,26 @@
+{
+  "class_name": "Eastern Towhee",
+  "global_description": "A medium-sized songbird with a plump, rounded body and a long tail. It features striking black and white plumage with reddish-brown flanks. The bird has a black head, back, and tail, contrasting with a white belly and wing patches. Its eyes are bright red.",
+  "discriminative_attributes": [
+    "Black and white plumage",
+    "Reddish-brown flanks",
+    "Bright red eyes",
+    "Long tail",
+    "White wing patches"
+  ],
+  "part_details": {
+    "head": "Black, rounded with bright red eyes.",
+    "body": "Plump, with black upper parts and white underparts.",
+    "flanks": "Reddish-brown, contrasting with white belly.",
+    "tail": "Long, black with white outer feathers.",
+    "wings": "Black with distinct white patches."
+  },
+  "spatial_relations": [
+    "The black head is above the white belly.",
+    "The reddish-brown flanks are on the sides of the white belly.",
+    "The long tail extends from the rear of the body.",
+    "The white wing patches are on the black wings."
+  ],
+  "original_dataset_key": "CUB200",
+  "original_class_key": "eastern_towhee"
+}

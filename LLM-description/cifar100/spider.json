@@ -1,0 +1,26 @@
+{
+  "class_name": "spider",
+  "global_description": "Small arachnid with a compact body, typically dark or brown, eight long legs, segmented body with a cephalothorax and abdomen, often hairy or smooth texture, capable of spinning webs.",
+  "discriminative_attributes": [
+    "Eight long legs",
+    "Segmented body",
+    "Cephalothorax and abdomen",
+    "Dark or brown color",
+    "Web-spinning capability"
+  ],
+  "part_details": {
+    "cephalothorax": "Compact front segment with eyes and mouthparts",
+    "abdomen": "Rounded rear segment, often larger",
+    "legs": "Eight long, jointed, attached to cephalothorax",
+    "eyes": "Multiple small eyes on cephalothorax",
+    "spinnerets": "Located at rear of abdomen for web spinning"
+  },
+  "spatial_relations": [
+    "Cephalothorax at front, abdomen at rear",
+    "Legs attached to cephalothorax",
+    "Eyes on top of cephalothorax",
+    "Spinnerets at end of abdomen"
+  ],
+  "original_dataset_key": "cifar100",
+  "original_class_key": "spider"
+}

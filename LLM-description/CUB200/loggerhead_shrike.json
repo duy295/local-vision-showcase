@@ -1,0 +1,26 @@
+{
+  "class_name": "Loggerhead Shrike",
+  "global_description": "A small, stocky bird with a rounded body and a short neck. It features a distinctive black mask across its eyes, a gray back, and white underparts. The wings are black with white patches, and the tail is long and black with white edges.",
+  "discriminative_attributes": [
+    "Black mask across eyes",
+    "Gray back",
+    "White underparts",
+    "Black wings with white patches",
+    "Long black tail with white edges"
+  ],
+  "part_details": {
+    "head": "Rounded with a prominent black mask across the eyes, gray crown.",
+    "body": "Compact and rounded, gray on top with white underparts.",
+    "wings": "Black with distinct white patches, medium length.",
+    "tail": "Long, black with white edges, slightly forked.",
+    "beak": "Short, hooked, and black, suited for predation."
+  },
+  "spatial_relations": [
+    "The black mask covers the area across the eyes and extends to the beak.",
+    "The gray back transitions smoothly into the white underparts.",
+    "The wings are positioned laterally, showing black and white contrast.",
+    "The long tail extends from the rear, edged in white."
+  ],
+  "original_dataset_key": "CUB200",
+  "original_class_key": "loggerhead_shrike"
+}

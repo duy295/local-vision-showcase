@@ -1,0 +1,159 @@
+{
+  "class_name": "079.Belted_Kingfisher",
+  "class_idx": 78,
+  "num_images_in_class": 30,
+  "ec_size_requested": 30,
+  "ec_size_actual": 30,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\079.Belted_Kingfisher\\Belted_Kingfisher_0082_70711.jpg",
+      "mean_similarity": 0.9441721439361572,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\079.Belted_Kingfisher\\Belted_Kingfisher_0084_70399.jpg",
+      "mean_similarity": 0.9436667561531067,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\079.Belted_Kingfisher\\Belted_Kingfisher_0111_70375.jpg",
+      "mean_similarity": 0.9426970481872559,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\079.Belted_Kingfisher\\Belted_Kingfisher_0011_70923.jpg",
+      "mean_similarity": 0.9426204562187195,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\079.Belted_Kingfisher\\Belted_Kingfisher_0013_70753.jpg",
+      "mean_similarity": 0.9425585269927979,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\079.Belted_Kingfisher\\Belted_Kingfisher_0085_70503.jpg",
+      "mean_similarity": 0.9417740106582642,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\079.Belted_Kingfisher\\Belted_Kingfisher_0055_70517.jpg",
+      "mean_similarity": 0.941432774066925,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\079.Belted_Kingfisher\\Belted_Kingfisher_0099_70449.jpg",
+      "mean_similarity": 0.9408196806907654,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\079.Belted_Kingfisher\\Belted_Kingfisher_0053_70899.jpg",
+      "mean_similarity": 0.9404889941215515,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\079.Belted_Kingfisher\\Belted_Kingfisher_0087_70724.jpg",
+      "mean_similarity": 0.9401055574417114,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\079.Belted_Kingfisher\\Belted_Kingfisher_0040_70432.jpg",
+      "mean_similarity": 0.9400891661643982,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\079.Belted_Kingfisher\\Belted_Kingfisher_0016_70495.jpg",
+      "mean_similarity": 0.9396870136260986,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\079.Belted_Kingfisher\\Belted_Kingfisher_0020_70922.jpg",
+      "mean_similarity": 0.9390556812286377,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\079.Belted_Kingfisher\\Belted_Kingfisher_0073_70326.jpg",
+      "mean_similarity": 0.9390284419059753,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\079.Belted_Kingfisher\\Belted_Kingfisher_0005_70389.jpg",
+      "mean_similarity": 0.9384074807167053,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\079.Belted_Kingfisher\\Belted_Kingfisher_0024_70538.jpg",
+      "mean_similarity": 0.9371417164802551,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\079.Belted_Kingfisher\\Belted_Kingfisher_0043_70492.jpg",
+      "mean_similarity": 0.9370284676551819,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\079.Belted_Kingfisher\\Belted_Kingfisher_0044_70494.jpg",
+      "mean_similarity": 0.9370271563529968,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\079.Belted_Kingfisher\\Belted_Kingfisher_0047_70705.jpg",
+      "mean_similarity": 0.9363518357276917,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\079.Belted_Kingfisher\\Belted_Kingfisher_0035_70644.jpg",
+      "mean_similarity": 0.9352712035179138,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\079.Belted_Kingfisher\\Belted_Kingfisher_0105_70550.jpg",
+      "mean_similarity": 0.9351055026054382,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\079.Belted_Kingfisher\\Belted_Kingfisher_0031_70506.jpg",
+      "mean_similarity": 0.9339621663093567,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\079.Belted_Kingfisher\\Belted_Kingfisher_0054_70424.jpg",
+      "mean_similarity": 0.9336025714874268,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\079.Belted_Kingfisher\\Belted_Kingfisher_0041_70595.jpg",
+      "mean_similarity": 0.9334984421730042,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\079.Belted_Kingfisher\\Belted_Kingfisher_0072_70924.jpg",
+      "mean_similarity": 0.9303727149963379,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\079.Belted_Kingfisher\\Belted_Kingfisher_0075_70873.jpg",
+      "mean_similarity": 0.9303409457206726,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\079.Belted_Kingfisher\\Belted_Kingfisher_0080_70725.jpg",
+      "mean_similarity": 0.9236688017845154,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\079.Belted_Kingfisher\\Belted_Kingfisher_0061_70363.jpg",
+      "mean_similarity": 0.9219978451728821,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\079.Belted_Kingfisher\\Belted_Kingfisher_0048_70532.jpg",
+      "mean_similarity": 0.9175188541412354,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\079.Belted_Kingfisher\\Belted_Kingfisher_0056_70516.jpg",
+      "mean_similarity": 0.909686267375946,
+      "rank": 30
+    }
+  ]
+}

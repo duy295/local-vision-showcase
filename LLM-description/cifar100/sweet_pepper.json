@@ -1,0 +1,25 @@
+{
+  "class_name": "sweet pepper",
+  "global_description": "A plump, glossy vegetable with a smooth, slightly curved surface. Typically vibrant in color, ranging from red, yellow, to green. The skin is firm and shiny, encasing a hollow interior with seeds. The top features a green stem, and the body tapers slightly towards the bottom.",
+  "discriminative_attributes": [
+    "Plump and glossy",
+    "Vibrant colors",
+    "Smooth surface",
+    "Hollow interior",
+    "Green stem"
+  ],
+  "part_details": {
+    "skin": "Smooth, glossy, and firm, often in red, yellow, or green",
+    "stem": "Green, short, and slightly curved",
+    "interior": "Hollow with small white seeds",
+    "body": "Plump, slightly curved, tapering towards bottom",
+    "seeds": "Small, white, clustered inside"
+  },
+  "spatial_relations": [
+    "Stem at top of body",
+    "Interior hollow with seeds",
+    "Body tapers towards bottom"
+  ],
+  "original_dataset_key": "cifar100",
+  "original_class_key": "sweet_pepper"
+}

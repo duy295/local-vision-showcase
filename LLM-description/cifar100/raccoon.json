@@ -1,0 +1,26 @@
+{
+  "class_name": "raccoon",
+  "global_description": "Medium-sized mammal with a stocky body and bushy tail. Its fur is grayish-brown with a distinctive black mask around the eyes and ringed tail. The face is pointed with small rounded ears, and the paws are dexterous with long fingers.",
+  "discriminative_attributes": [
+    "Black mask around eyes",
+    "Ringed bushy tail",
+    "Grayish-brown fur",
+    "Pointed face",
+    "Dexterous paws"
+  ],
+  "part_details": {
+    "head": "Pointed with a black mask around the eyes and small rounded ears",
+    "body": "Stocky with grayish-brown fur",
+    "tail": "Bushy with black rings",
+    "paws": "Dexterous with long fingers",
+    "ears": "Small and rounded"
+  },
+  "spatial_relations": [
+    "Mask around eyes on face",
+    "Tail extends from rear",
+    "Paws at end of limbs",
+    "Ears on top of head"
+  ],
+  "original_dataset_key": "cifar100",
+  "original_class_key": "raccoon"
+}

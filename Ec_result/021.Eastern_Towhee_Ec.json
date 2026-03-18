@@ -1,0 +1,159 @@
+{
+  "class_name": "021.Eastern_Towhee",
+  "class_idx": 20,
+  "num_images_in_class": 30,
+  "ec_size_requested": 30,
+  "ec_size_actual": 30,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\021.Eastern_Towhee\\Eastern_Towhee_0042_22155.jpg",
+      "mean_similarity": 0.9476217031478882,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\021.Eastern_Towhee\\Eastern_Towhee_0068_22194.jpg",
+      "mean_similarity": 0.9473773241043091,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\021.Eastern_Towhee\\Eastern_Towhee_0090_22273.jpg",
+      "mean_similarity": 0.947316586971283,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\021.Eastern_Towhee\\Eastern_Towhee_0126_22639.jpg",
+      "mean_similarity": 0.9470759630203247,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\021.Eastern_Towhee\\Eastern_Towhee_0054_22147.jpg",
+      "mean_similarity": 0.9466211795806885,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\021.Eastern_Towhee\\Eastern_Towhee_0040_22341.jpg",
+      "mean_similarity": 0.9465558528900146,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\021.Eastern_Towhee\\Eastern_Towhee_0082_22330.jpg",
+      "mean_similarity": 0.9464848041534424,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\021.Eastern_Towhee\\Eastern_Towhee_0120_22189.jpg",
+      "mean_similarity": 0.946210503578186,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\021.Eastern_Towhee\\Eastern_Towhee_0073_22247.jpg",
+      "mean_similarity": 0.9461764693260193,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\021.Eastern_Towhee\\Eastern_Towhee_0007_22172.jpg",
+      "mean_similarity": 0.9461178183555603,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\021.Eastern_Towhee\\Eastern_Towhee_0038_22399.jpg",
+      "mean_similarity": 0.9459444284439087,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\021.Eastern_Towhee\\Eastern_Towhee_0099_22566.jpg",
+      "mean_similarity": 0.9459441304206848,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\021.Eastern_Towhee\\Eastern_Towhee_0002_22318.jpg",
+      "mean_similarity": 0.9455044269561768,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\021.Eastern_Towhee\\Eastern_Towhee_0035_22223.jpg",
+      "mean_similarity": 0.9453920125961304,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\021.Eastern_Towhee\\Eastern_Towhee_0021_22152.jpg",
+      "mean_similarity": 0.9453417062759399,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\021.Eastern_Towhee\\Eastern_Towhee_0079_22690.jpg",
+      "mean_similarity": 0.9450438618659973,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\021.Eastern_Towhee\\Eastern_Towhee_0030_22693.jpg",
+      "mean_similarity": 0.9446574449539185,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\021.Eastern_Towhee\\Eastern_Towhee_0111_22168.jpg",
+      "mean_similarity": 0.9438543319702148,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\021.Eastern_Towhee\\Eastern_Towhee_0013_22336.jpg",
+      "mean_similarity": 0.9429996013641357,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\021.Eastern_Towhee\\Eastern_Towhee_0075_22588.jpg",
+      "mean_similarity": 0.942370593547821,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\021.Eastern_Towhee\\Eastern_Towhee_0052_22558.jpg",
+      "mean_similarity": 0.9416642785072327,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\021.Eastern_Towhee\\Eastern_Towhee_0093_22621.jpg",
+      "mean_similarity": 0.9401589632034302,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\021.Eastern_Towhee\\Eastern_Towhee_0074_22620.jpg",
+      "mean_similarity": 0.939788818359375,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\021.Eastern_Towhee\\Eastern_Towhee_0124_22585.jpg",
+      "mean_similarity": 0.9393952488899231,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\021.Eastern_Towhee\\Eastern_Towhee_0097_22580.jpg",
+      "mean_similarity": 0.9393259882926941,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\021.Eastern_Towhee\\Eastern_Towhee_0064_22649.jpg",
+      "mean_similarity": 0.9347571134567261,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\021.Eastern_Towhee\\Eastern_Towhee_0101_22559.jpg",
+      "mean_similarity": 0.9346587657928467,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\021.Eastern_Towhee\\Eastern_Towhee_0027_22372.jpg",
+      "mean_similarity": 0.932889997959137,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\021.Eastern_Towhee\\Eastern_Towhee_0117_22741.jpg",
+      "mean_similarity": 0.9286291003227234,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\021.Eastern_Towhee\\Eastern_Towhee_0050_22257.jpg",
+      "mean_similarity": 0.9162314534187317,
+      "rank": 30
+    }
+  ]
+}

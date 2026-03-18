@@ -1,0 +1,26 @@
+{
+  "class_name": "Brewer Sparrow",
+  "global_description": "A small, slender bird with a light brown and gray plumage. It features a streaked crown and a pale face with a distinctive white eye-ring. The wings and tail are brown with subtle streaks, and the underparts are pale with fine streaking.",
+  "discriminative_attributes": [
+    "Light brown and gray plumage",
+    "Streaked crown",
+    "White eye-ring",
+    "Brown wings with subtle streaks",
+    "Pale underparts with fine streaking"
+  ],
+  "part_details": {
+    "crown": "Brown with dark streaks, blending into the back.",
+    "face": "Pale with a prominent white eye-ring, small beak.",
+    "wings": "Brown with subtle streaks, medium length.",
+    "tail": "Brown, slightly forked, with faint streaks.",
+    "underparts": "Pale with fine streaking, smooth texture."
+  },
+  "spatial_relations": [
+    "The streaked crown transitions into the back.",
+    "The white eye-ring encircles the eye on the pale face.",
+    "The wings are attached to the sides of the body.",
+    "The tail extends from the rear of the body."
+  ],
+  "original_dataset_key": "CUB200",
+  "original_class_key": "brewer_sparrow"
+}

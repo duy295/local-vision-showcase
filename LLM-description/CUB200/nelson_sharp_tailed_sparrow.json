@@ -1,0 +1,25 @@
+{
+  "class_name": "Bird",
+  "global_description": "A small, slender bird with a compact body and sharp tail. It features a mix of gray, brown, and orange plumage with a streaked pattern. The bird has a short, conical bill and a distinctive white eye ring. Its wings are rounded, and its legs are thin and dark.",
+  "discriminative_attributes": [
+    "Gray and brown streaked plumage",
+    "Sharp tail",
+    "White eye ring",
+    "Short conical bill",
+    "Rounded wings"
+  ],
+  "part_details": {
+    "plumage": "Gray and brown with orange hues, streaked pattern",
+    "tail": "Sharp and pointed",
+    "eye_ring": "Distinctive white",
+    "bill": "Short, conical",
+    "wings": "Rounded, gray-brown"
+  },
+  "spatial_relations": [
+    "The sharp tail extends from the compact body",
+    "The white eye ring encircles the eye",
+    "The short bill is positioned at the front of the head"
+  ],
+  "original_dataset_key": "CUB200",
+  "original_class_key": "nelson_sharp_tailed_sparrow"
+}

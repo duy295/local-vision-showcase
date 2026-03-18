@@ -1,0 +1,26 @@
+{
+  "class_name": "Pacific Loon",
+  "global_description": "A medium-sized aquatic bird with a streamlined, elongated body and a sharp, pointed bill. It has a distinctive black and white checkered pattern on its back and wings, with a smooth, glossy black head and neck. The underparts are white, and the eyes are red.",
+  "discriminative_attributes": [
+    "Black and white checkered back",
+    "Glossy black head and neck",
+    "Sharp pointed bill",
+    "Red eyes",
+    "White underparts"
+  ],
+  "part_details": {
+    "head": "Smooth, glossy black with a sleek appearance.",
+    "neck": "Glossy black, slender, and elongated.",
+    "back": "Checkered pattern of black and white, creating a distinctive grid-like appearance.",
+    "wings": "Covered in a similar checkered pattern as the back.",
+    "bill": "Sharp, pointed, and slightly upturned, grayish in color.",
+    "eyes": "Bright red, standing out against the dark head."
+  },
+  "spatial_relations": [
+    "The neck extends smoothly from the head to the body.",
+    "The checkered wings are positioned laterally on the body.",
+    "The bill projects forward from the face."
+  ],
+  "original_dataset_key": "CUB200",
+  "original_class_key": "pacific_loon"
+}

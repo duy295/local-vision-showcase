@@ -1,0 +1,25 @@
+{
+  "class_name": "spider",
+  "global_description": "Small arachnid with a compact, rounded body, eight long, jointed legs, typically covered in fine hairs. Colors vary from brown to black, sometimes with distinctive patterns. The body consists of a cephalothorax and an abdomen, connected by a narrow waist. Eyes are usually clustered on the front of the head.",
+  "discriminative_attributes": [
+    "Eight long legs",
+    "Compact, rounded body",
+    "Fine hairs covering body",
+    "Cephalothorax and abdomen",
+    "Clustered eyes"
+  ],
+  "part_details": {
+    "cephalothorax": "Front segment with eyes and mouthparts, often hairy",
+    "abdomen": "Rounded rear segment, sometimes patterned",
+    "legs": "Eight long, jointed, often hairy",
+    "eyes": "Clustered on front of cephalothorax",
+    "hairs": "Fine, covering body and legs"
+  },
+  "spatial_relations": [
+    "Cephalothorax connected to abdomen by narrow waist",
+    "Legs extend from sides of cephalothorax",
+    "Eyes positioned on front of cephalothorax"
+  ],
+  "original_dataset_key": "ImageNetR",
+  "original_class_key": "spider"
+}

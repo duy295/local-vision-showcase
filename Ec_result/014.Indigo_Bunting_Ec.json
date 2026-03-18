@@ -1,0 +1,159 @@
+{
+  "class_name": "014.Indigo_Bunting",
+  "class_idx": 13,
+  "num_images_in_class": 30,
+  "ec_size_requested": 30,
+  "ec_size_actual": 30,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\014.Indigo_Bunting\\Indigo_Bunting_0024_13523.jpg",
+      "mean_similarity": 0.9525614976882935,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\014.Indigo_Bunting\\Indigo_Bunting_0055_13473.jpg",
+      "mean_similarity": 0.9523913264274597,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\014.Indigo_Bunting\\Indigo_Bunting_0034_12464.jpg",
+      "mean_similarity": 0.952377200126648,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\014.Indigo_Bunting\\Indigo_Bunting_0039_12756.jpg",
+      "mean_similarity": 0.9523106217384338,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\014.Indigo_Bunting\\Indigo_Bunting_0001_12469.jpg",
+      "mean_similarity": 0.9522650241851807,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\014.Indigo_Bunting\\Indigo_Bunting_0026_11964.jpg",
+      "mean_similarity": 0.9522510170936584,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\014.Indigo_Bunting\\Indigo_Bunting_0005_13832.jpg",
+      "mean_similarity": 0.9522169828414917,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\014.Indigo_Bunting\\Indigo_Bunting_0041_13987.jpg",
+      "mean_similarity": 0.9519630074501038,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\014.Indigo_Bunting\\Indigo_Bunting_0075_12835.jpg",
+      "mean_similarity": 0.9518280029296875,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\014.Indigo_Bunting\\Indigo_Bunting_0066_12869.jpg",
+      "mean_similarity": 0.9518179893493652,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\014.Indigo_Bunting\\Indigo_Bunting_0049_13641.jpg",
+      "mean_similarity": 0.9518074989318848,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\014.Indigo_Bunting\\Indigo_Bunting_0004_13195.jpg",
+      "mean_similarity": 0.9517454504966736,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\014.Indigo_Bunting\\Indigo_Bunting_0028_12335.jpg",
+      "mean_similarity": 0.9514954686164856,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\014.Indigo_Bunting\\Indigo_Bunting_0022_12781.jpg",
+      "mean_similarity": 0.9513953328132629,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\014.Indigo_Bunting\\Indigo_Bunting_0003_13049.jpg",
+      "mean_similarity": 0.951376736164093,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\014.Indigo_Bunting\\Indigo_Bunting_0047_12966.jpg",
+      "mean_similarity": 0.9513616561889648,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\014.Indigo_Bunting\\Indigo_Bunting_0032_12215.jpg",
+      "mean_similarity": 0.9512242078781128,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\014.Indigo_Bunting\\Indigo_Bunting_0006_14317.jpg",
+      "mean_similarity": 0.9511544704437256,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\014.Indigo_Bunting\\Indigo_Bunting_0076_12950.jpg",
+      "mean_similarity": 0.9511333107948303,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\014.Indigo_Bunting\\Indigo_Bunting_0050_11811.jpg",
+      "mean_similarity": 0.9511253237724304,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\014.Indigo_Bunting\\Indigo_Bunting_0018_11883.jpg",
+      "mean_similarity": 0.9510946273803711,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\014.Indigo_Bunting\\Indigo_Bunting_0044_14389.jpg",
+      "mean_similarity": 0.9507103562355042,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\014.Indigo_Bunting\\Indigo_Bunting_0080_13416.jpg",
+      "mean_similarity": 0.9504553079605103,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\014.Indigo_Bunting\\Indigo_Bunting_0056_12637.jpg",
+      "mean_similarity": 0.9503157734870911,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\014.Indigo_Bunting\\Indigo_Bunting_0002_12163.jpg",
+      "mean_similarity": 0.9493605494499207,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\014.Indigo_Bunting\\Indigo_Bunting_0017_11574.jpg",
+      "mean_similarity": 0.9481354355812073,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\014.Indigo_Bunting\\Indigo_Bunting_0085_11991.jpg",
+      "mean_similarity": 0.9466290473937988,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\014.Indigo_Bunting\\Indigo_Bunting_0082_11907.jpg",
+      "mean_similarity": 0.9458578824996948,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\014.Indigo_Bunting\\Indigo_Bunting_0059_11596.jpg",
+      "mean_similarity": 0.9452345371246338,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\014.Indigo_Bunting\\Indigo_Bunting_0084_11848.jpg",
+      "mean_similarity": 0.9417062997817993,
+      "rank": 30
+    }
+  ]
+}

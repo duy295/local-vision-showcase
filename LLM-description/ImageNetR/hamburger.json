@@ -1,0 +1,26 @@
+{
+  "class_name": "hamburger",
+  "global_description": "Round sandwich with layers of ingredients between two buns, typically featuring a beef patty, lettuce, tomato, cheese, and condiments. The buns are soft and golden brown, often with sesame seeds on top.",
+  "discriminative_attributes": [
+    "Round shape",
+    "Beef patty",
+    "Lettuce and tomato",
+    "Cheese slice",
+    "Sesame seed bun"
+  ],
+  "part_details": {
+    "bun": "Golden brown, round, with sesame seeds",
+    "patty": "Brown, grilled beef",
+    "lettuce": "Green, leafy",
+    "tomato": "Red, sliced",
+    "cheese": "Yellow, melted"
+  },
+  "spatial_relations": [
+    "Bun on top and bottom",
+    "Patty between buns",
+    "Lettuce and tomato above patty",
+    "Cheese on patty"
+  ],
+  "original_dataset_key": "ImageNetR",
+  "original_class_key": "hamburger"
+}

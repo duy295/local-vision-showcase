@@ -1,0 +1,159 @@
+{
+  "class_name": "039.Least_Flycatcher",
+  "class_idx": 38,
+  "num_images_in_class": 30,
+  "ec_size_requested": 30,
+  "ec_size_actual": 30,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\039.Least_Flycatcher\\Least_Flycatcher_0081_30380.jpg",
+      "mean_similarity": 0.9454503059387207,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\039.Least_Flycatcher\\Least_Flycatcher_0077_30296.jpg",
+      "mean_similarity": 0.9453111886978149,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\039.Least_Flycatcher\\Least_Flycatcher_0034_30151.jpg",
+      "mean_similarity": 0.9444441199302673,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\039.Least_Flycatcher\\Least_Flycatcher_0019_30358.jpg",
+      "mean_similarity": 0.9433956146240234,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\039.Least_Flycatcher\\Least_Flycatcher_0060_30214.jpg",
+      "mean_similarity": 0.943302571773529,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\039.Least_Flycatcher\\Least_Flycatcher_0013_30240.jpg",
+      "mean_similarity": 0.9430463314056396,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\039.Least_Flycatcher\\Least_Flycatcher_0076_30117.jpg",
+      "mean_similarity": 0.9427875876426697,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\039.Least_Flycatcher\\Least_Flycatcher_0033_30449.jpg",
+      "mean_similarity": 0.9427852034568787,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\039.Least_Flycatcher\\Least_Flycatcher_0036_30213.jpg",
+      "mean_similarity": 0.9423787593841553,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\039.Least_Flycatcher\\Least_Flycatcher_0049_30361.jpg",
+      "mean_similarity": 0.9420766234397888,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\039.Least_Flycatcher\\Least_Flycatcher_0063_30190.jpg",
+      "mean_similarity": 0.9420686960220337,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\039.Least_Flycatcher\\Least_Flycatcher_0026_30434.jpg",
+      "mean_similarity": 0.9418320059776306,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\039.Least_Flycatcher\\Least_Flycatcher_0067_30397.jpg",
+      "mean_similarity": 0.9412685632705688,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\039.Least_Flycatcher\\Least_Flycatcher_0093_30435.jpg",
+      "mean_similarity": 0.9407540559768677,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\039.Least_Flycatcher\\Least_Flycatcher_0070_30147.jpg",
+      "mean_similarity": 0.9405988454818726,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\039.Least_Flycatcher\\Least_Flycatcher_0080_30457.jpg",
+      "mean_similarity": 0.9397919774055481,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\039.Least_Flycatcher\\Least_Flycatcher_0010_30149.jpg",
+      "mean_similarity": 0.9390193223953247,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\039.Least_Flycatcher\\Least_Flycatcher_0024_30230.jpg",
+      "mean_similarity": 0.9384452104568481,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\039.Least_Flycatcher\\Least_Flycatcher_0011_30222.jpg",
+      "mean_similarity": 0.938091516494751,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\039.Least_Flycatcher\\Least_Flycatcher_0065_30357.jpg",
+      "mean_similarity": 0.9336210489273071,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\039.Least_Flycatcher\\Least_Flycatcher_0064_30328.jpg",
+      "mean_similarity": 0.9335552453994751,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\039.Least_Flycatcher\\Least_Flycatcher_0099_30200.jpg",
+      "mean_similarity": 0.9330669045448303,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\039.Least_Flycatcher\\Least_Flycatcher_0021_30355.jpg",
+      "mean_similarity": 0.9317917823791504,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\039.Least_Flycatcher\\Least_Flycatcher_0047_30393.jpg",
+      "mean_similarity": 0.9312893152236938,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\039.Least_Flycatcher\\Least_Flycatcher_0095_30277.jpg",
+      "mean_similarity": 0.93115234375,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\039.Least_Flycatcher\\Least_Flycatcher_0092_30154.jpg",
+      "mean_similarity": 0.9289206266403198,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\039.Least_Flycatcher\\Least_Flycatcher_0096_30233.jpg",
+      "mean_similarity": 0.927566647529602,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\039.Least_Flycatcher\\Least_Flycatcher_0100_30338.jpg",
+      "mean_similarity": 0.924803614616394,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\039.Least_Flycatcher\\Least_Flycatcher_0001_30221.jpg",
+      "mean_similarity": 0.9180130362510681,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\039.Least_Flycatcher\\Least_Flycatcher_0082_30132.jpg",
+      "mean_similarity": 0.905707597732544,
+      "rank": 30
+    }
+  ]
+}

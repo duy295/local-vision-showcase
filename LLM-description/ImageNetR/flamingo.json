@@ -1,0 +1,26 @@
+{
+  "class_name": "flamingo",
+  "global_description": "Tall, slender bird with long neck and legs, pink plumage, curved black-tipped beak, and webbed feet. Feathers are soft and smooth, with varying shades of pink and white.",
+  "discriminative_attributes": [
+    "Long neck and legs",
+    "Pink plumage",
+    "Curved black-tipped beak",
+    "Webbed feet",
+    "Slender body"
+  ],
+  "part_details": {
+    "head": "Small with curved black-tipped beak",
+    "neck": "Long and slender, pink",
+    "body": "Slender with pink and white feathers",
+    "legs": "Long, thin, pink",
+    "feet": "Webbed, adapted for wading"
+  },
+  "spatial_relations": [
+    "Neck extends from body",
+    "Beak at front of head",
+    "Legs beneath body",
+    "Feet at end of legs"
+  ],
+  "original_dataset_key": "ImageNetR",
+  "original_class_key": "flamingo"
+}

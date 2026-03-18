@@ -1,0 +1,26 @@
+{
+  "class_name": "clock",
+  "global_description": "Circular or rectangular device with a face displaying numbers or markers, hands indicating time, often with a glass cover and metallic or plastic frame, typically wall-mounted or standing.",
+  "discriminative_attributes": [
+    "Circular or rectangular face",
+    "Numbers or markers",
+    "Hands indicating time",
+    "Glass cover",
+    "Metallic or plastic frame"
+  ],
+  "part_details": {
+    "face": "Circular or rectangular with numbers or markers",
+    "hands": "Thin, metallic, indicating hours and minutes",
+    "frame": "Metallic or plastic, surrounding the face",
+    "cover": "Transparent glass or plastic",
+    "numbers": "Printed or embossed on the face"
+  },
+  "spatial_relations": [
+    "Hands positioned on face",
+    "Frame surrounds face",
+    "Cover over face",
+    "Numbers around face perimeter"
+  ],
+  "original_dataset_key": "ImageNetR",
+  "original_class_key": "clock"
+}

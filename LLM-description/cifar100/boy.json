@@ -1,0 +1,26 @@
+{
+  "class_name": "boy",
+  "global_description": "Young male human with a small, slender body, smooth skin, typically wearing casual clothing. Hair can vary in color and style, often short. Facial features include a small nose, bright eyes, and a youthful expression.",
+  "discriminative_attributes": [
+    "Small, slender body",
+    "Smooth skin",
+    "Casual clothing",
+    "Short hair",
+    "Youthful expression"
+  ],
+  "part_details": {
+    "head": "Small with short hair, bright eyes, and a youthful expression",
+    "body": "Slender and small, often covered with casual clothing",
+    "arms": "Thin and proportionate to body",
+    "legs": "Long and slender, suitable for running and playing",
+    "clothing": "Casual, often colorful or patterned"
+  },
+  "spatial_relations": [
+    "Head positioned above body",
+    "Arms attached to sides of body",
+    "Legs extending from lower body",
+    "Clothing covering body"
+  ],
+  "original_dataset_key": "cifar100",
+  "original_class_key": "boy"
+}

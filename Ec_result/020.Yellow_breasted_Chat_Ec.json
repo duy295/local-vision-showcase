@@ -1,0 +1,159 @@
+{
+  "class_name": "020.Yellow_breasted_Chat",
+  "class_idx": 19,
+  "num_images_in_class": 30,
+  "ec_size_requested": 30,
+  "ec_size_actual": 30,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\020.Yellow_breasted_Chat\\Yellow_Breasted_Chat_0012_21961.jpg",
+      "mean_similarity": 0.9476630091667175,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\020.Yellow_breasted_Chat\\Yellow_Breasted_Chat_0103_21670.jpg",
+      "mean_similarity": 0.9461812973022461,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\020.Yellow_breasted_Chat\\Yellow_Breasted_Chat_0044_22106.jpg",
+      "mean_similarity": 0.9446101188659668,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\020.Yellow_breasted_Chat\\Yellow_Breasted_Chat_0107_21698.jpg",
+      "mean_similarity": 0.9445046782493591,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\020.Yellow_breasted_Chat\\Yellow_Breasted_Chat_0014_21970.jpg",
+      "mean_similarity": 0.9437268972396851,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\020.Yellow_breasted_Chat\\Yellow_Breasted_Chat_0005_21828.jpg",
+      "mean_similarity": 0.9433092474937439,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\020.Yellow_breasted_Chat\\Yellow_Breasted_Chat_0100_21913.jpg",
+      "mean_similarity": 0.9433042407035828,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\020.Yellow_breasted_Chat\\Yellow_Breasted_Chat_0039_21654.jpg",
+      "mean_similarity": 0.9432883858680725,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\020.Yellow_breasted_Chat\\Yellow_Breasted_Chat_0097_21748.jpg",
+      "mean_similarity": 0.9432588815689087,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\020.Yellow_breasted_Chat\\Yellow_Breasted_Chat_0032_21823.jpg",
+      "mean_similarity": 0.9431474208831787,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\020.Yellow_breasted_Chat\\Yellow_Breasted_Chat_0026_21845.jpg",
+      "mean_similarity": 0.9431214332580566,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\020.Yellow_breasted_Chat\\Yellow_Breasted_Chat_0090_21931.jpg",
+      "mean_similarity": 0.9429685473442078,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\020.Yellow_breasted_Chat\\Yellow_Breasted_Chat_0052_21866.jpg",
+      "mean_similarity": 0.9428882598876953,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\020.Yellow_breasted_Chat\\Yellow_Breasted_Chat_0101_21677.jpg",
+      "mean_similarity": 0.9422540664672852,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\020.Yellow_breasted_Chat\\Yellow_Breasted_Chat_0033_21873.jpg",
+      "mean_similarity": 0.9422086477279663,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\020.Yellow_breasted_Chat\\Yellow_Breasted_Chat_0058_21864.jpg",
+      "mean_similarity": 0.9420406222343445,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\020.Yellow_breasted_Chat\\Yellow_Breasted_Chat_0068_21860.jpg",
+      "mean_similarity": 0.9401448965072632,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\020.Yellow_breasted_Chat\\Yellow_Breasted_Chat_0013_22008.jpg",
+      "mean_similarity": 0.9389889240264893,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\020.Yellow_breasted_Chat\\Yellow_Breasted_Chat_0102_21696.jpg",
+      "mean_similarity": 0.938096821308136,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\020.Yellow_breasted_Chat\\Yellow_Breasted_Chat_0098_21987.jpg",
+      "mean_similarity": 0.9369933605194092,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\020.Yellow_breasted_Chat\\Yellow_Breasted_Chat_0105_21714.jpg",
+      "mean_similarity": 0.936360239982605,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\020.Yellow_breasted_Chat\\Yellow_Breasted_Chat_0106_22032.jpg",
+      "mean_similarity": 0.9337196946144104,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\020.Yellow_breasted_Chat\\Yellow_Breasted_Chat_0065_22137.jpg",
+      "mean_similarity": 0.9326953887939453,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\020.Yellow_breasted_Chat\\Yellow_Breasted_Chat_0094_21693.jpg",
+      "mean_similarity": 0.9315170645713806,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\020.Yellow_breasted_Chat\\Yellow_Breasted_Chat_0077_21986.jpg",
+      "mean_similarity": 0.9309613704681396,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\020.Yellow_breasted_Chat\\Yellow_Breasted_Chat_0073_21932.jpg",
+      "mean_similarity": 0.9293254017829895,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\020.Yellow_breasted_Chat\\Yellow_Breasted_Chat_0089_21804.jpg",
+      "mean_similarity": 0.92848801612854,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\020.Yellow_breasted_Chat\\Yellow_Breasted_Chat_0075_21715.jpg",
+      "mean_similarity": 0.927699625492096,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\020.Yellow_breasted_Chat\\Yellow_Breasted_Chat_0071_22129.jpg",
+      "mean_similarity": 0.9274958372116089,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\020.Yellow_breasted_Chat\\Yellow_Breasted_Chat_0062_21673.jpg",
+      "mean_similarity": 0.9264141321182251,
+      "rank": 30
+    }
+  ]
+}

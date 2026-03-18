@@ -1,0 +1,25 @@
+{
+  "class_name": "Tennessee Warbler",
+  "global_description": "A small, slender songbird with an olive-green back and pale underparts. It features a grayish head with a distinctive white eyebrow stripe and a thin, pointed bill. The wings are short and rounded, with subtle wing bars.",
+  "discriminative_attributes": [
+    "Olive-green back",
+    "White eyebrow stripe",
+    "Grayish head",
+    "Pale underparts",
+    "Thin pointed bill"
+  ],
+  "part_details": {
+    "head": "Grayish with a prominent white eyebrow stripe above the eye.",
+    "back": "Olive-green, smooth texture.",
+    "underparts": "Pale, almost white, with a clean appearance.",
+    "wings": "Short, rounded with subtle wing bars.",
+    "bill": "Thin, pointed, suitable for insect feeding."
+  },
+  "spatial_relations": [
+    "The white eyebrow stripe runs above the eye on the grayish head.",
+    "The olive-green back transitions into pale underparts.",
+    "The thin pointed bill extends from the front of the head."
+  ],
+  "original_dataset_key": "CUB200",
+  "original_class_key": "tennessee_warbler"
+}

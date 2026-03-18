@@ -1,0 +1,159 @@
+{
+  "class_name": "034.Gray_crowned_Rosy_Finch",
+  "class_idx": 33,
+  "num_images_in_class": 30,
+  "ec_size_requested": 30,
+  "ec_size_actual": 30,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\034.Gray_crowned_Rosy_Finch\\Gray_Crowned_Rosy_Finch_0016_27181.jpg",
+      "mean_similarity": 0.9469949007034302,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\034.Gray_crowned_Rosy_Finch\\Gray_Crowned_Rosy_Finch_0051_26988.jpg",
+      "mean_similarity": 0.9469491243362427,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\034.Gray_crowned_Rosy_Finch\\Gray_Crowned_Rosy_Finch_0006_797284.jpg",
+      "mean_similarity": 0.9461716413497925,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\034.Gray_crowned_Rosy_Finch\\Gray_Crowned_Rosy_Finch_0080_27108.jpg",
+      "mean_similarity": 0.9456939697265625,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\034.Gray_crowned_Rosy_Finch\\Gray_Crowned_Rosy_Finch_0013_27110.jpg",
+      "mean_similarity": 0.9454628229141235,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\034.Gray_crowned_Rosy_Finch\\Gray_Crowned_Rosy_Finch_0001_27211.jpg",
+      "mean_similarity": 0.9454052448272705,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\034.Gray_crowned_Rosy_Finch\\Gray_Crowned_Rosy_Finch_0068_27196.jpg",
+      "mean_similarity": 0.9451821446418762,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\034.Gray_crowned_Rosy_Finch\\Gray_Crowned_Rosy_Finch_0024_27057.jpg",
+      "mean_similarity": 0.9450802206993103,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\034.Gray_crowned_Rosy_Finch\\Gray_Crowned_Rosy_Finch_0038_797309.jpg",
+      "mean_similarity": 0.9450254440307617,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\034.Gray_crowned_Rosy_Finch\\Gray_Crowned_Rosy_Finch_0071_797285.jpg",
+      "mean_similarity": 0.9446403384208679,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\034.Gray_crowned_Rosy_Finch\\Gray_Crowned_Rosy_Finch_0021_797286.jpg",
+      "mean_similarity": 0.9445059895515442,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\034.Gray_crowned_Rosy_Finch\\Gray_Crowned_Rosy_Finch_0044_26976.jpg",
+      "mean_similarity": 0.9444670081138611,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\034.Gray_crowned_Rosy_Finch\\Gray_Crowned_Rosy_Finch_0025_797274.jpg",
+      "mean_similarity": 0.944461464881897,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\034.Gray_crowned_Rosy_Finch\\Gray_Crowned_Rosy_Finch_0061_26979.jpg",
+      "mean_similarity": 0.9428867697715759,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\034.Gray_crowned_Rosy_Finch\\Gray_Crowned_Rosy_Finch_0075_27165.jpg",
+      "mean_similarity": 0.9425476789474487,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\034.Gray_crowned_Rosy_Finch\\Gray_Crowned_Rosy_Finch_0047_797303.jpg",
+      "mean_similarity": 0.9419858455657959,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\034.Gray_crowned_Rosy_Finch\\Gray_Crowned_Rosy_Finch_0055_27112.jpg",
+      "mean_similarity": 0.9419453740119934,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\034.Gray_crowned_Rosy_Finch\\Gray_Crowned_Rosy_Finch_0056_797293.jpg",
+      "mean_similarity": 0.9416843056678772,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\034.Gray_crowned_Rosy_Finch\\Gray_Crowned_Rosy_Finch_0074_27156.jpg",
+      "mean_similarity": 0.9416198134422302,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\034.Gray_crowned_Rosy_Finch\\Gray_Crowned_Rosy_Finch_0043_26990.jpg",
+      "mean_similarity": 0.941180944442749,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\034.Gray_crowned_Rosy_Finch\\Gray_Crowned_Rosy_Finch_0065_797301.jpg",
+      "mean_similarity": 0.9409685134887695,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\034.Gray_crowned_Rosy_Finch\\Gray_Crowned_Rosy_Finch_0042_27143.jpg",
+      "mean_similarity": 0.9405018091201782,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\034.Gray_crowned_Rosy_Finch\\Gray_Crowned_Rosy_Finch_0012_27062.jpg",
+      "mean_similarity": 0.9398069381713867,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\034.Gray_crowned_Rosy_Finch\\Gray_Crowned_Rosy_Finch_0026_27160.jpg",
+      "mean_similarity": 0.9381523132324219,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\034.Gray_crowned_Rosy_Finch\\Gray_Crowned_Rosy_Finch_0010_27039.jpg",
+      "mean_similarity": 0.9372332096099854,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\034.Gray_crowned_Rosy_Finch\\Gray_Crowned_Rosy_Finch_0030_27068.jpg",
+      "mean_similarity": 0.9369029998779297,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\034.Gray_crowned_Rosy_Finch\\Gray_Crowned_Rosy_Finch_0046_797295.jpg",
+      "mean_similarity": 0.9355146288871765,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\034.Gray_crowned_Rosy_Finch\\Gray_Crowned_Rosy_Finch_0052_27032.jpg",
+      "mean_similarity": 0.9299178123474121,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\034.Gray_crowned_Rosy_Finch\\Gray_Crowned_Rosy_Finch_0015_797291.jpg",
+      "mean_similarity": 0.9281357526779175,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\034.Gray_crowned_Rosy_Finch\\Gray_Crowned_Rosy_Finch_0063_27123.jpg",
+      "mean_similarity": 0.9209558963775635,
+      "rank": 30
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "class_name": "woman",
+  "global_description": "Human female with a generally slender, curvilinear body shape. Skin tone varies widely, hair can be of any color or style, and clothing is diverse, often reflecting personal style or cultural norms.",
+  "discriminative_attributes": [
+    "Curvilinear body shape",
+    "Varied skin tones",
+    "Diverse hair styles",
+    "Varied clothing styles",
+    "Facial features"
+  ],
+  "part_details": {
+    "head": "Varied hair styles and colors, distinct facial features",
+    "body": "Curvilinear shape, varied clothing",
+    "arms": "Slender, often exposed or clothed",
+    "legs": "Long and slender, often clothed",
+    "feet": "Varied footwear"
+  },
+  "spatial_relations": [
+    "Head positioned above body",
+    "Arms extend from sides of body",
+    "Legs extend from lower body",
+    "Feet at end of legs"
+  ],
+  "original_dataset_key": "cifar100",
+  "original_class_key": "woman"
+}

@@ -1,0 +1,454 @@
+{
+  "class_name": "Horned Puffin",
+  "class_idx": 106,
+  "class_folder": "106.Horned_Puffin",
+  "num_images_in_class": 10,
+  "ec_size_requested": 30,
+  "ec_size_actual": 40,
+  "num_fewshot": 10,
+  "num_synthesized": 30,
+  "fewshot_emphasis_weight": 3.0,
+  "hybrid_lambda": 0.6,
+  "related_base_classes": [
+    {
+      "class_key": "rhinoceros_auklet",
+      "relevance_score": 3.725
+    },
+    {
+      "class_key": "pied_kingfisher",
+      "relevance_score": 3.2777
+    },
+    {
+      "class_key": "horned_lark",
+      "relevance_score": 3.0265
+    },
+    {
+      "class_key": "green_kingfisher",
+      "relevance_score": 2.0733
+    },
+    {
+      "class_key": "bobolink",
+      "relevance_score": 1.986
+    },
+    {
+      "class_key": "european_goldfinch",
+      "relevance_score": 1.8227
+    },
+    {
+      "class_key": "pomarine_jaeger",
+      "relevance_score": 1.6327
+    },
+    {
+      "class_key": "slaty_backed_gull",
+      "relevance_score": 1.3342
+    },
+    {
+      "class_key": "american_goldfinch",
+      "relevance_score": 1.3307
+    },
+    {
+      "class_key": "ringed_kingfisher",
+      "relevance_score": 1.3284
+    }
+  ],
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\Incremental class - Copy\\106.Horned_Puffin\\Horned_Puffin_0055_100882.jpg",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 1,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\Incremental class - Copy\\106.Horned_Puffin\\Horned_Puffin_0007_100699.jpg",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 2,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\Incremental class - Copy\\106.Horned_Puffin\\Horned_Puffin_0001_100973.jpg",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 3,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\Incremental class - Copy\\106.Horned_Puffin\\Horned_Puffin_0062_100693.jpg",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 4,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\Incremental class - Copy\\106.Horned_Puffin\\Horned_Puffin_0024_100620.jpg",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 5,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\Incremental class - Copy\\106.Horned_Puffin\\Horned_Puffin_0022_100766.jpg",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 6,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\Incremental class - Copy\\106.Horned_Puffin\\Horned_Puffin_0066_100877.jpg",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 7,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\Incremental class - Copy\\106.Horned_Puffin\\Horned_Puffin_0012_100763.jpg",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 8,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\Incremental class - Copy\\106.Horned_Puffin\\Horned_Puffin_0081_101054.jpg",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 9,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\Incremental class - Copy\\106.Horned_Puffin\\Horned_Puffin_0042_100760.jpg",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 10,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\008.Rhinoceros_Auklet\\Rhinoceros_Auklet_0010_797545.jpg",
+      "mean_similarity": 0.9792146000000002,
+      "rank": 11,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\008.Rhinoceros_Auklet\\Rhinoceros_Auklet_0006_797512.jpg",
+      "mean_similarity": 0.9792145,
+      "rank": 12,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\008.Rhinoceros_Auklet\\Rhinoceros_Auklet_0043_2096.jpg",
+      "mean_similarity": 0.9792144,
+      "rank": 13,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\008.Rhinoceros_Auklet\\Rhinoceros_Auklet_0005_2111.jpg",
+      "mean_similarity": 0.9792144,
+      "rank": 14,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\008.Rhinoceros_Auklet\\Rhinoceros_Auklet_0017_2155.jpg",
+      "mean_similarity": 0.9792144,
+      "rank": 15,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\008.Rhinoceros_Auklet\\Rhinoceros_Auklet_0032_797516.jpg",
+      "mean_similarity": 0.9792143,
+      "rank": 16,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\008.Rhinoceros_Auklet\\Rhinoceros_Auklet_0014_797522.jpg",
+      "mean_similarity": 0.9792143,
+      "rank": 17,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\008.Rhinoceros_Auklet\\Rhinoceros_Auklet_0013_797537.jpg",
+      "mean_similarity": 0.9792143,
+      "rank": 18,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\008.Rhinoceros_Auklet\\Rhinoceros_Auklet_0049_797543.jpg",
+      "mean_similarity": 0.9792143,
+      "rank": 19,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\072.Pomarine_Jaeger\\Pomarine_Jaeger_0039_61348.jpg",
+      "mean_similarity": 0.9792143,
+      "rank": 20,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\008.Rhinoceros_Auklet\\Rhinoceros_Auklet_0019_797513.jpg",
+      "mean_similarity": 0.9792142,
+      "rank": 21,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\008.Rhinoceros_Auklet\\Rhinoceros_Auklet_0008_797531.jpg",
+      "mean_similarity": 0.9792142,
+      "rank": 22,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\072.Pomarine_Jaeger\\Pomarine_Jaeger_0038_61446.jpg",
+      "mean_similarity": 0.9792142,
+      "rank": 23,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\008.Rhinoceros_Auklet\\Rhinoceros_Auklet_0011_797530.jpg",
+      "mean_similarity": 0.9792141000000001,
+      "rank": 24,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\072.Pomarine_Jaeger\\Pomarine_Jaeger_0078_795758.jpg",
+      "mean_similarity": 0.9792141000000001,
+      "rank": 25,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\072.Pomarine_Jaeger\\Pomarine_Jaeger_0031_61420.jpg",
+      "mean_similarity": 0.9792139000000001,
+      "rank": 26,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\072.Pomarine_Jaeger\\Pomarine_Jaeger_0048_795771.jpg",
+      "mean_similarity": 0.9792138,
+      "rank": 27,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\072.Pomarine_Jaeger\\Pomarine_Jaeger_0041_61305.jpg",
+      "mean_similarity": 0.9792138,
+      "rank": 28,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\082.Ringed_Kingfisher\\Ringed_Kingfisher_0053_72875.jpg",
+      "mean_similarity": 0.9792138,
+      "rank": 29,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\013.Bobolink\\Bobolink_0124_10182.jpg",
+      "mean_similarity": 0.9792137000000001,
+      "rank": 30,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\072.Pomarine_Jaeger\\Pomarine_Jaeger_0055_795762.jpg",
+      "mean_similarity": 0.9792136,
+      "rank": 31,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\082.Ringed_Kingfisher\\Ringed_Kingfisher_0042_72913.jpg",
+      "mean_similarity": 0.9792136,
+      "rank": 32,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\072.Pomarine_Jaeger\\Pomarine_Jaeger_0043_61384.jpg",
+      "mean_similarity": 0.9792136,
+      "rank": 33,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\072.Pomarine_Jaeger\\Pomarine_Jaeger_0012_795773.jpg",
+      "mean_similarity": 0.9792135000000001,
+      "rank": 34,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979213
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\082.Ringed_Kingfisher\\Ringed_Kingfisher_0077_72872.jpg",
+      "mean_similarity": 0.9792135000000001,
+      "rank": 35,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\072.Pomarine_Jaeger\\Pomarine_Jaeger_0006_795775.jpg",
+      "mean_similarity": 0.9792135000000001,
+      "rank": 36,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\080.Green_Kingfisher\\Green_Kingfisher_0005_71352.jpg",
+      "mean_similarity": 0.9792135000000001,
+      "rank": 37,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\080.Green_Kingfisher\\Green_Kingfisher_0099_70942.jpg",
+      "mean_similarity": 0.9792135000000001,
+      "rank": 38,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979213
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\082.Ringed_Kingfisher\\Ringed_Kingfisher_0052_72871.jpg",
+      "mean_similarity": 0.9792135000000001,
+      "rank": 39,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979213
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\081.Pied_Kingfisher\\Pied_Kingfisher_0122_71789.jpg",
+      "mean_similarity": 0.9792135000000001,
+      "rank": 40,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    }
+  ],
+  "debug": {
+    "total_candidates": 162,
+    "after_voting": 162,
+    "after_dedup": 30,
+    "dedup_mode": "backbone",
+    "top_segments": [
+      {
+        "class": "008.Rhinoceros_Auklet",
+        "seg": 2,
+        "hybrid": 1.6967,
+        "magnitude": 9.7921,
+        "borda": 485.0
+      },
+      {
+        "class": "008.Rhinoceros_Auklet",
+        "seg": 0,
+        "hybrid": 1.605,
+        "magnitude": 9.7921,
+        "borda": 477.0
+      },
+      {
+        "class": "008.Rhinoceros_Auklet",
+        "seg": 3,
+        "hybrid": 1.567,
+        "magnitude": 9.7921,
+        "borda": 464.0
+      },
+      {
+        "class": "008.Rhinoceros_Auklet",
+        "seg": 4,
+        "hybrid": 1.3807,
+        "magnitude": 9.7921,
+        "borda": 447.0
+      },
+      {
+        "class": "008.Rhinoceros_Auklet",
+        "seg": 1,
+        "hybrid": 1.3749,
+        "magnitude": 9.7921,
+        "borda": 445.0
+      },
+      {
+        "class": "072.Pomarine_Jaeger",
+        "seg": 0,
+        "hybrid": 1.0345,
+        "magnitude": 9.7921,
+        "borda": 422.0
+      },
+      {
+        "class": "072.Pomarine_Jaeger",
+        "seg": 3,
+        "hybrid": 1.0228,
+        "magnitude": 9.7921,
+        "borda": 418.0
+      },
+      {
+        "class": "072.Pomarine_Jaeger",
+        "seg": 1,
+        "hybrid": 0.9935,
+        "magnitude": 9.7921,
+        "borda": 408.0
+      },
+      {
+        "class": "013.Bobolink",
+        "seg": 3,
+        "hybrid": 0.8511,
+        "magnitude": 9.7921,
+        "borda": 406.0
+      },
+      {
+        "class": "082.Ringed_Kingfisher",
+        "seg": 3,
+        "hybrid": 0.8189,
+        "magnitude": 9.7921,
+        "borda": 395.0
+      }
+    ]
+  }
+}

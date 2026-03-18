@@ -1,0 +1,24 @@
+{
+  "class_name": "hippopotamus",
+  "global_description": "Large mammal with a massive, barrel-shaped body, thick gray skin, short legs, large head with wide mouth, small eyes and ears on top, and a short tail.",
+  "discriminative_attributes": [
+    "Massive barrel-shaped body",
+    "Thick gray skin",
+    "Large head with wide mouth",
+    "Short legs",
+    "Small eyes and ears on top"
+  ],
+  "part_details": {
+    "head": "Large with wide mouth, small eyes and ears on top",
+    "body": "Massive, barrel-shaped with thick gray skin",
+    "legs": "Short and sturdy",
+    "tail": "Short, extending from rear"
+  },
+  "spatial_relations": [
+    "Head at front, tail at rear",
+    "Legs beneath body",
+    "Eyes and ears on top of head"
+  ],
+  "original_dataset_key": "ImageNetR",
+  "original_class_key": "hippopotamus"
+}

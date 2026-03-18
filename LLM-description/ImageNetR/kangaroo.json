@@ -1,0 +1,26 @@
+{
+  "class_name": "kangaroo",
+  "global_description": "Large marsupial with powerful hind legs, long tail, and small head. Fur is typically brown or gray, with a muscular build and a pouch on the abdomen for carrying young.",
+  "discriminative_attributes": [
+    "Powerful hind legs",
+    "Long tail",
+    "Small head",
+    "Muscular build",
+    "Abdominal pouch"
+  ],
+  "part_details": {
+    "head": "Small with large ears and a pointed snout",
+    "body": "Muscular with short fur, typically brown or gray",
+    "hind legs": "Long and powerful, adapted for jumping",
+    "tail": "Long and thick, used for balance",
+    "pouch": "Located on the abdomen, used for carrying young"
+  },
+  "spatial_relations": [
+    "Head at front of body",
+    "Hind legs beneath and extending from rear",
+    "Tail extending from rear",
+    "Pouch on lower abdomen"
+  ],
+  "original_dataset_key": "ImageNetR",
+  "original_class_key": "kangaroo"
+}

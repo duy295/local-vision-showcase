@@ -1,0 +1,159 @@
+{
+  "class_name": "092.Nighthawk",
+  "class_idx": 91,
+  "num_images_in_class": 30,
+  "ec_size_requested": 30,
+  "ec_size_actual": 30,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\092.Nighthawk\\Nighthawk_0063_795339.jpg",
+      "mean_similarity": 0.9499478340148926,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\092.Nighthawk\\Nighthawk_0055_83352.jpg",
+      "mean_similarity": 0.9496447443962097,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\092.Nighthawk\\Nighthawk_0004_84011.jpg",
+      "mean_similarity": 0.9495368599891663,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\092.Nighthawk\\Nighthawk_0027_84697.jpg",
+      "mean_similarity": 0.9495282769203186,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\092.Nighthawk\\Nighthawk_0012_84333.jpg",
+      "mean_similarity": 0.9492233395576477,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\092.Nighthawk\\Nighthawk_0068_82368.jpg",
+      "mean_similarity": 0.9491946697235107,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\092.Nighthawk\\Nighthawk_0041_82183.jpg",
+      "mean_similarity": 0.9490593075752258,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\092.Nighthawk\\Nighthawk_0051_82619.jpg",
+      "mean_similarity": 0.9489969611167908,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\092.Nighthawk\\Nighthawk_0032_795333.jpg",
+      "mean_similarity": 0.9489884972572327,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\092.Nighthawk\\Nighthawk_0083_83647.jpg",
+      "mean_similarity": 0.948864221572876,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\092.Nighthawk\\Nighthawk_0067_795335.jpg",
+      "mean_similarity": 0.9487661123275757,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\092.Nighthawk\\Nighthawk_0057_82640.jpg",
+      "mean_similarity": 0.9486751556396484,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\092.Nighthawk\\Nighthawk_0076_82686.jpg",
+      "mean_similarity": 0.9486731290817261,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\092.Nighthawk\\Nighthawk_0035_84077.jpg",
+      "mean_similarity": 0.9486162066459656,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\092.Nighthawk\\Nighthawk_0050_84094.jpg",
+      "mean_similarity": 0.9485105872154236,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\092.Nighthawk\\Nighthawk_0046_82246.jpg",
+      "mean_similarity": 0.94847172498703,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\092.Nighthawk\\Nighthawk_0014_82624.jpg",
+      "mean_similarity": 0.9482474327087402,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\092.Nighthawk\\Nighthawk_0030_795338.jpg",
+      "mean_similarity": 0.9477462768554688,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\092.Nighthawk\\Nighthawk_0043_84039.jpg",
+      "mean_similarity": 0.9473478198051453,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\092.Nighthawk\\Nighthawk_0073_83540.jpg",
+      "mean_similarity": 0.946748673915863,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\092.Nighthawk\\Nighthawk_0090_82579.jpg",
+      "mean_similarity": 0.9466864466667175,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\092.Nighthawk\\Nighthawk_0061_82509.jpg",
+      "mean_similarity": 0.9466851949691772,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\092.Nighthawk\\Nighthawk_0019_83850.jpg",
+      "mean_similarity": 0.9463687539100647,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\092.Nighthawk\\Nighthawk_0082_82242.jpg",
+      "mean_similarity": 0.9461332559585571,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\092.Nighthawk\\Nighthawk_0003_82827.jpg",
+      "mean_similarity": 0.946004331111908,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\092.Nighthawk\\Nighthawk_0022_84183.jpg",
+      "mean_similarity": 0.9454494714736938,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\092.Nighthawk\\Nighthawk_0045_82807.jpg",
+      "mean_similarity": 0.9420568943023682,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\092.Nighthawk\\Nighthawk_0058_83270.jpg",
+      "mean_similarity": 0.9413092732429504,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\092.Nighthawk\\Nighthawk_0034_82578.jpg",
+      "mean_similarity": 0.940024733543396,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\092.Nighthawk\\Nighthawk_0018_83639.jpg",
+      "mean_similarity": 0.9363416433334351,
+      "rank": 30
+    }
+  ]
+}

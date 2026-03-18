@@ -1,0 +1,23 @@
+{
+  "class_name": "Bird",
+  "global_description": "A small, slender bird with an olive-green back and pale underparts. It has a rounded head, short bill, and long wings. The plumage is smooth with subtle streaks, and the tail is slightly forked.",
+  "discriminative_attributes": [
+    "Olive-green back",
+    "Pale underparts",
+    "Rounded head",
+    "Short bill",
+    "Long wings"
+  ],
+  "part_details": {
+    "head": "Rounded with olive-green feathers and a short, pointed bill.",
+    "wings": "Long and narrow, olive-green with subtle streaks.",
+    "tail": "Slightly forked, olive-green, matching the wings.",
+    "underparts": "Pale, contrasting with the darker back."
+  },
+  "spatial_relations": [
+    "The wings extend from the sides of the body.",
+    "The tail is positioned at the rear, slightly forked."
+  ],
+  "original_dataset_key": "CUB200",
+  "original_class_key": "acadian_flycatcher"
+}

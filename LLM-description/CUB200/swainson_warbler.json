@@ -1,0 +1,26 @@
+{
+  "class_name": "Swainson's Warbler",
+  "global_description": "A small, plump songbird with a rounded body and a short tail. It has a predominantly olive-brown upper body and a pale, buffy underbelly. The bird features a distinctive rusty cap and a long, slightly curved bill. Its wings and tail are darker brown, providing a subtle contrast to its lighter body.",
+  "discriminative_attributes": [
+    "Olive-brown upper body",
+    "Pale buffy underbelly",
+    "Rusty cap on head",
+    "Long slightly curved bill",
+    "Dark brown wings and tail"
+  ],
+  "part_details": {
+    "head": "Rounded with a rusty cap, pale eye stripe, and olive-brown cheeks.",
+    "bill": "Long, slender, slightly curved, dark at the tip.",
+    "body": "Plump, with olive-brown upperparts and pale buffy underparts.",
+    "wings": "Dark brown, short and rounded.",
+    "tail": "Short, dark brown, slightly rounded."
+  },
+  "spatial_relations": [
+    "The rusty cap covers the top of the head.",
+    "The long bill extends from the front of the face.",
+    "The dark wings are positioned on either side of the body.",
+    "The short tail extends from the rear of the body."
+  ],
+  "original_dataset_key": "CUB200",
+  "original_class_key": "swainson_warbler"
+}

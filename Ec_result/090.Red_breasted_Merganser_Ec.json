@@ -1,0 +1,159 @@
+{
+  "class_name": "090.Red_breasted_Merganser",
+  "class_idx": 89,
+  "num_images_in_class": 30,
+  "ec_size_requested": 30,
+  "ec_size_actual": 30,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\090.Red_breasted_Merganser\\Red_Breasted_Merganser_0016_79476.jpg",
+      "mean_similarity": 0.9481809139251709,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\090.Red_breasted_Merganser\\Red_Breasted_Merganser_0074_79497.jpg",
+      "mean_similarity": 0.9477944374084473,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\090.Red_breasted_Merganser\\Red_Breasted_Merganser_0085_79285.jpg",
+      "mean_similarity": 0.9473637938499451,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\090.Red_breasted_Merganser\\Red_Breasted_Merganser_0048_79323.jpg",
+      "mean_similarity": 0.9473267197608948,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\090.Red_breasted_Merganser\\Red_Breasted_Merganser_0047_79486.jpg",
+      "mean_similarity": 0.9471120834350586,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\090.Red_breasted_Merganser\\Red_Breasted_Merganser_0063_79238.jpg",
+      "mean_similarity": 0.946976900100708,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\090.Red_breasted_Merganser\\Red_Breasted_Merganser_0054_79542.jpg",
+      "mean_similarity": 0.9468235969543457,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\090.Red_breasted_Merganser\\Red_Breasted_Merganser_0017_79224.jpg",
+      "mean_similarity": 0.9461167454719543,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\090.Red_breasted_Merganser\\Red_Breasted_Merganser_0049_79432.jpg",
+      "mean_similarity": 0.9459770917892456,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\090.Red_breasted_Merganser\\Red_Breasted_Merganser_0013_79301.jpg",
+      "mean_similarity": 0.9458597302436829,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\090.Red_breasted_Merganser\\Red_Breasted_Merganser_0021_79168.jpg",
+      "mean_similarity": 0.945600152015686,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\090.Red_breasted_Merganser\\Red_Breasted_Merganser_0076_79312.jpg",
+      "mean_similarity": 0.9454713463783264,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\090.Red_breasted_Merganser\\Red_Breasted_Merganser_0071_79379.jpg",
+      "mean_similarity": 0.9454572200775146,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\090.Red_breasted_Merganser\\Red_Breasted_Merganser_0002_79447.jpg",
+      "mean_similarity": 0.9453843235969543,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\090.Red_breasted_Merganser\\Red_Breasted_Merganser_0010_79567.jpg",
+      "mean_similarity": 0.9453558325767517,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\090.Red_breasted_Merganser\\Red_Breasted_Merganser_0055_79397.jpg",
+      "mean_similarity": 0.9452418684959412,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\090.Red_breasted_Merganser\\Red_Breasted_Merganser_0062_79548.jpg",
+      "mean_similarity": 0.9448980689048767,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\090.Red_breasted_Merganser\\Red_Breasted_Merganser_0033_79353.jpg",
+      "mean_similarity": 0.9448164701461792,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\090.Red_breasted_Merganser\\Red_Breasted_Merganser_0046_79330.jpg",
+      "mean_similarity": 0.9445240497589111,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\090.Red_breasted_Merganser\\Red_Breasted_Merganser_0081_79396.jpg",
+      "mean_similarity": 0.9444854855537415,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\090.Red_breasted_Merganser\\Red_Breasted_Merganser_0040_79207.jpg",
+      "mean_similarity": 0.9443475604057312,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\090.Red_breasted_Merganser\\Red_Breasted_Merganser_0023_79477.jpg",
+      "mean_similarity": 0.9436646699905396,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\090.Red_breasted_Merganser\\Red_Breasted_Merganser_0032_79280.jpg",
+      "mean_similarity": 0.9434716701507568,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\090.Red_breasted_Merganser\\Red_Breasted_Merganser_0080_79488.jpg",
+      "mean_similarity": 0.9426193237304688,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\090.Red_breasted_Merganser\\Red_Breasted_Merganser_0075_79169.jpg",
+      "mean_similarity": 0.9411260485649109,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\090.Red_breasted_Merganser\\Red_Breasted_Merganser_0022_79274.jpg",
+      "mean_similarity": 0.9410436153411865,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\090.Red_breasted_Merganser\\Red_Breasted_Merganser_0006_79216.jpg",
+      "mean_similarity": 0.9408687949180603,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\090.Red_breasted_Merganser\\Red_Breasted_Merganser_0003_79303.jpg",
+      "mean_similarity": 0.9381729364395142,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\090.Red_breasted_Merganser\\Red_Breasted_Merganser_0044_79321.jpg",
+      "mean_similarity": 0.922650933265686,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\090.Red_breasted_Merganser\\Red_Breasted_Merganser_0078_79393.jpg",
+      "mean_similarity": 0.9194251894950867,
+      "rank": 30
+    }
+  ]
+}

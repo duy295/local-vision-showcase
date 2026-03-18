@@ -1,0 +1,159 @@
+{
+  "class_name": "019.Gray_Catbird",
+  "class_idx": 18,
+  "num_images_in_class": 30,
+  "ec_size_requested": 30,
+  "ec_size_actual": 30,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\019.Gray_Catbird\\Gray_Catbird_0141_21174.jpg",
+      "mean_similarity": 0.9494310617446899,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\019.Gray_Catbird\\Gray_Catbird_0100_20674.jpg",
+      "mean_similarity": 0.9489412307739258,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\019.Gray_Catbird\\Gray_Catbird_0006_20867.jpg",
+      "mean_similarity": 0.9485359191894531,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\019.Gray_Catbird\\Gray_Catbird_0090_21464.jpg",
+      "mean_similarity": 0.9484764337539673,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\019.Gray_Catbird\\Gray_Catbird_0055_20671.jpg",
+      "mean_similarity": 0.9481843709945679,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\019.Gray_Catbird\\Gray_Catbird_0126_19446.jpg",
+      "mean_similarity": 0.9481567740440369,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\019.Gray_Catbird\\Gray_Catbird_0080_20139.jpg",
+      "mean_similarity": 0.9479929208755493,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\019.Gray_Catbird\\Gray_Catbird_0129_20987.jpg",
+      "mean_similarity": 0.9478616714477539,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\019.Gray_Catbird\\Gray_Catbird_0074_19601.jpg",
+      "mean_similarity": 0.9477298259735107,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\019.Gray_Catbird\\Gray_Catbird_0125_19833.jpg",
+      "mean_similarity": 0.9470270872116089,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\019.Gray_Catbird\\Gray_Catbird_0118_20476.jpg",
+      "mean_similarity": 0.9465529918670654,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\019.Gray_Catbird\\Gray_Catbird_0094_21303.jpg",
+      "mean_similarity": 0.9461560845375061,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\019.Gray_Catbird\\Gray_Catbird_0042_20546.jpg",
+      "mean_similarity": 0.9460587501525879,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\019.Gray_Catbird\\Gray_Catbird_0111_19550.jpg",
+      "mean_similarity": 0.9460163712501526,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\019.Gray_Catbird\\Gray_Catbird_0134_20596.jpg",
+      "mean_similarity": 0.9456333518028259,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\019.Gray_Catbird\\Gray_Catbird_0023_20668.jpg",
+      "mean_similarity": 0.9454753398895264,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\019.Gray_Catbird\\Gray_Catbird_0001_20695.jpg",
+      "mean_similarity": 0.9454662799835205,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\019.Gray_Catbird\\Gray_Catbird_0048_20558.jpg",
+      "mean_similarity": 0.945161759853363,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\019.Gray_Catbird\\Gray_Catbird_0117_21333.jpg",
+      "mean_similarity": 0.9444529414176941,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\019.Gray_Catbird\\Gray_Catbird_0050_20763.jpg",
+      "mean_similarity": 0.944167971611023,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\019.Gray_Catbird\\Gray_Catbird_0045_20950.jpg",
+      "mean_similarity": 0.9424468874931335,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\019.Gray_Catbird\\Gray_Catbird_0131_19633.jpg",
+      "mean_similarity": 0.9423887133598328,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\019.Gray_Catbird\\Gray_Catbird_0127_20034.jpg",
+      "mean_similarity": 0.9419943690299988,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\019.Gray_Catbird\\Gray_Catbird_0067_21043.jpg",
+      "mean_similarity": 0.9409700632095337,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\019.Gray_Catbird\\Gray_Catbird_0015_21230.jpg",
+      "mean_similarity": 0.9409286379814148,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\019.Gray_Catbird\\Gray_Catbird_0107_20513.jpg",
+      "mean_similarity": 0.9403135180473328,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\019.Gray_Catbird\\Gray_Catbird_0103_20930.jpg",
+      "mean_similarity": 0.9354653358459473,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\019.Gray_Catbird\\Gray_Catbird_0063_20707.jpg",
+      "mean_similarity": 0.9341735243797302,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\019.Gray_Catbird\\Gray_Catbird_0027_20968.jpg",
+      "mean_similarity": 0.9314060807228088,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\019.Gray_Catbird\\Gray_Catbird_0091_20416.jpg",
+      "mean_similarity": 0.9291888475418091,
+      "rank": 30
+    }
+  ]
+}

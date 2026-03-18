@@ -1,0 +1,26 @@
+{
+  "class_name": "dolphin",
+  "global_description": "Streamlined marine mammal with a smooth, gray body, elongated snout, dorsal fin on back, flippers on sides, and a tail fluke for propulsion. Known for its sleek, torpedo-like shape and playful nature.",
+  "discriminative_attributes": [
+    "Streamlined body",
+    "Elongated snout",
+    "Dorsal fin",
+    "Flippers",
+    "Tail fluke"
+  ],
+  "part_details": {
+    "head": "Smooth with an elongated snout",
+    "body": "Streamlined, gray, and smooth",
+    "dorsal fin": "Triangular, located on back",
+    "flippers": "Paddle-shaped, on sides",
+    "tail fluke": "Horizontal, at rear"
+  },
+  "spatial_relations": [
+    "Dorsal fin on top of body",
+    "Flippers on sides of body",
+    "Tail fluke at rear",
+    "Snout at front of head"
+  ],
+  "original_dataset_key": "cifar100",
+  "original_class_key": "dolphin"
+}

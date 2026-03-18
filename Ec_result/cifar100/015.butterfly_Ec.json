@@ -1,0 +1,1259 @@
+{
+  "class_name": "butterfly",
+  "class_idx": 14,
+  "num_images_in_class": 500,
+  "ec_size_requested": 250,
+  "ec_size_actual": 250,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\mourning_cloak_s_000011.png",
+      "mean_similarity": 0.9425492882728577,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\butterfly_s_003030.png",
+      "mean_similarity": 0.9422504901885986,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\butterfly_s_001590.png",
+      "mean_similarity": 0.9420394897460938,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\butterfly_s_000922.png",
+      "mean_similarity": 0.9420065879821777,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\butterfly_s_000318.png",
+      "mean_similarity": 0.9418173432350159,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\butterfly_s_000829.png",
+      "mean_similarity": 0.9417681694030762,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\butterfly_s_003189.png",
+      "mean_similarity": 0.9416507482528687,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\butterfly_s_001042.png",
+      "mean_similarity": 0.9414225816726685,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\butterfly_s_000903.png",
+      "mean_similarity": 0.941398561000824,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\butterfly_s_003156.png",
+      "mean_similarity": 0.9413264989852905,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\butterfly_s_001606.png",
+      "mean_similarity": 0.9409685730934143,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\mourning_cloak_s_000612.png",
+      "mean_similarity": 0.9408227801322937,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\butterfly_s_000056.png",
+      "mean_similarity": 0.940768301486969,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\butterfly_s_001041.png",
+      "mean_similarity": 0.940700113773346,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\butterfly_s_000754.png",
+      "mean_similarity": 0.9406206607818604,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\butterfly_s_002368.png",
+      "mean_similarity": 0.9406119585037231,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\butterfly_s_002937.png",
+      "mean_similarity": 0.9405562877655029,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\butterfly_s_000023.png",
+      "mean_similarity": 0.9403702616691589,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\butterfly_s_000566.png",
+      "mean_similarity": 0.9403324723243713,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\mourning_cloak_s_000998.png",
+      "mean_similarity": 0.9403073787689209,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\butterfly_s_001483.png",
+      "mean_similarity": 0.9402090311050415,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\butterfly_s_002381.png",
+      "mean_similarity": 0.9401522278785706,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\mourning_cloak_s_000524.png",
+      "mean_similarity": 0.9401078224182129,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\mourning_cloak_s_000789.png",
+      "mean_similarity": 0.940095067024231,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\butterfly_s_000561.png",
+      "mean_similarity": 0.9400453567504883,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\butterfly_s_001712.png",
+      "mean_similarity": 0.9400385022163391,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\butterfly_s_001036.png",
+      "mean_similarity": 0.9400005340576172,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\butterfly_s_001306.png",
+      "mean_similarity": 0.9399427771568298,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\mourning_cloak_s_000458.png",
+      "mean_similarity": 0.9399420022964478,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\mourning_cloak_s_000599.png",
+      "mean_similarity": 0.939878523349762,
+      "rank": 30
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\butterfly_s_000975.png",
+      "mean_similarity": 0.9398767948150635,
+      "rank": 31
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\butterfly_s_000168.png",
+      "mean_similarity": 0.9398759007453918,
+      "rank": 32
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\mourning_cloak_s_000792.png",
+      "mean_similarity": 0.9398434162139893,
+      "rank": 33
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\butterfly_s_000083.png",
+      "mean_similarity": 0.9398381114006042,
+      "rank": 34
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\butterfly_s_002676.png",
+      "mean_similarity": 0.9398282766342163,
+      "rank": 35
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\butterfly_s_000099.png",
+      "mean_similarity": 0.9398145079612732,
+      "rank": 36
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\butterfly_s_003200.png",
+      "mean_similarity": 0.9398115873336792,
+      "rank": 37
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\mourning_cloak_s_000135.png",
+      "mean_similarity": 0.9398006796836853,
+      "rank": 38
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\butterfly_s_003088.png",
+      "mean_similarity": 0.9395360946655273,
+      "rank": 39
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\butterfly_s_002866.png",
+      "mean_similarity": 0.9394633173942566,
+      "rank": 40
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\butterfly_s_000832.png",
+      "mean_similarity": 0.9393470883369446,
+      "rank": 41
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\butterfly_s_000890.png",
+      "mean_similarity": 0.9393417239189148,
+      "rank": 42
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\butterfly_s_000767.png",
+      "mean_similarity": 0.9393246173858643,
+      "rank": 43
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\butterfly_s_001829.png",
+      "mean_similarity": 0.939306378364563,
+      "rank": 44
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\butterfly_s_001362.png",
+      "mean_similarity": 0.9392910599708557,
+      "rank": 45
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\butterfly_s_000292.png",
+      "mean_similarity": 0.9392852187156677,
+      "rank": 46
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\mourning_cloak_s_000430.png",
+      "mean_similarity": 0.9392726421356201,
+      "rank": 47
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\butterfly_s_000184.png",
+      "mean_similarity": 0.9392565488815308,
+      "rank": 48
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\mourning_cloak_s_000683.png",
+      "mean_similarity": 0.939220130443573,
+      "rank": 49
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\mourning_cloak_s_000125.png",
+      "mean_similarity": 0.9391699433326721,
+      "rank": 50
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\butterfly_s_001738.png",
+      "mean_similarity": 0.9391589164733887,
+      "rank": 51
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\butterfly_s_001432.png",
+      "mean_similarity": 0.9390856623649597,
+      "rank": 52
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\butterfly_s_000395.png",
+      "mean_similarity": 0.9390344619750977,
+      "rank": 53
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\butterfly_s_001612.png",
+      "mean_similarity": 0.9390130639076233,
+      "rank": 54
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\butterfly_s_000609.png",
+      "mean_similarity": 0.9389904141426086,
+      "rank": 55
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\butterfly_s_001255.png",
+      "mean_similarity": 0.9388606548309326,
+      "rank": 56
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\mourning_cloak_s_000070.png",
+      "mean_similarity": 0.9388502240180969,
+      "rank": 57
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\butterfly_s_000759.png",
+      "mean_similarity": 0.9388474822044373,
+      "rank": 58
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\butterfly_s_001781.png",
+      "mean_similarity": 0.9387930035591125,
+      "rank": 59
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\butterfly_s_001418.png",
+      "mean_similarity": 0.9387646317481995,
+      "rank": 60
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\butterfly_s_002526.png",
+      "mean_similarity": 0.9387313723564148,
+      "rank": 61
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\butterfly_s_000738.png",
+      "mean_similarity": 0.938651978969574,
+      "rank": 62
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\butterfly_s_000768.png",
+      "mean_similarity": 0.938629150390625,
+      "rank": 63
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\mourning_cloak_s_000377.png",
+      "mean_similarity": 0.9386123418807983,
+      "rank": 64
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\butterfly_s_001792.png",
+      "mean_similarity": 0.9385368227958679,
+      "rank": 65
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\butterfly_s_002252.png",
+      "mean_similarity": 0.9384990930557251,
+      "rank": 66
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\mourning_cloak_s_000194.png",
+      "mean_similarity": 0.9384885430335999,
+      "rank": 67
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\butterfly_s_000094.png",
+      "mean_similarity": 0.9384680390357971,
+      "rank": 68
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\butterfly_s_002743.png",
+      "mean_similarity": 0.9383662939071655,
+      "rank": 69
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\mourning_cloak_s_000882.png",
+      "mean_similarity": 0.9383649230003357,
+      "rank": 70
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\butterfly_s_002340.png",
+      "mean_similarity": 0.9383503198623657,
+      "rank": 71
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\butterfly_s_003025.png",
+      "mean_similarity": 0.938321590423584,
+      "rank": 72
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\butterfly_s_000358.png",
+      "mean_similarity": 0.9382539391517639,
+      "rank": 73
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\butterfly_s_001520.png",
+      "mean_similarity": 0.9382397532463074,
+      "rank": 74
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\mourning_cloak_s_001143.png",
+      "mean_similarity": 0.9382390975952148,
+      "rank": 75
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\butterfly_s_000510.png",
+      "mean_similarity": 0.9382159113883972,
+      "rank": 76
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\butterfly_s_000338.png",
+      "mean_similarity": 0.9381967782974243,
+      "rank": 77
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\butterfly_s_000005.png",
+      "mean_similarity": 0.9381290078163147,
+      "rank": 78
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\mourning_cloak_s_000101.png",
+      "mean_similarity": 0.9381033778190613,
+      "rank": 79
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\butterfly_s_001624.png",
+      "mean_similarity": 0.938102126121521,
+      "rank": 80
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\butterfly_s_002112.png",
+      "mean_similarity": 0.9380820393562317,
+      "rank": 81
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\butterfly_s_000886.png",
+      "mean_similarity": 0.9379168748855591,
+      "rank": 82
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\butterfly_s_001842.png",
+      "mean_similarity": 0.9378728270530701,
+      "rank": 83
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\butterfly_s_000941.png",
+      "mean_similarity": 0.937863826751709,
+      "rank": 84
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\butterfly_s_001597.png",
+      "mean_similarity": 0.9378479719161987,
+      "rank": 85
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\butterfly_s_001297.png",
+      "mean_similarity": 0.9378423094749451,
+      "rank": 86
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\butterfly_s_002778.png",
+      "mean_similarity": 0.9377450346946716,
+      "rank": 87
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\butterfly_s_002184.png",
+      "mean_similarity": 0.9377336502075195,
+      "rank": 88
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\butterfly_s_000839.png",
+      "mean_similarity": 0.937730610370636,
+      "rank": 89
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\butterfly_s_003002.png",
+      "mean_similarity": 0.9377301931381226,
+      "rank": 90
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\butterfly_s_000756.png",
+      "mean_similarity": 0.9376873970031738,
+      "rank": 91
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\butterfly_s_000943.png",
+      "mean_similarity": 0.9376780986785889,
+      "rank": 92
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\mourning_cloak_s_001057.png",
+      "mean_similarity": 0.9376277923583984,
+      "rank": 93
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\butterfly_s_001185.png",
+      "mean_similarity": 0.9375922083854675,
+      "rank": 94
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\butterfly_s_002053.png",
+      "mean_similarity": 0.9375758767127991,
+      "rank": 95
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\butterfly_s_000710.png",
+      "mean_similarity": 0.9375543594360352,
+      "rank": 96
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\butterfly_s_000191.png",
+      "mean_similarity": 0.937534749507904,
+      "rank": 97
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\butterfly_s_000980.png",
+      "mean_similarity": 0.9375193119049072,
+      "rank": 98
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\mourning_cloak_s_001457.png",
+      "mean_similarity": 0.9375189542770386,
+      "rank": 99
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\butterfly_s_002796.png",
+      "mean_similarity": 0.9374992847442627,
+      "rank": 100
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\butterfly_s_001697.png",
+      "mean_similarity": 0.9374546408653259,
+      "rank": 101
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\butterfly_s_003180.png",
+      "mean_similarity": 0.9374544024467468,
+      "rank": 102
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\butterfly_s_001394.png",
+      "mean_similarity": 0.9374481439590454,
+      "rank": 103
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\butterfly_s_001976.png",
+      "mean_similarity": 0.9374380111694336,
+      "rank": 104
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\mourning_cloak_s_000954.png",
+      "mean_similarity": 0.9374359250068665,
+      "rank": 105
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\mourning_cloak_s_000626.png",
+      "mean_similarity": 0.9373974800109863,
+      "rank": 106
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\butterfly_s_002557.png",
+      "mean_similarity": 0.937371551990509,
+      "rank": 107
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\butterfly_s_002357.png",
+      "mean_similarity": 0.9373611807823181,
+      "rank": 108
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\butterfly_s_000639.png",
+      "mean_similarity": 0.937323808670044,
+      "rank": 109
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\butterfly_s_001215.png",
+      "mean_similarity": 0.9373079538345337,
+      "rank": 110
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\mourning_cloak_s_000288.png",
+      "mean_similarity": 0.9373039603233337,
+      "rank": 111
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\butterfly_s_002783.png",
+      "mean_similarity": 0.9372646808624268,
+      "rank": 112
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\mourning_cloak_s_001155.png",
+      "mean_similarity": 0.9372487664222717,
+      "rank": 113
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\butterfly_s_000606.png",
+      "mean_similarity": 0.9372476935386658,
+      "rank": 114
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\butterfly_s_000299.png",
+      "mean_similarity": 0.9372363090515137,
+      "rank": 115
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\mourning_cloak_s_000061.png",
+      "mean_similarity": 0.9372096657752991,
+      "rank": 116
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\butterfly_s_000121.png",
+      "mean_similarity": 0.9372018575668335,
+      "rank": 117
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\butterfly_s_000889.png",
+      "mean_similarity": 0.9371914267539978,
+      "rank": 118
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\butterfly_s_000394.png",
+      "mean_similarity": 0.9371672868728638,
+      "rank": 119
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\butterfly_s_000281.png",
+      "mean_similarity": 0.9370275139808655,
+      "rank": 120
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\butterfly_s_003218.png",
+      "mean_similarity": 0.9370068311691284,
+      "rank": 121
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\butterfly_s_000770.png",
+      "mean_similarity": 0.9369432926177979,
+      "rank": 122
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\butterfly_s_000949.png",
+      "mean_similarity": 0.9368277788162231,
+      "rank": 123
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\butterfly_s_000589.png",
+      "mean_similarity": 0.9368264079093933,
+      "rank": 124
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\butterfly_s_003100.png",
+      "mean_similarity": 0.9368240237236023,
+      "rank": 125
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\butterfly_s_000104.png",
+      "mean_similarity": 0.9367896914482117,
+      "rank": 126
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\butterfly_s_002981.png",
+      "mean_similarity": 0.9367536306381226,
+      "rank": 127
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\butterfly_s_002864.png",
+      "mean_similarity": 0.9367465376853943,
+      "rank": 128
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\butterfly_s_002056.png",
+      "mean_similarity": 0.9367215633392334,
+      "rank": 129
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\butterfly_s_001029.png",
+      "mean_similarity": 0.9367063641548157,
+      "rank": 130
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\butterfly_s_000833.png",
+      "mean_similarity": 0.9366987943649292,
+      "rank": 131
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\butterfly_s_002986.png",
+      "mean_similarity": 0.93669193983078,
+      "rank": 132
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\butterfly_s_000357.png",
+      "mean_similarity": 0.9366758465766907,
+      "rank": 133
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\butterfly_s_000608.png",
+      "mean_similarity": 0.9366388916969299,
+      "rank": 134
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\mourning_cloak_s_000045.png",
+      "mean_similarity": 0.9366101026535034,
+      "rank": 135
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\mourning_cloak_s_001040.png",
+      "mean_similarity": 0.9365993142127991,
+      "rank": 136
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\butterfly_s_002227.png",
+      "mean_similarity": 0.9365841746330261,
+      "rank": 137
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\butterfly_s_002795.png",
+      "mean_similarity": 0.9365536570549011,
+      "rank": 138
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\butterfly_s_000887.png",
+      "mean_similarity": 0.9365413784980774,
+      "rank": 139
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\butterfly_s_001913.png",
+      "mean_similarity": 0.9365372061729431,
+      "rank": 140
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\butterfly_s_003195.png",
+      "mean_similarity": 0.9365192651748657,
+      "rank": 141
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\butterfly_s_000062.png",
+      "mean_similarity": 0.9364975094795227,
+      "rank": 142
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\butterfly_s_002963.png",
+      "mean_similarity": 0.9364612698554993,
+      "rank": 143
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\mourning_cloak_s_000031.png",
+      "mean_similarity": 0.9364209771156311,
+      "rank": 144
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\butterfly_s_002166.png",
+      "mean_similarity": 0.9364198446273804,
+      "rank": 145
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\mourning_cloak_s_000232.png",
+      "mean_similarity": 0.9363606572151184,
+      "rank": 146
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\butterfly_s_000085.png",
+      "mean_similarity": 0.9363561272621155,
+      "rank": 147
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\butterfly_s_001198.png",
+      "mean_similarity": 0.9363322257995605,
+      "rank": 148
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\butterfly_s_003209.png",
+      "mean_similarity": 0.9363180994987488,
+      "rank": 149
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\mourning_cloak_s_000702.png",
+      "mean_similarity": 0.936314046382904,
+      "rank": 150
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\butterfly_s_002674.png",
+      "mean_similarity": 0.936292827129364,
+      "rank": 151
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\butterfly_s_001867.png",
+      "mean_similarity": 0.9362809062004089,
+      "rank": 152
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\butterfly_s_000291.png",
+      "mean_similarity": 0.9362609386444092,
+      "rank": 153
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\butterfly_s_002503.png",
+      "mean_similarity": 0.9361940026283264,
+      "rank": 154
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\butterfly_s_001422.png",
+      "mean_similarity": 0.9361939430236816,
+      "rank": 155
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\butterfly_s_001025.png",
+      "mean_similarity": 0.9361909031867981,
+      "rank": 156
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\mourning_cloak_s_000233.png",
+      "mean_similarity": 0.9361128211021423,
+      "rank": 157
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\butterfly_s_002525.png",
+      "mean_similarity": 0.9361043572425842,
+      "rank": 158
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\mourning_cloak_s_000580.png",
+      "mean_similarity": 0.936096727848053,
+      "rank": 159
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\butterfly_s_000977.png",
+      "mean_similarity": 0.9360888600349426,
+      "rank": 160
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\butterfly_s_000161.png",
+      "mean_similarity": 0.9360865950584412,
+      "rank": 161
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\butterfly_s_000198.png",
+      "mean_similarity": 0.9360496997833252,
+      "rank": 162
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\butterfly_s_002244.png",
+      "mean_similarity": 0.9360479712486267,
+      "rank": 163
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\mourning_cloak_s_000603.png",
+      "mean_similarity": 0.9359980821609497,
+      "rank": 164
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\butterfly_s_001077.png",
+      "mean_similarity": 0.935976505279541,
+      "rank": 165
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\mourning_cloak_s_001258.png",
+      "mean_similarity": 0.9359744787216187,
+      "rank": 166
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\butterfly_s_001634.png",
+      "mean_similarity": 0.935904860496521,
+      "rank": 167
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\butterfly_s_003162.png",
+      "mean_similarity": 0.9358243942260742,
+      "rank": 168
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\butterfly_s_000918.png",
+      "mean_similarity": 0.9358237385749817,
+      "rank": 169
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\butterfly_s_000457.png",
+      "mean_similarity": 0.9357810616493225,
+      "rank": 170
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\butterfly_s_002919.png",
+      "mean_similarity": 0.9357810020446777,
+      "rank": 171
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\butterfly_s_002313.png",
+      "mean_similarity": 0.935771107673645,
+      "rank": 172
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\butterfly_s_000753.png",
+      "mean_similarity": 0.9356162548065186,
+      "rank": 173
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\butterfly_s_000758.png",
+      "mean_similarity": 0.9356064200401306,
+      "rank": 174
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\butterfly_s_000233.png",
+      "mean_similarity": 0.9355954527854919,
+      "rank": 175
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\butterfly_s_000874.png",
+      "mean_similarity": 0.9355732798576355,
+      "rank": 176
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\butterfly_s_000153.png",
+      "mean_similarity": 0.935508131980896,
+      "rank": 177
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\butterfly_s_000530.png",
+      "mean_similarity": 0.9354950189590454,
+      "rank": 178
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\butterfly_s_000021.png",
+      "mean_similarity": 0.9354358315467834,
+      "rank": 179
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\butterfly_s_002169.png",
+      "mean_similarity": 0.9354139566421509,
+      "rank": 180
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\butterfly_s_001877.png",
+      "mean_similarity": 0.9354063272476196,
+      "rank": 181
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\butterfly_s_000165.png",
+      "mean_similarity": 0.9353395104408264,
+      "rank": 182
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\butterfly_s_002737.png",
+      "mean_similarity": 0.9353241324424744,
+      "rank": 183
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\butterfly_s_002004.png",
+      "mean_similarity": 0.9353010058403015,
+      "rank": 184
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\butterfly_s_002933.png",
+      "mean_similarity": 0.9352949261665344,
+      "rank": 185
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\butterfly_s_000257.png",
+      "mean_similarity": 0.935263454914093,
+      "rank": 186
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\butterfly_s_001062.png",
+      "mean_similarity": 0.9352558851242065,
+      "rank": 187
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\butterfly_s_000731.png",
+      "mean_similarity": 0.9352210164070129,
+      "rank": 188
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\mourning_cloak_s_000339.png",
+      "mean_similarity": 0.9352067112922668,
+      "rank": 189
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\butterfly_s_002870.png",
+      "mean_similarity": 0.935157299041748,
+      "rank": 190
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\mourning_cloak_s_001154.png",
+      "mean_similarity": 0.9350996017456055,
+      "rank": 191
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\butterfly_s_003087.png",
+      "mean_similarity": 0.9350439310073853,
+      "rank": 192
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\butterfly_s_000107.png",
+      "mean_similarity": 0.9350259304046631,
+      "rank": 193
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\butterfly_s_003090.png",
+      "mean_similarity": 0.9349852204322815,
+      "rank": 194
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\butterfly_s_002217.png",
+      "mean_similarity": 0.9349774718284607,
+      "rank": 195
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\mourning_cloak_s_000020.png",
+      "mean_similarity": 0.9349021911621094,
+      "rank": 196
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\butterfly_s_002412.png",
+      "mean_similarity": 0.9349015355110168,
+      "rank": 197
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\butterfly_s_001713.png",
+      "mean_similarity": 0.9348983764648438,
+      "rank": 198
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\butterfly_s_001545.png",
+      "mean_similarity": 0.9348936676979065,
+      "rank": 199
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\butterfly_s_003054.png",
+      "mean_similarity": 0.934889018535614,
+      "rank": 200
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\butterfly_s_003093.png",
+      "mean_similarity": 0.9348636865615845,
+      "rank": 201
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\butterfly_s_000797.png",
+      "mean_similarity": 0.9348345398902893,
+      "rank": 202
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\butterfly_s_001176.png",
+      "mean_similarity": 0.934770405292511,
+      "rank": 203
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\mourning_cloak_s_000387.png",
+      "mean_similarity": 0.9347209334373474,
+      "rank": 204
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\butterfly_s_001457.png",
+      "mean_similarity": 0.934587836265564,
+      "rank": 205
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\mourning_cloak_s_000974.png",
+      "mean_similarity": 0.9345817565917969,
+      "rank": 206
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\mourning_cloak_s_000949.png",
+      "mean_similarity": 0.9345453381538391,
+      "rank": 207
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\butterfly_s_003185.png",
+      "mean_similarity": 0.9345095157623291,
+      "rank": 208
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\mourning_cloak_s_000574.png",
+      "mean_similarity": 0.9344694018363953,
+      "rank": 209
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\butterfly_s_001308.png",
+      "mean_similarity": 0.9344411492347717,
+      "rank": 210
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\butterfly_s_002935.png",
+      "mean_similarity": 0.9343838095664978,
+      "rank": 211
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\butterfly_s_002872.png",
+      "mean_similarity": 0.9343632459640503,
+      "rank": 212
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\butterfly_s_002776.png",
+      "mean_similarity": 0.9343193769454956,
+      "rank": 213
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\mourning_cloak_s_001499.png",
+      "mean_similarity": 0.9343189001083374,
+      "rank": 214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\butterfly_s_001419.png",
+      "mean_similarity": 0.934305727481842,
+      "rank": 215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\butterfly_s_002736.png",
+      "mean_similarity": 0.934251606464386,
+      "rank": 216
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\mourning_cloak_s_000163.png",
+      "mean_similarity": 0.9341820478439331,
+      "rank": 217
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\butterfly_s_001370.png",
+      "mean_similarity": 0.9341523051261902,
+      "rank": 218
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\butterfly_s_000001.png",
+      "mean_similarity": 0.9340789914131165,
+      "rank": 219
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\butterfly_s_003170.png",
+      "mean_similarity": 0.9340355396270752,
+      "rank": 220
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\butterfly_s_001048.png",
+      "mean_similarity": 0.9340353012084961,
+      "rank": 221
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\butterfly_s_000763.png",
+      "mean_similarity": 0.934027910232544,
+      "rank": 222
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\mourning_cloak_s_000310.png",
+      "mean_similarity": 0.9340128302574158,
+      "rank": 223
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\butterfly_s_000088.png",
+      "mean_similarity": 0.9339687824249268,
+      "rank": 224
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\butterfly_s_001187.png",
+      "mean_similarity": 0.9339147210121155,
+      "rank": 225
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\butterfly_s_000315.png",
+      "mean_similarity": 0.9337884783744812,
+      "rank": 226
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\mourning_cloak_s_000006.png",
+      "mean_similarity": 0.9337623119354248,
+      "rank": 227
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\butterfly_s_000830.png",
+      "mean_similarity": 0.9337255954742432,
+      "rank": 228
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\butterfly_s_001881.png",
+      "mean_similarity": 0.9337066411972046,
+      "rank": 229
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\butterfly_s_000103.png",
+      "mean_similarity": 0.9336270093917847,
+      "rank": 230
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\butterfly_s_001049.png",
+      "mean_similarity": 0.9335933923721313,
+      "rank": 231
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\butterfly_s_000087.png",
+      "mean_similarity": 0.9335898756980896,
+      "rank": 232
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\butterfly_s_002806.png",
+      "mean_similarity": 0.9335758686065674,
+      "rank": 233
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\butterfly_s_002740.png",
+      "mean_similarity": 0.9335588812828064,
+      "rank": 234
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\butterfly_s_002895.png",
+      "mean_similarity": 0.9335418939590454,
+      "rank": 235
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\mourning_cloak_s_000296.png",
+      "mean_similarity": 0.93352210521698,
+      "rank": 236
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\butterfly_s_003214.png",
+      "mean_similarity": 0.9334976077079773,
+      "rank": 237
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\butterfly_s_000760.png",
+      "mean_similarity": 0.9334772229194641,
+      "rank": 238
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\butterfly_s_003154.png",
+      "mean_similarity": 0.9334631562232971,
+      "rank": 239
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\butterfly_s_002314.png",
+      "mean_similarity": 0.933395504951477,
+      "rank": 240
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\butterfly_s_001111.png",
+      "mean_similarity": 0.9333505034446716,
+      "rank": 241
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\butterfly_s_003198.png",
+      "mean_similarity": 0.9333441257476807,
+      "rank": 242
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\butterfly_s_000888.png",
+      "mean_similarity": 0.9333330988883972,
+      "rank": 243
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\butterfly_s_000956.png",
+      "mean_similarity": 0.9332725405693054,
+      "rank": 244
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\mourning_cloak_s_000095.png",
+      "mean_similarity": 0.9332384467124939,
+      "rank": 245
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\butterfly_s_001714.png",
+      "mean_similarity": 0.9331763982772827,
+      "rank": 246
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\butterfly_s_002456.png",
+      "mean_similarity": 0.9331679344177246,
+      "rank": 247
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\butterfly_s_002815.png",
+      "mean_similarity": 0.9331283569335938,
+      "rank": 248
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\butterfly_s_002120.png",
+      "mean_similarity": 0.9331004023551941,
+      "rank": 249
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\015.butterfly\\butterfly_s_001428.png",
+      "mean_similarity": 0.9330810904502869,
+      "rank": 250
+    }
+  ]
+}

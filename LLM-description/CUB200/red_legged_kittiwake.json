@@ -1,0 +1,26 @@
+{
+  "class_name": "Bird",
+  "global_description": "A medium-sized seabird with a streamlined body, predominantly white plumage, and distinctive red legs. It features a gray back and wings, a black-tipped tail, and a short, yellow bill. The bird's feathers are smooth and sleek, adapted for efficient flight.",
+  "discriminative_attributes": [
+    "White plumage with gray wings",
+    "Red legs",
+    "Black-tipped tail",
+    "Short yellow bill",
+    "Streamlined body shape"
+  ],
+  "part_details": {
+    "plumage": "Predominantly white with smooth, sleek feathers.",
+    "wings": "Gray with a streamlined shape, adapted for flight.",
+    "legs": "Bright red, slender and short.",
+    "tail": "Black-tipped, slightly forked.",
+    "bill": "Short, yellow, slightly curved."
+  },
+  "spatial_relations": [
+    "The gray wings extend from the sides of the white body.",
+    "The red legs are positioned underneath the body.",
+    "The black-tipped tail extends from the rear of the body.",
+    "The yellow bill protrudes from the front of the head."
+  ],
+  "original_dataset_key": "CUB200",
+  "original_class_key": "red_legged_kittiwake"
+}

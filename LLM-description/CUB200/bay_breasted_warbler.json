@@ -1,0 +1,25 @@
+{
+  "class_name": "Bird",
+  "global_description": "A small songbird with a compact, rounded body. It features a distinctive bay-colored breast and flanks, contrasting with a black face and crown. The wings and back are streaked with olive and black, while the underparts are lighter. The bird has a short, pointed beak.",
+  "discriminative_attributes": [
+    "Bay-colored breast and flanks",
+    "Black face and crown",
+    "Olive and black streaked wings",
+    "Light underparts",
+    "Short pointed beak"
+  ],
+  "part_details": {
+    "breast": "Rich bay color, smooth texture",
+    "face": "Black with a sharp contrast to the surrounding colors",
+    "crown": "Black, blending into the face",
+    "wings": "Olive and black streaked, elongated shape",
+    "beak": "Short, pointed, dark-colored"
+  },
+  "spatial_relations": [
+    "The black crown merges into the black face",
+    "The bay-colored breast transitions into lighter underparts",
+    "The streaked wings extend from the sides of the body"
+  ],
+  "original_dataset_key": "CUB200",
+  "original_class_key": "bay_breasted_warbler"
+}

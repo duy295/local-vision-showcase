@@ -1,0 +1,24 @@
+{
+  "class_name": "Pigeon Guillemot",
+  "global_description": "A medium-sized seabird with a streamlined body, predominantly black plumage, and striking white wing patches. It has a slender, pointed black bill and bright red legs and feet. The bird's feathers are smooth and glossy, adapted for aquatic environments.",
+  "discriminative_attributes": [
+    "Black plumage with white wing patches",
+    "Bright red legs and feet",
+    "Slender pointed black bill",
+    "Smooth glossy feathers",
+    "Medium-sized streamlined body"
+  ],
+  "part_details": {
+    "plumage": "Predominantly black with distinctive white patches on the wings, smooth and glossy.",
+    "bill": "Slender, pointed, black, suitable for catching fish.",
+    "legs_and_feet": "Bright red, webbed for swimming.",
+    "body": "Streamlined, medium-sized, adapted for diving."
+  },
+  "spatial_relations": [
+    "The white wing patches contrast against the black plumage.",
+    "The slender bill is positioned at the front of the head.",
+    "The bright red legs extend from the lower body."
+  ],
+  "original_dataset_key": "CUB200",
+  "original_class_key": "pigeon_guillemot"
+}

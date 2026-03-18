@@ -1,0 +1,25 @@
+{
+  "class_name": "Bird",
+  "global_description": "A small, slender bird with a rounded body and a short tail. It features a predominantly clay-colored plumage with subtle streaks, a pale underbelly, and a distinct facial pattern. The wings and tail are slightly darker, providing contrast to the lighter body.",
+  "discriminative_attributes": [
+    "Clay-colored plumage",
+    "Subtle streaks on back",
+    "Pale underbelly",
+    "Distinct facial pattern",
+    "Short tail"
+  ],
+  "part_details": {
+    "plumage": "Overall clay-colored with subtle streaks, providing a camouflaged appearance.",
+    "underbelly": "Pale, contrasting with the darker upper parts.",
+    "wings": "Slightly darker than the body, with a smooth texture.",
+    "tail": "Short and slightly darker, complementing the wing color.",
+    "face": "Distinct pattern with a pale eyebrow stripe and darker eye line."
+  },
+  "spatial_relations": [
+    "The wings are positioned laterally along the body.",
+    "The tail extends from the rear of the body.",
+    "The facial pattern is centered around the eyes."
+  ],
+  "original_dataset_key": "CUB200",
+  "original_class_key": "clay_colored_sparrow"
+}

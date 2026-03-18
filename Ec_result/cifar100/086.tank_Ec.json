@@ -1,0 +1,454 @@
+{
+  "class_name": "tank",
+  "class_idx": 86,
+  "class_folder": "086.tank",
+  "num_images_in_class": 10,
+  "ec_size_requested": 30,
+  "ec_size_actual": 40,
+  "num_fewshot": 10,
+  "num_synthesized": 30,
+  "fewshot_emphasis_weight": 3.0,
+  "hybrid_lambda": 0.6,
+  "related_base_classes": [
+    {
+      "class_key": "dinosaur",
+      "relevance_score": 3.4611
+    },
+    {
+      "class_key": "pickup_truck",
+      "relevance_score": 3.2744
+    },
+    {
+      "class_key": "lawn_mower",
+      "relevance_score": 2.741
+    },
+    {
+      "class_key": "leopard",
+      "relevance_score": 2.6378
+    },
+    {
+      "class_key": "caterpillar",
+      "relevance_score": 2.628
+    },
+    {
+      "class_key": "motorcycle",
+      "relevance_score": 2.4234
+    },
+    {
+      "class_key": "lion",
+      "relevance_score": 2.3511
+    },
+    {
+      "class_key": "beetle",
+      "relevance_score": 2.3304
+    },
+    {
+      "class_key": "cloud",
+      "relevance_score": 1.938
+    },
+    {
+      "class_key": "bus",
+      "relevance_score": 1.622
+    }
+  ],
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\images\\086.tank\\armored_combat_vehicle_s_000017.png",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 1,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979728
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\images\\086.tank\\armored_combat_vehicle_s_000024.png",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 2,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979727
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\images\\086.tank\\armored_combat_vehicle_s_000026.png",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 3,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979727
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\images\\086.tank\\armored_combat_vehicle_s_000030.png",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 4,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979726
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\images\\086.tank\\armored_combat_vehicle_s_000031.png",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 5,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979727
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\images\\086.tank\\armored_combat_vehicle_s_000032.png",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 6,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979728
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\images\\086.tank\\armored_combat_vehicle_s_000033.png",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 7,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979726
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\images\\086.tank\\armored_combat_vehicle_s_000036.png",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 8,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979727
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\images\\086.tank\\armored_combat_vehicle_s_000047.png",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 9,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979727
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\images\\086.tank\\armored_combat_vehicle_s_000049.png",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 10,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979728
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_s_001812.png",
+      "mean_similarity": 0.979727,
+      "rank": 11,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979727
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\motor_mower_s_000662.png",
+      "mean_similarity": 0.9797268000000001,
+      "rank": 12,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979727
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\motor_mower_s_000543.png",
+      "mean_similarity": 0.9797265,
+      "rank": 13,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979726
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_s_000241.png",
+      "mean_similarity": 0.9797264000000001,
+      "rank": 14,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979726
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\power_mower_s_000765.png",
+      "mean_similarity": 0.9797262,
+      "rank": 15,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979726
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\bus_s_000034.png",
+      "mean_similarity": 0.9797262,
+      "rank": 16,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979726
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\049.motorcycle\\motorcycle_s_001520.png",
+      "mean_similarity": 0.9797262,
+      "rank": 17,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979726
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\lawn_mower_s_000865.png",
+      "mean_similarity": 0.9797261000000002,
+      "rank": 18,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979726
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_truck_s_001539.png",
+      "mean_similarity": 0.9797261000000002,
+      "rank": 19,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979726
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\mower_s_001292.png",
+      "mean_similarity": 0.9797261000000002,
+      "rank": 20,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979726
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\049.motorcycle\\motorcycle_s_000928.png",
+      "mean_similarity": 0.9797261000000002,
+      "rank": 21,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979726
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\minibus_s_001590.png",
+      "mean_similarity": 0.9797261000000002,
+      "rank": 22,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979726
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\049.motorcycle\\motorcycle_s_000431.png",
+      "mean_similarity": 0.9797261000000002,
+      "rank": 23,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979726
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\030.dinosaur\\ankylosaur_s_000065.png",
+      "mean_similarity": 0.9797261000000002,
+      "rank": 24,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979726
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\power_mower_s_001065.png",
+      "mean_similarity": 0.979726,
+      "rank": 25,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979726
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_truck_s_000143.png",
+      "mean_similarity": 0.979726,
+      "rank": 26,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979726
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\049.motorcycle\\motorcycle_s_001767.png",
+      "mean_similarity": 0.979726,
+      "rank": 27,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979726
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\caterpillar_s_002244.png",
+      "mean_similarity": 0.979726,
+      "rank": 28,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979726
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\motor_mower_s_000437.png",
+      "mean_similarity": 0.9797259,
+      "rank": 29,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979726
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\bus_s_000043.png",
+      "mean_similarity": 0.9797259,
+      "rank": 30,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979726
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\mower_s_001077.png",
+      "mean_similarity": 0.9797258,
+      "rank": 31,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979726
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_truck_s_000049.png",
+      "mean_similarity": 0.9797258,
+      "rank": 32,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979726
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_truck_s_000828.png",
+      "mean_similarity": 0.9797258,
+      "rank": 33,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979726
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_truck_s_001531.png",
+      "mean_similarity": 0.9797258,
+      "rank": 34,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979726
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\school_bus_s_002034.png",
+      "mean_similarity": 0.9797258,
+      "rank": 35,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979726
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\bus_s_000110.png",
+      "mean_similarity": 0.9797257,
+      "rank": 36,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979726
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\minibus_s_001662.png",
+      "mean_similarity": 0.9797257,
+      "rank": 37,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979726
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_truck_s_000629.png",
+      "mean_similarity": 0.9797256000000001,
+      "rank": 38,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979726
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_s_001135.png",
+      "mean_similarity": 0.9797256000000001,
+      "rank": 39,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979726
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\lawn_mower_s_000030.png",
+      "mean_similarity": 0.9797256000000001,
+      "rank": 40,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979726
+    }
+  ],
+  "debug": {
+    "total_candidates": 200,
+    "after_voting": 200,
+    "after_dedup": 30,
+    "dedup_mode": "backbone",
+    "top_segments": [
+      {
+        "class": "lawn_mower",
+        "seg": 4,
+        "hybrid": 1.8032,
+        "magnitude": 9.7973,
+        "borda": 492.0
+      },
+      {
+        "class": "lawn_mower",
+        "seg": 0,
+        "hybrid": 1.5913,
+        "magnitude": 9.7973,
+        "borda": 467.0
+      },
+      {
+        "class": "lawn_mower",
+        "seg": 3,
+        "hybrid": 1.3882,
+        "magnitude": 9.7973,
+        "borda": 445.0
+      },
+      {
+        "class": "pickup_truck",
+        "seg": 3,
+        "hybrid": 1.3247,
+        "magnitude": 9.7973,
+        "borda": 447.0
+      },
+      {
+        "class": "bus",
+        "seg": 4,
+        "hybrid": 1.2867,
+        "magnitude": 9.7973,
+        "borda": 434.0
+      },
+      {
+        "class": "pickup_truck",
+        "seg": 1,
+        "hybrid": 1.1822,
+        "magnitude": 9.7973,
+        "borda": 422.0
+      },
+      {
+        "class": "pickup_truck",
+        "seg": 2,
+        "hybrid": 1.1793,
+        "magnitude": 9.7973,
+        "borda": 421.0
+      },
+      {
+        "class": "lawn_mower",
+        "seg": 1,
+        "hybrid": 1.0777,
+        "magnitude": 9.7973,
+        "borda": 410.0
+      },
+      {
+        "class": "motorcycle",
+        "seg": 0,
+        "hybrid": 1.0689,
+        "magnitude": 9.7973,
+        "borda": 407.0
+      },
+      {
+        "class": "lawn_mower",
+        "seg": 2,
+        "hybrid": 1.066,
+        "magnitude": 9.7973,
+        "borda": 406.0
+      }
+    ]
+  }
+}

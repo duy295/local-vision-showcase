@@ -1,0 +1,26 @@
+{
+  "class_name": "cockroach",
+  "global_description": "Medium-sized insect with a flat, oval body, typically brown or black, with a hard exoskeleton. It has long, slender antennae and six spiny legs. The wings are flat and lie over the back, though not always used for flying.",
+  "discriminative_attributes": [
+    "Flat, oval body",
+    "Brown or black color",
+    "Long antennae",
+    "Six spiny legs",
+    "Hard exoskeleton"
+  ],
+  "part_details": {
+    "head": "Small with long, slender antennae",
+    "body": "Flat, oval with hard exoskeleton",
+    "legs": "Six spiny legs attached to thorax",
+    "wings": "Flat, lying over back",
+    "antennae": "Long, slender, extending from head"
+  },
+  "spatial_relations": [
+    "Head at front, abdomen at rear",
+    "Legs attached to thorax",
+    "Wings lie flat over back",
+    "Antennae extend from head"
+  ],
+  "original_dataset_key": "ImageNetR",
+  "original_class_key": "cockroach"
+}

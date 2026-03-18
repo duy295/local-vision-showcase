@@ -1,0 +1,26 @@
+{
+  "class_name": "Bird",
+  "global_description": "A small, sleek bird with a streamlined body and pointed wings. The upperparts are iridescent blue-green, while the underparts are stark white. It has a short, slightly forked tail and a small, sharp beak.",
+  "discriminative_attributes": [
+    "Iridescent blue-green upperparts",
+    "Stark white underparts",
+    "Short, slightly forked tail",
+    "Small, sharp beak",
+    "Pointed wings"
+  ],
+  "part_details": {
+    "upperparts": "Iridescent blue-green, smooth and glossy.",
+    "underparts": "Stark white, smooth texture.",
+    "tail": "Short, slightly forked, blue-green.",
+    "beak": "Small, sharp, black.",
+    "wings": "Pointed, blue-green with white underside."
+  },
+  "spatial_relations": [
+    "The iridescent upperparts cover the back and head.",
+    "The white underparts extend from the throat to the belly.",
+    "The wings are attached to the sides of the body, tapering to points.",
+    "The tail is positioned at the rear, slightly forked."
+  ],
+  "original_dataset_key": "CUB200",
+  "original_class_key": "tree_swallow"
+}

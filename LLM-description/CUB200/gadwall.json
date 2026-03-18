@@ -1,0 +1,24 @@
+{
+  "class_name": "Gadwall",
+  "global_description": "A medium-sized duck with a streamlined body and a slightly rounded head. The plumage is predominantly mottled gray and brown, with a distinctive black patch on the tail. The wings have a white speculum bordered by black and chestnut. The bill is dark and slightly flattened.",
+  "discriminative_attributes": [
+    "Mottled gray and brown plumage",
+    "Black tail patch",
+    "White wing speculum",
+    "Dark, slightly flattened bill",
+    "Chestnut wing markings"
+  ],
+  "part_details": {
+    "head": "Slightly rounded, covered in fine mottled gray and brown feathers.",
+    "body": "Streamlined, predominantly gray and brown with a black tail patch.",
+    "wings": "Broad with a white speculum bordered by black and chestnut.",
+    "bill": "Dark, slightly flattened, and broad at the base."
+  },
+  "spatial_relations": [
+    "The black patch is located at the tail end of the body.",
+    "The white speculum is bordered by black and chestnut on the wings.",
+    "The bill extends forward from the head."
+  ],
+  "original_dataset_key": "CUB200",
+  "original_class_key": "gadwall"
+}

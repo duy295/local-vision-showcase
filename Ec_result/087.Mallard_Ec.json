@@ -1,0 +1,159 @@
+{
+  "class_name": "087.Mallard",
+  "class_idx": 86,
+  "num_images_in_class": 30,
+  "ec_size_requested": 30,
+  "ec_size_actual": 30,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\087.Mallard\\Mallard_0098_77490.jpg",
+      "mean_similarity": 0.9481357932090759,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\087.Mallard\\Mallard_0069_76926.jpg",
+      "mean_similarity": 0.9472528100013733,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\087.Mallard\\Mallard_0052_76946.jpg",
+      "mean_similarity": 0.9470906257629395,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\087.Mallard\\Mallard_0086_76567.jpg",
+      "mean_similarity": 0.9466000199317932,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\087.Mallard\\Mallard_0020_76239.jpg",
+      "mean_similarity": 0.946327269077301,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\087.Mallard\\Mallard_0123_76653.jpg",
+      "mean_similarity": 0.9462869763374329,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\087.Mallard\\Mallard_0071_76940.jpg",
+      "mean_similarity": 0.9461734294891357,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\087.Mallard\\Mallard_0025_76465.jpg",
+      "mean_similarity": 0.9460388422012329,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\087.Mallard\\Mallard_0022_77166.jpg",
+      "mean_similarity": 0.9458001255989075,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\087.Mallard\\Mallard_0055_77102.jpg",
+      "mean_similarity": 0.9457638263702393,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\087.Mallard\\Mallard_0077_75911.jpg",
+      "mean_similarity": 0.9456058144569397,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\087.Mallard\\Mallard_0082_75954.jpg",
+      "mean_similarity": 0.9455286860466003,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\087.Mallard\\Mallard_0121_77434.jpg",
+      "mean_similarity": 0.9454663991928101,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\087.Mallard\\Mallard_0050_76519.jpg",
+      "mean_similarity": 0.9453037977218628,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\087.Mallard\\Mallard_0103_77105.jpg",
+      "mean_similarity": 0.9452812075614929,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\087.Mallard\\Mallard_0005_76026.jpg",
+      "mean_similarity": 0.9451515078544617,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\087.Mallard\\Mallard_0030_77143.jpg",
+      "mean_similarity": 0.9443080425262451,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\087.Mallard\\Mallard_0013_77619.jpg",
+      "mean_similarity": 0.9433684349060059,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\087.Mallard\\Mallard_0061_76378.jpg",
+      "mean_similarity": 0.9429930448532104,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\087.Mallard\\Mallard_0095_76080.jpg",
+      "mean_similarity": 0.9428477883338928,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\087.Mallard\\Mallard_0119_76925.jpg",
+      "mean_similarity": 0.9423500299453735,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\087.Mallard\\Mallard_0093_77419.jpg",
+      "mean_similarity": 0.9412147402763367,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\087.Mallard\\Mallard_0014_76166.jpg",
+      "mean_similarity": 0.9403735399246216,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\087.Mallard\\Mallard_0136_76593.jpg",
+      "mean_similarity": 0.9394718408584595,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\087.Mallard\\Mallard_0018_76511.jpg",
+      "mean_similarity": 0.936444103717804,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\087.Mallard\\Mallard_0114_76924.jpg",
+      "mean_similarity": 0.9338218569755554,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\087.Mallard\\Mallard_0026_76725.jpg",
+      "mean_similarity": 0.9325449466705322,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\087.Mallard\\Mallard_0111_76722.jpg",
+      "mean_similarity": 0.9304300546646118,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\087.Mallard\\Mallard_0053_75985.jpg",
+      "mean_similarity": 0.9252058863639832,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\087.Mallard\\Mallard_0141_76977.jpg",
+      "mean_similarity": 0.9159473776817322,
+      "rank": 30
+    }
+  ]
+}

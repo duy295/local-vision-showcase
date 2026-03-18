@@ -1,0 +1,25 @@
+{
+  "class_name": "lamp",
+  "global_description": "A lighting device with a base, a slender stand, and a bulb covered by a shade. Typically made of metal or plastic, with a fabric or glass shade. Common colors include white, black, or metallic finishes.",
+  "discriminative_attributes": [
+    "Slender stand",
+    "Bulb covered by shade",
+    "Metal or plastic material",
+    "Fabric or glass shade",
+    "Base for stability"
+  ],
+  "part_details": {
+    "base": "Sturdy, often circular or square, providing stability",
+    "stand": "Slender, vertical, connecting base to shade",
+    "shade": "Cylindrical or conical, made of fabric or glass",
+    "bulb": "Enclosed within the shade, providing light",
+    "switch": "Located on stand or base for operation"
+  },
+  "spatial_relations": [
+    "Stand extends from base to shade",
+    "Shade positioned above bulb",
+    "Switch located on stand or base"
+  ],
+  "original_dataset_key": "cifar100",
+  "original_class_key": "lamp"
+}

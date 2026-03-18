@@ -1,0 +1,22 @@
+{
+  "class_name": "jellyfish",
+  "global_description": "Gelatinous marine creature with a translucent, bell-shaped body, often in shades of blue or pink, trailing long, thin tentacles. The body is soft and flexible, allowing it to float and pulse through water.",
+  "discriminative_attributes": [
+    "Translucent bell-shaped body",
+    "Long trailing tentacles",
+    "Soft and flexible texture",
+    "Often blue or pink",
+    "Gelatinous appearance"
+  ],
+  "part_details": {
+    "bell": "Translucent, dome-shaped, often blue or pink",
+    "tentacles": "Long, thin, trailing from the bell",
+    "texture": "Soft, gelatinous, flexible"
+  },
+  "spatial_relations": [
+    "Tentacles extend from the edge of the bell",
+    "Bell is the central part of the body"
+  ],
+  "original_dataset_key": "ImageNetR",
+  "original_class_key": "jellyfish"
+}

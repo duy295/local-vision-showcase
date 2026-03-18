@@ -1,0 +1,159 @@
+{
+  "class_name": "029.American_Crow",
+  "class_idx": 28,
+  "num_images_in_class": 30,
+  "ec_size_requested": 30,
+  "ec_size_actual": 30,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\029.American_Crow\\American_Crow_0132_25704.jpg",
+      "mean_similarity": 0.9507082104682922,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\029.American_Crow\\American_Crow_0074_25350.jpg",
+      "mean_similarity": 0.9505862593650818,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\029.American_Crow\\American_Crow_0002_25122.jpg",
+      "mean_similarity": 0.9505130648612976,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\029.American_Crow\\American_Crow_0016_25112.jpg",
+      "mean_similarity": 0.950330376625061,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\029.American_Crow\\American_Crow_0036_25313.jpg",
+      "mean_similarity": 0.9501889944076538,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\029.American_Crow\\American_Crow_0068_25198.jpg",
+      "mean_similarity": 0.9501298069953918,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\029.American_Crow\\American_Crow_0081_25837.jpg",
+      "mean_similarity": 0.9499351382255554,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\029.American_Crow\\American_Crow_0107_25353.jpg",
+      "mean_similarity": 0.9498338103294373,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\029.American_Crow\\American_Crow_0124_25356.jpg",
+      "mean_similarity": 0.9497115612030029,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\029.American_Crow\\American_Crow_0102_25066.jpg",
+      "mean_similarity": 0.9496601819992065,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\029.American_Crow\\American_Crow_0116_25199.jpg",
+      "mean_similarity": 0.9494765400886536,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\029.American_Crow\\American_Crow_0134_25206.jpg",
+      "mean_similarity": 0.9494050145149231,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\029.American_Crow\\American_Crow_0020_25618.jpg",
+      "mean_similarity": 0.9492965936660767,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\029.American_Crow\\American_Crow_0039_25061.jpg",
+      "mean_similarity": 0.9491090178489685,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\029.American_Crow\\American_Crow_0062_25587.jpg",
+      "mean_similarity": 0.9490568041801453,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\029.American_Crow\\American_Crow_0059_25599.jpg",
+      "mean_similarity": 0.9490307569503784,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\029.American_Crow\\American_Crow_0111_25127.jpg",
+      "mean_similarity": 0.948989748954773,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\029.American_Crow\\American_Crow_0136_25117.jpg",
+      "mean_similarity": 0.9489180445671082,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\029.American_Crow\\American_Crow_0093_25694.jpg",
+      "mean_similarity": 0.9489175081253052,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\029.American_Crow\\American_Crow_0119_25610.jpg",
+      "mean_similarity": 0.9484757781028748,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\029.American_Crow\\American_Crow_0094_25576.jpg",
+      "mean_similarity": 0.9483577013015747,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\029.American_Crow\\American_Crow_0047_25397.jpg",
+      "mean_similarity": 0.9482284784317017,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\029.American_Crow\\American_Crow_0117_25090.jpg",
+      "mean_similarity": 0.9481437802314758,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\029.American_Crow\\American_Crow_0130_25163.jpg",
+      "mean_similarity": 0.9479414820671082,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\029.American_Crow\\American_Crow_0101_25118.jpg",
+      "mean_similarity": 0.9473573565483093,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\029.American_Crow\\American_Crow_0113_25149.jpg",
+      "mean_similarity": 0.9471511244773865,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\029.American_Crow\\American_Crow_0109_25123.jpg",
+      "mean_similarity": 0.9455000758171082,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\029.American_Crow\\American_Crow_0003_25130.jpg",
+      "mean_similarity": 0.9440721869468689,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\029.American_Crow\\American_Crow_0012_25305.jpg",
+      "mean_similarity": 0.9307661056518555,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\029.American_Crow\\American_Crow_0025_25522.jpg",
+      "mean_similarity": 0.9287427663803101,
+      "rank": 30
+    }
+  ]
+}

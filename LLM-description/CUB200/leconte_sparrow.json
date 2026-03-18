@@ -1,0 +1,24 @@
+{
+  "class_name": "LeConte's Sparrow",
+  "global_description": "A small, compact songbird with a rounded body and short tail. It features a striking combination of buffy orange and grayish tones. The bird's plumage is finely streaked with black and brown, giving it a camouflaged appearance. Its head is adorned with a distinct pale central crown stripe and a buffy eyebrow.",
+  "discriminative_attributes": [
+    "Buffy orange and gray plumage",
+    "Fine black and brown streaks",
+    "Pale central crown stripe",
+    "Buffy eyebrow",
+    "Short tail"
+  ],
+  "part_details": {
+    "head": "Rounded with a pale central crown stripe and buffy eyebrow.",
+    "plumage": "Buffy orange and gray with fine black and brown streaks.",
+    "tail": "Short and slightly rounded.",
+    "wings": "Short with streaked pattern matching body."
+  },
+  "spatial_relations": [
+    "The pale central crown stripe runs longitudinally along the top of the head.",
+    "The buffy eyebrow arches above the eye.",
+    "The streaked wings are positioned laterally on the body."
+  ],
+  "original_dataset_key": "CUB200",
+  "original_class_key": "leconte_sparrow"
+}

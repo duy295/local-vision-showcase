@@ -1,0 +1,159 @@
+{
+  "class_name": "084.Red_legged_Kittiwake",
+  "class_idx": 83,
+  "num_images_in_class": 30,
+  "ec_size_requested": 30,
+  "ec_size_actual": 30,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\084.Red_legged_Kittiwake\\Red_Legged_Kittiwake_0024_795441.jpg",
+      "mean_similarity": 0.9468396902084351,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\084.Red_legged_Kittiwake\\Red_Legged_Kittiwake_0066_795419.jpg",
+      "mean_similarity": 0.9466857314109802,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\084.Red_legged_Kittiwake\\Red_Legged_Kittiwake_0054_795396.jpg",
+      "mean_similarity": 0.9465392231941223,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\084.Red_legged_Kittiwake\\Red_Legged_Kittiwake_0045_795426.jpg",
+      "mean_similarity": 0.9454625844955444,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\084.Red_legged_Kittiwake\\Red_Legged_Kittiwake_0019_795398.jpg",
+      "mean_similarity": 0.9452449083328247,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\084.Red_legged_Kittiwake\\Red_Legged_Kittiwake_0027_795454.jpg",
+      "mean_similarity": 0.9451835751533508,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\084.Red_legged_Kittiwake\\Red_Legged_Kittiwake_0064_795422.jpg",
+      "mean_similarity": 0.944845974445343,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\084.Red_legged_Kittiwake\\Red_Legged_Kittiwake_0007_795402.jpg",
+      "mean_similarity": 0.94452965259552,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\084.Red_legged_Kittiwake\\Red_Legged_Kittiwake_0068_795430.jpg",
+      "mean_similarity": 0.9445096254348755,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\084.Red_legged_Kittiwake\\Red_Legged_Kittiwake_0032_795399.jpg",
+      "mean_similarity": 0.9444483518600464,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\084.Red_legged_Kittiwake\\Red_Legged_Kittiwake_0006_795436.jpg",
+      "mean_similarity": 0.9443915486335754,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\084.Red_legged_Kittiwake\\Red_Legged_Kittiwake_0049_795440.jpg",
+      "mean_similarity": 0.9441636800765991,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\084.Red_legged_Kittiwake\\Red_Legged_Kittiwake_0030_73818.jpg",
+      "mean_similarity": 0.9439908266067505,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\084.Red_legged_Kittiwake\\Red_Legged_Kittiwake_0072_795438.jpg",
+      "mean_similarity": 0.9437270760536194,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\084.Red_legged_Kittiwake\\Red_Legged_Kittiwake_0022_795418.jpg",
+      "mean_similarity": 0.9432315230369568,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\084.Red_legged_Kittiwake\\Red_Legged_Kittiwake_0001_795394.jpg",
+      "mean_similarity": 0.942882776260376,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\084.Red_legged_Kittiwake\\Red_Legged_Kittiwake_0036_73814.jpg",
+      "mean_similarity": 0.9427092671394348,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\084.Red_legged_Kittiwake\\Red_Legged_Kittiwake_0016_795460.jpg",
+      "mean_similarity": 0.9412611722946167,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\084.Red_legged_Kittiwake\\Red_Legged_Kittiwake_0002_73788.jpg",
+      "mean_similarity": 0.9408206343650818,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\084.Red_legged_Kittiwake\\Red_Legged_Kittiwake_0029_795403.jpg",
+      "mean_similarity": 0.9399790167808533,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\084.Red_legged_Kittiwake\\Red_Legged_Kittiwake_0031_795442.jpg",
+      "mean_similarity": 0.939889669418335,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\084.Red_legged_Kittiwake\\Red_Legged_Kittiwake_0071_73800.jpg",
+      "mean_similarity": 0.9397071003913879,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\084.Red_legged_Kittiwake\\Red_Legged_Kittiwake_0063_795453.jpg",
+      "mean_similarity": 0.9364593625068665,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\084.Red_legged_Kittiwake\\Red_Legged_Kittiwake_0065_795456.jpg",
+      "mean_similarity": 0.9363611340522766,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\084.Red_legged_Kittiwake\\Red_Legged_Kittiwake_0067_795401.jpg",
+      "mean_similarity": 0.9353446960449219,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\084.Red_legged_Kittiwake\\Red_Legged_Kittiwake_0021_73808.jpg",
+      "mean_similarity": 0.9307752847671509,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\084.Red_legged_Kittiwake\\Red_Legged_Kittiwake_0044_795388.jpg",
+      "mean_similarity": 0.9296537637710571,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\084.Red_legged_Kittiwake\\Red_Legged_Kittiwake_0004_73811.jpg",
+      "mean_similarity": 0.9284458756446838,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\084.Red_legged_Kittiwake\\Red_Legged_Kittiwake_0010_73789.jpg",
+      "mean_similarity": 0.9252131581306458,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\084.Red_legged_Kittiwake\\Red_Legged_Kittiwake_0069_795435.jpg",
+      "mean_similarity": 0.905354380607605,
+      "rank": 30
+    }
+  ]
+}

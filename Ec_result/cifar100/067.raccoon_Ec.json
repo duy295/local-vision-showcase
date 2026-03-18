@@ -1,0 +1,454 @@
+{
+  "class_name": "raccoon",
+  "class_idx": 67,
+  "class_folder": "067.raccoon",
+  "num_images_in_class": 10,
+  "ec_size_requested": 30,
+  "ec_size_actual": 40,
+  "num_fewshot": 10,
+  "num_synthesized": 30,
+  "fewshot_emphasis_weight": 3.0,
+  "hybrid_lambda": 0.6,
+  "related_base_classes": [
+    {
+      "class_key": "mouse",
+      "relevance_score": 3.4637
+    },
+    {
+      "class_key": "fox",
+      "relevance_score": 3.3425
+    },
+    {
+      "class_key": "bear",
+      "relevance_score": 3.2674
+    },
+    {
+      "class_key": "beaver",
+      "relevance_score": 3.1019
+    },
+    {
+      "class_key": "otter",
+      "relevance_score": 2.8047
+    },
+    {
+      "class_key": "lion",
+      "relevance_score": 2.6923
+    },
+    {
+      "class_key": "kangaroo",
+      "relevance_score": 2.2765
+    },
+    {
+      "class_key": "hamster",
+      "relevance_score": 1.7177
+    },
+    {
+      "class_key": "chimpanzee",
+      "relevance_score": 1.3007
+    },
+    {
+      "class_key": "leopard",
+      "relevance_score": 1.2964
+    }
+  ],
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\images\\067.raccoon\\raccoon_s_000002.png",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 1,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979724
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\images\\067.raccoon\\raccoon_s_000003.png",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 2,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979724
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\images\\067.raccoon\\raccoon_s_000005.png",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 3,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979725
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\images\\067.raccoon\\raccoon_s_000006.png",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 4,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979724
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\images\\067.raccoon\\raccoon_s_000012.png",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 5,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979725
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\images\\067.raccoon\\raccoon_s_000013.png",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 6,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979725
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\images\\067.raccoon\\raccoon_s_000017.png",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 7,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979725
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\images\\067.raccoon\\raccoon_s_000022.png",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 8,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979724
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\images\\067.raccoon\\raccoon_s_000024.png",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 9,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979724
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\images\\067.raccoon\\raccoon_s_000026.png",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 10,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979725
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\river_otter_s_001527.png",
+      "mean_similarity": 0.9797247000000001,
+      "rank": 11,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979725
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\harvest_mouse_s_000460.png",
+      "mean_similarity": 0.9797243999999999,
+      "rank": 12,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979724
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\otter_s_000833.png",
+      "mean_similarity": 0.9797242000000002,
+      "rank": 13,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979724
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\lutra_canadensis_s_000290.png",
+      "mean_similarity": 0.9797242000000002,
+      "rank": 14,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979724
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\kangaroo_s_002153.png",
+      "mean_similarity": 0.9797242000000002,
+      "rank": 15,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979724
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\leopard_s_000875.png",
+      "mean_similarity": 0.9797242000000002,
+      "rank": 16,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979724
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\beaver_s_001362.png",
+      "mean_similarity": 0.9797242000000002,
+      "rank": 17,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979724
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\035.fox\\red_fox_s_001150.png",
+      "mean_similarity": 0.9797241,
+      "rank": 18,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979724
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\harvest_mouse_s_000663.png",
+      "mean_similarity": 0.9797241,
+      "rank": 19,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979724
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\field_mouse_s_000105.png",
+      "mean_similarity": 0.9797241,
+      "rank": 20,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979724
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\harvest_mouse_s_001066.png",
+      "mean_similarity": 0.9797241,
+      "rank": 21,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979724
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\hamster_s_001172.png",
+      "mean_similarity": 0.9797241,
+      "rank": 22,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979724
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\035.fox\\red_fox_s_001637.png",
+      "mean_similarity": 0.979724,
+      "rank": 23,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979724
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\mus_musculus_s_000380.png",
+      "mean_similarity": 0.979724,
+      "rank": 24,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979724
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\macropus_giganteus_s_000021.png",
+      "mean_similarity": 0.979724,
+      "rank": 25,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979724
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\004.bear\\bear_cub_s_000461.png",
+      "mean_similarity": 0.979724,
+      "rank": 26,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979724
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\kangaroo_s_001344.png",
+      "mean_similarity": 0.979724,
+      "rank": 27,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979724
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\harvest_mouse_s_000804.png",
+      "mean_similarity": 0.979724,
+      "rank": 28,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979724
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\004.bear\\bear_cub_s_001332.png",
+      "mean_similarity": 0.979724,
+      "rank": 29,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979724
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\035.fox\\fox_s_002124.png",
+      "mean_similarity": 0.9797239,
+      "rank": 30,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979724
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\river_otter_s_001825.png",
+      "mean_similarity": 0.9797239,
+      "rank": 31,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979724
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\mus_musculus_s_000451.png",
+      "mean_similarity": 0.9797239,
+      "rank": 32,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979724
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\beaver_s_001383.png",
+      "mean_similarity": 0.9797239,
+      "rank": 33,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979724
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\leopard_s_000057.png",
+      "mean_similarity": 0.9797239,
+      "rank": 34,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979724
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\035.fox\\red_fox_s_002313.png",
+      "mean_similarity": 0.9797239,
+      "rank": 35,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979724
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\035.fox\\red_fox_s_001160.png",
+      "mean_similarity": 0.9797239,
+      "rank": 36,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979724
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\wallaby_s_000083.png",
+      "mean_similarity": 0.9797239,
+      "rank": 37,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979724
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\river_otter_s_001865.png",
+      "mean_similarity": 0.9797239,
+      "rank": 38,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979724
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\syrian_hamster_s_000340.png",
+      "mean_similarity": 0.9797239,
+      "rank": 39,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979724
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\035.fox\\red_fox_s_000808.png",
+      "mean_similarity": 0.9797238,
+      "rank": 40,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979724
+    }
+  ],
+  "debug": {
+    "total_candidates": 200,
+    "after_voting": 200,
+    "after_dedup": 30,
+    "dedup_mode": "backbone",
+    "top_segments": [
+      {
+        "class": "fox",
+        "seg": 1,
+        "hybrid": 1.6001,
+        "magnitude": 9.7972,
+        "borda": 467.0
+      },
+      {
+        "class": "mouse",
+        "seg": 2,
+        "hybrid": 1.3686,
+        "magnitude": 9.7972,
+        "borda": 451.0
+      },
+      {
+        "class": "otter",
+        "seg": 4,
+        "hybrid": 1.3552,
+        "magnitude": 9.7972,
+        "borda": 447.0
+      },
+      {
+        "class": "otter",
+        "seg": 3,
+        "hybrid": 1.2814,
+        "magnitude": 9.7972,
+        "borda": 425.0
+      },
+      {
+        "class": "kangaroo",
+        "seg": 0,
+        "hybrid": 1.1237,
+        "magnitude": 9.7972,
+        "borda": 431.0
+      },
+      {
+        "class": "mouse",
+        "seg": 3,
+        "hybrid": 1.0701,
+        "magnitude": 9.7972,
+        "borda": 415.0
+      },
+      {
+        "class": "mouse",
+        "seg": 0,
+        "hybrid": 0.8856,
+        "magnitude": 9.7972,
+        "borda": 413.0
+      },
+      {
+        "class": "beaver",
+        "seg": 2,
+        "hybrid": 0.7782,
+        "magnitude": 9.7972,
+        "borda": 381.0
+      },
+      {
+        "class": "kangaroo",
+        "seg": 1,
+        "hybrid": 0.7749,
+        "magnitude": 9.7972,
+        "borda": 380.0
+      },
+      {
+        "class": "leopard",
+        "seg": 4,
+        "hybrid": 0.7413,
+        "magnitude": 9.7972,
+        "borda": 370.0
+      }
+    ]
+  }
+}

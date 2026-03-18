@@ -1,0 +1,26 @@
+{
+  "class_name": "bee",
+  "global_description": "Small insect with a compact, oval body, predominantly yellow and black striped, covered in fine hairs. It has two pairs of transparent wings, six legs, and a pair of antennae. The head is equipped with compound eyes and a proboscis for feeding.",
+  "discriminative_attributes": [
+    "Yellow and black stripes",
+    "Fine body hairs",
+    "Two pairs of wings",
+    "Compound eyes",
+    "Proboscis"
+  ],
+  "part_details": {
+    "head": "Small with compound eyes, antennae, and proboscis",
+    "body": "Oval, yellow and black striped, covered in fine hairs",
+    "wings": "Two pairs of transparent wings",
+    "legs": "Six legs attached to thorax",
+    "antennae": "Pair on head for sensing"
+  },
+  "spatial_relations": [
+    "Head at front, abdomen at rear",
+    "Wings attached to thorax",
+    "Legs beneath body",
+    "Antennae on head"
+  ],
+  "original_dataset_key": "ImageNetR",
+  "original_class_key": "bee"
+}

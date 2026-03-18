@@ -1,0 +1,159 @@
+{
+  "class_name": "050.Eared_Grebe",
+  "class_idx": 49,
+  "num_images_in_class": 30,
+  "ec_size_requested": 30,
+  "ec_size_actual": 30,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\050.Eared_Grebe\\Eared_Grebe_0020_34131.jpg",
+      "mean_similarity": 0.9501935243606567,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\050.Eared_Grebe\\Eared_Grebe_0015_34231.jpg",
+      "mean_similarity": 0.9500361680984497,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\050.Eared_Grebe\\Eared_Grebe_0058_34174.jpg",
+      "mean_similarity": 0.9499885439872742,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\050.Eared_Grebe\\Eared_Grebe_0038_34321.jpg",
+      "mean_similarity": 0.949859619140625,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\050.Eared_Grebe\\Eared_Grebe_0061_34407.jpg",
+      "mean_similarity": 0.949830174446106,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\050.Eared_Grebe\\Eared_Grebe_0004_34277.jpg",
+      "mean_similarity": 0.9497964978218079,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\050.Eared_Grebe\\Eared_Grebe_0068_34052.jpg",
+      "mean_similarity": 0.9497606754302979,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\050.Eared_Grebe\\Eared_Grebe_0023_34309.jpg",
+      "mean_similarity": 0.949628472328186,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\050.Eared_Grebe\\Eared_Grebe_0027_34341.jpg",
+      "mean_similarity": 0.9494838118553162,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\050.Eared_Grebe\\Eared_Grebe_0051_34209.jpg",
+      "mean_similarity": 0.9493594169616699,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\050.Eared_Grebe\\Eared_Grebe_0025_34344.jpg",
+      "mean_similarity": 0.949212908744812,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\050.Eared_Grebe\\Eared_Grebe_0016_34334.jpg",
+      "mean_similarity": 0.9491448402404785,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\050.Eared_Grebe\\Eared_Grebe_0010_34151.jpg",
+      "mean_similarity": 0.9490895867347717,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\050.Eared_Grebe\\Eared_Grebe_0034_34142.jpg",
+      "mean_similarity": 0.9490551352500916,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\050.Eared_Grebe\\Eared_Grebe_0067_34416.jpg",
+      "mean_similarity": 0.9490190744400024,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\050.Eared_Grebe\\Eared_Grebe_0056_34098.jpg",
+      "mean_similarity": 0.9488479495048523,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\050.Eared_Grebe\\Eared_Grebe_0073_34172.jpg",
+      "mean_similarity": 0.948817253112793,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\050.Eared_Grebe\\Eared_Grebe_0062_34249.jpg",
+      "mean_similarity": 0.9487590193748474,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\050.Eared_Grebe\\Eared_Grebe_0079_34342.jpg",
+      "mean_similarity": 0.9486777186393738,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\050.Eared_Grebe\\Eared_Grebe_0040_34340.jpg",
+      "mean_similarity": 0.948511004447937,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\050.Eared_Grebe\\Eared_Grebe_0045_34212.jpg",
+      "mean_similarity": 0.9484648108482361,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\050.Eared_Grebe\\Eared_Grebe_0006_34347.jpg",
+      "mean_similarity": 0.9482583403587341,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\050.Eared_Grebe\\Eared_Grebe_0053_34084.jpg",
+      "mean_similarity": 0.9482176899909973,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\050.Eared_Grebe\\Eared_Grebe_0029_34258.jpg",
+      "mean_similarity": 0.9481777548789978,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\050.Eared_Grebe\\Eared_Grebe_0017_34139.jpg",
+      "mean_similarity": 0.9480251669883728,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\050.Eared_Grebe\\Eared_Grebe_0026_34383.jpg",
+      "mean_similarity": 0.9465423822402954,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\050.Eared_Grebe\\Eared_Grebe_0041_34157.jpg",
+      "mean_similarity": 0.9465218186378479,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\050.Eared_Grebe\\Eared_Grebe_0013_34150.jpg",
+      "mean_similarity": 0.9454062581062317,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\050.Eared_Grebe\\Eared_Grebe_0064_34251.jpg",
+      "mean_similarity": 0.9442742466926575,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\050.Eared_Grebe\\Eared_Grebe_0052_34205.jpg",
+      "mean_similarity": 0.9401317834854126,
+      "rank": 30
+    }
+  ]
+}

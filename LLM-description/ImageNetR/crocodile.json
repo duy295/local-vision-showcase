@@ -1,0 +1,25 @@
+{
+  "class_name": "reptile",
+  "global_description": "Large reptile with elongated body, rough scaly skin, predominantly green or brown, powerful tail, short legs, long snout with sharp teeth, and prominent ridges along the back.",
+  "discriminative_attributes": [
+    "Elongated body",
+    "Rough scaly skin",
+    "Powerful tail",
+    "Long snout with sharp teeth",
+    "Prominent back ridges"
+  ],
+  "part_details": {
+    "head": "Long snout with sharp teeth, small eyes on top",
+    "body": "Elongated, covered in rough scales, green or brown",
+    "tail": "Long and powerful, tapering to a point",
+    "legs": "Short and sturdy, with clawed feet",
+    "back": "Prominent ridges running lengthwise"
+  },
+  "spatial_relations": [
+    "Head at front, tail extending behind",
+    "Legs positioned beneath body",
+    "Ridges along back"
+  ],
+  "original_dataset_key": "ImageNetR",
+  "original_class_key": "crocodile"
+}

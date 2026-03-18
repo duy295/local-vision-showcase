@@ -1,0 +1,26 @@
+{
+  "class_name": "beaver",
+  "global_description": "Medium-sized rodent with a robust, rounded body covered in dense brown fur. It has a distinctive flat, paddle-shaped tail, large incisors, and webbed hind feet. The head is broad with small ears and eyes, adapted for aquatic environments.",
+  "discriminative_attributes": [
+    "Flat paddle-shaped tail",
+    "Dense brown fur",
+    "Large incisors",
+    "Webbed hind feet",
+    "Broad head"
+  ],
+  "part_details": {
+    "head": "Broad with small ears and eyes, covered in brown fur",
+    "body": "Robust and rounded, dense brown fur",
+    "tail": "Flat, paddle-shaped, scaly texture",
+    "feet": "Webbed hind feet, adapted for swimming",
+    "teeth": "Large, prominent incisors"
+  },
+  "spatial_relations": [
+    "Tail extends from rear of body",
+    "Head at front of body",
+    "Feet beneath body",
+    "Teeth at front of head"
+  ],
+  "original_dataset_key": "cifar100",
+  "original_class_key": "beaver"
+}

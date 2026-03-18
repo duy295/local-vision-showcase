@@ -1,0 +1,26 @@
+{
+  "class_name": "Ring Billed Gull",
+  "global_description": "A medium-sized seabird with a streamlined body and predominantly white plumage. It features a light gray back and wings, a distinctive black ring around its yellow bill, and yellow legs. The wings have black tips with white spots, and the eyes are dark with a red orbital ring.",
+  "discriminative_attributes": [
+    "Black ring on yellow bill",
+    "Light gray back and wings",
+    "Black-tipped wings with white spots",
+    "Yellow legs",
+    "Dark eyes with red orbital ring"
+  ],
+  "part_details": {
+    "bill": "Short, yellow with a black ring near the tip.",
+    "wings": "Long, light gray with black tips and white spots.",
+    "legs": "Short, slender, and yellow.",
+    "eyes": "Dark with a red orbital ring.",
+    "plumage": "Predominantly white with light gray on back and wings."
+  },
+  "spatial_relations": [
+    "The black ring encircles the yellow bill near the tip.",
+    "The light gray wings extend from the sides of the white body.",
+    "The black-tipped wings have white spots at the ends.",
+    "The yellow legs are positioned under the body."
+  ],
+  "original_dataset_key": "CUB200",
+  "original_class_key": "ring_billed_gull"
+}

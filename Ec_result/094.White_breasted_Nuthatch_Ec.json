@@ -1,0 +1,159 @@
+{
+  "class_name": "094.White_breasted_Nuthatch",
+  "class_idx": 93,
+  "num_images_in_class": 30,
+  "ec_size_requested": 30,
+  "ec_size_actual": 30,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\094.White_breasted_Nuthatch\\White_Breasted_Nuthatch_0104_85969.jpg",
+      "mean_similarity": 0.947650671005249,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\094.White_breasted_Nuthatch\\White_Breasted_Nuthatch_0111_86621.jpg",
+      "mean_similarity": 0.9462790489196777,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\094.White_breasted_Nuthatch\\White_Breasted_Nuthatch_0027_85905.jpg",
+      "mean_similarity": 0.9461503028869629,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\094.White_breasted_Nuthatch\\White_Breasted_Nuthatch_0094_86156.jpg",
+      "mean_similarity": 0.9460710883140564,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\094.White_breasted_Nuthatch\\White_Breasted_Nuthatch_0096_86140.jpg",
+      "mean_similarity": 0.9458096027374268,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\094.White_breasted_Nuthatch\\White_Breasted_Nuthatch_0142_86805.jpg",
+      "mean_similarity": 0.9452857971191406,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\094.White_breasted_Nuthatch\\White_Breasted_Nuthatch_0131_86416.jpg",
+      "mean_similarity": 0.9450312852859497,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\094.White_breasted_Nuthatch\\White_Breasted_Nuthatch_0036_86596.jpg",
+      "mean_similarity": 0.9446137547492981,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\094.White_breasted_Nuthatch\\White_Breasted_Nuthatch_0077_86462.jpg",
+      "mean_similarity": 0.9445289969444275,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\094.White_breasted_Nuthatch\\White_Breasted_Nuthatch_0039_86166.jpg",
+      "mean_similarity": 0.9444864392280579,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\094.White_breasted_Nuthatch\\White_Breasted_Nuthatch_0128_86947.jpg",
+      "mean_similarity": 0.9442839622497559,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\094.White_breasted_Nuthatch\\White_Breasted_Nuthatch_0043_86196.jpg",
+      "mean_similarity": 0.9441279768943787,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\094.White_breasted_Nuthatch\\White_Breasted_Nuthatch_0066_86159.jpg",
+      "mean_similarity": 0.9440960884094238,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\094.White_breasted_Nuthatch\\White_Breasted_Nuthatch_0048_86207.jpg",
+      "mean_similarity": 0.9439020156860352,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\094.White_breasted_Nuthatch\\White_Breasted_Nuthatch_0068_86033.jpg",
+      "mean_similarity": 0.9435115456581116,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\094.White_breasted_Nuthatch\\White_Breasted_Nuthatch_0040_86127.jpg",
+      "mean_similarity": 0.9434092044830322,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\094.White_breasted_Nuthatch\\White_Breasted_Nuthatch_0106_85955.jpg",
+      "mean_similarity": 0.9430974721908569,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\094.White_breasted_Nuthatch\\White_Breasted_Nuthatch_0025_85803.jpg",
+      "mean_similarity": 0.942309558391571,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\094.White_breasted_Nuthatch\\White_Breasted_Nuthatch_0054_86551.jpg",
+      "mean_similarity": 0.941944420337677,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\094.White_breasted_Nuthatch\\White_Breasted_Nuthatch_0047_85819.jpg",
+      "mean_similarity": 0.941645622253418,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\094.White_breasted_Nuthatch\\White_Breasted_Nuthatch_0137_86910.jpg",
+      "mean_similarity": 0.9409120082855225,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\094.White_breasted_Nuthatch\\White_Breasted_Nuthatch_0097_85940.jpg",
+      "mean_similarity": 0.9402907490730286,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\094.White_breasted_Nuthatch\\White_Breasted_Nuthatch_0049_86557.jpg",
+      "mean_similarity": 0.9398397207260132,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\094.White_breasted_Nuthatch\\White_Breasted_Nuthatch_0114_86554.jpg",
+      "mean_similarity": 0.9391257166862488,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\094.White_breasted_Nuthatch\\White_Breasted_Nuthatch_0064_86324.jpg",
+      "mean_similarity": 0.9390743970870972,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\094.White_breasted_Nuthatch\\White_Breasted_Nuthatch_0065_85829.jpg",
+      "mean_similarity": 0.9312998056411743,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\094.White_breasted_Nuthatch\\White_Breasted_Nuthatch_0095_86425.jpg",
+      "mean_similarity": 0.9306893348693848,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\094.White_breasted_Nuthatch\\White_Breasted_Nuthatch_0115_86760.jpg",
+      "mean_similarity": 0.9289931058883667,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\094.White_breasted_Nuthatch\\White_Breasted_Nuthatch_0002_86287.jpg",
+      "mean_similarity": 0.9289114475250244,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\094.White_breasted_Nuthatch\\White_Breasted_Nuthatch_0055_86075.jpg",
+      "mean_similarity": 0.9207088947296143,
+      "rank": 30
+    }
+  ]
+}

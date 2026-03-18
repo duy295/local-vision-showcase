@@ -1,0 +1,24 @@
+{
+  "class_name": "Pine Warbler",
+  "global_description": "A small, slender songbird with a streamlined body. It features olive-green upperparts and a bright yellow throat and breast. The wings are gray with two white wing bars, and the tail is long and slightly forked.",
+  "discriminative_attributes": [
+    "Olive-green upperparts",
+    "Bright yellow throat and breast",
+    "Gray wings with white bars",
+    "Long slightly forked tail",
+    "Small slender body"
+  ],
+  "part_details": {
+    "upperparts": "Olive-green, smooth feathers covering the back and head.",
+    "throat_breast": "Bright yellow, vibrant feathers on the front of the neck and chest.",
+    "wings": "Gray with two distinct white wing bars, medium length.",
+    "tail": "Long, slightly forked, gray with subtle white edges."
+  },
+  "spatial_relations": [
+    "The bright yellow throat transitions into the olive-green upperparts.",
+    "The gray wings are positioned laterally with white bars across them.",
+    "The long tail extends from the rear, slightly forked."
+  ],
+  "original_dataset_key": "CUB200",
+  "original_class_key": "pine_warbler"
+}

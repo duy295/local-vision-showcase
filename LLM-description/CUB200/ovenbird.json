@@ -1,0 +1,24 @@
+{
+  "class_name": "Ovenbird",
+  "global_description": "A small, plump songbird with an olive-brown back and a white underbelly. It features a distinctive orange crown stripe bordered by black lines on its head. The bird has a rounded body with a short tail and pinkish legs.",
+  "discriminative_attributes": [
+    "Olive-brown back",
+    "Orange crown stripe with black borders",
+    "White underbelly",
+    "Pinkish legs",
+    "Short tail"
+  ],
+  "part_details": {
+    "head": "Olive-brown with a central orange crown stripe bordered by black lines.",
+    "body": "Rounded, olive-brown on top with a white underbelly.",
+    "legs": "Short, pinkish in color.",
+    "tail": "Short and rounded, matching the body color."
+  },
+  "spatial_relations": [
+    "The orange crown stripe runs longitudinally along the top of the head.",
+    "The white underbelly contrasts with the olive-brown back.",
+    "The pinkish legs extend downward from the rounded body."
+  ],
+  "original_dataset_key": "CUB200",
+  "original_class_key": "ovenbird"
+}

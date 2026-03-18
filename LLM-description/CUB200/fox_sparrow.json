@@ -1,0 +1,25 @@
+{
+  "class_name": "Bird",
+  "global_description": "A medium-sized, plump songbird with a rounded body and short tail. It has a predominantly reddish-brown plumage with streaked patterns and a grayish head. The wings and back are darker with a rusty hue, and the underparts are heavily streaked with brown.",
+  "discriminative_attributes": [
+    "Reddish-brown plumage",
+    "Grayish head",
+    "Heavily streaked underparts",
+    "Short tail",
+    "Rusty hue on wings"
+  ],
+  "part_details": {
+    "head": "Grayish with a rounded shape",
+    "plumage": "Reddish-brown with streaks",
+    "wings": "Darker with a rusty hue",
+    "tail": "Short and rounded",
+    "underparts": "Heavily streaked with brown"
+  },
+  "spatial_relations": [
+    "The grayish head is positioned above the reddish-brown body",
+    "The wings extend from the sides of the body",
+    "The short tail is at the rear of the body"
+  ],
+  "original_dataset_key": "CUB200",
+  "original_class_key": "fox_sparrow"
+}

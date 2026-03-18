@@ -1,0 +1,25 @@
+{
+  "class_name": "Bird",
+  "global_description": "A small, compact bird with a rounded body and a short tail. It features a brown upper body with a lighter, buff-colored underside. The wings and tail are barred with darker brown patterns, and it has a distinctive white eyebrow stripe above the eye.",
+  "discriminative_attributes": [
+    "Small compact body",
+    "Brown upper body",
+    "Buff-colored underside",
+    "Darker brown barred wings and tail",
+    "White eyebrow stripe"
+  ],
+  "part_details": {
+    "body": "Rounded, compact, brown upper with buff underside",
+    "wings": "Short, barred with darker brown",
+    "tail": "Short, barred with darker brown",
+    "head": "Rounded with a white eyebrow stripe",
+    "beak": "Short, pointed, grayish"
+  },
+  "spatial_relations": [
+    "The white eyebrow stripe is above the eye",
+    "The wings are attached to the sides of the body",
+    "The tail extends from the rear of the body"
+  ],
+  "original_dataset_key": "CUB200",
+  "original_class_key": "bewick_wren"
+}

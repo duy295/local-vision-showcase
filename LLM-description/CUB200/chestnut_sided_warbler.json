@@ -1,0 +1,25 @@
+{
+  "class_name": "Chestnut Sided Warbler",
+  "global_description": "A small, slender songbird with a streamlined body. It features a striking combination of colors: olive-green back, white underparts, and distinctive chestnut flanks. The head is adorned with a bright yellow crown and a black eye stripe.",
+  "discriminative_attributes": [
+    "Bright yellow crown",
+    "Chestnut-colored flanks",
+    "Olive-green back",
+    "White underparts",
+    "Black eye stripe"
+  ],
+  "part_details": {
+    "crown": "Bright yellow, smooth and rounded, covering the top of the head.",
+    "flanks": "Rich chestnut color, running along the sides of the body.",
+    "back": "Olive-green, smooth, covering the upper part of the body.",
+    "underparts": "White, clean, covering the belly and chest area.",
+    "eye_stripe": "Thin, black, running horizontally through the eye."
+  },
+  "spatial_relations": [
+    "The yellow crown is positioned on top of the head.",
+    "The chestnut flanks run along the sides of the white underparts.",
+    "The black eye stripe runs horizontally through the eye."
+  ],
+  "original_dataset_key": "CUB200",
+  "original_class_key": "chestnut_sided_warbler"
+}

@@ -1,0 +1,26 @@
+{
+  "class_name": "Bird",
+  "global_description": "A medium-sized bird with a slender, elongated body and a long tail. It has a predominantly brown plumage with streaked patterns, a slightly curved bill, and bright yellow eyes. The wings are rounded and the legs are long and slender.",
+  "discriminative_attributes": [
+    "Brown streaked plumage",
+    "Long tail",
+    "Slightly curved bill",
+    "Bright yellow eyes",
+    "Rounded wings"
+  ],
+  "part_details": {
+    "plumage": "Brown with dark streaks, providing a camouflaged appearance.",
+    "tail": "Long and slightly fan-shaped, brown with subtle streaks.",
+    "bill": "Slightly curved, slender, and pointed, dark in color.",
+    "eyes": "Bright yellow, round, and prominent.",
+    "wings": "Rounded, brown with streaks, aiding in agile flight."
+  },
+  "spatial_relations": [
+    "The long tail extends from the rear of the body.",
+    "The slightly curved bill is positioned at the front of the head.",
+    "The bright yellow eyes are located on either side of the head.",
+    "The rounded wings are attached to the sides of the body."
+  ],
+  "original_dataset_key": "CUB200",
+  "original_class_key": "brown_thrasher"
+}

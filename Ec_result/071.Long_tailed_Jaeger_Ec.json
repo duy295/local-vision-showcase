@@ -1,0 +1,159 @@
+{
+  "class_name": "071.Long_tailed_Jaeger",
+  "class_idx": 70,
+  "num_images_in_class": 30,
+  "ec_size_requested": 30,
+  "ec_size_actual": 30,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\071.Long_tailed_Jaeger\\Long_Tailed_Jaeger_0053_60906.jpg",
+      "mean_similarity": 0.9464813470840454,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\071.Long_tailed_Jaeger\\Long_Tailed_Jaeger_0050_797085.jpg",
+      "mean_similarity": 0.9456403255462646,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\071.Long_tailed_Jaeger\\Long_Tailed_Jaeger_0029_61101.jpg",
+      "mean_similarity": 0.9450740218162537,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\071.Long_tailed_Jaeger\\Long_Tailed_Jaeger_0058_60900.jpg",
+      "mean_similarity": 0.9448668360710144,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\071.Long_tailed_Jaeger\\Long_Tailed_Jaeger_0061_61049.jpg",
+      "mean_similarity": 0.9445096850395203,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\071.Long_tailed_Jaeger\\Long_Tailed_Jaeger_0032_61177.jpg",
+      "mean_similarity": 0.94444340467453,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\071.Long_tailed_Jaeger\\Long_Tailed_Jaeger_0009_797070.jpg",
+      "mean_similarity": 0.9439806342124939,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\071.Long_tailed_Jaeger\\Long_Tailed_Jaeger_0062_797104.jpg",
+      "mean_similarity": 0.9435033202171326,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\071.Long_tailed_Jaeger\\Long_Tailed_Jaeger_0039_797089.jpg",
+      "mean_similarity": 0.9434101581573486,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\071.Long_tailed_Jaeger\\Long_Tailed_Jaeger_0048_797087.jpg",
+      "mean_similarity": 0.943263053894043,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\071.Long_tailed_Jaeger\\Long_Tailed_Jaeger_0041_60891.jpg",
+      "mean_similarity": 0.9431540369987488,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\071.Long_tailed_Jaeger\\Long_Tailed_Jaeger_0001_797061.jpg",
+      "mean_similarity": 0.942804753780365,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\071.Long_tailed_Jaeger\\Long_Tailed_Jaeger_0068_797093.jpg",
+      "mean_similarity": 0.9427407383918762,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\071.Long_tailed_Jaeger\\Long_Tailed_Jaeger_0005_797062.jpg",
+      "mean_similarity": 0.942002534866333,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\071.Long_tailed_Jaeger\\Long_Tailed_Jaeger_0013_60887.jpg",
+      "mean_similarity": 0.941461443901062,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\071.Long_tailed_Jaeger\\Long_Tailed_Jaeger_0054_797088.jpg",
+      "mean_similarity": 0.9412891268730164,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\071.Long_tailed_Jaeger\\Long_Tailed_Jaeger_0008_797066.jpg",
+      "mean_similarity": 0.9402633905410767,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\071.Long_tailed_Jaeger\\Long_Tailed_Jaeger_0038_797077.jpg",
+      "mean_similarity": 0.9391534924507141,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\071.Long_tailed_Jaeger\\Long_Tailed_Jaeger_0022_797074.jpg",
+      "mean_similarity": 0.9390261173248291,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\071.Long_tailed_Jaeger\\Long_Tailed_Jaeger_0021_797083.jpg",
+      "mean_similarity": 0.9389815330505371,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\071.Long_tailed_Jaeger\\Long_Tailed_Jaeger_0037_797099.jpg",
+      "mean_similarity": 0.9386655688285828,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\071.Long_tailed_Jaeger\\Long_Tailed_Jaeger_0070_797090.jpg",
+      "mean_similarity": 0.9362026453018188,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\071.Long_tailed_Jaeger\\Long_Tailed_Jaeger_0006_797065.jpg",
+      "mean_similarity": 0.9358429908752441,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\071.Long_tailed_Jaeger\\Long_Tailed_Jaeger_0069_61060.jpg",
+      "mean_similarity": 0.9338049292564392,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\071.Long_tailed_Jaeger\\Long_Tailed_Jaeger_0018_61081.jpg",
+      "mean_similarity": 0.9328022599220276,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\071.Long_tailed_Jaeger\\Long_Tailed_Jaeger_0056_797092.jpg",
+      "mean_similarity": 0.9322846531867981,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\071.Long_tailed_Jaeger\\Long_Tailed_Jaeger_0011_60963.jpg",
+      "mean_similarity": 0.9306721687316895,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\071.Long_tailed_Jaeger\\Long_Tailed_Jaeger_0012_797101.jpg",
+      "mean_similarity": 0.9292135238647461,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\071.Long_tailed_Jaeger\\Long_Tailed_Jaeger_0027_60950.jpg",
+      "mean_similarity": 0.9277846217155457,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\071.Long_tailed_Jaeger\\Long_Tailed_Jaeger_0060_60886.jpg",
+      "mean_similarity": 0.9239086508750916,
+      "rank": 30
+    }
+  ]
+}

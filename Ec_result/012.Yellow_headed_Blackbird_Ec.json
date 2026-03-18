@@ -1,0 +1,159 @@
+{
+  "class_name": "012.Yellow_headed_Blackbird",
+  "class_idx": 11,
+  "num_images_in_class": 30,
+  "ec_size_requested": 30,
+  "ec_size_actual": 30,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\012.Yellow_headed_Blackbird\\Yellow_Headed_Blackbird_0051_8387.jpg",
+      "mean_similarity": 0.9463918209075928,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\012.Yellow_headed_Blackbird\\Yellow_Headed_Blackbird_0072_8606.jpg",
+      "mean_similarity": 0.9454005360603333,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\012.Yellow_headed_Blackbird\\Yellow_Headed_Blackbird_0007_8366.jpg",
+      "mean_similarity": 0.9449111819267273,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\012.Yellow_headed_Blackbird\\Yellow_Headed_Blackbird_0086_8487.jpg",
+      "mean_similarity": 0.9448176622390747,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\012.Yellow_headed_Blackbird\\Yellow_Headed_Blackbird_0038_8689.jpg",
+      "mean_similarity": 0.9445352554321289,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\012.Yellow_headed_Blackbird\\Yellow_Headed_Blackbird_0087_8358.jpg",
+      "mean_similarity": 0.9443910121917725,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\012.Yellow_headed_Blackbird\\Yellow_Headed_Blackbird_0083_8300.jpg",
+      "mean_similarity": 0.9439247846603394,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\012.Yellow_headed_Blackbird\\Yellow_Headed_Blackbird_0056_8455.jpg",
+      "mean_similarity": 0.9438862204551697,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\012.Yellow_headed_Blackbird\\Yellow_Headed_Blackbird_0058_8350.jpg",
+      "mean_similarity": 0.94352787733078,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\012.Yellow_headed_Blackbird\\Yellow_Headed_Blackbird_0003_8337.jpg",
+      "mean_similarity": 0.943509578704834,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\012.Yellow_headed_Blackbird\\Yellow_Headed_Blackbird_0073_8442.jpg",
+      "mean_similarity": 0.943476676940918,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\012.Yellow_headed_Blackbird\\Yellow_Headed_Blackbird_0040_7514.jpg",
+      "mean_similarity": 0.9423990249633789,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\012.Yellow_headed_Blackbird\\Yellow_Headed_Blackbird_0077_8332.jpg",
+      "mean_similarity": 0.9422106742858887,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\012.Yellow_headed_Blackbird\\Yellow_Headed_Blackbird_0008_8756.jpg",
+      "mean_similarity": 0.9416155219078064,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\012.Yellow_headed_Blackbird\\Yellow_Headed_Blackbird_0041_8264.jpg",
+      "mean_similarity": 0.9415769577026367,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\012.Yellow_headed_Blackbird\\Yellow_Headed_Blackbird_0095_8458.jpg",
+      "mean_similarity": 0.9406754970550537,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\012.Yellow_headed_Blackbird\\Yellow_Headed_Blackbird_0020_8549.jpg",
+      "mean_similarity": 0.9403061866760254,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\012.Yellow_headed_Blackbird\\Yellow_Headed_Blackbird_0084_8435.jpg",
+      "mean_similarity": 0.9401358366012573,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\012.Yellow_headed_Blackbird\\Yellow_Headed_Blackbird_0057_8236.jpg",
+      "mean_similarity": 0.9391478896141052,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\012.Yellow_headed_Blackbird\\Yellow_Headed_Blackbird_0031_8456.jpg",
+      "mean_similarity": 0.9389801025390625,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\012.Yellow_headed_Blackbird\\Yellow_Headed_Blackbird_0082_8577.jpg",
+      "mean_similarity": 0.9377220273017883,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\012.Yellow_headed_Blackbird\\Yellow_Headed_Blackbird_0070_8583.jpg",
+      "mean_similarity": 0.9369544982910156,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\012.Yellow_headed_Blackbird\\Yellow_Headed_Blackbird_0062_8310.jpg",
+      "mean_similarity": 0.9359800219535828,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\012.Yellow_headed_Blackbird\\Yellow_Headed_Blackbird_0017_8511.jpg",
+      "mean_similarity": 0.9355222582817078,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\012.Yellow_headed_Blackbird\\Yellow_Headed_Blackbird_0091_8555.jpg",
+      "mean_similarity": 0.9340894222259521,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\012.Yellow_headed_Blackbird\\Yellow_Headed_Blackbird_0089_8326.jpg",
+      "mean_similarity": 0.9330580830574036,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\012.Yellow_headed_Blackbird\\Yellow_Headed_Blackbird_0026_8545.jpg",
+      "mean_similarity": 0.932127058506012,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\012.Yellow_headed_Blackbird\\Yellow_Headed_Blackbird_0025_8262.jpg",
+      "mean_similarity": 0.9193792343139648,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\012.Yellow_headed_Blackbird\\Yellow_Headed_Blackbird_0074_8452.jpg",
+      "mean_similarity": 0.9180076718330383,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\012.Yellow_headed_Blackbird\\Yellow_Headed_Blackbird_0018_8588.jpg",
+      "mean_similarity": 0.9157618880271912,
+      "rank": 30
+    }
+  ]
+}

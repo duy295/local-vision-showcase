@@ -1,0 +1,25 @@
+{
+  "class_name": "scorpion",
+  "global_description": "Arachnid with elongated body, segmented tail with venomous stinger, eight legs, large pincers, exoskeleton typically brown or black, adapted for desert environments.",
+  "discriminative_attributes": [
+    "Elongated body",
+    "Segmented tail with stinger",
+    "Eight legs",
+    "Large pincers",
+    "Exoskeleton"
+  ],
+  "part_details": {
+    "body": "Elongated with hard exoskeleton",
+    "tail": "Curved, segmented with stinger",
+    "legs": "Four pairs, jointed",
+    "pincers": "Large, claw-like",
+    "exoskeleton": "Hard, protective"
+  },
+  "spatial_relations": [
+    "Tail curves over back",
+    "Pincers at front",
+    "Legs attached to sides of body"
+  ],
+  "original_dataset_key": "ImageNetR",
+  "original_class_key": "scorpion"
+}

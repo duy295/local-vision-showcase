@@ -1,0 +1,446 @@
+{
+  "class_name": "Marsh Wren",
+  "class_idx": 197,
+  "class_folder": "197.Marsh_Wren",
+  "num_images_in_class": 10,
+  "ec_size_requested": 30,
+  "ec_size_actual": 40,
+  "num_fewshot": 10,
+  "num_synthesized": 30,
+  "fewshot_emphasis_weight": 3.0,
+  "hybrid_lambda": 0.6,
+  "related_base_classes": [
+    {
+      "class_key": "western_meadowlark",
+      "relevance_score": 1.7345
+    },
+    {
+      "class_key": "horned_lark",
+      "relevance_score": 1.7101
+    },
+    {
+      "class_key": "olive_sided_flycatcher",
+      "relevance_score": 1.7093
+    },
+    {
+      "class_key": "red_breasted_merganser",
+      "relevance_score": 1.559
+    },
+    {
+      "class_key": "blue_grosbeak",
+      "relevance_score": 1.2458
+    },
+    {
+      "class_key": "brown_creeper",
+      "relevance_score": 1.2118
+    },
+    {
+      "class_key": "ringed_kingfisher",
+      "relevance_score": 1.2064
+    },
+    {
+      "class_key": "chuck_will_widow",
+      "relevance_score": 1.0623
+    }
+  ],
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\Incremental class - Copy\\197.Marsh_Wren\\Marsh_Wren_0094_188710.jpg",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 1,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\Incremental class - Copy\\197.Marsh_Wren\\Marsh_Wren_0012_188275.jpg",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 2,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\Incremental class - Copy\\197.Marsh_Wren\\Marsh_Wren_0005_188235.jpg",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 3,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\Incremental class - Copy\\197.Marsh_Wren\\Marsh_Wren_0103_188483.jpg",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 4,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\Incremental class - Copy\\197.Marsh_Wren\\Marsh_Wren_0033_188778.jpg",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 5,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\Incremental class - Copy\\197.Marsh_Wren\\Marsh_Wren_0027_188376.jpg",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 6,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\Incremental class - Copy\\197.Marsh_Wren\\Marsh_Wren_0107_188390.jpg",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 7,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\Incremental class - Copy\\197.Marsh_Wren\\Marsh_Wren_0014_188802.jpg",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 8,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\Incremental class - Copy\\197.Marsh_Wren\\Marsh_Wren_0133_188565.jpg",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 9,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979216
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\Incremental class - Copy\\197.Marsh_Wren\\Marsh_Wren_0068_188446.jpg",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 10,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\028.Brown_Creeper\\Brown_Creeper_0083_24967.jpg",
+      "mean_similarity": 0.979215,
+      "rank": 11,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\028.Brown_Creeper\\Brown_Creeper_0061_24601.jpg",
+      "mean_similarity": 0.979215,
+      "rank": 12,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\054.Blue_Grosbeak\\Blue_Grosbeak_0023_37069.jpg",
+      "mean_similarity": 0.9792147999999999,
+      "rank": 13,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\028.Brown_Creeper\\Brown_Creeper_0074_24789.jpg",
+      "mean_similarity": 0.9792147,
+      "rank": 14,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\022.Chuck_will_Widow\\Chuck_Will_Widow_0046_796966.jpg",
+      "mean_similarity": 0.9792147,
+      "rank": 15,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\085.Horned_Lark\\Horned_Lark_0097_74496.jpg",
+      "mean_similarity": 0.9792147,
+      "rank": 16,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\028.Brown_Creeper\\Brown_Creeper_0100_24502.jpg",
+      "mean_similarity": 0.9792146000000002,
+      "rank": 17,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\054.Blue_Grosbeak\\Blue_Grosbeak_0094_36995.jpg",
+      "mean_similarity": 0.9792146000000002,
+      "rank": 18,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\028.Brown_Creeper\\Brown_Creeper_0118_24500.jpg",
+      "mean_similarity": 0.9792146000000002,
+      "rank": 19,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\085.Horned_Lark\\Horned_Lark_0009_74646.jpg",
+      "mean_similarity": 0.9792145,
+      "rank": 20,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\085.Horned_Lark\\Horned_Lark_0069_74093.jpg",
+      "mean_similarity": 0.9792145,
+      "rank": 21,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\054.Blue_Grosbeak\\Blue_Grosbeak_0099_36828.jpg",
+      "mean_similarity": 0.9792145,
+      "rank": 22,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\054.Blue_Grosbeak\\Blue_Grosbeak_0036_37048.jpg",
+      "mean_similarity": 0.9792145,
+      "rank": 23,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\085.Horned_Lark\\Horned_Lark_0028_74408.jpg",
+      "mean_similarity": 0.9792145,
+      "rank": 24,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\022.Chuck_will_Widow\\Chuck_Will_Widow_0006_796986.jpg",
+      "mean_similarity": 0.9792145,
+      "rank": 25,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\040.Olive_sided_Flycatcher\\Olive_Sided_Flycatcher_0059_30536.jpg",
+      "mean_similarity": 0.9792145,
+      "rank": 26,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\022.Chuck_will_Widow\\Chuck_Will_Widow_0053_796953.jpg",
+      "mean_similarity": 0.9792144,
+      "rank": 27,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\085.Horned_Lark\\Horned_Lark_0130_74001.jpg",
+      "mean_similarity": 0.9792143,
+      "rank": 28,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\040.Olive_sided_Flycatcher\\Olive_Sided_Flycatcher_0033_30532.jpg",
+      "mean_similarity": 0.9792143,
+      "rank": 29,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\085.Horned_Lark\\Horned_Lark_0116_73840.jpg",
+      "mean_similarity": 0.9792143,
+      "rank": 30,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\028.Brown_Creeper\\Brown_Creeper_0064_24840.jpg",
+      "mean_similarity": 0.9792143,
+      "rank": 31,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\054.Blue_Grosbeak\\Blue_Grosbeak_0045_36672.jpg",
+      "mean_similarity": 0.9792142,
+      "rank": 32,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\054.Blue_Grosbeak\\Blue_Grosbeak_0029_37197.jpg",
+      "mean_similarity": 0.9792142,
+      "rank": 33,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\040.Olive_sided_Flycatcher\\Olive_Sided_Flycatcher_0018_796882.jpg",
+      "mean_similarity": 0.9792142,
+      "rank": 34,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\028.Brown_Creeper\\Brown_Creeper_0121_24574.jpg",
+      "mean_similarity": 0.9792141000000001,
+      "rank": 35,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\085.Horned_Lark\\Horned_Lark_0010_75291.jpg",
+      "mean_similarity": 0.9792141000000001,
+      "rank": 36,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\085.Horned_Lark\\Horned_Lark_0138_74083.jpg",
+      "mean_similarity": 0.9792141000000001,
+      "rank": 37,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\088.Western_Meadowlark\\Western_Meadowlark_0097_78239.jpg",
+      "mean_similarity": 0.9792141000000001,
+      "rank": 38,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\085.Horned_Lark\\Horned_Lark_0079_73958.jpg",
+      "mean_similarity": 0.9792141000000001,
+      "rank": 39,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\022.Chuck_will_Widow\\Chuck_Will_Widow_0057_796970.jpg",
+      "mean_similarity": 0.9792141000000001,
+      "rank": 40,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    }
+  ],
+  "debug": {
+    "total_candidates": 135,
+    "after_voting": 135,
+    "after_dedup": 30,
+    "dedup_mode": "backbone",
+    "top_segments": [
+      {
+        "class": "028.Brown_Creeper",
+        "seg": 4,
+        "hybrid": 1.8495,
+        "magnitude": 9.7922,
+        "borda": 387.0
+      },
+      {
+        "class": "028.Brown_Creeper",
+        "seg": 1,
+        "hybrid": 1.2946,
+        "magnitude": 9.7921,
+        "borda": 355.0
+      },
+      {
+        "class": "028.Brown_Creeper",
+        "seg": 2,
+        "hybrid": 1.1689,
+        "magnitude": 9.7921,
+        "borda": 341.0
+      },
+      {
+        "class": "085.Horned_Lark",
+        "seg": 4,
+        "hybrid": 1.1575,
+        "magnitude": 9.7921,
+        "borda": 338.0
+      },
+      {
+        "class": "054.Blue_Grosbeak",
+        "seg": 4,
+        "hybrid": 1.0777,
+        "magnitude": 9.7921,
+        "borda": 336.0
+      },
+      {
+        "class": "085.Horned_Lark",
+        "seg": 3,
+        "hybrid": 1.0051,
+        "magnitude": 9.7921,
+        "borda": 317.0
+      },
+      {
+        "class": "022.Chuck_will_Widow",
+        "seg": 0,
+        "hybrid": 0.9668,
+        "magnitude": 9.7921,
+        "borda": 307.0
+      },
+      {
+        "class": "054.Blue_Grosbeak",
+        "seg": 1,
+        "hybrid": 0.9024,
+        "magnitude": 9.7921,
+        "borda": 309.0
+      },
+      {
+        "class": "040.Olive_sided_Flycatcher",
+        "seg": 2,
+        "hybrid": 0.8871,
+        "magnitude": 9.7921,
+        "borda": 305.0
+      },
+      {
+        "class": "054.Blue_Grosbeak",
+        "seg": 2,
+        "hybrid": 0.8603,
+        "magnitude": 9.7921,
+        "borda": 298.0
+      }
+    ]
+  }
+}

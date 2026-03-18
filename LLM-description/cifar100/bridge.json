@@ -1,0 +1,26 @@
+{
+  "class_name": "bridge",
+  "global_description": "Large structure spanning a gap, typically over water or land, with a deck for vehicles or pedestrians. Made of steel, concrete, or wood, often featuring arches, cables, or trusses. Colors vary, often gray or metallic, with visible support piers and railings.",
+  "discriminative_attributes": [
+    "Spanning structure",
+    "Deck for crossing",
+    "Support piers",
+    "Arches or trusses",
+    "Cables for suspension"
+  ],
+  "part_details": {
+    "deck": "Flat surface for vehicles or pedestrians, often wide and long",
+    "piers": "Vertical supports beneath the deck, typically concrete or steel",
+    "arches": "Curved structures providing support, often beneath the deck",
+    "cables": "Tensioned wires for suspension bridges, connecting towers to deck",
+    "railings": "Safety barriers along the edges of the deck"
+  },
+  "spatial_relations": [
+    "Deck spans between piers",
+    "Arches positioned beneath deck",
+    "Cables extend from towers to deck",
+    "Railings along edges of deck"
+  ],
+  "original_dataset_key": "cifar100",
+  "original_class_key": "bridge"
+}

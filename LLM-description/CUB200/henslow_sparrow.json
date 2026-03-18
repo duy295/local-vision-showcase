@@ -1,0 +1,26 @@
+{
+  "class_name": "Henslow Sparrow",
+  "global_description": "A small, compact bird with a rounded body and short tail. It features a predominantly olive-green and brown plumage with streaked patterns. The head is marked with a distinctive olive crown and pale eye ring. The wings and back display a mix of brown and black streaks, while the underparts are lighter with fine streaking.",
+  "discriminative_attributes": [
+    "Olive-green crown",
+    "Pale eye ring",
+    "Brown and black streaked wings",
+    "Short tail",
+    "Streaked underparts"
+  ],
+  "part_details": {
+    "head": "Rounded with an olive-green crown and pale eye ring.",
+    "wings": "Brown with black streaks, compact and rounded.",
+    "tail": "Short, brown with subtle streaks.",
+    "underparts": "Lighter with fine streaking, blending into the sides.",
+    "back": "Brown with black streaks, blending into wings."
+  },
+  "spatial_relations": [
+    "The olive crown sits atop the rounded head.",
+    "The pale eye ring encircles the eyes.",
+    "The wings are attached to the sides of the body, streaked with brown and black.",
+    "The short tail extends from the rear of the body."
+  ],
+  "original_dataset_key": "CUB200",
+  "original_class_key": "henslow_sparrow"
+}

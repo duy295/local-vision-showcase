@@ -1,0 +1,25 @@
+{
+  "class_name": "Magnolia Warbler",
+  "global_description": "A small, slender songbird with a distinctive black and yellow coloration. It features a bright yellow underbelly and throat, contrasted by a black mask and streaked back. The wings are dark with white wing bars, and the tail is black with white patches.",
+  "discriminative_attributes": [
+    "Bright yellow underbelly",
+    "Black mask across face",
+    "White wing bars",
+    "Black streaks on back",
+    "Black tail with white patches"
+  ],
+  "part_details": {
+    "underbelly": "Bright yellow, smooth texture, extending from throat to tail.",
+    "face": "Black mask covering eyes and forehead, contrasting sharply with yellow throat.",
+    "wings": "Dark with prominent white bars, medium length.",
+    "back": "Black with subtle streaks, blending into wing coloration.",
+    "tail": "Short, black with distinct white patches on outer edges."
+  },
+  "spatial_relations": [
+    "The black mask covers the face, surrounding the eyes.",
+    "The white wing bars run horizontally across the dark wings.",
+    "The yellow underbelly extends from the throat to the tail."
+  ],
+  "original_dataset_key": "CUB200",
+  "original_class_key": "magnolia_warbler"
+}

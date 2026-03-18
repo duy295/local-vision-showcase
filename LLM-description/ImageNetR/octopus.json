@@ -1,0 +1,24 @@
+{
+  "class_name": "octopus",
+  "global_description": "Marine animal with a soft, bulbous body, eight long, flexible arms lined with suckers, smooth skin, typically in shades of gray, brown, or reddish, capable of changing color and texture for camouflage.",
+  "discriminative_attributes": [
+    "Eight long arms",
+    "Suckers on arms",
+    "Soft bulbous body",
+    "Color-changing skin",
+    "Flexible movement"
+  ],
+  "part_details": {
+    "body": "Soft, bulbous, smooth skin, often gray or brown",
+    "arms": "Eight long, flexible, lined with suckers",
+    "suckers": "Circular, located along the underside of arms",
+    "skin": "Smooth, capable of changing color and texture"
+  },
+  "spatial_relations": [
+    "Arms extend from body",
+    "Suckers line the underside of arms",
+    "Body is central with arms radiating outward"
+  ],
+  "original_dataset_key": "ImageNetR",
+  "original_class_key": "octopus"
+}

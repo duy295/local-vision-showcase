@@ -1,0 +1,159 @@
+{
+  "class_name": "046.Gadwall",
+  "class_idx": 45,
+  "num_images_in_class": 30,
+  "ec_size_requested": 30,
+  "ec_size_actual": 30,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\046.Gadwall\\Gadwall_0034_31212.jpg",
+      "mean_similarity": 0.9473288655281067,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\046.Gadwall\\Gadwall_0084_31135.jpg",
+      "mean_similarity": 0.9471734166145325,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\046.Gadwall\\Gadwall_0070_31187.jpg",
+      "mean_similarity": 0.9471392035484314,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\046.Gadwall\\Gadwall_0031_30935.jpg",
+      "mean_similarity": 0.9468500018119812,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\046.Gadwall\\Gadwall_0077_30929.jpg",
+      "mean_similarity": 0.9467403888702393,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\046.Gadwall\\Gadwall_0097_30893.jpg",
+      "mean_similarity": 0.9465214014053345,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\046.Gadwall\\Gadwall_0017_30979.jpg",
+      "mean_similarity": 0.9465174078941345,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\046.Gadwall\\Gadwall_0036_31760.jpg",
+      "mean_similarity": 0.946376621723175,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\046.Gadwall\\Gadwall_0060_31686.jpg",
+      "mean_similarity": 0.946077287197113,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\046.Gadwall\\Gadwall_0076_31639.jpg",
+      "mean_similarity": 0.9458373188972473,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\046.Gadwall\\Gadwall_0035_30985.jpg",
+      "mean_similarity": 0.9455510973930359,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\046.Gadwall\\Gadwall_0071_31655.jpg",
+      "mean_similarity": 0.9448567032814026,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\046.Gadwall\\Gadwall_0029_31637.jpg",
+      "mean_similarity": 0.9446818828582764,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\046.Gadwall\\Gadwall_0001_31235.jpg",
+      "mean_similarity": 0.9446295499801636,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\046.Gadwall\\Gadwall_0075_30892.jpg",
+      "mean_similarity": 0.9440094232559204,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\046.Gadwall\\Gadwall_0030_31855.jpg",
+      "mean_similarity": 0.9440000653266907,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\046.Gadwall\\Gadwall_0005_30924.jpg",
+      "mean_similarity": 0.9439607858657837,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\046.Gadwall\\Gadwall_0049_30936.jpg",
+      "mean_similarity": 0.9433638453483582,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\046.Gadwall\\Gadwall_0083_30959.jpg",
+      "mean_similarity": 0.9430989027023315,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\046.Gadwall\\Gadwall_0024_30942.jpg",
+      "mean_similarity": 0.943000316619873,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\046.Gadwall\\Gadwall_0064_31504.jpg",
+      "mean_similarity": 0.9426599144935608,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\046.Gadwall\\Gadwall_0086_31346.jpg",
+      "mean_similarity": 0.9423238635063171,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\046.Gadwall\\Gadwall_0039_31013.jpg",
+      "mean_similarity": 0.9415937662124634,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\046.Gadwall\\Gadwall_0048_31312.jpg",
+      "mean_similarity": 0.9405996799468994,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\046.Gadwall\\Gadwall_0066_31557.jpg",
+      "mean_similarity": 0.940583348274231,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\046.Gadwall\\Gadwall_0069_31291.jpg",
+      "mean_similarity": 0.9400030970573425,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\046.Gadwall\\Gadwall_0012_30920.jpg",
+      "mean_similarity": 0.9329432845115662,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\046.Gadwall\\Gadwall_0096_31560.jpg",
+      "mean_similarity": 0.9280686378479004,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\046.Gadwall\\Gadwall_0091_30941.jpg",
+      "mean_similarity": 0.9260702133178711,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\046.Gadwall\\Gadwall_0042_31411.jpg",
+      "mean_similarity": 0.9257842898368835,
+      "rank": 30
+    }
+  ]
+}

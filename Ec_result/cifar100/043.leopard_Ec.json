@@ -1,0 +1,1259 @@
+{
+  "class_name": "leopard",
+  "class_idx": 42,
+  "num_images_in_class": 500,
+  "ec_size_requested": 250,
+  "ec_size_actual": 250,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\leopard_s_001140.png",
+      "mean_similarity": 0.9446240663528442,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\leopard_s_002236.png",
+      "mean_similarity": 0.9443942308425903,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\leopard_s_001136.png",
+      "mean_similarity": 0.9443519711494446,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\leopard_s_000957.png",
+      "mean_similarity": 0.944341778755188,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\leopard_s_000371.png",
+      "mean_similarity": 0.944276750087738,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\leopard_s_001071.png",
+      "mean_similarity": 0.9442452788352966,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\leopard_s_000629.png",
+      "mean_similarity": 0.9441996216773987,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\leopard_s_001342.png",
+      "mean_similarity": 0.9441859126091003,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\panthera_pardus_s_000556.png",
+      "mean_similarity": 0.9440469145774841,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\leopard_s_000466.png",
+      "mean_similarity": 0.9440270066261292,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\panthera_pardus_s_000951.png",
+      "mean_similarity": 0.9438271522521973,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\leopard_s_000072.png",
+      "mean_similarity": 0.9438098669052124,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\panthera_pardus_s_000837.png",
+      "mean_similarity": 0.9437991380691528,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\panthera_pardus_s_000305.png",
+      "mean_similarity": 0.9437664747238159,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\leopard_s_000956.png",
+      "mean_similarity": 0.9437351226806641,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\leopard_s_002132.png",
+      "mean_similarity": 0.9437330365180969,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\leopard_s_001056.png",
+      "mean_similarity": 0.9435685873031616,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\leopard_s_000707.png",
+      "mean_similarity": 0.9435476064682007,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\leopard_s_001303.png",
+      "mean_similarity": 0.9435282945632935,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\panthera_pardus_s_000854.png",
+      "mean_similarity": 0.9435175657272339,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\leopard_s_001050.png",
+      "mean_similarity": 0.9434869289398193,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\leopard_s_001498.png",
+      "mean_similarity": 0.9434809684753418,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\panthera_pardus_s_000663.png",
+      "mean_similarity": 0.9434749484062195,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\panthera_pardus_s_000807.png",
+      "mean_similarity": 0.9434431791305542,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\leopard_s_001057.png",
+      "mean_similarity": 0.9433869123458862,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\leopard_s_001512.png",
+      "mean_similarity": 0.9433642625808716,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\panthera_pardus_s_000386.png",
+      "mean_similarity": 0.9433605670928955,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\panthera_pardus_s_000957.png",
+      "mean_similarity": 0.9433172345161438,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\leopard_s_000461.png",
+      "mean_similarity": 0.9432958364486694,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\panthera_pardus_s_000006.png",
+      "mean_similarity": 0.94327712059021,
+      "rank": 30
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\leopard_s_000378.png",
+      "mean_similarity": 0.9432700872421265,
+      "rank": 31
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\leopard_s_001891.png",
+      "mean_similarity": 0.9432326555252075,
+      "rank": 32
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\panthera_pardus_s_001052.png",
+      "mean_similarity": 0.943209707736969,
+      "rank": 33
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\leopard_s_001456.png",
+      "mean_similarity": 0.9431989192962646,
+      "rank": 34
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\panthera_pardus_s_000388.png",
+      "mean_similarity": 0.943181037902832,
+      "rank": 35
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\leopard_s_000377.png",
+      "mean_similarity": 0.9431688189506531,
+      "rank": 36
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\leopard_s_001617.png",
+      "mean_similarity": 0.9431644082069397,
+      "rank": 37
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\panthera_pardus_s_000527.png",
+      "mean_similarity": 0.9431527853012085,
+      "rank": 38
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\panthera_pardus_s_000109.png",
+      "mean_similarity": 0.943105936050415,
+      "rank": 39
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\leopard_s_000369.png",
+      "mean_similarity": 0.9430766105651855,
+      "rank": 40
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\panthera_pardus_s_001155.png",
+      "mean_similarity": 0.9430636167526245,
+      "rank": 41
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\leopard_s_000376.png",
+      "mean_similarity": 0.9430491328239441,
+      "rank": 42
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\panthera_pardus_s_000808.png",
+      "mean_similarity": 0.9430397748947144,
+      "rank": 43
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\leopard_s_000958.png",
+      "mean_similarity": 0.9430332183837891,
+      "rank": 44
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\panthera_pardus_s_000444.png",
+      "mean_similarity": 0.9430230259895325,
+      "rank": 45
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\leopard_s_001325.png",
+      "mean_similarity": 0.943006157875061,
+      "rank": 46
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\panthera_pardus_s_001169.png",
+      "mean_similarity": 0.9429711699485779,
+      "rank": 47
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\leopard_s_000560.png",
+      "mean_similarity": 0.9429600238800049,
+      "rank": 48
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\leopard_s_000570.png",
+      "mean_similarity": 0.9429569840431213,
+      "rank": 49
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\leopard_s_000301.png",
+      "mean_similarity": 0.9429541826248169,
+      "rank": 50
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\panthera_pardus_s_000677.png",
+      "mean_similarity": 0.9429361820220947,
+      "rank": 51
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\leopard_s_000730.png",
+      "mean_similarity": 0.9429272413253784,
+      "rank": 52
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\leopard_s_002290.png",
+      "mean_similarity": 0.9428085088729858,
+      "rank": 53
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\leopard_s_001259.png",
+      "mean_similarity": 0.9427738785743713,
+      "rank": 54
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\panthera_pardus_s_000084.png",
+      "mean_similarity": 0.9427576065063477,
+      "rank": 55
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\leopard_s_000265.png",
+      "mean_similarity": 0.9427433013916016,
+      "rank": 56
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\panthera_pardus_s_000466.png",
+      "mean_similarity": 0.9427328109741211,
+      "rank": 57
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\leopard_s_002087.png",
+      "mean_similarity": 0.9427250027656555,
+      "rank": 58
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\panthera_pardus_s_000262.png",
+      "mean_similarity": 0.9427151083946228,
+      "rank": 59
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\leopard_s_002212.png",
+      "mean_similarity": 0.9427096247673035,
+      "rank": 60
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\leopard_s_000333.png",
+      "mean_similarity": 0.942665696144104,
+      "rank": 61
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\leopard_s_001391.png",
+      "mean_similarity": 0.9426616430282593,
+      "rank": 62
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\panthera_pardus_s_000935.png",
+      "mean_similarity": 0.9426363110542297,
+      "rank": 63
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\leopard_s_001341.png",
+      "mean_similarity": 0.9426132440567017,
+      "rank": 64
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\panthera_pardus_s_001231.png",
+      "mean_similarity": 0.9426071047782898,
+      "rank": 65
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\leopard_s_000040.png",
+      "mean_similarity": 0.9425873160362244,
+      "rank": 66
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\leopard_s_000353.png",
+      "mean_similarity": 0.9425572752952576,
+      "rank": 67
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\leopard_s_000368.png",
+      "mean_similarity": 0.9425451755523682,
+      "rank": 68
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\leopard_s_000758.png",
+      "mean_similarity": 0.9425245523452759,
+      "rank": 69
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\panthera_pardus_s_000367.png",
+      "mean_similarity": 0.9424924850463867,
+      "rank": 70
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\panthera_pardus_s_001222.png",
+      "mean_similarity": 0.9424837231636047,
+      "rank": 71
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\panthera_pardus_s_000956.png",
+      "mean_similarity": 0.9424741268157959,
+      "rank": 72
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\panthera_pardus_s_000651.png",
+      "mean_similarity": 0.9424652457237244,
+      "rank": 73
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\leopard_s_000030.png",
+      "mean_similarity": 0.9424145817756653,
+      "rank": 74
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\leopard_s_002262.png",
+      "mean_similarity": 0.9424029588699341,
+      "rank": 75
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\panthera_pardus_s_001156.png",
+      "mean_similarity": 0.9423805475234985,
+      "rank": 76
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\panthera_pardus_s_000352.png",
+      "mean_similarity": 0.9423398971557617,
+      "rank": 77
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\panthera_pardus_s_000346.png",
+      "mean_similarity": 0.9423261880874634,
+      "rank": 78
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\leopard_s_000373.png",
+      "mean_similarity": 0.9422653913497925,
+      "rank": 79
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\leopard_s_000057.png",
+      "mean_similarity": 0.9422439932823181,
+      "rank": 80
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\leopard_s_000318.png",
+      "mean_similarity": 0.9422430396080017,
+      "rank": 81
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\panthera_pardus_s_000278.png",
+      "mean_similarity": 0.9421766996383667,
+      "rank": 82
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\leopard_s_000757.png",
+      "mean_similarity": 0.9421752691268921,
+      "rank": 83
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\leopard_s_001626.png",
+      "mean_similarity": 0.9421553015708923,
+      "rank": 84
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\leopard_s_000524.png",
+      "mean_similarity": 0.9421488046646118,
+      "rank": 85
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\leopard_s_001871.png",
+      "mean_similarity": 0.9421337246894836,
+      "rank": 86
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\panthera_pardus_s_001049.png",
+      "mean_similarity": 0.9421331286430359,
+      "rank": 87
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\panthera_pardus_s_000044.png",
+      "mean_similarity": 0.9421083331108093,
+      "rank": 88
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\panthera_pardus_s_000375.png",
+      "mean_similarity": 0.9420945048332214,
+      "rank": 89
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\leopard_s_000486.png",
+      "mean_similarity": 0.9420686364173889,
+      "rank": 90
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\leopard_s_002241.png",
+      "mean_similarity": 0.9420508742332458,
+      "rank": 91
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\leopard_s_000979.png",
+      "mean_similarity": 0.942014753818512,
+      "rank": 92
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\leopard_s_000288.png",
+      "mean_similarity": 0.9419819116592407,
+      "rank": 93
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\panthera_pardus_s_000865.png",
+      "mean_similarity": 0.9419504404067993,
+      "rank": 94
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\leopard_s_001717.png",
+      "mean_similarity": 0.941907525062561,
+      "rank": 95
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\panthera_pardus_s_000593.png",
+      "mean_similarity": 0.9418838024139404,
+      "rank": 96
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\leopard_s_000861.png",
+      "mean_similarity": 0.941879391670227,
+      "rank": 97
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\leopard_s_000569.png",
+      "mean_similarity": 0.9418474435806274,
+      "rank": 98
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\panthera_pardus_s_000092.png",
+      "mean_similarity": 0.9417904615402222,
+      "rank": 99
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\leopard_s_001588.png",
+      "mean_similarity": 0.9417895674705505,
+      "rank": 100
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\leopard_s_000450.png",
+      "mean_similarity": 0.9416723251342773,
+      "rank": 101
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\panthera_pardus_s_000244.png",
+      "mean_similarity": 0.9416709542274475,
+      "rank": 102
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\leopard_s_001623.png",
+      "mean_similarity": 0.9416477084159851,
+      "rank": 103
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\leopard_s_000254.png",
+      "mean_similarity": 0.941554605960846,
+      "rank": 104
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\panthera_pardus_s_000237.png",
+      "mean_similarity": 0.9415410757064819,
+      "rank": 105
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\leopard_s_001709.png",
+      "mean_similarity": 0.9415240287780762,
+      "rank": 106
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\leopard_s_002133.png",
+      "mean_similarity": 0.9414863586425781,
+      "rank": 107
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\leopard_s_001364.png",
+      "mean_similarity": 0.9414806365966797,
+      "rank": 108
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\panthera_pardus_s_000372.png",
+      "mean_similarity": 0.9414472579956055,
+      "rank": 109
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\leopard_s_001119.png",
+      "mean_similarity": 0.9414442777633667,
+      "rank": 110
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\leopard_s_000857.png",
+      "mean_similarity": 0.9414161443710327,
+      "rank": 111
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\leopard_s_000856.png",
+      "mean_similarity": 0.941401481628418,
+      "rank": 112
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\leopard_s_000567.png",
+      "mean_similarity": 0.941335916519165,
+      "rank": 113
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\panthera_pardus_s_000125.png",
+      "mean_similarity": 0.941301167011261,
+      "rank": 114
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\leopard_s_000170.png",
+      "mean_similarity": 0.941272497177124,
+      "rank": 115
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\leopard_s_000955.png",
+      "mean_similarity": 0.941224992275238,
+      "rank": 116
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\leopard_s_001590.png",
+      "mean_similarity": 0.9411666393280029,
+      "rank": 117
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\leopard_s_001133.png",
+      "mean_similarity": 0.9411606788635254,
+      "rank": 118
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\panthera_pardus_s_001103.png",
+      "mean_similarity": 0.9411490559577942,
+      "rank": 119
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\leopard_s_000420.png",
+      "mean_similarity": 0.9411449432373047,
+      "rank": 120
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\leopard_s_001137.png",
+      "mean_similarity": 0.9411398768424988,
+      "rank": 121
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\leopard_s_001473.png",
+      "mean_similarity": 0.9411230087280273,
+      "rank": 122
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\leopard_s_002130.png",
+      "mean_similarity": 0.9411097168922424,
+      "rank": 123
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\panthera_pardus_s_001128.png",
+      "mean_similarity": 0.9410834908485413,
+      "rank": 124
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\panthera_pardus_s_000308.png",
+      "mean_similarity": 0.9410485029220581,
+      "rank": 125
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\leopard_s_000171.png",
+      "mean_similarity": 0.9410281181335449,
+      "rank": 126
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\panthera_pardus_s_000275.png",
+      "mean_similarity": 0.9410132765769958,
+      "rank": 127
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\leopard_s_000352.png",
+      "mean_similarity": 0.9410028457641602,
+      "rank": 128
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\panthera_pardus_s_000832.png",
+      "mean_similarity": 0.9409419298171997,
+      "rank": 129
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\panthera_pardus_s_000963.png",
+      "mean_similarity": 0.9409199357032776,
+      "rank": 130
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\panthera_pardus_s_000365.png",
+      "mean_similarity": 0.9408701062202454,
+      "rank": 131
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\leopard_s_000031.png",
+      "mean_similarity": 0.9408475160598755,
+      "rank": 132
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\leopard_s_000912.png",
+      "mean_similarity": 0.9408395886421204,
+      "rank": 133
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\panthera_pardus_s_000330.png",
+      "mean_similarity": 0.940819501876831,
+      "rank": 134
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\leopard_s_002251.png",
+      "mean_similarity": 0.940755307674408,
+      "rank": 135
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\leopard_s_001818.png",
+      "mean_similarity": 0.9407463669776917,
+      "rank": 136
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\leopard_s_002287.png",
+      "mean_similarity": 0.9407389163970947,
+      "rank": 137
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\leopard_s_001118.png",
+      "mean_similarity": 0.9407305121421814,
+      "rank": 138
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\leopard_s_000847.png",
+      "mean_similarity": 0.940651535987854,
+      "rank": 139
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\leopard_s_000900.png",
+      "mean_similarity": 0.9405779838562012,
+      "rank": 140
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\leopard_s_000334.png",
+      "mean_similarity": 0.9405344724655151,
+      "rank": 141
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\leopard_s_000597.png",
+      "mean_similarity": 0.9405204057693481,
+      "rank": 142
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\panthera_pardus_s_000357.png",
+      "mean_similarity": 0.9404946565628052,
+      "rank": 143
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\leopard_s_000383.png",
+      "mean_similarity": 0.9404420852661133,
+      "rank": 144
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\panthera_pardus_s_000106.png",
+      "mean_similarity": 0.9404394030570984,
+      "rank": 145
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\leopard_s_001454.png",
+      "mean_similarity": 0.9404385089874268,
+      "rank": 146
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\leopard_s_000152.png",
+      "mean_similarity": 0.9403800964355469,
+      "rank": 147
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\leopard_s_000564.png",
+      "mean_similarity": 0.9403732419013977,
+      "rank": 148
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\leopard_s_000684.png",
+      "mean_similarity": 0.9403595328330994,
+      "rank": 149
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\leopard_s_000670.png",
+      "mean_similarity": 0.9402980208396912,
+      "rank": 150
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\leopard_s_000382.png",
+      "mean_similarity": 0.940267026424408,
+      "rank": 151
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\leopard_s_000530.png",
+      "mean_similarity": 0.9402319192886353,
+      "rank": 152
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\leopard_s_001710.png",
+      "mean_similarity": 0.9402281045913696,
+      "rank": 153
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\leopard_s_001678.png",
+      "mean_similarity": 0.9402142763137817,
+      "rank": 154
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\panthera_pardus_s_000285.png",
+      "mean_similarity": 0.9401809573173523,
+      "rank": 155
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\leopard_s_001563.png",
+      "mean_similarity": 0.9401575326919556,
+      "rank": 156
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\panthera_pardus_s_000191.png",
+      "mean_similarity": 0.9401218295097351,
+      "rank": 157
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\panthera_pardus_s_000905.png",
+      "mean_similarity": 0.9401183128356934,
+      "rank": 158
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\leopard_s_001714.png",
+      "mean_similarity": 0.9401020407676697,
+      "rank": 159
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\leopard_s_002139.png",
+      "mean_similarity": 0.9400997161865234,
+      "rank": 160
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\leopard_s_000850.png",
+      "mean_similarity": 0.9400843977928162,
+      "rank": 161
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\leopard_s_001481.png",
+      "mean_similarity": 0.9400628209114075,
+      "rank": 162
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\panthera_pardus_s_000860.png",
+      "mean_similarity": 0.9400581121444702,
+      "rank": 163
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\leopard_s_000350.png",
+      "mean_similarity": 0.9400175213813782,
+      "rank": 164
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\leopard_s_000749.png",
+      "mean_similarity": 0.9400084614753723,
+      "rank": 165
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\panthera_pardus_s_000005.png",
+      "mean_similarity": 0.9399926066398621,
+      "rank": 166
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\leopard_s_001051.png",
+      "mean_similarity": 0.9399754405021667,
+      "rank": 167
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\leopard_s_001343.png",
+      "mean_similarity": 0.939956784248352,
+      "rank": 168
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\leopard_s_000637.png",
+      "mean_similarity": 0.9399318695068359,
+      "rank": 169
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\leopard_s_001791.png",
+      "mean_similarity": 0.9399207234382629,
+      "rank": 170
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\leopard_s_002204.png",
+      "mean_similarity": 0.9399071335792542,
+      "rank": 171
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\leopard_s_000374.png",
+      "mean_similarity": 0.9398812651634216,
+      "rank": 172
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\panthera_pardus_s_001206.png",
+      "mean_similarity": 0.9398759603500366,
+      "rank": 173
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\leopard_s_000945.png",
+      "mean_similarity": 0.9398744106292725,
+      "rank": 174
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\leopard_s_001011.png",
+      "mean_similarity": 0.9398621916770935,
+      "rank": 175
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\leopard_s_001216.png",
+      "mean_similarity": 0.9398593902587891,
+      "rank": 176
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\panthera_pardus_s_001054.png",
+      "mean_similarity": 0.9398189187049866,
+      "rank": 177
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\leopard_s_000591.png",
+      "mean_similarity": 0.9398183822631836,
+      "rank": 178
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\leopard_s_000813.png",
+      "mean_similarity": 0.9398060441017151,
+      "rank": 179
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\panthera_pardus_s_000954.png",
+      "mean_similarity": 0.9397881031036377,
+      "rank": 180
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\leopard_s_000381.png",
+      "mean_similarity": 0.9397581815719604,
+      "rank": 181
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\panthera_pardus_s_000325.png",
+      "mean_similarity": 0.9397545456886292,
+      "rank": 182
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\panthera_pardus_s_000718.png",
+      "mean_similarity": 0.9397068619728088,
+      "rank": 183
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\panthera_pardus_s_000500.png",
+      "mean_similarity": 0.9396435618400574,
+      "rank": 184
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\leopard_s_000491.png",
+      "mean_similarity": 0.9396253824234009,
+      "rank": 185
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\leopard_s_002237.png",
+      "mean_similarity": 0.9395740032196045,
+      "rank": 186
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\panthera_pardus_s_000271.png",
+      "mean_similarity": 0.939551055431366,
+      "rank": 187
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\leopard_s_000819.png",
+      "mean_similarity": 0.9395390748977661,
+      "rank": 188
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\leopard_s_001147.png",
+      "mean_similarity": 0.9395369291305542,
+      "rank": 189
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\leopard_s_000994.png",
+      "mean_similarity": 0.9395225644111633,
+      "rank": 190
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\panthera_pardus_s_000115.png",
+      "mean_similarity": 0.939516544342041,
+      "rank": 191
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\panthera_pardus_s_000374.png",
+      "mean_similarity": 0.9394778609275818,
+      "rank": 192
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\leopard_s_001099.png",
+      "mean_similarity": 0.9394497275352478,
+      "rank": 193
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\leopard_s_001045.png",
+      "mean_similarity": 0.9394447207450867,
+      "rank": 194
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\leopard_s_000173.png",
+      "mean_similarity": 0.9394343495368958,
+      "rank": 195
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\panthera_pardus_s_000295.png",
+      "mean_similarity": 0.9393905997276306,
+      "rank": 196
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\panthera_pardus_s_000590.png",
+      "mean_similarity": 0.9393852949142456,
+      "rank": 197
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\panthera_pardus_s_000801.png",
+      "mean_similarity": 0.9393611550331116,
+      "rank": 198
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\leopard_s_000224.png",
+      "mean_similarity": 0.9393088221549988,
+      "rank": 199
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\leopard_s_001763.png",
+      "mean_similarity": 0.9392837285995483,
+      "rank": 200
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\leopard_s_002122.png",
+      "mean_similarity": 0.9392533898353577,
+      "rank": 201
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\panthera_pardus_s_000166.png",
+      "mean_similarity": 0.9392521977424622,
+      "rank": 202
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\leopard_s_001054.png",
+      "mean_similarity": 0.9392507076263428,
+      "rank": 203
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\leopard_s_000007.png",
+      "mean_similarity": 0.9392306804656982,
+      "rank": 204
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\leopard_s_000766.png",
+      "mean_similarity": 0.9392207264900208,
+      "rank": 205
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\panthera_pardus_s_001167.png",
+      "mean_similarity": 0.9391953945159912,
+      "rank": 206
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\leopard_s_000918.png",
+      "mean_similarity": 0.9391618967056274,
+      "rank": 207
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\leopard_s_000884.png",
+      "mean_similarity": 0.9391449093818665,
+      "rank": 208
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\panthera_pardus_s_000962.png",
+      "mean_similarity": 0.9391189217567444,
+      "rank": 209
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\leopard_s_001135.png",
+      "mean_similarity": 0.9391012787818909,
+      "rank": 210
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\leopard_s_001993.png",
+      "mean_similarity": 0.9390708804130554,
+      "rank": 211
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\leopard_s_000517.png",
+      "mean_similarity": 0.939054012298584,
+      "rank": 212
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\panthera_pardus_s_000969.png",
+      "mean_similarity": 0.9390417337417603,
+      "rank": 213
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\panthera_pardus_s_000017.png",
+      "mean_similarity": 0.9390063285827637,
+      "rank": 214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\panthera_pardus_s_000810.png",
+      "mean_similarity": 0.9389784932136536,
+      "rank": 215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\panthera_pardus_s_000471.png",
+      "mean_similarity": 0.9389711022377014,
+      "rank": 216
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\leopard_s_001036.png",
+      "mean_similarity": 0.938912034034729,
+      "rank": 217
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\panthera_pardus_s_000840.png",
+      "mean_similarity": 0.9388359189033508,
+      "rank": 218
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\panthera_pardus_s_000934.png",
+      "mean_similarity": 0.9388327598571777,
+      "rank": 219
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\leopard_s_000752.png",
+      "mean_similarity": 0.9388201236724854,
+      "rank": 220
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\leopard_s_000468.png",
+      "mean_similarity": 0.9387778639793396,
+      "rank": 221
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\leopard_s_000947.png",
+      "mean_similarity": 0.9387456178665161,
+      "rank": 222
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\leopard_s_000464.png",
+      "mean_similarity": 0.9387428760528564,
+      "rank": 223
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\leopard_s_000589.png",
+      "mean_similarity": 0.9387279748916626,
+      "rank": 224
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\panthera_pardus_s_000112.png",
+      "mean_similarity": 0.9387010931968689,
+      "rank": 225
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\leopard_s_000380.png",
+      "mean_similarity": 0.9386353492736816,
+      "rank": 226
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\leopard_s_001138.png",
+      "mean_similarity": 0.9385664463043213,
+      "rank": 227
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\leopard_s_001328.png",
+      "mean_similarity": 0.9385190010070801,
+      "rank": 228
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\panthera_pardus_s_000288.png",
+      "mean_similarity": 0.938475489616394,
+      "rank": 229
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\leopard_s_001141.png",
+      "mean_similarity": 0.938456654548645,
+      "rank": 230
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\leopard_s_001811.png",
+      "mean_similarity": 0.9384541511535645,
+      "rank": 231
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\panthera_pardus_s_001055.png",
+      "mean_similarity": 0.938437283039093,
+      "rank": 232
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\leopard_s_000759.png",
+      "mean_similarity": 0.9383397102355957,
+      "rank": 233
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\leopard_s_000875.png",
+      "mean_similarity": 0.9382051825523376,
+      "rank": 234
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\leopard_s_000934.png",
+      "mean_similarity": 0.9382048845291138,
+      "rank": 235
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\panthera_pardus_s_000186.png",
+      "mean_similarity": 0.9381870031356812,
+      "rank": 236
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\panthera_pardus_s_000095.png",
+      "mean_similarity": 0.9381693005561829,
+      "rank": 237
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\leopard_s_001410.png",
+      "mean_similarity": 0.9381349682807922,
+      "rank": 238
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\leopard_s_000121.png",
+      "mean_similarity": 0.9381332993507385,
+      "rank": 239
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\leopard_s_000092.png",
+      "mean_similarity": 0.9380788207054138,
+      "rank": 240
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\leopard_s_001782.png",
+      "mean_similarity": 0.9380639791488647,
+      "rank": 241
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\leopard_s_001499.png",
+      "mean_similarity": 0.9380282163619995,
+      "rank": 242
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\leopard_s_000977.png",
+      "mean_similarity": 0.9380050301551819,
+      "rank": 243
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\leopard_s_000748.png",
+      "mean_similarity": 0.9379472136497498,
+      "rank": 244
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\leopard_s_001055.png",
+      "mean_similarity": 0.9379345774650574,
+      "rank": 245
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\leopard_s_001624.png",
+      "mean_similarity": 0.9379293322563171,
+      "rank": 246
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\panthera_pardus_s_000344.png",
+      "mean_similarity": 0.9378381967544556,
+      "rank": 247
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\leopard_s_000037.png",
+      "mean_similarity": 0.9378294348716736,
+      "rank": 248
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\leopard_s_001420.png",
+      "mean_similarity": 0.9377942681312561,
+      "rank": 249
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\043.leopard\\leopard_s_002152.png",
+      "mean_similarity": 0.937697172164917,
+      "rank": 250
+    }
+  ]
+}

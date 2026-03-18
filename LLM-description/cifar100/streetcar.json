@@ -1,0 +1,26 @@
+{
+  "class_name": "streetcar",
+  "global_description": "Long, rectangular vehicle with a metallic body, often painted in bright colors like red or yellow. It features large windows along the sides, a pantograph on the roof for electrical connection, and multiple sets of wheels beneath. The interior is typically spacious with rows of seats and handrails.",
+  "discriminative_attributes": [
+    "Long rectangular shape",
+    "Bright colored body",
+    "Large side windows",
+    "Pantograph on roof",
+    "Multiple wheel sets"
+  ],
+  "part_details": {
+    "body": "Long, rectangular, metallic, often brightly colored",
+    "windows": "Large, aligned along sides",
+    "pantograph": "Roof-mounted for electrical connection",
+    "wheels": "Multiple sets beneath body",
+    "interior": "Spacious with seats and handrails"
+  },
+  "spatial_relations": [
+    "Pantograph on top of body",
+    "Windows along sides",
+    "Wheels beneath body",
+    "Seats inside vehicle"
+  ],
+  "original_dataset_key": "cifar100",
+  "original_class_key": "streetcar"
+}

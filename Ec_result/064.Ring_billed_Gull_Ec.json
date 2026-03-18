@@ -1,0 +1,159 @@
+{
+  "class_name": "064.Ring_billed_Gull",
+  "class_idx": 63,
+  "num_images_in_class": 30,
+  "ec_size_requested": 30,
+  "ec_size_actual": 30,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\064.Ring_billed_Gull\\Ring_Billed_Gull_0092_51521.jpg",
+      "mean_similarity": 0.9476475119590759,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\064.Ring_billed_Gull\\Ring_Billed_Gull_0100_52779.jpg",
+      "mean_similarity": 0.9476033449172974,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\064.Ring_billed_Gull\\Ring_Billed_Gull_0070_51316.jpg",
+      "mean_similarity": 0.9475982785224915,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\064.Ring_billed_Gull\\Ring_Billed_Gull_0018_51505.jpg",
+      "mean_similarity": 0.9475767016410828,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\064.Ring_billed_Gull\\Ring_Billed_Gull_0118_51322.jpg",
+      "mean_similarity": 0.9475368857383728,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\064.Ring_billed_Gull\\Ring_Billed_Gull_0020_50204.jpg",
+      "mean_similarity": 0.9474310278892517,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\064.Ring_billed_Gull\\Ring_Billed_Gull_0098_51410.jpg",
+      "mean_similarity": 0.9472121596336365,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\064.Ring_billed_Gull\\Ring_Billed_Gull_0059_51554.jpg",
+      "mean_similarity": 0.9467896223068237,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\064.Ring_billed_Gull\\Ring_Billed_Gull_0063_51256.jpg",
+      "mean_similarity": 0.9466040730476379,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\064.Ring_billed_Gull\\Ring_Billed_Gull_0001_51416.jpg",
+      "mean_similarity": 0.9465654492378235,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\064.Ring_billed_Gull\\Ring_Billed_Gull_0054_51414.jpg",
+      "mean_similarity": 0.9464317560195923,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\064.Ring_billed_Gull\\Ring_Billed_Gull_0027_51266.jpg",
+      "mean_similarity": 0.9458187222480774,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\064.Ring_billed_Gull\\Ring_Billed_Gull_0095_50362.jpg",
+      "mean_similarity": 0.9456723928451538,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\064.Ring_billed_Gull\\Ring_Billed_Gull_0127_51485.jpg",
+      "mean_similarity": 0.9453226327896118,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\064.Ring_billed_Gull\\Ring_Billed_Gull_0129_51246.jpg",
+      "mean_similarity": 0.9446343183517456,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\064.Ring_billed_Gull\\Ring_Billed_Gull_0052_51357.jpg",
+      "mean_similarity": 0.9441487789154053,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\064.Ring_billed_Gull\\Ring_Billed_Gull_0055_51156.jpg",
+      "mean_similarity": 0.9440645575523376,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\064.Ring_billed_Gull\\Ring_Billed_Gull_0131_51370.jpg",
+      "mean_similarity": 0.9440283179283142,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\064.Ring_billed_Gull\\Ring_Billed_Gull_0108_51108.jpg",
+      "mean_similarity": 0.9430254101753235,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\064.Ring_billed_Gull\\Ring_Billed_Gull_0119_51551.jpg",
+      "mean_similarity": 0.9429659247398376,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\064.Ring_billed_Gull\\Ring_Billed_Gull_0074_52258.jpg",
+      "mean_similarity": 0.9428764581680298,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\064.Ring_billed_Gull\\Ring_Billed_Gull_0003_51480.jpg",
+      "mean_similarity": 0.9427999258041382,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\064.Ring_billed_Gull\\Ring_Billed_Gull_0017_51412.jpg",
+      "mean_similarity": 0.9421940445899963,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\064.Ring_billed_Gull\\Ring_Billed_Gull_0114_50214.jpg",
+      "mean_similarity": 0.9404233694076538,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\064.Ring_billed_Gull\\Ring_Billed_Gull_0117_51363.jpg",
+      "mean_similarity": 0.9399763941764832,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\064.Ring_billed_Gull\\Ring_Billed_Gull_0101_51375.jpg",
+      "mean_similarity": 0.9399588704109192,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\064.Ring_billed_Gull\\Ring_Billed_Gull_0028_51454.jpg",
+      "mean_similarity": 0.9375088214874268,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\064.Ring_billed_Gull\\Ring_Billed_Gull_0050_51567.jpg",
+      "mean_similarity": 0.935809850692749,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\064.Ring_billed_Gull\\Ring_Billed_Gull_0125_51307.jpg",
+      "mean_similarity": 0.931490421295166,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\064.Ring_billed_Gull\\Ring_Billed_Gull_0033_51288.jpg",
+      "mean_similarity": 0.9260702133178711,
+      "rank": 30
+    }
+  ]
+}

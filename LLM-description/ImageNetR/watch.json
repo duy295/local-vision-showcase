@@ -1,0 +1,26 @@
+{
+  "class_name": "watch",
+  "global_description": "A small, circular device typically worn on the wrist, featuring a metallic or leather strap. The face is usually round with a glass cover, displaying numbers or markers. The casing is often metallic, with a rotating bezel and side buttons for adjustments.",
+  "discriminative_attributes": [
+    "Circular face",
+    "Metallic or leather strap",
+    "Glass-covered display",
+    "Rotating bezel",
+    "Side adjustment buttons"
+  ],
+  "part_details": {
+    "face": "Circular with glass cover, displaying numbers or markers",
+    "strap": "Metallic or leather, adjustable for wrist size",
+    "bezel": "Rotating, often metallic, surrounding the face",
+    "buttons": "Located on the side, used for adjustments",
+    "casing": "Metallic, housing the internal components"
+  },
+  "spatial_relations": [
+    "Face is centered within the casing",
+    "Strap extends from opposite sides of the casing",
+    "Buttons are positioned on the side of the casing",
+    "Bezel encircles the face"
+  ],
+  "original_dataset_key": "ImageNetR",
+  "original_class_key": "watch"
+}

@@ -1,0 +1,159 @@
+{
+  "class_name": "058.Pigeon_Guillemot",
+  "class_idx": 57,
+  "num_images_in_class": 30,
+  "ec_size_requested": 30,
+  "ec_size_actual": 30,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\058.Pigeon_Guillemot\\Pigeon_Guillemot_0025_40511.jpg",
+      "mean_similarity": 0.9425905346870422,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\058.Pigeon_Guillemot\\Pigeon_Guillemot_0098_39902.jpg",
+      "mean_similarity": 0.9406772255897522,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\058.Pigeon_Guillemot\\Pigeon_Guillemot_0058_40184.jpg",
+      "mean_similarity": 0.9403871297836304,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\058.Pigeon_Guillemot\\Pigeon_Guillemot_0092_39864.jpg",
+      "mean_similarity": 0.939403772354126,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\058.Pigeon_Guillemot\\Pigeon_Guillemot_0073_40209.jpg",
+      "mean_similarity": 0.9392452836036682,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\058.Pigeon_Guillemot\\Pigeon_Guillemot_0064_40044.jpg",
+      "mean_similarity": 0.9392144680023193,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\058.Pigeon_Guillemot\\Pigeon_Guillemot_0018_40195.jpg",
+      "mean_similarity": 0.9390843510627747,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\058.Pigeon_Guillemot\\Pigeon_Guillemot_0081_40339.jpg",
+      "mean_similarity": 0.9390843510627747,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\058.Pigeon_Guillemot\\Pigeon_Guillemot_0068_40039.jpg",
+      "mean_similarity": 0.9386948347091675,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\058.Pigeon_Guillemot\\Pigeon_Guillemot_0005_40375.jpg",
+      "mean_similarity": 0.93856281042099,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\058.Pigeon_Guillemot\\Pigeon_Guillemot_0024_39814.jpg",
+      "mean_similarity": 0.9375045895576477,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\058.Pigeon_Guillemot\\Pigeon_Guillemot_0055_40171.jpg",
+      "mean_similarity": 0.9373188614845276,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\058.Pigeon_Guillemot\\Pigeon_Guillemot_0095_39867.jpg",
+      "mean_similarity": 0.9364866018295288,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\058.Pigeon_Guillemot\\Pigeon_Guillemot_0026_40126.jpg",
+      "mean_similarity": 0.93636554479599,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\058.Pigeon_Guillemot\\Pigeon_Guillemot_0014_40040.jpg",
+      "mean_similarity": 0.9354057908058167,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\058.Pigeon_Guillemot\\Pigeon_Guillemot_0028_40046.jpg",
+      "mean_similarity": 0.9341499209403992,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\058.Pigeon_Guillemot\\Pigeon_Guillemot_0090_40090.jpg",
+      "mean_similarity": 0.9340384602546692,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\058.Pigeon_Guillemot\\Pigeon_Guillemot_0083_39980.jpg",
+      "mean_similarity": 0.9336802959442139,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\058.Pigeon_Guillemot\\Pigeon_Guillemot_0034_40074.jpg",
+      "mean_similarity": 0.9331202507019043,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\058.Pigeon_Guillemot\\Pigeon_Guillemot_0041_39807.jpg",
+      "mean_similarity": 0.932797372341156,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\058.Pigeon_Guillemot\\Pigeon_Guillemot_0059_39929.jpg",
+      "mean_similarity": 0.9327383041381836,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\058.Pigeon_Guillemot\\Pigeon_Guillemot_0053_39876.jpg",
+      "mean_similarity": 0.9316627979278564,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\058.Pigeon_Guillemot\\Pigeon_Guillemot_0084_40217.jpg",
+      "mean_similarity": 0.9304689764976501,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\058.Pigeon_Guillemot\\Pigeon_Guillemot_0077_39885.jpg",
+      "mean_similarity": 0.9299620389938354,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\058.Pigeon_Guillemot\\Pigeon_Guillemot_0072_39905.jpg",
+      "mean_similarity": 0.92844557762146,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\058.Pigeon_Guillemot\\Pigeon_Guillemot_0103_39882.jpg",
+      "mean_similarity": 0.9271773099899292,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\058.Pigeon_Guillemot\\Pigeon_Guillemot_0069_40278.jpg",
+      "mean_similarity": 0.9239445924758911,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\058.Pigeon_Guillemot\\Pigeon_Guillemot_0105_40078.jpg",
+      "mean_similarity": 0.9213547706604004,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\058.Pigeon_Guillemot\\Pigeon_Guillemot_0020_40088.jpg",
+      "mean_similarity": 0.9205073714256287,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\058.Pigeon_Guillemot\\Pigeon_Guillemot_0019_40515.jpg",
+      "mean_similarity": 0.9079117774963379,
+      "rank": 30
+    }
+  ]
+}

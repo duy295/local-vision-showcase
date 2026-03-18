@@ -1,0 +1,26 @@
+{
+  "class_name": "goose",
+  "global_description": "Medium-sized waterfowl with a long neck, rounded body, and webbed feet. Feathers are predominantly white or gray with black accents. The beak is flat and orange, and the legs are typically orange or pink.",
+  "discriminative_attributes": [
+    "Long neck",
+    "Webbed feet",
+    "Flat orange beak",
+    "White or gray feathers",
+    "Black accents"
+  ],
+  "part_details": {
+    "head": "Small with a flat orange beak and black eyes",
+    "neck": "Long and slender, connecting head to body",
+    "body": "Rounded with smooth white or gray feathers",
+    "wings": "Large and strong, covered in feathers",
+    "feet": "Webbed, orange or pink, adapted for swimming"
+  },
+  "spatial_relations": [
+    "Neck extends from body to head",
+    "Wings attached to sides of body",
+    "Feet beneath body",
+    "Beak at front of head"
+  ],
+  "original_dataset_key": "ImageNetR",
+  "original_class_key": "goose"
+}

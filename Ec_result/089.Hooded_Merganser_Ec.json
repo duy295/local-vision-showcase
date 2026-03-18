@@ -1,0 +1,159 @@
+{
+  "class_name": "089.Hooded_Merganser",
+  "class_idx": 88,
+  "num_images_in_class": 30,
+  "ec_size_requested": 30,
+  "ec_size_actual": 30,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\089.Hooded_Merganser\\Hooded_Merganser_0023_796784.jpg",
+      "mean_similarity": 0.9481145739555359,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\089.Hooded_Merganser\\Hooded_Merganser_0059_79016.jpg",
+      "mean_similarity": 0.9478564262390137,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\089.Hooded_Merganser\\Hooded_Merganser_0089_796740.jpg",
+      "mean_similarity": 0.9477811455726624,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\089.Hooded_Merganser\\Hooded_Merganser_0013_796754.jpg",
+      "mean_similarity": 0.947780430316925,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\089.Hooded_Merganser\\Hooded_Merganser_0057_796742.jpg",
+      "mean_similarity": 0.9477614164352417,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\089.Hooded_Merganser\\Hooded_Merganser_0032_79032.jpg",
+      "mean_similarity": 0.9476507902145386,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\089.Hooded_Merganser\\Hooded_Merganser_0083_796773.jpg",
+      "mean_similarity": 0.9475260972976685,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\089.Hooded_Merganser\\Hooded_Merganser_0084_78954.jpg",
+      "mean_similarity": 0.9475242495536804,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\089.Hooded_Merganser\\Hooded_Merganser_0049_79136.jpg",
+      "mean_similarity": 0.9475070834159851,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\089.Hooded_Merganser\\Hooded_Merganser_0078_78959.jpg",
+      "mean_similarity": 0.9474340677261353,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\089.Hooded_Merganser\\Hooded_Merganser_0070_79054.jpg",
+      "mean_similarity": 0.9473621249198914,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\089.Hooded_Merganser\\Hooded_Merganser_0090_796774.jpg",
+      "mean_similarity": 0.9472891688346863,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\089.Hooded_Merganser\\Hooded_Merganser_0024_796779.jpg",
+      "mean_similarity": 0.9472121000289917,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\089.Hooded_Merganser\\Hooded_Merganser_0073_796726.jpg",
+      "mean_similarity": 0.9470627903938293,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\089.Hooded_Merganser\\Hooded_Merganser_0021_796732.jpg",
+      "mean_similarity": 0.947017252445221,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\089.Hooded_Merganser\\Hooded_Merganser_0011_796750.jpg",
+      "mean_similarity": 0.9467563629150391,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\089.Hooded_Merganser\\Hooded_Merganser_0053_796728.jpg",
+      "mean_similarity": 0.9461350440979004,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\089.Hooded_Merganser\\Hooded_Merganser_0061_796723.jpg",
+      "mean_similarity": 0.946018636226654,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\089.Hooded_Merganser\\Hooded_Merganser_0015_79132.jpg",
+      "mean_similarity": 0.9458584189414978,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\089.Hooded_Merganser\\Hooded_Merganser_0036_796771.jpg",
+      "mean_similarity": 0.945157527923584,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\089.Hooded_Merganser\\Hooded_Merganser_0040_78984.jpg",
+      "mean_similarity": 0.9442781805992126,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\089.Hooded_Merganser\\Hooded_Merganser_0079_796768.jpg",
+      "mean_similarity": 0.944126546382904,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\089.Hooded_Merganser\\Hooded_Merganser_0058_796770.jpg",
+      "mean_similarity": 0.9432128071784973,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\089.Hooded_Merganser\\Hooded_Merganser_0093_79075.jpg",
+      "mean_similarity": 0.9429507255554199,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\089.Hooded_Merganser\\Hooded_Merganser_0085_79146.jpg",
+      "mean_similarity": 0.9417209029197693,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\089.Hooded_Merganser\\Hooded_Merganser_0066_796755.jpg",
+      "mean_similarity": 0.9407554864883423,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\089.Hooded_Merganser\\Hooded_Merganser_0006_796778.jpg",
+      "mean_similarity": 0.9368959665298462,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\089.Hooded_Merganser\\Hooded_Merganser_0034_796762.jpg",
+      "mean_similarity": 0.9359939694404602,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\089.Hooded_Merganser\\Hooded_Merganser_0014_796739.jpg",
+      "mean_similarity": 0.9333940744400024,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\089.Hooded_Merganser\\Hooded_Merganser_0075_78977.jpg",
+      "mean_similarity": 0.9237785339355469,
+      "rank": 30
+    }
+  ]
+}

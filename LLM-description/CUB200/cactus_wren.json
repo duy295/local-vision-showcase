@@ -1,0 +1,26 @@
+{
+  "class_name": "Bird",
+  "global_description": "A medium-sized bird with a rounded body and a long tail. It has a speckled brown and white plumage with a distinctive white eyebrow stripe. The wings and back are brown with black spots, and the underparts are lighter with streaks. The beak is long and slightly curved.",
+  "discriminative_attributes": [
+    "Speckled brown and white plumage",
+    "Distinctive white eyebrow stripe",
+    "Long slightly curved beak",
+    "Brown wings with black spots",
+    "Long tail"
+  ],
+  "part_details": {
+    "head": "Rounded with a white eyebrow stripe and speckled brown and white feathers.",
+    "beak": "Long, slender, slightly curved, dark in color.",
+    "wings": "Brown with black spots, medium length.",
+    "tail": "Long, brown, slightly rounded.",
+    "underparts": "Light brown with darker streaks."
+  },
+  "spatial_relations": [
+    "The white eyebrow stripe runs above the eye.",
+    "The long tail extends from the rounded body.",
+    "The wings are positioned on either side of the body.",
+    "The beak protrudes from the front of the head."
+  ],
+  "original_dataset_key": "CUB200",
+  "original_class_key": "cactus_wren"
+}

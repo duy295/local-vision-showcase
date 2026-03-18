@@ -1,0 +1,25 @@
+{
+  "class_name": "baby",
+  "global_description": "Small human with soft, rounded body, smooth skin, typically light in color, large head with fine hair, small limbs, and delicate features.",
+  "discriminative_attributes": [
+    "Soft, smooth skin",
+    "Large head",
+    "Fine hair",
+    "Small limbs",
+    "Delicate features"
+  ],
+  "part_details": {
+    "head": "Large with fine hair and delicate features",
+    "body": "Small, rounded, and soft",
+    "limbs": "Short and small",
+    "skin": "Smooth and soft",
+    "eyes": "Large and expressive"
+  },
+  "spatial_relations": [
+    "Head larger relative to body",
+    "Limbs attached to body",
+    "Eyes positioned on head"
+  ],
+  "original_dataset_key": "cifar100",
+  "original_class_key": "baby"
+}

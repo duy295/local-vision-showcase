@@ -1,0 +1,25 @@
+{
+  "class_name": "beacon",
+  "global_description": "Tall, cylindrical structure, often metallic or concrete, with a light or signal at the top. Typically painted in bright colors like red or white for visibility. Used for navigation or marking locations.",
+  "discriminative_attributes": [
+    "Cylindrical shape",
+    "Light or signal on top",
+    "Bright colors",
+    "Tall structure",
+    "Metallic or concrete material"
+  ],
+  "part_details": {
+    "base": "Sturdy, often wide for stability, made of concrete or metal",
+    "shaft": "Tall, cylindrical, painted in bright colors",
+    "light": "Located at the top, often enclosed in a glass or plastic cover",
+    "paint": "Bright colors like red or white for visibility",
+    "material": "Metallic or concrete"
+  },
+  "spatial_relations": [
+    "Light positioned at top of shaft",
+    "Shaft extends upward from base",
+    "Base supports entire structure"
+  ],
+  "original_dataset_key": "ImageNetR",
+  "original_class_key": "beacon"
+}

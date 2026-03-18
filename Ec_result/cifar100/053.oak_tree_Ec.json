@@ -1,0 +1,1259 @@
+{
+  "class_name": "oak_tree",
+  "class_idx": 52,
+  "num_images_in_class": 500,
+  "ec_size_requested": 250,
+  "ec_size_actual": 250,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\shumard_oak_s_000251.png",
+      "mean_similarity": 0.9503726959228516,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\live_oak_s_000015.png",
+      "mean_similarity": 0.9503076076507568,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\quercus_coccinea_s_000497.png",
+      "mean_similarity": 0.9503035545349121,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\quercus_bicolor_s_000622.png",
+      "mean_similarity": 0.9502776265144348,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\northern_red_oak_s_000344.png",
+      "mean_similarity": 0.9502276182174683,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\oak_tree_s_000660.png",
+      "mean_similarity": 0.9502191543579102,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\quercus_coccinea_s_000375.png",
+      "mean_similarity": 0.9501850008964539,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\scarlet_oak_s_000537.png",
+      "mean_similarity": 0.9501710534095764,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\quercus_sessiliflora_s_000028.png",
+      "mean_similarity": 0.9501627683639526,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\laurel_oak_s_000259.png",
+      "mean_similarity": 0.9501539468765259,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\quercus_bicolor_s_000536.png",
+      "mean_similarity": 0.9501469135284424,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\quercus_petraea_s_000601.png",
+      "mean_similarity": 0.9501299858093262,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\quercus_robur_s_001003.png",
+      "mean_similarity": 0.9501087069511414,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\swamp_white_oak_s_000528.png",
+      "mean_similarity": 0.9500898718833923,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\quercus_lobata_s_000003.png",
+      "mean_similarity": 0.9500812888145447,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\northern_red_oak_s_000923.png",
+      "mean_similarity": 0.9500808715820312,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\oak_tree_s_000331.png",
+      "mean_similarity": 0.9500797986984253,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\quercus_agrifolia_s_000008.png",
+      "mean_similarity": 0.9500651955604553,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\quercus_rubra_s_001502.png",
+      "mean_similarity": 0.9500623941421509,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\quercus_rubra_s_001493.png",
+      "mean_similarity": 0.9500437378883362,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\coast_live_oak_s_001328.png",
+      "mean_similarity": 0.9500306844711304,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\quercus_bicolor_s_000086.png",
+      "mean_similarity": 0.9500276446342468,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\oak_tree_s_000292.png",
+      "mean_similarity": 0.9500237107276917,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\oregon_white_oak_s_000121.png",
+      "mean_similarity": 0.9500235915184021,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\english_oak_s_000356.png",
+      "mean_similarity": 0.9500136971473694,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\quercus_virginiana_s_000118.png",
+      "mean_similarity": 0.9500091671943665,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\interior_live_oak_s_000100.png",
+      "mean_similarity": 0.9499966502189636,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\oak_tree_s_001158.png",
+      "mean_similarity": 0.9499946236610413,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\oak_tree_s_002035.png",
+      "mean_similarity": 0.9499786496162415,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\oak_tree_s_000644.png",
+      "mean_similarity": 0.9499781131744385,
+      "rank": 30
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\common_oak_s_000751.png",
+      "mean_similarity": 0.9499621987342834,
+      "rank": 31
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\quercus_virginiana_s_000832.png",
+      "mean_similarity": 0.9499586224555969,
+      "rank": 32
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\quercus_robur_s_000717.png",
+      "mean_similarity": 0.9499567151069641,
+      "rank": 33
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\oak_tree_s_000011.png",
+      "mean_similarity": 0.9499557018280029,
+      "rank": 34
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\quercus_lobata_s_000312.png",
+      "mean_similarity": 0.9499527812004089,
+      "rank": 35
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\quercus_rubra_s_000867.png",
+      "mean_similarity": 0.9499373435974121,
+      "rank": 36
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\quercus_garryana_s_000158.png",
+      "mean_similarity": 0.9499367475509644,
+      "rank": 37
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\quercus_virginiana_s_000973.png",
+      "mean_similarity": 0.9499313831329346,
+      "rank": 38
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\quercus_rubra_s_000280.png",
+      "mean_similarity": 0.9499212503433228,
+      "rank": 39
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\oak_tree_s_001590.png",
+      "mean_similarity": 0.9499123096466064,
+      "rank": 40
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\quercus_robur_s_000977.png",
+      "mean_similarity": 0.9498922228813171,
+      "rank": 41
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\quercus_robur_s_001230.png",
+      "mean_similarity": 0.94987952709198,
+      "rank": 42
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\oak_tree_s_001014.png",
+      "mean_similarity": 0.9498688578605652,
+      "rank": 43
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\southern_live_oak_s_000004.png",
+      "mean_similarity": 0.9498630166053772,
+      "rank": 44
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\quercus_rubra_s_000446.png",
+      "mean_similarity": 0.9498602747917175,
+      "rank": 45
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\quercus_cerris_s_000423.png",
+      "mean_similarity": 0.9498544931411743,
+      "rank": 46
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\swamp_white_oak_s_000622.png",
+      "mean_similarity": 0.949851930141449,
+      "rank": 47
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\common_oak_s_000119.png",
+      "mean_similarity": 0.9498490691184998,
+      "rank": 48
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\oak_tree_s_000194.png",
+      "mean_similarity": 0.9498304724693298,
+      "rank": 49
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\shingle_oak_s_000218.png",
+      "mean_similarity": 0.949828565120697,
+      "rank": 50
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\swamp_red_oak_s_000152.png",
+      "mean_similarity": 0.9498213529586792,
+      "rank": 51
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\southern_live_oak_s_000195.png",
+      "mean_similarity": 0.94981849193573,
+      "rank": 52
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\oak_tree_s_000521.png",
+      "mean_similarity": 0.9498125910758972,
+      "rank": 53
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\quercus_bicolor_s_000613.png",
+      "mean_similarity": 0.9497766494750977,
+      "rank": 54
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\quercus_garryana_s_000006.png",
+      "mean_similarity": 0.9497655630111694,
+      "rank": 55
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\oak_tree_s_001338.png",
+      "mean_similarity": 0.9497493505477905,
+      "rank": 56
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\quercus_petraea_s_001000.png",
+      "mean_similarity": 0.949749231338501,
+      "rank": 57
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\quercus_bicolor_s_000516.png",
+      "mean_similarity": 0.9497306942939758,
+      "rank": 58
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\oak_tree_s_001512.png",
+      "mean_similarity": 0.9497277140617371,
+      "rank": 59
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\durmast_s_000043.png",
+      "mean_similarity": 0.9497230648994446,
+      "rank": 60
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\quercus_rubra_s_001512.png",
+      "mean_similarity": 0.9497135281562805,
+      "rank": 61
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\oak_tree_s_001547.png",
+      "mean_similarity": 0.9497129917144775,
+      "rank": 62
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\english_oak_s_000230.png",
+      "mean_similarity": 0.9497056007385254,
+      "rank": 63
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\quercus_agrifolia_s_000430.png",
+      "mean_similarity": 0.9497056007385254,
+      "rank": 64
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\quercus_robur_s_001757.png",
+      "mean_similarity": 0.9496954679489136,
+      "rank": 65
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\oak_tree_s_000980.png",
+      "mean_similarity": 0.949683427810669,
+      "rank": 66
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\quercus_bicolor_s_000621.png",
+      "mean_similarity": 0.9496786594390869,
+      "rank": 67
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\oak_tree_s_001683.png",
+      "mean_similarity": 0.9496734142303467,
+      "rank": 68
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\quercus_petraea_s_000810.png",
+      "mean_similarity": 0.9496731162071228,
+      "rank": 69
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\laurel_oak_s_000022.png",
+      "mean_similarity": 0.9496573805809021,
+      "rank": 70
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\roble_s_000247.png",
+      "mean_similarity": 0.9496428370475769,
+      "rank": 71
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\quercus_robur_s_000344.png",
+      "mean_similarity": 0.9496370553970337,
+      "rank": 72
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\oak_tree_s_001451.png",
+      "mean_similarity": 0.9496285915374756,
+      "rank": 73
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\quercus_rubra_s_000419.png",
+      "mean_similarity": 0.9496187567710876,
+      "rank": 74
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\quercus_virginiana_s_000090.png",
+      "mean_similarity": 0.9496144652366638,
+      "rank": 75
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\quercus_imbricaria_s_000435.png",
+      "mean_similarity": 0.9496122002601624,
+      "rank": 76
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\shumard_oak_s_001017.png",
+      "mean_similarity": 0.9496074914932251,
+      "rank": 77
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\oak_tree_s_001666.png",
+      "mean_similarity": 0.9496050477027893,
+      "rank": 78
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\quercus_virginiana_s_000426.png",
+      "mean_similarity": 0.9496018290519714,
+      "rank": 79
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\northern_red_oak_s_001203.png",
+      "mean_similarity": 0.9496015906333923,
+      "rank": 80
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\quercus_rubra_s_001198.png",
+      "mean_similarity": 0.9495981335639954,
+      "rank": 81
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\shumard_oak_s_000896.png",
+      "mean_similarity": 0.9495975971221924,
+      "rank": 82
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\quercus_rubra_s_000034.png",
+      "mean_similarity": 0.9495821595191956,
+      "rank": 83
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\oak_tree_s_000953.png",
+      "mean_similarity": 0.9495799541473389,
+      "rank": 84
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\swamp_red_oak_s_000068.png",
+      "mean_similarity": 0.9495765566825867,
+      "rank": 85
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\quercus_shumardii_s_000743.png",
+      "mean_similarity": 0.9495754837989807,
+      "rank": 86
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\live_oak_s_000029.png",
+      "mean_similarity": 0.949573814868927,
+      "rank": 87
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\oak_tree_s_000134.png",
+      "mean_similarity": 0.9495670199394226,
+      "rank": 88
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\common_oak_s_000035.png",
+      "mean_similarity": 0.9495441317558289,
+      "rank": 89
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\quercus_virginiana_s_000301.png",
+      "mean_similarity": 0.9495431780815125,
+      "rank": 90
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\quercus_robur_s_001083.png",
+      "mean_similarity": 0.9495400786399841,
+      "rank": 91
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\laurel_oak_s_000003.png",
+      "mean_similarity": 0.9495370388031006,
+      "rank": 92
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\interior_live_oak_s_000263.png",
+      "mean_similarity": 0.9495290517807007,
+      "rank": 93
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\swamp_white_oak_s_000494.png",
+      "mean_similarity": 0.9495285749435425,
+      "rank": 94
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\quercus_robur_s_000881.png",
+      "mean_similarity": 0.9495213627815247,
+      "rank": 95
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\quercus_cerris_s_000533.png",
+      "mean_similarity": 0.949519157409668,
+      "rank": 96
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\quercus_rubra_s_000266.png",
+      "mean_similarity": 0.9495119452476501,
+      "rank": 97
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\common_oak_s_001005.png",
+      "mean_similarity": 0.9494960308074951,
+      "rank": 98
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\quercus_petraea_s_000846.png",
+      "mean_similarity": 0.949493944644928,
+      "rank": 99
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\english_oak_s_000107.png",
+      "mean_similarity": 0.9494937062263489,
+      "rank": 100
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\roble_s_000590.png",
+      "mean_similarity": 0.9494867324829102,
+      "rank": 101
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\quercus_robur_s_001343.png",
+      "mean_similarity": 0.949478805065155,
+      "rank": 102
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\quercus_robur_s_000327.png",
+      "mean_similarity": 0.9494723081588745,
+      "rank": 103
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\oak_tree_s_000024.png",
+      "mean_similarity": 0.9494687914848328,
+      "rank": 104
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\english_oak_s_000592.png",
+      "mean_similarity": 0.9494624137878418,
+      "rank": 105
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\quercus_alba_s_000257.png",
+      "mean_similarity": 0.9494593739509583,
+      "rank": 106
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\common_oak_s_001063.png",
+      "mean_similarity": 0.9494490623474121,
+      "rank": 107
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\scarlet_oak_s_000079.png",
+      "mean_similarity": 0.9494478702545166,
+      "rank": 108
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\quercus_robur_s_000001.png",
+      "mean_similarity": 0.9494472742080688,
+      "rank": 109
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\oak_tree_s_000637.png",
+      "mean_similarity": 0.9494403600692749,
+      "rank": 110
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\english_oak_s_000648.png",
+      "mean_similarity": 0.9494152069091797,
+      "rank": 111
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\california_white_oak_s_000128.png",
+      "mean_similarity": 0.9494114518165588,
+      "rank": 112
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\roble_s_000522.png",
+      "mean_similarity": 0.9494006633758545,
+      "rank": 113
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\quercus_chrysolepis_s_000101.png",
+      "mean_similarity": 0.9493786692619324,
+      "rank": 114
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\quercus_lobata_s_000046.png",
+      "mean_similarity": 0.9493625164031982,
+      "rank": 115
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\southern_red_oak_s_000092.png",
+      "mean_similarity": 0.9493551254272461,
+      "rank": 116
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\quercus_cerris_s_000530.png",
+      "mean_similarity": 0.9493453502655029,
+      "rank": 117
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\roble_s_000327.png",
+      "mean_similarity": 0.9493410587310791,
+      "rank": 118
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\coast_live_oak_s_001068.png",
+      "mean_similarity": 0.9493407607078552,
+      "rank": 119
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\quercus_agrifolia_s_000120.png",
+      "mean_similarity": 0.9493356347084045,
+      "rank": 120
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\quercus_imbricaria_s_000154.png",
+      "mean_similarity": 0.9493200182914734,
+      "rank": 121
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\oak_tree_s_001393.png",
+      "mean_similarity": 0.9493159651756287,
+      "rank": 122
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\shumard_oak_s_000083.png",
+      "mean_similarity": 0.9493153691291809,
+      "rank": 123
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\coast_live_oak_s_000016.png",
+      "mean_similarity": 0.9493132829666138,
+      "rank": 124
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\oak_tree_s_000252.png",
+      "mean_similarity": 0.949309766292572,
+      "rank": 125
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\oak_tree_s_000484.png",
+      "mean_similarity": 0.9492729306221008,
+      "rank": 126
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\valley_oak_s_000296.png",
+      "mean_similarity": 0.9492681622505188,
+      "rank": 127
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\oak_tree_s_000098.png",
+      "mean_similarity": 0.9492666125297546,
+      "rank": 128
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\oak_tree_s_000149.png",
+      "mean_similarity": 0.9492663145065308,
+      "rank": 129
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\shumard_red_oak_s_000073.png",
+      "mean_similarity": 0.9492571949958801,
+      "rank": 130
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\quercus_rubra_s_001371.png",
+      "mean_similarity": 0.9492565989494324,
+      "rank": 131
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\quercus_robur_s_000309.png",
+      "mean_similarity": 0.9492379426956177,
+      "rank": 132
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\common_oak_s_000511.png",
+      "mean_similarity": 0.949237585067749,
+      "rank": 133
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\quercus_virginiana_s_000006.png",
+      "mean_similarity": 0.9492325782775879,
+      "rank": 134
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\maul_oak_s_000012.png",
+      "mean_similarity": 0.9492287039756775,
+      "rank": 135
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\oak_tree_s_002043.png",
+      "mean_similarity": 0.9492269158363342,
+      "rank": 136
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\pedunculate_oak_s_000246.png",
+      "mean_similarity": 0.9492252469062805,
+      "rank": 137
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\quercus_cerris_s_000006.png",
+      "mean_similarity": 0.9492185115814209,
+      "rank": 138
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\quercus_agrifolia_s_000215.png",
+      "mean_similarity": 0.9492006301879883,
+      "rank": 139
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\common_oak_s_000464.png",
+      "mean_similarity": 0.9491956233978271,
+      "rank": 140
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\quercus_garryana_s_000357.png",
+      "mean_similarity": 0.949190080165863,
+      "rank": 141
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\quercus_garryana_s_000354.png",
+      "mean_similarity": 0.9491861462593079,
+      "rank": 142
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\quercus_virginiana_s_000243.png",
+      "mean_similarity": 0.9491843581199646,
+      "rank": 143
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\northern_red_oak_s_000381.png",
+      "mean_similarity": 0.9491806626319885,
+      "rank": 144
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\quercus_rubra_s_000779.png",
+      "mean_similarity": 0.9491787552833557,
+      "rank": 145
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\quercus_cerris_s_000224.png",
+      "mean_similarity": 0.9491666555404663,
+      "rank": 146
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\coast_live_oak_s_000011.png",
+      "mean_similarity": 0.949164092540741,
+      "rank": 147
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\oak_tree_s_000456.png",
+      "mean_similarity": 0.9491579532623291,
+      "rank": 148
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\interior_live_oak_s_000013.png",
+      "mean_similarity": 0.9491574764251709,
+      "rank": 149
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\shumard_oak_s_000033.png",
+      "mean_similarity": 0.9491448998451233,
+      "rank": 150
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\quercus_borealis_s_000020.png",
+      "mean_similarity": 0.9491288065910339,
+      "rank": 151
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\oregon_white_oak_s_000218.png",
+      "mean_similarity": 0.9491265416145325,
+      "rank": 152
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\white_oak_s_000310.png",
+      "mean_similarity": 0.9491257071495056,
+      "rank": 153
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\quercus_virginiana_s_000100.png",
+      "mean_similarity": 0.9491242170333862,
+      "rank": 154
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\quercus_rubra_s_001208.png",
+      "mean_similarity": 0.9491101503372192,
+      "rank": 155
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\quercus_rubra_s_001039.png",
+      "mean_similarity": 0.9491096138954163,
+      "rank": 156
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\red_oak_s_000005.png",
+      "mean_similarity": 0.9491079449653625,
+      "rank": 157
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\quercus_rubra_s_001427.png",
+      "mean_similarity": 0.9491022229194641,
+      "rank": 158
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\quercus_coccinea_s_000018.png",
+      "mean_similarity": 0.9490990042686462,
+      "rank": 159
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\oak_tree_s_001195.png",
+      "mean_similarity": 0.9490967988967896,
+      "rank": 160
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\quercus_robur_s_001413.png",
+      "mean_similarity": 0.9490944147109985,
+      "rank": 161
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\scarlet_oak_s_000125.png",
+      "mean_similarity": 0.9490939974784851,
+      "rank": 162
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\oak_tree_s_001509.png",
+      "mean_similarity": 0.9490834474563599,
+      "rank": 163
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\oak_tree_s_000106.png",
+      "mean_similarity": 0.9490804672241211,
+      "rank": 164
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\shumard_red_oak_s_000087.png",
+      "mean_similarity": 0.9490677118301392,
+      "rank": 165
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\oak_tree_s_002294.png",
+      "mean_similarity": 0.9490651488304138,
+      "rank": 166
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\quercus_rubra_s_001202.png",
+      "mean_similarity": 0.9490646719932556,
+      "rank": 167
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\roble_s_000002.png",
+      "mean_similarity": 0.949053168296814,
+      "rank": 168
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\quercus_robur_s_000430.png",
+      "mean_similarity": 0.9490330815315247,
+      "rank": 169
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\quercus_lobata_s_000116.png",
+      "mean_similarity": 0.949032723903656,
+      "rank": 170
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\quercus_rubra_s_000111.png",
+      "mean_similarity": 0.9490261077880859,
+      "rank": 171
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\english_oak_s_000013.png",
+      "mean_similarity": 0.9490194916725159,
+      "rank": 172
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\quercus_lobata_s_000009.png",
+      "mean_similarity": 0.949010968208313,
+      "rank": 173
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\quercus_garryana_s_000456.png",
+      "mean_similarity": 0.9490082859992981,
+      "rank": 174
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\white_oak_s_000021.png",
+      "mean_similarity": 0.9489967823028564,
+      "rank": 175
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\oak_tree_s_000233.png",
+      "mean_similarity": 0.9489939212799072,
+      "rank": 176
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\oak_tree_s_001427.png",
+      "mean_similarity": 0.9489922523498535,
+      "rank": 177
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\quercus_robur_s_000385.png",
+      "mean_similarity": 0.9489821195602417,
+      "rank": 178
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\live_oak_s_000063.png",
+      "mean_similarity": 0.9489722847938538,
+      "rank": 179
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\shumard_oak_s_000086.png",
+      "mean_similarity": 0.9489721655845642,
+      "rank": 180
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\quercus_ellipsoidalis_s_000082.png",
+      "mean_similarity": 0.9489718675613403,
+      "rank": 181
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\quercus_rubra_s_001743.png",
+      "mean_similarity": 0.9489636421203613,
+      "rank": 182
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\quercus_lobata_s_000204.png",
+      "mean_similarity": 0.9489632248878479,
+      "rank": 183
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\quercus_rubra_s_000164.png",
+      "mean_similarity": 0.9489595890045166,
+      "rank": 184
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\roble_s_000061.png",
+      "mean_similarity": 0.9489583969116211,
+      "rank": 185
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\oak_tree_s_000490.png",
+      "mean_similarity": 0.9489502906799316,
+      "rank": 186
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\swamp_red_oak_s_000030.png",
+      "mean_similarity": 0.9489426016807556,
+      "rank": 187
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\shumard_oak_s_000478.png",
+      "mean_similarity": 0.9489390254020691,
+      "rank": 188
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\quercus_virginiana_s_000114.png",
+      "mean_similarity": 0.9489375352859497,
+      "rank": 189
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\quercus_robur_s_001499.png",
+      "mean_similarity": 0.948932409286499,
+      "rank": 190
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\oak_tree_s_000017.png",
+      "mean_similarity": 0.9489298462867737,
+      "rank": 191
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\oak_tree_s_001061.png",
+      "mean_similarity": 0.9489272832870483,
+      "rank": 192
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\shumard_oak_s_000011.png",
+      "mean_similarity": 0.9489198327064514,
+      "rank": 193
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\scarlet_oak_s_000459.png",
+      "mean_similarity": 0.948918342590332,
+      "rank": 194
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\quercus_petraea_s_000694.png",
+      "mean_similarity": 0.9489078521728516,
+      "rank": 195
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\swamp_white_oak_s_000002.png",
+      "mean_similarity": 0.9489001631736755,
+      "rank": 196
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\pedunculate_oak_s_000202.png",
+      "mean_similarity": 0.9488775134086609,
+      "rank": 197
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\quercus_garryana_s_000505.png",
+      "mean_similarity": 0.9488727450370789,
+      "rank": 198
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\oak_tree_s_000241.png",
+      "mean_similarity": 0.9488591551780701,
+      "rank": 199
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\common_oak_s_000425.png",
+      "mean_similarity": 0.9488482475280762,
+      "rank": 200
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\oak_tree_s_000168.png",
+      "mean_similarity": 0.9488263726234436,
+      "rank": 201
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\quercus_robur_s_000234.png",
+      "mean_similarity": 0.9488044381141663,
+      "rank": 202
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\garry_oak_s_000294.png",
+      "mean_similarity": 0.948798418045044,
+      "rank": 203
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\shingle_oak_s_000248.png",
+      "mean_similarity": 0.9487940669059753,
+      "rank": 204
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\quercus_petraea_s_000778.png",
+      "mean_similarity": 0.9487919211387634,
+      "rank": 205
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\common_oak_s_000781.png",
+      "mean_similarity": 0.9487802386283875,
+      "rank": 206
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\shumard_oak_s_000087.png",
+      "mean_similarity": 0.9487681984901428,
+      "rank": 207
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\quercus_robur_s_001772.png",
+      "mean_similarity": 0.9487665891647339,
+      "rank": 208
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\california_live_oak_s_000122.png",
+      "mean_similarity": 0.9487577676773071,
+      "rank": 209
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\quercus_robur_s_000962.png",
+      "mean_similarity": 0.948752760887146,
+      "rank": 210
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\quercus_wislizenii_s_000034.png",
+      "mean_similarity": 0.9487504959106445,
+      "rank": 211
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\quercus_robur_s_000415.png",
+      "mean_similarity": 0.9487490653991699,
+      "rank": 212
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\quercus_virginiana_s_000892.png",
+      "mean_similarity": 0.9487439393997192,
+      "rank": 213
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\coast_live_oak_s_000204.png",
+      "mean_similarity": 0.9487437009811401,
+      "rank": 214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\oak_tree_s_001004.png",
+      "mean_similarity": 0.9487432241439819,
+      "rank": 215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\quercus_rubra_s_001344.png",
+      "mean_similarity": 0.9487268328666687,
+      "rank": 216
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\oak_tree_s_002082.png",
+      "mean_similarity": 0.9487144947052002,
+      "rank": 217
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\quercus_rubra_s_000756.png",
+      "mean_similarity": 0.9487069845199585,
+      "rank": 218
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\live_oak_s_000398.png",
+      "mean_similarity": 0.9487054347991943,
+      "rank": 219
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\quercus_bicolor_s_000061.png",
+      "mean_similarity": 0.9486988186836243,
+      "rank": 220
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\quercus_shumardii_s_000022.png",
+      "mean_similarity": 0.9486886858940125,
+      "rank": 221
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\northern_pin_oak_s_000090.png",
+      "mean_similarity": 0.948684573173523,
+      "rank": 222
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\quercus_robur_s_000589.png",
+      "mean_similarity": 0.9486789107322693,
+      "rank": 223
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\common_oak_s_000788.png",
+      "mean_similarity": 0.9486581087112427,
+      "rank": 224
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\oak_tree_s_000348.png",
+      "mean_similarity": 0.9486504793167114,
+      "rank": 225
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\live_oak_s_000267.png",
+      "mean_similarity": 0.9486491680145264,
+      "rank": 226
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\quercus_virginiana_s_000144.png",
+      "mean_similarity": 0.9486358165740967,
+      "rank": 227
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\quercus_petraea_s_001027.png",
+      "mean_similarity": 0.9486314654350281,
+      "rank": 228
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\quercus_agrifolia_s_000487.png",
+      "mean_similarity": 0.9486310482025146,
+      "rank": 229
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\quercus_coccinea_s_000487.png",
+      "mean_similarity": 0.9486169815063477,
+      "rank": 230
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\roble_s_000105.png",
+      "mean_similarity": 0.9485864043235779,
+      "rank": 231
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\quercus_robur_s_000627.png",
+      "mean_similarity": 0.9485803246498108,
+      "rank": 232
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\quercus_rubra_s_000183.png",
+      "mean_similarity": 0.9485800862312317,
+      "rank": 233
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\canyon_live_oak_s_000159.png",
+      "mean_similarity": 0.9485721588134766,
+      "rank": 234
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\quercus_robur_s_000104.png",
+      "mean_similarity": 0.9485709071159363,
+      "rank": 235
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\english_oak_s_000461.png",
+      "mean_similarity": 0.9485704898834229,
+      "rank": 236
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\quercus_rubra_s_001167.png",
+      "mean_similarity": 0.948569118976593,
+      "rank": 237
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\quercus_lobata_s_000135.png",
+      "mean_similarity": 0.9485527276992798,
+      "rank": 238
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\oak_tree_s_000059.png",
+      "mean_similarity": 0.94855135679245,
+      "rank": 239
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\quercus_rubra_s_000942.png",
+      "mean_similarity": 0.9485407471656799,
+      "rank": 240
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\quercus_rubra_s_001109.png",
+      "mean_similarity": 0.9485337734222412,
+      "rank": 241
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\quercus_alba_s_000009.png",
+      "mean_similarity": 0.9485289454460144,
+      "rank": 242
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\quercus_virginiana_s_000014.png",
+      "mean_similarity": 0.9485100507736206,
+      "rank": 243
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\roble_s_000025.png",
+      "mean_similarity": 0.9485040307044983,
+      "rank": 244
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\shumard_oak_s_000491.png",
+      "mean_similarity": 0.9484969973564148,
+      "rank": 245
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\coast_live_oak_s_000657.png",
+      "mean_similarity": 0.9484965801239014,
+      "rank": 246
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\shumard_oak_s_000058.png",
+      "mean_similarity": 0.9484963417053223,
+      "rank": 247
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\quercus_virginiana_s_000917.png",
+      "mean_similarity": 0.9484962224960327,
+      "rank": 248
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\pedunculate_oak_s_000027.png",
+      "mean_similarity": 0.9484902620315552,
+      "rank": 249
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\053.oak_tree\\northern_red_oak_s_000486.png",
+      "mean_similarity": 0.9484557509422302,
+      "rank": 250
+    }
+  ]
+}

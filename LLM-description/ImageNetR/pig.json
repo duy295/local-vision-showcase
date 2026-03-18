@@ -1,0 +1,26 @@
+{
+  "class_name": "pig",
+  "global_description": "Medium-sized mammal with a stout, rounded body, short legs, and a flat, broad snout. Skin is typically pink or light brown, often with sparse coarse hair. Ears are floppy and the tail is short and curly.",
+  "discriminative_attributes": [
+    "Stout, rounded body",
+    "Flat, broad snout",
+    "Pink or light brown skin",
+    "Floppy ears",
+    "Short, curly tail"
+  ],
+  "part_details": {
+    "head": "Large with a flat, broad snout and floppy ears",
+    "body": "Stout and rounded, covered in sparse coarse hair",
+    "legs": "Short and sturdy",
+    "tail": "Short and curly",
+    "skin": "Pink or light brown, often with sparse hair"
+  },
+  "spatial_relations": [
+    "Head at front of body",
+    "Legs beneath body",
+    "Tail at rear of body",
+    "Ears on sides of head"
+  ],
+  "original_dataset_key": "ImageNetR",
+  "original_class_key": "pig"
+}

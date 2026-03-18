@@ -1,0 +1,25 @@
+{
+  "class_name": "rabbit",
+  "global_description": "Small mammal with a compact, rounded body, covered in soft fur, typically gray, brown, or white. It has long ears, a short fluffy tail, and strong hind legs for hopping.",
+  "discriminative_attributes": [
+    "Long ears",
+    "Soft fur",
+    "Short fluffy tail",
+    "Strong hind legs",
+    "Compact body"
+  ],
+  "part_details": {
+    "head": "Small with long ears and soft fur",
+    "body": "Compact and rounded, covered in soft fur",
+    "ears": "Long and upright, covered in fur",
+    "legs": "Strong hind legs for hopping",
+    "tail": "Short and fluffy"
+  },
+  "spatial_relations": [
+    "Ears positioned on top of head",
+    "Tail at rear of body",
+    "Hind legs beneath body"
+  ],
+  "original_dataset_key": "ImageNetR",
+  "original_class_key": "rabbit"
+}

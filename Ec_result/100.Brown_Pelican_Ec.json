@@ -1,0 +1,159 @@
+{
+  "class_name": "100.Brown_Pelican",
+  "class_idx": 99,
+  "num_images_in_class": 30,
+  "ec_size_requested": 30,
+  "ec_size_actual": 30,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\100.Brown_Pelican\\Brown_Pelican_0010_94370.jpg",
+      "mean_similarity": 0.9460035562515259,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\100.Brown_Pelican\\Brown_Pelican_0013_93589.jpg",
+      "mean_similarity": 0.9453871250152588,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\100.Brown_Pelican\\Brown_Pelican_0036_93843.jpg",
+      "mean_similarity": 0.945297122001648,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\100.Brown_Pelican\\Brown_Pelican_0139_93995.jpg",
+      "mean_similarity": 0.9448645710945129,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\100.Brown_Pelican\\Brown_Pelican_0007_94078.jpg",
+      "mean_similarity": 0.9447985887527466,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\100.Brown_Pelican\\Brown_Pelican_0067_94529.jpg",
+      "mean_similarity": 0.9447451829910278,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\100.Brown_Pelican\\Brown_Pelican_0080_93439.jpg",
+      "mean_similarity": 0.9440484046936035,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\100.Brown_Pelican\\Brown_Pelican_0111_93872.jpg",
+      "mean_similarity": 0.9436610341072083,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\100.Brown_Pelican\\Brown_Pelican_0085_95053.jpg",
+      "mean_similarity": 0.9431917071342468,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\100.Brown_Pelican\\Brown_Pelican_0121_94067.jpg",
+      "mean_similarity": 0.9425210952758789,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\100.Brown_Pelican\\Brown_Pelican_0118_93475.jpg",
+      "mean_similarity": 0.9418911337852478,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\100.Brown_Pelican\\Brown_Pelican_0140_93438.jpg",
+      "mean_similarity": 0.941855251789093,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\100.Brown_Pelican\\Brown_Pelican_0068_94430.jpg",
+      "mean_similarity": 0.9415874481201172,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\100.Brown_Pelican\\Brown_Pelican_0103_94787.jpg",
+      "mean_similarity": 0.9408633708953857,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\100.Brown_Pelican\\Brown_Pelican_0129_94074.jpg",
+      "mean_similarity": 0.9407444596290588,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\100.Brown_Pelican\\Brown_Pelican_0086_93757.jpg",
+      "mean_similarity": 0.9407335519790649,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\100.Brown_Pelican\\Brown_Pelican_0043_94506.jpg",
+      "mean_similarity": 0.9405467510223389,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\100.Brown_Pelican\\Brown_Pelican_0025_95218.jpg",
+      "mean_similarity": 0.9391779899597168,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\100.Brown_Pelican\\Brown_Pelican_0125_93461.jpg",
+      "mean_similarity": 0.9372586011886597,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\100.Brown_Pelican\\Brown_Pelican_0031_93874.jpg",
+      "mean_similarity": 0.9372025728225708,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\100.Brown_Pelican\\Brown_Pelican_0056_95229.jpg",
+      "mean_similarity": 0.9362161159515381,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\100.Brown_Pelican\\Brown_Pelican_0011_94683.jpg",
+      "mean_similarity": 0.9355282187461853,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\100.Brown_Pelican\\Brown_Pelican_0077_93464.jpg",
+      "mean_similarity": 0.9337460994720459,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\100.Brown_Pelican\\Brown_Pelican_0123_94368.jpg",
+      "mean_similarity": 0.9329993724822998,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\100.Brown_Pelican\\Brown_Pelican_0100_94434.jpg",
+      "mean_similarity": 0.9299165606498718,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\100.Brown_Pelican\\Brown_Pelican_0131_94464.jpg",
+      "mean_similarity": 0.9284172058105469,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\100.Brown_Pelican\\Brown_Pelican_0141_94533.jpg",
+      "mean_similarity": 0.9268413782119751,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\100.Brown_Pelican\\Brown_Pelican_0071_94549.jpg",
+      "mean_similarity": 0.9260745048522949,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\100.Brown_Pelican\\Brown_Pelican_0020_95422.jpg",
+      "mean_similarity": 0.9246214628219604,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\100.Brown_Pelican\\Brown_Pelican_0088_94076.jpg",
+      "mean_similarity": 0.921388566493988,
+      "rank": 30
+    }
+  ]
+}

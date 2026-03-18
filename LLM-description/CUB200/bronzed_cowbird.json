@@ -1,0 +1,24 @@
+{
+  "class_name": "Bronzed Cowbird",
+  "global_description": "A medium-sized bird with a stout body and short tail. It has a glossy, iridescent black plumage with a bronzy sheen, especially on the wings and back. The head is slightly rounded, and the beak is short and conical.",
+  "discriminative_attributes": [
+    "Glossy iridescent black plumage",
+    "Bronzy sheen on wings and back",
+    "Short conical beak",
+    "Stout body",
+    "Short tail"
+  ],
+  "part_details": {
+    "plumage": "Glossy, iridescent black with a bronzy sheen, especially noticeable on the wings and back.",
+    "beak": "Short, conical, and black, suited for seed eating.",
+    "head": "Slightly rounded with a smooth, glossy texture.",
+    "tail": "Short and slightly rounded, matching the body plumage."
+  },
+  "spatial_relations": [
+    "The bronzy sheen is most prominent on the wings and back.",
+    "The short tail extends from the rear of the stout body.",
+    "The conical beak is positioned at the front of the rounded head."
+  ],
+  "original_dataset_key": "CUB200",
+  "original_class_key": "bronzed_cowbird"
+}

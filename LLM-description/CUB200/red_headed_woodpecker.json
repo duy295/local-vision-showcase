@@ -1,0 +1,25 @@
+{
+  "class_name": "Bird",
+  "global_description": "A medium-sized bird with a striking color pattern, featuring a bright red head, a glossy black back, and white underparts. Its wings are black with white patches, creating a bold contrast. The bird has a straight, chisel-like beak and a sturdy body adapted for pecking.",
+  "discriminative_attributes": [
+    "Bright red head",
+    "Glossy black back",
+    "White underparts",
+    "Black wings with white patches",
+    "Straight chisel-like beak"
+  ],
+  "part_details": {
+    "head": "Bright red, smooth, and rounded, covering the entire head.",
+    "back": "Glossy black, sleek, and smooth, extending from the neck to the tail.",
+    "underparts": "White, clean, and smooth, covering the belly and chest.",
+    "wings": "Black with distinct white patches, creating a bold pattern.",
+    "beak": "Straight, pointed, and chisel-like, ideal for pecking."
+  },
+  "spatial_relations": [
+    "The red head is positioned above the white underparts.",
+    "The black wings are attached to the sides of the body.",
+    "The beak extends forward from the front of the head."
+  ],
+  "original_dataset_key": "CUB200",
+  "original_class_key": "red_headed_woodpecker"
+}

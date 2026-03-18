@@ -1,0 +1,26 @@
+{
+  "class_name": "Bird",
+  "global_description": "A medium-sized bird with a sleek, elongated body. It features a striking red cap on its head, a pale face, and a black and white barred back. The underparts are a soft, pale gray with a subtle red wash on the belly. The wings are pointed and the tail is short.",
+  "discriminative_attributes": [
+    "Red cap on head",
+    "Black and white barred back",
+    "Pale face",
+    "Red wash on belly",
+    "Pointed wings"
+  ],
+  "part_details": {
+    "head": "Bright red cap covering the crown and nape, contrasting with a pale face.",
+    "back": "Black and white horizontal barring creating a striped pattern.",
+    "belly": "Soft pale gray with a faint red wash.",
+    "wings": "Pointed with black and white barring.",
+    "tail": "Short and black with white outer feathers."
+  },
+  "spatial_relations": [
+    "The red cap covers the top of the head and nape.",
+    "The barred pattern extends across the back and wings.",
+    "The pale face contrasts with the red cap.",
+    "The red wash is located on the lower belly."
+  ],
+  "original_dataset_key": "CUB200",
+  "original_class_key": "red_bellied_woodpecker"
+}

@@ -1,0 +1,159 @@
+{
+  "class_name": "016.Painted_Bunting",
+  "class_idx": 15,
+  "num_images_in_class": 30,
+  "ec_size_requested": 30,
+  "ec_size_actual": 30,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\016.Painted_Bunting\\Painted_Bunting_0093_15212.jpg",
+      "mean_similarity": 0.948114812374115,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\016.Painted_Bunting\\Painted_Bunting_0046_16535.jpg",
+      "mean_similarity": 0.9471945762634277,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\016.Painted_Bunting\\Painted_Bunting_0087_15232.jpg",
+      "mean_similarity": 0.9463391900062561,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\016.Painted_Bunting\\Painted_Bunting_0001_16585.jpg",
+      "mean_similarity": 0.9458913207054138,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\016.Painted_Bunting\\Painted_Bunting_0028_15205.jpg",
+      "mean_similarity": 0.9451618790626526,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\016.Painted_Bunting\\Painted_Bunting_0086_16540.jpg",
+      "mean_similarity": 0.9449213147163391,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\016.Painted_Bunting\\Painted_Bunting_0084_16531.jpg",
+      "mean_similarity": 0.9443994760513306,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\016.Painted_Bunting\\Painted_Bunting_0056_16599.jpg",
+      "mean_similarity": 0.9436933398246765,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\016.Painted_Bunting\\Painted_Bunting_0070_16515.jpg",
+      "mean_similarity": 0.9436415433883667,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\016.Painted_Bunting\\Painted_Bunting_0025_16722.jpg",
+      "mean_similarity": 0.9428646564483643,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\016.Painted_Bunting\\Painted_Bunting_0076_16765.jpg",
+      "mean_similarity": 0.9428114891052246,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\016.Painted_Bunting\\Painted_Bunting_0034_15207.jpg",
+      "mean_similarity": 0.9424669742584229,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\016.Painted_Bunting\\Painted_Bunting_0079_15197.jpg",
+      "mean_similarity": 0.9421377182006836,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\016.Painted_Bunting\\Painted_Bunting_0050_16670.jpg",
+      "mean_similarity": 0.9421305656433105,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\016.Painted_Bunting\\Painted_Bunting_0100_16735.jpg",
+      "mean_similarity": 0.9416319727897644,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\016.Painted_Bunting\\Painted_Bunting_0002_16887.jpg",
+      "mean_similarity": 0.9413623213768005,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\016.Painted_Bunting\\Painted_Bunting_0083_16587.jpg",
+      "mean_similarity": 0.940120279788971,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\016.Painted_Bunting\\Painted_Bunting_0006_15249.jpg",
+      "mean_similarity": 0.9387542605400085,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\016.Painted_Bunting\\Painted_Bunting_0091_15198.jpg",
+      "mean_similarity": 0.9385637640953064,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\016.Painted_Bunting\\Painted_Bunting_0005_15202.jpg",
+      "mean_similarity": 0.938214898109436,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\016.Painted_Bunting\\Painted_Bunting_0096_15233.jpg",
+      "mean_similarity": 0.9370715618133545,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\016.Painted_Bunting\\Painted_Bunting_0099_16525.jpg",
+      "mean_similarity": 0.9364191889762878,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\016.Painted_Bunting\\Painted_Bunting_0066_15241.jpg",
+      "mean_similarity": 0.9349091649055481,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\016.Painted_Bunting\\Painted_Bunting_0073_16737.jpg",
+      "mean_similarity": 0.9326414465904236,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\016.Painted_Bunting\\Painted_Bunting_0071_15209.jpg",
+      "mean_similarity": 0.9314567446708679,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\016.Painted_Bunting\\Painted_Bunting_0061_16930.jpg",
+      "mean_similarity": 0.9307142496109009,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\016.Painted_Bunting\\Painted_Bunting_0036_16563.jpg",
+      "mean_similarity": 0.9153510332107544,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\016.Painted_Bunting\\Painted_Bunting_0055_15208.jpg",
+      "mean_similarity": 0.9147264361381531,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\016.Painted_Bunting\\Painted_Bunting_0060_15224.jpg",
+      "mean_similarity": 0.9055355787277222,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\016.Painted_Bunting\\Painted_Bunting_0039_15235.jpg",
+      "mean_similarity": 0.7926071286201477,
+      "rank": 30
+    }
+  ]
+}

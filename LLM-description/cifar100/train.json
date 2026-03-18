@@ -1,0 +1,26 @@
+{
+  "class_name": "train",
+  "global_description": "Long, cylindrical vehicle with multiple connected cars, primarily metallic with a sleek, streamlined design. Often features a combination of colors like silver, blue, or red. Windows run along the sides, and the front car may have a distinct nose shape. Wheels are hidden beneath the body, and the roof may have pantographs for electric trains.",
+  "discriminative_attributes": [
+    "Cylindrical shape",
+    "Multiple connected cars",
+    "Streamlined design",
+    "Pantographs on roof",
+    "Hidden wheels"
+  ],
+  "part_details": {
+    "cars": "Long, cylindrical, metallic, connected in series",
+    "windows": "Rows of rectangular windows along sides",
+    "wheels": "Hidden beneath the body, not visible",
+    "roof": "May have pantographs for electric power",
+    "nose": "Distinct, aerodynamic shape at front"
+  },
+  "spatial_relations": [
+    "Cars connected in series",
+    "Windows along sides of cars",
+    "Pantographs on roof",
+    "Nose at front of train"
+  ],
+  "original_dataset_key": "cifar100",
+  "original_class_key": "train"
+}

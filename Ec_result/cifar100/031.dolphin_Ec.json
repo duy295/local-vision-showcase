@@ -1,0 +1,1259 @@
+{
+  "class_name": "dolphin",
+  "class_idx": 30,
+  "num_images_in_class": 500,
+  "ec_size_requested": 250,
+  "ec_size_actual": 250,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\common_dolphin_s_000048.png",
+      "mean_similarity": 0.9482774138450623,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\delphinus_delphis_s_000257.png",
+      "mean_similarity": 0.9482323527336121,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\dolphin_s_000046.png",
+      "mean_similarity": 0.9481023550033569,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\dolphin_s_000038.png",
+      "mean_similarity": 0.9480630159378052,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\delphinus_delphis_s_000673.png",
+      "mean_similarity": 0.948009729385376,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\common_dolphin_s_000654.png",
+      "mean_similarity": 0.9480040669441223,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\common_dolphin_s_000272.png",
+      "mean_similarity": 0.9479894042015076,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\common_dolphin_s_000660.png",
+      "mean_similarity": 0.9479182958602905,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\common_dolphin_s_000124.png",
+      "mean_similarity": 0.9478604793548584,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\common_dolphin_s_000220.png",
+      "mean_similarity": 0.9478538632392883,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\dolphin_s_001516.png",
+      "mean_similarity": 0.9478352665901184,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\atlantic_bottlenose_dolphin_s_000536.png",
+      "mean_similarity": 0.9478318095207214,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\dolphin_s_001315.png",
+      "mean_similarity": 0.9477120637893677,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\delphinus_delphis_s_000794.png",
+      "mean_similarity": 0.9476940035820007,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\delphinus_delphis_s_000016.png",
+      "mean_similarity": 0.9476897120475769,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\dolphin_s_002543.png",
+      "mean_similarity": 0.9476882219314575,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\dolphin_s_000341.png",
+      "mean_similarity": 0.9476770758628845,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\dolphin_s_000058.png",
+      "mean_similarity": 0.947669267654419,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\common_dolphin_s_000687.png",
+      "mean_similarity": 0.9476546049118042,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\dolphin_s_002179.png",
+      "mean_similarity": 0.9476525783538818,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\dolphin_s_000878.png",
+      "mean_similarity": 0.9476473331451416,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\common_dolphin_s_000151.png",
+      "mean_similarity": 0.9476253390312195,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\atlantic_bottlenose_dolphin_s_000378.png",
+      "mean_similarity": 0.9475989937782288,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\dolphin_s_002018.png",
+      "mean_similarity": 0.9475833177566528,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\common_dolphin_s_001739.png",
+      "mean_similarity": 0.9475716948509216,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\delphinus_delphis_s_001240.png",
+      "mean_similarity": 0.9475679993629456,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\dolphin_s_002102.png",
+      "mean_similarity": 0.9475607872009277,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\delphinus_delphis_s_000481.png",
+      "mean_similarity": 0.9475512504577637,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\dolphin_s_002101.png",
+      "mean_similarity": 0.9474926590919495,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\atlantic_bottlenose_dolphin_s_000594.png",
+      "mean_similarity": 0.9474912881851196,
+      "rank": 30
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\common_dolphin_s_000493.png",
+      "mean_similarity": 0.9474874138832092,
+      "rank": 31
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\dolphin_s_000864.png",
+      "mean_similarity": 0.9474636912345886,
+      "rank": 32
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\common_dolphin_s_000885.png",
+      "mean_similarity": 0.9474510550498962,
+      "rank": 33
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\dolphin_s_000026.png",
+      "mean_similarity": 0.947432279586792,
+      "rank": 34
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\atlantic_bottlenose_dolphin_s_000260.png",
+      "mean_similarity": 0.9474250674247742,
+      "rank": 35
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\dolphin_s_001716.png",
+      "mean_similarity": 0.9474172592163086,
+      "rank": 36
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\dolphin_s_001815.png",
+      "mean_similarity": 0.9474040865898132,
+      "rank": 37
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\atlantic_bottlenose_dolphin_s_000265.png",
+      "mean_similarity": 0.9473918676376343,
+      "rank": 38
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\dolphin_s_002111.png",
+      "mean_similarity": 0.9473771452903748,
+      "rank": 39
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\common_dolphin_s_001524.png",
+      "mean_similarity": 0.9473755359649658,
+      "rank": 40
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\common_dolphin_s_000417.png",
+      "mean_similarity": 0.947359561920166,
+      "rank": 41
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\dolphin_s_001019.png",
+      "mean_similarity": 0.9473370909690857,
+      "rank": 42
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\common_dolphin_s_000499.png",
+      "mean_similarity": 0.9473025798797607,
+      "rank": 43
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\delphinus_delphis_s_000013.png",
+      "mean_similarity": 0.9472752213478088,
+      "rank": 44
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\common_dolphin_s_001204.png",
+      "mean_similarity": 0.9472729563713074,
+      "rank": 45
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\common_dolphin_s_000271.png",
+      "mean_similarity": 0.9472707509994507,
+      "rank": 46
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\dolphin_s_001533.png",
+      "mean_similarity": 0.9472452998161316,
+      "rank": 47
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\dolphin_s_001526.png",
+      "mean_similarity": 0.94722980260849,
+      "rank": 48
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\delphinus_delphis_s_000022.png",
+      "mean_similarity": 0.9472056031227112,
+      "rank": 49
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\common_dolphin_s_000695.png",
+      "mean_similarity": 0.9471968412399292,
+      "rank": 50
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\dolphin_s_001789.png",
+      "mean_similarity": 0.9471893310546875,
+      "rank": 51
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\dolphin_s_001014.png",
+      "mean_similarity": 0.947174608707428,
+      "rank": 52
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\dolphin_s_002800.png",
+      "mean_similarity": 0.9471741914749146,
+      "rank": 53
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\dolphin_s_002200.png",
+      "mean_similarity": 0.947173535823822,
+      "rank": 54
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\common_dolphin_s_000069.png",
+      "mean_similarity": 0.9471700191497803,
+      "rank": 55
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\delphinus_delphis_s_000832.png",
+      "mean_similarity": 0.947169840335846,
+      "rank": 56
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\common_dolphin_s_000083.png",
+      "mean_similarity": 0.9471353888511658,
+      "rank": 57
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\atlantic_bottlenose_dolphin_s_000277.png",
+      "mean_similarity": 0.9471266865730286,
+      "rank": 58
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\common_dolphin_s_000137.png",
+      "mean_similarity": 0.9471186399459839,
+      "rank": 59
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\common_dolphin_s_001385.png",
+      "mean_similarity": 0.9471136331558228,
+      "rank": 60
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\delphinus_delphis_s_000712.png",
+      "mean_similarity": 0.9471086859703064,
+      "rank": 61
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\delphinus_delphis_s_000914.png",
+      "mean_similarity": 0.9470887780189514,
+      "rank": 62
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\common_dolphin_s_000511.png",
+      "mean_similarity": 0.9470881819725037,
+      "rank": 63
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\dolphin_s_002808.png",
+      "mean_similarity": 0.947081446647644,
+      "rank": 64
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\dolphin_s_000695.png",
+      "mean_similarity": 0.9470805525779724,
+      "rank": 65
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\delphinus_delphis_s_000057.png",
+      "mean_similarity": 0.9470754861831665,
+      "rank": 66
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\delphinus_delphis_s_000185.png",
+      "mean_similarity": 0.9470692873001099,
+      "rank": 67
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\dolphin_s_002583.png",
+      "mean_similarity": 0.9470405578613281,
+      "rank": 68
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\common_dolphin_s_001233.png",
+      "mean_similarity": 0.9470388889312744,
+      "rank": 69
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\common_dolphin_s_000598.png",
+      "mean_similarity": 0.9470375180244446,
+      "rank": 70
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\atlantic_bottlenose_dolphin_s_000264.png",
+      "mean_similarity": 0.9470330476760864,
+      "rank": 71
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\dolphin_s_000868.png",
+      "mean_similarity": 0.9470306634902954,
+      "rank": 72
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\common_dolphin_s_001538.png",
+      "mean_similarity": 0.9470286965370178,
+      "rank": 73
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\delphinus_delphis_s_000926.png",
+      "mean_similarity": 0.9470227360725403,
+      "rank": 74
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\delphinus_delphis_s_001284.png",
+      "mean_similarity": 0.9470062255859375,
+      "rank": 75
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\common_dolphin_s_001117.png",
+      "mean_similarity": 0.9469677805900574,
+      "rank": 76
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\delphinus_delphis_s_000006.png",
+      "mean_similarity": 0.9469669461250305,
+      "rank": 77
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\atlantic_bottlenose_dolphin_s_000500.png",
+      "mean_similarity": 0.9469655156135559,
+      "rank": 78
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\atlantic_bottlenose_dolphin_s_000547.png",
+      "mean_similarity": 0.9469582438468933,
+      "rank": 79
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\delphinus_delphis_s_000892.png",
+      "mean_similarity": 0.9469279050827026,
+      "rank": 80
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\dolphin_s_000117.png",
+      "mean_similarity": 0.9469044208526611,
+      "rank": 81
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\dolphin_s_000048.png",
+      "mean_similarity": 0.9468968510627747,
+      "rank": 82
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\dolphin_s_001477.png",
+      "mean_similarity": 0.9468882083892822,
+      "rank": 83
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\dolphin_s_002468.png",
+      "mean_similarity": 0.946876585483551,
+      "rank": 84
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\dolphin_s_001348.png",
+      "mean_similarity": 0.9468702077865601,
+      "rank": 85
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\delphinus_delphis_s_000256.png",
+      "mean_similarity": 0.9468528032302856,
+      "rank": 86
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\atlantic_bottlenose_dolphin_s_000403.png",
+      "mean_similarity": 0.9468514919281006,
+      "rank": 87
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\atlantic_bottlenose_dolphin_s_000001.png",
+      "mean_similarity": 0.9468366503715515,
+      "rank": 88
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\common_dolphin_s_001226.png",
+      "mean_similarity": 0.9468340277671814,
+      "rank": 89
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\dolphin_s_000900.png",
+      "mean_similarity": 0.9468278288841248,
+      "rank": 90
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\delphinus_delphis_s_000724.png",
+      "mean_similarity": 0.9468135833740234,
+      "rank": 91
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\delphinus_delphis_s_000517.png",
+      "mean_similarity": 0.9468119740486145,
+      "rank": 92
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\dolphin_s_001128.png",
+      "mean_similarity": 0.9468079805374146,
+      "rank": 93
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\common_dolphin_s_000418.png",
+      "mean_similarity": 0.9468042850494385,
+      "rank": 94
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\common_dolphin_s_001553.png",
+      "mean_similarity": 0.9468033909797668,
+      "rank": 95
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\common_dolphin_s_001847.png",
+      "mean_similarity": 0.9467976689338684,
+      "rank": 96
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\delphinus_delphis_s_001289.png",
+      "mean_similarity": 0.9467905759811401,
+      "rank": 97
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\common_dolphin_s_000321.png",
+      "mean_similarity": 0.9467853307723999,
+      "rank": 98
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\common_dolphin_s_001207.png",
+      "mean_similarity": 0.9467685222625732,
+      "rank": 99
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\common_dolphin_s_000947.png",
+      "mean_similarity": 0.9467644691467285,
+      "rank": 100
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\common_dolphin_s_001135.png",
+      "mean_similarity": 0.9467630386352539,
+      "rank": 101
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\dolphin_s_002151.png",
+      "mean_similarity": 0.9467422366142273,
+      "rank": 102
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\dolphin_s_000857.png",
+      "mean_similarity": 0.9467366337776184,
+      "rank": 103
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\common_dolphin_s_000203.png",
+      "mean_similarity": 0.9467308521270752,
+      "rank": 104
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\delphinus_delphis_s_000465.png",
+      "mean_similarity": 0.9467039108276367,
+      "rank": 105
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\common_dolphin_s_000212.png",
+      "mean_similarity": 0.9466960430145264,
+      "rank": 106
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\delphinus_delphis_s_000838.png",
+      "mean_similarity": 0.9466952681541443,
+      "rank": 107
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\atlantic_bottlenose_dolphin_s_000262.png",
+      "mean_similarity": 0.9466910362243652,
+      "rank": 108
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\common_dolphin_s_000609.png",
+      "mean_similarity": 0.9466854333877563,
+      "rank": 109
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\common_dolphin_s_000281.png",
+      "mean_similarity": 0.9466803073883057,
+      "rank": 110
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\dolphin_s_001431.png",
+      "mean_similarity": 0.9466663002967834,
+      "rank": 111
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\atlantic_bottlenose_dolphin_s_000367.png",
+      "mean_similarity": 0.9466644525527954,
+      "rank": 112
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\dolphin_s_000118.png",
+      "mean_similarity": 0.9466586112976074,
+      "rank": 113
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\dolphin_s_001856.png",
+      "mean_similarity": 0.9466486573219299,
+      "rank": 114
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\dolphin_s_001910.png",
+      "mean_similarity": 0.9466434121131897,
+      "rank": 115
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\delphinus_delphis_s_001203.png",
+      "mean_similarity": 0.9466321468353271,
+      "rank": 116
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\atlantic_bottlenose_dolphin_s_000021.png",
+      "mean_similarity": 0.9466124176979065,
+      "rank": 117
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\common_dolphin_s_000607.png",
+      "mean_similarity": 0.9465986490249634,
+      "rank": 118
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\common_dolphin_s_000650.png",
+      "mean_similarity": 0.9465970993041992,
+      "rank": 119
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\delphinus_delphis_s_000266.png",
+      "mean_similarity": 0.9465849995613098,
+      "rank": 120
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\atlantic_bottlenose_dolphin_s_000197.png",
+      "mean_similarity": 0.9465830326080322,
+      "rank": 121
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\dolphin_s_000950.png",
+      "mean_similarity": 0.9465770125389099,
+      "rank": 122
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\common_dolphin_s_000270.png",
+      "mean_similarity": 0.9465727210044861,
+      "rank": 123
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\atlantic_bottlenose_dolphin_s_000268.png",
+      "mean_similarity": 0.9465569257736206,
+      "rank": 124
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\atlantic_bottlenose_dolphin_s_000083.png",
+      "mean_similarity": 0.9465435743331909,
+      "rank": 125
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\common_dolphin_s_001526.png",
+      "mean_similarity": 0.9465386867523193,
+      "rank": 126
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\dolphin_s_001226.png",
+      "mean_similarity": 0.9465336799621582,
+      "rank": 127
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\common_dolphin_s_001150.png",
+      "mean_similarity": 0.9465293884277344,
+      "rank": 128
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\dolphin_s_000707.png",
+      "mean_similarity": 0.9465197324752808,
+      "rank": 129
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\dolphin_s_002795.png",
+      "mean_similarity": 0.9465093016624451,
+      "rank": 130
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\dolphin_s_002233.png",
+      "mean_similarity": 0.9464771747589111,
+      "rank": 131
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\common_dolphin_s_000894.png",
+      "mean_similarity": 0.94647216796875,
+      "rank": 132
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\common_dolphin_s_000261.png",
+      "mean_similarity": 0.9464696049690247,
+      "rank": 133
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\dolphin_s_000269.png",
+      "mean_similarity": 0.9464670419692993,
+      "rank": 134
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\atlantic_bottlenose_dolphin_s_000466.png",
+      "mean_similarity": 0.9464627504348755,
+      "rank": 135
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\delphinus_delphis_s_000239.png",
+      "mean_similarity": 0.9464583396911621,
+      "rank": 136
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\common_dolphin_s_000549.png",
+      "mean_similarity": 0.9464554190635681,
+      "rank": 137
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\delphinus_delphis_s_000910.png",
+      "mean_similarity": 0.9464536309242249,
+      "rank": 138
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\delphinus_delphis_s_000771.png",
+      "mean_similarity": 0.9464507102966309,
+      "rank": 139
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\atlantic_bottlenose_dolphin_s_000297.png",
+      "mean_similarity": 0.946440577507019,
+      "rank": 140
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\dolphin_s_001674.png",
+      "mean_similarity": 0.9464091658592224,
+      "rank": 141
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\common_dolphin_s_000398.png",
+      "mean_similarity": 0.9464067220687866,
+      "rank": 142
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\dolphin_s_000121.png",
+      "mean_similarity": 0.9464014768600464,
+      "rank": 143
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\common_dolphin_s_001364.png",
+      "mean_similarity": 0.9463958740234375,
+      "rank": 144
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\dolphin_s_000310.png",
+      "mean_similarity": 0.9463664889335632,
+      "rank": 145
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\delphinus_delphis_s_000610.png",
+      "mean_similarity": 0.9463602900505066,
+      "rank": 146
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\delphinus_delphis_s_000736.png",
+      "mean_similarity": 0.9463557600975037,
+      "rank": 147
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\common_dolphin_s_000572.png",
+      "mean_similarity": 0.9463292360305786,
+      "rank": 148
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\delphinus_delphis_s_000908.png",
+      "mean_similarity": 0.9462807774543762,
+      "rank": 149
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\common_dolphin_s_001777.png",
+      "mean_similarity": 0.946275532245636,
+      "rank": 150
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\dolphin_s_000851.png",
+      "mean_similarity": 0.9462636709213257,
+      "rank": 151
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\dolphin_s_000324.png",
+      "mean_similarity": 0.9462598562240601,
+      "rank": 152
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\dolphin_s_000504.png",
+      "mean_similarity": 0.9462095499038696,
+      "rank": 153
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\dolphin_s_000074.png",
+      "mean_similarity": 0.9462080597877502,
+      "rank": 154
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\dolphin_s_002562.png",
+      "mean_similarity": 0.9462035298347473,
+      "rank": 155
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\common_dolphin_s_000012.png",
+      "mean_similarity": 0.9462023377418518,
+      "rank": 156
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\delphinus_delphis_s_000849.png",
+      "mean_similarity": 0.9461865425109863,
+      "rank": 157
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\atlantic_bottlenose_dolphin_s_000129.png",
+      "mean_similarity": 0.9461837410926819,
+      "rank": 158
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\common_dolphin_s_001857.png",
+      "mean_similarity": 0.9461701512336731,
+      "rank": 159
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\dolphin_s_002577.png",
+      "mean_similarity": 0.9461631178855896,
+      "rank": 160
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\common_dolphin_s_000945.png",
+      "mean_similarity": 0.9461521506309509,
+      "rank": 161
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\atlantic_bottlenose_dolphin_s_000098.png",
+      "mean_similarity": 0.9461420774459839,
+      "rank": 162
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\delphinus_delphis_s_000691.png",
+      "mean_similarity": 0.9461337924003601,
+      "rank": 163
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\common_dolphin_s_000753.png",
+      "mean_similarity": 0.9461238384246826,
+      "rank": 164
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\dolphin_s_002801.png",
+      "mean_similarity": 0.9461163878440857,
+      "rank": 165
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\common_dolphin_s_000956.png",
+      "mean_similarity": 0.9461068511009216,
+      "rank": 166
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\common_dolphin_s_001003.png",
+      "mean_similarity": 0.9461007714271545,
+      "rank": 167
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\dolphin_s_000083.png",
+      "mean_similarity": 0.9460682272911072,
+      "rank": 168
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\atlantic_bottlenose_dolphin_s_000524.png",
+      "mean_similarity": 0.9460648894309998,
+      "rank": 169
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\common_dolphin_s_000869.png",
+      "mean_similarity": 0.9460638761520386,
+      "rank": 170
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\dolphin_s_001001.png",
+      "mean_similarity": 0.9460607767105103,
+      "rank": 171
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\dolphin_s_001115.png",
+      "mean_similarity": 0.9460411071777344,
+      "rank": 172
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\common_dolphin_s_001009.png",
+      "mean_similarity": 0.9460305571556091,
+      "rank": 173
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\delphinus_delphis_s_000686.png",
+      "mean_similarity": 0.9459853768348694,
+      "rank": 174
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\common_dolphin_s_001279.png",
+      "mean_similarity": 0.9459813833236694,
+      "rank": 175
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\common_dolphin_s_001801.png",
+      "mean_similarity": 0.9459438920021057,
+      "rank": 176
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\dolphin_s_002680.png",
+      "mean_similarity": 0.9459402561187744,
+      "rank": 177
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\dolphin_s_000088.png",
+      "mean_similarity": 0.9459391236305237,
+      "rank": 178
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\dolphin_s_002343.png",
+      "mean_similarity": 0.9459368586540222,
+      "rank": 179
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\delphinus_delphis_s_000215.png",
+      "mean_similarity": 0.9459354877471924,
+      "rank": 180
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\delphinus_delphis_s_000128.png",
+      "mean_similarity": 0.9459266066551208,
+      "rank": 181
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\dolphin_s_000901.png",
+      "mean_similarity": 0.9459215998649597,
+      "rank": 182
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\delphinus_delphis_s_000752.png",
+      "mean_similarity": 0.945919930934906,
+      "rank": 183
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\dolphin_s_002295.png",
+      "mean_similarity": 0.9458916783332825,
+      "rank": 184
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\dolphin_s_001204.png",
+      "mean_similarity": 0.9458245038986206,
+      "rank": 185
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\common_dolphin_s_000943.png",
+      "mean_similarity": 0.9457962512969971,
+      "rank": 186
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\dolphin_s_000627.png",
+      "mean_similarity": 0.9457839131355286,
+      "rank": 187
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\dolphin_s_002094.png",
+      "mean_similarity": 0.9457708597183228,
+      "rank": 188
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\common_dolphin_s_000944.png",
+      "mean_similarity": 0.9457626342773438,
+      "rank": 189
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\common_dolphin_s_000210.png",
+      "mean_similarity": 0.9457575082778931,
+      "rank": 190
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\dolphin_s_001482.png",
+      "mean_similarity": 0.9457478523254395,
+      "rank": 191
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\dolphin_s_001100.png",
+      "mean_similarity": 0.945746123790741,
+      "rank": 192
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\dolphin_s_001474.png",
+      "mean_similarity": 0.9457405209541321,
+      "rank": 193
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\dolphin_s_002803.png",
+      "mean_similarity": 0.9457321763038635,
+      "rank": 194
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\common_dolphin_s_000508.png",
+      "mean_similarity": 0.9457300901412964,
+      "rank": 195
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\atlantic_bottlenose_dolphin_s_000331.png",
+      "mean_similarity": 0.9457235336303711,
+      "rank": 196
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\dolphin_s_000379.png",
+      "mean_similarity": 0.9457215070724487,
+      "rank": 197
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\atlantic_bottlenose_dolphin_s_000234.png",
+      "mean_similarity": 0.9457207918167114,
+      "rank": 198
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\common_dolphin_s_001715.png",
+      "mean_similarity": 0.9456953406333923,
+      "rank": 199
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\atlantic_bottlenose_dolphin_s_000368.png",
+      "mean_similarity": 0.9456844329833984,
+      "rank": 200
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\delphinus_delphis_s_001107.png",
+      "mean_similarity": 0.9455967545509338,
+      "rank": 201
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\delphinus_delphis_s_001027.png",
+      "mean_similarity": 0.9455881714820862,
+      "rank": 202
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\dolphin_s_000500.png",
+      "mean_similarity": 0.9455755949020386,
+      "rank": 203
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\dolphin_s_001207.png",
+      "mean_similarity": 0.9455711841583252,
+      "rank": 204
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\dolphin_s_000512.png",
+      "mean_similarity": 0.9455608129501343,
+      "rank": 205
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\dolphin_s_002017.png",
+      "mean_similarity": 0.9455408453941345,
+      "rank": 206
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\common_dolphin_s_000673.png",
+      "mean_similarity": 0.9455352425575256,
+      "rank": 207
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\dolphin_s_002147.png",
+      "mean_similarity": 0.9455325603485107,
+      "rank": 208
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\dolphin_s_001005.png",
+      "mean_similarity": 0.9455164074897766,
+      "rank": 209
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\dolphin_s_001103.png",
+      "mean_similarity": 0.9455145597457886,
+      "rank": 210
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\common_dolphin_s_001069.png",
+      "mean_similarity": 0.945483386516571,
+      "rank": 211
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\delphinus_delphis_s_000416.png",
+      "mean_similarity": 0.9454776644706726,
+      "rank": 212
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\delphinus_delphis_s_000235.png",
+      "mean_similarity": 0.9454606175422668,
+      "rank": 213
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\delphinus_delphis_s_000839.png",
+      "mean_similarity": 0.9454464912414551,
+      "rank": 214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\dolphin_s_001800.png",
+      "mean_similarity": 0.945441484451294,
+      "rank": 215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\delphinus_delphis_s_000264.png",
+      "mean_similarity": 0.9454389810562134,
+      "rank": 216
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\delphinus_delphis_s_000183.png",
+      "mean_similarity": 0.9454353451728821,
+      "rank": 217
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\common_dolphin_s_000214.png",
+      "mean_similarity": 0.9454278349876404,
+      "rank": 218
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\common_dolphin_s_001064.png",
+      "mean_similarity": 0.9454150199890137,
+      "rank": 219
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\dolphin_s_000768.png",
+      "mean_similarity": 0.9453608393669128,
+      "rank": 220
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\dolphin_s_001805.png",
+      "mean_similarity": 0.9453363418579102,
+      "rank": 221
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\dolphin_s_000136.png",
+      "mean_similarity": 0.9453255534172058,
+      "rank": 222
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\common_dolphin_s_000685.png",
+      "mean_similarity": 0.9452881813049316,
+      "rank": 223
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\common_dolphin_s_000002.png",
+      "mean_similarity": 0.9452787637710571,
+      "rank": 224
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\delphinus_delphis_s_001280.png",
+      "mean_similarity": 0.9452778697013855,
+      "rank": 225
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\delphinus_delphis_s_000688.png",
+      "mean_similarity": 0.9452720284461975,
+      "rank": 226
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\common_dolphin_s_000235.png",
+      "mean_similarity": 0.9452593922615051,
+      "rank": 227
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\common_dolphin_s_000355.png",
+      "mean_similarity": 0.9452558159828186,
+      "rank": 228
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\common_dolphin_s_000497.png",
+      "mean_similarity": 0.9452507495880127,
+      "rank": 229
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\dolphin_s_002336.png",
+      "mean_similarity": 0.9452190399169922,
+      "rank": 230
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\common_dolphin_s_001093.png",
+      "mean_similarity": 0.9451980590820312,
+      "rank": 231
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\common_dolphin_s_000905.png",
+      "mean_similarity": 0.9451855421066284,
+      "rank": 232
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\dolphin_s_000453.png",
+      "mean_similarity": 0.9451805949211121,
+      "rank": 233
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\common_dolphin_s_001200.png",
+      "mean_similarity": 0.9451613426208496,
+      "rank": 234
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\common_dolphin_s_000244.png",
+      "mean_similarity": 0.9451549053192139,
+      "rank": 235
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\atlantic_bottlenose_dolphin_s_000140.png",
+      "mean_similarity": 0.9451414346694946,
+      "rank": 236
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\dolphin_s_000190.png",
+      "mean_similarity": 0.9451359510421753,
+      "rank": 237
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\dolphin_s_000779.png",
+      "mean_similarity": 0.9451311230659485,
+      "rank": 238
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\dolphin_s_000484.png",
+      "mean_similarity": 0.9451268315315247,
+      "rank": 239
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\dolphin_s_000017.png",
+      "mean_similarity": 0.9451205730438232,
+      "rank": 240
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\dolphin_s_002126.png",
+      "mean_similarity": 0.9451079368591309,
+      "rank": 241
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\atlantic_bottlenose_dolphin_s_000189.png",
+      "mean_similarity": 0.9450928568840027,
+      "rank": 242
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\common_dolphin_s_000512.png",
+      "mean_similarity": 0.9450621008872986,
+      "rank": 243
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\common_dolphin_s_000962.png",
+      "mean_similarity": 0.9450597167015076,
+      "rank": 244
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\dolphin_s_002169.png",
+      "mean_similarity": 0.9450443983078003,
+      "rank": 245
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\atlantic_bottlenose_dolphin_s_000039.png",
+      "mean_similarity": 0.9450319409370422,
+      "rank": 246
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\common_dolphin_s_000397.png",
+      "mean_similarity": 0.9450198411941528,
+      "rank": 247
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\delphinus_delphis_s_000471.png",
+      "mean_similarity": 0.9450179934501648,
+      "rank": 248
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\dolphin_s_002129.png",
+      "mean_similarity": 0.9450096487998962,
+      "rank": 249
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\031.dolphin\\dolphin_s_002052.png",
+      "mean_similarity": 0.9449551701545715,
+      "rank": 250
+    }
+  ]
+}

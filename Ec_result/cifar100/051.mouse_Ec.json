@@ -1,0 +1,1259 @@
+{
+  "class_name": "mouse",
+  "class_idx": 50,
+  "num_images_in_class": 500,
+  "ec_size_requested": 250,
+  "ec_size_actual": 250,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\harvest_mouse_s_000319.png",
+      "mean_similarity": 0.940535306930542,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\mus_musculus_s_000437.png",
+      "mean_similarity": 0.9405012130737305,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\mus_musculus_s_000359.png",
+      "mean_similarity": 0.9399533271789551,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\mus_musculus_s_000265.png",
+      "mean_similarity": 0.9394537210464478,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\harvest_mouse_s_000073.png",
+      "mean_similarity": 0.9394426345825195,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\field_mouse_s_000028.png",
+      "mean_similarity": 0.9393262267112732,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\mus_musculus_s_000314.png",
+      "mean_similarity": 0.9393065571784973,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\harvest_mouse_s_001087.png",
+      "mean_similarity": 0.9390205144882202,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\mus_musculus_s_000255.png",
+      "mean_similarity": 0.9388814568519592,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\mus_musculus_s_000378.png",
+      "mean_similarity": 0.9388280510902405,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\fieldmouse_s_000196.png",
+      "mean_similarity": 0.938809335231781,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\mus_musculus_s_000719.png",
+      "mean_similarity": 0.9387323260307312,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\mus_musculus_s_000371.png",
+      "mean_similarity": 0.9386948943138123,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\house_mouse_s_000308.png",
+      "mean_similarity": 0.9386534690856934,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\harvest_mouse_s_001034.png",
+      "mean_similarity": 0.9385854005813599,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\harvest_mouse_s_000030.png",
+      "mean_similarity": 0.9384648203849792,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\mus_musculus_s_000257.png",
+      "mean_similarity": 0.9384596347808838,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\field_mouse_s_000106.png",
+      "mean_similarity": 0.9384499192237854,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\harvest_mouse_s_001076.png",
+      "mean_similarity": 0.9382932186126709,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\harvest_mouse_s_000096.png",
+      "mean_similarity": 0.9382882118225098,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\harvest_mouse_s_001099.png",
+      "mean_similarity": 0.938255250453949,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\fieldmouse_s_000082.png",
+      "mean_similarity": 0.9382210373878479,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\mus_musculus_s_000092.png",
+      "mean_similarity": 0.9380297660827637,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\mus_musculus_s_001029.png",
+      "mean_similarity": 0.9379690289497375,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\field_mouse_s_000032.png",
+      "mean_similarity": 0.9378748536109924,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\harvest_mouse_s_000113.png",
+      "mean_similarity": 0.9378468990325928,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\mus_musculus_s_000248.png",
+      "mean_similarity": 0.9378092288970947,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\mus_musculus_s_000447.png",
+      "mean_similarity": 0.9377817511558533,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\mus_musculus_s_000309.png",
+      "mean_similarity": 0.9376834034919739,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\mus_musculus_s_000005.png",
+      "mean_similarity": 0.9376493692398071,
+      "rank": 30
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\mus_musculus_s_000980.png",
+      "mean_similarity": 0.9374625086784363,
+      "rank": 31
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\mus_musculus_s_000324.png",
+      "mean_similarity": 0.9374620914459229,
+      "rank": 32
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\mus_musculus_s_000772.png",
+      "mean_similarity": 0.9373902678489685,
+      "rank": 33
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\house_mouse_s_001487.png",
+      "mean_similarity": 0.9373824596405029,
+      "rank": 34
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\field_mouse_s_000013.png",
+      "mean_similarity": 0.9371786713600159,
+      "rank": 35
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\mus_musculus_s_001248.png",
+      "mean_similarity": 0.9371640086174011,
+      "rank": 36
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\mus_musculus_s_000374.png",
+      "mean_similarity": 0.9371232986450195,
+      "rank": 37
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\fieldmouse_s_000176.png",
+      "mean_similarity": 0.9370638132095337,
+      "rank": 38
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\mus_musculus_s_000316.png",
+      "mean_similarity": 0.9369435906410217,
+      "rank": 39
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\harvest_mouse_s_000621.png",
+      "mean_similarity": 0.936851441860199,
+      "rank": 40
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\mus_musculus_s_000239.png",
+      "mean_similarity": 0.9367687106132507,
+      "rank": 41
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\field_mouse_s_000165.png",
+      "mean_similarity": 0.9367511868476868,
+      "rank": 42
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\mus_musculus_s_001160.png",
+      "mean_similarity": 0.9367197751998901,
+      "rank": 43
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\mus_musculus_s_000461.png",
+      "mean_similarity": 0.9367161393165588,
+      "rank": 44
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\mus_musculus_s_000308.png",
+      "mean_similarity": 0.9366278648376465,
+      "rank": 45
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\fieldmouse_s_000197.png",
+      "mean_similarity": 0.9366154074668884,
+      "rank": 46
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\mus_musculus_s_000061.png",
+      "mean_similarity": 0.936570405960083,
+      "rank": 47
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\mus_musculus_s_000668.png",
+      "mean_similarity": 0.936540424823761,
+      "rank": 48
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\harvest_mouse_s_000434.png",
+      "mean_similarity": 0.936510443687439,
+      "rank": 49
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\harvest_mouse_s_001135.png",
+      "mean_similarity": 0.9365066885948181,
+      "rank": 50
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\mus_musculus_s_000931.png",
+      "mean_similarity": 0.936462938785553,
+      "rank": 51
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\mus_musculus_s_001279.png",
+      "mean_similarity": 0.9364477396011353,
+      "rank": 52
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\mus_musculus_s_000630.png",
+      "mean_similarity": 0.9363723397254944,
+      "rank": 53
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\house_mouse_s_000741.png",
+      "mean_similarity": 0.9363618493080139,
+      "rank": 54
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\mus_musculus_s_000318.png",
+      "mean_similarity": 0.9363524317741394,
+      "rank": 55
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\house_mouse_s_000156.png",
+      "mean_similarity": 0.9363354444503784,
+      "rank": 56
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\fieldmouse_s_000078.png",
+      "mean_similarity": 0.9362867474555969,
+      "rank": 57
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\harvest_mouse_s_000133.png",
+      "mean_similarity": 0.9362672567367554,
+      "rank": 58
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\mouse_s_000525.png",
+      "mean_similarity": 0.9360133409500122,
+      "rank": 59
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\mouse_s_000064.png",
+      "mean_similarity": 0.9360027313232422,
+      "rank": 60
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\field_mouse_s_001274.png",
+      "mean_similarity": 0.9358020424842834,
+      "rank": 61
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\house_mouse_s_001493.png",
+      "mean_similarity": 0.9357298612594604,
+      "rank": 62
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\harvest_mouse_s_001042.png",
+      "mean_similarity": 0.9356507062911987,
+      "rank": 63
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\fieldmouse_s_000177.png",
+      "mean_similarity": 0.935587465763092,
+      "rank": 64
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\house_mouse_s_000750.png",
+      "mean_similarity": 0.9355223774909973,
+      "rank": 65
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\mus_musculus_s_000380.png",
+      "mean_similarity": 0.935509443283081,
+      "rank": 66
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\house_mouse_s_000004.png",
+      "mean_similarity": 0.9354805946350098,
+      "rank": 67
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\harvest_mouse_s_001066.png",
+      "mean_similarity": 0.9353972673416138,
+      "rank": 68
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\mus_musculus_s_001283.png",
+      "mean_similarity": 0.9353554844856262,
+      "rank": 69
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\mus_musculus_s_000372.png",
+      "mean_similarity": 0.9353384375572205,
+      "rank": 70
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\harvest_mouse_s_000137.png",
+      "mean_similarity": 0.9353251457214355,
+      "rank": 71
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\house_mouse_s_001514.png",
+      "mean_similarity": 0.9352270364761353,
+      "rank": 72
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\mus_musculus_s_000505.png",
+      "mean_similarity": 0.9352216720581055,
+      "rank": 73
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\harvest_mouse_s_000712.png",
+      "mean_similarity": 0.9352198243141174,
+      "rank": 74
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\field_mouse_s_000017.png",
+      "mean_similarity": 0.9350314736366272,
+      "rank": 75
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\field_mouse_s_001089.png",
+      "mean_similarity": 0.934888482093811,
+      "rank": 76
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\mus_musculus_s_000517.png",
+      "mean_similarity": 0.9348009824752808,
+      "rank": 77
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\mus_musculus_s_000451.png",
+      "mean_similarity": 0.9346909523010254,
+      "rank": 78
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\mus_musculus_s_001089.png",
+      "mean_similarity": 0.9346717000007629,
+      "rank": 79
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\harvest_mouse_s_001105.png",
+      "mean_similarity": 0.9346068501472473,
+      "rank": 80
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\field_mouse_s_000012.png",
+      "mean_similarity": 0.9346050024032593,
+      "rank": 81
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\harvest_mouse_s_000317.png",
+      "mean_similarity": 0.934497058391571,
+      "rank": 82
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\mus_musculus_s_001119.png",
+      "mean_similarity": 0.9344213008880615,
+      "rank": 83
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\house_mouse_s_000117.png",
+      "mean_similarity": 0.9344127774238586,
+      "rank": 84
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\mouse_s_000223.png",
+      "mean_similarity": 0.9344058036804199,
+      "rank": 85
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\house_mouse_s_000818.png",
+      "mean_similarity": 0.9343802332878113,
+      "rank": 86
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\mus_musculus_s_000339.png",
+      "mean_similarity": 0.9342604875564575,
+      "rank": 87
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\field_mouse_s_000780.png",
+      "mean_similarity": 0.934253990650177,
+      "rank": 88
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\harvest_mouse_s_000804.png",
+      "mean_similarity": 0.9342477917671204,
+      "rank": 89
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\fieldmouse_s_000086.png",
+      "mean_similarity": 0.9341654777526855,
+      "rank": 90
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\mus_musculus_s_000584.png",
+      "mean_similarity": 0.9341359734535217,
+      "rank": 91
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\harvest_mouse_s_001251.png",
+      "mean_similarity": 0.93408203125,
+      "rank": 92
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\mus_musculus_s_000459.png",
+      "mean_similarity": 0.9340814352035522,
+      "rank": 93
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\mouse_s_000845.png",
+      "mean_similarity": 0.9340258836746216,
+      "rank": 94
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\harvest_mouse_s_000063.png",
+      "mean_similarity": 0.9340068697929382,
+      "rank": 95
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\harvest_mouse_s_000721.png",
+      "mean_similarity": 0.9339592456817627,
+      "rank": 96
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\house_mouse_s_000973.png",
+      "mean_similarity": 0.9339502453804016,
+      "rank": 97
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\mus_musculus_s_000696.png",
+      "mean_similarity": 0.9338884353637695,
+      "rank": 98
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\mus_musculus_s_000488.png",
+      "mean_similarity": 0.9338458180427551,
+      "rank": 99
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\mus_musculus_s_000273.png",
+      "mean_similarity": 0.9338170289993286,
+      "rank": 100
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\harvest_mouse_s_000272.png",
+      "mean_similarity": 0.9337061643600464,
+      "rank": 101
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\mus_musculus_s_000267.png",
+      "mean_similarity": 0.9336901307106018,
+      "rank": 102
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\field_mouse_s_000029.png",
+      "mean_similarity": 0.933678388595581,
+      "rank": 103
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\mus_musculus_s_000438.png",
+      "mean_similarity": 0.9336738586425781,
+      "rank": 104
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\mus_musculus_s_001217.png",
+      "mean_similarity": 0.9335299730300903,
+      "rank": 105
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\mus_musculus_s_000064.png",
+      "mean_similarity": 0.9335085153579712,
+      "rank": 106
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\harvest_mouse_s_000668.png",
+      "mean_similarity": 0.9334732890129089,
+      "rank": 107
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\harvest_mouse_s_000400.png",
+      "mean_similarity": 0.9334250688552856,
+      "rank": 108
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\house_mouse_s_000360.png",
+      "mean_similarity": 0.9333986043930054,
+      "rank": 109
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\mus_musculus_s_001106.png",
+      "mean_similarity": 0.9333944916725159,
+      "rank": 110
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\house_mouse_s_001555.png",
+      "mean_similarity": 0.9333844184875488,
+      "rank": 111
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\mouse_s_000118.png",
+      "mean_similarity": 0.9333771467208862,
+      "rank": 112
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\harvest_mouse_s_000522.png",
+      "mean_similarity": 0.9333482980728149,
+      "rank": 113
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\mouse_s_000434.png",
+      "mean_similarity": 0.9333442449569702,
+      "rank": 114
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\harvest_mouse_s_000673.png",
+      "mean_similarity": 0.933320164680481,
+      "rank": 115
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\house_mouse_s_000034.png",
+      "mean_similarity": 0.9333094358444214,
+      "rank": 116
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\harvest_mouse_s_000428.png",
+      "mean_similarity": 0.9332903027534485,
+      "rank": 117
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\mus_musculus_s_000577.png",
+      "mean_similarity": 0.9332737922668457,
+      "rank": 118
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\mus_musculus_s_000492.png",
+      "mean_similarity": 0.9332019090652466,
+      "rank": 119
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\field_mouse_s_001237.png",
+      "mean_similarity": 0.9331967830657959,
+      "rank": 120
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\field_mouse_s_001593.png",
+      "mean_similarity": 0.9331938028335571,
+      "rank": 121
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\harvest_mouse_s_000653.png",
+      "mean_similarity": 0.933163583278656,
+      "rank": 122
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\mus_musculus_s_001313.png",
+      "mean_similarity": 0.9331573247909546,
+      "rank": 123
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\mus_musculus_s_000976.png",
+      "mean_similarity": 0.9331190586090088,
+      "rank": 124
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\harvest_mouse_s_000358.png",
+      "mean_similarity": 0.9330866932868958,
+      "rank": 125
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\field_mouse_s_000009.png",
+      "mean_similarity": 0.9330734610557556,
+      "rank": 126
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\mus_musculus_s_001117.png",
+      "mean_similarity": 0.9330459237098694,
+      "rank": 127
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\harvest_mouse_s_000590.png",
+      "mean_similarity": 0.9329673051834106,
+      "rank": 128
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\mus_musculus_s_000446.png",
+      "mean_similarity": 0.9329369068145752,
+      "rank": 129
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\harvest_mouse_s_000111.png",
+      "mean_similarity": 0.93285071849823,
+      "rank": 130
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\house_mouse_s_000399.png",
+      "mean_similarity": 0.9328402280807495,
+      "rank": 131
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\mus_musculus_s_000153.png",
+      "mean_similarity": 0.9328076243400574,
+      "rank": 132
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\harvest_mouse_s_001377.png",
+      "mean_similarity": 0.9327844977378845,
+      "rank": 133
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\harvest_mouse_s_000081.png",
+      "mean_similarity": 0.9327733516693115,
+      "rank": 134
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\field_mouse_s_000010.png",
+      "mean_similarity": 0.932681679725647,
+      "rank": 135
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\harvest_mouse_s_000145.png",
+      "mean_similarity": 0.932668924331665,
+      "rank": 136
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\mus_musculus_s_000019.png",
+      "mean_similarity": 0.9326468706130981,
+      "rank": 137
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\harvest_mouse_s_000008.png",
+      "mean_similarity": 0.9325615167617798,
+      "rank": 138
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\field_mouse_s_000974.png",
+      "mean_similarity": 0.932548463344574,
+      "rank": 139
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\harvest_mouse_s_001182.png",
+      "mean_similarity": 0.9324774146080017,
+      "rank": 140
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\mus_musculus_s_001086.png",
+      "mean_similarity": 0.9324579834938049,
+      "rank": 141
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\field_mouse_s_000782.png",
+      "mean_similarity": 0.932407557964325,
+      "rank": 142
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\fieldmouse_s_000089.png",
+      "mean_similarity": 0.9323949813842773,
+      "rank": 143
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\mus_musculus_s_000054.png",
+      "mean_similarity": 0.932345986366272,
+      "rank": 144
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\mus_musculus_s_000381.png",
+      "mean_similarity": 0.9322925209999084,
+      "rank": 145
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\field_mouse_s_001845.png",
+      "mean_similarity": 0.9322593212127686,
+      "rank": 146
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\harvest_mouse_s_001144.png",
+      "mean_similarity": 0.932209312915802,
+      "rank": 147
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\mus_musculus_s_001316.png",
+      "mean_similarity": 0.9321394562721252,
+      "rank": 148
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\harvest_mouse_s_000516.png",
+      "mean_similarity": 0.9320782423019409,
+      "rank": 149
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\mus_musculus_s_000498.png",
+      "mean_similarity": 0.9320629835128784,
+      "rank": 150
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\harvest_mouse_s_000680.png",
+      "mean_similarity": 0.932016134262085,
+      "rank": 151
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\mus_musculus_s_000569.png",
+      "mean_similarity": 0.9320008158683777,
+      "rank": 152
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\harvest_mouse_s_001439.png",
+      "mean_similarity": 0.9319451451301575,
+      "rank": 153
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\mouse_s_000037.png",
+      "mean_similarity": 0.9319167137145996,
+      "rank": 154
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\mus_musculus_s_000532.png",
+      "mean_similarity": 0.9318833947181702,
+      "rank": 155
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\harvest_mouse_s_000217.png",
+      "mean_similarity": 0.9317978024482727,
+      "rank": 156
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\house_mouse_s_001563.png",
+      "mean_similarity": 0.9317964911460876,
+      "rank": 157
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\field_mouse_s_000494.png",
+      "mean_similarity": 0.9317880272865295,
+      "rank": 158
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\house_mouse_s_000290.png",
+      "mean_similarity": 0.9317293167114258,
+      "rank": 159
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\mus_musculus_s_000585.png",
+      "mean_similarity": 0.9317107796669006,
+      "rank": 160
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\mus_musculus_s_000613.png",
+      "mean_similarity": 0.9316840767860413,
+      "rank": 161
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\field_mouse_s_000105.png",
+      "mean_similarity": 0.9316051602363586,
+      "rank": 162
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\harvest_mouse_s_000683.png",
+      "mean_similarity": 0.9315735697746277,
+      "rank": 163
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\house_mouse_s_001255.png",
+      "mean_similarity": 0.931542158126831,
+      "rank": 164
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\house_mouse_s_001272.png",
+      "mean_similarity": 0.9315366148948669,
+      "rank": 165
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\harvest_mouse_s_001149.png",
+      "mean_similarity": 0.9315101504325867,
+      "rank": 166
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\fieldmouse_s_000006.png",
+      "mean_similarity": 0.9314987063407898,
+      "rank": 167
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\mus_musculus_s_000129.png",
+      "mean_similarity": 0.9314866662025452,
+      "rank": 168
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\mus_musculus_s_000531.png",
+      "mean_similarity": 0.9314326047897339,
+      "rank": 169
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\mus_musculus_s_000704.png",
+      "mean_similarity": 0.9314073920249939,
+      "rank": 170
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\harvest_mouse_s_001545.png",
+      "mean_similarity": 0.9313884377479553,
+      "rank": 171
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\mus_musculus_s_000512.png",
+      "mean_similarity": 0.9313443899154663,
+      "rank": 172
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\harvest_mouse_s_001112.png",
+      "mean_similarity": 0.9313040375709534,
+      "rank": 173
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\mus_musculus_s_000678.png",
+      "mean_similarity": 0.9311038851737976,
+      "rank": 174
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\harvest_mouse_s_000487.png",
+      "mean_similarity": 0.9310905933380127,
+      "rank": 175
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\mus_musculus_s_000619.png",
+      "mean_similarity": 0.9310497045516968,
+      "rank": 176
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\harvest_mouse_s_000901.png",
+      "mean_similarity": 0.9310386180877686,
+      "rank": 177
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\mus_musculus_s_001310.png",
+      "mean_similarity": 0.9309514164924622,
+      "rank": 178
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\fieldmouse_s_000084.png",
+      "mean_similarity": 0.9309040307998657,
+      "rank": 179
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\harvest_mouse_s_000164.png",
+      "mean_similarity": 0.9306589365005493,
+      "rank": 180
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\field_mouse_s_000758.png",
+      "mean_similarity": 0.930628776550293,
+      "rank": 181
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\mus_musculus_s_000373.png",
+      "mean_similarity": 0.9306173324584961,
+      "rank": 182
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\house_mouse_s_000500.png",
+      "mean_similarity": 0.930597186088562,
+      "rank": 183
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\mus_musculus_s_000112.png",
+      "mean_similarity": 0.9305375814437866,
+      "rank": 184
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\harvest_mouse_s_000602.png",
+      "mean_similarity": 0.9304639101028442,
+      "rank": 185
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\mus_musculus_s_000982.png",
+      "mean_similarity": 0.9304295182228088,
+      "rank": 186
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\field_mouse_s_000921.png",
+      "mean_similarity": 0.9304201006889343,
+      "rank": 187
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\harvest_mouse_s_000457.png",
+      "mean_similarity": 0.930417001247406,
+      "rank": 188
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\house_mouse_s_001116.png",
+      "mean_similarity": 0.9303458333015442,
+      "rank": 189
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\harvest_mouse_s_000460.png",
+      "mean_similarity": 0.93026202917099,
+      "rank": 190
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\harvest_mouse_s_000936.png",
+      "mean_similarity": 0.930206835269928,
+      "rank": 191
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\mus_musculus_s_001306.png",
+      "mean_similarity": 0.9301602840423584,
+      "rank": 192
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\mus_musculus_s_001256.png",
+      "mean_similarity": 0.9301419854164124,
+      "rank": 193
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\harvest_mouse_s_001090.png",
+      "mean_similarity": 0.9301384091377258,
+      "rank": 194
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\mus_musculus_s_001350.png",
+      "mean_similarity": 0.9301314949989319,
+      "rank": 195
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\fieldmouse_s_000077.png",
+      "mean_similarity": 0.9301118850708008,
+      "rank": 196
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\harvest_mouse_s_000663.png",
+      "mean_similarity": 0.9301042556762695,
+      "rank": 197
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\mus_musculus_s_000047.png",
+      "mean_similarity": 0.930088222026825,
+      "rank": 198
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\house_mouse_s_000560.png",
+      "mean_similarity": 0.9300610423088074,
+      "rank": 199
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\mouse_s_000456.png",
+      "mean_similarity": 0.9300422668457031,
+      "rank": 200
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\field_mouse_s_000624.png",
+      "mean_similarity": 0.9300380945205688,
+      "rank": 201
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\mus_musculus_s_000637.png",
+      "mean_similarity": 0.9300091862678528,
+      "rank": 202
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\house_mouse_s_000211.png",
+      "mean_similarity": 0.9300090670585632,
+      "rank": 203
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\mus_musculus_s_000310.png",
+      "mean_similarity": 0.9300068616867065,
+      "rank": 204
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\harvest_mouse_s_000528.png",
+      "mean_similarity": 0.9299603700637817,
+      "rank": 205
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\house_mouse_s_001549.png",
+      "mean_similarity": 0.9299046397209167,
+      "rank": 206
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\harvest_mouse_s_000534.png",
+      "mean_similarity": 0.9299024939537048,
+      "rank": 207
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\mus_musculus_s_000370.png",
+      "mean_similarity": 0.9298273324966431,
+      "rank": 208
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\mouse_s_000846.png",
+      "mean_similarity": 0.9297896027565002,
+      "rank": 209
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\harvest_mouse_s_000100.png",
+      "mean_similarity": 0.9297840595245361,
+      "rank": 210
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\house_mouse_s_000707.png",
+      "mean_similarity": 0.9297488927841187,
+      "rank": 211
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\mus_musculus_s_001156.png",
+      "mean_similarity": 0.9297195672988892,
+      "rank": 212
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\house_mouse_s_000047.png",
+      "mean_similarity": 0.9296621680259705,
+      "rank": 213
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\mus_musculus_s_000390.png",
+      "mean_similarity": 0.9296099543571472,
+      "rank": 214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\harvest_mouse_s_001100.png",
+      "mean_similarity": 0.929582417011261,
+      "rank": 215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\house_mouse_s_000371.png",
+      "mean_similarity": 0.9295303821563721,
+      "rank": 216
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\field_mouse_s_000002.png",
+      "mean_similarity": 0.9294919371604919,
+      "rank": 217
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\mus_musculus_s_000055.png",
+      "mean_similarity": 0.9294689297676086,
+      "rank": 218
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\harvest_mouse_s_001032.png",
+      "mean_similarity": 0.9294683337211609,
+      "rank": 219
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\harvest_mouse_s_001450.png",
+      "mean_similarity": 0.9294302463531494,
+      "rank": 220
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\mus_musculus_s_000017.png",
+      "mean_similarity": 0.9294118285179138,
+      "rank": 221
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\house_mouse_s_000042.png",
+      "mean_similarity": 0.9293980002403259,
+      "rank": 222
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\harvest_mouse_s_001098.png",
+      "mean_similarity": 0.9293959140777588,
+      "rank": 223
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\fieldmouse_s_000081.png",
+      "mean_similarity": 0.9293011426925659,
+      "rank": 224
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\mouse_s_000438.png",
+      "mean_similarity": 0.9291763305664062,
+      "rank": 225
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\harvest_mouse_s_001140.png",
+      "mean_similarity": 0.929151177406311,
+      "rank": 226
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\harvest_mouse_s_001552.png",
+      "mean_similarity": 0.9291421175003052,
+      "rank": 227
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\harvest_mouse_s_000324.png",
+      "mean_similarity": 0.9291420578956604,
+      "rank": 228
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\field_mouse_s_000961.png",
+      "mean_similarity": 0.9290871620178223,
+      "rank": 229
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\mus_musculus_s_000756.png",
+      "mean_similarity": 0.9290555119514465,
+      "rank": 230
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\harvest_mouse_s_000095.png",
+      "mean_similarity": 0.9290449619293213,
+      "rank": 231
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\mus_musculus_s_000514.png",
+      "mean_similarity": 0.9290310740470886,
+      "rank": 232
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\mus_musculus_s_000357.png",
+      "mean_similarity": 0.9289699196815491,
+      "rank": 233
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\mus_musculus_s_001312.png",
+      "mean_similarity": 0.9289228916168213,
+      "rank": 234
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\mus_musculus_s_001324.png",
+      "mean_similarity": 0.9288659691810608,
+      "rank": 235
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\house_mouse_s_000261.png",
+      "mean_similarity": 0.9288164973258972,
+      "rank": 236
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\fieldmouse_s_000141.png",
+      "mean_similarity": 0.9288159608840942,
+      "rank": 237
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\harvest_mouse_s_000379.png",
+      "mean_similarity": 0.9288105964660645,
+      "rank": 238
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\mus_musculus_s_001103.png",
+      "mean_similarity": 0.9287930727005005,
+      "rank": 239
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\harvest_mouse_s_000720.png",
+      "mean_similarity": 0.9287065863609314,
+      "rank": 240
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\harvest_mouse_s_000065.png",
+      "mean_similarity": 0.928706169128418,
+      "rank": 241
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\harvest_mouse_s_000408.png",
+      "mean_similarity": 0.9286683797836304,
+      "rank": 242
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\harvest_mouse_s_000825.png",
+      "mean_similarity": 0.9285208582878113,
+      "rank": 243
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\harvest_mouse_s_000539.png",
+      "mean_similarity": 0.9284713864326477,
+      "rank": 244
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\harvest_mouse_s_000699.png",
+      "mean_similarity": 0.9283955097198486,
+      "rank": 245
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\mouse_s_000234.png",
+      "mean_similarity": 0.928371012210846,
+      "rank": 246
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\mus_musculus_s_000551.png",
+      "mean_similarity": 0.9283679127693176,
+      "rank": 247
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\harvest_mouse_s_001584.png",
+      "mean_similarity": 0.9283657670021057,
+      "rank": 248
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\harvest_mouse_s_000713.png",
+      "mean_similarity": 0.9283585548400879,
+      "rank": 249
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\house_mouse_s_000072.png",
+      "mean_similarity": 0.9283578395843506,
+      "rank": 250
+    }
+  ]
+}

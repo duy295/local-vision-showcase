@@ -1,0 +1,24 @@
+{
+  "class_name": "butterfly",
+  "global_description": "Insect with delicate, colorful wings, slender body, and long antennae. Wings often feature intricate patterns and vibrant colors like orange, blue, or yellow. The body is thin and segmented, with six legs and a pair of antennae.",
+  "discriminative_attributes": [
+    "Colorful wings",
+    "Intricate patterns",
+    "Slender body",
+    "Long antennae",
+    "Six legs"
+  ],
+  "part_details": {
+    "wings": "Large, colorful with intricate patterns",
+    "body": "Thin, segmented",
+    "antennae": "Long, slender",
+    "legs": "Six, attached to body"
+  },
+  "spatial_relations": [
+    "Wings attached to body",
+    "Antennae on head",
+    "Legs beneath body"
+  ],
+  "original_dataset_key": "ImageNetR",
+  "original_class_key": "butterfly"
+}

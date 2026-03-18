@@ -1,0 +1,24 @@
+{
+  "class_name": "black widow",
+  "global_description": "Small, glossy black spider with a round abdomen, featuring a distinctive red hourglass marking on the underside. The body is smooth and shiny, with long, slender legs that are also black. The spider's overall appearance is sleek and menacing, with a compact body structure.",
+  "discriminative_attributes": [
+    "Glossy black body",
+    "Red hourglass marking",
+    "Round abdomen",
+    "Long slender legs",
+    "Smooth shiny texture"
+  ],
+  "part_details": {
+    "abdomen": "Round, glossy black with red hourglass marking",
+    "legs": "Long, slender, and black",
+    "cephalothorax": "Small, smooth, and black",
+    "marking": "Red hourglass on underside of abdomen"
+  },
+  "spatial_relations": [
+    "Abdomen attached to cephalothorax",
+    "Legs extending from cephalothorax",
+    "Red marking on underside of abdomen"
+  ],
+  "original_dataset_key": "ImageNetR",
+  "original_class_key": "black_widow"
+}

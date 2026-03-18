@@ -1,0 +1,26 @@
+{
+  "class_name": "umbrella",
+  "global_description": "A portable canopy with a circular fabric top and a central metal shaft. The fabric is often brightly colored or patterned, and the shaft is typically metallic with a plastic or wooden handle. The canopy is supported by metal ribs that extend from the shaft, forming a dome shape when open.",
+  "discriminative_attributes": [
+    "Circular fabric canopy",
+    "Metal shaft",
+    "Plastic or wooden handle",
+    "Metal ribs",
+    "Dome shape when open"
+  ],
+  "part_details": {
+    "canopy": "Circular fabric, often brightly colored or patterned",
+    "shaft": "Central metal shaft, straight and slender",
+    "handle": "Plastic or wooden, ergonomic grip",
+    "ribs": "Metal, extend from shaft to support canopy",
+    "tip": "Pointed end of shaft"
+  },
+  "spatial_relations": [
+    "Canopy attached to ribs",
+    "Ribs extend from shaft",
+    "Handle at bottom of shaft",
+    "Tip at top of shaft"
+  ],
+  "original_dataset_key": "ImageNetR",
+  "original_class_key": "umbrella"
+}

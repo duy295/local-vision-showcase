@@ -73,12 +73,12 @@ def main():
     output_dir = os.path.join(cfg['paths']['output_base_dir'], args.dataset)
     os.makedirs(output_dir, exist_ok=True)
     
-    print(f"🚀 Started generating for dataset: {args.dataset}")
-    print(f"📂 Output directory: {output_dir}")
-    print(f"🔢 Total classes: {len(classes)}")
+    print(f" Started generating for dataset: {args.dataset}")
+    print(f" Output directory: {output_dir}")
+    print(f" Total classes: {len(classes)}")
 
     if args.dry_run:
-        print("⚠️ DRY RUN MODE: Chỉ chạy class đầu tiên để kiểm tra.")
+        print(" DRY RUN MODE: Chỉ chạy class đầu tiên để kiểm tra.")
         classes = classes[:1]
 
     # 5. Main Loop
@@ -120,7 +120,7 @@ def main():
         # Sleep nhẹ để tránh rate limit
         time.sleep(0.5)
 
-    print(f"\n✅ Completed! Successfully generated {success_count}/{len(classes)} classes.")
+    print(f"\nCompleted! Successfully generated {success_count}/{len(classes)} classes.")
     print(f"Results saved in 🍀🛤️🚂: {output_dir}")
 
 if __name__ == "__main__":

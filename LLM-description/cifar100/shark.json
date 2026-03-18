@@ -1,0 +1,26 @@
+{
+  "class_name": "shark",
+  "global_description": "Large marine fish with a streamlined, torpedo-shaped body, predominantly gray with a lighter underside. It has a rough, sandpaper-like skin texture due to tiny scales. The head is pointed with a wide mouth filled with sharp teeth, and the eyes are small and dark. The dorsal fin is prominent, and the tail is crescent-shaped for swift swimming.",
+  "discriminative_attributes": [
+    "Streamlined, torpedo-shaped body",
+    "Rough, sandpaper-like skin",
+    "Pointed head with sharp teeth",
+    "Prominent dorsal fin",
+    "Crescent-shaped tail"
+  ],
+  "part_details": {
+    "head": "Pointed with a wide mouth and small dark eyes",
+    "body": "Streamlined, torpedo-shaped with rough skin",
+    "fins": "Prominent dorsal fin and pectoral fins",
+    "tail": "Crescent-shaped for swift swimming",
+    "teeth": "Sharp and numerous in wide mouth"
+  },
+  "spatial_relations": [
+    "Head at front with mouth and eyes",
+    "Dorsal fin on top of body",
+    "Tail at rear for propulsion",
+    "Fins on sides for stability"
+  ],
+  "original_dataset_key": "cifar100",
+  "original_class_key": "shark"
+}

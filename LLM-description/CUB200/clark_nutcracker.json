@@ -1,0 +1,25 @@
+{
+  "class_name": "Clark Nutcracker",
+  "global_description": "A medium-sized bird with a robust, compact body and a short neck. It features predominantly gray plumage with black wings and tail, and a distinctive white patch on the tail. The beak is long, straight, and pointed, adapted for seed extraction.",
+  "discriminative_attributes": [
+    "Gray body plumage",
+    "Black wings and tail",
+    "White tail patch",
+    "Long pointed beak",
+    "Compact body shape"
+  ],
+  "part_details": {
+    "plumage": "Smooth, predominantly gray with contrasting black on wings and tail.",
+    "wings": "Black, medium-length, providing strong flight capabilities.",
+    "tail": "Black with a distinctive white patch, short and squared.",
+    "beak": "Long, straight, and pointed, black in color.",
+    "head": "Gray with a short neck, rounded shape."
+  },
+  "spatial_relations": [
+    "The black wings are attached to the sides of the gray body.",
+    "The white patch is located at the end of the black tail.",
+    "The long beak protrudes from the front of the head."
+  ],
+  "original_dataset_key": "CUB200",
+  "original_class_key": "clark_nutcracker"
+}

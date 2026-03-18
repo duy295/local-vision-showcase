@@ -1,0 +1,26 @@
+{
+  "class_name": "cheetah",
+  "global_description": "Large feline with slender, elongated body, tawny coat with black spots, small rounded head, long legs, and distinctive black tear marks from eyes to mouth. Tail is long and spotted, aiding in balance during high-speed chases.",
+  "discriminative_attributes": [
+    "Slender, elongated body",
+    "Tawny coat with black spots",
+    "Black tear marks on face",
+    "Long, spotted tail",
+    "Small rounded head"
+  ],
+  "part_details": {
+    "head": "Small, rounded with black tear marks from eyes to mouth",
+    "body": "Slender, elongated with tawny coat and black spots",
+    "legs": "Long and muscular, adapted for speed",
+    "tail": "Long, spotted, aiding in balance",
+    "coat": "Tawny with distinctive black spots"
+  },
+  "spatial_relations": [
+    "Head at front of body",
+    "Legs beneath body",
+    "Tail extending from rear",
+    "Tear marks running from eyes to mouth"
+  ],
+  "original_dataset_key": "ImageNetR",
+  "original_class_key": "cheetah"
+}

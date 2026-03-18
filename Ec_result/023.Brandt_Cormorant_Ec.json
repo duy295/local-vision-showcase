@@ -1,0 +1,159 @@
+{
+  "class_name": "023.Brandt_Cormorant",
+  "class_idx": 22,
+  "num_images_in_class": 30,
+  "ec_size_requested": 30,
+  "ec_size_actual": 30,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\023.Brandt_Cormorant\\Brandt_Cormorant_0068_23019.jpg",
+      "mean_similarity": 0.9431750774383545,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\023.Brandt_Cormorant\\Brandt_Cormorant_0015_23198.jpg",
+      "mean_similarity": 0.9430450797080994,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\023.Brandt_Cormorant\\Brandt_Cormorant_0017_23141.jpg",
+      "mean_similarity": 0.9427539110183716,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\023.Brandt_Cormorant\\Brandt_Cormorant_0083_23156.jpg",
+      "mean_similarity": 0.942008912563324,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\023.Brandt_Cormorant\\Brandt_Cormorant_0087_23126.jpg",
+      "mean_similarity": 0.9419889450073242,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\023.Brandt_Cormorant\\Brandt_Cormorant_0038_23110.jpg",
+      "mean_similarity": 0.9419748783111572,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\023.Brandt_Cormorant\\Brandt_Cormorant_0075_22970.jpg",
+      "mean_similarity": 0.9390062689781189,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\023.Brandt_Cormorant\\Brandt_Cormorant_0072_23069.jpg",
+      "mean_similarity": 0.9388447403907776,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\023.Brandt_Cormorant\\Brandt_Cormorant_0009_22890.jpg",
+      "mean_similarity": 0.9379818439483643,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\023.Brandt_Cormorant\\Brandt_Cormorant_0032_22886.jpg",
+      "mean_similarity": 0.9379017353057861,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\023.Brandt_Cormorant\\Brandt_Cormorant_0022_23157.jpg",
+      "mean_similarity": 0.9373918771743774,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\023.Brandt_Cormorant\\Brandt_Cormorant_0013_23391.jpg",
+      "mean_similarity": 0.9367350935935974,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\023.Brandt_Cormorant\\Brandt_Cormorant_0045_22916.jpg",
+      "mean_similarity": 0.9366763234138489,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\023.Brandt_Cormorant\\Brandt_Cormorant_0016_23077.jpg",
+      "mean_similarity": 0.936246395111084,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\023.Brandt_Cormorant\\Brandt_Cormorant_0070_23137.jpg",
+      "mean_similarity": 0.9360816478729248,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\023.Brandt_Cormorant\\Brandt_Cormorant_0021_23097.jpg",
+      "mean_similarity": 0.9354347586631775,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\023.Brandt_Cormorant\\Brandt_Cormorant_0014_23050.jpg",
+      "mean_similarity": 0.9350540041923523,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\023.Brandt_Cormorant\\Brandt_Cormorant_0062_23038.jpg",
+      "mean_similarity": 0.9350243806838989,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\023.Brandt_Cormorant\\Brandt_Cormorant_0023_23254.jpg",
+      "mean_similarity": 0.9337852597236633,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\023.Brandt_Cormorant\\Brandt_Cormorant_0082_22978.jpg",
+      "mean_similarity": 0.9328546524047852,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\023.Brandt_Cormorant\\Brandt_Cormorant_0067_23352.jpg",
+      "mean_similarity": 0.9322510361671448,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\023.Brandt_Cormorant\\Brandt_Cormorant_0006_22925.jpg",
+      "mean_similarity": 0.9313651919364929,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\023.Brandt_Cormorant\\Brandt_Cormorant_0044_22884.jpg",
+      "mean_similarity": 0.9313222765922546,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\023.Brandt_Cormorant\\Brandt_Cormorant_0080_23002.jpg",
+      "mean_similarity": 0.9309545159339905,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\023.Brandt_Cormorant\\Brandt_Cormorant_0035_23000.jpg",
+      "mean_similarity": 0.9308328032493591,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\023.Brandt_Cormorant\\Brandt_Cormorant_0076_23021.jpg",
+      "mean_similarity": 0.9283502697944641,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\023.Brandt_Cormorant\\Brandt_Cormorant_0063_22865.jpg",
+      "mean_similarity": 0.9266334772109985,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\023.Brandt_Cormorant\\Brandt_Cormorant_0029_23043.jpg",
+      "mean_similarity": 0.9223710894584656,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\023.Brandt_Cormorant\\Brandt_Cormorant_0025_22820.jpg",
+      "mean_similarity": 0.9182276129722595,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\023.Brandt_Cormorant\\Brandt_Cormorant_0074_22881.jpg",
+      "mean_similarity": 0.9161173105239868,
+      "rank": 30
+    }
+  ]
+}

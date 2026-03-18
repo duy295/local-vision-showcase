@@ -1,0 +1,25 @@
+{
+  "class_name": "wolf",
+  "global_description": "A large, powerful canine with a lean, muscular body and thick fur. Typically gray, white, or brown, with a bushy tail and pointed ears. The face is elongated with sharp eyes and a strong jaw, adapted for hunting.",
+  "discriminative_attributes": [
+    "Lean muscular body",
+    "Thick fur",
+    "Bushy tail",
+    "Pointed ears",
+    "Elongated face"
+  ],
+  "part_details": {
+    "head": "Elongated with sharp eyes and strong jaw",
+    "body": "Lean and muscular, covered in thick fur",
+    "tail": "Bushy and long",
+    "ears": "Pointed and upright",
+    "fur": "Thick, typically gray, white, or brown"
+  },
+  "spatial_relations": [
+    "Head at front, tail at rear",
+    "Ears on top of head",
+    "Legs beneath body"
+  ],
+  "original_dataset_key": "cifar100",
+  "original_class_key": "wolf"
+}

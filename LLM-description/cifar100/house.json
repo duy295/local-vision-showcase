@@ -1,0 +1,26 @@
+{
+  "class_name": "house",
+  "global_description": "A large, rectangular structure with a sloped roof, typically made of wood, brick, or stone. The exterior is often painted in neutral colors like white, beige, or gray. Windows are symmetrically placed, and a central door provides entry. The roof may have shingles or tiles, and there is often a chimney protruding from the top.",
+  "discriminative_attributes": [
+    "Rectangular structure",
+    "Sloped roof",
+    "Symmetrical windows",
+    "Central door",
+    "Chimney on roof"
+  ],
+  "part_details": {
+    "roof": "Sloped, covered with shingles or tiles",
+    "walls": "Rectangular, made of wood, brick, or stone, painted in neutral colors",
+    "windows": "Symmetrically placed, often rectangular",
+    "door": "Central, often wooden",
+    "chimney": "Protruding from roof, usually brick"
+  },
+  "spatial_relations": [
+    "Roof covers the top of the structure",
+    "Windows are aligned along the walls",
+    "Door is centrally located on the front wall",
+    "Chimney extends from the roof"
+  ],
+  "original_dataset_key": "cifar100",
+  "original_class_key": "house"
+}

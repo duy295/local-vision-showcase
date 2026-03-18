@@ -1,0 +1,159 @@
+{
+  "class_name": "008.Rhinoceros_Auklet",
+  "class_idx": 7,
+  "num_images_in_class": 30,
+  "ec_size_requested": 30,
+  "ec_size_actual": 30,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\008.Rhinoceros_Auklet\\Rhinoceros_Auklet_0012_2161.jpg",
+      "mean_similarity": 0.945214033126831,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\008.Rhinoceros_Auklet\\Rhinoceros_Auklet_0038_797544.jpg",
+      "mean_similarity": 0.9446451663970947,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\008.Rhinoceros_Auklet\\Rhinoceros_Auklet_0028_2056.jpg",
+      "mean_similarity": 0.9443871974945068,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\008.Rhinoceros_Auklet\\Rhinoceros_Auklet_0024_797529.jpg",
+      "mean_similarity": 0.9442901015281677,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\008.Rhinoceros_Auklet\\Rhinoceros_Auklet_0043_2096.jpg",
+      "mean_similarity": 0.9440210461616516,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\008.Rhinoceros_Auklet\\Rhinoceros_Auklet_0029_797520.jpg",
+      "mean_similarity": 0.9432482123374939,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\008.Rhinoceros_Auklet\\Rhinoceros_Auklet_0032_797516.jpg",
+      "mean_similarity": 0.9430078268051147,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\008.Rhinoceros_Auklet\\Rhinoceros_Auklet_0015_2160.jpg",
+      "mean_similarity": 0.9427922964096069,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\008.Rhinoceros_Auklet\\Rhinoceros_Auklet_0008_797531.jpg",
+      "mean_similarity": 0.9422944188117981,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\008.Rhinoceros_Auklet\\Rhinoceros_Auklet_0050_797534.jpg",
+      "mean_similarity": 0.9422746896743774,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\008.Rhinoceros_Auklet\\Rhinoceros_Auklet_0031_797518.jpg",
+      "mean_similarity": 0.9422391653060913,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\008.Rhinoceros_Auklet\\Rhinoceros_Auklet_0010_797545.jpg",
+      "mean_similarity": 0.9421864151954651,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\008.Rhinoceros_Auklet\\Rhinoceros_Auklet_0023_797501.jpg",
+      "mean_similarity": 0.9414514899253845,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\008.Rhinoceros_Auklet\\Rhinoceros_Auklet_0014_797522.jpg",
+      "mean_similarity": 0.9414071440696716,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\008.Rhinoceros_Auklet\\Rhinoceros_Auklet_0016_2114.jpg",
+      "mean_similarity": 0.9408634901046753,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\008.Rhinoceros_Auklet\\Rhinoceros_Auklet_0019_797513.jpg",
+      "mean_similarity": 0.9398624897003174,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\008.Rhinoceros_Auklet\\Rhinoceros_Auklet_0006_797512.jpg",
+      "mean_similarity": 0.9397018551826477,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\008.Rhinoceros_Auklet\\Rhinoceros_Auklet_0018_797517.jpg",
+      "mean_similarity": 0.9388822317123413,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\008.Rhinoceros_Auklet\\Rhinoceros_Auklet_0009_797539.jpg",
+      "mean_similarity": 0.9387641549110413,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\008.Rhinoceros_Auklet\\Rhinoceros_Auklet_0007_797521.jpg",
+      "mean_similarity": 0.938004732131958,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\008.Rhinoceros_Auklet\\Rhinoceros_Auklet_0005_2111.jpg",
+      "mean_similarity": 0.9371353387832642,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\008.Rhinoceros_Auklet\\Rhinoceros_Auklet_0033_2169.jpg",
+      "mean_similarity": 0.9370579123497009,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\008.Rhinoceros_Auklet\\Rhinoceros_Auklet_0013_797537.jpg",
+      "mean_similarity": 0.9349145293235779,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\008.Rhinoceros_Auklet\\Rhinoceros_Auklet_0030_797509.jpg",
+      "mean_similarity": 0.9338960647583008,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\008.Rhinoceros_Auklet\\Rhinoceros_Auklet_0017_2155.jpg",
+      "mean_similarity": 0.9329493045806885,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\008.Rhinoceros_Auklet\\Rhinoceros_Auklet_0020_2195.jpg",
+      "mean_similarity": 0.9320597052574158,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\008.Rhinoceros_Auklet\\Rhinoceros_Auklet_0021_2089.jpg",
+      "mean_similarity": 0.9294575452804565,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\008.Rhinoceros_Auklet\\Rhinoceros_Auklet_0011_797530.jpg",
+      "mean_similarity": 0.9285321831703186,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\008.Rhinoceros_Auklet\\Rhinoceros_Auklet_0026_797519.jpg",
+      "mean_similarity": 0.9281643629074097,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\008.Rhinoceros_Auklet\\Rhinoceros_Auklet_0049_797543.jpg",
+      "mean_similarity": 0.9203851819038391,
+      "rank": 30
+    }
+  ]
+}

@@ -1,0 +1,450 @@
+{
+  "class_name": "Cedar Waxwing",
+  "class_idx": 186,
+  "class_folder": "186.Cedar_Waxwing",
+  "num_images_in_class": 10,
+  "ec_size_requested": 30,
+  "ec_size_actual": 40,
+  "num_fewshot": 10,
+  "num_synthesized": 30,
+  "fewshot_emphasis_weight": 3.0,
+  "hybrid_lambda": 0.6,
+  "related_base_classes": [
+    {
+      "class_key": "great_crested_flycatcher",
+      "relevance_score": 1.8481
+    },
+    {
+      "class_key": "western_meadowlark",
+      "relevance_score": 1.6249
+    },
+    {
+      "class_key": "evening_grosbeak",
+      "relevance_score": 1.3943
+    },
+    {
+      "class_key": "yellow_billed_cuckoo",
+      "relevance_score": 1.3689
+    },
+    {
+      "class_key": "yellow_bellied_flycatcher",
+      "relevance_score": 1.3466
+    },
+    {
+      "class_key": "yellow_breasted_chat",
+      "relevance_score": 1.3355
+    },
+    {
+      "class_key": "white_breasted_nuthatch",
+      "relevance_score": 1.3033
+    },
+    {
+      "class_key": "mangrove_cuckoo",
+      "relevance_score": 1.2669
+    },
+    {
+      "class_key": "horned_lark",
+      "relevance_score": 1.2385
+    }
+  ],
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\Incremental class - Copy\\186.Cedar_Waxwing\\Cedar_Waxwing_0093_178139.jpg",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 1,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\Incremental class - Copy\\186.Cedar_Waxwing\\Cedar_Waxwing_0008_178345.jpg",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 2,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\Incremental class - Copy\\186.Cedar_Waxwing\\Cedar_Waxwing_0003_178570.jpg",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 3,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\Incremental class - Copy\\186.Cedar_Waxwing\\Cedar_Waxwing_0096_178164.jpg",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 4,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\Incremental class - Copy\\186.Cedar_Waxwing\\Cedar_Waxwing_0031_178929.jpg",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 5,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\Incremental class - Copy\\186.Cedar_Waxwing\\Cedar_Waxwing_0029_179569.jpg",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 6,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\Incremental class - Copy\\186.Cedar_Waxwing\\Cedar_Waxwing_0098_178971.jpg",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 7,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\Incremental class - Copy\\186.Cedar_Waxwing\\Cedar_Waxwing_0013_178830.jpg",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 8,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\Incremental class - Copy\\186.Cedar_Waxwing\\Cedar_Waxwing_0125_178921.jpg",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 9,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\Incremental class - Copy\\186.Cedar_Waxwing\\Cedar_Waxwing_0076_178732.jpg",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 10,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\032.Mangrove_Cuckoo\\Mangrove_Cuckoo_0025_26375.jpg",
+      "mean_similarity": 0.979215,
+      "rank": 11,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\033.Yellow_billed_Cuckoo\\Yellow_Billed_Cuckoo_0019_26803.jpg",
+      "mean_similarity": 0.979215,
+      "rank": 12,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\032.Mangrove_Cuckoo\\Mangrove_Cuckoo_0005_794599.jpg",
+      "mean_similarity": 0.9792149000000001,
+      "rank": 13,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\032.Mangrove_Cuckoo\\Mangrove_Cuckoo_0034_26415.jpg",
+      "mean_similarity": 0.9792149000000001,
+      "rank": 14,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\033.Yellow_billed_Cuckoo\\Yellow_Billed_Cuckoo_0050_26424.jpg",
+      "mean_similarity": 0.9792149000000001,
+      "rank": 15,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\032.Mangrove_Cuckoo\\Mangrove_Cuckoo_0031_26401.jpg",
+      "mean_similarity": 0.9792147999999999,
+      "rank": 16,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\032.Mangrove_Cuckoo\\Mangrove_Cuckoo_0019_794621.jpg",
+      "mean_similarity": 0.9792147999999999,
+      "rank": 17,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\032.Mangrove_Cuckoo\\Mangrove_Cuckoo_0039_26348.jpg",
+      "mean_similarity": 0.9792147999999999,
+      "rank": 18,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\032.Mangrove_Cuckoo\\Mangrove_Cuckoo_0006_794626.jpg",
+      "mean_similarity": 0.9792147999999999,
+      "rank": 19,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\032.Mangrove_Cuckoo\\Mangrove_Cuckoo_0016_794607.jpg",
+      "mean_similarity": 0.9792147,
+      "rank": 20,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\032.Mangrove_Cuckoo\\Mangrove_Cuckoo_0044_26393.jpg",
+      "mean_similarity": 0.9792147,
+      "rank": 21,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\033.Yellow_billed_Cuckoo\\Yellow_Billed_Cuckoo_0097_26713.jpg",
+      "mean_similarity": 0.9792147,
+      "rank": 22,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\033.Yellow_billed_Cuckoo\\Yellow_Billed_Cuckoo_0038_26912.jpg",
+      "mean_similarity": 0.9792147,
+      "rank": 23,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\033.Yellow_billed_Cuckoo\\Yellow_Billed_Cuckoo_0121_26807.jpg",
+      "mean_similarity": 0.9792147,
+      "rank": 24,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\032.Mangrove_Cuckoo\\Mangrove_Cuckoo_0050_794594.jpg",
+      "mean_similarity": 0.9792146000000002,
+      "rank": 25,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\032.Mangrove_Cuckoo\\Mangrove_Cuckoo_0027_26360.jpg",
+      "mean_similarity": 0.9792146000000002,
+      "rank": 26,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\033.Yellow_billed_Cuckoo\\Yellow_Billed_Cuckoo_0081_26429.jpg",
+      "mean_similarity": 0.9792146000000002,
+      "rank": 27,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\032.Mangrove_Cuckoo\\Mangrove_Cuckoo_0033_26359.jpg",
+      "mean_similarity": 0.9792146000000002,
+      "rank": 28,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\032.Mangrove_Cuckoo\\Mangrove_Cuckoo_0029_794624.jpg",
+      "mean_similarity": 0.9792146000000002,
+      "rank": 29,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\033.Yellow_billed_Cuckoo\\Yellow_Billed_Cuckoo_0059_26828.jpg",
+      "mean_similarity": 0.9792145,
+      "rank": 30,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\032.Mangrove_Cuckoo\\Mangrove_Cuckoo_0045_794612.jpg",
+      "mean_similarity": 0.9792144,
+      "rank": 31,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\033.Yellow_billed_Cuckoo\\Yellow_Billed_Cuckoo_0091_26428.jpg",
+      "mean_similarity": 0.9792144,
+      "rank": 32,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\033.Yellow_billed_Cuckoo\\Yellow_Billed_Cuckoo_0022_26423.jpg",
+      "mean_similarity": 0.9792144,
+      "rank": 33,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\033.Yellow_billed_Cuckoo\\Yellow_Billed_Cuckoo_0093_26432.jpg",
+      "mean_similarity": 0.9792144,
+      "rank": 34,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\033.Yellow_billed_Cuckoo\\Yellow_Billed_Cuckoo_0009_26656.jpg",
+      "mean_similarity": 0.9792143,
+      "rank": 35,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\032.Mangrove_Cuckoo\\Mangrove_Cuckoo_0036_794606.jpg",
+      "mean_similarity": 0.9792143,
+      "rank": 36,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\033.Yellow_billed_Cuckoo\\Yellow_Billed_Cuckoo_0028_26446.jpg",
+      "mean_similarity": 0.9792143,
+      "rank": 37,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\033.Yellow_billed_Cuckoo\\Yellow_Billed_Cuckoo_0036_26682.jpg",
+      "mean_similarity": 0.9792138,
+      "rank": 38,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\038.Great_Crested_Flycatcher\\Great_Crested_Flycatcher_0058_29523.jpg",
+      "mean_similarity": 0.9792138,
+      "rank": 39,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\038.Great_Crested_Flycatcher\\Great_Crested_Flycatcher_0006_29362.jpg",
+      "mean_similarity": 0.9792138,
+      "rank": 40,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    }
+  ],
+  "debug": {
+    "total_candidates": 148,
+    "after_voting": 148,
+    "after_dedup": 30,
+    "dedup_mode": "backbone",
+    "top_segments": [
+      {
+        "class": "032.Mangrove_Cuckoo",
+        "seg": 0,
+        "hybrid": 1.7102,
+        "magnitude": 9.7921,
+        "borda": 442.0
+      },
+      {
+        "class": "032.Mangrove_Cuckoo",
+        "seg": 3,
+        "hybrid": 1.6625,
+        "magnitude": 9.7921,
+        "borda": 427.0
+      },
+      {
+        "class": "032.Mangrove_Cuckoo",
+        "seg": 1,
+        "hybrid": 1.6112,
+        "magnitude": 9.7921,
+        "borda": 428.0
+      },
+      {
+        "class": "032.Mangrove_Cuckoo",
+        "seg": 4,
+        "hybrid": 1.5921,
+        "magnitude": 9.7921,
+        "borda": 422.0
+      },
+      {
+        "class": "033.Yellow_billed_Cuckoo",
+        "seg": 0,
+        "hybrid": 1.5121,
+        "magnitude": 9.7921,
+        "borda": 414.0
+      },
+      {
+        "class": "033.Yellow_billed_Cuckoo",
+        "seg": 4,
+        "hybrid": 1.4835,
+        "magnitude": 9.7921,
+        "borda": 405.0
+      },
+      {
+        "class": "032.Mangrove_Cuckoo",
+        "seg": 2,
+        "hybrid": 1.4359,
+        "magnitude": 9.7921,
+        "borda": 390.0
+      },
+      {
+        "class": "033.Yellow_billed_Cuckoo",
+        "seg": 2,
+        "hybrid": 1.3622,
+        "magnitude": 9.7921,
+        "borda": 384.0
+      },
+      {
+        "class": "033.Yellow_billed_Cuckoo",
+        "seg": 1,
+        "hybrid": 1.2664,
+        "magnitude": 9.7921,
+        "borda": 371.0
+      },
+      {
+        "class": "033.Yellow_billed_Cuckoo",
+        "seg": 3,
+        "hybrid": 1.2537,
+        "magnitude": 9.7921,
+        "borda": 367.0
+      }
+    ]
+  }
+}

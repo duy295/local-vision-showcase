@@ -1,0 +1,25 @@
+{
+  "class_name": "trombone",
+  "global_description": "A large brass musical instrument with a long, cylindrical body and a distinctive slide mechanism. It features a flared bell at one end and a mouthpiece at the other. The surface is typically shiny and metallic, often in gold or brass color.",
+  "discriminative_attributes": [
+    "Long cylindrical body",
+    "Flared bell",
+    "Slide mechanism",
+    "Shiny metallic surface",
+    "Gold or brass color"
+  ],
+  "part_details": {
+    "bell": "Flared, shiny, metallic, often gold",
+    "slide": "Long, cylindrical, adjustable",
+    "body": "Cylindrical, shiny, metallic",
+    "mouthpiece": "Small, rounded, metallic",
+    "tuning slide": "Adjustable, cylindrical, metallic"
+  },
+  "spatial_relations": [
+    "Bell at one end of the body",
+    "Slide extends from the body",
+    "Mouthpiece at opposite end of bell"
+  ],
+  "original_dataset_key": "ImageNetR",
+  "original_class_key": "trombone"
+}

@@ -1,0 +1,26 @@
+{
+  "class_name": "Bird",
+  "global_description": "A small, slender bird with a rounded body and a distinctive white and black striped crown. It has a grayish-brown back, pale underparts, and a short conical beak. The wings and tail are brown with subtle streaks.",
+  "discriminative_attributes": [
+    "White and black striped crown",
+    "Grayish-brown back",
+    "Pale underparts",
+    "Short conical beak",
+    "Brown wings with streaks"
+  ],
+  "part_details": {
+    "crown": "White center stripe flanked by black stripes, creating a bold pattern.",
+    "beak": "Short, conical, and pale in color.",
+    "back": "Grayish-brown with a smooth texture.",
+    "wings": "Brown with subtle streaks, blending with the back.",
+    "tail": "Brown, matching the wings, with a slightly forked shape."
+  },
+  "spatial_relations": [
+    "The white crown stripe is centrally positioned between the black stripes.",
+    "The beak protrudes from the front of the head.",
+    "The wings extend laterally from the body.",
+    "The tail is positioned at the rear, extending from the body."
+  ],
+  "original_dataset_key": "CUB200",
+  "original_class_key": "white_crowned_sparrow"
+}

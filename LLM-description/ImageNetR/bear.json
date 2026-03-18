@@ -1,0 +1,26 @@
+{
+  "class_name": "bear",
+  "global_description": "Large mammal with a robust, bulky body, covered in thick fur, typically brown, black, or white. It has a large head with small eyes and ears, a prominent snout, and powerful limbs with large paws and claws.",
+  "discriminative_attributes": [
+    "Robust, bulky body",
+    "Thick fur",
+    "Large head with small eyes and ears",
+    "Prominent snout",
+    "Powerful limbs with large paws"
+  ],
+  "part_details": {
+    "head": "Large with small eyes, small rounded ears, and a prominent snout",
+    "body": "Bulky and robust, covered in thick fur",
+    "limbs": "Powerful with large paws and claws",
+    "fur": "Thick, typically brown, black, or white",
+    "paws": "Large with sharp claws"
+  },
+  "spatial_relations": [
+    "Head at front of body",
+    "Limbs attached to sides of body",
+    "Paws at end of limbs",
+    "Fur covering entire body"
+  ],
+  "original_dataset_key": "ImageNetR",
+  "original_class_key": "bear"
+}

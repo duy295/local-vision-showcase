@@ -1,0 +1,159 @@
+{
+  "class_name": "096.Hooded_Oriole",
+  "class_idx": 95,
+  "num_images_in_class": 30,
+  "ec_size_requested": 30,
+  "ec_size_actual": 30,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\096.Hooded_Oriole\\Hooded_Oriole_0068_90397.jpg",
+      "mean_similarity": 0.9466209411621094,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\096.Hooded_Oriole\\Hooded_Oriole_0106_90899.jpg",
+      "mean_similarity": 0.9462305307388306,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\096.Hooded_Oriole\\Hooded_Oriole_0035_90331.jpg",
+      "mean_similarity": 0.9455739259719849,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\096.Hooded_Oriole\\Hooded_Oriole_0049_89955.jpg",
+      "mean_similarity": 0.9455476999282837,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\096.Hooded_Oriole\\Hooded_Oriole_0104_90264.jpg",
+      "mean_similarity": 0.9452334642410278,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\096.Hooded_Oriole\\Hooded_Oriole_0050_90629.jpg",
+      "mean_similarity": 0.9447398781776428,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\096.Hooded_Oriole\\Hooded_Oriole_0070_90221.jpg",
+      "mean_similarity": 0.944592297077179,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\096.Hooded_Oriole\\Hooded_Oriole_0079_89978.jpg",
+      "mean_similarity": 0.9445532560348511,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\096.Hooded_Oriole\\Hooded_Oriole_0115_90442.jpg",
+      "mean_similarity": 0.9445157647132874,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\096.Hooded_Oriole\\Hooded_Oriole_0125_90382.jpg",
+      "mean_similarity": 0.9443591237068176,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\096.Hooded_Oriole\\Hooded_Oriole_0124_90350.jpg",
+      "mean_similarity": 0.94407719373703,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\096.Hooded_Oriole\\Hooded_Oriole_0038_90575.jpg",
+      "mean_similarity": 0.9433149099349976,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\096.Hooded_Oriole\\Hooded_Oriole_0118_90049.jpg",
+      "mean_similarity": 0.9428516030311584,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\096.Hooded_Oriole\\Hooded_Oriole_0111_89988.jpg",
+      "mean_similarity": 0.9427812695503235,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\096.Hooded_Oriole\\Hooded_Oriole_0130_90422.jpg",
+      "mean_similarity": 0.9420196413993835,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\096.Hooded_Oriole\\Hooded_Oriole_0096_90311.jpg",
+      "mean_similarity": 0.9419687390327454,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\096.Hooded_Oriole\\Hooded_Oriole_0075_90788.jpg",
+      "mean_similarity": 0.9419363737106323,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\096.Hooded_Oriole\\Hooded_Oriole_0076_90895.jpg",
+      "mean_similarity": 0.9417562484741211,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\096.Hooded_Oriole\\Hooded_Oriole_0053_90898.jpg",
+      "mean_similarity": 0.9415414929389954,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\096.Hooded_Oriole\\Hooded_Oriole_0060_90879.jpg",
+      "mean_similarity": 0.941511869430542,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\096.Hooded_Oriole\\Hooded_Oriole_0074_91081.jpg",
+      "mean_similarity": 0.9413983821868896,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\096.Hooded_Oriole\\Hooded_Oriole_0043_90499.jpg",
+      "mean_similarity": 0.9401350021362305,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\096.Hooded_Oriole\\Hooded_Oriole_0117_90464.jpg",
+      "mean_similarity": 0.9400914907455444,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\096.Hooded_Oriole\\Hooded_Oriole_0013_90445.jpg",
+      "mean_similarity": 0.9397749900817871,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\096.Hooded_Oriole\\Hooded_Oriole_0069_90981.jpg",
+      "mean_similarity": 0.9378728866577148,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\096.Hooded_Oriole\\Hooded_Oriole_0055_90850.jpg",
+      "mean_similarity": 0.9365241527557373,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\096.Hooded_Oriole\\Hooded_Oriole_0126_90319.jpg",
+      "mean_similarity": 0.9362547993659973,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\096.Hooded_Oriole\\Hooded_Oriole_0067_90416.jpg",
+      "mean_similarity": 0.9328815340995789,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\096.Hooded_Oriole\\Hooded_Oriole_0091_90821.jpg",
+      "mean_similarity": 0.9220831394195557,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\096.Hooded_Oriole\\Hooded_Oriole_0054_90849.jpg",
+      "mean_similarity": 0.9156247973442078,
+      "rank": 30
+    }
+  ]
+}

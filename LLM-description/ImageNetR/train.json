@@ -1,0 +1,26 @@
+{
+  "class_name": "train",
+  "global_description": "Long, cylindrical vehicle with multiple connected cars, metallic body, large windows, and wheels on tracks. Typically features a streamlined front and vibrant colors like red, blue, or silver.",
+  "discriminative_attributes": [
+    "Cylindrical shape",
+    "Multiple connected cars",
+    "Metallic body",
+    "Large windows",
+    "Wheels on tracks"
+  ],
+  "part_details": {
+    "engine": "Streamlined front, often metallic or brightly colored",
+    "cars": "Connected segments, cylindrical with large windows",
+    "wheels": "Large, metal, positioned on tracks",
+    "windows": "Large, rectangular, along sides",
+    "body": "Metallic, often painted in vibrant colors"
+  },
+  "spatial_relations": [
+    "Engine at front of train",
+    "Cars connected in series",
+    "Wheels beneath each car",
+    "Windows along sides of cars"
+  ],
+  "original_dataset_key": "ImageNetR",
+  "original_class_key": "train"
+}

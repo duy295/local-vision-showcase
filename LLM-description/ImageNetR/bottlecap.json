@@ -1,0 +1,23 @@
+{
+  "class_name": "bottlecap",
+  "global_description": "Small, circular metal or plastic object with ridged edges, often featuring a brand logo or text on the top surface. Typically metallic or colored, designed to seal bottles.",
+  "discriminative_attributes": [
+    "Circular shape",
+    "Ridged edges",
+    "Metal or plastic material",
+    "Brand logo or text",
+    "Seals bottles"
+  ],
+  "part_details": {
+    "top": "Flat surface with logo or text",
+    "edges": "Ridged for grip",
+    "underside": "Indented or smooth"
+  },
+  "spatial_relations": [
+    "Edges surround the top",
+    "Top surface is flat",
+    "Underside opposite the top"
+  ],
+  "original_dataset_key": "ImageNetR",
+  "original_class_key": "bottlecap"
+}

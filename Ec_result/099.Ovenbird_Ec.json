@@ -1,0 +1,159 @@
+{
+  "class_name": "099.Ovenbird",
+  "class_idx": 98,
+  "num_images_in_class": 30,
+  "ec_size_requested": 30,
+  "ec_size_actual": 30,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\099.Ovenbird\\Ovenbird_0124_93103.jpg",
+      "mean_similarity": 0.943710446357727,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\099.Ovenbird\\Ovenbird_0003_92910.jpg",
+      "mean_similarity": 0.9436672925949097,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\099.Ovenbird\\Ovenbird_0118_93002.jpg",
+      "mean_similarity": 0.9430564045906067,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\099.Ovenbird\\Ovenbird_0090_93375.jpg",
+      "mean_similarity": 0.9416753649711609,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\099.Ovenbird\\Ovenbird_0011_92451.jpg",
+      "mean_similarity": 0.9415505528450012,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\099.Ovenbird\\Ovenbird_0112_93018.jpg",
+      "mean_similarity": 0.9414001107215881,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\099.Ovenbird\\Ovenbird_0010_92957.jpg",
+      "mean_similarity": 0.9412602186203003,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\099.Ovenbird\\Ovenbird_0004_92868.jpg",
+      "mean_similarity": 0.9410863518714905,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\099.Ovenbird\\Ovenbird_0022_92702.jpg",
+      "mean_similarity": 0.9410303831100464,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\099.Ovenbird\\Ovenbird_0050_92672.jpg",
+      "mean_similarity": 0.9395735859870911,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\099.Ovenbird\\Ovenbird_0077_92590.jpg",
+      "mean_similarity": 0.9394150972366333,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\099.Ovenbird\\Ovenbird_0135_93168.jpg",
+      "mean_similarity": 0.9379132986068726,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\099.Ovenbird\\Ovenbird_0130_92452.jpg",
+      "mean_similarity": 0.9373304843902588,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\099.Ovenbird\\Ovenbird_0098_93032.jpg",
+      "mean_similarity": 0.9370414614677429,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\099.Ovenbird\\Ovenbird_0027_93086.jpg",
+      "mean_similarity": 0.9356303811073303,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\099.Ovenbird\\Ovenbird_0096_93131.jpg",
+      "mean_similarity": 0.9354917407035828,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\099.Ovenbird\\Ovenbird_0059_92470.jpg",
+      "mean_similarity": 0.9350212216377258,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\099.Ovenbird\\Ovenbird_0137_92639.jpg",
+      "mean_similarity": 0.9339322447776794,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\099.Ovenbird\\Ovenbird_0034_93006.jpg",
+      "mean_similarity": 0.9322357177734375,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\099.Ovenbird\\Ovenbird_0035_92785.jpg",
+      "mean_similarity": 0.9316715598106384,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\099.Ovenbird\\Ovenbird_0054_92594.jpg",
+      "mean_similarity": 0.9315197467803955,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\099.Ovenbird\\Ovenbird_0064_93208.jpg",
+      "mean_similarity": 0.9313253164291382,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\099.Ovenbird\\Ovenbird_0024_92583.jpg",
+      "mean_similarity": 0.9287538528442383,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\099.Ovenbird\\Ovenbird_0136_92859.jpg",
+      "mean_similarity": 0.928429365158081,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\099.Ovenbird\\Ovenbird_0102_93172.jpg",
+      "mean_similarity": 0.9261496067047119,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\099.Ovenbird\\Ovenbird_0046_92821.jpg",
+      "mean_similarity": 0.9186375141143799,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\099.Ovenbird\\Ovenbird_0032_93199.jpg",
+      "mean_similarity": 0.9132161736488342,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\099.Ovenbird\\Ovenbird_0104_92763.jpg",
+      "mean_similarity": 0.9089802503585815,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\099.Ovenbird\\Ovenbird_0128_93366.jpg",
+      "mean_similarity": 0.9041549563407898,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\099.Ovenbird\\Ovenbird_0045_92973.jpg",
+      "mean_similarity": 0.8876191973686218,
+      "rank": 30
+    }
+  ]
+}

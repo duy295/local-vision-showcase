@@ -1,0 +1,23 @@
+{
+  "class_name": "Bird",
+  "global_description": "A medium-sized bird with a robust body and a thick neck. Predominantly black with a distinctive white patch on the back of the neck. Glossy feathers cover the body, giving it a sleek appearance. The beak is large and slightly curved, with a strong, sturdy structure.",
+  "discriminative_attributes": [
+    "White patch on neck",
+    "Glossy black feathers",
+    "Thick, curved beak",
+    "Robust body",
+    "Medium size"
+  ],
+  "part_details": {
+    "neck": "White patch contrasting with the rest of the black body, located on the back.",
+    "feathers": "Glossy, black, sleek, covering the entire body.",
+    "beak": "Large, thick, slightly curved, black.",
+    "body": "Robust, medium-sized, covered in glossy black feathers."
+  },
+  "spatial_relations": [
+    "The white patch is located on the back of the neck.",
+    "The beak extends from the front of the head."
+  ],
+  "original_dataset_key": "CUB200",
+  "original_class_key": "white_necked_raven"
+}

@@ -1,0 +1,1259 @@
+{
+  "class_name": "man",
+  "class_idx": 46,
+  "num_images_in_class": 500,
+  "ec_size_requested": 250,
+  "ec_size_actual": 250,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\adam_s_000580.png",
+      "mean_similarity": 0.944530189037323,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\cain_s_000616.png",
+      "mean_similarity": 0.9443608522415161,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\adam_s_000662.png",
+      "mean_similarity": 0.944328248500824,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\adam_s_002203.png",
+      "mean_similarity": 0.9442991614341736,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\cain_s_001430.png",
+      "mean_similarity": 0.9442580342292786,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\man_s_001449.png",
+      "mean_similarity": 0.9442008137702942,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\man_s_000254.png",
+      "mean_similarity": 0.9441806077957153,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\adam_s_000178.png",
+      "mean_similarity": 0.9441717267036438,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\adam_s_002027.png",
+      "mean_similarity": 0.9441331028938293,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\abel_s_000086.png",
+      "mean_similarity": 0.944112241268158,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\cain_s_000050.png",
+      "mean_similarity": 0.9440808296203613,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\adam_s_001202.png",
+      "mean_similarity": 0.944071888923645,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\adam_s_001199.png",
+      "mean_similarity": 0.9439458847045898,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\adam_s_001348.png",
+      "mean_similarity": 0.9439297914505005,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\adam_s_000742.png",
+      "mean_similarity": 0.9438806176185608,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\man_s_000737.png",
+      "mean_similarity": 0.9438508749008179,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\cain_s_001220.png",
+      "mean_similarity": 0.9438377022743225,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\man_s_001553.png",
+      "mean_similarity": 0.9438120722770691,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\abel_s_000720.png",
+      "mean_similarity": 0.9437800049781799,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\abel_s_000769.png",
+      "mean_similarity": 0.9436963796615601,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\adam_s_001381.png",
+      "mean_similarity": 0.943690836429596,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\adam_s_001061.png",
+      "mean_similarity": 0.9436854124069214,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\abel_s_000441.png",
+      "mean_similarity": 0.9436824917793274,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\adam_s_002674.png",
+      "mean_similarity": 0.9436755776405334,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\cain_s_000251.png",
+      "mean_similarity": 0.9436004161834717,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\man_s_000786.png",
+      "mean_similarity": 0.9435914158821106,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\man_s_001769.png",
+      "mean_similarity": 0.9435724020004272,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\adam_s_000534.png",
+      "mean_similarity": 0.9435333013534546,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\man_s_001212.png",
+      "mean_similarity": 0.9435070157051086,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\cain_s_000724.png",
+      "mean_similarity": 0.9434893131256104,
+      "rank": 30
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\adam_s_001691.png",
+      "mean_similarity": 0.9434880614280701,
+      "rank": 31
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\adam_s_000476.png",
+      "mean_similarity": 0.9434729218482971,
+      "rank": 32
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\adam_s_000160.png",
+      "mean_similarity": 0.9434407353401184,
+      "rank": 33
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\man_s_001108.png",
+      "mean_similarity": 0.9433508515357971,
+      "rank": 34
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\man_s_000233.png",
+      "mean_similarity": 0.943345844745636,
+      "rank": 35
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\adam_s_001396.png",
+      "mean_similarity": 0.9433285593986511,
+      "rank": 36
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\man_s_001156.png",
+      "mean_similarity": 0.9433154463768005,
+      "rank": 37
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\adam_s_000650.png",
+      "mean_similarity": 0.9432992339134216,
+      "rank": 38
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\adam_s_001341.png",
+      "mean_similarity": 0.9432385563850403,
+      "rank": 39
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\adam_s_001407.png",
+      "mean_similarity": 0.9432221055030823,
+      "rank": 40
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\adam_s_002408.png",
+      "mean_similarity": 0.9431893825531006,
+      "rank": 41
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\adam_s_002776.png",
+      "mean_similarity": 0.9431794285774231,
+      "rank": 42
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\adam_s_001008.png",
+      "mean_similarity": 0.9431760907173157,
+      "rank": 43
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\adam_s_000834.png",
+      "mean_similarity": 0.9431595206260681,
+      "rank": 44
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\adam_s_002449.png",
+      "mean_similarity": 0.9431557059288025,
+      "rank": 45
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\cain_s_000172.png",
+      "mean_similarity": 0.9431518316268921,
+      "rank": 46
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\adam_s_002419.png",
+      "mean_similarity": 0.943148672580719,
+      "rank": 47
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\adam_s_000227.png",
+      "mean_similarity": 0.943121612071991,
+      "rank": 48
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\cain_s_001426.png",
+      "mean_similarity": 0.9430796504020691,
+      "rank": 49
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\man_s_001883.png",
+      "mean_similarity": 0.9430631399154663,
+      "rank": 50
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\man_s_001193.png",
+      "mean_similarity": 0.9430604577064514,
+      "rank": 51
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\adam_s_001870.png",
+      "mean_similarity": 0.9430398344993591,
+      "rank": 52
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\adam_s_001990.png",
+      "mean_similarity": 0.9430325031280518,
+      "rank": 53
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\adam_s_002336.png",
+      "mean_similarity": 0.9430186748504639,
+      "rank": 54
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\adam_s_002025.png",
+      "mean_similarity": 0.9429945349693298,
+      "rank": 55
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\man_s_000089.png",
+      "mean_similarity": 0.9429160952568054,
+      "rank": 56
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\adam_s_000664.png",
+      "mean_similarity": 0.9428606033325195,
+      "rank": 57
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\adam_s_002551.png",
+      "mean_similarity": 0.9428353905677795,
+      "rank": 58
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\abel_s_000011.png",
+      "mean_similarity": 0.942813515663147,
+      "rank": 59
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\man_s_000972.png",
+      "mean_similarity": 0.9427965879440308,
+      "rank": 60
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\cain_s_001414.png",
+      "mean_similarity": 0.9427770376205444,
+      "rank": 61
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\cain_s_000459.png",
+      "mean_similarity": 0.9427511096000671,
+      "rank": 62
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\adam_s_002263.png",
+      "mean_similarity": 0.9427184462547302,
+      "rank": 63
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\cain_s_000283.png",
+      "mean_similarity": 0.94270920753479,
+      "rank": 64
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\adam_s_000750.png",
+      "mean_similarity": 0.9426921606063843,
+      "rank": 65
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\adam_s_001343.png",
+      "mean_similarity": 0.9426810145378113,
+      "rank": 66
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\adam_s_002041.png",
+      "mean_similarity": 0.9425920844078064,
+      "rank": 67
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\adam_s_000392.png",
+      "mean_similarity": 0.9425919055938721,
+      "rank": 68
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\cain_s_000963.png",
+      "mean_similarity": 0.9425889849662781,
+      "rank": 69
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\man_s_000898.png",
+      "mean_similarity": 0.9425772428512573,
+      "rank": 70
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\abel_s_000450.png",
+      "mean_similarity": 0.9425747990608215,
+      "rank": 71
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\adam_s_002191.png",
+      "mean_similarity": 0.9425449371337891,
+      "rank": 72
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\cain_s_000286.png",
+      "mean_similarity": 0.9425085783004761,
+      "rank": 73
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\man_s_000057.png",
+      "mean_similarity": 0.9424616694450378,
+      "rank": 74
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\adam_s_000207.png",
+      "mean_similarity": 0.9424134492874146,
+      "rank": 75
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\adam_s_002127.png",
+      "mean_similarity": 0.9423758387565613,
+      "rank": 76
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\adam_s_001947.png",
+      "mean_similarity": 0.9423646926879883,
+      "rank": 77
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\adam_s_000356.png",
+      "mean_similarity": 0.9423478245735168,
+      "rank": 78
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\adam_s_002436.png",
+      "mean_similarity": 0.9423431754112244,
+      "rank": 79
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\adam_s_000142.png",
+      "mean_similarity": 0.9423364400863647,
+      "rank": 80
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\man_s_001489.png",
+      "mean_similarity": 0.9423165321350098,
+      "rank": 81
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\adam_s_002539.png",
+      "mean_similarity": 0.9422268271446228,
+      "rank": 82
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\man_s_000687.png",
+      "mean_similarity": 0.9421935677528381,
+      "rank": 83
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\man_s_000800.png",
+      "mean_similarity": 0.9421873688697815,
+      "rank": 84
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\adam_s_002727.png",
+      "mean_similarity": 0.9421594738960266,
+      "rank": 85
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\adam_s_001994.png",
+      "mean_similarity": 0.9421560764312744,
+      "rank": 86
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\cain_s_001603.png",
+      "mean_similarity": 0.9421554207801819,
+      "rank": 87
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\adam_s_001163.png",
+      "mean_similarity": 0.9421509504318237,
+      "rank": 88
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\cain_s_001509.png",
+      "mean_similarity": 0.9421472549438477,
+      "rank": 89
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\man_s_001755.png",
+      "mean_similarity": 0.9421426057815552,
+      "rank": 90
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\adam_s_001101.png",
+      "mean_similarity": 0.9421079754829407,
+      "rank": 91
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\man_s_002189.png",
+      "mean_similarity": 0.9421042203903198,
+      "rank": 92
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\cain_s_001514.png",
+      "mean_similarity": 0.9421036839485168,
+      "rank": 93
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\abel_s_000353.png",
+      "mean_similarity": 0.9421026110649109,
+      "rank": 94
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\abel_s_000531.png",
+      "mean_similarity": 0.9420864582061768,
+      "rank": 95
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\adam_s_001173.png",
+      "mean_similarity": 0.9420790076255798,
+      "rank": 96
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\man_s_000913.png",
+      "mean_similarity": 0.9420655369758606,
+      "rank": 97
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\abel_s_000408.png",
+      "mean_similarity": 0.9420428276062012,
+      "rank": 98
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\man_s_000813.png",
+      "mean_similarity": 0.942032516002655,
+      "rank": 99
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\adam_s_001106.png",
+      "mean_similarity": 0.9420250654220581,
+      "rank": 100
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\cain_s_001399.png",
+      "mean_similarity": 0.9420008063316345,
+      "rank": 101
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\adam_s_002271.png",
+      "mean_similarity": 0.941927969455719,
+      "rank": 102
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\adam_s_000818.png",
+      "mean_similarity": 0.9419240355491638,
+      "rank": 103
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\man_s_000292.png",
+      "mean_similarity": 0.9419205188751221,
+      "rank": 104
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\man_s_000977.png",
+      "mean_similarity": 0.9419187903404236,
+      "rank": 105
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\adam_s_002652.png",
+      "mean_similarity": 0.9419101476669312,
+      "rank": 106
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\adam_s_000211.png",
+      "mean_similarity": 0.9418429732322693,
+      "rank": 107
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\adam_s_000129.png",
+      "mean_similarity": 0.9418370723724365,
+      "rank": 108
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\man_s_000464.png",
+      "mean_similarity": 0.9418232440948486,
+      "rank": 109
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\adam_s_002608.png",
+      "mean_similarity": 0.9418010115623474,
+      "rank": 110
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\adam_s_002031.png",
+      "mean_similarity": 0.9417875409126282,
+      "rank": 111
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\abel_s_000491.png",
+      "mean_similarity": 0.9417679309844971,
+      "rank": 112
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\adam_s_002076.png",
+      "mean_similarity": 0.9417486190795898,
+      "rank": 113
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\man_s_000180.png",
+      "mean_similarity": 0.9417409300804138,
+      "rank": 114
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\adam_s_000762.png",
+      "mean_similarity": 0.9417387247085571,
+      "rank": 115
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\adam_s_000307.png",
+      "mean_similarity": 0.941736102104187,
+      "rank": 116
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\man_s_000467.png",
+      "mean_similarity": 0.9417172074317932,
+      "rank": 117
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\adam_s_000712.png",
+      "mean_similarity": 0.9416981935501099,
+      "rank": 118
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\man_s_000052.png",
+      "mean_similarity": 0.9416727423667908,
+      "rank": 119
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\adam_s_000147.png",
+      "mean_similarity": 0.9416642785072327,
+      "rank": 120
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\man_s_000173.png",
+      "mean_similarity": 0.9416604042053223,
+      "rank": 121
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\abel_s_000773.png",
+      "mean_similarity": 0.9416458010673523,
+      "rank": 122
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\adam_s_001448.png",
+      "mean_similarity": 0.9416317939758301,
+      "rank": 123
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\adam_s_002390.png",
+      "mean_similarity": 0.9415693283081055,
+      "rank": 124
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\man_s_001634.png",
+      "mean_similarity": 0.941525399684906,
+      "rank": 125
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\cain_s_001046.png",
+      "mean_similarity": 0.9415148496627808,
+      "rank": 126
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\man_s_000140.png",
+      "mean_similarity": 0.9414845705032349,
+      "rank": 127
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\adam_s_000643.png",
+      "mean_similarity": 0.9414814114570618,
+      "rank": 128
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\adam_s_002104.png",
+      "mean_similarity": 0.9414780735969543,
+      "rank": 129
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\cain_s_000048.png",
+      "mean_similarity": 0.9414768815040588,
+      "rank": 130
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\abel_s_000495.png",
+      "mean_similarity": 0.9414554238319397,
+      "rank": 131
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\man_s_002141.png",
+      "mean_similarity": 0.9414476752281189,
+      "rank": 132
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\abel_s_000081.png",
+      "mean_similarity": 0.9414362907409668,
+      "rank": 133
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\adam_s_001168.png",
+      "mean_similarity": 0.9414049983024597,
+      "rank": 134
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\adam_s_000535.png",
+      "mean_similarity": 0.9413895010948181,
+      "rank": 135
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\man_s_001753.png",
+      "mean_similarity": 0.9413498640060425,
+      "rank": 136
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\adam_s_001332.png",
+      "mean_similarity": 0.9413360357284546,
+      "rank": 137
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\adam_s_002346.png",
+      "mean_similarity": 0.9413327574729919,
+      "rank": 138
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\adam_s_000655.png",
+      "mean_similarity": 0.9413130283355713,
+      "rank": 139
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\adam_s_002145.png",
+      "mean_similarity": 0.9413060545921326,
+      "rank": 140
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\man_s_001442.png",
+      "mean_similarity": 0.9413012862205505,
+      "rank": 141
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\cain_s_000716.png",
+      "mean_similarity": 0.9412915706634521,
+      "rank": 142
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\adam_s_000404.png",
+      "mean_similarity": 0.9412828683853149,
+      "rank": 143
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\cain_s_000404.png",
+      "mean_similarity": 0.9412780404090881,
+      "rank": 144
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\man_s_000818.png",
+      "mean_similarity": 0.9412364959716797,
+      "rank": 145
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\man_s_001577.png",
+      "mean_similarity": 0.9412246346473694,
+      "rank": 146
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\cain_s_001317.png",
+      "mean_similarity": 0.9412165284156799,
+      "rank": 147
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\cain_s_001605.png",
+      "mean_similarity": 0.9412134885787964,
+      "rank": 148
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\adam_s_000280.png",
+      "mean_similarity": 0.9412000179290771,
+      "rank": 149
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\adam_s_002337.png",
+      "mean_similarity": 0.9411920309066772,
+      "rank": 150
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\man_s_000549.png",
+      "mean_similarity": 0.9411525130271912,
+      "rank": 151
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\adam_s_000416.png",
+      "mean_similarity": 0.9411391615867615,
+      "rank": 152
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\adam_s_001223.png",
+      "mean_similarity": 0.9411344528198242,
+      "rank": 153
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\adam_s_001047.png",
+      "mean_similarity": 0.9411119222640991,
+      "rank": 154
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\abel_s_000118.png",
+      "mean_similarity": 0.941110372543335,
+      "rank": 155
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\cain_s_000179.png",
+      "mean_similarity": 0.9410965442657471,
+      "rank": 156
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\abel_s_000507.png",
+      "mean_similarity": 0.9410889744758606,
+      "rank": 157
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\cain_s_000390.png",
+      "mean_similarity": 0.9410757422447205,
+      "rank": 158
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\man_s_000353.png",
+      "mean_similarity": 0.9410738348960876,
+      "rank": 159
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\adam_s_001043.png",
+      "mean_similarity": 0.9409790635108948,
+      "rank": 160
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\man_s_000360.png",
+      "mean_similarity": 0.9409734606742859,
+      "rank": 161
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\man_s_001962.png",
+      "mean_similarity": 0.9409616589546204,
+      "rank": 162
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\adam_s_001557.png",
+      "mean_similarity": 0.940952479839325,
+      "rank": 163
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\adam_s_000237.png",
+      "mean_similarity": 0.9408689141273499,
+      "rank": 164
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\cain_s_000888.png",
+      "mean_similarity": 0.9408025741577148,
+      "rank": 165
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\adam_s_002102.png",
+      "mean_similarity": 0.9407705664634705,
+      "rank": 166
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\man_s_000455.png",
+      "mean_similarity": 0.9407599568367004,
+      "rank": 167
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\adam_s_000306.png",
+      "mean_similarity": 0.940699577331543,
+      "rank": 168
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\adam_s_000049.png",
+      "mean_similarity": 0.9406755566596985,
+      "rank": 169
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\adam_s_001760.png",
+      "mean_similarity": 0.9406576156616211,
+      "rank": 170
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\man_s_000926.png",
+      "mean_similarity": 0.9406439661979675,
+      "rank": 171
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\adam_s_001881.png",
+      "mean_similarity": 0.9406372308731079,
+      "rank": 172
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\adam_s_002212.png",
+      "mean_similarity": 0.9406027793884277,
+      "rank": 173
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\adam_s_002057.png",
+      "mean_similarity": 0.940547525882721,
+      "rank": 174
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\man_s_001348.png",
+      "mean_similarity": 0.940539538860321,
+      "rank": 175
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\adam_s_002669.png",
+      "mean_similarity": 0.9405084848403931,
+      "rank": 176
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\man_s_001547.png",
+      "mean_similarity": 0.9404497742652893,
+      "rank": 177
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\adam_s_002440.png",
+      "mean_similarity": 0.9404388666152954,
+      "rank": 178
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\adam_s_001566.png",
+      "mean_similarity": 0.9403941035270691,
+      "rank": 179
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\adam_s_002435.png",
+      "mean_similarity": 0.9403882622718811,
+      "rank": 180
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\man_s_002138.png",
+      "mean_similarity": 0.940385639667511,
+      "rank": 181
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\adam_s_002377.png",
+      "mean_similarity": 0.9403573870658875,
+      "rank": 182
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\cain_s_000291.png",
+      "mean_similarity": 0.940352737903595,
+      "rank": 183
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\cain_s_000989.png",
+      "mean_similarity": 0.9403515458106995,
+      "rank": 184
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\adam_s_001171.png",
+      "mean_similarity": 0.9403345584869385,
+      "rank": 185
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\adam_s_002653.png",
+      "mean_similarity": 0.9403279423713684,
+      "rank": 186
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\abel_s_000087.png",
+      "mean_similarity": 0.9402780532836914,
+      "rank": 187
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\man_s_000152.png",
+      "mean_similarity": 0.9402633309364319,
+      "rank": 188
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\man_s_002074.png",
+      "mean_similarity": 0.9402564764022827,
+      "rank": 189
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\adam_s_002320.png",
+      "mean_similarity": 0.9402462244033813,
+      "rank": 190
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\man_s_000870.png",
+      "mean_similarity": 0.9402291178703308,
+      "rank": 191
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\adam_s_002774.png",
+      "mean_similarity": 0.9402233362197876,
+      "rank": 192
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\man_s_000508.png",
+      "mean_similarity": 0.9402017593383789,
+      "rank": 193
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\adam_s_001182.png",
+      "mean_similarity": 0.9401904344558716,
+      "rank": 194
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\abel_s_000355.png",
+      "mean_similarity": 0.9401702284812927,
+      "rank": 195
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\man_s_001745.png",
+      "mean_similarity": 0.9401562213897705,
+      "rank": 196
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\cain_s_000818.png",
+      "mean_similarity": 0.94014972448349,
+      "rank": 197
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\adam_s_000645.png",
+      "mean_similarity": 0.940129280090332,
+      "rank": 198
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\man_s_000723.png",
+      "mean_similarity": 0.9400287866592407,
+      "rank": 199
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\abel_s_000821.png",
+      "mean_similarity": 0.940016508102417,
+      "rank": 200
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\adam_s_001659.png",
+      "mean_similarity": 0.9400127530097961,
+      "rank": 201
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\cain_s_000485.png",
+      "mean_similarity": 0.9399521946907043,
+      "rank": 202
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\adam_s_002511.png",
+      "mean_similarity": 0.9399377703666687,
+      "rank": 203
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\man_s_001964.png",
+      "mean_similarity": 0.9399352669715881,
+      "rank": 204
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\adam_s_000950.png",
+      "mean_similarity": 0.9399091005325317,
+      "rank": 205
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\adam_s_002360.png",
+      "mean_similarity": 0.9398664832115173,
+      "rank": 206
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\abel_s_000126.png",
+      "mean_similarity": 0.939858615398407,
+      "rank": 207
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\man_s_002167.png",
+      "mean_similarity": 0.9398583769798279,
+      "rank": 208
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\man_s_000137.png",
+      "mean_similarity": 0.9397935271263123,
+      "rank": 209
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\man_s_000267.png",
+      "mean_similarity": 0.9397746920585632,
+      "rank": 210
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\abel_s_000606.png",
+      "mean_similarity": 0.9397741556167603,
+      "rank": 211
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\man_s_001995.png",
+      "mean_similarity": 0.9397665858268738,
+      "rank": 212
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\abel_s_000248.png",
+      "mean_similarity": 0.9397293329238892,
+      "rank": 213
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\man_s_000642.png",
+      "mean_similarity": 0.9397132992744446,
+      "rank": 214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\adult_male_s_000029.png",
+      "mean_similarity": 0.9396750926971436,
+      "rank": 215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\adam_s_002734.png",
+      "mean_similarity": 0.9396749138832092,
+      "rank": 216
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\adam_s_000705.png",
+      "mean_similarity": 0.9396316409111023,
+      "rank": 217
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\man_s_002094.png",
+      "mean_similarity": 0.9396268129348755,
+      "rank": 218
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\adam_s_001959.png",
+      "mean_similarity": 0.9395598769187927,
+      "rank": 219
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\man_s_001300.png",
+      "mean_similarity": 0.939536988735199,
+      "rank": 220
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\adam_s_001215.png",
+      "mean_similarity": 0.9394680261611938,
+      "rank": 221
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\adam_s_002602.png",
+      "mean_similarity": 0.9394599795341492,
+      "rank": 222
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\adam_s_002071.png",
+      "mean_similarity": 0.9394376873970032,
+      "rank": 223
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\adam_s_002733.png",
+      "mean_similarity": 0.9394286870956421,
+      "rank": 224
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\man_s_000130.png",
+      "mean_similarity": 0.9393954873085022,
+      "rank": 225
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\adam_s_001939.png",
+      "mean_similarity": 0.9393767714500427,
+      "rank": 226
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\adam_s_002095.png",
+      "mean_similarity": 0.9393435716629028,
+      "rank": 227
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\adam_s_002267.png",
+      "mean_similarity": 0.939332902431488,
+      "rank": 228
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\adam_s_002345.png",
+      "mean_similarity": 0.9392567276954651,
+      "rank": 229
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\cain_s_001438.png",
+      "mean_similarity": 0.9392296075820923,
+      "rank": 230
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\man_s_001957.png",
+      "mean_similarity": 0.9392087459564209,
+      "rank": 231
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\adam_s_000321.png",
+      "mean_similarity": 0.9392048120498657,
+      "rank": 232
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\man_s_001060.png",
+      "mean_similarity": 0.9391925930976868,
+      "rank": 233
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\man_s_001460.png",
+      "mean_similarity": 0.9391880035400391,
+      "rank": 234
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\adam_s_002362.png",
+      "mean_similarity": 0.9391736388206482,
+      "rank": 235
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\man_s_001958.png",
+      "mean_similarity": 0.939121425151825,
+      "rank": 236
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\cain_s_000829.png",
+      "mean_similarity": 0.9390544891357422,
+      "rank": 237
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\adam_s_000171.png",
+      "mean_similarity": 0.9390477538108826,
+      "rank": 238
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\man_s_000662.png",
+      "mean_similarity": 0.9390461444854736,
+      "rank": 239
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\cain_s_000599.png",
+      "mean_similarity": 0.9390238523483276,
+      "rank": 240
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\adam_s_001858.png",
+      "mean_similarity": 0.9389802813529968,
+      "rank": 241
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\man_s_001204.png",
+      "mean_similarity": 0.938833475112915,
+      "rank": 242
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\man_s_001924.png",
+      "mean_similarity": 0.938818633556366,
+      "rank": 243
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\man_s_000087.png",
+      "mean_similarity": 0.9388182163238525,
+      "rank": 244
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\man_s_000448.png",
+      "mean_similarity": 0.938720703125,
+      "rank": 245
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\abel_s_000610.png",
+      "mean_similarity": 0.9387198686599731,
+      "rank": 246
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\adam_s_002364.png",
+      "mean_similarity": 0.938576340675354,
+      "rank": 247
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\man_s_001705.png",
+      "mean_similarity": 0.9385538101196289,
+      "rank": 248
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\cain_s_000992.png",
+      "mean_similarity": 0.9384792447090149,
+      "rank": 249
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\047.man\\adam_s_001565.png",
+      "mean_similarity": 0.9384174942970276,
+      "rank": 250
+    }
+  ]
+}

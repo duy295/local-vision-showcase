@@ -1,0 +1,26 @@
+{
+  "class_name": "Bird",
+  "global_description": "A small, slender bird with a rounded body and a short tail. It has a brown-streaked back and wings, a grayish-white underbelly, and a distinctive rusty cap on its head. The bird's beak is short and conical, suited for seed eating.",
+  "discriminative_attributes": [
+    "Rusty cap on head",
+    "Brown-streaked back and wings",
+    "Grayish-white underbelly",
+    "Short conical beak",
+    "Small, slender body"
+  ],
+  "part_details": {
+    "head": "Rusty cap with a grayish face and a dark eye line.",
+    "back": "Brown with darker streaks, blending into the wings.",
+    "wings": "Brown with dark streaks, matching the back.",
+    "underbelly": "Grayish-white, smooth and unmarked.",
+    "beak": "Short, conical, and dark, ideal for seeds."
+  },
+  "spatial_relations": [
+    "The rusty cap covers the top of the head.",
+    "The brown-streaked wings extend from the sides of the back.",
+    "The grayish-white underbelly is below the wings and back.",
+    "The short beak is positioned at the front of the head."
+  ],
+  "original_dataset_key": "CUB200",
+  "original_class_key": "chipping_sparrow"
+}

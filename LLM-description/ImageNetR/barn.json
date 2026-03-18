@@ -1,0 +1,26 @@
+{
+  "class_name": "barn",
+  "global_description": "Large rectangular structure, typically red or brown, with a pitched roof, wooden walls, large double doors, and small windows. Often found in rural settings, used for storing hay, equipment, or housing livestock.",
+  "discriminative_attributes": [
+    "Rectangular shape",
+    "Pitched roof",
+    "Wooden walls",
+    "Large double doors",
+    "Small windows"
+  ],
+  "part_details": {
+    "roof": "Pitched, often metal or shingle-covered",
+    "walls": "Wooden, usually painted red or brown",
+    "doors": "Large double doors, centrally located",
+    "windows": "Small, often rectangular, placed high on walls",
+    "foundation": "Concrete or wooden base"
+  },
+  "spatial_relations": [
+    "Roof sits atop walls",
+    "Doors centered on front wall",
+    "Windows positioned high on walls",
+    "Foundation supports entire structure"
+  ],
+  "original_dataset_key": "ImageNetR",
+  "original_class_key": "barn"
+}

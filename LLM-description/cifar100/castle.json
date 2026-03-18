@@ -1,0 +1,26 @@
+{
+  "class_name": "castle",
+  "global_description": "Large stone structure with towering walls, turrets, and battlements. Typically gray or brown, with a rugged, ancient texture. Features include a central keep, fortified gates, and often a surrounding moat.",
+  "discriminative_attributes": [
+    "Towering stone walls",
+    "Turrets and battlements",
+    "Central keep",
+    "Fortified gates",
+    "Surrounding moat"
+  ],
+  "part_details": {
+    "walls": "Tall, thick stone walls with rugged texture",
+    "turrets": "Cylindrical towers with conical roofs",
+    "battlements": "Notched parapets for defense",
+    "keep": "Central fortified structure, often square",
+    "gates": "Large, reinforced wooden or metal doors"
+  },
+  "spatial_relations": [
+    "Turrets positioned at corners of walls",
+    "Battlements atop walls",
+    "Keep located centrally within walls",
+    "Gates at front of walls"
+  ],
+  "original_dataset_key": "cifar100",
+  "original_class_key": "castle"
+}

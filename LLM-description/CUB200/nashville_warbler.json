@@ -1,0 +1,26 @@
+{
+  "class_name": "Nashville Warbler",
+  "global_description": "A small, round-bodied songbird with a predominantly olive-green back and wings. It features a bright yellow underbelly and throat, with a distinctive gray head and a white eye ring. The bird has a slender, pointed beak and short, rounded tail.",
+  "discriminative_attributes": [
+    "Olive-green back and wings",
+    "Bright yellow underbelly",
+    "Gray head with white eye ring",
+    "Slender pointed beak",
+    "Short rounded tail"
+  ],
+  "part_details": {
+    "head": "Gray with a prominent white eye ring, small and rounded.",
+    "back": "Olive-green, smooth feathers covering the upper body.",
+    "underbelly": "Bright yellow, contrasting with the darker back.",
+    "wings": "Olive-green, short and rounded with smooth feathers.",
+    "tail": "Short, rounded, matching the olive-green of the wings."
+  },
+  "spatial_relations": [
+    "The gray head transitions into the olive-green back.",
+    "The bright yellow underbelly is below the gray head and olive-green back.",
+    "The wings are attached to the sides of the olive-green back.",
+    "The short tail extends from the rear of the body."
+  ],
+  "original_dataset_key": "CUB200",
+  "original_class_key": "nashville_warbler"
+}

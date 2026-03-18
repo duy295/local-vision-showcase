@@ -1,0 +1,24 @@
+{
+  "class_name": "Cape May Warbler",
+  "global_description": "A small, slender songbird with a pointed beak and a slightly rounded body. It features a striking combination of yellow and olive-green plumage with a distinctive chestnut cheek patch. The wings are dark with white wing bars, and the underparts are streaked with black.",
+  "discriminative_attributes": [
+    "Yellow and olive-green plumage",
+    "Chestnut cheek patch",
+    "Dark wings with white bars",
+    "Black streaked underparts",
+    "Pointed beak"
+  ],
+  "part_details": {
+    "head": "Yellow with a prominent chestnut cheek patch and a pointed beak.",
+    "wings": "Dark with two white wing bars, providing contrast against the body.",
+    "underparts": "Yellow with black streaks running vertically.",
+    "tail": "Short and dark, complementing the wing color."
+  },
+  "spatial_relations": [
+    "The chestnut cheek patch is located on the side of the head.",
+    "The white wing bars run horizontally across the dark wings.",
+    "The black streaks are vertically aligned on the yellow underparts."
+  ],
+  "original_dataset_key": "CUB200",
+  "original_class_key": "cape_may_warbler"
+}

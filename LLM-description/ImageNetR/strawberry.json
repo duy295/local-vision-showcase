@@ -1,0 +1,23 @@
+{
+  "class_name": "strawberry",
+  "global_description": "Small, heart-shaped fruit with bright red skin, covered in tiny yellow seeds, and a green leafy cap at the top. The surface is slightly bumpy due to the seeds, and the flesh inside is juicy and red.",
+  "discriminative_attributes": [
+    "Heart-shaped",
+    "Bright red skin",
+    "Tiny yellow seeds",
+    "Green leafy cap",
+    "Juicy red flesh"
+  ],
+  "part_details": {
+    "skin": "Bright red with tiny yellow seeds",
+    "flesh": "Juicy and red inside",
+    "cap": "Green leafy top"
+  },
+  "spatial_relations": [
+    "Seeds embedded in skin",
+    "Cap at top of fruit",
+    "Flesh beneath skin"
+  ],
+  "original_dataset_key": "ImageNetR",
+  "original_class_key": "strawberry"
+}

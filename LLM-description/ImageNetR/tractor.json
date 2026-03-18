@@ -1,0 +1,26 @@
+{
+  "class_name": "tractor",
+  "global_description": "Large agricultural vehicle with a robust, boxy shape, predominantly green or red, featuring large rear wheels, smaller front wheels, and a metal body. The cabin is enclosed with glass windows, and the front has a prominent grille.",
+  "discriminative_attributes": [
+    "Large rear wheels",
+    "Smaller front wheels",
+    "Enclosed cabin",
+    "Prominent front grille",
+    "Metal body"
+  ],
+  "part_details": {
+    "wheels": "Large rear wheels, smaller front wheels, typically black with metal rims",
+    "cabin": "Enclosed with glass windows, metal frame",
+    "body": "Boxy, metal, often green or red",
+    "grille": "Prominent, located at the front, metal",
+    "exhaust": "Metal pipe, usually on the side"
+  },
+  "spatial_relations": [
+    "Rear wheels larger than front wheels",
+    "Cabin positioned centrally",
+    "Grille at front of body",
+    "Exhaust pipe on side of body"
+  ],
+  "original_dataset_key": "ImageNetR",
+  "original_class_key": "tractor"
+}

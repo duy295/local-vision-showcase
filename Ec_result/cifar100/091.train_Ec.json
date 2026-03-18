@@ -1,0 +1,454 @@
+{
+  "class_name": "train",
+  "class_idx": 91,
+  "class_folder": "091.train",
+  "num_images_in_class": 10,
+  "ec_size_requested": 30,
+  "ec_size_actual": 40,
+  "num_fewshot": 10,
+  "num_synthesized": 30,
+  "fewshot_emphasis_weight": 3.0,
+  "hybrid_lambda": 0.6,
+  "related_base_classes": [
+    {
+      "class_key": "bus",
+      "relevance_score": 4.2608
+    },
+    {
+      "class_key": "caterpillar",
+      "relevance_score": 3.7403
+    },
+    {
+      "class_key": "bridge",
+      "relevance_score": 3.618
+    },
+    {
+      "class_key": "pickup_truck",
+      "relevance_score": 3.5895
+    },
+    {
+      "class_key": "bottle",
+      "relevance_score": 3.4398
+    },
+    {
+      "class_key": "motorcycle",
+      "relevance_score": 3.1948
+    },
+    {
+      "class_key": "cloud",
+      "relevance_score": 2.6061
+    },
+    {
+      "class_key": "bicycle",
+      "relevance_score": 2.3478
+    },
+    {
+      "class_key": "can",
+      "relevance_score": 1.8477
+    },
+    {
+      "class_key": "dolphin",
+      "relevance_score": 1.7835
+    }
+  ],
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\images\\091.train\\boat_train_s_000018.png",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 1,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979726
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\images\\091.train\\boat_train_s_000255.png",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 2,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979726
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\images\\091.train\\boat_train_s_000464.png",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 3,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979725
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\images\\091.train\\boat_train_s_000505.png",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 4,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979725
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\images\\091.train\\boat_train_s_000782.png",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 5,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979725
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\images\\091.train\\boat_train_s_000950.png",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 6,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979725
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\images\\091.train\\boat_train_s_000956.png",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 7,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979725
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\images\\091.train\\boat_train_s_000958.png",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 8,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979726
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\images\\091.train\\boat_train_s_001010.png",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 9,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979725
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\images\\091.train\\boat_train_s_001033.png",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 10,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979725
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\drawbridge_s_002222.png",
+      "mean_similarity": 0.9797259,
+      "rank": 11,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979726
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_s_000241.png",
+      "mean_similarity": 0.9797258,
+      "rank": 12,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979726
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\bus_s_000034.png",
+      "mean_similarity": 0.9797257,
+      "rank": 13,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979726
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_truck_s_000143.png",
+      "mean_similarity": 0.9797256000000001,
+      "rank": 14,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979726
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_s_001812.png",
+      "mean_similarity": 0.9797256000000001,
+      "rank": 15,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979726
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\drawbridge_s_001730.png",
+      "mean_similarity": 0.9797256000000001,
+      "rank": 16,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979726
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\bus_s_000110.png",
+      "mean_similarity": 0.9797256000000001,
+      "rank": 17,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979725
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\minibus_s_001590.png",
+      "mean_similarity": 0.9797256000000001,
+      "rank": 18,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979726
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_truck_s_000049.png",
+      "mean_similarity": 0.9797256000000001,
+      "rank": 19,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979726
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_truck_s_001539.png",
+      "mean_similarity": 0.9797255,
+      "rank": 20,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979725
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\bus_s_000043.png",
+      "mean_similarity": 0.9797255,
+      "rank": 21,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979725
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\049.motorcycle\\motorcycle_s_001767.png",
+      "mean_similarity": 0.9797255,
+      "rank": 22,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979725
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_truck_s_000629.png",
+      "mean_similarity": 0.9797254000000001,
+      "rank": 23,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979725
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\minibus_s_000283.png",
+      "mean_similarity": 0.9797254000000001,
+      "rank": 24,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979725
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\school_bus_s_002034.png",
+      "mean_similarity": 0.9797254000000001,
+      "rank": 25,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979725
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\049.motorcycle\\motorcycle_s_001520.png",
+      "mean_similarity": 0.9797254000000001,
+      "rank": 26,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979725
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\049.motorcycle\\motorcycle_s_000431.png",
+      "mean_similarity": 0.9797254000000001,
+      "rank": 27,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979725
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\minibus_s_002056.png",
+      "mean_similarity": 0.9797253,
+      "rank": 28,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979725
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\minibus_s_001662.png",
+      "mean_similarity": 0.9797253,
+      "rank": 29,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979725
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_truck_s_000828.png",
+      "mean_similarity": 0.9797253,
+      "rank": 30,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979725
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_truck_s_001531.png",
+      "mean_similarity": 0.9797253,
+      "rank": 31,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979725
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\lift_bridge_s_001330.png",
+      "mean_similarity": 0.9797253,
+      "rank": 32,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979725
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\minibus_s_000211.png",
+      "mean_similarity": 0.9797252000000001,
+      "rank": 33,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979725
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\bus_s_000575.png",
+      "mean_similarity": 0.9797251,
+      "rank": 34,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979725
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\trolleybus_s_000106.png",
+      "mean_similarity": 0.9797251,
+      "rank": 35,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979725
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\049.motorcycle\\motorcycle_s_000928.png",
+      "mean_similarity": 0.9797251,
+      "rank": 36,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979725
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\lift_bridge_s_000588.png",
+      "mean_similarity": 0.9797251,
+      "rank": 37,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979725
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_s_002196.png",
+      "mean_similarity": 0.9797250000000001,
+      "rank": 38,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979725
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\bus_s_000210.png",
+      "mean_similarity": 0.9797250000000001,
+      "rank": 39,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979725
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\014.bus\\school_bus_s_001505.png",
+      "mean_similarity": 0.9797250000000001,
+      "rank": 40,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979725
+    }
+  ],
+  "debug": {
+    "total_candidates": 200,
+    "after_voting": 200,
+    "after_dedup": 30,
+    "dedup_mode": "backbone",
+    "top_segments": [
+      {
+        "class": "pickup_truck",
+        "seg": 3,
+        "hybrid": 1.5558,
+        "magnitude": 9.7973,
+        "borda": 481.0
+      },
+      {
+        "class": "bus",
+        "seg": 4,
+        "hybrid": 1.5408,
+        "magnitude": 9.7973,
+        "borda": 476.0
+      },
+      {
+        "class": "bus",
+        "seg": 1,
+        "hybrid": 1.3583,
+        "magnitude": 9.7973,
+        "borda": 457.0
+      },
+      {
+        "class": "pickup_truck",
+        "seg": 0,
+        "hybrid": 1.3164,
+        "magnitude": 9.7973,
+        "borda": 443.0
+      },
+      {
+        "class": "pickup_truck",
+        "seg": 2,
+        "hybrid": 1.2925,
+        "magnitude": 9.7973,
+        "borda": 435.0
+      },
+      {
+        "class": "bus",
+        "seg": 2,
+        "hybrid": 1.2147,
+        "magnitude": 9.7973,
+        "borda": 430.0
+      },
+      {
+        "class": "pickup_truck",
+        "seg": 1,
+        "hybrid": 1.2027,
+        "magnitude": 9.7973,
+        "borda": 426.0
+      },
+      {
+        "class": "bus",
+        "seg": 3,
+        "hybrid": 1.1938,
+        "magnitude": 9.7973,
+        "borda": 423.0
+      },
+      {
+        "class": "pickup_truck",
+        "seg": 4,
+        "hybrid": 1.1459,
+        "magnitude": 9.7973,
+        "borda": 407.0
+      },
+      {
+        "class": "bridge",
+        "seg": 0,
+        "hybrid": 1.0532,
+        "magnitude": 9.7972,
+        "borda": 397.0
+      }
+    ]
+  }
+}

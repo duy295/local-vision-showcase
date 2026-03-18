@@ -1,0 +1,24 @@
+{
+  "class_name": "Wilson Warbler",
+  "global_description": "A small, agile songbird with a slender, streamlined body. It features a bright yellow plumage with an olive-green back and a distinctive black cap on its head. The bird has a thin, pointed beak and delicate legs.",
+  "discriminative_attributes": [
+    "Bright yellow plumage",
+    "Olive-green back",
+    "Distinctive black cap",
+    "Thin pointed beak",
+    "Delicate legs"
+  ],
+  "part_details": {
+    "head": "Bright yellow with a distinctive black cap covering the crown.",
+    "body": "Slender and streamlined, predominantly bright yellow with an olive-green back.",
+    "beak": "Thin, pointed, and suitable for insectivorous feeding.",
+    "legs": "Delicate and thin, supporting its small body."
+  },
+  "spatial_relations": [
+    "The black cap covers the crown of the head.",
+    "The olive-green back transitions into the bright yellow body.",
+    "The thin beak protrudes from the front of the head."
+  ],
+  "original_dataset_key": "CUB200",
+  "original_class_key": "wilson_warbler"
+}

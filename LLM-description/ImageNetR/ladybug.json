@@ -1,0 +1,26 @@
+{
+  "class_name": "ladybug",
+  "global_description": "Small, round beetle with a dome-shaped body, bright red or orange elytra with black spots, shiny and smooth texture, black head with white markings, and short black legs.",
+  "discriminative_attributes": [
+    "Bright red or orange elytra",
+    "Black spots on elytra",
+    "Dome-shaped body",
+    "Black head with white markings",
+    "Short black legs"
+  ],
+  "part_details": {
+    "elytra": "Bright red or orange with distinct black spots, smooth and shiny",
+    "head": "Small, black with white markings near the eyes",
+    "body": "Dome-shaped, compact",
+    "legs": "Short, black, attached to underside",
+    "antennae": "Short, black, located on head"
+  },
+  "spatial_relations": [
+    "Elytra cover the back of the body",
+    "Head at front of body",
+    "Legs attached to underside",
+    "Antennae on top of head"
+  ],
+  "original_dataset_key": "ImageNetR",
+  "original_class_key": "ladybug"
+}

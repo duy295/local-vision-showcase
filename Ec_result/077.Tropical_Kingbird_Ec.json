@@ -1,0 +1,159 @@
+{
+  "class_name": "077.Tropical_Kingbird",
+  "class_idx": 76,
+  "num_images_in_class": 30,
+  "ec_size_requested": 30,
+  "ec_size_actual": 30,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\077.Tropical_Kingbird\\Tropical_Kingbird_0011_69877.jpg",
+      "mean_similarity": 0.9446450471878052,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\077.Tropical_Kingbird\\Tropical_Kingbird_0007_69361.jpg",
+      "mean_similarity": 0.9436506628990173,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\077.Tropical_Kingbird\\Tropical_Kingbird_0122_69687.jpg",
+      "mean_similarity": 0.9432468414306641,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\077.Tropical_Kingbird\\Tropical_Kingbird_0103_69311.jpg",
+      "mean_similarity": 0.942514955997467,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\077.Tropical_Kingbird\\Tropical_Kingbird_0116_69714.jpg",
+      "mean_similarity": 0.9421157240867615,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\077.Tropical_Kingbird\\Tropical_Kingbird_0044_69815.jpg",
+      "mean_similarity": 0.9420973658561707,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\077.Tropical_Kingbird\\Tropical_Kingbird_0102_69654.jpg",
+      "mean_similarity": 0.9419873952865601,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\077.Tropical_Kingbird\\Tropical_Kingbird_0023_69998.jpg",
+      "mean_similarity": 0.9411312341690063,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\077.Tropical_Kingbird\\Tropical_Kingbird_0085_69737.jpg",
+      "mean_similarity": 0.9406483173370361,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\077.Tropical_Kingbird\\Tropical_Kingbird_0064_69889.jpg",
+      "mean_similarity": 0.9402894973754883,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\077.Tropical_Kingbird\\Tropical_Kingbird_0074_69949.jpg",
+      "mean_similarity": 0.9401354193687439,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\077.Tropical_Kingbird\\Tropical_Kingbird_0018_69619.jpg",
+      "mean_similarity": 0.9399339556694031,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\077.Tropical_Kingbird\\Tropical_Kingbird_0087_69592.jpg",
+      "mean_similarity": 0.9394851922988892,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\077.Tropical_Kingbird\\Tropical_Kingbird_0017_69715.jpg",
+      "mean_similarity": 0.9386337399482727,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\077.Tropical_Kingbird\\Tropical_Kingbird_0081_69656.jpg",
+      "mean_similarity": 0.938617467880249,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\077.Tropical_Kingbird\\Tropical_Kingbird_0086_69759.jpg",
+      "mean_similarity": 0.9359953999519348,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\077.Tropical_Kingbird\\Tropical_Kingbird_0098_69642.jpg",
+      "mean_similarity": 0.9354910850524902,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\077.Tropical_Kingbird\\Tropical_Kingbird_0057_69283.jpg",
+      "mean_similarity": 0.9354153275489807,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\077.Tropical_Kingbird\\Tropical_Kingbird_0041_69954.jpg",
+      "mean_similarity": 0.9332413673400879,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\077.Tropical_Kingbird\\Tropical_Kingbird_0003_69852.jpg",
+      "mean_similarity": 0.9331388473510742,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\077.Tropical_Kingbird\\Tropical_Kingbird_0060_69942.jpg",
+      "mean_similarity": 0.9321385025978088,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\077.Tropical_Kingbird\\Tropical_Kingbird_0056_69509.jpg",
+      "mean_similarity": 0.9314055442810059,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\077.Tropical_Kingbird\\Tropical_Kingbird_0031_69333.jpg",
+      "mean_similarity": 0.930866539478302,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\077.Tropical_Kingbird\\Tropical_Kingbird_0010_69583.jpg",
+      "mean_similarity": 0.922221302986145,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\077.Tropical_Kingbird\\Tropical_Kingbird_0096_69684.jpg",
+      "mean_similarity": 0.920112669467926,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\077.Tropical_Kingbird\\Tropical_Kingbird_0001_69958.jpg",
+      "mean_similarity": 0.9176527857780457,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\077.Tropical_Kingbird\\Tropical_Kingbird_0004_69659.jpg",
+      "mean_similarity": 0.914515495300293,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\077.Tropical_Kingbird\\Tropical_Kingbird_0049_69933.jpg",
+      "mean_similarity": 0.9099954962730408,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\077.Tropical_Kingbird\\Tropical_Kingbird_0097_69436.jpg",
+      "mean_similarity": 0.908152163028717,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\077.Tropical_Kingbird\\Tropical_Kingbird_0014_69647.jpg",
+      "mean_similarity": 0.9029151797294617,
+      "rank": 30
+    }
+  ]
+}

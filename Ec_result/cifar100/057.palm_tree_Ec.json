@@ -1,0 +1,1259 @@
+{
+  "class_name": "palm_tree",
+  "class_idx": 56,
+  "num_images_in_class": 500,
+  "ec_size_requested": 250,
+  "ec_size_actual": 250,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\toddy_palm_s_000312.png",
+      "mean_similarity": 0.9488226175308228,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\palm_s_000508.png",
+      "mean_similarity": 0.9487545490264893,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\elaeis_guineensis_s_000286.png",
+      "mean_similarity": 0.9487533569335938,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\palm_tree_s_000031.png",
+      "mean_similarity": 0.9487519860267639,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\palm_tree_s_000442.png",
+      "mean_similarity": 0.9485841989517212,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\palm_s_001389.png",
+      "mean_similarity": 0.9485806226730347,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\feather_palm_s_000108.png",
+      "mean_similarity": 0.9484860301017761,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\arenga_pinnata_s_000169.png",
+      "mean_similarity": 0.9484498500823975,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\palm_tree_s_000485.png",
+      "mean_similarity": 0.9484269022941589,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\oil_palm_s_001120.png",
+      "mean_similarity": 0.9483863115310669,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\feather_palm_s_000112.png",
+      "mean_similarity": 0.9483857750892639,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\date_palm_s_000198.png",
+      "mean_similarity": 0.9483345746994019,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\palm_tree_s_002162.png",
+      "mean_similarity": 0.9483134150505066,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\palm_tree_s_000905.png",
+      "mean_similarity": 0.9482895731925964,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\date_palm_s_000314.png",
+      "mean_similarity": 0.948286235332489,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\palm_tree_s_001015.png",
+      "mean_similarity": 0.948232889175415,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\wax_palm_s_000271.png",
+      "mean_similarity": 0.9482250809669495,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\wine_palm_s_000019.png",
+      "mean_similarity": 0.948223352432251,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\date_palm_s_000391.png",
+      "mean_similarity": 0.9481993913650513,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\betel_palm_s_000118.png",
+      "mean_similarity": 0.9481824636459351,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\palm_tree_s_001134.png",
+      "mean_similarity": 0.9481775760650635,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\wine_palm_s_000094.png",
+      "mean_similarity": 0.9481697678565979,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\palm_tree_s_000287.png",
+      "mean_similarity": 0.9481691718101501,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\palm_s_000814.png",
+      "mean_similarity": 0.948168933391571,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\caryota_urens_s_000276.png",
+      "mean_similarity": 0.9481667280197144,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\elaeis_guineensis_s_000005.png",
+      "mean_similarity": 0.9481582641601562,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\cohune_palm_s_000055.png",
+      "mean_similarity": 0.9481189250946045,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\areca_s_000467.png",
+      "mean_similarity": 0.9481103420257568,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\betel_palm_s_000038.png",
+      "mean_similarity": 0.9480994343757629,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\cohune_s_000257.png",
+      "mean_similarity": 0.9480839371681213,
+      "rank": 30
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\palm_s_001537.png",
+      "mean_similarity": 0.9480335116386414,
+      "rank": 31
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\african_oil_palm_s_000008.png",
+      "mean_similarity": 0.9480298757553101,
+      "rank": 32
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\palm_tree_s_001790.png",
+      "mean_similarity": 0.9480189085006714,
+      "rank": 33
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\palm_tree_s_000458.png",
+      "mean_similarity": 0.9479776620864868,
+      "rank": 34
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\date_palm_s_000324.png",
+      "mean_similarity": 0.9479728937149048,
+      "rank": 35
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\palm_tree_s_001871.png",
+      "mean_similarity": 0.9479585289955139,
+      "rank": 36
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\cohune_s_000490.png",
+      "mean_similarity": 0.9479576945304871,
+      "rank": 37
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\palm_tree_s_001021.png",
+      "mean_similarity": 0.9479572176933289,
+      "rank": 38
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\feather_palm_s_000341.png",
+      "mean_similarity": 0.9479253888130188,
+      "rank": 39
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\feather_palm_s_000538.png",
+      "mean_similarity": 0.947923481464386,
+      "rank": 40
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\palm_tree_s_001739.png",
+      "mean_similarity": 0.9479096531867981,
+      "rank": 41
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\palm_tree_s_001201.png",
+      "mean_similarity": 0.9478957056999207,
+      "rank": 42
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\palm_tree_s_001205.png",
+      "mean_similarity": 0.947885274887085,
+      "rank": 43
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\date_palm_s_000565.png",
+      "mean_similarity": 0.9478797912597656,
+      "rank": 44
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\elaeis_guineensis_s_000388.png",
+      "mean_similarity": 0.9478537440299988,
+      "rank": 45
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\palm_tree_s_001724.png",
+      "mean_similarity": 0.9478520154953003,
+      "rank": 46
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\palm_tree_s_001878.png",
+      "mean_similarity": 0.9477678537368774,
+      "rank": 47
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\wax_palm_s_000500.png",
+      "mean_similarity": 0.9477649927139282,
+      "rank": 48
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\areca_s_000073.png",
+      "mean_similarity": 0.9477638006210327,
+      "rank": 49
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\date_palm_s_000922.png",
+      "mean_similarity": 0.9477598071098328,
+      "rank": 50
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\feather_palm_s_000764.png",
+      "mean_similarity": 0.9477478861808777,
+      "rank": 51
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\elaeis_guineensis_s_000169.png",
+      "mean_similarity": 0.9477465748786926,
+      "rank": 52
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\palm_tree_s_002011.png",
+      "mean_similarity": 0.94773930311203,
+      "rank": 53
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\date_palm_s_000004.png",
+      "mean_similarity": 0.9477190971374512,
+      "rank": 54
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\elaeis_guineensis_s_000126.png",
+      "mean_similarity": 0.9477117657661438,
+      "rank": 55
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\caryota_urens_s_000008.png",
+      "mean_similarity": 0.9477095007896423,
+      "rank": 56
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\palm_tree_s_001352.png",
+      "mean_similarity": 0.9477063417434692,
+      "rank": 57
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\oil_palm_s_000458.png",
+      "mean_similarity": 0.9477055668830872,
+      "rank": 58
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\caryota_urens_s_000328.png",
+      "mean_similarity": 0.9477031826972961,
+      "rank": 59
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\palm_s_002295.png",
+      "mean_similarity": 0.947697639465332,
+      "rank": 60
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\palm_s_000821.png",
+      "mean_similarity": 0.9476869702339172,
+      "rank": 61
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\oil_palm_s_000186.png",
+      "mean_similarity": 0.9476627707481384,
+      "rank": 62
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\palm_tree_s_000625.png",
+      "mean_similarity": 0.9476342797279358,
+      "rank": 63
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\palm_tree_s_000483.png",
+      "mean_similarity": 0.9476280808448792,
+      "rank": 64
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\cohune_s_000074.png",
+      "mean_similarity": 0.9476012587547302,
+      "rank": 65
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\caryota_urens_s_000248.png",
+      "mean_similarity": 0.9475984573364258,
+      "rank": 66
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\oil_palm_s_000641.png",
+      "mean_similarity": 0.9475647807121277,
+      "rank": 67
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\feather_palm_s_000013.png",
+      "mean_similarity": 0.9475453495979309,
+      "rank": 68
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\palm_tree_s_000644.png",
+      "mean_similarity": 0.9475350975990295,
+      "rank": 69
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\palm_tree_s_000119.png",
+      "mean_similarity": 0.9475314021110535,
+      "rank": 70
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\african_oil_palm_s_000042.png",
+      "mean_similarity": 0.9475252032279968,
+      "rank": 71
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\date_palm_s_000678.png",
+      "mean_similarity": 0.9475233554840088,
+      "rank": 72
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\palm_tree_s_001596.png",
+      "mean_similarity": 0.9475109577178955,
+      "rank": 73
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\palm_s_001576.png",
+      "mean_similarity": 0.9474934935569763,
+      "rank": 74
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\palm_tree_s_000117.png",
+      "mean_similarity": 0.9474865794181824,
+      "rank": 75
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\palm_s_000729.png",
+      "mean_similarity": 0.9474836587905884,
+      "rank": 76
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\wine_palm_s_000139.png",
+      "mean_similarity": 0.9474716186523438,
+      "rank": 77
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\palm_tree_s_000662.png",
+      "mean_similarity": 0.947468638420105,
+      "rank": 78
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\oil_palm_s_001381.png",
+      "mean_similarity": 0.9474239945411682,
+      "rank": 79
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\wine_palm_s_000746.png",
+      "mean_similarity": 0.9474236965179443,
+      "rank": 80
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\palm_s_000264.png",
+      "mean_similarity": 0.9474043250083923,
+      "rank": 81
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\palm_tree_s_000247.png",
+      "mean_similarity": 0.9474034309387207,
+      "rank": 82
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\feather_palm_s_000069.png",
+      "mean_similarity": 0.9473850727081299,
+      "rank": 83
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\palm_tree_s_000058.png",
+      "mean_similarity": 0.947381854057312,
+      "rank": 84
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\elaeis_guineensis_s_000134.png",
+      "mean_similarity": 0.947332501411438,
+      "rank": 85
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\cohune_palm_s_000094.png",
+      "mean_similarity": 0.9473291635513306,
+      "rank": 86
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\oil_palm_s_000360.png",
+      "mean_similarity": 0.9473245739936829,
+      "rank": 87
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\palm_s_001504.png",
+      "mean_similarity": 0.9473164081573486,
+      "rank": 88
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\palm_tree_s_001707.png",
+      "mean_similarity": 0.9473121166229248,
+      "rank": 89
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\palm_tree_s_001320.png",
+      "mean_similarity": 0.9472995400428772,
+      "rank": 90
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\coyol_palm_s_000001.png",
+      "mean_similarity": 0.9472972750663757,
+      "rank": 91
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\areca_s_000282.png",
+      "mean_similarity": 0.9472963213920593,
+      "rank": 92
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\wine_palm_s_000150.png",
+      "mean_similarity": 0.9472897052764893,
+      "rank": 93
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\palm_tree_s_000220.png",
+      "mean_similarity": 0.9472808241844177,
+      "rank": 94
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\palm_tree_s_000448.png",
+      "mean_similarity": 0.9472768902778625,
+      "rank": 95
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\palm_tree_s_001508.png",
+      "mean_similarity": 0.9472615718841553,
+      "rank": 96
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\elaeis_guineensis_s_000135.png",
+      "mean_similarity": 0.9472302794456482,
+      "rank": 97
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\palm_s_000130.png",
+      "mean_similarity": 0.9472169280052185,
+      "rank": 98
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\palm_tree_s_000289.png",
+      "mean_similarity": 0.9472103714942932,
+      "rank": 99
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\palm_tree_s_002153.png",
+      "mean_similarity": 0.9472029805183411,
+      "rank": 100
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\palm_s_000637.png",
+      "mean_similarity": 0.9471604228019714,
+      "rank": 101
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\palm_s_002188.png",
+      "mean_similarity": 0.9471599459648132,
+      "rank": 102
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\palm_tree_s_000466.png",
+      "mean_similarity": 0.9471594095230103,
+      "rank": 103
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\palm_tree_s_000037.png",
+      "mean_similarity": 0.947124719619751,
+      "rank": 104
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\oil_palm_s_000946.png",
+      "mean_similarity": 0.9470911026000977,
+      "rank": 105
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\date_palm_s_000220.png",
+      "mean_similarity": 0.9470803141593933,
+      "rank": 106
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\palm_tree_s_002039.png",
+      "mean_similarity": 0.947064995765686,
+      "rank": 107
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\areca_catechu_s_000048.png",
+      "mean_similarity": 0.947063148021698,
+      "rank": 108
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\palm_tree_s_000359.png",
+      "mean_similarity": 0.9470561742782593,
+      "rank": 109
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\palm_tree_s_002163.png",
+      "mean_similarity": 0.9470345973968506,
+      "rank": 110
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\feather_palm_s_000679.png",
+      "mean_similarity": 0.9470342397689819,
+      "rank": 111
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\palm_tree_s_001811.png",
+      "mean_similarity": 0.947029173374176,
+      "rank": 112
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\palm_s_001273.png",
+      "mean_similarity": 0.9470185041427612,
+      "rank": 113
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\areca_s_000503.png",
+      "mean_similarity": 0.9470147490501404,
+      "rank": 114
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\areca_s_001032.png",
+      "mean_similarity": 0.9470069408416748,
+      "rank": 115
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\palm_tree_s_001281.png",
+      "mean_similarity": 0.9470025300979614,
+      "rank": 116
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\cohune_palm_s_000006.png",
+      "mean_similarity": 0.9470009207725525,
+      "rank": 117
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\palm_tree_s_001907.png",
+      "mean_similarity": 0.9469863772392273,
+      "rank": 118
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\arenga_pinnata_s_000091.png",
+      "mean_similarity": 0.9469857215881348,
+      "rank": 119
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\date_palm_s_000131.png",
+      "mean_similarity": 0.9469769597053528,
+      "rank": 120
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\areca_s_000751.png",
+      "mean_similarity": 0.9469727277755737,
+      "rank": 121
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\palm_tree_s_001139.png",
+      "mean_similarity": 0.9469542503356934,
+      "rank": 122
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\palm_tree_s_000441.png",
+      "mean_similarity": 0.946923017501831,
+      "rank": 123
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\palm_tree_s_000172.png",
+      "mean_similarity": 0.9468915462493896,
+      "rank": 124
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\palm_s_000780.png",
+      "mean_similarity": 0.9468911290168762,
+      "rank": 125
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\palm_tree_s_001893.png",
+      "mean_similarity": 0.9468736052513123,
+      "rank": 126
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\caryota_urens_s_000249.png",
+      "mean_similarity": 0.9468724131584167,
+      "rank": 127
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\date_palm_s_000114.png",
+      "mean_similarity": 0.946863055229187,
+      "rank": 128
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\palm_tree_s_000136.png",
+      "mean_similarity": 0.9468622803688049,
+      "rank": 129
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\oil_palm_s_001542.png",
+      "mean_similarity": 0.9468163847923279,
+      "rank": 130
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\palm_s_001099.png",
+      "mean_similarity": 0.9468146562576294,
+      "rank": 131
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\palm_tree_s_000629.png",
+      "mean_similarity": 0.9468112587928772,
+      "rank": 132
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\palm_tree_s_000382.png",
+      "mean_similarity": 0.9468034505844116,
+      "rank": 133
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\palm_tree_s_002251.png",
+      "mean_similarity": 0.9467767477035522,
+      "rank": 134
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\date_palm_s_000462.png",
+      "mean_similarity": 0.9467675685882568,
+      "rank": 135
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\palm_tree_s_002127.png",
+      "mean_similarity": 0.9467618465423584,
+      "rank": 136
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\palm_tree_s_000582.png",
+      "mean_similarity": 0.9467477798461914,
+      "rank": 137
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\palm_s_001197.png",
+      "mean_similarity": 0.946739912033081,
+      "rank": 138
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\palm_tree_s_000204.png",
+      "mean_similarity": 0.9467012882232666,
+      "rank": 139
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\feather_palm_s_000231.png",
+      "mean_similarity": 0.9466994404792786,
+      "rank": 140
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\palm_s_001288.png",
+      "mean_similarity": 0.9466994404792786,
+      "rank": 141
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\palm_tree_s_001429.png",
+      "mean_similarity": 0.946699321269989,
+      "rank": 142
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\feather_palm_s_000534.png",
+      "mean_similarity": 0.9466989636421204,
+      "rank": 143
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\wax_palm_s_000202.png",
+      "mean_similarity": 0.9466873407363892,
+      "rank": 144
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\african_oil_palm_s_000067.png",
+      "mean_similarity": 0.9466825723648071,
+      "rank": 145
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\palm_tree_s_002185.png",
+      "mean_similarity": 0.9466725587844849,
+      "rank": 146
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\arenga_pinnata_s_000027.png",
+      "mean_similarity": 0.946672260761261,
+      "rank": 147
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\elaeis_guineensis_s_000105.png",
+      "mean_similarity": 0.9465948343276978,
+      "rank": 148
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\palm_tree_s_000109.png",
+      "mean_similarity": 0.9465839862823486,
+      "rank": 149
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\palm_tree_s_000725.png",
+      "mean_similarity": 0.9465839862823486,
+      "rank": 150
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\date_palm_s_000370.png",
+      "mean_similarity": 0.9465817213058472,
+      "rank": 151
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\palm_s_000184.png",
+      "mean_similarity": 0.9465707540512085,
+      "rank": 152
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\palm_tree_s_000856.png",
+      "mean_similarity": 0.9465586543083191,
+      "rank": 153
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\wine_palm_s_000087.png",
+      "mean_similarity": 0.9465373754501343,
+      "rank": 154
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\palm_tree_s_001700.png",
+      "mean_similarity": 0.9465346336364746,
+      "rank": 155
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\palm_tree_s_000450.png",
+      "mean_similarity": 0.9465291500091553,
+      "rank": 156
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\cohune_palm_s_000061.png",
+      "mean_similarity": 0.9465199708938599,
+      "rank": 157
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\wax_palm_s_000668.png",
+      "mean_similarity": 0.9465124011039734,
+      "rank": 158
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\palm_tree_s_001023.png",
+      "mean_similarity": 0.9465118050575256,
+      "rank": 159
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\palm_tree_s_000439.png",
+      "mean_similarity": 0.9465049505233765,
+      "rank": 160
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\palm_tree_s_002094.png",
+      "mean_similarity": 0.9464899301528931,
+      "rank": 161
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\palm_tree_s_001530.png",
+      "mean_similarity": 0.9464898705482483,
+      "rank": 162
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\palm_s_001619.png",
+      "mean_similarity": 0.9464857578277588,
+      "rank": 163
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\palm_tree_s_000857.png",
+      "mean_similarity": 0.9464786052703857,
+      "rank": 164
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\date_palm_s_000916.png",
+      "mean_similarity": 0.9464733004570007,
+      "rank": 165
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\wax_palm_s_000194.png",
+      "mean_similarity": 0.9464635252952576,
+      "rank": 166
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\palm_tree_s_000203.png",
+      "mean_similarity": 0.9464579820632935,
+      "rank": 167
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\oil_palm_s_001237.png",
+      "mean_similarity": 0.9464521408081055,
+      "rank": 168
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\palm_tree_s_000395.png",
+      "mean_similarity": 0.9464393854141235,
+      "rank": 169
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\palm_s_000185.png",
+      "mean_similarity": 0.9464375376701355,
+      "rank": 170
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\toddy_palm_s_000238.png",
+      "mean_similarity": 0.9464367032051086,
+      "rank": 171
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\cohune_s_000109.png",
+      "mean_similarity": 0.946429967880249,
+      "rank": 172
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\areca_s_000548.png",
+      "mean_similarity": 0.9464190006256104,
+      "rank": 173
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\oil_palm_s_000009.png",
+      "mean_similarity": 0.9464123845100403,
+      "rank": 174
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\feather_palm_s_000355.png",
+      "mean_similarity": 0.9463952779769897,
+      "rank": 175
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\palm_tree_s_000168.png",
+      "mean_similarity": 0.9463942050933838,
+      "rank": 176
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\palm_tree_s_000255.png",
+      "mean_similarity": 0.9463940262794495,
+      "rank": 177
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\palm_tree_s_001558.png",
+      "mean_similarity": 0.9463933706283569,
+      "rank": 178
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\elaeis_guineensis_s_000061.png",
+      "mean_similarity": 0.9463899731636047,
+      "rank": 179
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\palm_tree_s_000086.png",
+      "mean_similarity": 0.9463881254196167,
+      "rank": 180
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\areca_catechu_s_000074.png",
+      "mean_similarity": 0.9463721513748169,
+      "rank": 181
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\palm_s_000590.png",
+      "mean_similarity": 0.9463614225387573,
+      "rank": 182
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\areca_s_001079.png",
+      "mean_similarity": 0.9463470578193665,
+      "rank": 183
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\palm_s_000027.png",
+      "mean_similarity": 0.9463169574737549,
+      "rank": 184
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\elaeis_guineensis_s_000334.png",
+      "mean_similarity": 0.9462987184524536,
+      "rank": 185
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\palm_s_001859.png",
+      "mean_similarity": 0.9462981820106506,
+      "rank": 186
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\palm_tree_s_001580.png",
+      "mean_similarity": 0.9462926387786865,
+      "rank": 187
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\palm_tree_s_000826.png",
+      "mean_similarity": 0.9462889432907104,
+      "rank": 188
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\palm_tree_s_000132.png",
+      "mean_similarity": 0.9462795257568359,
+      "rank": 189
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\palm_tree_s_000937.png",
+      "mean_similarity": 0.9462747573852539,
+      "rank": 190
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\palm_tree_s_001056.png",
+      "mean_similarity": 0.9462276697158813,
+      "rank": 191
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\date_palm_s_000021.png",
+      "mean_similarity": 0.9462171792984009,
+      "rank": 192
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\palm_tree_s_001017.png",
+      "mean_similarity": 0.9461784362792969,
+      "rank": 193
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\palm_s_001722.png",
+      "mean_similarity": 0.9461764693260193,
+      "rank": 194
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\areca_s_001585.png",
+      "mean_similarity": 0.9461711049079895,
+      "rank": 195
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\palm_tree_s_002129.png",
+      "mean_similarity": 0.9461658000946045,
+      "rank": 196
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\palm_tree_s_000202.png",
+      "mean_similarity": 0.9461655616760254,
+      "rank": 197
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\african_oil_palm_s_000136.png",
+      "mean_similarity": 0.9461643099784851,
+      "rank": 198
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\date_palm_s_000076.png",
+      "mean_similarity": 0.9461506009101868,
+      "rank": 199
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\feather_palm_s_000182.png",
+      "mean_similarity": 0.9461438059806824,
+      "rank": 200
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\wine_palm_s_000376.png",
+      "mean_similarity": 0.9461194276809692,
+      "rank": 201
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\toddy_palm_s_000053.png",
+      "mean_similarity": 0.9461163282394409,
+      "rank": 202
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\areca_catechu_s_000032.png",
+      "mean_similarity": 0.9461058378219604,
+      "rank": 203
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\palm_tree_s_001027.png",
+      "mean_similarity": 0.9460991621017456,
+      "rank": 204
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\palm_tree_s_000531.png",
+      "mean_similarity": 0.9460890889167786,
+      "rank": 205
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\areca_catechu_s_000457.png",
+      "mean_similarity": 0.9460820555686951,
+      "rank": 206
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\palm_tree_s_000154.png",
+      "mean_similarity": 0.9460810422897339,
+      "rank": 207
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\palm_s_001467.png",
+      "mean_similarity": 0.9460617899894714,
+      "rank": 208
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\toddy_palm_s_000481.png",
+      "mean_similarity": 0.9460603594779968,
+      "rank": 209
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\date_palm_s_000005.png",
+      "mean_similarity": 0.9460594654083252,
+      "rank": 210
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\elaeis_guineensis_s_000077.png",
+      "mean_similarity": 0.9460480809211731,
+      "rank": 211
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\oil_palm_s_001137.png",
+      "mean_similarity": 0.9459834098815918,
+      "rank": 212
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\palm_tree_s_000668.png",
+      "mean_similarity": 0.9459706544876099,
+      "rank": 213
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\palm_tree_s_001148.png",
+      "mean_similarity": 0.9459075331687927,
+      "rank": 214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\palm_tree_s_002081.png",
+      "mean_similarity": 0.9459018707275391,
+      "rank": 215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\palm_tree_s_000768.png",
+      "mean_similarity": 0.9458832144737244,
+      "rank": 216
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\date_palm_s_000041.png",
+      "mean_similarity": 0.9458737969398499,
+      "rank": 217
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\palm_tree_s_000376.png",
+      "mean_similarity": 0.94586580991745,
+      "rank": 218
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\babassu_s_000015.png",
+      "mean_similarity": 0.9458498358726501,
+      "rank": 219
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\date_palm_s_000710.png",
+      "mean_similarity": 0.9458414912223816,
+      "rank": 220
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\palm_tree_s_001409.png",
+      "mean_similarity": 0.9458343982696533,
+      "rank": 221
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\palm_s_000007.png",
+      "mean_similarity": 0.945826530456543,
+      "rank": 222
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\feather_palm_s_001054.png",
+      "mean_similarity": 0.9458053708076477,
+      "rank": 223
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\palm_tree_s_000846.png",
+      "mean_similarity": 0.9457861185073853,
+      "rank": 224
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\palm_tree_s_001576.png",
+      "mean_similarity": 0.9457451105117798,
+      "rank": 225
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\palm_tree_s_002211.png",
+      "mean_similarity": 0.9457435011863708,
+      "rank": 226
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\palm_tree_s_000003.png",
+      "mean_similarity": 0.9457175731658936,
+      "rank": 227
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\areca_s_001479.png",
+      "mean_similarity": 0.9457048773765564,
+      "rank": 228
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\palm_tree_s_002243.png",
+      "mean_similarity": 0.9456939101219177,
+      "rank": 229
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\palm_tree_s_001793.png",
+      "mean_similarity": 0.9456903338432312,
+      "rank": 230
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\palm_tree_s_000314.png",
+      "mean_similarity": 0.945685863494873,
+      "rank": 231
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\palm_s_001483.png",
+      "mean_similarity": 0.945667028427124,
+      "rank": 232
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\palm_tree_s_001045.png",
+      "mean_similarity": 0.9456595182418823,
+      "rank": 233
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\palm_tree_s_000141.png",
+      "mean_similarity": 0.9456388354301453,
+      "rank": 234
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\palm_tree_s_001107.png",
+      "mean_similarity": 0.9456255435943604,
+      "rank": 235
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\palm_tree_s_000090.png",
+      "mean_similarity": 0.9456136226654053,
+      "rank": 236
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\palm_tree_s_000674.png",
+      "mean_similarity": 0.9455920457839966,
+      "rank": 237
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\ceroxylon_andicola_s_000006.png",
+      "mean_similarity": 0.9455792307853699,
+      "rank": 238
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\areca_catechu_s_000201.png",
+      "mean_similarity": 0.9455472826957703,
+      "rank": 239
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\palm_tree_s_000843.png",
+      "mean_similarity": 0.9455431699752808,
+      "rank": 240
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\elaeis_guineensis_s_000056.png",
+      "mean_similarity": 0.9455426335334778,
+      "rank": 241
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\palm_s_000072.png",
+      "mean_similarity": 0.9455404877662659,
+      "rank": 242
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\palm_tree_s_001513.png",
+      "mean_similarity": 0.9455268979072571,
+      "rank": 243
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\palm_tree_s_001138.png",
+      "mean_similarity": 0.9455221891403198,
+      "rank": 244
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\palm_s_000062.png",
+      "mean_similarity": 0.9455083012580872,
+      "rank": 245
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\palm_tree_s_000742.png",
+      "mean_similarity": 0.9454669952392578,
+      "rank": 246
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\feather_palm_s_000569.png",
+      "mean_similarity": 0.9454659223556519,
+      "rank": 247
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\wine_palm_s_000179.png",
+      "mean_similarity": 0.9453988075256348,
+      "rank": 248
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\palm_s_000467.png",
+      "mean_similarity": 0.9453775882720947,
+      "rank": 249
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\057.palm_tree\\wax_palm_s_000503.png",
+      "mean_similarity": 0.9453697800636292,
+      "rank": 250
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "class_name": "man",
+  "global_description": "Human male with upright posture, average height, typically wearing clothing, skin tone varies, hair on head, facial features include eyes, nose, mouth, ears, limbs include arms and legs.",
+  "discriminative_attributes": [
+    "Upright posture",
+    "Varied skin tone",
+    "Facial hair possible",
+    "Clothing worn",
+    "Hair on head"
+  ],
+  "part_details": {
+    "head": "Oval with hair, facial features like eyes, nose, mouth",
+    "body": "Upright, average build, covered by clothing",
+    "arms": "Two, extending from shoulders",
+    "legs": "Two, supporting body",
+    "clothing": "Varies, typically covering torso and limbs"
+  },
+  "spatial_relations": [
+    "Head atop body",
+    "Arms attached to sides of torso",
+    "Legs beneath torso",
+    "Facial features on front of head"
+  ],
+  "original_dataset_key": "cifar100",
+  "original_class_key": "man"
+}

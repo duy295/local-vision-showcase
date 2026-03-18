@@ -1,0 +1,25 @@
+{
+  "class_name": "Bird",
+  "global_description": "A small, compact songbird with a rounded body and short tail. It features a vibrant yellow throat and chest, contrasting with olive-green upperparts and white underparts. The wings and tail are dark with two white wing bars, and the face has a distinctive yellow spectacle pattern.",
+  "discriminative_attributes": [
+    "Vibrant yellow throat and chest",
+    "Olive-green upperparts",
+    "White underparts",
+    "Dark wings with two white wing bars",
+    "Yellow spectacle pattern on face"
+  ],
+  "part_details": {
+    "throat": "Bright yellow, extending to the chest.",
+    "upperparts": "Olive-green, smooth plumage.",
+    "underparts": "White, clean and plain.",
+    "wings": "Dark with two distinct white bars.",
+    "face": "Yellow spectacles around the eyes."
+  },
+  "spatial_relations": [
+    "The yellow throat transitions into the olive-green upperparts.",
+    "The white underparts are below the yellow chest.",
+    "The wings are positioned on either side of the body with white bars."
+  ],
+  "original_dataset_key": "CUB200",
+  "original_class_key": "yellow_throated_vireo"
+}

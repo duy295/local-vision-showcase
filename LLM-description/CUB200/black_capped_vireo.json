@@ -1,0 +1,24 @@
+{
+  "class_name": "Bird",
+  "global_description": "A small, compact songbird with a distinctive black cap and white face. It has olive-green upperparts and white underparts, with a short, rounded tail. The wings are dark with two white wing bars, and the beak is short and pointed.",
+  "discriminative_attributes": [
+    "Black cap on head",
+    "White face with dark eye",
+    "Olive-green upperparts",
+    "White underparts",
+    "Dark wings with white bars"
+  ],
+  "part_details": {
+    "head": "Black cap covering the top, contrasting with a white face and dark eye.",
+    "wings": "Dark with two distinct white wing bars, short and rounded.",
+    "tail": "Short, rounded, matching the olive-green upperparts.",
+    "beak": "Short, pointed, suitable for insect feeding."
+  },
+  "spatial_relations": [
+    "The black cap covers the top of the head, contrasting with the white face.",
+    "The white wing bars are positioned transversely across the dark wings.",
+    "The short tail extends from the olive-green body."
+  ],
+  "original_dataset_key": "CUB200",
+  "original_class_key": "black_capped_vireo"
+}

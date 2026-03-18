@@ -1,0 +1,25 @@
+{
+  "class_name": "shrew",
+  "global_description": "Small mammal with elongated body, pointed snout, tiny eyes, short limbs, and dense fur. Typically gray or brown, adapted for burrowing and insect hunting.",
+  "discriminative_attributes": [
+    "Elongated body",
+    "Pointed snout",
+    "Tiny eyes",
+    "Short limbs",
+    "Dense fur"
+  ],
+  "part_details": {
+    "head": "Small with pointed snout and tiny eyes",
+    "body": "Elongated and covered in dense fur",
+    "limbs": "Short and adapted for burrowing",
+    "fur": "Dense, typically gray or brown",
+    "tail": "Thin and relatively short"
+  },
+  "spatial_relations": [
+    "Head at front of body",
+    "Limbs beneath body",
+    "Tail extending from rear"
+  ],
+  "original_dataset_key": "cifar100",
+  "original_class_key": "shrew"
+}

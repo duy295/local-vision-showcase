@@ -1,0 +1,25 @@
+{
+  "class_name": "Arctic Tern",
+  "global_description": "A medium-sized seabird with a slender, streamlined body and long, pointed wings. It has a predominantly white plumage with a contrasting black cap on its head. The wings and tail are gray with a forked tail and red bill.",
+  "discriminative_attributes": [
+    "Slender, streamlined body",
+    "Long, pointed gray wings",
+    "White plumage with black cap",
+    "Forked tail",
+    "Red bill"
+  ],
+  "part_details": {
+    "body": "Slender and streamlined, predominantly white with a smooth texture.",
+    "wings": "Long, pointed, gray with a slight curve, aiding in agile flight.",
+    "head": "White with a distinctive black cap covering the top.",
+    "tail": "Forked, gray, providing balance and maneuverability.",
+    "bill": "Short, pointed, and bright red, contrasting with the plumage."
+  },
+  "spatial_relations": [
+    "The black cap covers the top of the head, contrasting with the white face.",
+    "The long wings extend from the sides of the body, tapering to points.",
+    "The forked tail is positioned at the rear, aiding in flight control."
+  ],
+  "original_dataset_key": "CUB200",
+  "original_class_key": "artic_tern"
+}

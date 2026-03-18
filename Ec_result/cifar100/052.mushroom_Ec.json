@@ -1,0 +1,1259 @@
+{
+  "class_name": "mushroom",
+  "class_idx": 51,
+  "num_images_in_class": 500,
+  "ec_size_requested": 250,
+  "ec_size_actual": 250,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\verpa_s_000814.png",
+      "mean_similarity": 0.942886233329773,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\mushroom_s_001294.png",
+      "mean_similarity": 0.9428859353065491,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\mushroom_s_001790.png",
+      "mean_similarity": 0.9428539276123047,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\mushroom_s_002087.png",
+      "mean_similarity": 0.9427959322929382,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\mushroom_s_001576.png",
+      "mean_similarity": 0.9426332116127014,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\mushroom_s_000805.png",
+      "mean_similarity": 0.9426197409629822,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\mushroom_s_000588.png",
+      "mean_similarity": 0.942513108253479,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\verpa_s_000969.png",
+      "mean_similarity": 0.9424237012863159,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\mushroom_s_002271.png",
+      "mean_similarity": 0.9423297643661499,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\mushroom_s_000969.png",
+      "mean_similarity": 0.942322313785553,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\mushroom_s_000691.png",
+      "mean_similarity": 0.9422852396965027,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\mushroom_s_000343.png",
+      "mean_similarity": 0.942145049571991,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\morel_s_001294.png",
+      "mean_similarity": 0.942108690738678,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\mushroom_s_002274.png",
+      "mean_similarity": 0.9420937895774841,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\mushroom_s_001478.png",
+      "mean_similarity": 0.9419969916343689,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\mushroom_s_000466.png",
+      "mean_similarity": 0.9419013261795044,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\mushroom_s_001382.png",
+      "mean_similarity": 0.9418358206748962,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\mushroom_s_002086.png",
+      "mean_similarity": 0.9418298006057739,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\mushroom_s_000978.png",
+      "mean_similarity": 0.9416908621788025,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\mushroom_s_000338.png",
+      "mean_similarity": 0.9416534900665283,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\morchella_esculenta_s_001104.png",
+      "mean_similarity": 0.941642701625824,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\mushroom_s_002085.png",
+      "mean_similarity": 0.9416394233703613,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\mushroom_s_001286.png",
+      "mean_similarity": 0.9416056871414185,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\morchella_esculenta_s_001436.png",
+      "mean_similarity": 0.9415554404258728,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\mushroom_s_000881.png",
+      "mean_similarity": 0.941546618938446,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\mushroom_s_001282.png",
+      "mean_similarity": 0.9415427446365356,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\mushroom_s_001292.png",
+      "mean_similarity": 0.9414986371994019,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\mushroom_s_002088.png",
+      "mean_similarity": 0.9414061307907104,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\verpa_s_001099.png",
+      "mean_similarity": 0.9413991570472717,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\mushroom_s_000703.png",
+      "mean_similarity": 0.9413964748382568,
+      "rank": 30
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\mushroom_s_000322.png",
+      "mean_similarity": 0.9413633346557617,
+      "rank": 31
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\mushroom_s_000476.png",
+      "mean_similarity": 0.941239058971405,
+      "rank": 32
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\disciotis_venosa_s_000076.png",
+      "mean_similarity": 0.9412254691123962,
+      "rank": 33
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\mushroom_s_000440.png",
+      "mean_similarity": 0.9411829113960266,
+      "rank": 34
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\mushroom_s_000867.png",
+      "mean_similarity": 0.9411535859107971,
+      "rank": 35
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\mushroom_s_000562.png",
+      "mean_similarity": 0.9411216974258423,
+      "rank": 36
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\verpa_s_000951.png",
+      "mean_similarity": 0.941113293170929,
+      "rank": 37
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\morel_s_000437.png",
+      "mean_similarity": 0.9410833716392517,
+      "rank": 38
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\morel_s_000432.png",
+      "mean_similarity": 0.9410638809204102,
+      "rank": 39
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\mushroom_s_002460.png",
+      "mean_similarity": 0.9410176873207092,
+      "rank": 40
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\mushroom_s_001875.png",
+      "mean_similarity": 0.9410130977630615,
+      "rank": 41
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\mushroom_s_001679.png",
+      "mean_similarity": 0.9410030841827393,
+      "rank": 42
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\mushroom_s_002474.png",
+      "mean_similarity": 0.9409909844398499,
+      "rank": 43
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\verpa_s_001114.png",
+      "mean_similarity": 0.9409822225570679,
+      "rank": 44
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\mushroom_s_000970.png",
+      "mean_similarity": 0.9409672617912292,
+      "rank": 45
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\disciotis_venosa_s_000196.png",
+      "mean_similarity": 0.9409331679344177,
+      "rank": 46
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\cup_morel_s_000026.png",
+      "mean_similarity": 0.9409311413764954,
+      "rank": 47
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\mushroom_s_000348.png",
+      "mean_similarity": 0.9409245848655701,
+      "rank": 48
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\morchella_esculenta_s_000159.png",
+      "mean_similarity": 0.9409024715423584,
+      "rank": 49
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\mushroom_s_001998.png",
+      "mean_similarity": 0.9408947229385376,
+      "rank": 50
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\morel_s_000204.png",
+      "mean_similarity": 0.9407925009727478,
+      "rank": 51
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\verpa_s_000043.png",
+      "mean_similarity": 0.9407818913459778,
+      "rank": 52
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\mushroom_s_000870.png",
+      "mean_similarity": 0.9407365918159485,
+      "rank": 53
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\mushroom_s_001733.png",
+      "mean_similarity": 0.9407289028167725,
+      "rank": 54
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\mushroom_s_001179.png",
+      "mean_similarity": 0.940658450126648,
+      "rank": 55
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\mushroom_s_000332.png",
+      "mean_similarity": 0.9406446218490601,
+      "rank": 56
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\mushroom_s_000251.png",
+      "mean_similarity": 0.940626859664917,
+      "rank": 57
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\mushroom_s_001295.png",
+      "mean_similarity": 0.9405806064605713,
+      "rank": 58
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\morel_s_000233.png",
+      "mean_similarity": 0.9405730962753296,
+      "rank": 59
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\mushroom_s_000666.png",
+      "mean_similarity": 0.9404373168945312,
+      "rank": 60
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\mushroom_s_001360.png",
+      "mean_similarity": 0.9404025673866272,
+      "rank": 61
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\mushroom_s_000134.png",
+      "mean_similarity": 0.9403840899467468,
+      "rank": 62
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\morchella_esculenta_s_000117.png",
+      "mean_similarity": 0.9403668642044067,
+      "rank": 63
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\mushroom_s_000037.png",
+      "mean_similarity": 0.9403483867645264,
+      "rank": 64
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\morchella_esculenta_s_000702.png",
+      "mean_similarity": 0.9403390884399414,
+      "rank": 65
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\mushroom_s_000538.png",
+      "mean_similarity": 0.9403190016746521,
+      "rank": 66
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\mushroom_s_000242.png",
+      "mean_similarity": 0.9402845501899719,
+      "rank": 67
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\mushroom_s_000656.png",
+      "mean_similarity": 0.9402124285697937,
+      "rank": 68
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\mushroom_s_000201.png",
+      "mean_similarity": 0.9401798248291016,
+      "rank": 69
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\mushroom_s_000943.png",
+      "mean_similarity": 0.9400681257247925,
+      "rank": 70
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\mushroom_s_002044.png",
+      "mean_similarity": 0.9399939179420471,
+      "rank": 71
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\mushroom_s_000777.png",
+      "mean_similarity": 0.9399712681770325,
+      "rank": 72
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\mushroom_s_002227.png",
+      "mean_similarity": 0.9399611353874207,
+      "rank": 73
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\mushroom_s_001795.png",
+      "mean_similarity": 0.9399440884590149,
+      "rank": 74
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\mushroom_s_001368.png",
+      "mean_similarity": 0.9399257898330688,
+      "rank": 75
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\mushroom_s_002181.png",
+      "mean_similarity": 0.939892590045929,
+      "rank": 76
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\mushroom_s_002105.png",
+      "mean_similarity": 0.9398452043533325,
+      "rank": 77
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\morchella_esculenta_s_000774.png",
+      "mean_similarity": 0.9397808313369751,
+      "rank": 78
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\verpa_s_001148.png",
+      "mean_similarity": 0.9396978616714478,
+      "rank": 79
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\mushroom_s_001196.png",
+      "mean_similarity": 0.9396626353263855,
+      "rank": 80
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\morchella_esculenta_s_000858.png",
+      "mean_similarity": 0.9396467804908752,
+      "rank": 81
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\mushroom_s_000579.png",
+      "mean_similarity": 0.9396359920501709,
+      "rank": 82
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\mushroom_s_001771.png",
+      "mean_similarity": 0.9396331310272217,
+      "rank": 83
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\mushroom_s_000234.png",
+      "mean_similarity": 0.9395496249198914,
+      "rank": 84
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\mushroom_s_002395.png",
+      "mean_similarity": 0.9394973516464233,
+      "rank": 85
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\mushroom_s_002389.png",
+      "mean_similarity": 0.9394395351409912,
+      "rank": 86
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\morchella_esculenta_s_000516.png",
+      "mean_similarity": 0.9393718242645264,
+      "rank": 87
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\mushroom_s_000337.png",
+      "mean_similarity": 0.9393143057823181,
+      "rank": 88
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\mushroom_s_000952.png",
+      "mean_similarity": 0.9392770528793335,
+      "rank": 89
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\mushroom_s_000592.png",
+      "mean_similarity": 0.9392379522323608,
+      "rank": 90
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\verpa_bohemica_s_000003.png",
+      "mean_similarity": 0.9392366409301758,
+      "rank": 91
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\mushroom_s_001198.png",
+      "mean_similarity": 0.9392359256744385,
+      "rank": 92
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\morchella_esculenta_s_001230.png",
+      "mean_similarity": 0.9392236471176147,
+      "rank": 93
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\mushroom_s_000569.png",
+      "mean_similarity": 0.9391809701919556,
+      "rank": 94
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\mushroom_s_000689.png",
+      "mean_similarity": 0.9391414523124695,
+      "rank": 95
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\mushroom_s_000977.png",
+      "mean_similarity": 0.9391358494758606,
+      "rank": 96
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\verpa_s_001021.png",
+      "mean_similarity": 0.939126193523407,
+      "rank": 97
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\mushroom_s_000799.png",
+      "mean_similarity": 0.9391031861305237,
+      "rank": 98
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\mushroom_s_001621.png",
+      "mean_similarity": 0.939056932926178,
+      "rank": 99
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\morchella_esculenta_s_001543.png",
+      "mean_similarity": 0.9390414357185364,
+      "rank": 100
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\verpa_s_001134.png",
+      "mean_similarity": 0.9390153288841248,
+      "rank": 101
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\mushroom_s_000739.png",
+      "mean_similarity": 0.9390075206756592,
+      "rank": 102
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\mushroom_s_000321.png",
+      "mean_similarity": 0.9390000104904175,
+      "rank": 103
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\mushroom_s_000426.png",
+      "mean_similarity": 0.9389923810958862,
+      "rank": 104
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\mushroom_s_001394.png",
+      "mean_similarity": 0.9389750957489014,
+      "rank": 105
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\verpa_s_001181.png",
+      "mean_similarity": 0.9389613270759583,
+      "rank": 106
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\mushroom_s_000887.png",
+      "mean_similarity": 0.9389570355415344,
+      "rank": 107
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\mushroom_s_000172.png",
+      "mean_similarity": 0.9389523267745972,
+      "rank": 108
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\mushroom_s_000114.png",
+      "mean_similarity": 0.938906192779541,
+      "rank": 109
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\mushroom_s_000882.png",
+      "mean_similarity": 0.9388923645019531,
+      "rank": 110
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\mushroom_s_000653.png",
+      "mean_similarity": 0.9388655424118042,
+      "rank": 111
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\morchella_esculenta_s_000033.png",
+      "mean_similarity": 0.9388617277145386,
+      "rank": 112
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\mushroom_s_001197.png",
+      "mean_similarity": 0.9388594627380371,
+      "rank": 113
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\morchella_esculenta_s_001281.png",
+      "mean_similarity": 0.9388558864593506,
+      "rank": 114
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\mushroom_s_001005.png",
+      "mean_similarity": 0.9387121796607971,
+      "rank": 115
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\mushroom_s_001266.png",
+      "mean_similarity": 0.9386837482452393,
+      "rank": 116
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\mushroom_s_002483.png",
+      "mean_similarity": 0.9386354684829712,
+      "rank": 117
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\verpa_s_000264.png",
+      "mean_similarity": 0.9385982751846313,
+      "rank": 118
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\mushroom_s_002492.png",
+      "mean_similarity": 0.9385911822319031,
+      "rank": 119
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\mushroom_s_000042.png",
+      "mean_similarity": 0.9385738968849182,
+      "rank": 120
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\verpa_s_000529.png",
+      "mean_similarity": 0.9385725855827332,
+      "rank": 121
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\mushroom_s_001766.png",
+      "mean_similarity": 0.9385493397712708,
+      "rank": 122
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\mushroom_s_002221.png",
+      "mean_similarity": 0.9385366439819336,
+      "rank": 123
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\mushroom_s_000641.png",
+      "mean_similarity": 0.9384984970092773,
+      "rank": 124
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\morel_s_001133.png",
+      "mean_similarity": 0.938473105430603,
+      "rank": 125
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\morchella_esculenta_s_000828.png",
+      "mean_similarity": 0.9384453892707825,
+      "rank": 126
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\morchella_esculenta_s_001060.png",
+      "mean_similarity": 0.9384359121322632,
+      "rank": 127
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\morel_s_000149.png",
+      "mean_similarity": 0.9384329915046692,
+      "rank": 128
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\morchella_esculenta_s_001003.png",
+      "mean_similarity": 0.9384095668792725,
+      "rank": 129
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\verpa_s_001311.png",
+      "mean_similarity": 0.9384056329727173,
+      "rank": 130
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\mushroom_s_000572.png",
+      "mean_similarity": 0.9383519291877747,
+      "rank": 131
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\mushroom_s_000711.png",
+      "mean_similarity": 0.9383141398429871,
+      "rank": 132
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\mushroom_s_002161.png",
+      "mean_similarity": 0.9382914304733276,
+      "rank": 133
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\mushroom_s_001810.png",
+      "mean_similarity": 0.9382807612419128,
+      "rank": 134
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\mushroom_s_000662.png",
+      "mean_similarity": 0.9382695555686951,
+      "rank": 135
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\morel_s_000473.png",
+      "mean_similarity": 0.9382343888282776,
+      "rank": 136
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\mushroom_s_000461.png",
+      "mean_similarity": 0.93822181224823,
+      "rank": 137
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\verpa_s_000751.png",
+      "mean_similarity": 0.9381515979766846,
+      "rank": 138
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\mushroom_s_001199.png",
+      "mean_similarity": 0.9381026029586792,
+      "rank": 139
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\morchella_esculenta_s_000005.png",
+      "mean_similarity": 0.9380978941917419,
+      "rank": 140
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\mushroom_s_001298.png",
+      "mean_similarity": 0.9380708336830139,
+      "rank": 141
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\mushroom_s_000474.png",
+      "mean_similarity": 0.9380701780319214,
+      "rank": 142
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\mushroom_s_001730.png",
+      "mean_similarity": 0.9380434155464172,
+      "rank": 143
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\mushroom_s_001293.png",
+      "mean_similarity": 0.9379796385765076,
+      "rank": 144
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\mushroom_s_000880.png",
+      "mean_similarity": 0.9379789233207703,
+      "rank": 145
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\mushroom_s_000130.png",
+      "mean_similarity": 0.9379774928092957,
+      "rank": 146
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\morel_s_000543.png",
+      "mean_similarity": 0.9379715323448181,
+      "rank": 147
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\mushroom_s_001019.png",
+      "mean_similarity": 0.9379502534866333,
+      "rank": 148
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\morchella_esculenta_s_001522.png",
+      "mean_similarity": 0.9379268884658813,
+      "rank": 149
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\verpa_s_000577.png",
+      "mean_similarity": 0.9379165768623352,
+      "rank": 150
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\cup_morel_s_000030.png",
+      "mean_similarity": 0.9378466606140137,
+      "rank": 151
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\verpa_bohemica_s_000024.png",
+      "mean_similarity": 0.9377939105033875,
+      "rank": 152
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\verpa_s_000319.png",
+      "mean_similarity": 0.9377743601799011,
+      "rank": 153
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\mushroom_s_000521.png",
+      "mean_similarity": 0.937765896320343,
+      "rank": 154
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\mushroom_s_002069.png",
+      "mean_similarity": 0.9377398490905762,
+      "rank": 155
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\mushroom_s_001008.png",
+      "mean_similarity": 0.9377373456954956,
+      "rank": 156
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\common_morel_s_000111.png",
+      "mean_similarity": 0.937651515007019,
+      "rank": 157
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\morchella_esculenta_s_000896.png",
+      "mean_similarity": 0.9376030564308167,
+      "rank": 158
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\mushroom_s_001557.png",
+      "mean_similarity": 0.9375321865081787,
+      "rank": 159
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\disciotis_venosa_s_000055.png",
+      "mean_similarity": 0.9374831318855286,
+      "rank": 160
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\verpa_bohemica_s_000043.png",
+      "mean_similarity": 0.9374808073043823,
+      "rank": 161
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\mushroom_s_000156.png",
+      "mean_similarity": 0.9374787211418152,
+      "rank": 162
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\mushroom_s_000542.png",
+      "mean_similarity": 0.9374439716339111,
+      "rank": 163
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\mushroom_s_000688.png",
+      "mean_similarity": 0.9374284744262695,
+      "rank": 164
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\mushroom_s_000657.png",
+      "mean_similarity": 0.9373877048492432,
+      "rank": 165
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\mushroom_s_000669.png",
+      "mean_similarity": 0.9373859167098999,
+      "rank": 166
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\mushroom_s_000577.png",
+      "mean_similarity": 0.9373718500137329,
+      "rank": 167
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\mushroom_s_002411.png",
+      "mean_similarity": 0.937368631362915,
+      "rank": 168
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\mushroom_s_001396.png",
+      "mean_similarity": 0.9373672008514404,
+      "rank": 169
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\mushroom_s_001789.png",
+      "mean_similarity": 0.9373221397399902,
+      "rank": 170
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\mushroom_s_001666.png",
+      "mean_similarity": 0.937269389629364,
+      "rank": 171
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\verpa_s_000134.png",
+      "mean_similarity": 0.9372626543045044,
+      "rank": 172
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\mushroom_s_000862.png",
+      "mean_similarity": 0.9371980428695679,
+      "rank": 173
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\mushroom_s_001278.png",
+      "mean_similarity": 0.9370978474617004,
+      "rank": 174
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\mushroom_s_001877.png",
+      "mean_similarity": 0.9370824694633484,
+      "rank": 175
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\mushroom_s_002260.png",
+      "mean_similarity": 0.9370176792144775,
+      "rank": 176
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\mushroom_s_000570.png",
+      "mean_similarity": 0.9369941353797913,
+      "rank": 177
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\cup_morel_s_000021.png",
+      "mean_similarity": 0.9369516968727112,
+      "rank": 178
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\mushroom_s_000043.png",
+      "mean_similarity": 0.9369328618049622,
+      "rank": 179
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\mushroom_s_002287.png",
+      "mean_similarity": 0.9369004368782043,
+      "rank": 180
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\verpa_s_000851.png",
+      "mean_similarity": 0.9368681311607361,
+      "rank": 181
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\verpa_s_000304.png",
+      "mean_similarity": 0.9368306994438171,
+      "rank": 182
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\mushroom_s_000787.png",
+      "mean_similarity": 0.9368045926094055,
+      "rank": 183
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\mushroom_s_002288.png",
+      "mean_similarity": 0.9367936253547668,
+      "rank": 184
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\morel_s_000268.png",
+      "mean_similarity": 0.9367443919181824,
+      "rank": 185
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\morel_s_000812.png",
+      "mean_similarity": 0.9366976022720337,
+      "rank": 186
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\verpa_s_000184.png",
+      "mean_similarity": 0.9366774559020996,
+      "rank": 187
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\morchella_esculenta_s_000675.png",
+      "mean_similarity": 0.9366750121116638,
+      "rank": 188
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\mushroom_s_000724.png",
+      "mean_similarity": 0.9366127252578735,
+      "rank": 189
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\mushroom_s_000774.png",
+      "mean_similarity": 0.9365922808647156,
+      "rank": 190
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\mushroom_s_000594.png",
+      "mean_similarity": 0.93653804063797,
+      "rank": 191
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\disciotis_venosa_s_000147.png",
+      "mean_similarity": 0.9365374445915222,
+      "rank": 192
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\mushroom_s_000122.png",
+      "mean_similarity": 0.9365031719207764,
+      "rank": 193
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\mushroom_s_000050.png",
+      "mean_similarity": 0.9364463090896606,
+      "rank": 194
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\verpa_bohemica_s_000292.png",
+      "mean_similarity": 0.9363897442817688,
+      "rank": 195
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\mushroom_s_002035.png",
+      "mean_similarity": 0.9363834261894226,
+      "rank": 196
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\mushroom_s_000516.png",
+      "mean_similarity": 0.9363212585449219,
+      "rank": 197
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\mushroom_s_002396.png",
+      "mean_similarity": 0.9362887144088745,
+      "rank": 198
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\morel_s_000329.png",
+      "mean_similarity": 0.9362489581108093,
+      "rank": 199
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\mushroom_s_001685.png",
+      "mean_similarity": 0.9362240433692932,
+      "rank": 200
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\verpa_s_000971.png",
+      "mean_similarity": 0.9362143874168396,
+      "rank": 201
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\mushroom_s_000668.png",
+      "mean_similarity": 0.9361907243728638,
+      "rank": 202
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\morel_s_000654.png",
+      "mean_similarity": 0.9361518621444702,
+      "rank": 203
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\mushroom_s_001780.png",
+      "mean_similarity": 0.9360979795455933,
+      "rank": 204
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\morchella_esculenta_s_001532.png",
+      "mean_similarity": 0.9360723495483398,
+      "rank": 205
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\mushroom_s_000469.png",
+      "mean_similarity": 0.9360718131065369,
+      "rank": 206
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\verpa_s_000494.png",
+      "mean_similarity": 0.9360598921775818,
+      "rank": 207
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\mushroom_s_002084.png",
+      "mean_similarity": 0.9360136389732361,
+      "rank": 208
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\mushroom_s_000661.png",
+      "mean_similarity": 0.9359937906265259,
+      "rank": 209
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\verpa_s_001096.png",
+      "mean_similarity": 0.9359709024429321,
+      "rank": 210
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\mushroom_s_002331.png",
+      "mean_similarity": 0.9359636306762695,
+      "rank": 211
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\verpa_s_001136.png",
+      "mean_similarity": 0.9359615445137024,
+      "rank": 212
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\verpa_s_001062.png",
+      "mean_similarity": 0.9359580874443054,
+      "rank": 213
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\common_morel_s_000155.png",
+      "mean_similarity": 0.9359381198883057,
+      "rank": 214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\mushroom_s_002200.png",
+      "mean_similarity": 0.9359138607978821,
+      "rank": 215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\mushroom_s_000778.png",
+      "mean_similarity": 0.9358561038970947,
+      "rank": 216
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\bell_morel_s_000002.png",
+      "mean_similarity": 0.9357807636260986,
+      "rank": 217
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\mushroom_s_002091.png",
+      "mean_similarity": 0.9357271194458008,
+      "rank": 218
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\mushroom_s_002224.png",
+      "mean_similarity": 0.935714840888977,
+      "rank": 219
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\mushroom_s_001981.png",
+      "mean_similarity": 0.9357107877731323,
+      "rank": 220
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\mushroom_s_002160.png",
+      "mean_similarity": 0.9356834292411804,
+      "rank": 221
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\mushroom_s_000626.png",
+      "mean_similarity": 0.9356565475463867,
+      "rank": 222
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\disciotis_venosa_s_000037.png",
+      "mean_similarity": 0.9356241822242737,
+      "rank": 223
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\mushroom_s_001173.png",
+      "mean_similarity": 0.9355907440185547,
+      "rank": 224
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\mushroom_s_002478.png",
+      "mean_similarity": 0.9355200529098511,
+      "rank": 225
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\morel_s_000341.png",
+      "mean_similarity": 0.9355031251907349,
+      "rank": 226
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\verpa_bohemica_s_000223.png",
+      "mean_similarity": 0.9354638457298279,
+      "rank": 227
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\mushroom_s_001441.png",
+      "mean_similarity": 0.9354249835014343,
+      "rank": 228
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\morchella_esculenta_s_000105.png",
+      "mean_similarity": 0.935412585735321,
+      "rank": 229
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\mushroom_s_001397.png",
+      "mean_similarity": 0.9354123473167419,
+      "rank": 230
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\morel_s_000666.png",
+      "mean_similarity": 0.9353933930397034,
+      "rank": 231
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\mushroom_s_001499.png",
+      "mean_similarity": 0.9353723526000977,
+      "rank": 232
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\mushroom_s_001172.png",
+      "mean_similarity": 0.9353705048561096,
+      "rank": 233
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\morchella_esculenta_s_000048.png",
+      "mean_similarity": 0.9353702664375305,
+      "rank": 234
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\mushroom_s_002270.png",
+      "mean_similarity": 0.9353391528129578,
+      "rank": 235
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\morel_s_000252.png",
+      "mean_similarity": 0.9352598190307617,
+      "rank": 236
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\sponge_mushroom_s_000002.png",
+      "mean_similarity": 0.9352380633354187,
+      "rank": 237
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\mushroom_s_001644.png",
+      "mean_similarity": 0.9352079629898071,
+      "rank": 238
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\mushroom_s_000972.png",
+      "mean_similarity": 0.9352043867111206,
+      "rank": 239
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\morel_s_000235.png",
+      "mean_similarity": 0.9351749420166016,
+      "rank": 240
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\mushroom_s_001543.png",
+      "mean_similarity": 0.9351699948310852,
+      "rank": 241
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\mushroom_s_002397.png",
+      "mean_similarity": 0.9351518154144287,
+      "rank": 242
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\mushroom_s_002143.png",
+      "mean_similarity": 0.935131847858429,
+      "rank": 243
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\mushroom_s_001276.png",
+      "mean_similarity": 0.935116171836853,
+      "rank": 244
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\mushroom_s_000498.png",
+      "mean_similarity": 0.9350920915603638,
+      "rank": 245
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\mushroom_s_002325.png",
+      "mean_similarity": 0.9350705146789551,
+      "rank": 246
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\mushroom_s_001680.png",
+      "mean_similarity": 0.9350565075874329,
+      "rank": 247
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\common_morel_s_000112.png",
+      "mean_similarity": 0.935043454170227,
+      "rank": 248
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\mushroom_s_000868.png",
+      "mean_similarity": 0.9350190758705139,
+      "rank": 249
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\mushroom_s_001460.png",
+      "mean_similarity": 0.9350190162658691,
+      "rank": 250
+    }
+  ]
+}

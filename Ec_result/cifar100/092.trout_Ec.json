@@ -1,0 +1,454 @@
+{
+  "class_name": "trout",
+  "class_idx": 92,
+  "class_folder": "092.trout",
+  "num_images_in_class": 10,
+  "ec_size_requested": 30,
+  "ec_size_actual": 40,
+  "num_fewshot": 10,
+  "num_synthesized": 30,
+  "fewshot_emphasis_weight": 3.0,
+  "hybrid_lambda": 0.6,
+  "related_base_classes": [
+    {
+      "class_key": "aquarium_fish",
+      "relevance_score": 4.8111
+    },
+    {
+      "class_key": "flatfish",
+      "relevance_score": 4.2986
+    },
+    {
+      "class_key": "crab",
+      "relevance_score": 4.1446
+    },
+    {
+      "class_key": "lobster",
+      "relevance_score": 4.0377
+    },
+    {
+      "class_key": "dolphin",
+      "relevance_score": 3.475
+    },
+    {
+      "class_key": "mushroom",
+      "relevance_score": 1.635
+    },
+    {
+      "class_key": "beetle",
+      "relevance_score": 1.6164
+    },
+    {
+      "class_key": "caterpillar",
+      "relevance_score": 1.5865
+    },
+    {
+      "class_key": "dinosaur",
+      "relevance_score": 1.5853
+    },
+    {
+      "class_key": "bowl",
+      "relevance_score": 1.4456
+    }
+  ],
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\images\\092.trout\\rainbow_trout_s_000003.png",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 1,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979726
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\images\\092.trout\\rainbow_trout_s_000006.png",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 2,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979726
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\images\\092.trout\\rainbow_trout_s_000010.png",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 3,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979726
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\images\\092.trout\\rainbow_trout_s_000023.png",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 4,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979726
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\images\\092.trout\\rainbow_trout_s_000024.png",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 5,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979726
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\images\\092.trout\\rainbow_trout_s_000026.png",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 6,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979726
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\images\\092.trout\\rainbow_trout_s_000036.png",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 7,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979726
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\images\\092.trout\\rainbow_trout_s_000038.png",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 8,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979726
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\images\\092.trout\\rainbow_trout_s_000058.png",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 9,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979725
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\images\\092.trout\\rainbow_trout_s_000064.png",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 10,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979726
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\002.aquarium_fish\\cichlid_s_000021.png",
+      "mean_similarity": 0.9797262999999999,
+      "rank": 11,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979726
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\002.aquarium_fish\\carassius_auratus_s_000463.png",
+      "mean_similarity": 0.9797262999999999,
+      "rank": 12,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979726
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\033.flatfish\\winter_flounder_s_000202.png",
+      "mean_similarity": 0.9797262999999999,
+      "rank": 13,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979726
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\002.aquarium_fish\\cichlid_fish_s_000051.png",
+      "mean_similarity": 0.9797262,
+      "rank": 14,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979726
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\002.aquarium_fish\\cichlid_fish_s_001211.png",
+      "mean_similarity": 0.9797262,
+      "rank": 15,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979726
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\002.aquarium_fish\\cichlid_fish_s_000021.png",
+      "mean_similarity": 0.9797262,
+      "rank": 16,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979726
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\002.aquarium_fish\\cichlid_fish_s_000368.png",
+      "mean_similarity": 0.9797261000000002,
+      "rank": 17,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979726
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\002.aquarium_fish\\carassius_auratus_s_000233.png",
+      "mean_similarity": 0.9797261000000002,
+      "rank": 18,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979726
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\002.aquarium_fish\\cichlid_s_001531.png",
+      "mean_similarity": 0.9797261000000002,
+      "rank": 19,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979726
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\lobster_s_000563.png",
+      "mean_similarity": 0.9797261000000002,
+      "rank": 20,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979726
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\crab_s_002701.png",
+      "mean_similarity": 0.9797261000000002,
+      "rank": 21,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979726
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\033.flatfish\\plaice_s_000051.png",
+      "mean_similarity": 0.9797261000000002,
+      "rank": 22,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979726
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\002.aquarium_fish\\goldfish_s_002299.png",
+      "mean_similarity": 0.979726,
+      "rank": 23,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979726
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\002.aquarium_fish\\goldfish_s_001875.png",
+      "mean_similarity": 0.979726,
+      "rank": 24,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979726
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\002.aquarium_fish\\cichlid_s_002388.png",
+      "mean_similarity": 0.979726,
+      "rank": 25,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979726
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\002.aquarium_fish\\cichlid_s_002002.png",
+      "mean_similarity": 0.979726,
+      "rank": 26,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979726
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\011.bowl\\bowl_s_002093.png",
+      "mean_similarity": 0.979726,
+      "rank": 27,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979726
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\002.aquarium_fish\\cichlid_s_000527.png",
+      "mean_similarity": 0.9797259,
+      "rank": 28,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979726
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\002.aquarium_fish\\cichlid_s_000023.png",
+      "mean_similarity": 0.9797259,
+      "rank": 29,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979726
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\033.flatfish\\halibut_s_000102.png",
+      "mean_similarity": 0.9797259,
+      "rank": 30,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979726
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\002.aquarium_fish\\carassius_auratus_s_000303.png",
+      "mean_similarity": 0.9797258,
+      "rank": 31,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979726
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\lobster_s_001161.png",
+      "mean_similarity": 0.9797258,
+      "rank": 32,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979726
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\033.flatfish\\halibut_s_000251.png",
+      "mean_similarity": 0.9797258,
+      "rank": 33,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979726
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\stone_crab_s_000140.png",
+      "mean_similarity": 0.9797258,
+      "rank": 34,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979726
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\002.aquarium_fish\\cichlid_fish_s_001603.png",
+      "mean_similarity": 0.9797257,
+      "rank": 35,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979726
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\002.aquarium_fish\\goldfish_s_000906.png",
+      "mean_similarity": 0.9797257,
+      "rank": 36,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979726
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\033.flatfish\\halibut_s_000157.png",
+      "mean_similarity": 0.9797257,
+      "rank": 37,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979726
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\033.flatfish\\halibut_s_000050.png",
+      "mean_similarity": 0.9797257,
+      "rank": 38,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979726
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\crab_s_002209.png",
+      "mean_similarity": 0.9797257,
+      "rank": 39,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979726
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\caterpillar_s_002244.png",
+      "mean_similarity": 0.9797257,
+      "rank": 40,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979726
+    }
+  ],
+  "debug": {
+    "total_candidates": 200,
+    "after_voting": 200,
+    "after_dedup": 30,
+    "dedup_mode": "backbone",
+    "top_segments": [
+      {
+        "class": "aquarium_fish",
+        "seg": 0,
+        "hybrid": 2.0896,
+        "magnitude": 9.7973,
+        "borda": 496.0
+      },
+      {
+        "class": "aquarium_fish",
+        "seg": 2,
+        "hybrid": 1.9648,
+        "magnitude": 9.7973,
+        "borda": 487.0
+      },
+      {
+        "class": "aquarium_fish",
+        "seg": 1,
+        "hybrid": 1.7091,
+        "magnitude": 9.7973,
+        "borda": 467.0
+      },
+      {
+        "class": "aquarium_fish",
+        "seg": 4,
+        "hybrid": 1.6883,
+        "magnitude": 9.7973,
+        "borda": 460.0
+      },
+      {
+        "class": "aquarium_fish",
+        "seg": 3,
+        "hybrid": 1.6705,
+        "magnitude": 9.7973,
+        "borda": 454.0
+      },
+      {
+        "class": "flatfish",
+        "seg": 4,
+        "hybrid": 1.3346,
+        "magnitude": 9.7973,
+        "borda": 440.0
+      },
+      {
+        "class": "lobster",
+        "seg": 3,
+        "hybrid": 1.1801,
+        "magnitude": 9.7973,
+        "borda": 421.0
+      },
+      {
+        "class": "flatfish",
+        "seg": 3,
+        "hybrid": 1.1622,
+        "magnitude": 9.7973,
+        "borda": 415.0
+      },
+      {
+        "class": "flatfish",
+        "seg": 0,
+        "hybrid": 1.0642,
+        "magnitude": 9.7973,
+        "borda": 415.0
+      },
+      {
+        "class": "crab",
+        "seg": 0,
+        "hybrid": 1.0642,
+        "magnitude": 9.7973,
+        "borda": 415.0
+      }
+    ]
+  }
+}

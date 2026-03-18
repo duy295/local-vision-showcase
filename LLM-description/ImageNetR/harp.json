@@ -1,0 +1,25 @@
+{
+  "class_name": "harp",
+  "global_description": "Large stringed musical instrument with a triangular frame, typically made of wood, featuring a curved neck, a resonant soundboard, and numerous strings of varying lengths. The body is often ornately carved and polished, with a golden or natural wood finish.",
+  "discriminative_attributes": [
+    "Triangular frame",
+    "Curved neck",
+    "Numerous strings",
+    "Resonant soundboard",
+    "Ornately carved body"
+  ],
+  "part_details": {
+    "frame": "Triangular, often wooden, polished",
+    "neck": "Curved, extending from frame",
+    "strings": "Numerous, varying lengths",
+    "soundboard": "Resonant, flat surface",
+    "body": "Ornately carved, polished wood"
+  },
+  "spatial_relations": [
+    "Neck extends from top of frame",
+    "Strings run from neck to soundboard",
+    "Soundboard forms base of frame"
+  ],
+  "original_dataset_key": "ImageNetR",
+  "original_class_key": "harp"
+}

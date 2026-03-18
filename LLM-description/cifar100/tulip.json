@@ -1,0 +1,22 @@
+{
+  "class_name": "tulip",
+  "global_description": "Elegant flower with a smooth, elongated stem and a cup-shaped bloom. The petals are often vibrant, displaying colors like red, yellow, pink, or white. The texture is silky, and the leaves are long and slender, usually green.",
+  "discriminative_attributes": [
+    "Cup-shaped bloom",
+    "Vibrant petal colors",
+    "Smooth elongated stem",
+    "Silky petal texture",
+    "Long slender green leaves"
+  ],
+  "part_details": {
+    "bloom": "Cup-shaped with vibrant, silky petals",
+    "stem": "Smooth and elongated",
+    "leaves": "Long, slender, and green"
+  },
+  "spatial_relations": [
+    "Bloom at top of stem",
+    "Leaves extend from stem"
+  ],
+  "original_dataset_key": "cifar100",
+  "original_class_key": "tulip"
+}

@@ -1,0 +1,26 @@
+{
+  "class_name": "porcupine",
+  "global_description": "Medium-sized mammal with a rounded body covered in sharp quills, typically brown or gray. It has a small head, short legs, and a bushy tail. The quills are long, stiff, and pointed, providing defense against predators.",
+  "discriminative_attributes": [
+    "Sharp quills covering body",
+    "Small head",
+    "Short legs",
+    "Bushy tail",
+    "Brown or gray color"
+  ],
+  "part_details": {
+    "head": "Small with dark eyes and a short snout",
+    "body": "Rounded with dense coverage of sharp quills",
+    "legs": "Short and sturdy",
+    "tail": "Bushy, covered in quills",
+    "quills": "Long, stiff, pointed, brown or gray"
+  },
+  "spatial_relations": [
+    "Head at front of body",
+    "Legs beneath body",
+    "Tail extending from rear",
+    "Quills covering body"
+  ],
+  "original_dataset_key": "ImageNetR",
+  "original_class_key": "porcupine"
+}

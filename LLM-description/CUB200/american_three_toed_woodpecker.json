@@ -1,0 +1,25 @@
+{
+  "class_name": "Bird",
+  "global_description": "A small, slender bird with a predominantly black and white plumage. It has a straight, chisel-like bill and a distinctive white stripe running down its back. The wings and tail are black with white spots, and its head features a black cap with a white face.",
+  "discriminative_attributes": [
+    "Black and white plumage",
+    "White stripe on back",
+    "Black cap on head",
+    "Chisel-like bill",
+    "White spots on wings"
+  ],
+  "part_details": {
+    "head": "Black cap with a white face and a small, sharp, chisel-like bill.",
+    "back": "Predominantly black with a distinctive white stripe running longitudinally.",
+    "wings": "Black with white spots, medium length, and pointed.",
+    "tail": "Black with white spots, slightly rounded at the tip.",
+    "feet": "Three-toed, zygodactyl arrangement, adapted for gripping."
+  },
+  "spatial_relations": [
+    "The white stripe runs longitudinally along the center of the back.",
+    "The black cap covers the top of the head, contrasting with the white face.",
+    "The wings are attached to the sides of the body, extending outward."
+  ],
+  "original_dataset_key": "CUB200",
+  "original_class_key": "american_three_toed_woodpecker"
+}

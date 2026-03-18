@@ -1,0 +1,159 @@
+{
+  "class_name": "026.Bronzed_Cowbird",
+  "class_idx": 25,
+  "num_images_in_class": 30,
+  "ec_size_requested": 30,
+  "ec_size_actual": 30,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\026.Bronzed_Cowbird\\Bronzed_Cowbird_0023_24058.jpg",
+      "mean_similarity": 0.9464110136032104,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\026.Bronzed_Cowbird\\Bronzed_Cowbird_0055_24076.jpg",
+      "mean_similarity": 0.9461314678192139,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\026.Bronzed_Cowbird\\Bronzed_Cowbird_0053_24170.jpg",
+      "mean_similarity": 0.9439898729324341,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\026.Bronzed_Cowbird\\Bronzed_Cowbird_0074_24045.jpg",
+      "mean_similarity": 0.943576455116272,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\026.Bronzed_Cowbird\\Bronzed_Cowbird_0056_796222.jpg",
+      "mean_similarity": 0.9433146715164185,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\026.Bronzed_Cowbird\\Bronzed_Cowbird_0054_24159.jpg",
+      "mean_similarity": 0.9423211216926575,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\026.Bronzed_Cowbird\\Bronzed_Cowbird_0018_24140.jpg",
+      "mean_similarity": 0.9420506954193115,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\026.Bronzed_Cowbird\\Bronzed_Cowbird_0011_24138.jpg",
+      "mean_similarity": 0.9419875144958496,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\026.Bronzed_Cowbird\\Bronzed_Cowbird_0008_796250.jpg",
+      "mean_similarity": 0.9417424201965332,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\026.Bronzed_Cowbird\\Bronzed_Cowbird_0017_24019.jpg",
+      "mean_similarity": 0.9415338039398193,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\026.Bronzed_Cowbird\\Bronzed_Cowbird_0089_796220.jpg",
+      "mean_similarity": 0.9414494037628174,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\026.Bronzed_Cowbird\\Bronzed_Cowbird_0040_24134.jpg",
+      "mean_similarity": 0.940716028213501,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\026.Bronzed_Cowbird\\Bronzed_Cowbird_0086_796259.jpg",
+      "mean_similarity": 0.9405344724655151,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\026.Bronzed_Cowbird\\Bronzed_Cowbird_0029_796256.jpg",
+      "mean_similarity": 0.9402344226837158,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\026.Bronzed_Cowbird\\Bronzed_Cowbird_0060_24082.jpg",
+      "mean_similarity": 0.9397057890892029,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\026.Bronzed_Cowbird\\Bronzed_Cowbird_0085_24152.jpg",
+      "mean_similarity": 0.9395203590393066,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\026.Bronzed_Cowbird\\Bronzed_Cowbird_0012_796247.jpg",
+      "mean_similarity": 0.9391494989395142,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\026.Bronzed_Cowbird\\Bronzed_Cowbird_0027_24022.jpg",
+      "mean_similarity": 0.9389452338218689,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\026.Bronzed_Cowbird\\Bronzed_Cowbird_0005_24173.jpg",
+      "mean_similarity": 0.9377370476722717,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\026.Bronzed_Cowbird\\Bronzed_Cowbird_0001_796219.jpg",
+      "mean_similarity": 0.937366783618927,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\026.Bronzed_Cowbird\\Bronzed_Cowbird_0057_24074.jpg",
+      "mean_similarity": 0.9354044198989868,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\026.Bronzed_Cowbird\\Bronzed_Cowbird_0009_24033.jpg",
+      "mean_similarity": 0.9348390698432922,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\026.Bronzed_Cowbird\\Bronzed_Cowbird_0090_24179.jpg",
+      "mean_similarity": 0.9348382353782654,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\026.Bronzed_Cowbird\\Bronzed_Cowbird_0052_796216.jpg",
+      "mean_similarity": 0.9317175149917603,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\026.Bronzed_Cowbird\\Bronzed_Cowbird_0014_24030.jpg",
+      "mean_similarity": 0.9272092580795288,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\026.Bronzed_Cowbird\\Bronzed_Cowbird_0002_796244.jpg",
+      "mean_similarity": 0.9264199733734131,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\026.Bronzed_Cowbird\\Bronzed_Cowbird_0092_796215.jpg",
+      "mean_similarity": 0.9264168739318848,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\026.Bronzed_Cowbird\\Bronzed_Cowbird_0032_796233.jpg",
+      "mean_similarity": 0.926059365272522,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\026.Bronzed_Cowbird\\Bronzed_Cowbird_0044_24145.jpg",
+      "mean_similarity": 0.9191330075263977,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\026.Bronzed_Cowbird\\Bronzed_Cowbird_0039_24026.jpg",
+      "mean_similarity": 0.9176785945892334,
+      "rank": 30
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "class_name": "mushroom",
+  "global_description": "Fungi with a rounded cap and slender stem, typically found in earthy tones like brown, white, or red. The cap is often smooth or slightly textured, sometimes with gills or pores underneath. The stem is cylindrical and may be fibrous or smooth, supporting the cap above the ground.",
+  "discriminative_attributes": [
+    "Rounded cap",
+    "Slender stem",
+    "Earthy tones",
+    "Gills or pores under cap",
+    "Cylindrical stem"
+  ],
+  "part_details": {
+    "cap": "Rounded, smooth or textured, earthy tones",
+    "stem": "Slender, cylindrical, fibrous or smooth",
+    "gills": "Located under cap, thin and closely spaced",
+    "pores": "Alternative to gills, small openings under cap",
+    "texture": "Smooth or slightly textured cap surface"
+  },
+  "spatial_relations": [
+    "Cap sits atop the stem",
+    "Gills or pores located beneath the cap",
+    "Stem extends from ground to cap"
+  ],
+  "original_dataset_key": "ImageNetR",
+  "original_class_key": "mushroom"
+}

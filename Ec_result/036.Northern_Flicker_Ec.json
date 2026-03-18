@@ -1,0 +1,159 @@
+{
+  "class_name": "036.Northern_Flicker",
+  "class_idx": 35,
+  "num_images_in_class": 30,
+  "ec_size_requested": 30,
+  "ec_size_actual": 30,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\036.Northern_Flicker\\Northern_Flicker_0138_28476.jpg",
+      "mean_similarity": 0.947326123714447,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\036.Northern_Flicker\\Northern_Flicker_0011_28466.jpg",
+      "mean_similarity": 0.947274923324585,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\036.Northern_Flicker\\Northern_Flicker_0057_28606.jpg",
+      "mean_similarity": 0.9468923211097717,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\036.Northern_Flicker\\Northern_Flicker_0035_28332.jpg",
+      "mean_similarity": 0.9466813206672668,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\036.Northern_Flicker\\Northern_Flicker_0075_28729.jpg",
+      "mean_similarity": 0.9461780190467834,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\036.Northern_Flicker\\Northern_Flicker_0024_29041.jpg",
+      "mean_similarity": 0.9460126161575317,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\036.Northern_Flicker\\Northern_Flicker_0008_28591.jpg",
+      "mean_similarity": 0.9459612369537354,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\036.Northern_Flicker\\Northern_Flicker_0105_28836.jpg",
+      "mean_similarity": 0.9459151029586792,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\036.Northern_Flicker\\Northern_Flicker_0096_28623.jpg",
+      "mean_similarity": 0.9458703398704529,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\036.Northern_Flicker\\Northern_Flicker_0111_28402.jpg",
+      "mean_similarity": 0.9457047581672668,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\036.Northern_Flicker\\Northern_Flicker_0077_28341.jpg",
+      "mean_similarity": 0.9450590014457703,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\036.Northern_Flicker\\Northern_Flicker_0016_28603.jpg",
+      "mean_similarity": 0.9448690414428711,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\036.Northern_Flicker\\Northern_Flicker_0069_28924.jpg",
+      "mean_similarity": 0.944575309753418,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\036.Northern_Flicker\\Northern_Flicker_0078_28338.jpg",
+      "mean_similarity": 0.9442909359931946,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\036.Northern_Flicker\\Northern_Flicker_0107_28667.jpg",
+      "mean_similarity": 0.9438120126724243,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\036.Northern_Flicker\\Northern_Flicker_0091_28799.jpg",
+      "mean_similarity": 0.9432744979858398,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\036.Northern_Flicker\\Northern_Flicker_0123_28381.jpg",
+      "mean_similarity": 0.9432181119918823,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\036.Northern_Flicker\\Northern_Flicker_0036_28681.jpg",
+      "mean_similarity": 0.943126916885376,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\036.Northern_Flicker\\Northern_Flicker_0110_28602.jpg",
+      "mean_similarity": 0.9423179030418396,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\036.Northern_Flicker\\Northern_Flicker_0059_28488.jpg",
+      "mean_similarity": 0.9418335556983948,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\036.Northern_Flicker\\Northern_Flicker_0054_28913.jpg",
+      "mean_similarity": 0.9398109316825867,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\036.Northern_Flicker\\Northern_Flicker_0118_28500.jpg",
+      "mean_similarity": 0.9395536184310913,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\036.Northern_Flicker\\Northern_Flicker_0139_28419.jpg",
+      "mean_similarity": 0.9391971230506897,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\036.Northern_Flicker\\Northern_Flicker_0106_28441.jpg",
+      "mean_similarity": 0.9378666281700134,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\036.Northern_Flicker\\Northern_Flicker_0037_28751.jpg",
+      "mean_similarity": 0.937673807144165,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\036.Northern_Flicker\\Northern_Flicker_0050_28284.jpg",
+      "mean_similarity": 0.9366754293441772,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\036.Northern_Flicker\\Northern_Flicker_0132_28313.jpg",
+      "mean_similarity": 0.9362276792526245,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\036.Northern_Flicker\\Northern_Flicker_0004_28854.jpg",
+      "mean_similarity": 0.9349530935287476,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\036.Northern_Flicker\\Northern_Flicker_0085_28378.jpg",
+      "mean_similarity": 0.923393189907074,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\036.Northern_Flicker\\Northern_Flicker_0095_28938.jpg",
+      "mean_similarity": 0.9178679585456848,
+      "rank": 30
+    }
+  ]
+}

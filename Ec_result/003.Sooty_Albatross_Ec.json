@@ -1,0 +1,159 @@
+{
+  "class_name": "003.Sooty_Albatross",
+  "class_idx": 2,
+  "num_images_in_class": 30,
+  "ec_size_requested": 30,
+  "ec_size_actual": 30,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\003.Sooty_Albatross\\Sooty_Albatross_0068_796353.jpg",
+      "mean_similarity": 0.9451935291290283,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\003.Sooty_Albatross\\Sooty_Albatross_0023_796401.jpg",
+      "mean_similarity": 0.9441548585891724,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\003.Sooty_Albatross\\Sooty_Albatross_0001_1071.jpg",
+      "mean_similarity": 0.943449079990387,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\003.Sooty_Albatross\\Sooty_Albatross_0031_1066.jpg",
+      "mean_similarity": 0.9423196315765381,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\003.Sooty_Albatross\\Sooty_Albatross_0070_796346.jpg",
+      "mean_similarity": 0.9417007565498352,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\003.Sooty_Albatross\\Sooty_Albatross_0057_796354.jpg",
+      "mean_similarity": 0.9407554268836975,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\003.Sooty_Albatross\\Sooty_Albatross_0063_1101.jpg",
+      "mean_similarity": 0.9399734735488892,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\003.Sooty_Albatross\\Sooty_Albatross_0055_1160.jpg",
+      "mean_similarity": 0.9399701952934265,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\003.Sooty_Albatross\\Sooty_Albatross_0017_796349.jpg",
+      "mean_similarity": 0.9388664364814758,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\003.Sooty_Albatross\\Sooty_Albatross_0045_1162.jpg",
+      "mean_similarity": 0.938689649105072,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\003.Sooty_Albatross\\Sooty_Albatross_0058_796360.jpg",
+      "mean_similarity": 0.9377750754356384,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\003.Sooty_Albatross\\Sooty_Albatross_0074_1221.jpg",
+      "mean_similarity": 0.9376774430274963,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\003.Sooty_Albatross\\Sooty_Albatross_0025_796361.jpg",
+      "mean_similarity": 0.9369192123413086,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\003.Sooty_Albatross\\Sooty_Albatross_0016_1075.jpg",
+      "mean_similarity": 0.9359806180000305,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\003.Sooty_Albatross\\Sooty_Albatross_0034_1154.jpg",
+      "mean_similarity": 0.9350274205207825,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\003.Sooty_Albatross\\Sooty_Albatross_0022_796398.jpg",
+      "mean_similarity": 0.9342530369758606,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\003.Sooty_Albatross\\Sooty_Albatross_0040_796375.jpg",
+      "mean_similarity": 0.934233546257019,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\003.Sooty_Albatross\\Sooty_Albatross_0072_796371.jpg",
+      "mean_similarity": 0.9341076612472534,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\003.Sooty_Albatross\\Sooty_Albatross_0041_796364.jpg",
+      "mean_similarity": 0.9322448968887329,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\003.Sooty_Albatross\\Sooty_Albatross_0079_796389.jpg",
+      "mean_similarity": 0.931886613368988,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\003.Sooty_Albatross\\Sooty_Albatross_0038_1065.jpg",
+      "mean_similarity": 0.9312650561332703,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\003.Sooty_Albatross\\Sooty_Albatross_0077_1080.jpg",
+      "mean_similarity": 0.9306565523147583,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\003.Sooty_Albatross\\Sooty_Albatross_0014_796373.jpg",
+      "mean_similarity": 0.9279348254203796,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\003.Sooty_Albatross\\Sooty_Albatross_0021_796339.jpg",
+      "mean_similarity": 0.9256541728973389,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\003.Sooty_Albatross\\Sooty_Albatross_0064_796343.jpg",
+      "mean_similarity": 0.924821138381958,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\003.Sooty_Albatross\\Sooty_Albatross_0075_796352.jpg",
+      "mean_similarity": 0.9245966076850891,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\003.Sooty_Albatross\\Sooty_Albatross_0032_1149.jpg",
+      "mean_similarity": 0.9184026718139648,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\003.Sooty_Albatross\\Sooty_Albatross_0043_1076.jpg",
+      "mean_similarity": 0.9118883013725281,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\003.Sooty_Albatross\\Sooty_Albatross_0019_796391.jpg",
+      "mean_similarity": 0.9093232154846191,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\003.Sooty_Albatross\\Sooty_Albatross_0073_1171.jpg",
+      "mean_similarity": 0.8768190741539001,
+      "rank": 30
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "class_name": "sailboat",
+  "global_description": "A sleek watercraft with a pointed hull and tall mast, typically white or blue. The sailboat features large triangular sails made of fabric, a wooden or fiberglass deck, and a rudder for steering. The mast is central, supporting the sails, and the hull is streamlined for cutting through water.",
+  "discriminative_attributes": [
+    "Pointed hull",
+    "Tall central mast",
+    "Triangular sails",
+    "Wooden or fiberglass deck",
+    "Rudder for steering"
+  ],
+  "part_details": {
+    "hull": "Pointed and streamlined, often white or blue",
+    "mast": "Tall and central, supporting sails",
+    "sails": "Large, triangular, made of fabric",
+    "deck": "Wooden or fiberglass, flat surface",
+    "rudder": "Flat, vertical, for steering"
+  },
+  "spatial_relations": [
+    "Mast positioned centrally on deck",
+    "Sails attached to mast",
+    "Rudder at rear of hull",
+    "Deck on top of hull"
+  ],
+  "original_dataset_key": "ImageNetR",
+  "original_class_key": "sailboat"
+}

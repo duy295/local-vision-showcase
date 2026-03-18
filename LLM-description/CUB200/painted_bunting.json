@@ -1,0 +1,25 @@
+{
+  "class_name": "Painted Bunting",
+  "global_description": "A small, vibrant songbird with a compact body and short tail. The male exhibits a striking mix of colors: a bright blue head, vivid green back, and red underparts. The plumage is smooth and glossy, creating a kaleidoscope of colors.",
+  "discriminative_attributes": [
+    "Bright blue head",
+    "Vivid green back",
+    "Red underparts",
+    "Compact body",
+    "Short tail"
+  ],
+  "part_details": {
+    "head": "Bright blue, rounded, with small dark eyes.",
+    "back": "Vivid green, smooth, blending into the wings.",
+    "underparts": "Bright red, covering the chest and belly.",
+    "wings": "Green with hints of blue, short and rounded.",
+    "tail": "Short, dark, slightly forked."
+  },
+  "spatial_relations": [
+    "The blue head transitions into the green back.",
+    "The red underparts are below the green back.",
+    "The wings are attached to the sides of the body."
+  ],
+  "original_dataset_key": "CUB200",
+  "original_class_key": "painted_bunting"
+}

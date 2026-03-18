@@ -1,0 +1,26 @@
+{
+  "class_name": "Least Tern",
+  "global_description": "A small, slender seabird with a streamlined body and pointed wings. It has a predominantly white plumage with a contrasting black cap on the head and a yellow bill. The wings are gray with black tips, and the tail is forked.",
+  "discriminative_attributes": [
+    "Small, slender body",
+    "Black cap on head",
+    "Yellow bill",
+    "Gray wings with black tips",
+    "Forked tail"
+  ],
+  "part_details": {
+    "head": "White with a distinct black cap covering the top and back.",
+    "bill": "Short, pointed, and bright yellow.",
+    "wings": "Long, narrow, gray with black tips.",
+    "tail": "Forked, white with gray edges.",
+    "body": "Streamlined, predominantly white with some gray on the back."
+  },
+  "spatial_relations": [
+    "The black cap covers the top of the head.",
+    "The yellow bill protrudes from the front of the head.",
+    "The gray wings extend from the sides of the body.",
+    "The forked tail is positioned at the rear of the body."
+  ],
+  "original_dataset_key": "CUB200",
+  "original_class_key": "least_tern"
+}

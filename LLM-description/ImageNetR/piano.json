@@ -1,0 +1,26 @@
+{
+  "class_name": "piano",
+  "global_description": "Large musical instrument with a rectangular wooden body, glossy black or brown finish, white and black keys, metal strings inside, and a hinged lid. It has a keyboard, pedals, and a soundboard for resonance.",
+  "discriminative_attributes": [
+    "Rectangular wooden body",
+    "Glossy black or brown finish",
+    "White and black keys",
+    "Metal strings inside",
+    "Hinged lid"
+  ],
+  "part_details": {
+    "keyboard": "Row of white and black keys",
+    "body": "Rectangular, glossy wooden exterior",
+    "lid": "Hinged, covers the strings",
+    "strings": "Metal, inside the body",
+    "pedals": "Located at the base, usually three"
+  },
+  "spatial_relations": [
+    "Keyboard at front of body",
+    "Lid on top of body",
+    "Strings inside body",
+    "Pedals at base"
+  ],
+  "original_dataset_key": "ImageNetR",
+  "original_class_key": "piano"
+}

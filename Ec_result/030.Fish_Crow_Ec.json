@@ -1,0 +1,159 @@
+{
+  "class_name": "030.Fish_Crow",
+  "class_idx": 29,
+  "num_images_in_class": 30,
+  "ec_size_requested": 30,
+  "ec_size_actual": 30,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\030.Fish_Crow\\Fish_Crow_0025_25893.jpg",
+      "mean_similarity": 0.9502614140510559,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\030.Fish_Crow\\Fish_Crow_0058_25999.jpg",
+      "mean_similarity": 0.9497666358947754,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\030.Fish_Crow\\Fish_Crow_0003_25970.jpg",
+      "mean_similarity": 0.9495232701301575,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\030.Fish_Crow\\Fish_Crow_0017_26127.jpg",
+      "mean_similarity": 0.9494336843490601,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\030.Fish_Crow\\Fish_Crow_0049_26040.jpg",
+      "mean_similarity": 0.9492112398147583,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\030.Fish_Crow\\Fish_Crow_0079_26030.jpg",
+      "mean_similarity": 0.9491540193557739,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\030.Fish_Crow\\Fish_Crow_0081_25908.jpg",
+      "mean_similarity": 0.949068009853363,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\030.Fish_Crow\\Fish_Crow_0038_26000.jpg",
+      "mean_similarity": 0.948986291885376,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\030.Fish_Crow\\Fish_Crow_0024_26064.jpg",
+      "mean_similarity": 0.9487453699111938,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\030.Fish_Crow\\Fish_Crow_0010_25836.jpg",
+      "mean_similarity": 0.9486844539642334,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\030.Fish_Crow\\Fish_Crow_0007_26023.jpg",
+      "mean_similarity": 0.9486686587333679,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\030.Fish_Crow\\Fish_Crow_0078_26144.jpg",
+      "mean_similarity": 0.9486544132232666,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\030.Fish_Crow\\Fish_Crow_0044_25964.jpg",
+      "mean_similarity": 0.948653519153595,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\030.Fish_Crow\\Fish_Crow_0043_25847.jpg",
+      "mean_similarity": 0.9485839009284973,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\030.Fish_Crow\\Fish_Crow_0014_26041.jpg",
+      "mean_similarity": 0.9483904838562012,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\030.Fish_Crow\\Fish_Crow_0070_25504.jpg",
+      "mean_similarity": 0.9483896493911743,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\030.Fish_Crow\\Fish_Crow_0069_26008.jpg",
+      "mean_similarity": 0.9483354091644287,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\030.Fish_Crow\\Fish_Crow_0023_26037.jpg",
+      "mean_similarity": 0.9478532075881958,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\030.Fish_Crow\\Fish_Crow_0033_25915.jpg",
+      "mean_similarity": 0.9478486180305481,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\030.Fish_Crow\\Fish_Crow_0022_26062.jpg",
+      "mean_similarity": 0.9467556476593018,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\030.Fish_Crow\\Fish_Crow_0001_26031.jpg",
+      "mean_similarity": 0.9464779496192932,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\030.Fish_Crow\\Fish_Crow_0011_25866.jpg",
+      "mean_similarity": 0.9460538625717163,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\030.Fish_Crow\\Fish_Crow_0068_25859.jpg",
+      "mean_similarity": 0.9456719756126404,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\030.Fish_Crow\\Fish_Crow_0004_25936.jpg",
+      "mean_similarity": 0.9445671439170837,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\030.Fish_Crow\\Fish_Crow_0060_26016.jpg",
+      "mean_similarity": 0.9442757964134216,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\030.Fish_Crow\\Fish_Crow_0083_25949.jpg",
+      "mean_similarity": 0.9442113637924194,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\030.Fish_Crow\\Fish_Crow_0076_25971.jpg",
+      "mean_similarity": 0.9427111744880676,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\030.Fish_Crow\\Fish_Crow_0016_25854.jpg",
+      "mean_similarity": 0.9418315887451172,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\030.Fish_Crow\\Fish_Crow_0005_25912.jpg",
+      "mean_similarity": 0.9407021999359131,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\030.Fish_Crow\\Fish_Crow_0028_25968.jpg",
+      "mean_similarity": 0.9181931018829346,
+      "rank": 30
+    }
+  ]
+}

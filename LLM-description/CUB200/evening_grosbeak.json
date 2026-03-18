@@ -1,0 +1,25 @@
+{
+  "class_name": "Evening Grosbeak",
+  "global_description": "A medium-sized, stocky songbird with a robust body and a large, conical bill. It features a striking combination of bright yellow and black plumage with white wing patches. The bird has a short tail and a thick neck.",
+  "discriminative_attributes": [
+    "Bright yellow body",
+    "Black wings with white patches",
+    "Large conical pale bill",
+    "Short black tail",
+    "Thick neck"
+  ],
+  "part_details": {
+    "body": "Bright yellow with a robust, stocky appearance.",
+    "wings": "Black with prominent white patches, broad and strong.",
+    "bill": "Large, conical, pale ivory color, suited for cracking seeds.",
+    "tail": "Short, black, slightly rounded.",
+    "head": "Yellow with a thick neck, black crown."
+  },
+  "spatial_relations": [
+    "The large bill is positioned at the front of the head.",
+    "The black wings extend from the sides of the yellow body.",
+    "The short tail is at the rear of the body."
+  ],
+  "original_dataset_key": "CUB200",
+  "original_class_key": "evening_grosbeak"
+}

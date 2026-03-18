@@ -1,0 +1,1259 @@
+{
+  "class_name": "crab",
+  "class_idx": 26,
+  "num_images_in_class": 500,
+  "ec_size_requested": 250,
+  "ec_size_actual": 250,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\cancer_magister_s_000173.png",
+      "mean_similarity": 0.9392375349998474,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\dungeness_crab_s_000187.png",
+      "mean_similarity": 0.9388546347618103,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\stone_crab_s_002002.png",
+      "mean_similarity": 0.9383291006088257,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\crab_s_000279.png",
+      "mean_similarity": 0.9381112456321716,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\crab_s_000794.png",
+      "mean_similarity": 0.9379715323448181,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\crab_s_001285.png",
+      "mean_similarity": 0.9379371404647827,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\crab_s_002456.png",
+      "mean_similarity": 0.9378541111946106,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\crab_s_002596.png",
+      "mean_similarity": 0.9378128051757812,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\crab_s_002485.png",
+      "mean_similarity": 0.93780517578125,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\crab_s_002035.png",
+      "mean_similarity": 0.9374707937240601,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\cancer_magister_s_000216.png",
+      "mean_similarity": 0.9372942447662354,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\crab_s_001257.png",
+      "mean_similarity": 0.9369599223136902,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\crab_s_002377.png",
+      "mean_similarity": 0.9369588494300842,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\dungeness_crab_s_000123.png",
+      "mean_similarity": 0.9368791580200195,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\crab_s_002029.png",
+      "mean_similarity": 0.936835765838623,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\crab_s_000417.png",
+      "mean_similarity": 0.9366500377655029,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\dungeness_crab_s_000691.png",
+      "mean_similarity": 0.936615526676178,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\crab_s_001439.png",
+      "mean_similarity": 0.9365519285202026,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\crab_s_002839.png",
+      "mean_similarity": 0.9363235831260681,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\dungeness_crab_s_000736.png",
+      "mean_similarity": 0.9362574219703674,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\stone_crab_s_000691.png",
+      "mean_similarity": 0.9361923933029175,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\cancer_magister_s_000078.png",
+      "mean_similarity": 0.9361539483070374,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\cancer_magister_s_000032.png",
+      "mean_similarity": 0.9360694289207458,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\crab_s_001035.png",
+      "mean_similarity": 0.9359615445137024,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\crab_s_000638.png",
+      "mean_similarity": 0.9359601140022278,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\menippe_mercenaria_s_000014.png",
+      "mean_similarity": 0.9359440207481384,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\dungeness_crab_s_000251.png",
+      "mean_similarity": 0.9356862902641296,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\crab_s_000969.png",
+      "mean_similarity": 0.935645580291748,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\dungeness_crab_s_000035.png",
+      "mean_similarity": 0.9356165528297424,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\dungeness_crab_s_000103.png",
+      "mean_similarity": 0.9355534911155701,
+      "rank": 30
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\stone_crab_s_001094.png",
+      "mean_similarity": 0.9355300664901733,
+      "rank": 31
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\crab_s_002891.png",
+      "mean_similarity": 0.9354919195175171,
+      "rank": 32
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\crab_s_000494.png",
+      "mean_similarity": 0.9354329705238342,
+      "rank": 33
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\crab_s_000702.png",
+      "mean_similarity": 0.9353837966918945,
+      "rank": 34
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\stone_crab_s_000334.png",
+      "mean_similarity": 0.9351887702941895,
+      "rank": 35
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\stone_crab_s_001046.png",
+      "mean_similarity": 0.9351497888565063,
+      "rank": 36
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\dungeness_crab_s_000185.png",
+      "mean_similarity": 0.9350711703300476,
+      "rank": 37
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\cancer_magister_s_000133.png",
+      "mean_similarity": 0.9350254535675049,
+      "rank": 38
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\crab_s_000153.png",
+      "mean_similarity": 0.9349803328514099,
+      "rank": 39
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\crab_s_000058.png",
+      "mean_similarity": 0.9349283576011658,
+      "rank": 40
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\crab_s_002701.png",
+      "mean_similarity": 0.9346648454666138,
+      "rank": 41
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\crab_s_002381.png",
+      "mean_similarity": 0.9346392154693604,
+      "rank": 42
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\crab_s_000163.png",
+      "mean_similarity": 0.9346145987510681,
+      "rank": 43
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\stone_crab_s_001059.png",
+      "mean_similarity": 0.9344818592071533,
+      "rank": 44
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\dungeness_crab_s_001144.png",
+      "mean_similarity": 0.9344419836997986,
+      "rank": 45
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\stone_crab_s_000555.png",
+      "mean_similarity": 0.9344396591186523,
+      "rank": 46
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\crab_s_002661.png",
+      "mean_similarity": 0.9344298839569092,
+      "rank": 47
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\crab_s_002700.png",
+      "mean_similarity": 0.9343678951263428,
+      "rank": 48
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\stone_crab_s_000051.png",
+      "mean_similarity": 0.9343001842498779,
+      "rank": 49
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\crab_s_001377.png",
+      "mean_similarity": 0.9342555999755859,
+      "rank": 50
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\crab_s_001395.png",
+      "mean_similarity": 0.9342347979545593,
+      "rank": 51
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\crab_s_002359.png",
+      "mean_similarity": 0.9341611862182617,
+      "rank": 52
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\crab_s_000291.png",
+      "mean_similarity": 0.9340794682502747,
+      "rank": 53
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\crab_s_001150.png",
+      "mean_similarity": 0.9339801669120789,
+      "rank": 54
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\crab_s_002338.png",
+      "mean_similarity": 0.9339737892150879,
+      "rank": 55
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\crab_s_000118.png",
+      "mean_similarity": 0.9339362382888794,
+      "rank": 56
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\dungeness_crab_s_001405.png",
+      "mean_similarity": 0.9338590502738953,
+      "rank": 57
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\dungeness_crab_s_000501.png",
+      "mean_similarity": 0.9338459968566895,
+      "rank": 58
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\stone_crab_s_000913.png",
+      "mean_similarity": 0.9338166117668152,
+      "rank": 59
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\dungeness_crab_s_000179.png",
+      "mean_similarity": 0.933789849281311,
+      "rank": 60
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\dungeness_crab_s_001076.png",
+      "mean_similarity": 0.933772087097168,
+      "rank": 61
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\dungeness_crab_s_000697.png",
+      "mean_similarity": 0.9337571859359741,
+      "rank": 62
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\crab_s_002224.png",
+      "mean_similarity": 0.9337554574012756,
+      "rank": 63
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\crab_s_002069.png",
+      "mean_similarity": 0.9337169528007507,
+      "rank": 64
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\crab_s_001426.png",
+      "mean_similarity": 0.9336817264556885,
+      "rank": 65
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\crab_s_001787.png",
+      "mean_similarity": 0.9336184859275818,
+      "rank": 66
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\dungeness_crab_s_000004.png",
+      "mean_similarity": 0.9336011409759521,
+      "rank": 67
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\crab_s_000683.png",
+      "mean_similarity": 0.9335587620735168,
+      "rank": 68
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\crab_s_000244.png",
+      "mean_similarity": 0.9335526823997498,
+      "rank": 69
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\cancer_magister_s_000127.png",
+      "mean_similarity": 0.9334593415260315,
+      "rank": 70
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\stone_crab_s_001726.png",
+      "mean_similarity": 0.933350145816803,
+      "rank": 71
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\crab_s_001275.png",
+      "mean_similarity": 0.9333381056785583,
+      "rank": 72
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\crab_s_000438.png",
+      "mean_similarity": 0.9333143830299377,
+      "rank": 73
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\dungeness_crab_s_000076.png",
+      "mean_similarity": 0.9333086609840393,
+      "rank": 74
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\stone_crab_s_001609.png",
+      "mean_similarity": 0.9332996606826782,
+      "rank": 75
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\menippe_mercenaria_s_000034.png",
+      "mean_similarity": 0.9332705736160278,
+      "rank": 76
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\crab_s_001817.png",
+      "mean_similarity": 0.9332687258720398,
+      "rank": 77
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\stone_crab_s_001877.png",
+      "mean_similarity": 0.9332602024078369,
+      "rank": 78
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\cancer_magister_s_000031.png",
+      "mean_similarity": 0.9332098364830017,
+      "rank": 79
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\stone_crab_s_000024.png",
+      "mean_similarity": 0.9330047965049744,
+      "rank": 80
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\dungeness_crab_s_000017.png",
+      "mean_similarity": 0.9330036044120789,
+      "rank": 81
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\crab_s_000142.png",
+      "mean_similarity": 0.932986855506897,
+      "rank": 82
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\dungeness_crab_s_001377.png",
+      "mean_similarity": 0.9329567551612854,
+      "rank": 83
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\crab_s_001331.png",
+      "mean_similarity": 0.9329401254653931,
+      "rank": 84
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\dungeness_crab_s_000079.png",
+      "mean_similarity": 0.932898998260498,
+      "rank": 85
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\crab_s_002441.png",
+      "mean_similarity": 0.9328576922416687,
+      "rank": 86
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\crab_s_002460.png",
+      "mean_similarity": 0.932846188545227,
+      "rank": 87
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\stone_crab_s_000118.png",
+      "mean_similarity": 0.9328142404556274,
+      "rank": 88
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\crab_s_000395.png",
+      "mean_similarity": 0.9327893257141113,
+      "rank": 89
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\crab_s_000597.png",
+      "mean_similarity": 0.9327808022499084,
+      "rank": 90
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\crab_s_000281.png",
+      "mean_similarity": 0.9327003359794617,
+      "rank": 91
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\stone_crab_s_001505.png",
+      "mean_similarity": 0.9326153993606567,
+      "rank": 92
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\stone_crab_s_001407.png",
+      "mean_similarity": 0.9325012564659119,
+      "rank": 93
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\dungeness_crab_s_002016.png",
+      "mean_similarity": 0.9324325323104858,
+      "rank": 94
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\cancer_magister_s_000158.png",
+      "mean_similarity": 0.9323745369911194,
+      "rank": 95
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\dungeness_crab_s_000854.png",
+      "mean_similarity": 0.9323329925537109,
+      "rank": 96
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\stone_crab_s_001087.png",
+      "mean_similarity": 0.9323264360427856,
+      "rank": 97
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\stone_crab_s_000074.png",
+      "mean_similarity": 0.9323176145553589,
+      "rank": 98
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\crab_s_001645.png",
+      "mean_similarity": 0.9323140978813171,
+      "rank": 99
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\crab_s_002335.png",
+      "mean_similarity": 0.9322601556777954,
+      "rank": 100
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\crab_s_000741.png",
+      "mean_similarity": 0.9321978688240051,
+      "rank": 101
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\crab_s_001564.png",
+      "mean_similarity": 0.9320634007453918,
+      "rank": 102
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\crab_s_000406.png",
+      "mean_similarity": 0.9320051074028015,
+      "rank": 103
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\dungeness_crab_s_000128.png",
+      "mean_similarity": 0.9319776296615601,
+      "rank": 104
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\dungeness_crab_s_000527.png",
+      "mean_similarity": 0.931952714920044,
+      "rank": 105
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\dungeness_crab_s_000249.png",
+      "mean_similarity": 0.9319238066673279,
+      "rank": 106
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\dungeness_crab_s_000012.png",
+      "mean_similarity": 0.9319155812263489,
+      "rank": 107
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\crab_s_000621.png",
+      "mean_similarity": 0.931882381439209,
+      "rank": 108
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\crab_s_000757.png",
+      "mean_similarity": 0.9317741394042969,
+      "rank": 109
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\crab_s_000633.png",
+      "mean_similarity": 0.9317394495010376,
+      "rank": 110
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\crab_s_002600.png",
+      "mean_similarity": 0.9317343831062317,
+      "rank": 111
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\crab_s_000499.png",
+      "mean_similarity": 0.9317107200622559,
+      "rank": 112
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\crab_s_000858.png",
+      "mean_similarity": 0.9316322207450867,
+      "rank": 113
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\crab_s_002178.png",
+      "mean_similarity": 0.9315800666809082,
+      "rank": 114
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\crab_s_001380.png",
+      "mean_similarity": 0.9315541386604309,
+      "rank": 115
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\cancer_magister_s_000143.png",
+      "mean_similarity": 0.9315378665924072,
+      "rank": 116
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\crab_s_000922.png",
+      "mean_similarity": 0.9315059781074524,
+      "rank": 117
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\crab_s_002822.png",
+      "mean_similarity": 0.9314717650413513,
+      "rank": 118
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\crab_s_001731.png",
+      "mean_similarity": 0.9314448237419128,
+      "rank": 119
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\crab_s_000170.png",
+      "mean_similarity": 0.9314175844192505,
+      "rank": 120
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\stone_crab_s_001576.png",
+      "mean_similarity": 0.9314048886299133,
+      "rank": 121
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\crab_s_002599.png",
+      "mean_similarity": 0.9313899278640747,
+      "rank": 122
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\crab_s_001868.png",
+      "mean_similarity": 0.9313790798187256,
+      "rank": 123
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\stone_crab_s_000180.png",
+      "mean_similarity": 0.9312421679496765,
+      "rank": 124
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\crab_s_000034.png",
+      "mean_similarity": 0.9312039613723755,
+      "rank": 125
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\crab_s_001688.png",
+      "mean_similarity": 0.9311817288398743,
+      "rank": 126
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\dungeness_crab_s_001825.png",
+      "mean_similarity": 0.9311807751655579,
+      "rank": 127
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\dungeness_crab_s_000193.png",
+      "mean_similarity": 0.9311602711677551,
+      "rank": 128
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\cancer_magister_s_000082.png",
+      "mean_similarity": 0.931150496006012,
+      "rank": 129
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\crab_s_000895.png",
+      "mean_similarity": 0.9311138391494751,
+      "rank": 130
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\crab_s_001492.png",
+      "mean_similarity": 0.9310773611068726,
+      "rank": 131
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\dungeness_crab_s_001977.png",
+      "mean_similarity": 0.9310464262962341,
+      "rank": 132
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\crab_s_002631.png",
+      "mean_similarity": 0.9309472441673279,
+      "rank": 133
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\crab_s_001496.png",
+      "mean_similarity": 0.9309141635894775,
+      "rank": 134
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\dungeness_crab_s_001445.png",
+      "mean_similarity": 0.9308913350105286,
+      "rank": 135
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\cancer_magister_s_000025.png",
+      "mean_similarity": 0.9307317137718201,
+      "rank": 136
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\crab_s_001378.png",
+      "mean_similarity": 0.9307144284248352,
+      "rank": 137
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\dungeness_crab_s_001517.png",
+      "mean_similarity": 0.9306822419166565,
+      "rank": 138
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\cancer_magister_s_000028.png",
+      "mean_similarity": 0.9306743741035461,
+      "rank": 139
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\crab_s_002798.png",
+      "mean_similarity": 0.9305037260055542,
+      "rank": 140
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\crab_s_000147.png",
+      "mean_similarity": 0.9304909110069275,
+      "rank": 141
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\crab_s_000005.png",
+      "mean_similarity": 0.9304450750350952,
+      "rank": 142
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\dungeness_crab_s_000411.png",
+      "mean_similarity": 0.9303815960884094,
+      "rank": 143
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\stone_crab_s_001585.png",
+      "mean_similarity": 0.9303662180900574,
+      "rank": 144
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\dungeness_crab_s_001828.png",
+      "mean_similarity": 0.9303475618362427,
+      "rank": 145
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\dungeness_crab_s_000097.png",
+      "mean_similarity": 0.930310845375061,
+      "rank": 146
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\crab_s_002360.png",
+      "mean_similarity": 0.9302554130554199,
+      "rank": 147
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\dungeness_crab_s_000314.png",
+      "mean_similarity": 0.9301977157592773,
+      "rank": 148
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\menippe_mercenaria_s_000035.png",
+      "mean_similarity": 0.930144727230072,
+      "rank": 149
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\crab_s_001194.png",
+      "mean_similarity": 0.9301412105560303,
+      "rank": 150
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\cancer_magister_s_000171.png",
+      "mean_similarity": 0.9301219582557678,
+      "rank": 151
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\crab_s_000405.png",
+      "mean_similarity": 0.9300310015678406,
+      "rank": 152
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\crab_s_002209.png",
+      "mean_similarity": 0.9300017952919006,
+      "rank": 153
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\dungeness_crab_s_001590.png",
+      "mean_similarity": 0.9298347234725952,
+      "rank": 154
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\crab_s_001681.png",
+      "mean_similarity": 0.9298039674758911,
+      "rank": 155
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\crab_s_001732.png",
+      "mean_similarity": 0.9297810792922974,
+      "rank": 156
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\cancer_magister_s_000217.png",
+      "mean_similarity": 0.9297593235969543,
+      "rank": 157
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\stone_crab_s_000071.png",
+      "mean_similarity": 0.9297542572021484,
+      "rank": 158
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\dungeness_crab_s_000640.png",
+      "mean_similarity": 0.929620623588562,
+      "rank": 159
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\dungeness_crab_s_002090.png",
+      "mean_similarity": 0.9295989274978638,
+      "rank": 160
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\dungeness_crab_s_001164.png",
+      "mean_similarity": 0.929513692855835,
+      "rank": 161
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\crab_s_002122.png",
+      "mean_similarity": 0.9295032024383545,
+      "rank": 162
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\stone_crab_s_000823.png",
+      "mean_similarity": 0.929496705532074,
+      "rank": 163
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\stone_crab_s_001725.png",
+      "mean_similarity": 0.9294353127479553,
+      "rank": 164
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\crab_s_000052.png",
+      "mean_similarity": 0.9293894171714783,
+      "rank": 165
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\crab_s_001080.png",
+      "mean_similarity": 0.9293134808540344,
+      "rank": 166
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\stone_crab_s_001970.png",
+      "mean_similarity": 0.929282009601593,
+      "rank": 167
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\stone_crab_s_001314.png",
+      "mean_similarity": 0.9292707443237305,
+      "rank": 168
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\dungeness_crab_s_001007.png",
+      "mean_similarity": 0.9292327165603638,
+      "rank": 169
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\dungeness_crab_s_000275.png",
+      "mean_similarity": 0.9292311668395996,
+      "rank": 170
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\crab_s_001556.png",
+      "mean_similarity": 0.9292173385620117,
+      "rank": 171
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\stone_crab_s_000967.png",
+      "mean_similarity": 0.929215133190155,
+      "rank": 172
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\crab_s_002897.png",
+      "mean_similarity": 0.929180383682251,
+      "rank": 173
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\crab_s_001655.png",
+      "mean_similarity": 0.9291731715202332,
+      "rank": 174
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\crab_s_002723.png",
+      "mean_similarity": 0.9290192127227783,
+      "rank": 175
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\crab_s_000761.png",
+      "mean_similarity": 0.9289380311965942,
+      "rank": 176
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\cancer_magister_s_000049.png",
+      "mean_similarity": 0.9288996458053589,
+      "rank": 177
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\dungeness_crab_s_000908.png",
+      "mean_similarity": 0.9288950562477112,
+      "rank": 178
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\cancer_magister_s_000164.png",
+      "mean_similarity": 0.9287883639335632,
+      "rank": 179
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\stone_crab_s_000559.png",
+      "mean_similarity": 0.9287764430046082,
+      "rank": 180
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\crab_s_002346.png",
+      "mean_similarity": 0.9287545084953308,
+      "rank": 181
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\crab_s_001209.png",
+      "mean_similarity": 0.928731381893158,
+      "rank": 182
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\crab_s_001255.png",
+      "mean_similarity": 0.9287238717079163,
+      "rank": 183
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\crab_s_002136.png",
+      "mean_similarity": 0.9286342263221741,
+      "rank": 184
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\crab_s_001431.png",
+      "mean_similarity": 0.9285395741462708,
+      "rank": 185
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\crab_s_000846.png",
+      "mean_similarity": 0.9284098744392395,
+      "rank": 186
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\crab_s_000418.png",
+      "mean_similarity": 0.9283957481384277,
+      "rank": 187
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\crab_s_000138.png",
+      "mean_similarity": 0.9283195734024048,
+      "rank": 188
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\crab_s_001193.png",
+      "mean_similarity": 0.9282662272453308,
+      "rank": 189
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\crab_s_000392.png",
+      "mean_similarity": 0.9282500743865967,
+      "rank": 190
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\crab_s_000637.png",
+      "mean_similarity": 0.928219199180603,
+      "rank": 191
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\crab_s_001081.png",
+      "mean_similarity": 0.9281845092773438,
+      "rank": 192
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\crab_s_001544.png",
+      "mean_similarity": 0.928033709526062,
+      "rank": 193
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\crab_s_001318.png",
+      "mean_similarity": 0.9280118942260742,
+      "rank": 194
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\crab_s_001448.png",
+      "mean_similarity": 0.9280098676681519,
+      "rank": 195
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\crab_s_001350.png",
+      "mean_similarity": 0.9280001521110535,
+      "rank": 196
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\stone_crab_s_000048.png",
+      "mean_similarity": 0.9279928803443909,
+      "rank": 197
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\crab_s_001686.png",
+      "mean_similarity": 0.9279900789260864,
+      "rank": 198
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\crab_s_000415.png",
+      "mean_similarity": 0.9279789328575134,
+      "rank": 199
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\dungeness_crab_s_000154.png",
+      "mean_similarity": 0.9279612898826599,
+      "rank": 200
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\crab_s_000404.png",
+      "mean_similarity": 0.9279606938362122,
+      "rank": 201
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\crab_s_000518.png",
+      "mean_similarity": 0.9278340935707092,
+      "rank": 202
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\stone_crab_s_000224.png",
+      "mean_similarity": 0.9278175830841064,
+      "rank": 203
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\dungeness_crab_s_001291.png",
+      "mean_similarity": 0.9278131723403931,
+      "rank": 204
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\crab_s_002529.png",
+      "mean_similarity": 0.9277678728103638,
+      "rank": 205
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\crab_s_002373.png",
+      "mean_similarity": 0.9277528524398804,
+      "rank": 206
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\dungeness_crab_s_000073.png",
+      "mean_similarity": 0.9277105331420898,
+      "rank": 207
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\crab_s_000751.png",
+      "mean_similarity": 0.927630603313446,
+      "rank": 208
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\stone_crab_s_001183.png",
+      "mean_similarity": 0.9275639057159424,
+      "rank": 209
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\dungeness_crab_s_001898.png",
+      "mean_similarity": 0.9275289177894592,
+      "rank": 210
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\menippe_mercenaria_s_000030.png",
+      "mean_similarity": 0.9274420142173767,
+      "rank": 211
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\crab_s_002440.png",
+      "mean_similarity": 0.9273318648338318,
+      "rank": 212
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\menippe_mercenaria_s_000001.png",
+      "mean_similarity": 0.9273300170898438,
+      "rank": 213
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\stone_crab_s_000484.png",
+      "mean_similarity": 0.9272952079772949,
+      "rank": 214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\stone_crab_s_000600.png",
+      "mean_similarity": 0.9272741079330444,
+      "rank": 215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\stone_crab_s_000143.png",
+      "mean_similarity": 0.9271788597106934,
+      "rank": 216
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\stone_crab_s_001771.png",
+      "mean_similarity": 0.9271621704101562,
+      "rank": 217
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\crab_s_001698.png",
+      "mean_similarity": 0.9271212220191956,
+      "rank": 218
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\crab_s_000711.png",
+      "mean_similarity": 0.9270757436752319,
+      "rank": 219
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\crab_s_001268.png",
+      "mean_similarity": 0.927067220211029,
+      "rank": 220
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\crab_s_002248.png",
+      "mean_similarity": 0.926997184753418,
+      "rank": 221
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\dungeness_crab_s_001485.png",
+      "mean_similarity": 0.9269867539405823,
+      "rank": 222
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\crab_s_000655.png",
+      "mean_similarity": 0.9269547462463379,
+      "rank": 223
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\menippe_mercenaria_s_000006.png",
+      "mean_similarity": 0.9269526600837708,
+      "rank": 224
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\crab_s_001853.png",
+      "mean_similarity": 0.9268522262573242,
+      "rank": 225
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\crab_s_000028.png",
+      "mean_similarity": 0.9268040657043457,
+      "rank": 226
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\stone_crab_s_000595.png",
+      "mean_similarity": 0.9267650246620178,
+      "rank": 227
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\stone_crab_s_001193.png",
+      "mean_similarity": 0.9267648458480835,
+      "rank": 228
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\crab_s_001761.png",
+      "mean_similarity": 0.9267281293869019,
+      "rank": 229
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\cancer_magister_s_000100.png",
+      "mean_similarity": 0.9267184138298035,
+      "rank": 230
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\dungeness_crab_s_000403.png",
+      "mean_similarity": 0.926628053188324,
+      "rank": 231
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\cancer_magister_s_000129.png",
+      "mean_similarity": 0.926612377166748,
+      "rank": 232
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\stone_crab_s_001054.png",
+      "mean_similarity": 0.9266016483306885,
+      "rank": 233
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\dungeness_crab_s_001406.png",
+      "mean_similarity": 0.9265710711479187,
+      "rank": 234
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\dungeness_crab_s_000406.png",
+      "mean_similarity": 0.9264081120491028,
+      "rank": 235
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\dungeness_crab_s_001829.png",
+      "mean_similarity": 0.9264041185379028,
+      "rank": 236
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\dungeness_crab_s_001669.png",
+      "mean_similarity": 0.9263886213302612,
+      "rank": 237
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\crab_s_001259.png",
+      "mean_similarity": 0.926383912563324,
+      "rank": 238
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\crab_s_000246.png",
+      "mean_similarity": 0.9262784719467163,
+      "rank": 239
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\crab_s_002401.png",
+      "mean_similarity": 0.9261824488639832,
+      "rank": 240
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\cancer_magister_s_000066.png",
+      "mean_similarity": 0.9260963201522827,
+      "rank": 241
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\crab_s_002011.png",
+      "mean_similarity": 0.9260609149932861,
+      "rank": 242
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\cancer_magister_s_000163.png",
+      "mean_similarity": 0.9260059595108032,
+      "rank": 243
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\crab_s_001401.png",
+      "mean_similarity": 0.9259887337684631,
+      "rank": 244
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\crab_s_000476.png",
+      "mean_similarity": 0.9259495735168457,
+      "rank": 245
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\stone_crab_s_000537.png",
+      "mean_similarity": 0.9259151220321655,
+      "rank": 246
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\crab_s_000767.png",
+      "mean_similarity": 0.9259048104286194,
+      "rank": 247
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\crab_s_002047.png",
+      "mean_similarity": 0.9258975982666016,
+      "rank": 248
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\stone_crab_s_000140.png",
+      "mean_similarity": 0.925790011882782,
+      "rank": 249
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\crab_s_001684.png",
+      "mean_similarity": 0.9257630109786987,
+      "rank": 250
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "class_name": "cactus",
+  "global_description": "Succulent plant with thick, fleshy stems, often cylindrical or spherical, covered in spines. Typically green with a waxy texture, adapted to arid environments. May have small flowers or fruit.",
+  "discriminative_attributes": [
+    "Thick, fleshy stems",
+    "Covered in spines",
+    "Cylindrical or spherical shape",
+    "Green with waxy texture",
+    "Adapted to arid environments"
+  ],
+  "part_details": {
+    "stems": "Thick, fleshy, cylindrical or spherical, green with waxy surface",
+    "spines": "Sharp, needle-like, covering the surface",
+    "flowers": "Small, often colorful, emerging from the stem",
+    "fruit": "Small, sometimes colorful, developing from flowers"
+  },
+  "spatial_relations": [
+    "Spines cover the surface of stems",
+    "Flowers emerge from the top or sides of stems",
+    "Fruit develops from flowers"
+  ],
+  "original_dataset_key": "ImageNetR",
+  "original_class_key": "cactus"
+}

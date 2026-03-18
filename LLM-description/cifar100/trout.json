@@ -1,0 +1,25 @@
+{
+  "class_name": "trout",
+  "global_description": "Streamlined fish with elongated body, covered in smooth, shiny scales. Predominantly silver with hints of green or blue, featuring dark spots along the sides. Fins are translucent with a slight pink or orange hue. The mouth is slightly pointed, and the eyes are small and round.",
+  "discriminative_attributes": [
+    "Elongated body",
+    "Smooth, shiny scales",
+    "Silver with green or blue hues",
+    "Dark spots along sides",
+    "Translucent fins with pink or orange hue"
+  ],
+  "part_details": {
+    "body": "Elongated, covered in smooth, shiny scales, silver with green or blue hues",
+    "fins": "Translucent with slight pink or orange hue",
+    "spots": "Dark, scattered along sides",
+    "mouth": "Slightly pointed",
+    "eyes": "Small, round"
+  },
+  "spatial_relations": [
+    "Fins positioned along sides and back",
+    "Mouth at front of head",
+    "Eyes above mouth"
+  ],
+  "original_dataset_key": "cifar100",
+  "original_class_key": "trout"
+}

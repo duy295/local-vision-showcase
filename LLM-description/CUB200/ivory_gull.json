@@ -1,0 +1,24 @@
+{
+  "class_name": "Ivory Gull",
+  "global_description": "A medium-sized seabird with a streamlined body and predominantly white plumage. It features a short, rounded head with a small black beak and dark eyes. The wings are long and pointed, while the tail is short and squared. The legs are short and black.",
+  "discriminative_attributes": [
+    "Pure white plumage",
+    "Small black beak",
+    "Dark eyes",
+    "Long pointed wings",
+    "Short squared tail"
+  ],
+  "part_details": {
+    "head": "Rounded, covered in white feathers, with a small black beak and dark eyes.",
+    "wings": "Long, narrow, and pointed, covered in white feathers.",
+    "tail": "Short, squared, and white.",
+    "legs": "Short, black, and slender."
+  },
+  "spatial_relations": [
+    "The wings extend laterally from the body.",
+    "The tail is positioned at the rear end of the body.",
+    "The head is at the front of the body, with the beak protruding forward."
+  ],
+  "original_dataset_key": "CUB200",
+  "original_class_key": "ivory_gull"
+}

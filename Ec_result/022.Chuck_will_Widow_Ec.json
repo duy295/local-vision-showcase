@@ -1,0 +1,159 @@
+{
+  "class_name": "022.Chuck_will_Widow",
+  "class_idx": 21,
+  "num_images_in_class": 30,
+  "ec_size_requested": 30,
+  "ec_size_actual": 30,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\022.Chuck_will_Widow\\Chuck_Will_Widow_0004_796957.jpg",
+      "mean_similarity": 0.9509223103523254,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\022.Chuck_will_Widow\\Chuck_Will_Widow_0016_796974.jpg",
+      "mean_similarity": 0.9505295753479004,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\022.Chuck_will_Widow\\Chuck_Will_Widow_0046_796966.jpg",
+      "mean_similarity": 0.9504936337471008,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\022.Chuck_will_Widow\\Chuck_Will_Widow_0055_796973.jpg",
+      "mean_similarity": 0.9504594206809998,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\022.Chuck_will_Widow\\Chuck_Will_Widow_0035_796985.jpg",
+      "mean_similarity": 0.9504187703132629,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\022.Chuck_will_Widow\\Chuck_Will_Widow_0037_796961.jpg",
+      "mean_similarity": 0.9502629041671753,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\022.Chuck_will_Widow\\Chuck_Will_Widow_0056_796996.jpg",
+      "mean_similarity": 0.9502015113830566,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\022.Chuck_will_Widow\\Chuck_Will_Widow_0059_796982.jpg",
+      "mean_similarity": 0.9501720070838928,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\022.Chuck_will_Widow\\Chuck_Will_Widow_0018_796980.jpg",
+      "mean_similarity": 0.9501281380653381,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\022.Chuck_will_Widow\\Chuck_Will_Widow_0008_796968.jpg",
+      "mean_similarity": 0.950041651725769,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\022.Chuck_will_Widow\\Chuck_Will_Widow_0034_796969.jpg",
+      "mean_similarity": 0.9500197768211365,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\022.Chuck_will_Widow\\Chuck_Will_Widow_0050_22750.jpg",
+      "mean_similarity": 0.9499948620796204,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\022.Chuck_will_Widow\\Chuck_Will_Widow_0023_796979.jpg",
+      "mean_similarity": 0.9499117732048035,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\022.Chuck_will_Widow\\Chuck_Will_Widow_0005_796998.jpg",
+      "mean_similarity": 0.9498394727706909,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\022.Chuck_will_Widow\\Chuck_Will_Widow_0043_797001.jpg",
+      "mean_similarity": 0.9498123526573181,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\022.Chuck_will_Widow\\Chuck_Will_Widow_0006_796986.jpg",
+      "mean_similarity": 0.9495778679847717,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\022.Chuck_will_Widow\\Chuck_Will_Widow_0007_796958.jpg",
+      "mean_similarity": 0.9494181871414185,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\022.Chuck_will_Widow\\Chuck_Will_Widow_0054_22782.jpg",
+      "mean_similarity": 0.949355959892273,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\022.Chuck_will_Widow\\Chuck_Will_Widow_0002_796959.jpg",
+      "mean_similarity": 0.9493365287780762,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\022.Chuck_will_Widow\\Chuck_Will_Widow_0049_22747.jpg",
+      "mean_similarity": 0.9486117959022522,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\022.Chuck_will_Widow\\Chuck_Will_Widow_0003_796977.jpg",
+      "mean_similarity": 0.94845050573349,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\022.Chuck_will_Widow\\Chuck_Will_Widow_0017_796960.jpg",
+      "mean_similarity": 0.9474952816963196,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\022.Chuck_will_Widow\\Chuck_Will_Widow_0048_796995.jpg",
+      "mean_similarity": 0.9472077488899231,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\022.Chuck_will_Widow\\Chuck_Will_Widow_0057_796970.jpg",
+      "mean_similarity": 0.9468411207199097,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\022.Chuck_will_Widow\\Chuck_Will_Widow_0012_796956.jpg",
+      "mean_similarity": 0.9467071890830994,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\022.Chuck_will_Widow\\Chuck_Will_Widow_0026_796963.jpg",
+      "mean_similarity": 0.9466345310211182,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\022.Chuck_will_Widow\\Chuck_Will_Widow_0040_796976.jpg",
+      "mean_similarity": 0.9461430311203003,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\022.Chuck_will_Widow\\Chuck_Will_Widow_0024_796993.jpg",
+      "mean_similarity": 0.9443273544311523,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\022.Chuck_will_Widow\\Chuck_Will_Widow_0053_796953.jpg",
+      "mean_similarity": 0.9440224766731262,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\022.Chuck_will_Widow\\Chuck_Will_Widow_0001_796975.jpg",
+      "mean_similarity": 0.9432576894760132,
+      "rank": 30
+    }
+  ]
+}

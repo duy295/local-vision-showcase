@@ -1,0 +1,159 @@
+{
+  "class_name": "070.Green_Violetear",
+  "class_idx": 69,
+  "num_images_in_class": 30,
+  "ec_size_requested": 30,
+  "ec_size_actual": 30,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\070.Green_Violetear\\Green_Violetear_0021_795632.jpg",
+      "mean_similarity": 0.9512604475021362,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\070.Green_Violetear\\Green_Violetear_0041_795648.jpg",
+      "mean_similarity": 0.9510867595672607,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\070.Green_Violetear\\Green_Violetear_0009_795647.jpg",
+      "mean_similarity": 0.9509742856025696,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\070.Green_Violetear\\Green_Violetear_0017_795652.jpg",
+      "mean_similarity": 0.9508568048477173,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\070.Green_Violetear\\Green_Violetear_0089_795698.jpg",
+      "mean_similarity": 0.9508035182952881,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\070.Green_Violetear\\Green_Violetear_0043_60813.jpg",
+      "mean_similarity": 0.9503321051597595,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\070.Green_Violetear\\Green_Violetear_0050_795633.jpg",
+      "mean_similarity": 0.9501115679740906,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\070.Green_Violetear\\Green_Violetear_0080_795716.jpg",
+      "mean_similarity": 0.9500352144241333,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\070.Green_Violetear\\Green_Violetear_0005_795666.jpg",
+      "mean_similarity": 0.9499907493591309,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\070.Green_Violetear\\Green_Violetear_0060_795657.jpg",
+      "mean_similarity": 0.9498687982559204,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\070.Green_Violetear\\Green_Violetear_0084_795641.jpg",
+      "mean_similarity": 0.9497502446174622,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\070.Green_Violetear\\Green_Violetear_0047_795677.jpg",
+      "mean_similarity": 0.9496762752532959,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\070.Green_Violetear\\Green_Violetear_0094_795634.jpg",
+      "mean_similarity": 0.9495794177055359,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\070.Green_Violetear\\Green_Violetear_0105_795694.jpg",
+      "mean_similarity": 0.9495023488998413,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\070.Green_Violetear\\Green_Violetear_0067_795674.jpg",
+      "mean_similarity": 0.9494984149932861,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\070.Green_Violetear\\Green_Violetear_0036_795635.jpg",
+      "mean_similarity": 0.949437141418457,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\070.Green_Violetear\\Green_Violetear_0082_795706.jpg",
+      "mean_similarity": 0.9494118690490723,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\070.Green_Violetear\\Green_Violetear_0095_795646.jpg",
+      "mean_similarity": 0.9491169452667236,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\070.Green_Violetear\\Green_Violetear_0086_795639.jpg",
+      "mean_similarity": 0.9489161372184753,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\070.Green_Violetear\\Green_Violetear_0030_795736.jpg",
+      "mean_similarity": 0.9484426379203796,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\070.Green_Violetear\\Green_Violetear_0027_60841.jpg",
+      "mean_similarity": 0.9483494162559509,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\070.Green_Violetear\\Green_Violetear_0108_795711.jpg",
+      "mean_similarity": 0.948056697845459,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\070.Green_Violetear\\Green_Violetear_0102_795702.jpg",
+      "mean_similarity": 0.9465047717094421,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\070.Green_Violetear\\Green_Violetear_0103_795644.jpg",
+      "mean_similarity": 0.9460996985435486,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\070.Green_Violetear\\Green_Violetear_0079_795685.jpg",
+      "mean_similarity": 0.9452852606773376,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\070.Green_Violetear\\Green_Violetear_0028_60800.jpg",
+      "mean_similarity": 0.9432455897331238,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\070.Green_Violetear\\Green_Violetear_0062_60797.jpg",
+      "mean_similarity": 0.9386122822761536,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\070.Green_Violetear\\Green_Violetear_0025_795692.jpg",
+      "mean_similarity": 0.9357762336730957,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\070.Green_Violetear\\Green_Violetear_0077_795696.jpg",
+      "mean_similarity": 0.9344921112060547,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\070.Green_Violetear\\Green_Violetear_0013_795684.jpg",
+      "mean_similarity": 0.9324163198471069,
+      "rank": 30
+    }
+  ]
+}

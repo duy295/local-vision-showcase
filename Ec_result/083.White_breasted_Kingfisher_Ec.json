@@ -1,0 +1,159 @@
+{
+  "class_name": "083.White_breasted_Kingfisher",
+  "class_idx": 82,
+  "num_images_in_class": 30,
+  "ec_size_requested": 30,
+  "ec_size_actual": 30,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\083.White_breasted_Kingfisher\\White_Breasted_Kingfisher_0036_73403.jpg",
+      "mean_similarity": 0.9479134678840637,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\083.White_breasted_Kingfisher\\White_Breasted_Kingfisher_0115_73252.jpg",
+      "mean_similarity": 0.9475969672203064,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\083.White_breasted_Kingfisher\\White_Breasted_Kingfisher_0084_73247.jpg",
+      "mean_similarity": 0.9474005103111267,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\083.White_breasted_Kingfisher\\White_Breasted_Kingfisher_0103_73316.jpg",
+      "mean_similarity": 0.9464996457099915,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\083.White_breasted_Kingfisher\\White_Breasted_Kingfisher_0107_73265.jpg",
+      "mean_similarity": 0.9464424848556519,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\083.White_breasted_Kingfisher\\White_Breasted_Kingfisher_0121_73258.jpg",
+      "mean_similarity": 0.9455771446228027,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\083.White_breasted_Kingfisher\\White_Breasted_Kingfisher_0088_73386.jpg",
+      "mean_similarity": 0.9449962973594666,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\083.White_breasted_Kingfisher\\White_Breasted_Kingfisher_0022_73459.jpg",
+      "mean_similarity": 0.9449365139007568,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\083.White_breasted_Kingfisher\\White_Breasted_Kingfisher_0053_73476.jpg",
+      "mean_similarity": 0.944914698600769,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\083.White_breasted_Kingfisher\\White_Breasted_Kingfisher_0011_73267.jpg",
+      "mean_similarity": 0.9437291622161865,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\083.White_breasted_Kingfisher\\White_Breasted_Kingfisher_0054_73587.jpg",
+      "mean_similarity": 0.9436444044113159,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\083.White_breasted_Kingfisher\\White_Breasted_Kingfisher_0024_73736.jpg",
+      "mean_similarity": 0.9428527355194092,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\083.White_breasted_Kingfisher\\White_Breasted_Kingfisher_0049_73420.jpg",
+      "mean_similarity": 0.9428476691246033,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\083.White_breasted_Kingfisher\\White_Breasted_Kingfisher_0087_73264.jpg",
+      "mean_similarity": 0.9428319931030273,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\083.White_breasted_Kingfisher\\White_Breasted_Kingfisher_0018_71137.jpg",
+      "mean_similarity": 0.9427342414855957,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\083.White_breasted_Kingfisher\\White_Breasted_Kingfisher_0026_73201.jpg",
+      "mean_similarity": 0.942635178565979,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\083.White_breasted_Kingfisher\\White_Breasted_Kingfisher_0109_73683.jpg",
+      "mean_similarity": 0.942359447479248,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\083.White_breasted_Kingfisher\\White_Breasted_Kingfisher_0074_73408.jpg",
+      "mean_similarity": 0.9419361352920532,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\083.White_breasted_Kingfisher\\White_Breasted_Kingfisher_0120_73439.jpg",
+      "mean_similarity": 0.9406062364578247,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\083.White_breasted_Kingfisher\\White_Breasted_Kingfisher_0117_73283.jpg",
+      "mean_similarity": 0.9386343955993652,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\083.White_breasted_Kingfisher\\White_Breasted_Kingfisher_0118_73511.jpg",
+      "mean_similarity": 0.9373584389686584,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\083.White_breasted_Kingfisher\\White_Breasted_Kingfisher_0035_73290.jpg",
+      "mean_similarity": 0.9371411800384521,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\083.White_breasted_Kingfisher\\White_Breasted_Kingfisher_0093_73311.jpg",
+      "mean_similarity": 0.9364096522331238,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\083.White_breasted_Kingfisher\\White_Breasted_Kingfisher_0122_73199.jpg",
+      "mean_similarity": 0.9362945556640625,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\083.White_breasted_Kingfisher\\White_Breasted_Kingfisher_0056_73353.jpg",
+      "mean_similarity": 0.9360139966011047,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\083.White_breasted_Kingfisher\\White_Breasted_Kingfisher_0123_73211.jpg",
+      "mean_similarity": 0.934968113899231,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\083.White_breasted_Kingfisher\\White_Breasted_Kingfisher_0032_73248.jpg",
+      "mean_similarity": 0.933986246585846,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\083.White_breasted_Kingfisher\\White_Breasted_Kingfisher_0062_73425.jpg",
+      "mean_similarity": 0.9329554438591003,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\083.White_breasted_Kingfisher\\White_Breasted_Kingfisher_0002_73491.jpg",
+      "mean_similarity": 0.9223887920379639,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\083.White_breasted_Kingfisher\\White_Breasted_Kingfisher_0085_73363.jpg",
+      "mean_similarity": 0.9223215579986572,
+      "rank": 30
+    }
+  ]
+}

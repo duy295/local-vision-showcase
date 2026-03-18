@@ -1,0 +1,1259 @@
+{
+  "class_name": "clock",
+  "class_idx": 22,
+  "num_images_in_class": 500,
+  "ec_size_requested": 250,
+  "ec_size_actual": 250,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\clock_s_001653.png",
+      "mean_similarity": 0.9364317059516907,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\clock_s_001783.png",
+      "mean_similarity": 0.9364292621612549,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\alarm_clock_s_000949.png",
+      "mean_similarity": 0.936387836933136,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\clock_s_001608.png",
+      "mean_similarity": 0.9359995722770691,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\clock_s_000698.png",
+      "mean_similarity": 0.9359239935874939,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\clock_s_001987.png",
+      "mean_similarity": 0.9359179735183716,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\clock_s_001149.png",
+      "mean_similarity": 0.9358546137809753,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\clock_s_001845.png",
+      "mean_similarity": 0.9355863332748413,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\alarm_clock_s_001058.png",
+      "mean_similarity": 0.9355787634849548,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\clock_s_001010.png",
+      "mean_similarity": 0.9355427026748657,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\clock_s_001778.png",
+      "mean_similarity": 0.935452938079834,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\clock_s_000512.png",
+      "mean_similarity": 0.9351603984832764,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\clock_s_001595.png",
+      "mean_similarity": 0.9349774122238159,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\alarm_clock_s_000693.png",
+      "mean_similarity": 0.9348400235176086,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\clock_s_001144.png",
+      "mean_similarity": 0.9348109364509583,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\clock_s_001863.png",
+      "mean_similarity": 0.9347952604293823,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\alarm_clock_s_000385.png",
+      "mean_similarity": 0.9347601532936096,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\clock_s_000628.png",
+      "mean_similarity": 0.9346308708190918,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\clock_s_002427.png",
+      "mean_similarity": 0.9345223903656006,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\clock_s_002345.png",
+      "mean_similarity": 0.9343236684799194,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\clock_s_002292.png",
+      "mean_similarity": 0.9342935681343079,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\alarm_clock_s_000381.png",
+      "mean_similarity": 0.9341316223144531,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\clock_s_001571.png",
+      "mean_similarity": 0.9340892434120178,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\clock_s_001872.png",
+      "mean_similarity": 0.9340645670890808,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\clock_s_002414.png",
+      "mean_similarity": 0.9340237379074097,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\alarm_clock_s_000527.png",
+      "mean_similarity": 0.9340183138847351,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\clock_s_001467.png",
+      "mean_similarity": 0.9337515234947205,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\clock_s_002043.png",
+      "mean_similarity": 0.9334741234779358,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\alarm_clock_s_000825.png",
+      "mean_similarity": 0.9334648251533508,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\alarm_clock_s_001065.png",
+      "mean_similarity": 0.9333639740943909,
+      "rank": 30
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\clock_s_000398.png",
+      "mean_similarity": 0.9333420395851135,
+      "rank": 31
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\clock_s_000238.png",
+      "mean_similarity": 0.9332516193389893,
+      "rank": 32
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\clock_s_001665.png",
+      "mean_similarity": 0.9332476258277893,
+      "rank": 33
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\clock_s_001714.png",
+      "mean_similarity": 0.93321692943573,
+      "rank": 34
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\clock_s_000011.png",
+      "mean_similarity": 0.9331800937652588,
+      "rank": 35
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\alarm_clock_s_000405.png",
+      "mean_similarity": 0.9330601096153259,
+      "rank": 36
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\clock_s_001847.png",
+      "mean_similarity": 0.9330093264579773,
+      "rank": 37
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\alarm_clock_s_000313.png",
+      "mean_similarity": 0.9328378438949585,
+      "rank": 38
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\clock_s_000836.png",
+      "mean_similarity": 0.9327727556228638,
+      "rank": 39
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\clock_s_002387.png",
+      "mean_similarity": 0.9326962232589722,
+      "rank": 40
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\clock_s_000240.png",
+      "mean_similarity": 0.9326383471488953,
+      "rank": 41
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\clock_s_000003.png",
+      "mean_similarity": 0.9326355457305908,
+      "rank": 42
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\clock_s_001051.png",
+      "mean_similarity": 0.9325719475746155,
+      "rank": 43
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\alarm_clock_s_000473.png",
+      "mean_similarity": 0.932490885257721,
+      "rank": 44
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\clock_s_001864.png",
+      "mean_similarity": 0.9324702024459839,
+      "rank": 45
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\clock_s_000288.png",
+      "mean_similarity": 0.9324665665626526,
+      "rank": 46
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\clock_s_000809.png",
+      "mean_similarity": 0.9324446320533752,
+      "rank": 47
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\clock_s_001078.png",
+      "mean_similarity": 0.9324168562889099,
+      "rank": 48
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\clock_s_000222.png",
+      "mean_similarity": 0.9323817491531372,
+      "rank": 49
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\clock_s_000019.png",
+      "mean_similarity": 0.93232661485672,
+      "rank": 50
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\clock_s_001810.png",
+      "mean_similarity": 0.9323180317878723,
+      "rank": 51
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\clock_s_000393.png",
+      "mean_similarity": 0.9323169589042664,
+      "rank": 52
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\clock_s_001171.png",
+      "mean_similarity": 0.9323000907897949,
+      "rank": 53
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\clock_s_000737.png",
+      "mean_similarity": 0.9322754144668579,
+      "rank": 54
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\clock_s_001751.png",
+      "mean_similarity": 0.9322715401649475,
+      "rank": 55
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\clock_s_002028.png",
+      "mean_similarity": 0.9321829676628113,
+      "rank": 56
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\clock_s_002354.png",
+      "mean_similarity": 0.9320980906486511,
+      "rank": 57
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\clock_s_001702.png",
+      "mean_similarity": 0.9320797324180603,
+      "rank": 58
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\clock_s_000843.png",
+      "mean_similarity": 0.9320663809776306,
+      "rank": 59
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\alarm_clock_s_000511.png",
+      "mean_similarity": 0.932066023349762,
+      "rank": 60
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\alarm_clock_s_000826.png",
+      "mean_similarity": 0.9320297241210938,
+      "rank": 61
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\clock_s_000749.png",
+      "mean_similarity": 0.9319170117378235,
+      "rank": 62
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\clock_s_002016.png",
+      "mean_similarity": 0.9318854212760925,
+      "rank": 63
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\clock_s_001158.png",
+      "mean_similarity": 0.9318721890449524,
+      "rank": 64
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\clock_s_002259.png",
+      "mean_similarity": 0.9318248629570007,
+      "rank": 65
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\clock_s_000253.png",
+      "mean_similarity": 0.9317929148674011,
+      "rank": 66
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\clock_s_001257.png",
+      "mean_similarity": 0.9317337274551392,
+      "rank": 67
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\alarm_clock_s_000829.png",
+      "mean_similarity": 0.9317315816879272,
+      "rank": 68
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\clock_s_000927.png",
+      "mean_similarity": 0.9317142367362976,
+      "rank": 69
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\clock_s_002002.png",
+      "mean_similarity": 0.9315957427024841,
+      "rank": 70
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\clock_s_000002.png",
+      "mean_similarity": 0.9315534830093384,
+      "rank": 71
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\clock_s_000305.png",
+      "mean_similarity": 0.9315293431282043,
+      "rank": 72
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\clock_s_001561.png",
+      "mean_similarity": 0.9314202666282654,
+      "rank": 73
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\alarm_clock_s_000085.png",
+      "mean_similarity": 0.9314095973968506,
+      "rank": 74
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\alarm_clock_s_000430.png",
+      "mean_similarity": 0.931378185749054,
+      "rank": 75
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\clock_s_001024.png",
+      "mean_similarity": 0.931374192237854,
+      "rank": 76
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\clock_s_001694.png",
+      "mean_similarity": 0.9312930107116699,
+      "rank": 77
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\alarm_clock_s_000164.png",
+      "mean_similarity": 0.9312572479248047,
+      "rank": 78
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\clock_s_000355.png",
+      "mean_similarity": 0.9312499165534973,
+      "rank": 79
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\alarm_clock_s_000648.png",
+      "mean_similarity": 0.9312224388122559,
+      "rank": 80
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\clock_s_002207.png",
+      "mean_similarity": 0.9312206506729126,
+      "rank": 81
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\clock_s_000392.png",
+      "mean_similarity": 0.931158721446991,
+      "rank": 82
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\alarm_clock_s_000447.png",
+      "mean_similarity": 0.9311522245407104,
+      "rank": 83
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\clock_s_002100.png",
+      "mean_similarity": 0.9311460852622986,
+      "rank": 84
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\clock_s_002353.png",
+      "mean_similarity": 0.9310083389282227,
+      "rank": 85
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\clock_s_000903.png",
+      "mean_similarity": 0.9309983849525452,
+      "rank": 86
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\alarm_clock_s_000047.png",
+      "mean_similarity": 0.9309965372085571,
+      "rank": 87
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\clock_s_000740.png",
+      "mean_similarity": 0.9309509992599487,
+      "rank": 88
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\alarm_clock_s_000147.png",
+      "mean_similarity": 0.9309425354003906,
+      "rank": 89
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\clock_s_000553.png",
+      "mean_similarity": 0.9308721423149109,
+      "rank": 90
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\clock_s_002039.png",
+      "mean_similarity": 0.9308541417121887,
+      "rank": 91
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\clock_s_001446.png",
+      "mean_similarity": 0.9308132529258728,
+      "rank": 92
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\clock_s_000833.png",
+      "mean_similarity": 0.9307353496551514,
+      "rank": 93
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\clock_s_000910.png",
+      "mean_similarity": 0.9306173920631409,
+      "rank": 94
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\clock_s_000243.png",
+      "mean_similarity": 0.9306173324584961,
+      "rank": 95
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\clock_s_000362.png",
+      "mean_similarity": 0.9305660128593445,
+      "rank": 96
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\clock_s_000502.png",
+      "mean_similarity": 0.9305315613746643,
+      "rank": 97
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\clock_s_000001.png",
+      "mean_similarity": 0.9304671883583069,
+      "rank": 98
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\clock_s_000397.png",
+      "mean_similarity": 0.930421769618988,
+      "rank": 99
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\clock_s_001603.png",
+      "mean_similarity": 0.9303577542304993,
+      "rank": 100
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\clock_s_002421.png",
+      "mean_similarity": 0.9303246736526489,
+      "rank": 101
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\clock_s_002058.png",
+      "mean_similarity": 0.930290937423706,
+      "rank": 102
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\clock_s_002179.png",
+      "mean_similarity": 0.9302653074264526,
+      "rank": 103
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\clock_s_001994.png",
+      "mean_similarity": 0.930247962474823,
+      "rank": 104
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\clock_s_001411.png",
+      "mean_similarity": 0.9301996827125549,
+      "rank": 105
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\clock_s_001816.png",
+      "mean_similarity": 0.9301338195800781,
+      "rank": 106
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\alarm_clock_s_000999.png",
+      "mean_similarity": 0.9301170706748962,
+      "rank": 107
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\clock_s_001955.png",
+      "mean_similarity": 0.930111825466156,
+      "rank": 108
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\clock_s_001931.png",
+      "mean_similarity": 0.9301064610481262,
+      "rank": 109
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\clock_s_000626.png",
+      "mean_similarity": 0.9300983548164368,
+      "rank": 110
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\clock_s_000535.png",
+      "mean_similarity": 0.930082380771637,
+      "rank": 111
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\clock_s_000488.png",
+      "mean_similarity": 0.9299854636192322,
+      "rank": 112
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\clock_s_001353.png",
+      "mean_similarity": 0.9298693537712097,
+      "rank": 113
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\clock_s_000013.png",
+      "mean_similarity": 0.9298380613327026,
+      "rank": 114
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\clock_s_000396.png",
+      "mean_similarity": 0.9297499060630798,
+      "rank": 115
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\alarm_clock_s_000149.png",
+      "mean_similarity": 0.9296589493751526,
+      "rank": 116
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\clock_s_000650.png",
+      "mean_similarity": 0.9296442270278931,
+      "rank": 117
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\alarm_clock_s_000950.png",
+      "mean_similarity": 0.9295974373817444,
+      "rank": 118
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\clock_s_000085.png",
+      "mean_similarity": 0.9295423030853271,
+      "rank": 119
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\clock_s_002194.png",
+      "mean_similarity": 0.9295006990432739,
+      "rank": 120
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\alarm_clock_s_000312.png",
+      "mean_similarity": 0.9294760227203369,
+      "rank": 121
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\clock_s_001536.png",
+      "mean_similarity": 0.9294595122337341,
+      "rank": 122
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\clock_s_000482.png",
+      "mean_similarity": 0.9294349551200867,
+      "rank": 123
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\clock_s_001869.png",
+      "mean_similarity": 0.9293745160102844,
+      "rank": 124
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\alarm_clock_s_000928.png",
+      "mean_similarity": 0.9293141961097717,
+      "rank": 125
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\clock_s_000158.png",
+      "mean_similarity": 0.9292401671409607,
+      "rank": 126
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\clock_s_001386.png",
+      "mean_similarity": 0.9291958212852478,
+      "rank": 127
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\alarm_clock_s_000917.png",
+      "mean_similarity": 0.929023027420044,
+      "rank": 128
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\clock_s_001601.png",
+      "mean_similarity": 0.929017961025238,
+      "rank": 129
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\alarm_clock_s_000667.png",
+      "mean_similarity": 0.9289799928665161,
+      "rank": 130
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\clock_s_000741.png",
+      "mean_similarity": 0.9289750456809998,
+      "rank": 131
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\clock_s_001584.png",
+      "mean_similarity": 0.9289717674255371,
+      "rank": 132
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\alarm_clock_s_000744.png",
+      "mean_similarity": 0.9289703369140625,
+      "rank": 133
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\clock_s_000334.png",
+      "mean_similarity": 0.9289555549621582,
+      "rank": 134
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\clock_s_000111.png",
+      "mean_similarity": 0.9288769364356995,
+      "rank": 135
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\clock_s_000228.png",
+      "mean_similarity": 0.9288257956504822,
+      "rank": 136
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\clock_s_000946.png",
+      "mean_similarity": 0.9287757873535156,
+      "rank": 137
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\alarm_clock_s_000223.png",
+      "mean_similarity": 0.9287688136100769,
+      "rank": 138
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\clock_s_001730.png",
+      "mean_similarity": 0.9287399053573608,
+      "rank": 139
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\alarm_clock_s_000837.png",
+      "mean_similarity": 0.9287227392196655,
+      "rank": 140
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\clock_s_001838.png",
+      "mean_similarity": 0.9287165999412537,
+      "rank": 141
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\alarm_clock_s_001117.png",
+      "mean_similarity": 0.928698718547821,
+      "rank": 142
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\clock_s_000237.png",
+      "mean_similarity": 0.9286818504333496,
+      "rank": 143
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\alarm_clock_s_000028.png",
+      "mean_similarity": 0.9286593794822693,
+      "rank": 144
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\clock_s_000341.png",
+      "mean_similarity": 0.9286502599716187,
+      "rank": 145
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\clock_s_001444.png",
+      "mean_similarity": 0.9286025762557983,
+      "rank": 146
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\alarm_clock_s_000056.png",
+      "mean_similarity": 0.9285651445388794,
+      "rank": 147
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\alarm_clock_s_000271.png",
+      "mean_similarity": 0.9285579919815063,
+      "rank": 148
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\clock_s_002450.png",
+      "mean_similarity": 0.9285134077072144,
+      "rank": 149
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\clock_s_001058.png",
+      "mean_similarity": 0.9285114407539368,
+      "rank": 150
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\clock_s_002320.png",
+      "mean_similarity": 0.9284640550613403,
+      "rank": 151
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\clock_s_000170.png",
+      "mean_similarity": 0.9284554123878479,
+      "rank": 152
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\clock_s_001221.png",
+      "mean_similarity": 0.9283021688461304,
+      "rank": 153
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\clock_s_001803.png",
+      "mean_similarity": 0.9282959699630737,
+      "rank": 154
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\clock_s_002019.png",
+      "mean_similarity": 0.9282873272895813,
+      "rank": 155
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\alarm_clock_s_000053.png",
+      "mean_similarity": 0.9282562732696533,
+      "rank": 156
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\clock_s_001631.png",
+      "mean_similarity": 0.9282370209693909,
+      "rank": 157
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\clock_s_000024.png",
+      "mean_similarity": 0.9281496405601501,
+      "rank": 158
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\alarm_clock_s_000695.png",
+      "mean_similarity": 0.9281359314918518,
+      "rank": 159
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\clock_s_002358.png",
+      "mean_similarity": 0.9280833601951599,
+      "rank": 160
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\clock_s_000103.png",
+      "mean_similarity": 0.9280624389648438,
+      "rank": 161
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\clock_s_002291.png",
+      "mean_similarity": 0.9280509352684021,
+      "rank": 162
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\clock_s_000316.png",
+      "mean_similarity": 0.9280316829681396,
+      "rank": 163
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\clock_s_002335.png",
+      "mean_similarity": 0.9279475808143616,
+      "rank": 164
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\clock_s_002162.png",
+      "mean_similarity": 0.9279342293739319,
+      "rank": 165
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\clock_s_001439.png",
+      "mean_similarity": 0.9279212951660156,
+      "rank": 166
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\alarm_clock_s_000937.png",
+      "mean_similarity": 0.9278303980827332,
+      "rank": 167
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\clock_s_000748.png",
+      "mean_similarity": 0.9278177618980408,
+      "rank": 168
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\clock_s_001554.png",
+      "mean_similarity": 0.9277909994125366,
+      "rank": 169
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\alarm_clock_s_000456.png",
+      "mean_similarity": 0.9276909828186035,
+      "rank": 170
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\clock_s_001043.png",
+      "mean_similarity": 0.9276333451271057,
+      "rank": 171
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\alarm_clock_s_000678.png",
+      "mean_similarity": 0.9276052117347717,
+      "rank": 172
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\clock_s_001298.png",
+      "mean_similarity": 0.9275709986686707,
+      "rank": 173
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\clock_s_000005.png",
+      "mean_similarity": 0.9275661110877991,
+      "rank": 174
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\alarm_clock_s_000237.png",
+      "mean_similarity": 0.927463173866272,
+      "rank": 175
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\alarm_clock_s_000454.png",
+      "mean_similarity": 0.9274368286132812,
+      "rank": 176
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\clock_s_001437.png",
+      "mean_similarity": 0.9274340867996216,
+      "rank": 177
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\clock_s_002256.png",
+      "mean_similarity": 0.9274295568466187,
+      "rank": 178
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\alarm_clock_s_000327.png",
+      "mean_similarity": 0.9274284839630127,
+      "rank": 179
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\clock_s_000173.png",
+      "mean_similarity": 0.9273253083229065,
+      "rank": 180
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\clock_s_000540.png",
+      "mean_similarity": 0.9272943139076233,
+      "rank": 181
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\clock_s_002027.png",
+      "mean_similarity": 0.9272743463516235,
+      "rank": 182
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\clock_s_001385.png",
+      "mean_similarity": 0.9272372126579285,
+      "rank": 183
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\clock_s_001833.png",
+      "mean_similarity": 0.927230954170227,
+      "rank": 184
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\alarm_clock_s_000466.png",
+      "mean_similarity": 0.9272221326828003,
+      "rank": 185
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\clock_s_000821.png",
+      "mean_similarity": 0.9271818995475769,
+      "rank": 186
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\clock_s_001070.png",
+      "mean_similarity": 0.927095353603363,
+      "rank": 187
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\clock_s_000289.png",
+      "mean_similarity": 0.9270867109298706,
+      "rank": 188
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\clock_s_001379.png",
+      "mean_similarity": 0.9270100593566895,
+      "rank": 189
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\clock_s_000738.png",
+      "mean_similarity": 0.9270069003105164,
+      "rank": 190
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\clock_s_001523.png",
+      "mean_similarity": 0.9269947409629822,
+      "rank": 191
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\clock_s_000503.png",
+      "mean_similarity": 0.9269598722457886,
+      "rank": 192
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\clock_s_000522.png",
+      "mean_similarity": 0.9269469380378723,
+      "rank": 193
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\alarm_clock_s_000363.png",
+      "mean_similarity": 0.9269120693206787,
+      "rank": 194
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\alarm_clock_s_000103.png",
+      "mean_similarity": 0.9268897771835327,
+      "rank": 195
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\clock_s_000472.png",
+      "mean_similarity": 0.9268561601638794,
+      "rank": 196
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\alarm_clock_s_000141.png",
+      "mean_similarity": 0.9267863035202026,
+      "rank": 197
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\alarm_clock_s_000475.png",
+      "mean_similarity": 0.9267327785491943,
+      "rank": 198
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\alarm_clock_s_000725.png",
+      "mean_similarity": 0.9266912341117859,
+      "rank": 199
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\clock_s_001014.png",
+      "mean_similarity": 0.926659107208252,
+      "rank": 200
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\clock_s_001576.png",
+      "mean_similarity": 0.9266355633735657,
+      "rank": 201
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\alarm_clock_s_000801.png",
+      "mean_similarity": 0.9265537858009338,
+      "rank": 202
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\clock_s_001883.png",
+      "mean_similarity": 0.9265455603599548,
+      "rank": 203
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\clock_s_001539.png",
+      "mean_similarity": 0.926537811756134,
+      "rank": 204
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\clock_s_001402.png",
+      "mean_similarity": 0.9265053272247314,
+      "rank": 205
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\alarm_clock_s_000697.png",
+      "mean_similarity": 0.9264731407165527,
+      "rank": 206
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\alarm_clock_s_001116.png",
+      "mean_similarity": 0.9264267683029175,
+      "rank": 207
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\alarm_clock_s_000817.png",
+      "mean_similarity": 0.9264194965362549,
+      "rank": 208
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\alarm_clock_s_000321.png",
+      "mean_similarity": 0.9263696074485779,
+      "rank": 209
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\clock_s_001421.png",
+      "mean_similarity": 0.9263498783111572,
+      "rank": 210
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\alarm_clock_s_000845.png",
+      "mean_similarity": 0.9262880682945251,
+      "rank": 211
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\alarm_clock_s_000894.png",
+      "mean_similarity": 0.926252543926239,
+      "rank": 212
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\alarm_clock_s_000031.png",
+      "mean_similarity": 0.926243245601654,
+      "rank": 213
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\alarm_clock_s_000747.png",
+      "mean_similarity": 0.9262299537658691,
+      "rank": 214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\alarm_clock_s_000638.png",
+      "mean_similarity": 0.9262279272079468,
+      "rank": 215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\alarm_clock_s_000986.png",
+      "mean_similarity": 0.9262063503265381,
+      "rank": 216
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\clock_s_000614.png",
+      "mean_similarity": 0.9261842966079712,
+      "rank": 217
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\alarm_clock_s_000033.png",
+      "mean_similarity": 0.9260966777801514,
+      "rank": 218
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\alarm_clock_s_000073.png",
+      "mean_similarity": 0.9260631799697876,
+      "rank": 219
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\clock_s_001693.png",
+      "mean_similarity": 0.9260157346725464,
+      "rank": 220
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\clock_s_002332.png",
+      "mean_similarity": 0.9259880781173706,
+      "rank": 221
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\clock_s_002014.png",
+      "mean_similarity": 0.9259628057479858,
+      "rank": 222
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\alarm_clock_s_000222.png",
+      "mean_similarity": 0.9259459972381592,
+      "rank": 223
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\alarm_clock_s_000250.png",
+      "mean_similarity": 0.9259078502655029,
+      "rank": 224
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\clock_s_002245.png",
+      "mean_similarity": 0.9258871674537659,
+      "rank": 225
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\clock_s_001040.png",
+      "mean_similarity": 0.9257897138595581,
+      "rank": 226
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\clock_s_000937.png",
+      "mean_similarity": 0.9257357716560364,
+      "rank": 227
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\clock_s_000822.png",
+      "mean_similarity": 0.925727128982544,
+      "rank": 228
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\clock_s_000387.png",
+      "mean_similarity": 0.9257263541221619,
+      "rank": 229
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\clock_s_002348.png",
+      "mean_similarity": 0.9257135987281799,
+      "rank": 230
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\clock_s_000605.png",
+      "mean_similarity": 0.9256735444068909,
+      "rank": 231
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\clock_s_001542.png",
+      "mean_similarity": 0.9255087375640869,
+      "rank": 232
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\clock_s_002382.png",
+      "mean_similarity": 0.9254250526428223,
+      "rank": 233
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\alarm_clock_s_001112.png",
+      "mean_similarity": 0.9254162907600403,
+      "rank": 234
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\alarm_clock_s_000336.png",
+      "mean_similarity": 0.9253984093666077,
+      "rank": 235
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\alarm_clock_s_000009.png",
+      "mean_similarity": 0.9253714084625244,
+      "rank": 236
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\clock_s_001632.png",
+      "mean_similarity": 0.925348162651062,
+      "rank": 237
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\clock_s_001342.png",
+      "mean_similarity": 0.9252751469612122,
+      "rank": 238
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\clock_s_000142.png",
+      "mean_similarity": 0.9252416491508484,
+      "rank": 239
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\alarm_clock_s_000446.png",
+      "mean_similarity": 0.925189733505249,
+      "rank": 240
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\clock_s_000442.png",
+      "mean_similarity": 0.9251503348350525,
+      "rank": 241
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\clock_s_000354.png",
+      "mean_similarity": 0.9250304698944092,
+      "rank": 242
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\clock_s_001378.png",
+      "mean_similarity": 0.9250203371047974,
+      "rank": 243
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\clock_s_002428.png",
+      "mean_similarity": 0.9249404668807983,
+      "rank": 244
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\clock_s_002301.png",
+      "mean_similarity": 0.9249281883239746,
+      "rank": 245
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\alarm_clock_s_000623.png",
+      "mean_similarity": 0.924927830696106,
+      "rank": 246
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\alarm_clock_s_000908.png",
+      "mean_similarity": 0.9249202609062195,
+      "rank": 247
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\alarm_clock_s_000754.png",
+      "mean_similarity": 0.9248489737510681,
+      "rank": 248
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\clock_s_000819.png",
+      "mean_similarity": 0.9248231649398804,
+      "rank": 249
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\clock_s_001296.png",
+      "mean_similarity": 0.9248200058937073,
+      "rank": 250
+    }
+  ]
+}

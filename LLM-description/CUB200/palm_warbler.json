@@ -1,0 +1,26 @@
+{
+  "class_name": "Bird",
+  "global_description": "A small, slender songbird with a streamlined body and a pointed tail. It features a brownish-olive back, a bright yellow underbelly, and a distinctive chestnut cap on its head. The wings and tail are darker with subtle streaks, and the legs are thin and dark.",
+  "discriminative_attributes": [
+    "Chestnut cap on head",
+    "Bright yellow underbelly",
+    "Brownish-olive back",
+    "Darker streaked wings",
+    "Pointed tail"
+  ],
+  "part_details": {
+    "head": "Small with a chestnut cap and a thin, pointed beak.",
+    "underbelly": "Bright yellow, contrasting with the darker back.",
+    "back": "Brownish-olive with a smooth texture.",
+    "wings": "Darker with subtle streaks, blending with the back.",
+    "tail": "Pointed and slightly darker than the body."
+  },
+  "spatial_relations": [
+    "The chestnut cap covers the top of the head.",
+    "The yellow underbelly extends from the chest to the tail.",
+    "The wings are positioned laterally along the sides of the body.",
+    "The pointed tail extends from the rear of the body."
+  ],
+  "original_dataset_key": "CUB200",
+  "original_class_key": "palm_warbler"
+}

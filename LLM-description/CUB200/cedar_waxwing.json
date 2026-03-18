@@ -1,0 +1,26 @@
+{
+  "class_name": "Cedar Waxwing",
+  "global_description": "A sleek, medium-sized bird with a smooth, streamlined body. It features a soft, silky plumage predominantly in shades of brown and gray, with a distinctive crest on its head. The wings and tail have bright yellow and red accents, and the face is marked with a black mask.",
+  "discriminative_attributes": [
+    "Smooth brown and gray plumage",
+    "Distinctive black face mask",
+    "Bright yellow tail tip",
+    "Red wax-like wing tips",
+    "Crested head"
+  ],
+  "part_details": {
+    "plumage": "Soft, silky feathers in brown and gray, smooth texture.",
+    "head": "Crested with a sleek shape, featuring a black mask across the eyes.",
+    "wings": "Gray with bright red wax-like tips, smooth and streamlined.",
+    "tail": "Gray with a bright yellow tip, slightly squared shape.",
+    "beak": "Short, black, and slightly curved."
+  },
+  "spatial_relations": [
+    "The black mask covers the area around the eyes and extends to the beak.",
+    "The crest rises from the top of the head.",
+    "The red tips are located on the secondary feathers of the wings.",
+    "The yellow tip is at the end of the tail."
+  ],
+  "original_dataset_key": "CUB200",
+  "original_class_key": "cedar_waxwing"
+}

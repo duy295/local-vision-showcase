@@ -1,0 +1,26 @@
+{
+  "class_name": "swan",
+  "global_description": "Large waterbird with an elongated neck, graceful body, predominantly white plumage, orange bill with black base, webbed feet, and long wings. Known for its elegant posture and serene presence on water.",
+  "discriminative_attributes": [
+    "Elongated neck",
+    "White plumage",
+    "Orange bill with black base",
+    "Webbed feet",
+    "Long wings"
+  ],
+  "part_details": {
+    "head": "Small with an orange bill and black base",
+    "neck": "Long and curved, elegant",
+    "body": "Large, covered in white feathers",
+    "wings": "Long and powerful, white",
+    "feet": "Webbed, dark in color"
+  },
+  "spatial_relations": [
+    "Neck extends from body",
+    "Wings attached to sides of body",
+    "Feet beneath body",
+    "Bill at front of head"
+  ],
+  "original_dataset_key": "ImageNetR",
+  "original_class_key": "swan"
+}

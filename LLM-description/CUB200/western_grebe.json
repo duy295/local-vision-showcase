@@ -1,0 +1,26 @@
+{
+  "class_name": "Western Grebe",
+  "global_description": "A slender, elongated waterbird with a long neck and sharp, pointed bill. It features a striking black and white plumage with a distinctive black cap and white face. The body is streamlined with a gray back and white underparts, and it has red eyes.",
+  "discriminative_attributes": [
+    "Long slender neck",
+    "Sharp pointed yellow bill",
+    "Black cap with white face",
+    "Red eyes",
+    "Gray back with white underparts"
+  ],
+  "part_details": {
+    "head": "Black cap with a sharp contrast to the white face, featuring red eyes.",
+    "bill": "Long, slender, and pointed, yellow in color.",
+    "neck": "Long and slender, primarily white with a black stripe running down the back.",
+    "body": "Streamlined with a gray back and white underparts.",
+    "legs": "Set far back on the body, aiding in swimming."
+  },
+  "spatial_relations": [
+    "The black cap covers the top of the head, contrasting with the white face.",
+    "The long neck extends from the body, supporting the head.",
+    "The sharp bill protrudes from the front of the face.",
+    "The gray back transitions into white underparts."
+  ],
+  "original_dataset_key": "CUB200",
+  "original_class_key": "western_grebe"
+}

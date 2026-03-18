@@ -1,0 +1,26 @@
+{
+  "class_name": "penguin",
+  "global_description": "Medium-sized bird with a streamlined, torpedo-shaped body, predominantly black and white plumage, adapted for swimming. The back and head are black, while the belly is white. It has short, flipper-like wings, a short tail, and webbed feet for efficient movement in water.",
+  "discriminative_attributes": [
+    "Torpedo-shaped body",
+    "Black and white plumage",
+    "Short flipper-like wings",
+    "Webbed feet",
+    "Short tail"
+  ],
+  "part_details": {
+    "head": "Black with a white face and a small, pointed beak",
+    "body": "Streamlined, black back and white belly",
+    "wings": "Short, flipper-like, black",
+    "feet": "Webbed, black",
+    "tail": "Short, black"
+  },
+  "spatial_relations": [
+    "Head at top of body",
+    "Wings on sides of body",
+    "Feet at bottom of body",
+    "Tail at rear"
+  ],
+  "original_dataset_key": "ImageNetR",
+  "original_class_key": "penguin"
+}

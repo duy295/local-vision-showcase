@@ -1,0 +1,25 @@
+{
+  "class_name": "butterfly",
+  "global_description": "Insect with delicate, colorful wings, slender body, and antennae. Wings often display vibrant patterns and hues, ranging from blues and reds to yellows and greens. The body is thin and segmented, with six legs and a pair of antennae on the head.",
+  "discriminative_attributes": [
+    "Colorful wings",
+    "Slender body",
+    "Antennae",
+    "Vibrant patterns",
+    "Six legs"
+  ],
+  "part_details": {
+    "wings": "Large, colorful with intricate patterns, often symmetrical",
+    "body": "Slender, segmented, typically dark or muted in color",
+    "antennae": "Pair on head, thin and elongated",
+    "legs": "Three pairs, attached to the thorax"
+  },
+  "spatial_relations": [
+    "Wings attached to thorax",
+    "Antennae on head",
+    "Legs beneath body",
+    "Body between wings"
+  ],
+  "original_dataset_key": "cifar100",
+  "original_class_key": "butterfly"
+}

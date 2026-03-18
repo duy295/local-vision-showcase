@@ -1,0 +1,446 @@
+{
+  "class_name": "White eyed Vireo",
+  "class_idx": 156,
+  "class_folder": "156.White_eyed_Vireo",
+  "num_images_in_class": 10,
+  "ec_size_requested": 30,
+  "ec_size_actual": 40,
+  "num_fewshot": 10,
+  "num_synthesized": 30,
+  "fewshot_emphasis_weight": 3.0,
+  "hybrid_lambda": 0.6,
+  "related_base_classes": [
+    {
+      "class_key": "yellow_bellied_flycatcher",
+      "relevance_score": 2.4654
+    },
+    {
+      "class_key": "yellow_breasted_chat",
+      "relevance_score": 2.3762
+    },
+    {
+      "class_key": "great_crested_flycatcher",
+      "relevance_score": 2.331
+    },
+    {
+      "class_key": "yellow_billed_cuckoo",
+      "relevance_score": 2.2942
+    },
+    {
+      "class_key": "acadian_flycatcher",
+      "relevance_score": 2.2865
+    },
+    {
+      "class_key": "olive_sided_flycatcher",
+      "relevance_score": 2.2211
+    },
+    {
+      "class_key": "western_meadowlark",
+      "relevance_score": 1.9602
+    },
+    {
+      "class_key": "green_kingfisher",
+      "relevance_score": 1.6297
+    }
+  ],
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\Incremental class - Copy\\156.White_eyed_Vireo\\White_Eyed_Vireo_0094_158894.jpg",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 1,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\Incremental class - Copy\\156.White_eyed_Vireo\\White_Eyed_Vireo_0015_159081.jpg",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 2,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\Incremental class - Copy\\156.White_eyed_Vireo\\White_Eyed_Vireo_0002_159180.jpg",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 3,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\Incremental class - Copy\\156.White_eyed_Vireo\\White_Eyed_Vireo_0118_159036.jpg",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 4,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\Incremental class - Copy\\156.White_eyed_Vireo\\White_Eyed_Vireo_0032_159145.jpg",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 5,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\Incremental class - Copy\\156.White_eyed_Vireo\\White_Eyed_Vireo_0030_159265.jpg",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 6,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\Incremental class - Copy\\156.White_eyed_Vireo\\White_Eyed_Vireo_0122_159284.jpg",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 7,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\Incremental class - Copy\\156.White_eyed_Vireo\\White_Eyed_Vireo_0016_158978.jpg",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 8,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\Incremental class - Copy\\156.White_eyed_Vireo\\White_Eyed_Vireo_0129_158823.jpg",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 9,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\Incremental class - Copy\\156.White_eyed_Vireo\\White_Eyed_Vireo_0080_159087.jpg",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 10,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\038.Great_Crested_Flycatcher\\Great_Crested_Flycatcher_0067_29384.jpg",
+      "mean_similarity": 0.9792147,
+      "rank": 11,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\043.Yellow_bellied_Flycatcher\\Yellow_Bellied_Flycatcher_0034_795511.jpg",
+      "mean_similarity": 0.9792146000000002,
+      "rank": 12,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\043.Yellow_bellied_Flycatcher\\Yellow_Bellied_Flycatcher_0031_42580.jpg",
+      "mean_similarity": 0.9792145,
+      "rank": 13,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\043.Yellow_bellied_Flycatcher\\Yellow_Bellied_Flycatcher_0018_795494.jpg",
+      "mean_similarity": 0.9792145,
+      "rank": 14,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\038.Great_Crested_Flycatcher\\Great_Crested_Flycatcher_0063_29507.jpg",
+      "mean_similarity": 0.9792145,
+      "rank": 15,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\037.Acadian_Flycatcher\\Acadian_Flycatcher_0066_29190.jpg",
+      "mean_similarity": 0.9792145,
+      "rank": 16,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\043.Yellow_bellied_Flycatcher\\Yellow_Bellied_Flycatcher_0049_42593.jpg",
+      "mean_similarity": 0.9792144,
+      "rank": 17,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\043.Yellow_bellied_Flycatcher\\Yellow_Bellied_Flycatcher_0009_795510.jpg",
+      "mean_similarity": 0.9792144,
+      "rank": 18,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\043.Yellow_bellied_Flycatcher\\Yellow_Bellied_Flycatcher_0048_795505.jpg",
+      "mean_similarity": 0.9792143,
+      "rank": 19,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\038.Great_Crested_Flycatcher\\Great_Crested_Flycatcher_0087_29252.jpg",
+      "mean_similarity": 0.9792143,
+      "rank": 20,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\043.Yellow_bellied_Flycatcher\\Yellow_Bellied_Flycatcher_0054_42709.jpg",
+      "mean_similarity": 0.9792142,
+      "rank": 21,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\020.Yellow_breasted_Chat\\Yellow_Breasted_Chat_0052_21866.jpg",
+      "mean_similarity": 0.9792142,
+      "rank": 22,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\038.Great_Crested_Flycatcher\\Great_Crested_Flycatcher_0049_29474.jpg",
+      "mean_similarity": 0.9792142,
+      "rank": 23,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\043.Yellow_bellied_Flycatcher\\Yellow_Bellied_Flycatcher_0044_795480.jpg",
+      "mean_similarity": 0.9792142,
+      "rank": 24,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\043.Yellow_bellied_Flycatcher\\Yellow_Bellied_Flycatcher_0016_795476.jpg",
+      "mean_similarity": 0.9792141000000001,
+      "rank": 25,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\037.Acadian_Flycatcher\\Acadian_Flycatcher_0010_29199.jpg",
+      "mean_similarity": 0.9792141000000001,
+      "rank": 26,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\043.Yellow_bellied_Flycatcher\\Yellow_Bellied_Flycatcher_0063_42704.jpg",
+      "mean_similarity": 0.979214,
+      "rank": 27,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\038.Great_Crested_Flycatcher\\Great_Crested_Flycatcher_0070_29455.jpg",
+      "mean_similarity": 0.9792139000000001,
+      "rank": 28,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\037.Acadian_Flycatcher\\Acadian_Flycatcher_0040_795629.jpg",
+      "mean_similarity": 0.9792139000000001,
+      "rank": 29,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\038.Great_Crested_Flycatcher\\Great_Crested_Flycatcher_0105_29456.jpg",
+      "mean_similarity": 0.9792139000000001,
+      "rank": 30,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\037.Acadian_Flycatcher\\Acadian_Flycatcher_0065_29070.jpg",
+      "mean_similarity": 0.9792139000000001,
+      "rank": 31,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\037.Acadian_Flycatcher\\Acadian_Flycatcher_0067_29197.jpg",
+      "mean_similarity": 0.9792139000000001,
+      "rank": 32,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\020.Yellow_breasted_Chat\\Yellow_Breasted_Chat_0065_22137.jpg",
+      "mean_similarity": 0.9792138,
+      "rank": 33,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\043.Yellow_bellied_Flycatcher\\Yellow_Bellied_Flycatcher_0008_42703.jpg",
+      "mean_similarity": 0.9792138,
+      "rank": 34,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\043.Yellow_bellied_Flycatcher\\Yellow_Bellied_Flycatcher_0051_795470.jpg",
+      "mean_similarity": 0.9792137000000001,
+      "rank": 35,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\088.Western_Meadowlark\\Western_Meadowlark_0021_78841.jpg",
+      "mean_similarity": 0.9792137000000001,
+      "rank": 36,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\020.Yellow_breasted_Chat\\Yellow_Breasted_Chat_0073_21932.jpg",
+      "mean_similarity": 0.9792137000000001,
+      "rank": 37,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\037.Acadian_Flycatcher\\Acadian_Flycatcher_0019_795592.jpg",
+      "mean_similarity": 0.9792137000000001,
+      "rank": 38,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\037.Acadian_Flycatcher\\Acadian_Flycatcher_0047_795593.jpg",
+      "mean_similarity": 0.9792137000000001,
+      "rank": 39,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\033.Yellow_billed_Cuckoo\\Yellow_Billed_Cuckoo_0036_26682.jpg",
+      "mean_similarity": 0.9792137000000001,
+      "rank": 40,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    }
+  ],
+  "debug": {
+    "total_candidates": 131,
+    "after_voting": 131,
+    "after_dedup": 30,
+    "dedup_mode": "backbone",
+    "top_segments": [
+      {
+        "class": "043.Yellow_bellied_Flycatcher",
+        "seg": 3,
+        "hybrid": 1.6494,
+        "magnitude": 9.7921,
+        "borda": 390.0
+      },
+      {
+        "class": "043.Yellow_bellied_Flycatcher",
+        "seg": 0,
+        "hybrid": 1.5532,
+        "magnitude": 9.7921,
+        "borda": 384.0
+      },
+      {
+        "class": "043.Yellow_bellied_Flycatcher",
+        "seg": 2,
+        "hybrid": 1.431,
+        "magnitude": 9.7921,
+        "borda": 371.0
+      },
+      {
+        "class": "043.Yellow_bellied_Flycatcher",
+        "seg": 1,
+        "hybrid": 1.3124,
+        "magnitude": 9.7921,
+        "borda": 359.0
+      },
+      {
+        "class": "038.Great_Crested_Flycatcher",
+        "seg": 0,
+        "hybrid": 1.0679,
+        "magnitude": 9.7921,
+        "borda": 333.0
+      },
+      {
+        "class": "037.Acadian_Flycatcher",
+        "seg": 3,
+        "hybrid": 1.023,
+        "magnitude": 9.7921,
+        "borda": 321.0
+      },
+      {
+        "class": "020.Yellow_breasted_Chat",
+        "seg": 0,
+        "hybrid": 1.0156,
+        "magnitude": 9.7921,
+        "borda": 319.0
+      },
+      {
+        "class": "038.Great_Crested_Flycatcher",
+        "seg": 4,
+        "hybrid": 0.9931,
+        "magnitude": 9.7921,
+        "borda": 313.0
+      },
+      {
+        "class": "043.Yellow_bellied_Flycatcher",
+        "seg": 4,
+        "hybrid": 0.9307,
+        "magnitude": 9.7921,
+        "borda": 316.0
+      },
+      {
+        "class": "088.Western_Meadowlark",
+        "seg": 3,
+        "hybrid": 0.8522,
+        "magnitude": 9.7921,
+        "borda": 295.0
+      }
+    ]
+  }
+}

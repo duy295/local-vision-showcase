@@ -1,0 +1,26 @@
+{
+  "class_name": "Common Tern",
+  "global_description": "A slender, medium-sized seabird with a streamlined body and pointed wings. It has a predominantly white body with a light gray back and wings, a black cap on its head, and a sharp, red-orange bill. The tail is deeply forked and white, adding to its elegant appearance.",
+  "discriminative_attributes": [
+    "Streamlined body shape",
+    "Black cap on head",
+    "Sharp red-orange bill",
+    "Light gray wings",
+    "Deeply forked white tail"
+  ],
+  "part_details": {
+    "head": "Black cap covering the top, contrasting with white cheeks and throat.",
+    "bill": "Long, slender, and pointed, colored red-orange.",
+    "wings": "Long and narrow, light gray with white undersides.",
+    "tail": "Deeply forked, white, creating a distinctive split appearance.",
+    "body": "Predominantly white with a light gray back, sleek and aerodynamic."
+  },
+  "spatial_relations": [
+    "The black cap covers the top of the head, extending to the nape.",
+    "The red-orange bill protrudes from the front of the face.",
+    "The light gray wings extend laterally from the body.",
+    "The deeply forked tail extends from the rear of the body."
+  ],
+  "original_dataset_key": "CUB200",
+  "original_class_key": "common_tern"
+}

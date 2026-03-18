@@ -1,0 +1,25 @@
+{
+  "class_name": "California Gull",
+  "global_description": "A medium-sized seabird with a streamlined body and predominantly white plumage. It features a gray back and wings, a yellow bill with a black ring near the tip, and pinkish legs. The head is rounded with a short neck, and the wings are long and pointed.",
+  "discriminative_attributes": [
+    "Yellow bill with black ring",
+    "Gray back and wings",
+    "White head and underparts",
+    "Pinkish legs",
+    "Long pointed wings"
+  ],
+  "part_details": {
+    "bill": "Yellow with a distinct black ring near the tip, slightly hooked.",
+    "wings": "Long, narrow, and pointed, gray with white tips.",
+    "legs": "Short, pinkish, and webbed for swimming.",
+    "head": "Rounded, white with a short neck.",
+    "body": "Streamlined, predominantly white with a gray back."
+  },
+  "spatial_relations": [
+    "The gray wings extend from the sides of the white body.",
+    "The yellow bill protrudes from the front of the white head.",
+    "The pinkish legs are positioned under the body."
+  ],
+  "original_dataset_key": "CUB200",
+  "original_class_key": "california_gull"
+}

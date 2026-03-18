@@ -1,0 +1,25 @@
+{
+  "class_name": "skyscraper",
+  "global_description": "Tall, slender building with a rectangular shape, predominantly glass and steel facade, reflective surfaces, often blue or silver, numerous windows, and a flat roof.",
+  "discriminative_attributes": [
+    "Tall and slender",
+    "Rectangular shape",
+    "Glass and steel facade",
+    "Reflective surfaces",
+    "Numerous windows"
+  ],
+  "part_details": {
+    "facade": "Glass and steel, reflective, often blue or silver",
+    "windows": "Numerous, evenly spaced",
+    "roof": "Flat, sometimes with antennas or helipads",
+    "structure": "Rectangular, vertical lines",
+    "base": "Wide, supporting the tall structure"
+  },
+  "spatial_relations": [
+    "Windows cover the facade",
+    "Roof at the top of the structure",
+    "Base supports the entire building"
+  ],
+  "original_dataset_key": "cifar100",
+  "original_class_key": "skyscraper"
+}

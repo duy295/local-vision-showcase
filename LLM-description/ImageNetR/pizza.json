@@ -1,0 +1,24 @@
+{
+  "class_name": "pizza",
+  "global_description": "Round flatbread topped with tomato sauce, melted cheese, and various toppings like pepperoni, vegetables, or mushrooms. The crust is typically golden brown and crispy, with a slightly chewy texture. The cheese is often bubbly and slightly browned.",
+  "discriminative_attributes": [
+    "Round flat shape",
+    "Golden brown crust",
+    "Melted cheese topping",
+    "Tomato sauce base",
+    "Variety of toppings"
+  ],
+  "part_details": {
+    "crust": "Golden brown, crispy, slightly chewy",
+    "sauce": "Red tomato base, spread evenly",
+    "cheese": "Melted, bubbly, slightly browned",
+    "toppings": "Varied, including pepperoni, vegetables, mushrooms"
+  },
+  "spatial_relations": [
+    "Cheese covers sauce",
+    "Toppings scattered on cheese",
+    "Crust forms outer edge"
+  ],
+  "original_dataset_key": "ImageNetR",
+  "original_class_key": "pizza"
+}

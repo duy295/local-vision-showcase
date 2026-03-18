@@ -1,0 +1,159 @@
+{
+  "class_name": "061.Heermann_Gull",
+  "class_idx": 60,
+  "num_images_in_class": 30,
+  "ec_size_requested": 30,
+  "ec_size_actual": 30,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\061.Heermann_Gull\\Heermann_Gull_0098_45753.jpg",
+      "mean_similarity": 0.947356641292572,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\061.Heermann_Gull\\Heermann_Gull_0008_45839.jpg",
+      "mean_similarity": 0.9471349120140076,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\061.Heermann_Gull\\Heermann_Gull_0020_45409.jpg",
+      "mean_similarity": 0.9468283653259277,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\061.Heermann_Gull\\Heermann_Gull_0112_45748.jpg",
+      "mean_similarity": 0.9465797543525696,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\061.Heermann_Gull\\Heermann_Gull_0053_45854.jpg",
+      "mean_similarity": 0.9465029239654541,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\061.Heermann_Gull\\Heermann_Gull_0089_45679.jpg",
+      "mean_similarity": 0.9461743831634521,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\061.Heermann_Gull\\Heermann_Gull_0128_45663.jpg",
+      "mean_similarity": 0.9461702704429626,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\061.Heermann_Gull\\Heermann_Gull_0009_45905.jpg",
+      "mean_similarity": 0.9458433985710144,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\061.Heermann_Gull\\Heermann_Gull_0141_45391.jpg",
+      "mean_similarity": 0.9457339644432068,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\061.Heermann_Gull\\Heermann_Gull_0035_45754.jpg",
+      "mean_similarity": 0.9456149935722351,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\061.Heermann_Gull\\Heermann_Gull_0139_45749.jpg",
+      "mean_similarity": 0.9454950094223022,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\061.Heermann_Gull\\Heermann_Gull_0032_45774.jpg",
+      "mean_similarity": 0.9452868700027466,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\061.Heermann_Gull\\Heermann_Gull_0086_45304.jpg",
+      "mean_similarity": 0.9446524381637573,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\061.Heermann_Gull\\Heermann_Gull_0076_45597.jpg",
+      "mean_similarity": 0.9442334771156311,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\061.Heermann_Gull\\Heermann_Gull_0043_45939.jpg",
+      "mean_similarity": 0.9442042708396912,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\061.Heermann_Gull\\Heermann_Gull_0142_45798.jpg",
+      "mean_similarity": 0.9439125061035156,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\061.Heermann_Gull\\Heermann_Gull_0131_45548.jpg",
+      "mean_similarity": 0.9436378479003906,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\061.Heermann_Gull\\Heermann_Gull_0130_45700.jpg",
+      "mean_similarity": 0.9431571960449219,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\061.Heermann_Gull\\Heermann_Gull_0102_45904.jpg",
+      "mean_similarity": 0.9430949687957764,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\061.Heermann_Gull\\Heermann_Gull_0024_45486.jpg",
+      "mean_similarity": 0.9426678419113159,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\061.Heermann_Gull\\Heermann_Gull_0044_45705.jpg",
+      "mean_similarity": 0.9413393139839172,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\061.Heermann_Gull\\Heermann_Gull_0122_45627.jpg",
+      "mean_similarity": 0.9411969780921936,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\061.Heermann_Gull\\Heermann_Gull_0100_45440.jpg",
+      "mean_similarity": 0.9404470920562744,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\061.Heermann_Gull\\Heermann_Gull_0073_45714.jpg",
+      "mean_similarity": 0.9401730298995972,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\061.Heermann_Gull\\Heermann_Gull_0115_45797.jpg",
+      "mean_similarity": 0.9397457838058472,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\061.Heermann_Gull\\Heermann_Gull_0056_45751.jpg",
+      "mean_similarity": 0.9373669624328613,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\061.Heermann_Gull\\Heermann_Gull_0079_45468.jpg",
+      "mean_similarity": 0.9372599124908447,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\061.Heermann_Gull\\Heermann_Gull_0077_45711.jpg",
+      "mean_similarity": 0.9362474679946899,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\061.Heermann_Gull\\Heermann_Gull_0135_45283.jpg",
+      "mean_similarity": 0.9357632994651794,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\061.Heermann_Gull\\Heermann_Gull_0015_41392.jpg",
+      "mean_similarity": 0.9314484596252441,
+      "rank": 30
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "class_name": "flatfish",
+  "global_description": "A marine fish with a flat, asymmetrical body, both eyes on one side, typically brown or gray with mottled patterns for camouflage. The body is oval and thin, with a smooth texture and a small mouth.",
+  "discriminative_attributes": [
+    "Flat asymmetrical body",
+    "Both eyes on one side",
+    "Mottled brown or gray",
+    "Oval thin shape",
+    "Small mouth"
+  ],
+  "part_details": {
+    "body": "Flat, oval, thin, mottled brown or gray",
+    "eyes": "Both on one side of the body",
+    "mouth": "Small, located on the underside",
+    "fins": "Small, located along the edges of the body",
+    "skin": "Smooth texture, camouflaged pattern"
+  },
+  "spatial_relations": [
+    "Eyes positioned on one side of the body",
+    "Mouth located on the underside",
+    "Fins along the edges of the body"
+  ],
+  "original_dataset_key": "cifar100",
+  "original_class_key": "flatfish"
+}

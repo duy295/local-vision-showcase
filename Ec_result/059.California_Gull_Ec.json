@@ -1,0 +1,159 @@
+{
+  "class_name": "059.California_Gull",
+  "class_idx": 58,
+  "num_images_in_class": 30,
+  "ec_size_requested": 30,
+  "ec_size_actual": 30,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\059.California_Gull\\California_Gull_0092_41300.jpg",
+      "mean_similarity": 0.9467005133628845,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\059.California_Gull\\California_Gull_0100_41088.jpg",
+      "mean_similarity": 0.9462542533874512,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\059.California_Gull\\California_Gull_0066_41188.jpg",
+      "mean_similarity": 0.9458983540534973,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\059.California_Gull\\California_Gull_0053_41011.jpg",
+      "mean_similarity": 0.9457663297653198,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\059.California_Gull\\California_Gull_0093_41111.jpg",
+      "mean_similarity": 0.9457018375396729,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\059.California_Gull\\California_Gull_0046_41209.jpg",
+      "mean_similarity": 0.9456026554107666,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\059.California_Gull\\California_Gull_0064_41562.jpg",
+      "mean_similarity": 0.9455330967903137,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\059.California_Gull\\California_Gull_0019_41377.jpg",
+      "mean_similarity": 0.945279598236084,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\059.California_Gull\\California_Gull_0076_40788.jpg",
+      "mean_similarity": 0.9451888203620911,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\059.California_Gull\\California_Gull_0031_41469.jpg",
+      "mean_similarity": 0.9449236392974854,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\059.California_Gull\\California_Gull_0114_41267.jpg",
+      "mean_similarity": 0.9448491334915161,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\059.California_Gull\\California_Gull_0135_41383.jpg",
+      "mean_similarity": 0.9445083737373352,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\059.California_Gull\\California_Gull_0096_40978.jpg",
+      "mean_similarity": 0.9444003701210022,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\059.California_Gull\\California_Gull_0032_41335.jpg",
+      "mean_similarity": 0.9441061019897461,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\059.California_Gull\\California_Gull_0109_41465.jpg",
+      "mean_similarity": 0.9437373280525208,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\059.California_Gull\\California_Gull_0103_41044.jpg",
+      "mean_similarity": 0.9436875581741333,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\059.California_Gull\\California_Gull_0006_41079.jpg",
+      "mean_similarity": 0.9435626268386841,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\059.California_Gull\\California_Gull_0121_41196.jpg",
+      "mean_similarity": 0.9434965252876282,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\059.California_Gull\\California_Gull_0105_41116.jpg",
+      "mean_similarity": 0.9434015154838562,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\059.California_Gull\\California_Gull_0008_40942.jpg",
+      "mean_similarity": 0.9433998465538025,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\059.California_Gull\\California_Gull_0111_41033.jpg",
+      "mean_similarity": 0.9433797001838684,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\059.California_Gull\\California_Gull_0029_41506.jpg",
+      "mean_similarity": 0.943297266960144,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\059.California_Gull\\California_Gull_0052_41047.jpg",
+      "mean_similarity": 0.9421393871307373,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\059.California_Gull\\California_Gull_0025_41479.jpg",
+      "mean_similarity": 0.941858172416687,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\059.California_Gull\\California_Gull_0009_40662.jpg",
+      "mean_similarity": 0.9416769742965698,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\059.California_Gull\\California_Gull_0055_41218.jpg",
+      "mean_similarity": 0.9405080676078796,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\059.California_Gull\\California_Gull_0074_41358.jpg",
+      "mean_similarity": 0.9401059746742249,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\059.California_Gull\\California_Gull_0059_40764.jpg",
+      "mean_similarity": 0.9362443685531616,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\059.California_Gull\\California_Gull_0021_41471.jpg",
+      "mean_similarity": 0.9302531480789185,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\059.California_Gull\\California_Gull_0012_41272.jpg",
+      "mean_similarity": 0.8696797490119934,
+      "rank": 30
+    }
+  ]
+}

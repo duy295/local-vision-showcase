@@ -1,0 +1,25 @@
+{
+  "class_name": "crab",
+  "global_description": "A small marine crustacean with a broad, flat body covered in a hard exoskeleton. It has a pair of prominent claws, eight legs, and a small, rounded carapace. The body is often mottled in shades of brown, red, or green, with a rough, textured surface.",
+  "discriminative_attributes": [
+    "Broad, flat body",
+    "Hard exoskeleton",
+    "Prominent claws",
+    "Eight legs",
+    "Small, rounded carapace"
+  ],
+  "part_details": {
+    "claws": "Large, strong, and often asymmetrical, used for defense and feeding.",
+    "carapace": "Rounded, hard shell covering the body, often textured.",
+    "legs": "Eight jointed legs, slender and adapted for walking sideways.",
+    "exoskeleton": "Hard, protective outer shell, often mottled in color.",
+    "eyes": "Small, stalked, and located on the top of the carapace."
+  },
+  "spatial_relations": [
+    "Claws positioned at the front of the body",
+    "Legs extend from the sides of the body",
+    "Eyes located on top of the carapace"
+  ],
+  "original_dataset_key": "cifar100",
+  "original_class_key": "crab"
+}

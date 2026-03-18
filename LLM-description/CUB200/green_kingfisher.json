@@ -1,0 +1,25 @@
+{
+  "class_name": "Bird",
+  "global_description": "A small, compact bird with a short tail and a large head. It has a striking green plumage on its back and wings, contrasted by a white belly and throat. The bird features a long, pointed black bill and a distinctive white collar around its neck. Its wings are short and rounded, and it has a glossy, iridescent sheen.",
+  "discriminative_attributes": [
+    "Green plumage on back and wings",
+    "White belly and throat",
+    "Long pointed black bill",
+    "Distinctive white neck collar",
+    "Glossy iridescent sheen"
+  ],
+  "part_details": {
+    "head": "Large, rounded with a white throat and a green crown.",
+    "bill": "Long, pointed, and black, ideal for fishing.",
+    "wings": "Short, rounded, and covered in green feathers.",
+    "tail": "Short and squared, green with white tips.",
+    "collar": "White band encircling the neck."
+  },
+  "spatial_relations": [
+    "The bill extends forward from the head.",
+    "The wings are attached to the sides of the body.",
+    "The tail is positioned at the rear of the body."
+  ],
+  "original_dataset_key": "CUB200",
+  "original_class_key": "green_kingfisher"
+}

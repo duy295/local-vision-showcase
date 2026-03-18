@@ -1,0 +1,26 @@
+{
+  "class_name": "Bird",
+  "global_description": "A medium-sized bird with a sleek, all-black body and glossy feathers. It has a stout, slightly curved black bill and dark eyes. The wings are broad and rounded, and the tail is short and squared. The legs and feet are also black, giving it a uniform appearance.",
+  "discriminative_attributes": [
+    "Glossy black plumage",
+    "Stout curved black bill",
+    "Broad rounded wings",
+    "Short squared tail",
+    "Black legs and feet"
+  ],
+  "part_details": {
+    "bill": "Stout, slightly curved, black",
+    "wings": "Broad, rounded, glossy black",
+    "tail": "Short, squared, black",
+    "legs": "Black, sturdy",
+    "eyes": "Dark, small"
+  },
+  "spatial_relations": [
+    "The bill is positioned at the front of the head",
+    "The wings extend from the sides of the body",
+    "The tail is at the rear of the body",
+    "The legs are positioned under the body"
+  ],
+  "original_dataset_key": "CUB200",
+  "original_class_key": "fish_crow"
+}

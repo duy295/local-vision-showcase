@@ -1,0 +1,24 @@
+{
+  "class_name": "submarine",
+  "global_description": "A large, elongated cylindrical vessel with a smooth metallic surface, typically dark gray or black. It features a conning tower on top, a propeller at the rear, and various fins for stability and navigation.",
+  "discriminative_attributes": [
+    "Elongated cylindrical shape",
+    "Conning tower on top",
+    "Rear propeller",
+    "Dark metallic surface",
+    "Stabilizing fins"
+  ],
+  "part_details": {
+    "hull": "Elongated cylindrical, smooth metallic surface",
+    "conning tower": "Small structure on top, streamlined",
+    "propeller": "Located at the rear, large and metallic",
+    "fins": "Various sizes, positioned for stability"
+  },
+  "spatial_relations": [
+    "Conning tower on top of hull",
+    "Propeller at rear of hull",
+    "Fins along sides and bottom"
+  ],
+  "original_dataset_key": "ImageNetR",
+  "original_class_key": "submarine"
+}

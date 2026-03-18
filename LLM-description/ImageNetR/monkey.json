@@ -1,0 +1,26 @@
+{
+  "class_name": "monkey",
+  "global_description": "Medium-sized primate with a flexible, elongated body, covered in fur, typically brown or gray. It has a long, prehensile tail, expressive face with prominent eyes, and dexterous limbs with opposable thumbs.",
+  "discriminative_attributes": [
+    "Flexible elongated body",
+    "Long prehensile tail",
+    "Expressive face",
+    "Prominent eyes",
+    "Dexterous limbs with opposable thumbs"
+  ],
+  "part_details": {
+    "head": "Expressive with prominent eyes and a short snout",
+    "body": "Elongated and flexible, covered in fur",
+    "tail": "Long and prehensile, used for grasping",
+    "limbs": "Dexterous with opposable thumbs",
+    "fur": "Typically brown or gray, covering the body"
+  },
+  "spatial_relations": [
+    "Head at front of body",
+    "Tail extending from rear",
+    "Limbs attached to sides of body",
+    "Eyes positioned on face"
+  ],
+  "original_dataset_key": "ImageNetR",
+  "original_class_key": "monkey"
+}

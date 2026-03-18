@@ -1,0 +1,25 @@
+{
+  "class_name": "Bird",
+  "global_description": "A small, compact songbird with a vibrant red body and contrasting black wings and tail. The bird's plumage is smooth and glossy, with a stout, conical bill suited for seed eating. Its overall shape is streamlined and rounded.",
+  "discriminative_attributes": [
+    "Vibrant red body plumage",
+    "Black wings and tail",
+    "Stout conical bill",
+    "Smooth glossy feathers",
+    "Compact, rounded shape"
+  ],
+  "part_details": {
+    "body": "Bright scarlet red, smooth and glossy feathers covering the main torso.",
+    "wings": "Black, sleek, and slightly pointed, contrasting with the red body.",
+    "tail": "Black, short, and squared, providing balance.",
+    "bill": "Short, thick, and conical, pale in color, ideal for cracking seeds.",
+    "head": "Red, rounded, with a small black eye."
+  },
+  "spatial_relations": [
+    "The black wings are attached to the sides of the red body.",
+    "The black tail extends from the rear of the body.",
+    "The conical bill protrudes from the front of the head."
+  ],
+  "original_dataset_key": "CUB200",
+  "original_class_key": "scarlet_tanager"
+}

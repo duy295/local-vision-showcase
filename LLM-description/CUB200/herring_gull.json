@@ -1,0 +1,24 @@
+{
+  "class_name": "Herring Gull",
+  "global_description": "A medium-sized seabird with a streamlined body and predominantly white plumage. It features a light gray back, black wingtips, and a yellow bill with a red spot. The legs are pink, and the eyes are pale yellow with a red orbital ring.",
+  "discriminative_attributes": [
+    "White plumage",
+    "Light gray back",
+    "Black wingtips",
+    "Yellow bill with red spot",
+    "Pink legs"
+  ],
+  "part_details": {
+    "plumage": "Predominantly white with light gray back and black wingtips",
+    "bill": "Yellow with a distinctive red spot near the tip",
+    "legs": "Pink, slender and webbed",
+    "eyes": "Pale yellow with a red orbital ring"
+  },
+  "spatial_relations": [
+    "The light gray back transitions into black wingtips",
+    "The yellow bill is positioned at the front of the head",
+    "The pink legs are positioned under the body"
+  ],
+  "original_dataset_key": "CUB200",
+  "original_class_key": "herring_gull"
+}

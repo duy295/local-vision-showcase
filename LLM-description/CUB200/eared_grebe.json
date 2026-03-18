@@ -1,0 +1,24 @@
+{
+  "class_name": "Eared Grebe",
+  "global_description": "A small, aquatic bird with a compact, rounded body and striking coloration. It features a black head with distinctive golden ear tufts, a red eye, and a slender, pointed black bill. The body is covered in dark plumage with a glossy sheen, and the neck is short and thick.",
+  "discriminative_attributes": [
+    "Golden ear tufts",
+    "Red eye",
+    "Glossy black plumage",
+    "Slender pointed bill",
+    "Compact rounded body"
+  ],
+  "part_details": {
+    "head": "Black with striking golden ear tufts and a red eye.",
+    "bill": "Slender, pointed, and black.",
+    "body": "Compact, rounded, covered in glossy black plumage.",
+    "neck": "Short, thick, and dark."
+  },
+  "spatial_relations": [
+    "The golden ear tufts are positioned on the sides of the black head.",
+    "The slender bill extends from the front of the head.",
+    "The red eye is set within the black head."
+  ],
+  "original_dataset_key": "CUB200",
+  "original_class_key": "eared_grebe"
+}

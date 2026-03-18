@@ -1,0 +1,26 @@
+{
+  "class_name": "dolphin",
+  "global_description": "Streamlined aquatic mammal with a smooth, gray skin, elongated body, and a dorsal fin. It has a rounded forehead, a beak-like snout, and flippers for swimming. The tail is horizontal and fluked, aiding in propulsion.",
+  "discriminative_attributes": [
+    "Streamlined body",
+    "Gray smooth skin",
+    "Dorsal fin",
+    "Beak-like snout",
+    "Horizontal fluked tail"
+  ],
+  "part_details": {
+    "head": "Rounded forehead with a beak-like snout",
+    "body": "Elongated and streamlined, covered in smooth gray skin",
+    "dorsal fin": "Triangular and located on the back",
+    "flippers": "Paddle-shaped, used for steering",
+    "tail": "Horizontal with flukes, used for propulsion"
+  },
+  "spatial_relations": [
+    "Dorsal fin on top of body",
+    "Flippers on sides of body",
+    "Tail at rear of body",
+    "Snout at front of head"
+  ],
+  "original_dataset_key": "ImageNetR",
+  "original_class_key": "dolphin"
+}

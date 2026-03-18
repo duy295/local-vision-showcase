@@ -1,0 +1,25 @@
+{
+  "class_name": "Bird",
+  "global_description": "A small, slender bird with a streamlined body, predominantly black and white plumage. It features bold black and white stripes running along its back and wings, with a distinctive black cap on its head. The underparts are white, and the bird has a thin, pointed beak.",
+  "discriminative_attributes": [
+    "Black and white striped plumage",
+    "Distinctive black cap on head",
+    "White underparts",
+    "Thin, pointed beak",
+    "Slender, streamlined body"
+  ],
+  "part_details": {
+    "head": "Black cap with white stripes extending to the nape.",
+    "wings": "Black and white striped pattern, elongated and narrow.",
+    "back": "Bold black and white stripes running longitudinally.",
+    "underparts": "Smooth white feathers covering the belly and chest.",
+    "beak": "Thin, pointed, and slightly curved, dark in color."
+  },
+  "spatial_relations": [
+    "The black cap covers the top of the head, extending to the nape.",
+    "The striped wings are positioned laterally along the body.",
+    "The white underparts are located beneath the striped back."
+  ],
+  "original_dataset_key": "CUB200",
+  "original_class_key": "black_and_white_warbler"
+}

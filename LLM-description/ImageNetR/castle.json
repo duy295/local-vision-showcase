@@ -1,0 +1,27 @@
+{
+  "class_name": "castle",
+  "global_description": "Large stone structure with fortified walls, towers, and battlements. Typically gray or brown, with a central keep, arched windows, and a drawbridge. Often surrounded by a moat, featuring crenellated parapets and turrets.",
+  "discriminative_attributes": [
+    "Fortified stone walls",
+    "Towers and battlements",
+    "Central keep",
+    "Arched windows",
+    "Drawbridge"
+  ],
+  "part_details": {
+    "walls": "Thick stone walls, often gray or brown, with crenellations",
+    "towers": "Tall, cylindrical or square, with conical roofs",
+    "battlements": "Crenellated parapets for defense",
+    "keep": "Central, large, and fortified",
+    "windows": "Arched, narrow for defense"
+  },
+  "spatial_relations": [
+    "Towers rise from walls",
+    "Battlements atop walls",
+    "Keep at center",
+    "Windows set into walls",
+    "Drawbridge spans moat"
+  ],
+  "original_dataset_key": "ImageNetR",
+  "original_class_key": "castle"
+}

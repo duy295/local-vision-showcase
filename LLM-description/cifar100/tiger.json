@@ -1,0 +1,25 @@
+{
+  "class_name": "tiger",
+  "global_description": "Large feline with a muscular body, orange fur with black stripes, white underside, powerful limbs, and a long tail. Its head is broad with a strong jaw and sharp teeth. The eyes are piercing and the ears are small and rounded.",
+  "discriminative_attributes": [
+    "Orange fur with black stripes",
+    "White underside",
+    "Muscular body",
+    "Long tail",
+    "Broad head"
+  ],
+  "part_details": {
+    "head": "Broad with strong jaw, sharp teeth, and piercing eyes",
+    "body": "Muscular with orange fur and black stripes",
+    "limbs": "Powerful and sturdy",
+    "tail": "Long and striped",
+    "ears": "Small and rounded"
+  },
+  "spatial_relations": [
+    "Head at front, tail at rear",
+    "Limbs beneath body",
+    "Ears on top of head"
+  ],
+  "original_dataset_key": "cifar100",
+  "original_class_key": "tiger"
+}

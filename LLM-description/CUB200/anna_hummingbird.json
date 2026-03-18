@@ -1,0 +1,25 @@
+{
+  "class_name": "Anna Hummingbird",
+  "global_description": "A small, iridescent bird with a compact, streamlined body. It features a vibrant green back and crown, a shimmering rose-pink throat, and a grayish-white underbelly. The wings are narrow and pointed, aiding in rapid flight.",
+  "discriminative_attributes": [
+    "Iridescent green back",
+    "Shimmering rose-pink throat",
+    "Compact streamlined body",
+    "Narrow pointed wings",
+    "Grayish-white underbelly"
+  ],
+  "part_details": {
+    "throat": "Shimmering rose-pink, iridescent feathers creating a vibrant patch.",
+    "back": "Bright iridescent green, smooth and glossy.",
+    "wings": "Narrow, pointed, dark with a slight iridescent sheen.",
+    "underbelly": "Soft, grayish-white, contrasting with the vibrant upper parts.",
+    "tail": "Short, slightly forked, with dark feathers."
+  },
+  "spatial_relations": [
+    "The rose-pink throat is positioned below the green crown.",
+    "The narrow wings extend from the sides of the compact body.",
+    "The tail is located at the rear, slightly forked."
+  ],
+  "original_dataset_key": "CUB200",
+  "original_class_key": "anna_hummingbird"
+}

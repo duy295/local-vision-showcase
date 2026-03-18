@@ -1,0 +1,26 @@
+{
+  "class_name": "lobster",
+  "global_description": "Marine crustacean with elongated body, hard exoskeleton, typically reddish-brown, large claws, segmented tail, and multiple legs. The body is covered in a rough, textured shell, and the eyes are on stalks.",
+  "discriminative_attributes": [
+    "Elongated body",
+    "Hard exoskeleton",
+    "Large claws",
+    "Segmented tail",
+    "Eyes on stalks"
+  ],
+  "part_details": {
+    "claws": "Large, powerful, and asymmetrical, one larger than the other, with a rough texture.",
+    "body": "Elongated and covered in a hard, reddish-brown exoskeleton with a rough texture.",
+    "tail": "Segmented, fan-shaped, and muscular, used for swimming.",
+    "legs": "Multiple, jointed, and attached to the underside of the body.",
+    "eyes": "Small, black, on stalks protruding from the head."
+  },
+  "spatial_relations": [
+    "Claws at the front of the body",
+    "Tail extends from the rear",
+    "Legs beneath the body",
+    "Eyes on stalks above the head"
+  ],
+  "original_dataset_key": "cifar100",
+  "original_class_key": "lobster"
+}

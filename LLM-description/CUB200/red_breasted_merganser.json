@@ -1,0 +1,26 @@
+{
+  "class_name": "Bird",
+  "global_description": "A medium-sized diving bird with a slender, elongated body and a distinctive red-brown breast. It features a spiky, dark green head with a narrow, serrated orange bill. The back is gray with a white belly, and the wings are patterned with black and white.",
+  "discriminative_attributes": [
+    "Spiky dark green head",
+    "Narrow serrated orange bill",
+    "Red-brown breast",
+    "Gray back with white belly",
+    "Black and white patterned wings"
+  ],
+  "part_details": {
+    "head": "Spiky, dark green with a glossy sheen.",
+    "bill": "Narrow, serrated, orange, slightly curved.",
+    "breast": "Red-brown, contrasting with white belly.",
+    "wings": "Black and white pattern, elongated.",
+    "body": "Slender, elongated, gray back, white belly."
+  },
+  "spatial_relations": [
+    "The spiky head is positioned at the front of the body.",
+    "The narrow bill extends from the front of the head.",
+    "The red-brown breast transitions into a white belly.",
+    "The wings are attached to the sides of the body."
+  ],
+  "original_dataset_key": "CUB200",
+  "original_class_key": "red_breasted_merganser"
+}

@@ -1,0 +1,22 @@
+{
+  "class_name": "baseball",
+  "global_description": "A small, spherical object with a white leather exterior, featuring red stitching in a distinctive pattern. The surface is smooth, and the ball is lightweight, designed for throwing and hitting in the sport of baseball.",
+  "discriminative_attributes": [
+    "Spherical shape",
+    "White leather exterior",
+    "Red stitching",
+    "Smooth surface",
+    "Lightweight"
+  ],
+  "part_details": {
+    "surface": "White leather with smooth texture",
+    "stitching": "Red, forming a distinctive pattern",
+    "core": "Not visible, lightweight"
+  },
+  "spatial_relations": [
+    "Stitching encircles the surface",
+    "Core is inside the leather exterior"
+  ],
+  "original_dataset_key": "ImageNetR",
+  "original_class_key": "baseball"
+}

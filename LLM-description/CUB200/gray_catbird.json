@@ -1,0 +1,22 @@
+{
+  "class_name": "Bird",
+  "global_description": "A medium-sized songbird with a sleek, elongated body and a predominantly gray plumage. It features a slender, slightly curved bill and a long, rounded tail. The bird's feathers are smooth and uniform in texture, with a subtle bluish tint.",
+  "discriminative_attributes": [
+    "Uniform gray plumage",
+    "Slightly curved slender bill",
+    "Long rounded tail",
+    "Smooth feather texture",
+    "Bluish tint on feathers"
+  ],
+  "part_details": {
+    "bill": "Slender, slightly curved, dark gray, smooth texture.",
+    "tail": "Long, rounded, gray with a slight bluish tint.",
+    "feathers": "Smooth, uniform, predominantly gray with a bluish tint."
+  },
+  "spatial_relations": [
+    "The slender bill is positioned at the front of the head.",
+    "The long tail extends from the rear of the body."
+  ],
+  "original_dataset_key": "CUB200",
+  "original_class_key": "gray_catbird"
+}

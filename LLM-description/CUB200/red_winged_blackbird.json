@@ -1,0 +1,24 @@
+{
+  "class_name": "Bird",
+  "global_description": "A medium-sized bird with a sleek, elongated body and glossy black plumage. It features vibrant red and yellow patches on its wings, a pointed black beak, and slender legs. The bird's feathers have a smooth, shiny texture.",
+  "discriminative_attributes": [
+    "Glossy black plumage",
+    "Red and yellow wing patches",
+    "Pointed black beak",
+    "Slender legs",
+    "Smooth shiny feathers"
+  ],
+  "part_details": {
+    "wings": "Glossy black with bright red and yellow patches, elongated and smooth.",
+    "beak": "Pointed, sleek, and black, matching the overall plumage.",
+    "legs": "Slender, black, supporting the bird's body.",
+    "body": "Sleek, elongated, covered in glossy black feathers."
+  },
+  "spatial_relations": [
+    "The red and yellow patches are located on the upper part of the wings.",
+    "The pointed beak extends from the front of the head.",
+    "The slender legs are positioned under the body, supporting it."
+  ],
+  "original_dataset_key": "CUB200",
+  "original_class_key": "red_winged_blackbird"
+}

@@ -1,0 +1,159 @@
+{
+  "class_name": "043.Yellow_bellied_Flycatcher",
+  "class_idx": 42,
+  "num_images_in_class": 30,
+  "ec_size_requested": 30,
+  "ec_size_actual": 30,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\043.Yellow_bellied_Flycatcher\\Yellow_Bellied_Flycatcher_0035_795464.jpg",
+      "mean_similarity": 0.9458068013191223,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\043.Yellow_bellied_Flycatcher\\Yellow_Bellied_Flycatcher_0041_42719.jpg",
+      "mean_similarity": 0.944972574710846,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\043.Yellow_bellied_Flycatcher\\Yellow_Bellied_Flycatcher_0064_795466.jpg",
+      "mean_similarity": 0.9449702501296997,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\043.Yellow_bellied_Flycatcher\\Yellow_Bellied_Flycatcher_0063_42704.jpg",
+      "mean_similarity": 0.944947361946106,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\043.Yellow_bellied_Flycatcher\\Yellow_Bellied_Flycatcher_0008_42703.jpg",
+      "mean_similarity": 0.9432297945022583,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\043.Yellow_bellied_Flycatcher\\Yellow_Bellied_Flycatcher_0048_795505.jpg",
+      "mean_similarity": 0.943180501461029,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\043.Yellow_bellied_Flycatcher\\Yellow_Bellied_Flycatcher_0051_795470.jpg",
+      "mean_similarity": 0.9431729316711426,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\043.Yellow_bellied_Flycatcher\\Yellow_Bellied_Flycatcher_0049_42593.jpg",
+      "mean_similarity": 0.9428191781044006,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\043.Yellow_bellied_Flycatcher\\Yellow_Bellied_Flycatcher_0068_42701.jpg",
+      "mean_similarity": 0.942349910736084,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\043.Yellow_bellied_Flycatcher\\Yellow_Bellied_Flycatcher_0018_795494.jpg",
+      "mean_similarity": 0.9421796798706055,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\043.Yellow_bellied_Flycatcher\\Yellow_Bellied_Flycatcher_0023_795478.jpg",
+      "mean_similarity": 0.9420942068099976,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\043.Yellow_bellied_Flycatcher\\Yellow_Bellied_Flycatcher_0003_795487.jpg",
+      "mean_similarity": 0.9413442611694336,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\043.Yellow_bellied_Flycatcher\\Yellow_Bellied_Flycatcher_0010_795498.jpg",
+      "mean_similarity": 0.9412513375282288,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\043.Yellow_bellied_Flycatcher\\Yellow_Bellied_Flycatcher_0020_795482.jpg",
+      "mean_similarity": 0.9411696195602417,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\043.Yellow_bellied_Flycatcher\\Yellow_Bellied_Flycatcher_0045_42575.jpg",
+      "mean_similarity": 0.9408000111579895,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\043.Yellow_bellied_Flycatcher\\Yellow_Bellied_Flycatcher_0031_42580.jpg",
+      "mean_similarity": 0.939767599105835,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\043.Yellow_bellied_Flycatcher\\Yellow_Bellied_Flycatcher_0009_795510.jpg",
+      "mean_similarity": 0.9390228986740112,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\043.Yellow_bellied_Flycatcher\\Yellow_Bellied_Flycatcher_0044_795480.jpg",
+      "mean_similarity": 0.9386451840400696,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\043.Yellow_bellied_Flycatcher\\Yellow_Bellied_Flycatcher_0054_42709.jpg",
+      "mean_similarity": 0.9374960660934448,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\043.Yellow_bellied_Flycatcher\\Yellow_Bellied_Flycatcher_0037_795500.jpg",
+      "mean_similarity": 0.9373184442520142,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\043.Yellow_bellied_Flycatcher\\Yellow_Bellied_Flycatcher_0038_795477.jpg",
+      "mean_similarity": 0.9360379576683044,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\043.Yellow_bellied_Flycatcher\\Yellow_Bellied_Flycatcher_0004_795513.jpg",
+      "mean_similarity": 0.9345746040344238,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\043.Yellow_bellied_Flycatcher\\Yellow_Bellied_Flycatcher_0052_42621.jpg",
+      "mean_similarity": 0.9317221641540527,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\043.Yellow_bellied_Flycatcher\\Yellow_Bellied_Flycatcher_0016_795476.jpg",
+      "mean_similarity": 0.930936336517334,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\043.Yellow_bellied_Flycatcher\\Yellow_Bellied_Flycatcher_0062_42693.jpg",
+      "mean_similarity": 0.93056720495224,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\043.Yellow_bellied_Flycatcher\\Yellow_Bellied_Flycatcher_0034_795511.jpg",
+      "mean_similarity": 0.9278668165206909,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\043.Yellow_bellied_Flycatcher\\Yellow_Bellied_Flycatcher_0019_795512.jpg",
+      "mean_similarity": 0.927432656288147,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\043.Yellow_bellied_Flycatcher\\Yellow_Bellied_Flycatcher_0057_795485.jpg",
+      "mean_similarity": 0.9247593879699707,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\043.Yellow_bellied_Flycatcher\\Yellow_Bellied_Flycatcher_0006_795473.jpg",
+      "mean_similarity": 0.9211922287940979,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\043.Yellow_bellied_Flycatcher\\Yellow_Bellied_Flycatcher_0047_795468.jpg",
+      "mean_similarity": 0.9207586646080017,
+      "rank": 30
+    }
+  ]
+}

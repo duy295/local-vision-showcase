@@ -1,0 +1,1259 @@
+{
+  "class_name": "pear",
+  "class_idx": 57,
+  "num_images_in_class": 500,
+  "ec_size_requested": 250,
+  "ec_size_actual": 250,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\pear_s_001460.png",
+      "mean_similarity": 0.9400713443756104,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\pear_s_001210.png",
+      "mean_similarity": 0.939739465713501,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\bartlett_pear_s_000229.png",
+      "mean_similarity": 0.9394239783287048,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\bartlett_pear_s_000227.png",
+      "mean_similarity": 0.9392997622489929,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\pear_s_000279.png",
+      "mean_similarity": 0.939298152923584,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\bosc_s_001010.png",
+      "mean_similarity": 0.9392719268798828,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\bartlett_pear_s_000083.png",
+      "mean_similarity": 0.939116358757019,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\pear_s_001715.png",
+      "mean_similarity": 0.9391161799430847,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\bartlett_pear_s_000383.png",
+      "mean_similarity": 0.939010500907898,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\pear_s_000033.png",
+      "mean_similarity": 0.9389339089393616,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\bartlett_pear_s_000356.png",
+      "mean_similarity": 0.9389318227767944,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\bartlett_s_000087.png",
+      "mean_similarity": 0.9388560056686401,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\pear_s_002234.png",
+      "mean_similarity": 0.9385695457458496,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\bartlett_s_000838.png",
+      "mean_similarity": 0.9383991360664368,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\bosc_s_000242.png",
+      "mean_similarity": 0.9379139542579651,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\bosc_s_001617.png",
+      "mean_similarity": 0.937851071357727,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\bosc_s_001106.png",
+      "mean_similarity": 0.9376422762870789,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\pear_s_001241.png",
+      "mean_similarity": 0.9375717639923096,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\bartlett_pear_s_000406.png",
+      "mean_similarity": 0.9375701546669006,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\bartlett_pear_s_000044.png",
+      "mean_similarity": 0.9375139474868774,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\pear_s_001043.png",
+      "mean_similarity": 0.9374837875366211,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\bosc_s_001286.png",
+      "mean_similarity": 0.937473475933075,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\bosc_s_001271.png",
+      "mean_similarity": 0.9373916387557983,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\pear_s_002174.png",
+      "mean_similarity": 0.9373635053634644,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\anjou_s_000920.png",
+      "mean_similarity": 0.9372580051422119,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\bartlett_pear_s_000446.png",
+      "mean_similarity": 0.9372473359107971,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\bosc_s_001560.png",
+      "mean_similarity": 0.9372395873069763,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\bartlett_pear_s_000602.png",
+      "mean_similarity": 0.9372360110282898,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\bosc_s_001884.png",
+      "mean_similarity": 0.9371731877326965,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\pear_s_001151.png",
+      "mean_similarity": 0.9371358752250671,
+      "rank": 30
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\pear_s_000479.png",
+      "mean_similarity": 0.9370625615119934,
+      "rank": 31
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\bartlett_pear_s_000364.png",
+      "mean_similarity": 0.9368938207626343,
+      "rank": 32
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\bartlett_s_001062.png",
+      "mean_similarity": 0.9368932247161865,
+      "rank": 33
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\bartlett_pear_s_000365.png",
+      "mean_similarity": 0.9367716312408447,
+      "rank": 34
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\bosc_s_001183.png",
+      "mean_similarity": 0.936748743057251,
+      "rank": 35
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\pear_s_001050.png",
+      "mean_similarity": 0.9366887211799622,
+      "rank": 36
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\pear_s_000182.png",
+      "mean_similarity": 0.9366734027862549,
+      "rank": 37
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\pear_s_001240.png",
+      "mean_similarity": 0.936583399772644,
+      "rank": 38
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\bartlett_pear_s_000393.png",
+      "mean_similarity": 0.9365607500076294,
+      "rank": 39
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\bartlett_pear_s_000487.png",
+      "mean_similarity": 0.9365547895431519,
+      "rank": 40
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\bosc_s_000024.png",
+      "mean_similarity": 0.9365526437759399,
+      "rank": 41
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\bartlett_pear_s_000027.png",
+      "mean_similarity": 0.9364985823631287,
+      "rank": 42
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\bosc_s_001831.png",
+      "mean_similarity": 0.9364619255065918,
+      "rank": 43
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\pear_s_001002.png",
+      "mean_similarity": 0.936399519443512,
+      "rank": 44
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\bartlett_pear_s_000128.png",
+      "mean_similarity": 0.936373233795166,
+      "rank": 45
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\bosc_s_000307.png",
+      "mean_similarity": 0.9363430142402649,
+      "rank": 46
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\bartlett_pear_s_000370.png",
+      "mean_similarity": 0.9363230466842651,
+      "rank": 47
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\pear_s_001295.png",
+      "mean_similarity": 0.9363067746162415,
+      "rank": 48
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\anjou_s_001753.png",
+      "mean_similarity": 0.9362255930900574,
+      "rank": 49
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\pear_s_001335.png",
+      "mean_similarity": 0.9362168312072754,
+      "rank": 50
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\bartlett_pear_s_000278.png",
+      "mean_similarity": 0.9361746311187744,
+      "rank": 51
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\bosc_s_001796.png",
+      "mean_similarity": 0.936149537563324,
+      "rank": 52
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\bosc_s_001822.png",
+      "mean_similarity": 0.9361135363578796,
+      "rank": 53
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\anjou_s_000377.png",
+      "mean_similarity": 0.9360317587852478,
+      "rank": 54
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\bartlett_pear_s_000087.png",
+      "mean_similarity": 0.9360146522521973,
+      "rank": 55
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\pear_s_001688.png",
+      "mean_similarity": 0.935996413230896,
+      "rank": 56
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\bartlett_pear_s_000046.png",
+      "mean_similarity": 0.9359777569770813,
+      "rank": 57
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\bartlett_pear_s_000243.png",
+      "mean_similarity": 0.9359611868858337,
+      "rank": 58
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\pear_s_000140.png",
+      "mean_similarity": 0.9359313249588013,
+      "rank": 59
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\bartlett_pear_s_000247.png",
+      "mean_similarity": 0.9359235167503357,
+      "rank": 60
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\pear_s_000889.png",
+      "mean_similarity": 0.9359225630760193,
+      "rank": 61
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\bartlett_s_000904.png",
+      "mean_similarity": 0.9359222650527954,
+      "rank": 62
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\bosc_s_001605.png",
+      "mean_similarity": 0.9359082579612732,
+      "rank": 63
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\pear_s_000171.png",
+      "mean_similarity": 0.9358125329017639,
+      "rank": 64
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\bartlett_pear_s_000084.png",
+      "mean_similarity": 0.9357574582099915,
+      "rank": 65
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\pear_s_000796.png",
+      "mean_similarity": 0.9357364773750305,
+      "rank": 66
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\bosc_s_000214.png",
+      "mean_similarity": 0.9357208013534546,
+      "rank": 67
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\anjou_s_001654.png",
+      "mean_similarity": 0.9357190132141113,
+      "rank": 68
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\bartlett_pear_s_000289.png",
+      "mean_similarity": 0.9356474280357361,
+      "rank": 69
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\bartlett_pear_s_000238.png",
+      "mean_similarity": 0.9356365203857422,
+      "rank": 70
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\bosc_s_000228.png",
+      "mean_similarity": 0.9356348514556885,
+      "rank": 71
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\pear_s_001965.png",
+      "mean_similarity": 0.9355762004852295,
+      "rank": 72
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\bartlett_s_000400.png",
+      "mean_similarity": 0.9354120492935181,
+      "rank": 73
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\pear_s_001293.png",
+      "mean_similarity": 0.9351433515548706,
+      "rank": 74
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\bartlett_pear_s_000294.png",
+      "mean_similarity": 0.9351372122764587,
+      "rank": 75
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\bartlett_pear_s_000439.png",
+      "mean_similarity": 0.9351305365562439,
+      "rank": 76
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\anjou_s_000404.png",
+      "mean_similarity": 0.9350464344024658,
+      "rank": 77
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\pear_s_001508.png",
+      "mean_similarity": 0.934968113899231,
+      "rank": 78
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\bosc_s_001516.png",
+      "mean_similarity": 0.9349232316017151,
+      "rank": 79
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\anjou_s_000268.png",
+      "mean_similarity": 0.9349184036254883,
+      "rank": 80
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\bartlett_pear_s_000186.png",
+      "mean_similarity": 0.9348936080932617,
+      "rank": 81
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\pear_s_000473.png",
+      "mean_similarity": 0.934873640537262,
+      "rank": 82
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\pear_s_001156.png",
+      "mean_similarity": 0.9348337650299072,
+      "rank": 83
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\bartlett_pear_s_000598.png",
+      "mean_similarity": 0.9347490072250366,
+      "rank": 84
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\bosc_s_000156.png",
+      "mean_similarity": 0.9347357153892517,
+      "rank": 85
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\anjou_s_001718.png",
+      "mean_similarity": 0.9347207546234131,
+      "rank": 86
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\pear_s_000387.png",
+      "mean_similarity": 0.9346886277198792,
+      "rank": 87
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\pear_s_000027.png",
+      "mean_similarity": 0.9346871376037598,
+      "rank": 88
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\bosc_s_000212.png",
+      "mean_similarity": 0.9346624612808228,
+      "rank": 89
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\pear_s_000234.png",
+      "mean_similarity": 0.9346537590026855,
+      "rank": 90
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\pear_s_001329.png",
+      "mean_similarity": 0.9346500635147095,
+      "rank": 91
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\bosc_s_000890.png",
+      "mean_similarity": 0.9345669746398926,
+      "rank": 92
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\bartlett_pear_s_000470.png",
+      "mean_similarity": 0.9344775080680847,
+      "rank": 93
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\bartlett_pear_s_000632.png",
+      "mean_similarity": 0.9344760775566101,
+      "rank": 94
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\bartlett_pear_s_000208.png",
+      "mean_similarity": 0.9344199299812317,
+      "rank": 95
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\bosc_s_000244.png",
+      "mean_similarity": 0.9344130158424377,
+      "rank": 96
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\bosc_s_000311.png",
+      "mean_similarity": 0.9344000220298767,
+      "rank": 97
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\bosc_s_000407.png",
+      "mean_similarity": 0.9343591928482056,
+      "rank": 98
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\bartlett_pear_s_000363.png",
+      "mean_similarity": 0.9343045353889465,
+      "rank": 99
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\pear_s_000252.png",
+      "mean_similarity": 0.9342598915100098,
+      "rank": 100
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\pear_s_000007.png",
+      "mean_similarity": 0.9342270493507385,
+      "rank": 101
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\anjou_s_000245.png",
+      "mean_similarity": 0.9342134594917297,
+      "rank": 102
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\pear_s_000897.png",
+      "mean_similarity": 0.9341821074485779,
+      "rank": 103
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\pear_s_001337.png",
+      "mean_similarity": 0.9341768026351929,
+      "rank": 104
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\bartlett_pear_s_000191.png",
+      "mean_similarity": 0.9340417981147766,
+      "rank": 105
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\bosc_s_000122.png",
+      "mean_similarity": 0.934011697769165,
+      "rank": 106
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\bartlett_pear_s_000583.png",
+      "mean_similarity": 0.9340109825134277,
+      "rank": 107
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\bartlett_pear_s_000082.png",
+      "mean_similarity": 0.9339613318443298,
+      "rank": 108
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\bosc_s_000204.png",
+      "mean_similarity": 0.9339590072631836,
+      "rank": 109
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\bartlett_pear_s_000570.png",
+      "mean_similarity": 0.9339210987091064,
+      "rank": 110
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\bartlett_pear_s_000085.png",
+      "mean_similarity": 0.9339092969894409,
+      "rank": 111
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\bosc_s_000041.png",
+      "mean_similarity": 0.9338251352310181,
+      "rank": 112
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\bosc_s_001763.png",
+      "mean_similarity": 0.933776319026947,
+      "rank": 113
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\pear_s_001028.png",
+      "mean_similarity": 0.9335612654685974,
+      "rank": 114
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\pear_s_001150.png",
+      "mean_similarity": 0.9335393309593201,
+      "rank": 115
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\bartlett_pear_s_000189.png",
+      "mean_similarity": 0.9335150122642517,
+      "rank": 116
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\bartlett_pear_s_000546.png",
+      "mean_similarity": 0.9335058331489563,
+      "rank": 117
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\anjou_s_001030.png",
+      "mean_similarity": 0.9334784150123596,
+      "rank": 118
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\bartlett_pear_s_000086.png",
+      "mean_similarity": 0.9334644675254822,
+      "rank": 119
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\pear_s_000955.png",
+      "mean_similarity": 0.933448076248169,
+      "rank": 120
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\pear_s_002181.png",
+      "mean_similarity": 0.9334438443183899,
+      "rank": 121
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\bartlett_pear_s_000323.png",
+      "mean_similarity": 0.9334126710891724,
+      "rank": 122
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\bosc_s_000058.png",
+      "mean_similarity": 0.9334055185317993,
+      "rank": 123
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\bosc_s_000150.png",
+      "mean_similarity": 0.9333731532096863,
+      "rank": 124
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\pear_s_001336.png",
+      "mean_similarity": 0.933369517326355,
+      "rank": 125
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\bartlett_pear_s_000495.png",
+      "mean_similarity": 0.9333499073982239,
+      "rank": 126
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\pear_s_002173.png",
+      "mean_similarity": 0.9333329796791077,
+      "rank": 127
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\bartlett_pear_s_000157.png",
+      "mean_similarity": 0.9333219528198242,
+      "rank": 128
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\anjou_s_000498.png",
+      "mean_similarity": 0.9331986904144287,
+      "rank": 129
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\anjou_s_000981.png",
+      "mean_similarity": 0.9331709146499634,
+      "rank": 130
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\bartlett_s_001598.png",
+      "mean_similarity": 0.9331688284873962,
+      "rank": 131
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\bartlett_pear_s_000341.png",
+      "mean_similarity": 0.9331464767456055,
+      "rank": 132
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\bartlett_s_000802.png",
+      "mean_similarity": 0.9331409335136414,
+      "rank": 133
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\bosc_s_001795.png",
+      "mean_similarity": 0.933128833770752,
+      "rank": 134
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\pear_s_001167.png",
+      "mean_similarity": 0.9331210255622864,
+      "rank": 135
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\pear_s_000244.png",
+      "mean_similarity": 0.9330926537513733,
+      "rank": 136
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\pear_s_000754.png",
+      "mean_similarity": 0.9330374002456665,
+      "rank": 137
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\pear_s_001149.png",
+      "mean_similarity": 0.933030366897583,
+      "rank": 138
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\bartlett_pear_s_000526.png",
+      "mean_similarity": 0.9329841732978821,
+      "rank": 139
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\pear_s_001647.png",
+      "mean_similarity": 0.9329662919044495,
+      "rank": 140
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\pear_s_001047.png",
+      "mean_similarity": 0.932948648929596,
+      "rank": 141
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\bartlett_pear_s_000049.png",
+      "mean_similarity": 0.9328382015228271,
+      "rank": 142
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\pear_s_002189.png",
+      "mean_similarity": 0.9328274726867676,
+      "rank": 143
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\pear_s_001534.png",
+      "mean_similarity": 0.9328169226646423,
+      "rank": 144
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\bosc_s_001174.png",
+      "mean_similarity": 0.9327629208564758,
+      "rank": 145
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\pear_s_002101.png",
+      "mean_similarity": 0.9326112866401672,
+      "rank": 146
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\bartlett_s_000005.png",
+      "mean_similarity": 0.9325725436210632,
+      "rank": 147
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\pear_s_001547.png",
+      "mean_similarity": 0.9325693845748901,
+      "rank": 148
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\bartlett_pear_s_000274.png",
+      "mean_similarity": 0.932560920715332,
+      "rank": 149
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\pear_s_002010.png",
+      "mean_similarity": 0.9325422048568726,
+      "rank": 150
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\bosc_s_000223.png",
+      "mean_similarity": 0.9325352311134338,
+      "rank": 151
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\pear_s_001641.png",
+      "mean_similarity": 0.9324849843978882,
+      "rank": 152
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\bosc_s_000182.png",
+      "mean_similarity": 0.932438850402832,
+      "rank": 153
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\pear_s_000159.png",
+      "mean_similarity": 0.9324290752410889,
+      "rank": 154
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\bartlett_pear_s_000573.png",
+      "mean_similarity": 0.932384192943573,
+      "rank": 155
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\bartlett_s_001352.png",
+      "mean_similarity": 0.9323803782463074,
+      "rank": 156
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\anjou_s_001065.png",
+      "mean_similarity": 0.9323490262031555,
+      "rank": 157
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\anjou_s_001521.png",
+      "mean_similarity": 0.9323354959487915,
+      "rank": 158
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\bartlett_pear_s_000390.png",
+      "mean_similarity": 0.9323137402534485,
+      "rank": 159
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\anjou_s_001815.png",
+      "mean_similarity": 0.932294487953186,
+      "rank": 160
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\bartlett_pear_s_000032.png",
+      "mean_similarity": 0.9322181344032288,
+      "rank": 161
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\pear_s_000354.png",
+      "mean_similarity": 0.9321944713592529,
+      "rank": 162
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\pear_s_001397.png",
+      "mean_similarity": 0.9321587681770325,
+      "rank": 163
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\bosc_s_001563.png",
+      "mean_similarity": 0.9321476221084595,
+      "rank": 164
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\anjou_s_000264.png",
+      "mean_similarity": 0.9321165680885315,
+      "rank": 165
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\bosc_s_001055.png",
+      "mean_similarity": 0.9320641160011292,
+      "rank": 166
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\bosc_s_000633.png",
+      "mean_similarity": 0.9319857954978943,
+      "rank": 167
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\pear_s_001469.png",
+      "mean_similarity": 0.9319561123847961,
+      "rank": 168
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\pear_s_001984.png",
+      "mean_similarity": 0.9319018721580505,
+      "rank": 169
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\bosc_s_000294.png",
+      "mean_similarity": 0.9318861961364746,
+      "rank": 170
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\bosc_s_000585.png",
+      "mean_similarity": 0.9318824410438538,
+      "rank": 171
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\bartlett_s_001449.png",
+      "mean_similarity": 0.9318535923957825,
+      "rank": 172
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\bosc_s_000332.png",
+      "mean_similarity": 0.9318405985832214,
+      "rank": 173
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\bartlett_pear_s_000431.png",
+      "mean_similarity": 0.9317413568496704,
+      "rank": 174
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\bartlett_pear_s_000125.png",
+      "mean_similarity": 0.9317372441291809,
+      "rank": 175
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\anjou_s_000659.png",
+      "mean_similarity": 0.9316874742507935,
+      "rank": 176
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\bartlett_pear_s_000001.png",
+      "mean_similarity": 0.9315428733825684,
+      "rank": 177
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\bartlett_s_000082.png",
+      "mean_similarity": 0.9315103888511658,
+      "rank": 178
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\bartlett_pear_s_000404.png",
+      "mean_similarity": 0.9314725995063782,
+      "rank": 179
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\bartlett_s_000801.png",
+      "mean_similarity": 0.9314614534378052,
+      "rank": 180
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\bartlett_s_000142.png",
+      "mean_similarity": 0.9314377307891846,
+      "rank": 181
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\pear_s_000726.png",
+      "mean_similarity": 0.9314237833023071,
+      "rank": 182
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\bosc_s_001721.png",
+      "mean_similarity": 0.9313357472419739,
+      "rank": 183
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\bosc_s_001912.png",
+      "mean_similarity": 0.9313266277313232,
+      "rank": 184
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\pear_s_002215.png",
+      "mean_similarity": 0.9312987923622131,
+      "rank": 185
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\pear_s_002190.png",
+      "mean_similarity": 0.9312742352485657,
+      "rank": 186
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\bartlett_pear_s_000004.png",
+      "mean_similarity": 0.9312554597854614,
+      "rank": 187
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\bosc_s_001476.png",
+      "mean_similarity": 0.9312003254890442,
+      "rank": 188
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\anjou_s_000025.png",
+      "mean_similarity": 0.931190550327301,
+      "rank": 189
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\bosc_s_000236.png",
+      "mean_similarity": 0.9311570525169373,
+      "rank": 190
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\bosc_s_000875.png",
+      "mean_similarity": 0.9311238527297974,
+      "rank": 191
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\anjou_s_001591.png",
+      "mean_similarity": 0.9310968518257141,
+      "rank": 192
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\pear_s_000004.png",
+      "mean_similarity": 0.9310420751571655,
+      "rank": 193
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\pear_s_000716.png",
+      "mean_similarity": 0.9310026168823242,
+      "rank": 194
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\bartlett_pear_s_000374.png",
+      "mean_similarity": 0.9309066534042358,
+      "rank": 195
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\bartlett_pear_s_000291.png",
+      "mean_similarity": 0.9309013485908508,
+      "rank": 196
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\pear_s_000391.png",
+      "mean_similarity": 0.9308942556381226,
+      "rank": 197
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\anjou_s_000027.png",
+      "mean_similarity": 0.9308919310569763,
+      "rank": 198
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\bartlett_pear_s_000272.png",
+      "mean_similarity": 0.9308909773826599,
+      "rank": 199
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\bartlett_pear_s_000053.png",
+      "mean_similarity": 0.9308715462684631,
+      "rank": 200
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\pear_s_000717.png",
+      "mean_similarity": 0.9308494329452515,
+      "rank": 201
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\anjou_s_001304.png",
+      "mean_similarity": 0.930828869342804,
+      "rank": 202
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\bosc_s_000610.png",
+      "mean_similarity": 0.9307822585105896,
+      "rank": 203
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\bartlett_pear_s_000349.png",
+      "mean_similarity": 0.9306713938713074,
+      "rank": 204
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\pear_s_001415.png",
+      "mean_similarity": 0.9306434988975525,
+      "rank": 205
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\bosc_s_001157.png",
+      "mean_similarity": 0.9306116700172424,
+      "rank": 206
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\bosc_s_001028.png",
+      "mean_similarity": 0.9304598569869995,
+      "rank": 207
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\bosc_s_001481.png",
+      "mean_similarity": 0.9304122924804688,
+      "rank": 208
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\bosc_s_000966.png",
+      "mean_similarity": 0.930408775806427,
+      "rank": 209
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\anjou_s_000946.png",
+      "mean_similarity": 0.9303805232048035,
+      "rank": 210
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\bartlett_pear_s_000216.png",
+      "mean_similarity": 0.9302905201911926,
+      "rank": 211
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\pear_s_001426.png",
+      "mean_similarity": 0.9302646517753601,
+      "rank": 212
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\bartlett_pear_s_000539.png",
+      "mean_similarity": 0.9302407503128052,
+      "rank": 213
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\bosc_s_000883.png",
+      "mean_similarity": 0.9302276372909546,
+      "rank": 214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\bartlett_pear_s_000151.png",
+      "mean_similarity": 0.9302175045013428,
+      "rank": 215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\bartlett_pear_s_000355.png",
+      "mean_similarity": 0.9301958084106445,
+      "rank": 216
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\bartlett_pear_s_000340.png",
+      "mean_similarity": 0.9301793575286865,
+      "rank": 217
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\bosc_s_001242.png",
+      "mean_similarity": 0.9301003813743591,
+      "rank": 218
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\bosc_s_000811.png",
+      "mean_similarity": 0.930061936378479,
+      "rank": 219
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\bartlett_pear_s_000248.png",
+      "mean_similarity": 0.9300604462623596,
+      "rank": 220
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\bosc_s_000971.png",
+      "mean_similarity": 0.9300450682640076,
+      "rank": 221
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\pear_s_002227.png",
+      "mean_similarity": 0.9299551248550415,
+      "rank": 222
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\bartlett_s_000580.png",
+      "mean_similarity": 0.9299195408821106,
+      "rank": 223
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\bosc_s_000169.png",
+      "mean_similarity": 0.9298576712608337,
+      "rank": 224
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\anjou_s_000254.png",
+      "mean_similarity": 0.9298292994499207,
+      "rank": 225
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\anjou_s_001820.png",
+      "mean_similarity": 0.929771900177002,
+      "rank": 226
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\bartlett_pear_s_000281.png",
+      "mean_similarity": 0.9297558665275574,
+      "rank": 227
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\bartlett_s_000585.png",
+      "mean_similarity": 0.929718554019928,
+      "rank": 228
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\pear_s_000024.png",
+      "mean_similarity": 0.9296623468399048,
+      "rank": 229
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\bartlett_pear_s_000140.png",
+      "mean_similarity": 0.9296547174453735,
+      "rank": 230
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\pear_s_000290.png",
+      "mean_similarity": 0.929598331451416,
+      "rank": 231
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\bosc_s_000745.png",
+      "mean_similarity": 0.9295793771743774,
+      "rank": 232
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\bartlett_s_001275.png",
+      "mean_similarity": 0.9295228719711304,
+      "rank": 233
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\bartlett_pear_s_000351.png",
+      "mean_similarity": 0.9295206069946289,
+      "rank": 234
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\bartlett_pear_s_000005.png",
+      "mean_similarity": 0.9295150637626648,
+      "rank": 235
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\anjou_s_001534.png",
+      "mean_similarity": 0.9294891357421875,
+      "rank": 236
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\bosc_s_001400.png",
+      "mean_similarity": 0.9293911457061768,
+      "rank": 237
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\pear_s_000853.png",
+      "mean_similarity": 0.9293200373649597,
+      "rank": 238
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\pear_s_001904.png",
+      "mean_similarity": 0.9292968511581421,
+      "rank": 239
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\pear_s_001913.png",
+      "mean_similarity": 0.9292794466018677,
+      "rank": 240
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\anjou_s_000299.png",
+      "mean_similarity": 0.9292429089546204,
+      "rank": 241
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\bosc_s_001104.png",
+      "mean_similarity": 0.9292280673980713,
+      "rank": 242
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\bosc_s_000436.png",
+      "mean_similarity": 0.9292185306549072,
+      "rank": 243
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\bosc_s_000958.png",
+      "mean_similarity": 0.9291992783546448,
+      "rank": 244
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\bosc_s_000685.png",
+      "mean_similarity": 0.9291901588439941,
+      "rank": 245
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\bartlett_pear_s_000444.png",
+      "mean_similarity": 0.929119348526001,
+      "rank": 246
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\bartlett_pear_s_000485.png",
+      "mean_similarity": 0.9290896654129028,
+      "rank": 247
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\bosc_s_001588.png",
+      "mean_similarity": 0.9290151596069336,
+      "rank": 248
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\bartlett_pear_s_000584.png",
+      "mean_similarity": 0.928987979888916,
+      "rank": 249
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\058.pear\\bartlett_pear_s_000107.png",
+      "mean_similarity": 0.9289689064025879,
+      "rank": 250
+    }
+  ]
+}

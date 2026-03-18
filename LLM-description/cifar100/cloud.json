@@ -1,0 +1,23 @@
+{
+  "class_name": "cloud",
+  "global_description": "Amorphous, fluffy mass in the sky, typically white or gray, with a soft, cotton-like texture. Clouds vary in size and shape, often appearing as large, billowy formations or thin, wispy streaks. They are composed of tiny water droplets or ice crystals, giving them a light, airy appearance.",
+  "discriminative_attributes": [
+    "Amorphous shape",
+    "Fluffy texture",
+    "White or gray color",
+    "Cotton-like appearance",
+    "Varied size and shape"
+  ],
+  "part_details": {
+    "upper": "Soft, billowy top with a rounded, fluffy appearance",
+    "base": "Flat or slightly rounded bottom, often darker in color",
+    "edges": "Diffuse, irregular edges blending into the sky"
+  },
+  "spatial_relations": [
+    "Upper part is billowy and rounded",
+    "Base is flat or slightly rounded",
+    "Edges blend into the sky"
+  ],
+  "original_dataset_key": "cifar100",
+  "original_class_key": "cloud"
+}

@@ -1,0 +1,24 @@
+{
+  "class_name": "crab",
+  "global_description": "A small marine crustacean with a broad, flat body covered in a hard exoskeleton. It has a pair of large claws, multiple legs, and stalked eyes. The body is typically reddish-brown or sandy in color, with a rough texture.",
+  "discriminative_attributes": [
+    "Broad, flat body",
+    "Hard exoskeleton",
+    "Large claws",
+    "Stalked eyes",
+    "Multiple legs"
+  ],
+  "part_details": {
+    "body": "Broad, flat, and covered in a hard, rough-textured exoskeleton, usually reddish-brown or sandy.",
+    "claws": "Large, strong, and located at the front, used for defense and feeding.",
+    "legs": "Several pairs, jointed, and extending from the sides of the body.",
+    "eyes": "Stalked, protruding from the top of the body, providing a wide field of vision."
+  },
+  "spatial_relations": [
+    "Claws at front of body",
+    "Legs extend from sides",
+    "Eyes on top of body"
+  ],
+  "original_dataset_key": "ImageNetR",
+  "original_class_key": "crab"
+}

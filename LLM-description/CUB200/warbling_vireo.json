@@ -1,0 +1,25 @@
+{
+  "class_name": "Warbling Vireo",
+  "global_description": "A small, compact songbird with a rounded body and short tail. It has a predominantly olive-gray upper body and pale underparts. The bird features a faint white eyebrow stripe above the eye and a short, pointed bill. Its wings and tail are subtly edged with lighter tones.",
+  "discriminative_attributes": [
+    "Olive-gray upper body",
+    "Pale underparts",
+    "Faint white eyebrow stripe",
+    "Short, pointed bill",
+    "Compact rounded body"
+  ],
+  "part_details": {
+    "head": "Rounded with a faint white eyebrow stripe and olive-gray crown.",
+    "body": "Compact and rounded, olive-gray on top with pale underparts.",
+    "wings": "Short with subtle lighter edges, matching the olive-gray body.",
+    "tail": "Short and slightly rounded, edged with lighter tones.",
+    "bill": "Short, pointed, and slightly curved, suitable for insect foraging."
+  },
+  "spatial_relations": [
+    "The faint white eyebrow stripe runs above the eye.",
+    "The short tail extends from the rounded body.",
+    "The short, pointed bill protrudes from the front of the head."
+  ],
+  "original_dataset_key": "CUB200",
+  "original_class_key": "warbling_vireo"
+}

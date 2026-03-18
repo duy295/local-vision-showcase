@@ -1,0 +1,159 @@
+{
+  "class_name": "072.Pomarine_Jaeger",
+  "class_idx": 71,
+  "num_images_in_class": 30,
+  "ec_size_requested": 30,
+  "ec_size_actual": 30,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\072.Pomarine_Jaeger\\Pomarine_Jaeger_0036_61410.jpg",
+      "mean_similarity": 0.9461166262626648,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\072.Pomarine_Jaeger\\Pomarine_Jaeger_0041_61305.jpg",
+      "mean_similarity": 0.9458948373794556,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\072.Pomarine_Jaeger\\Pomarine_Jaeger_0046_61301.jpg",
+      "mean_similarity": 0.9454679489135742,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\072.Pomarine_Jaeger\\Pomarine_Jaeger_0055_795762.jpg",
+      "mean_similarity": 0.9439767003059387,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\072.Pomarine_Jaeger\\Pomarine_Jaeger_0032_795789.jpg",
+      "mean_similarity": 0.9439387917518616,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\072.Pomarine_Jaeger\\Pomarine_Jaeger_0013_795759.jpg",
+      "mean_similarity": 0.9431749582290649,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\072.Pomarine_Jaeger\\Pomarine_Jaeger_0022_795747.jpg",
+      "mean_similarity": 0.9430456161499023,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\072.Pomarine_Jaeger\\Pomarine_Jaeger_0043_61384.jpg",
+      "mean_similarity": 0.9425358772277832,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\072.Pomarine_Jaeger\\Pomarine_Jaeger_0060_795756.jpg",
+      "mean_similarity": 0.9423916339874268,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\072.Pomarine_Jaeger\\Pomarine_Jaeger_0007_795764.jpg",
+      "mean_similarity": 0.9423221945762634,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\072.Pomarine_Jaeger\\Pomarine_Jaeger_0012_795773.jpg",
+      "mean_similarity": 0.9421931505203247,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\072.Pomarine_Jaeger\\Pomarine_Jaeger_0004_795796.jpg",
+      "mean_similarity": 0.9420624375343323,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\072.Pomarine_Jaeger\\Pomarine_Jaeger_0061_795788.jpg",
+      "mean_similarity": 0.9419246315956116,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\072.Pomarine_Jaeger\\Pomarine_Jaeger_0020_795761.jpg",
+      "mean_similarity": 0.941710352897644,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\072.Pomarine_Jaeger\\Pomarine_Jaeger_0003_795778.jpg",
+      "mean_similarity": 0.9415643215179443,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\072.Pomarine_Jaeger\\Pomarine_Jaeger_0001_795772.jpg",
+      "mean_similarity": 0.9411249160766602,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\072.Pomarine_Jaeger\\Pomarine_Jaeger_0009_795740.jpg",
+      "mean_similarity": 0.9408570528030396,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\072.Pomarine_Jaeger\\Pomarine_Jaeger_0006_795775.jpg",
+      "mean_similarity": 0.9407939314842224,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\072.Pomarine_Jaeger\\Pomarine_Jaeger_0075_61349.jpg",
+      "mean_similarity": 0.940141499042511,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\072.Pomarine_Jaeger\\Pomarine_Jaeger_0079_61370.jpg",
+      "mean_similarity": 0.9386792778968811,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\072.Pomarine_Jaeger\\Pomarine_Jaeger_0066_795780.jpg",
+      "mean_similarity": 0.9364559650421143,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\072.Pomarine_Jaeger\\Pomarine_Jaeger_0048_795771.jpg",
+      "mean_similarity": 0.935161828994751,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\072.Pomarine_Jaeger\\Pomarine_Jaeger_0031_61420.jpg",
+      "mean_similarity": 0.9336575269699097,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\072.Pomarine_Jaeger\\Pomarine_Jaeger_0039_61348.jpg",
+      "mean_similarity": 0.9334756135940552,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\072.Pomarine_Jaeger\\Pomarine_Jaeger_0038_61446.jpg",
+      "mean_similarity": 0.9302569627761841,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\072.Pomarine_Jaeger\\Pomarine_Jaeger_0072_795743.jpg",
+      "mean_similarity": 0.9291238188743591,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\072.Pomarine_Jaeger\\Pomarine_Jaeger_0024_61281.jpg",
+      "mean_similarity": 0.927658200263977,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\072.Pomarine_Jaeger\\Pomarine_Jaeger_0026_61273.jpg",
+      "mean_similarity": 0.9240613579750061,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\072.Pomarine_Jaeger\\Pomarine_Jaeger_0078_795758.jpg",
+      "mean_similarity": 0.9226883053779602,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\072.Pomarine_Jaeger\\Pomarine_Jaeger_0071_795769.jpg",
+      "mean_similarity": 0.91897052526474,
+      "rank": 30
+    }
+  ]
+}

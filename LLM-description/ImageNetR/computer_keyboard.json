@@ -1,0 +1,26 @@
+{
+  "class_name": "computer keyboard",
+  "global_description": "Rectangular input device with a grid of keys, predominantly black or white, made of plastic. The surface is flat with raised keys, each with a printed character or symbol. Some models include a numeric keypad on the right side.",
+  "discriminative_attributes": [
+    "Rectangular shape",
+    "Grid of keys",
+    "Plastic material",
+    "Printed characters",
+    "Numeric keypad"
+  ],
+  "part_details": {
+    "keys": "Raised, square or rectangular, with printed characters",
+    "body": "Flat, rectangular, plastic",
+    "numeric keypad": "Additional set of keys on the right side",
+    "function keys": "Row of keys at the top",
+    "space bar": "Long key at the bottom center"
+  },
+  "spatial_relations": [
+    "Keys arranged in a grid on the body",
+    "Numeric keypad on the right side",
+    "Function keys at the top",
+    "Space bar at the bottom center"
+  ],
+  "original_dataset_key": "ImageNetR",
+  "original_class_key": "computer_keyboard"
+}

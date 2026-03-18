@@ -1,0 +1,26 @@
+{
+  "class_name": "tank",
+  "global_description": "Large armored vehicle with a flat, rectangular body, typically in camouflage colors. It features a rotating turret with a long barrel, heavy tracks for movement, and reinforced metal plating for protection.",
+  "discriminative_attributes": [
+    "Armored vehicle",
+    "Rotating turret",
+    "Long barrel",
+    "Heavy tracks",
+    "Camouflage colors"
+  ],
+  "part_details": {
+    "turret": "Rotating, mounted on top, with a long barrel",
+    "body": "Flat, rectangular, heavily armored",
+    "tracks": "Heavy, continuous, on sides for movement",
+    "barrel": "Long, cylindrical, extending from turret",
+    "armor": "Reinforced metal plating"
+  },
+  "spatial_relations": [
+    "Turret on top of body",
+    "Barrel extends from turret",
+    "Tracks on sides of body",
+    "Armor covers entire body"
+  ],
+  "original_dataset_key": "cifar100",
+  "original_class_key": "tank"
+}

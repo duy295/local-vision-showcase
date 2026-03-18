@@ -1,0 +1,24 @@
+{
+  "class_name": "White Pelican",
+  "global_description": "A large aquatic bird with a robust body and long wings. Predominantly white plumage with black wingtips. It has a long, flat, orange bill with a large throat pouch. The legs and feet are short and orange.",
+  "discriminative_attributes": [
+    "Predominantly white plumage",
+    "Black wingtips",
+    "Long orange bill with throat pouch",
+    "Short orange legs",
+    "Large wingspan"
+  ],
+  "part_details": {
+    "plumage": "Mostly white with contrasting black wingtips, smooth and dense feathers.",
+    "bill": "Long, flat, and orange with a large, expandable throat pouch.",
+    "wings": "Long and wide, primarily white with black tips.",
+    "legs": "Short, sturdy, and orange, with webbed feet."
+  },
+  "spatial_relations": [
+    "The long orange bill extends from the front of the head.",
+    "The large wings extend laterally from the body.",
+    "The short legs are positioned under the body."
+  ],
+  "original_dataset_key": "CUB200",
+  "original_class_key": "white_pelican"
+}

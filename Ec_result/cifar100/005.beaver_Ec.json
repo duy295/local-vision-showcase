@@ -1,0 +1,1259 @@
+{
+  "class_name": "beaver",
+  "class_idx": 4,
+  "num_images_in_class": 500,
+  "ec_size_requested": 250,
+  "ec_size_actual": 250,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\beaver_s_001308.png",
+      "mean_similarity": 0.9462335705757141,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\castor_canadensis_s_001287.png",
+      "mean_similarity": 0.9460490942001343,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\beaver_s_001884.png",
+      "mean_similarity": 0.9460343718528748,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\beaver_s_000281.png",
+      "mean_similarity": 0.9458170533180237,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\castor_canadensis_s_000308.png",
+      "mean_similarity": 0.9457910060882568,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\castor_fiber_s_000603.png",
+      "mean_similarity": 0.9457663893699646,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\beaver_s_000207.png",
+      "mean_similarity": 0.9456855058670044,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\beaver_s_000259.png",
+      "mean_similarity": 0.9456537961959839,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\castor_fiber_s_000434.png",
+      "mean_similarity": 0.945615828037262,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\castor_canadensis_s_000714.png",
+      "mean_similarity": 0.9455723166465759,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\castor_fiber_s_000376.png",
+      "mean_similarity": 0.9455440640449524,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\castor_fiber_s_000018.png",
+      "mean_similarity": 0.9455044269561768,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\beaver_s_000012.png",
+      "mean_similarity": 0.9454535841941833,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\manual-beaver008.png",
+      "mean_similarity": 0.9453975558280945,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\castor_fiber_s_000296.png",
+      "mean_similarity": 0.9453896284103394,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\castor_canadensis_s_000386.png",
+      "mean_similarity": 0.9453155994415283,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\castor_fiber_s_000702.png",
+      "mean_similarity": 0.9452776312828064,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\castor_canadensis_s_000247.png",
+      "mean_similarity": 0.9452714323997498,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\castor_canadensis_s_001611.png",
+      "mean_similarity": 0.9452342391014099,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\beaver_s_001158.png",
+      "mean_similarity": 0.9452290534973145,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\castor_canadensis_s_000692.png",
+      "mean_similarity": 0.9452134370803833,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\castor_canadensis_s_000646.png",
+      "mean_similarity": 0.9451950788497925,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\beaver_s_001439.png",
+      "mean_similarity": 0.9451327323913574,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\castor_fiber_s_001035.png",
+      "mean_similarity": 0.9451290965080261,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\castor_canadensis_s_001130.png",
+      "mean_similarity": 0.9450511336326599,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\beaver_s_000020.png",
+      "mean_similarity": 0.9449960589408875,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\beaver_s_001015.png",
+      "mean_similarity": 0.9449940323829651,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\castor_fiber_s_000511.png",
+      "mean_similarity": 0.9449859261512756,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\beaver_s_000074.png",
+      "mean_similarity": 0.9449822902679443,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\castor_canadensis_s_000805.png",
+      "mean_similarity": 0.9449802041053772,
+      "rank": 30
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\castor_canadensis_s_000799.png",
+      "mean_similarity": 0.9449412822723389,
+      "rank": 31
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\beaver_s_000052.png",
+      "mean_similarity": 0.9449222087860107,
+      "rank": 32
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\beaver_s_001489.png",
+      "mean_similarity": 0.9448210597038269,
+      "rank": 33
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\beaver_s_001485.png",
+      "mean_similarity": 0.9448012113571167,
+      "rank": 34
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\castor_fiber_s_000688.png",
+      "mean_similarity": 0.9447500705718994,
+      "rank": 35
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\castor_canadensis_s_000528.png",
+      "mean_similarity": 0.9447450637817383,
+      "rank": 36
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\castor_canadensis_s_000556.png",
+      "mean_similarity": 0.9446845054626465,
+      "rank": 37
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\castor_canadensis_s_000190.png",
+      "mean_similarity": 0.9446614384651184,
+      "rank": 38
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\castor_fiber_s_000424.png",
+      "mean_similarity": 0.944642961025238,
+      "rank": 39
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\beaver_s_000240.png",
+      "mean_similarity": 0.9446408748626709,
+      "rank": 40
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\castor_canadensis_s_000081.png",
+      "mean_similarity": 0.9446099400520325,
+      "rank": 41
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\castor_canadensis_s_001016.png",
+      "mean_similarity": 0.9446079730987549,
+      "rank": 42
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\castor_fiber_s_000649.png",
+      "mean_similarity": 0.944592297077179,
+      "rank": 43
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\castor_fiber_s_000369.png",
+      "mean_similarity": 0.9445590376853943,
+      "rank": 44
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\manual-beaver031.png",
+      "mean_similarity": 0.9445521831512451,
+      "rank": 45
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\castor_canadensis_s_000934.png",
+      "mean_similarity": 0.9445334672927856,
+      "rank": 46
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\castor_canadensis_s_000795.png",
+      "mean_similarity": 0.9445149302482605,
+      "rank": 47
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\castor_canadensis_s_001014.png",
+      "mean_similarity": 0.944489061832428,
+      "rank": 48
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\beaver_s_000013.png",
+      "mean_similarity": 0.944480836391449,
+      "rank": 49
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\castor_fiber_s_000660.png",
+      "mean_similarity": 0.9444643259048462,
+      "rank": 50
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\castor_canadensis_s_000882.png",
+      "mean_similarity": 0.9444592595100403,
+      "rank": 51
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\castor_fiber_s_000072.png",
+      "mean_similarity": 0.9444547295570374,
+      "rank": 52
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\beaver_s_000073.png",
+      "mean_similarity": 0.9444450736045837,
+      "rank": 53
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\beaver_s_000049.png",
+      "mean_similarity": 0.9444185495376587,
+      "rank": 54
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\castor_fiber_s_000779.png",
+      "mean_similarity": 0.9444138407707214,
+      "rank": 55
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\castor_canadensis_s_001398.png",
+      "mean_similarity": 0.9444132447242737,
+      "rank": 56
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\castor_fiber_s_000238.png",
+      "mean_similarity": 0.9443832039833069,
+      "rank": 57
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\beaver_s_000324.png",
+      "mean_similarity": 0.9443590641021729,
+      "rank": 58
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\castor_canadensis_s_000156.png",
+      "mean_similarity": 0.9443400502204895,
+      "rank": 59
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\castor_canadensis_s_000370.png",
+      "mean_similarity": 0.9443317651748657,
+      "rank": 60
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\castor_canadensis_s_000292.png",
+      "mean_similarity": 0.9443185925483704,
+      "rank": 61
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\castor_canadensis_s_000435.png",
+      "mean_similarity": 0.9443173408508301,
+      "rank": 62
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\beaver_s_001383.png",
+      "mean_similarity": 0.9443103671073914,
+      "rank": 63
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\manual-beaver006.png",
+      "mean_similarity": 0.9442892670631409,
+      "rank": 64
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\beaver_s_001220.png",
+      "mean_similarity": 0.9442208409309387,
+      "rank": 65
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\castor_canadensis_s_000676.png",
+      "mean_similarity": 0.9442176222801208,
+      "rank": 66
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\castor_fiber_s_000180.png",
+      "mean_similarity": 0.9441790580749512,
+      "rank": 67
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\beaver_s_001204.png",
+      "mean_similarity": 0.9441581964492798,
+      "rank": 68
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\castor_canadensis_s_001210.png",
+      "mean_similarity": 0.944155216217041,
+      "rank": 69
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\castor_fiber_s_000979.png",
+      "mean_similarity": 0.9441414475440979,
+      "rank": 70
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\castor_canadensis_s_000012.png",
+      "mean_similarity": 0.9441390037536621,
+      "rank": 71
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\castor_canadensis_s_000024.png",
+      "mean_similarity": 0.9440402984619141,
+      "rank": 72
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\beaver_s_001486.png",
+      "mean_similarity": 0.9440393447875977,
+      "rank": 73
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\castor_canadensis_s_000002.png",
+      "mean_similarity": 0.9440118074417114,
+      "rank": 74
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\castor_canadensis_s_000151.png",
+      "mean_similarity": 0.9440021514892578,
+      "rank": 75
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\manual-beaver025.png",
+      "mean_similarity": 0.9439738392829895,
+      "rank": 76
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\beaver_s_001740.png",
+      "mean_similarity": 0.9439182877540588,
+      "rank": 77
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\castor_fiber_s_000491.png",
+      "mean_similarity": 0.9438979625701904,
+      "rank": 78
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\castor_fiber_s_000725.png",
+      "mean_similarity": 0.9438936114311218,
+      "rank": 79
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\castor_canadensis_s_001010.png",
+      "mean_similarity": 0.9438452124595642,
+      "rank": 80
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\castor_fiber_s_000389.png",
+      "mean_similarity": 0.9438387155532837,
+      "rank": 81
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\castor_fiber_s_000942.png",
+      "mean_similarity": 0.9437351226806641,
+      "rank": 82
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\castor_fiber_s_000814.png",
+      "mean_similarity": 0.9437342882156372,
+      "rank": 83
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\beaver_s_000224.png",
+      "mean_similarity": 0.9437278509140015,
+      "rank": 84
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\beaver_s_001215.png",
+      "mean_similarity": 0.9437201023101807,
+      "rank": 85
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\castor_fiber_s_000135.png",
+      "mean_similarity": 0.9437042474746704,
+      "rank": 86
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\beaver_s_001798.png",
+      "mean_similarity": 0.9436984062194824,
+      "rank": 87
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\castor_fiber_s_000089.png",
+      "mean_similarity": 0.9436931014060974,
+      "rank": 88
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\castor_fiber_s_001039.png",
+      "mean_similarity": 0.943659782409668,
+      "rank": 89
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\castor_canadensis_s_000772.png",
+      "mean_similarity": 0.9436547756195068,
+      "rank": 90
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\castor_canadensis_s_000694.png",
+      "mean_similarity": 0.9436538219451904,
+      "rank": 91
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\beaver_s_001000.png",
+      "mean_similarity": 0.943646252155304,
+      "rank": 92
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\castor_canadensis_s_000863.png",
+      "mean_similarity": 0.943641185760498,
+      "rank": 93
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\castor_canadensis_s_000157.png",
+      "mean_similarity": 0.9436312317848206,
+      "rank": 94
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\beaver_s_001507.png",
+      "mean_similarity": 0.9436107873916626,
+      "rank": 95
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\beaver_s_001005.png",
+      "mean_similarity": 0.943575918674469,
+      "rank": 96
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\beaver_s_000650.png",
+      "mean_similarity": 0.9435560703277588,
+      "rank": 97
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\manual-beaver004.png",
+      "mean_similarity": 0.9435560703277588,
+      "rank": 98
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\castor_canadensis_s_001510.png",
+      "mean_similarity": 0.9435375332832336,
+      "rank": 99
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\beaver_s_001217.png",
+      "mean_similarity": 0.9435313940048218,
+      "rank": 100
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\castor_canadensis_s_000208.png",
+      "mean_similarity": 0.9435187578201294,
+      "rank": 101
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\beaver_s_000407.png",
+      "mean_similarity": 0.9435181021690369,
+      "rank": 102
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\beaver_s_000031.png",
+      "mean_similarity": 0.943513035774231,
+      "rank": 103
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\beaver_s_000227.png",
+      "mean_similarity": 0.943511426448822,
+      "rank": 104
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\manual-beaver029.png",
+      "mean_similarity": 0.9435020089149475,
+      "rank": 105
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\castor_fiber_s_000263.png",
+      "mean_similarity": 0.9434967637062073,
+      "rank": 106
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\manual-beaver014.png",
+      "mean_similarity": 0.943494439125061,
+      "rank": 107
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\castor_canadensis_s_000231.png",
+      "mean_similarity": 0.9434501528739929,
+      "rank": 108
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\beaver_s_000966.png",
+      "mean_similarity": 0.9434285759925842,
+      "rank": 109
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\castor_canadensis_s_001423.png",
+      "mean_similarity": 0.943425178527832,
+      "rank": 110
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\beaver_s_001511.png",
+      "mean_similarity": 0.9433947205543518,
+      "rank": 111
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\castor_fiber_s_000048.png",
+      "mean_similarity": 0.9433844685554504,
+      "rank": 112
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\beaver_s_000042.png",
+      "mean_similarity": 0.9433627724647522,
+      "rank": 113
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\castor_fiber_s_001019.png",
+      "mean_similarity": 0.9433290362358093,
+      "rank": 114
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\castor_canadensis_s_000367.png",
+      "mean_similarity": 0.9433169364929199,
+      "rank": 115
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\castor_canadensis_s_000605.png",
+      "mean_similarity": 0.943315863609314,
+      "rank": 116
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\beaver_s_000915.png",
+      "mean_similarity": 0.9433012008666992,
+      "rank": 117
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\castor_canadensis_s_000401.png",
+      "mean_similarity": 0.9432762265205383,
+      "rank": 118
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\castor_canadensis_s_000493.png",
+      "mean_similarity": 0.9432618021965027,
+      "rank": 119
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\castor_canadensis_s_000160.png",
+      "mean_similarity": 0.9432556629180908,
+      "rank": 120
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\beaver_s_001658.png",
+      "mean_similarity": 0.9432099461555481,
+      "rank": 121
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\beaver_s_001106.png",
+      "mean_similarity": 0.9431928992271423,
+      "rank": 122
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\castor_fiber_s_000006.png",
+      "mean_similarity": 0.9431905746459961,
+      "rank": 123
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\beaver_s_002213.png",
+      "mean_similarity": 0.9431639313697815,
+      "rank": 124
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\beaver_s_000647.png",
+      "mean_similarity": 0.9431571960449219,
+      "rank": 125
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\beaver_s_000096.png",
+      "mean_similarity": 0.9431160092353821,
+      "rank": 126
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\manual-beaver016.png",
+      "mean_similarity": 0.9431117177009583,
+      "rank": 127
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\castor_canadensis_s_000198.png",
+      "mean_similarity": 0.9430782794952393,
+      "rank": 128
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\manual-beaver043.png",
+      "mean_similarity": 0.9430763721466064,
+      "rank": 129
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\castor_canadensis_s_000183.png",
+      "mean_similarity": 0.9430757164955139,
+      "rank": 130
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\castor_fiber_s_000211.png",
+      "mean_similarity": 0.9430729150772095,
+      "rank": 131
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\castor_canadensis_s_000331.png",
+      "mean_similarity": 0.9430555701255798,
+      "rank": 132
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\beaver_s_001001.png",
+      "mean_similarity": 0.9429892897605896,
+      "rank": 133
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\castor_fiber_s_000484.png",
+      "mean_similarity": 0.942984402179718,
+      "rank": 134
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\castor_canadensis_s_000053.png",
+      "mean_similarity": 0.9429773688316345,
+      "rank": 135
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\castor_fiber_s_000010.png",
+      "mean_similarity": 0.9429771304130554,
+      "rank": 136
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\castor_canadensis_s_000651.png",
+      "mean_similarity": 0.9429170489311218,
+      "rank": 137
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\castor_canadensis_s_000598.png",
+      "mean_similarity": 0.9428972601890564,
+      "rank": 138
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\beaver_s_000065.png",
+      "mean_similarity": 0.9428633451461792,
+      "rank": 139
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\castor_canadensis_s_000027.png",
+      "mean_similarity": 0.9428589344024658,
+      "rank": 140
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\castor_fiber_s_000052.png",
+      "mean_similarity": 0.9428293108940125,
+      "rank": 141
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\beaver_s_002248.png",
+      "mean_similarity": 0.9428216814994812,
+      "rank": 142
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\beaver_s_000045.png",
+      "mean_similarity": 0.9428187608718872,
+      "rank": 143
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\castor_fiber_s_000024.png",
+      "mean_similarity": 0.9427858591079712,
+      "rank": 144
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\castor_fiber_s_000031.png",
+      "mean_similarity": 0.9427799582481384,
+      "rank": 145
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\manual-beaver013.png",
+      "mean_similarity": 0.9427202939987183,
+      "rank": 146
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\castor_canadensis_s_000065.png",
+      "mean_similarity": 0.942704439163208,
+      "rank": 147
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\castor_canadensis_s_000762.png",
+      "mean_similarity": 0.9426941275596619,
+      "rank": 148
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\castor_fiber_s_000420.png",
+      "mean_similarity": 0.9426754713058472,
+      "rank": 149
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\castor_canadensis_s_001131.png",
+      "mean_similarity": 0.9426731467247009,
+      "rank": 150
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\castor_fiber_s_000153.png",
+      "mean_similarity": 0.9426236748695374,
+      "rank": 151
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\beaver_s_000059.png",
+      "mean_similarity": 0.942619800567627,
+      "rank": 152
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\castor_fiber_s_000695.png",
+      "mean_similarity": 0.9426028728485107,
+      "rank": 153
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\beaver_s_001765.png",
+      "mean_similarity": 0.9425939321517944,
+      "rank": 154
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\castor_canadensis_s_001488.png",
+      "mean_similarity": 0.9425737857818604,
+      "rank": 155
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\beaver_s_000616.png",
+      "mean_similarity": 0.9425252079963684,
+      "rank": 156
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\beaver_s_002249.png",
+      "mean_similarity": 0.9425143003463745,
+      "rank": 157
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\castor_fiber_s_000174.png",
+      "mean_similarity": 0.9424911737442017,
+      "rank": 158
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\beaver_s_000340.png",
+      "mean_similarity": 0.9424519538879395,
+      "rank": 159
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\castor_fiber_s_000115.png",
+      "mean_similarity": 0.9424350261688232,
+      "rank": 160
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\castor_fiber_s_000890.png",
+      "mean_similarity": 0.9424040913581848,
+      "rank": 161
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\castor_fiber_s_000526.png",
+      "mean_similarity": 0.9424015283584595,
+      "rank": 162
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\manual-beaver042.png",
+      "mean_similarity": 0.9423819184303284,
+      "rank": 163
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\beaver_s_002280.png",
+      "mean_similarity": 0.9423303604125977,
+      "rank": 164
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\castor_fiber_s_000487.png",
+      "mean_similarity": 0.9423205852508545,
+      "rank": 165
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\castor_canadensis_s_000505.png",
+      "mean_similarity": 0.9423131942749023,
+      "rank": 166
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\castor_fiber_s_000489.png",
+      "mean_similarity": 0.9422993063926697,
+      "rank": 167
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\castor_canadensis_s_001121.png",
+      "mean_similarity": 0.9422867894172668,
+      "rank": 168
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\castor_canadensis_s_000021.png",
+      "mean_similarity": 0.9422844648361206,
+      "rank": 169
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\castor_fiber_s_000917.png",
+      "mean_similarity": 0.9422821998596191,
+      "rank": 170
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\castor_fiber_s_000541.png",
+      "mean_similarity": 0.942259669303894,
+      "rank": 171
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\castor_canadensis_s_000932.png",
+      "mean_similarity": 0.9421828389167786,
+      "rank": 172
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\manual-beaver009.png",
+      "mean_similarity": 0.942173421382904,
+      "rank": 173
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\beaver_s_001311.png",
+      "mean_similarity": 0.9421656131744385,
+      "rank": 174
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\castor_canadensis_s_001258.png",
+      "mean_similarity": 0.9421594142913818,
+      "rank": 175
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\beaver_s_002296.png",
+      "mean_similarity": 0.9421310424804688,
+      "rank": 176
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\castor_canadensis_s_000309.png",
+      "mean_similarity": 0.9421176314353943,
+      "rank": 177
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\castor_canadensis_s_000214.png",
+      "mean_similarity": 0.942116916179657,
+      "rank": 178
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\beaver_s_000147.png",
+      "mean_similarity": 0.9420924782752991,
+      "rank": 179
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\beaver_s_001154.png",
+      "mean_similarity": 0.9420857429504395,
+      "rank": 180
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\castor_fiber_s_000463.png",
+      "mean_similarity": 0.9420852661132812,
+      "rank": 181
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\beaver_s_000050.png",
+      "mean_similarity": 0.942080557346344,
+      "rank": 182
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\beaver_s_000210.png",
+      "mean_similarity": 0.9420652985572815,
+      "rank": 183
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\castor_fiber_s_000233.png",
+      "mean_similarity": 0.9420506358146667,
+      "rank": 184
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\castor_fiber_s_000497.png",
+      "mean_similarity": 0.9420022964477539,
+      "rank": 185
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\beaver_s_001691.png",
+      "mean_similarity": 0.9419971108436584,
+      "rank": 186
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\castor_canadensis_s_000650.png",
+      "mean_similarity": 0.9419911503791809,
+      "rank": 187
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\castor_canadensis_s_000719.png",
+      "mean_similarity": 0.9419857859611511,
+      "rank": 188
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\castor_canadensis_s_000078.png",
+      "mean_similarity": 0.9419119358062744,
+      "rank": 189
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\beaver_s_000644.png",
+      "mean_similarity": 0.9419011473655701,
+      "rank": 190
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\castor_fiber_s_000490.png",
+      "mean_similarity": 0.9418740272521973,
+      "rank": 191
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\castor_canadensis_s_000274.png",
+      "mean_similarity": 0.9418514966964722,
+      "rank": 192
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\castor_canadensis_s_000259.png",
+      "mean_similarity": 0.9418383836746216,
+      "rank": 193
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\beaver_s_000924.png",
+      "mean_similarity": 0.941830575466156,
+      "rank": 194
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\castor_canadensis_s_001285.png",
+      "mean_similarity": 0.9417921900749207,
+      "rank": 195
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\castor_canadensis_s_001028.png",
+      "mean_similarity": 0.9417639374732971,
+      "rank": 196
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\castor_canadensis_s_001022.png",
+      "mean_similarity": 0.9417462944984436,
+      "rank": 197
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\manual-beaver002.png",
+      "mean_similarity": 0.9417442083358765,
+      "rank": 198
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\beaver_s_001164.png",
+      "mean_similarity": 0.9417307376861572,
+      "rank": 199
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\castor_fiber_s_000098.png",
+      "mean_similarity": 0.9417083859443665,
+      "rank": 200
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\castor_fiber_s_000819.png",
+      "mean_similarity": 0.9417024850845337,
+      "rank": 201
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\beaver_s_000066.png",
+      "mean_similarity": 0.9416479468345642,
+      "rank": 202
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\castor_canadensis_s_000622.png",
+      "mean_similarity": 0.9416478276252747,
+      "rank": 203
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\castor_fiber_s_000432.png",
+      "mean_similarity": 0.9416330456733704,
+      "rank": 204
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\castor_fiber_s_000648.png",
+      "mean_similarity": 0.9416279792785645,
+      "rank": 205
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\castor_canadensis_s_000526.png",
+      "mean_similarity": 0.9416106343269348,
+      "rank": 206
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\castor_canadensis_s_000362.png",
+      "mean_similarity": 0.9416085481643677,
+      "rank": 207
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\castor_canadensis_s_000368.png",
+      "mean_similarity": 0.941583514213562,
+      "rank": 208
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\castor_canadensis_s_000839.png",
+      "mean_similarity": 0.9415497183799744,
+      "rank": 209
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\beaver_s_001117.png",
+      "mean_similarity": 0.9415275454521179,
+      "rank": 210
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\beaver_s_000426.png",
+      "mean_similarity": 0.9415004253387451,
+      "rank": 211
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\castor_fiber_s_000685.png",
+      "mean_similarity": 0.9414819478988647,
+      "rank": 212
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\beaver_s_001279.png",
+      "mean_similarity": 0.9414700269699097,
+      "rank": 213
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\castor_fiber_s_000472.png",
+      "mean_similarity": 0.941353976726532,
+      "rank": 214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\castor_canadensis_s_001320.png",
+      "mean_similarity": 0.9413426518440247,
+      "rank": 215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\castor_canadensis_s_001248.png",
+      "mean_similarity": 0.9413310289382935,
+      "rank": 216
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\beaver_s_000048.png",
+      "mean_similarity": 0.9413306713104248,
+      "rank": 217
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\castor_canadensis_s_000356.png",
+      "mean_similarity": 0.9413121342658997,
+      "rank": 218
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\castor_fiber_s_000547.png",
+      "mean_similarity": 0.9413014650344849,
+      "rank": 219
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\castor_canadensis_s_001336.png",
+      "mean_similarity": 0.9412661790847778,
+      "rank": 220
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\beaver_s_001364.png",
+      "mean_similarity": 0.94124436378479,
+      "rank": 221
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\beaver_s_001152.png",
+      "mean_similarity": 0.9411925077438354,
+      "rank": 222
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\castor_canadensis_s_000655.png",
+      "mean_similarity": 0.9411728978157043,
+      "rank": 223
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\castor_canadensis_s_000098.png",
+      "mean_similarity": 0.941155731678009,
+      "rank": 224
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\castor_canadensis_s_000352.png",
+      "mean_similarity": 0.9411513805389404,
+      "rank": 225
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\castor_canadensis_s_000412.png",
+      "mean_similarity": 0.9411475658416748,
+      "rank": 226
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\manual-beaver041.png",
+      "mean_similarity": 0.9411402344703674,
+      "rank": 227
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\castor_canadensis_s_001221.png",
+      "mean_similarity": 0.9411186575889587,
+      "rank": 228
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\beaver_s_001059.png",
+      "mean_similarity": 0.9410867094993591,
+      "rank": 229
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\castor_fiber_s_000951.png",
+      "mean_similarity": 0.9410719275474548,
+      "rank": 230
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\castor_canadensis_s_001106.png",
+      "mean_similarity": 0.9410507082939148,
+      "rank": 231
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\castor_canadensis_s_001074.png",
+      "mean_similarity": 0.9410496950149536,
+      "rank": 232
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\beaver_s_001539.png",
+      "mean_similarity": 0.9410280585289001,
+      "rank": 233
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\castor_fiber_s_001032.png",
+      "mean_similarity": 0.9409826993942261,
+      "rank": 234
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\castor_fiber_s_000164.png",
+      "mean_similarity": 0.9409321546554565,
+      "rank": 235
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\castor_canadensis_s_000711.png",
+      "mean_similarity": 0.9409200549125671,
+      "rank": 236
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\castor_fiber_s_000021.png",
+      "mean_similarity": 0.9409068822860718,
+      "rank": 237
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\castor_canadensis_s_001247.png",
+      "mean_similarity": 0.9408948421478271,
+      "rank": 238
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\castor_fiber_s_000465.png",
+      "mean_similarity": 0.9408516883850098,
+      "rank": 239
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\castor_canadensis_s_000327.png",
+      "mean_similarity": 0.9408494830131531,
+      "rank": 240
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\beaver_s_001737.png",
+      "mean_similarity": 0.9408444762229919,
+      "rank": 241
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\manual-beaver027.png",
+      "mean_similarity": 0.9408219456672668,
+      "rank": 242
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\castor_canadensis_s_000396.png",
+      "mean_similarity": 0.9407682418823242,
+      "rank": 243
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\beaver_s_000089.png",
+      "mean_similarity": 0.9407455325126648,
+      "rank": 244
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\castor_fiber_s_000293.png",
+      "mean_similarity": 0.9407244920730591,
+      "rank": 245
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\beaver_s_001362.png",
+      "mean_similarity": 0.9407199025154114,
+      "rank": 246
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\castor_canadensis_s_000005.png",
+      "mean_similarity": 0.9406536221504211,
+      "rank": 247
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\castor_canadensis_s_000767.png",
+      "mean_similarity": 0.9406032562255859,
+      "rank": 248
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\castor_canadensis_s_000722.png",
+      "mean_similarity": 0.9405999779701233,
+      "rank": 249
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\005.beaver\\castor_canadensis_s_001623.png",
+      "mean_similarity": 0.9405967593193054,
+      "rank": 250
+    }
+  ]
+}

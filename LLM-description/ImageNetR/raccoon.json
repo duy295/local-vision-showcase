@@ -1,0 +1,26 @@
+{
+  "class_name": "mammal",
+  "global_description": "Medium-sized mammal with a stocky body, bushy tail, and distinctive facial mask. Its fur is grayish-brown with a coarse texture, and it has black rings around its eyes and a ringed tail. The ears are small and rounded.",
+  "discriminative_attributes": [
+    "Stocky body",
+    "Bushy tail",
+    "Facial mask",
+    "Grayish-brown fur",
+    "Black eye rings"
+  ],
+  "part_details": {
+    "head": "Rounded with a distinctive black mask around the eyes",
+    "body": "Stocky with coarse grayish-brown fur",
+    "tail": "Bushy with alternating dark and light rings",
+    "ears": "Small and rounded, covered in fur",
+    "legs": "Short and sturdy, adapted for climbing"
+  },
+  "spatial_relations": [
+    "Head at front with mask around eyes",
+    "Tail extends from rear with rings",
+    "Legs beneath body, supporting weight",
+    "Ears on top of head"
+  ],
+  "original_dataset_key": "ImageNetR",
+  "original_class_key": "raccoon"
+}

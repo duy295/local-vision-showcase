@@ -1,0 +1,26 @@
+{
+  "class_name": "tractor",
+  "global_description": "Large agricultural vehicle with a robust, boxy body, typically in green or red. It has large rear wheels, smaller front wheels, a cab with a roof, and visible engine components. The structure is metallic, often with a matte finish.",
+  "discriminative_attributes": [
+    "Large rear wheels",
+    "Smaller front wheels",
+    "Boxy body",
+    "Cab with roof",
+    "Visible engine components"
+  ],
+  "part_details": {
+    "wheels": "Large rear wheels, smaller front wheels, typically black with metallic rims",
+    "body": "Boxy, robust structure, often green or red",
+    "cab": "Enclosed with a roof, sometimes with windows",
+    "engine": "Visible components, often metallic",
+    "exhaust": "Metallic pipe, usually on the side"
+  },
+  "spatial_relations": [
+    "Rear wheels larger than front wheels",
+    "Cab positioned above body",
+    "Engine components at front",
+    "Exhaust pipe on side"
+  ],
+  "original_dataset_key": "cifar100",
+  "original_class_key": "tractor"
+}

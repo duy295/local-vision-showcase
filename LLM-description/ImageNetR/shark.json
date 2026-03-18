@@ -1,0 +1,26 @@
+{
+  "class_name": "shark",
+  "global_description": "Large aquatic predator with streamlined, torpedo-shaped body, gray skin with rough texture, prominent dorsal fin, sharp teeth, and gill slits on sides of head.",
+  "discriminative_attributes": [
+    "Streamlined body",
+    "Gray rough skin",
+    "Prominent dorsal fin",
+    "Sharp teeth",
+    "Gill slits"
+  ],
+  "part_details": {
+    "head": "Pointed with sharp teeth and gill slits",
+    "body": "Streamlined, torpedo-shaped, gray with rough texture",
+    "fins": "Prominent dorsal fin, paired pectoral fins",
+    "tail": "Powerful, crescent-shaped",
+    "skin": "Gray, rough texture"
+  },
+  "spatial_relations": [
+    "Dorsal fin on top of body",
+    "Gill slits on sides of head",
+    "Tail at rear, providing propulsion",
+    "Pectoral fins on sides of body"
+  ],
+  "original_dataset_key": "ImageNetR",
+  "original_class_key": "shark"
+}

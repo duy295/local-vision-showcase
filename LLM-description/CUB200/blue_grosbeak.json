@@ -1,0 +1,25 @@
+{
+  "class_name": "Bird",
+  "global_description": "A medium-sized songbird with a stout body and a short, thick conical bill. The male is predominantly deep blue with a slightly lighter blue on the wings and tail, while the female is mostly brown with subtle blue tinges. Both have a smooth, glossy feather texture.",
+  "discriminative_attributes": [
+    "Deep blue plumage in males",
+    "Thick conical bill",
+    "Glossy feather texture",
+    "Brown plumage with blue tinges in females",
+    "Short tail"
+  ],
+  "part_details": {
+    "bill": "Short, thick, conical, pale gray",
+    "wings": "Medium length, deep blue in males, brown with blue tinges in females",
+    "tail": "Short, slightly forked, deep blue in males",
+    "body": "Stout, deep blue in males, brown in females",
+    "head": "Rounded, deep blue in males, brown in females"
+  },
+  "spatial_relations": [
+    "The wings are attached to the sides of the body",
+    "The tail extends from the rear of the body",
+    "The bill is positioned at the front of the head"
+  ],
+  "original_dataset_key": "CUB200",
+  "original_class_key": "blue_grosbeak"
+}

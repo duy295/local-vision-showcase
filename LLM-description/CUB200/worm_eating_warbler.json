@@ -1,0 +1,24 @@
+{
+  "class_name": "Bird",
+  "global_description": "A small, slender songbird with an olive-green back and yellow underparts. It has a pointed beak and a distinctive eye stripe. The wings and tail are short and rounded, with subtle streaks.",
+  "discriminative_attributes": [
+    "Olive-green back",
+    "Yellow underparts",
+    "Pointed beak",
+    "Distinctive eye stripe",
+    "Short rounded wings"
+  ],
+  "part_details": {
+    "beak": "Short, pointed, and slightly curved, dark in color.",
+    "eye_stripe": "Thin, pale stripe running from the beak through the eye.",
+    "wings": "Short, rounded, olive-green with subtle streaks.",
+    "tail": "Short, rounded, matching the wing color."
+  },
+  "spatial_relations": [
+    "The eye stripe runs horizontally across the face.",
+    "The wings are attached to the sides of the body, slightly below the back.",
+    "The tail extends from the rear of the body, aligned with the wings."
+  ],
+  "original_dataset_key": "CUB200",
+  "original_class_key": "worm_eating_warbler"
+}

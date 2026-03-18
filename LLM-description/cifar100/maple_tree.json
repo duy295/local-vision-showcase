@@ -1,0 +1,24 @@
+{
+  "class_name": "maple tree",
+  "global_description": "Tall deciduous tree with a broad, rounded canopy. Leaves are palmate with five lobes, typically green in summer and turning vibrant shades of red, orange, or yellow in autumn. The bark is grayish-brown and rough, with a slightly furrowed texture. The tree produces small, winged seeds known as samaras.",
+  "discriminative_attributes": [
+    "Broad, rounded canopy",
+    "Palmate leaves with five lobes",
+    "Vibrant autumn colors",
+    "Grayish-brown rough bark",
+    "Winged seeds (samaras)"
+  ],
+  "part_details": {
+    "canopy": "Broad and rounded, providing ample shade",
+    "leaves": "Palmate with five lobes, green in summer, vibrant in autumn",
+    "bark": "Grayish-brown, rough, slightly furrowed",
+    "seeds": "Small, winged, known as samaras"
+  },
+  "spatial_relations": [
+    "Leaves attached to branches",
+    "Bark covering trunk and branches",
+    "Seeds hanging from branches"
+  ],
+  "original_dataset_key": "cifar100",
+  "original_class_key": "maple_tree"
+}

@@ -1,0 +1,25 @@
+{
+  "class_name": "turtle",
+  "global_description": "Reptile with a hard, domed shell, typically green or brown, leathery skin, short legs with webbed feet, and a small head with a beak-like mouth.",
+  "discriminative_attributes": [
+    "Hard domed shell",
+    "Leathery skin",
+    "Webbed feet",
+    "Beak-like mouth",
+    "Short legs"
+  ],
+  "part_details": {
+    "shell": "Hard, domed, usually green or brown",
+    "head": "Small with a beak-like mouth",
+    "legs": "Short with webbed feet",
+    "skin": "Leathery texture"
+  },
+  "spatial_relations": [
+    "Shell covers body",
+    "Head protrudes from front of shell",
+    "Legs extend from sides of shell",
+    "Feet at end of legs"
+  ],
+  "original_dataset_key": "ImageNetR",
+  "original_class_key": "turtle"
+}

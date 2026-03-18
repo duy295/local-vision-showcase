@@ -1,0 +1,24 @@
+{
+  "class_name": "Bird",
+  "global_description": "A small, slender songbird with a streamlined body. It features a bright yellow throat and chest, contrasted by a slate gray back and wings. The bird has a distinctive black necklace pattern across its chest and a white eye-ring.",
+  "discriminative_attributes": [
+    "Bright yellow throat and chest",
+    "Slate gray back and wings",
+    "Black necklace pattern",
+    "White eye-ring",
+    "Small, slender body"
+  ],
+  "part_details": {
+    "throat_chest": "Vivid yellow, smooth texture, prominent in contrast to the rest of the body.",
+    "back_wings": "Slate gray, sleek feathers, providing a muted contrast to the bright chest.",
+    "necklace": "Distinctive black band across the chest, resembling a necklace.",
+    "eye_ring": "White, circular marking around the eye, enhancing facial features."
+  },
+  "spatial_relations": [
+    "The bright yellow chest is positioned below the slate gray head.",
+    "The black necklace pattern crosses the upper chest.",
+    "The white eye-ring encircles the eye, contrasting with the dark head."
+  ],
+  "original_dataset_key": "CUB200",
+  "original_class_key": "canada_warbler"
+}

@@ -1,0 +1,26 @@
+{
+  "class_name": "ray",
+  "global_description": "Flat, diamond-shaped marine creature with wide, wing-like pectoral fins extending from sides, smooth skin, often gray or brown, long slender tail, small eyes on top of head.",
+  "discriminative_attributes": [
+    "Diamond-shaped body",
+    "Wide pectoral fins",
+    "Smooth skin",
+    "Long slender tail",
+    "Small eyes on top"
+  ],
+  "part_details": {
+    "body": "Flat, diamond-shaped, smooth skin, often gray or brown",
+    "pectoral fins": "Wide, wing-like, extending from sides",
+    "tail": "Long, slender, extending from rear",
+    "eyes": "Small, positioned on top of head",
+    "mouth": "Located on underside"
+  },
+  "spatial_relations": [
+    "Pectoral fins extend from sides of body",
+    "Tail extends from rear of body",
+    "Eyes positioned on top of head",
+    "Mouth located on underside"
+  ],
+  "original_dataset_key": "ImageNetR",
+  "original_class_key": "ray"
+}

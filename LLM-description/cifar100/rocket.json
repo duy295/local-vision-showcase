@@ -1,0 +1,25 @@
+{
+  "class_name": "rocket",
+  "global_description": "Tall, cylindrical vehicle with a pointed nose cone, metallic body, often white with red or black accents, featuring fins at the base, and exhaust nozzles for propulsion.",
+  "discriminative_attributes": [
+    "Cylindrical shape",
+    "Pointed nose cone",
+    "Metallic body",
+    "Fins at base",
+    "Exhaust nozzles"
+  ],
+  "part_details": {
+    "nose cone": "Pointed, often metallic or painted",
+    "body": "Cylindrical, metallic, often white with accents",
+    "fins": "Triangular, located at the base",
+    "exhaust nozzles": "Located at the bottom, for propulsion",
+    "paint": "White with red or black accents"
+  },
+  "spatial_relations": [
+    "Nose cone at top of body",
+    "Fins at base of body",
+    "Exhaust nozzles at bottom"
+  ],
+  "original_dataset_key": "cifar100",
+  "original_class_key": "rocket"
+}

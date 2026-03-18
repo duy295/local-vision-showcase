@@ -1,0 +1,24 @@
+{
+  "class_name": "Brandt Cormorant",
+  "global_description": "A medium-sized, sleek water bird with a streamlined body and glossy black plumage. It features a long, slender neck and a pointed beak. The bird's feathers have an iridescent sheen, and it has webbed feet for swimming.",
+  "discriminative_attributes": [
+    "Glossy black plumage",
+    "Long slender neck",
+    "Pointed beak",
+    "Iridescent feather sheen",
+    "Webbed feet"
+  ],
+  "part_details": {
+    "plumage": "Glossy black with an iridescent sheen, covering the entire body.",
+    "neck": "Long and slender, allowing for agile movement.",
+    "beak": "Pointed and slightly hooked at the tip, dark in color.",
+    "feet": "Webbed, aiding in swimming, dark gray to black."
+  },
+  "spatial_relations": [
+    "The long neck extends from the streamlined body.",
+    "The pointed beak is positioned at the front of the head.",
+    "The webbed feet are located at the base of the body."
+  ],
+  "original_dataset_key": "CUB200",
+  "original_class_key": "brandt_cormorant"
+}

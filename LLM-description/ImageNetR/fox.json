@@ -1,0 +1,26 @@
+{
+  "class_name": "fox",
+  "global_description": "Medium-sized mammal with a slender, elongated body, bushy tail, pointed ears, and sharp muzzle. Fur is typically reddish-orange with white underbelly and black markings on legs and ears. Agile and sleek, adapted for quick movement.",
+  "discriminative_attributes": [
+    "Reddish-orange fur",
+    "Bushy tail",
+    "Pointed ears",
+    "Sharp muzzle",
+    "Black markings on legs"
+  ],
+  "part_details": {
+    "head": "Sharp muzzle, pointed ears, often with black tips",
+    "body": "Slender, elongated with reddish-orange fur",
+    "tail": "Bushy, often with a white tip",
+    "legs": "Long, slender with black markings",
+    "fur": "Soft, dense, reddish-orange with white underbelly"
+  },
+  "spatial_relations": [
+    "Head at front, tail at rear",
+    "Ears on top of head",
+    "Legs beneath body",
+    "Tail extends from rear"
+  ],
+  "original_dataset_key": "ImageNetR",
+  "original_class_key": "fox"
+}

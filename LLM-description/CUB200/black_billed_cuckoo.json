@@ -1,0 +1,26 @@
+{
+  "class_name": "Bird",
+  "global_description": "A medium-sized bird with a slender, elongated body. It features a smooth, brown upper body and a lighter underbelly. The bird has a distinctive black bill and red eye ring, with a long, graduated tail. The feathers are sleek and smooth.",
+  "discriminative_attributes": [
+    "Slender elongated body",
+    "Smooth brown upper body",
+    "Light underbelly",
+    "Black bill",
+    "Red eye ring",
+    "Long graduated tail"
+  ],
+  "part_details": {
+    "bill": "Short, slender, and black, slightly curved.",
+    "eye_ring": "Thin, bright red circle around the eye.",
+    "tail": "Long, tapered, with a slight graduation in feather length.",
+    "upper_body": "Smooth, uniform brown feathers.",
+    "underbelly": "Lighter, pale cream or white feathers."
+  },
+  "spatial_relations": [
+    "The black bill is positioned at the front of the head.",
+    "The red eye ring encircles the eye.",
+    "The long tail extends from the rear of the body."
+  ],
+  "original_dataset_key": "CUB200",
+  "original_class_key": "black_billed_cuckoo"
+}

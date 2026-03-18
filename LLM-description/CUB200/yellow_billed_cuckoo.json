@@ -1,0 +1,24 @@
+{
+  "class_name": "Bird",
+  "global_description": "A medium-sized bird with a slender, elongated body and a long tail. It has a distinctive yellow bill and a predominantly brown upper body with a white underbelly. The wings are broad and rounded, featuring subtle white tips. The tail is long and graduated, with white spots on the underside.",
+  "discriminative_attributes": [
+    "Yellow bill",
+    "Brown upper body",
+    "White underbelly",
+    "Long graduated tail",
+    "Broad rounded wings"
+  ],
+  "part_details": {
+    "bill": "Short, slightly curved, bright yellow",
+    "body": "Slender, elongated, brown upper, white under",
+    "wings": "Broad, rounded, brown with white tips",
+    "tail": "Long, graduated, white spots underneath"
+  },
+  "spatial_relations": [
+    "The yellow bill is positioned at the front of the head",
+    "The broad wings extend from the sides of the body",
+    "The long tail extends from the rear of the body"
+  ],
+  "original_dataset_key": "CUB200",
+  "original_class_key": "yellow_billed_cuckoo"
+}

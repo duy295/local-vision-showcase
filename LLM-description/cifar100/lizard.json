@@ -1,0 +1,25 @@
+{
+  "class_name": "lizard",
+  "global_description": "Small reptile with elongated body, scaly skin, typically green or brown, long tail, short legs, and a pointed snout. Often features a textured pattern on the skin, aiding in camouflage.",
+  "discriminative_attributes": [
+    "Elongated body",
+    "Scaly skin",
+    "Long tail",
+    "Short legs",
+    "Pointed snout"
+  ],
+  "part_details": {
+    "head": "Small with pointed snout and visible eyes",
+    "body": "Elongated with scaly texture",
+    "legs": "Short and sturdy",
+    "tail": "Long and tapering",
+    "skin": "Scaly with textured pattern"
+  },
+  "spatial_relations": [
+    "Head at front of body",
+    "Tail extends from rear",
+    "Legs attached to sides of body"
+  ],
+  "original_dataset_key": "cifar100",
+  "original_class_key": "lizard"
+}

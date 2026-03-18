@@ -1,0 +1,1259 @@
+{
+  "class_name": "bee",
+  "class_idx": 6,
+  "num_images_in_class": 500,
+  "ec_size_requested": 250,
+  "ec_size_actual": 250,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\honeybee_s_001229.png",
+      "mean_similarity": 0.9424318671226501,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\honeybee_s_000943.png",
+      "mean_similarity": 0.9422398209571838,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\bee_s_001662.png",
+      "mean_similarity": 0.9420028924942017,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\apis_mellifera_s_000413.png",
+      "mean_similarity": 0.9417731165885925,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\carpenter_bee_s_000353.png",
+      "mean_similarity": 0.9417005777359009,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\bee_s_000067.png",
+      "mean_similarity": 0.9416598677635193,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\apis_mellifera_s_001822.png",
+      "mean_similarity": 0.9416354894638062,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\bee_s_000097.png",
+      "mean_similarity": 0.9415780305862427,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\black_bee_s_000224.png",
+      "mean_similarity": 0.9415720701217651,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\bee_s_002021.png",
+      "mean_similarity": 0.9414770603179932,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\honeybee_s_000005.png",
+      "mean_similarity": 0.9414367079734802,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\apis_mellifera_s_000576.png",
+      "mean_similarity": 0.9412961006164551,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\honeybee_s_000474.png",
+      "mean_similarity": 0.9412954449653625,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\apis_mellifera_s_000628.png",
+      "mean_similarity": 0.9412773251533508,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\apis_mellifera_s_001627.png",
+      "mean_similarity": 0.9412769675254822,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\honeybee_s_000557.png",
+      "mean_similarity": 0.9412356615066528,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\carniolan_bee_s_000131.png",
+      "mean_similarity": 0.9411274790763855,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\honeybee_s_000660.png",
+      "mean_similarity": 0.9410872459411621,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\bee_s_002283.png",
+      "mean_similarity": 0.9410452246665955,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\apis_mellifera_s_000028.png",
+      "mean_similarity": 0.9407564997673035,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\honeybee_s_001294.png",
+      "mean_similarity": 0.9406864643096924,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\honeybee_s_002244.png",
+      "mean_similarity": 0.9406546950340271,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\black_bee_s_000483.png",
+      "mean_similarity": 0.9406343102455139,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\killer_bee_s_000112.png",
+      "mean_similarity": 0.9406108260154724,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\apis_mellifera_s_000091.png",
+      "mean_similarity": 0.9405414462089539,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\honeybee_s_001205.png",
+      "mean_similarity": 0.9404833912849426,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\bee_s_000395.png",
+      "mean_similarity": 0.9404810667037964,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\honeybee_s_001487.png",
+      "mean_similarity": 0.9404571056365967,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\bee_s_001110.png",
+      "mean_similarity": 0.9404517412185669,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\africanized_bee_s_000689.png",
+      "mean_similarity": 0.9404276013374329,
+      "rank": 30
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\africanized_bee_s_000585.png",
+      "mean_similarity": 0.9403612017631531,
+      "rank": 31
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\honeybee_s_001222.png",
+      "mean_similarity": 0.9403557777404785,
+      "rank": 32
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\carpenter_bee_s_000003.png",
+      "mean_similarity": 0.9402167201042175,
+      "rank": 33
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\bee_s_001856.png",
+      "mean_similarity": 0.940209150314331,
+      "rank": 34
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\bee_s_001321.png",
+      "mean_similarity": 0.9401963353157043,
+      "rank": 35
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\apis_mellifera_s_001346.png",
+      "mean_similarity": 0.9401845932006836,
+      "rank": 36
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\apis_mellifera_s_000732.png",
+      "mean_similarity": 0.9401509761810303,
+      "rank": 37
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\bee_s_001978.png",
+      "mean_similarity": 0.9401054978370667,
+      "rank": 38
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\apis_mellifera_s_001435.png",
+      "mean_similarity": 0.9400968551635742,
+      "rank": 39
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\apis_mellifera_s_001703.png",
+      "mean_similarity": 0.9400854706764221,
+      "rank": 40
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\honeybee_s_000029.png",
+      "mean_similarity": 0.9400845170021057,
+      "rank": 41
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\honeybee_s_000271.png",
+      "mean_similarity": 0.9400566220283508,
+      "rank": 42
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\apis_mellifera_s_001165.png",
+      "mean_similarity": 0.9400535821914673,
+      "rank": 43
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\apis_mellifera_s_000083.png",
+      "mean_similarity": 0.9400194883346558,
+      "rank": 44
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\apis_mellifera_s_001745.png",
+      "mean_similarity": 0.9400070905685425,
+      "rank": 45
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\honeybee_s_000893.png",
+      "mean_similarity": 0.9400055408477783,
+      "rank": 46
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\bee_s_001804.png",
+      "mean_similarity": 0.9399685859680176,
+      "rank": 47
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\apis_mellifera_s_000954.png",
+      "mean_similarity": 0.9399615526199341,
+      "rank": 48
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\honeybee_s_000661.png",
+      "mean_similarity": 0.9397960901260376,
+      "rank": 49
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\honeybee_s_001168.png",
+      "mean_similarity": 0.939769446849823,
+      "rank": 50
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\carniolan_bee_s_000113.png",
+      "mean_similarity": 0.9396710395812988,
+      "rank": 51
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\apis_mellifera_s_000349.png",
+      "mean_similarity": 0.9396591186523438,
+      "rank": 52
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\bee_s_001391.png",
+      "mean_similarity": 0.9395593404769897,
+      "rank": 53
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\honeybee_s_000031.png",
+      "mean_similarity": 0.939544677734375,
+      "rank": 54
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\bee_s_001431.png",
+      "mean_similarity": 0.9393582344055176,
+      "rank": 55
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\honeybee_s_000367.png",
+      "mean_similarity": 0.9393466711044312,
+      "rank": 56
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\carpenter_bee_s_000018.png",
+      "mean_similarity": 0.9393202066421509,
+      "rank": 57
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\bee_s_001098.png",
+      "mean_similarity": 0.939306378364563,
+      "rank": 58
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\honeybee_s_001553.png",
+      "mean_similarity": 0.9392994046211243,
+      "rank": 59
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\bee_s_000571.png",
+      "mean_similarity": 0.9392238855361938,
+      "rank": 60
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\apis_mellifera_s_001241.png",
+      "mean_similarity": 0.9392181038856506,
+      "rank": 61
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\drone_s_000075.png",
+      "mean_similarity": 0.9392015337944031,
+      "rank": 62
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\honeybee_s_000823.png",
+      "mean_similarity": 0.9391699433326721,
+      "rank": 63
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\carpenter_bee_s_000147.png",
+      "mean_similarity": 0.9391657710075378,
+      "rank": 64
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\honeybee_s_000135.png",
+      "mean_similarity": 0.9391447901725769,
+      "rank": 65
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\honeybee_s_000919.png",
+      "mean_similarity": 0.9390972256660461,
+      "rank": 66
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\honeybee_s_000381.png",
+      "mean_similarity": 0.9390672445297241,
+      "rank": 67
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\bee_s_000718.png",
+      "mean_similarity": 0.9390667676925659,
+      "rank": 68
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\honeybee_s_000666.png",
+      "mean_similarity": 0.939061164855957,
+      "rank": 69
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\honeybee_s_002076.png",
+      "mean_similarity": 0.9390460848808289,
+      "rank": 70
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\honeybee_s_000679.png",
+      "mean_similarity": 0.9390236735343933,
+      "rank": 71
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\black_bee_s_000095.png",
+      "mean_similarity": 0.9389779567718506,
+      "rank": 72
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\apis_mellifera_s_000232.png",
+      "mean_similarity": 0.9389176368713379,
+      "rank": 73
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\bee_s_001615.png",
+      "mean_similarity": 0.9388648271560669,
+      "rank": 74
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\honeybee_s_000552.png",
+      "mean_similarity": 0.9388492107391357,
+      "rank": 75
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\honeybee_s_000465.png",
+      "mean_similarity": 0.9388374090194702,
+      "rank": 76
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\apis_mellifera_s_001923.png",
+      "mean_similarity": 0.9388371109962463,
+      "rank": 77
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\honeybee_s_000508.png",
+      "mean_similarity": 0.9388319253921509,
+      "rank": 78
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\bee_s_000129.png",
+      "mean_similarity": 0.9387684464454651,
+      "rank": 79
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\apis_mellifera_s_000008.png",
+      "mean_similarity": 0.9387613534927368,
+      "rank": 80
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\honeybee_s_002216.png",
+      "mean_similarity": 0.9387440085411072,
+      "rank": 81
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\bee_s_000133.png",
+      "mean_similarity": 0.9387102127075195,
+      "rank": 82
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\carpenter_bee_s_000253.png",
+      "mean_similarity": 0.9386765956878662,
+      "rank": 83
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\apis_mellifera_s_000039.png",
+      "mean_similarity": 0.9386472105979919,
+      "rank": 84
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\bee_s_001324.png",
+      "mean_similarity": 0.9386326670646667,
+      "rank": 85
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\honeybee_s_001507.png",
+      "mean_similarity": 0.9386247396469116,
+      "rank": 86
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\apis_mellifera_s_001342.png",
+      "mean_similarity": 0.9385527968406677,
+      "rank": 87
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\honeybee_s_001350.png",
+      "mean_similarity": 0.9385321140289307,
+      "rank": 88
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\honeybee_s_001675.png",
+      "mean_similarity": 0.9385061264038086,
+      "rank": 89
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\honeybee_s_000539.png",
+      "mean_similarity": 0.938503623008728,
+      "rank": 90
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\apis_mellifera_s_001497.png",
+      "mean_similarity": 0.9384801387786865,
+      "rank": 91
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\bee_s_001007.png",
+      "mean_similarity": 0.9384724497795105,
+      "rank": 92
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\honeybee_s_000701.png",
+      "mean_similarity": 0.9384424090385437,
+      "rank": 93
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\carpenter_bee_s_000383.png",
+      "mean_similarity": 0.9384233951568604,
+      "rank": 94
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\apis_mellifera_s_001573.png",
+      "mean_similarity": 0.9384214282035828,
+      "rank": 95
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\honeybee_s_002296.png",
+      "mean_similarity": 0.9383687973022461,
+      "rank": 96
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\bee_s_002214.png",
+      "mean_similarity": 0.9383484125137329,
+      "rank": 97
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\bee_s_000032.png",
+      "mean_similarity": 0.9383436441421509,
+      "rank": 98
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\honeybee_s_001288.png",
+      "mean_similarity": 0.9383301734924316,
+      "rank": 99
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\apis_mellifera_s_001539.png",
+      "mean_similarity": 0.9383286833763123,
+      "rank": 100
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\bee_s_000723.png",
+      "mean_similarity": 0.9382995963096619,
+      "rank": 101
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\apis_mellifera_s_000194.png",
+      "mean_similarity": 0.9382925033569336,
+      "rank": 102
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\africanized_honey_bee_s_000030.png",
+      "mean_similarity": 0.9382864832878113,
+      "rank": 103
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\apis_mellifera_s_000192.png",
+      "mean_similarity": 0.9382325410842896,
+      "rank": 104
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\bee_s_000358.png",
+      "mean_similarity": 0.9382016062736511,
+      "rank": 105
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\apis_mellifera_s_001664.png",
+      "mean_similarity": 0.9381347298622131,
+      "rank": 106
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\honeybee_s_000173.png",
+      "mean_similarity": 0.9381324052810669,
+      "rank": 107
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\honeybee_s_001073.png",
+      "mean_similarity": 0.9380348920822144,
+      "rank": 108
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\bee_s_001210.png",
+      "mean_similarity": 0.9380325675010681,
+      "rank": 109
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\honeybee_s_000483.png",
+      "mean_similarity": 0.9380248785018921,
+      "rank": 110
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\apis_mellifera_s_001171.png",
+      "mean_similarity": 0.9379900097846985,
+      "rank": 111
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\apis_mellifera_s_000634.png",
+      "mean_similarity": 0.9379338622093201,
+      "rank": 112
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\honeybee_s_001982.png",
+      "mean_similarity": 0.9379196166992188,
+      "rank": 113
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\bee_s_000379.png",
+      "mean_similarity": 0.9379143714904785,
+      "rank": 114
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\honeybee_s_000181.png",
+      "mean_similarity": 0.9378895163536072,
+      "rank": 115
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\bee_s_001428.png",
+      "mean_similarity": 0.9378372430801392,
+      "rank": 116
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\honeybee_s_001599.png",
+      "mean_similarity": 0.9377928376197815,
+      "rank": 117
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\africanized_bee_s_000479.png",
+      "mean_similarity": 0.937771201133728,
+      "rank": 118
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\apis_mellifera_s_000170.png",
+      "mean_similarity": 0.9377692937850952,
+      "rank": 119
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\honeybee_s_001615.png",
+      "mean_similarity": 0.9377014636993408,
+      "rank": 120
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\carniolan_bee_s_000005.png",
+      "mean_similarity": 0.9376775026321411,
+      "rank": 121
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\apis_mellifera_s_001465.png",
+      "mean_similarity": 0.937648355960846,
+      "rank": 122
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\apis_mellifera_s_000295.png",
+      "mean_similarity": 0.9376119375228882,
+      "rank": 123
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\honeybee_s_000723.png",
+      "mean_similarity": 0.9375231266021729,
+      "rank": 124
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\bee_s_001289.png",
+      "mean_similarity": 0.9374600052833557,
+      "rank": 125
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\honeybee_s_000516.png",
+      "mean_similarity": 0.9374420642852783,
+      "rank": 126
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\bee_s_000035.png",
+      "mean_similarity": 0.9374244213104248,
+      "rank": 127
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\honeybee_s_001419.png",
+      "mean_similarity": 0.9373878240585327,
+      "rank": 128
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\bee_s_000541.png",
+      "mean_similarity": 0.937336266040802,
+      "rank": 129
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\honeybee_s_002299.png",
+      "mean_similarity": 0.9373185038566589,
+      "rank": 130
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\apis_mellifera_s_000506.png",
+      "mean_similarity": 0.9371670484542847,
+      "rank": 131
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\honeybee_s_000380.png",
+      "mean_similarity": 0.9370851516723633,
+      "rank": 132
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\honeybee_s_000038.png",
+      "mean_similarity": 0.937035083770752,
+      "rank": 133
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\honeybee_s_001512.png",
+      "mean_similarity": 0.9369955658912659,
+      "rank": 134
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\bee_s_000092.png",
+      "mean_similarity": 0.9369888305664062,
+      "rank": 135
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\apis_mellifera_s_000968.png",
+      "mean_similarity": 0.9369121789932251,
+      "rank": 136
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\africanized_honey_bee_s_000500.png",
+      "mean_similarity": 0.9368248581886292,
+      "rank": 137
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\honeybee_s_001259.png",
+      "mean_similarity": 0.9368219971656799,
+      "rank": 138
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\black_bee_s_000494.png",
+      "mean_similarity": 0.9368041753768921,
+      "rank": 139
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\honeybee_s_001095.png",
+      "mean_similarity": 0.9366768598556519,
+      "rank": 140
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\honeybee_s_001313.png",
+      "mean_similarity": 0.9366289377212524,
+      "rank": 141
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\honeybee_s_000091.png",
+      "mean_similarity": 0.9366232752799988,
+      "rank": 142
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\apis_mellifera_s_001041.png",
+      "mean_similarity": 0.9366216659545898,
+      "rank": 143
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\honeybee_s_000331.png",
+      "mean_similarity": 0.9366154074668884,
+      "rank": 144
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\honeybee_s_000372.png",
+      "mean_similarity": 0.9365972876548767,
+      "rank": 145
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\bee_s_000534.png",
+      "mean_similarity": 0.9365655183792114,
+      "rank": 146
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\apis_mellifera_s_001554.png",
+      "mean_similarity": 0.9364827275276184,
+      "rank": 147
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\honeybee_s_001137.png",
+      "mean_similarity": 0.9364298582077026,
+      "rank": 148
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\apis_mellifera_s_000309.png",
+      "mean_similarity": 0.9364145398139954,
+      "rank": 149
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\africanized_bee_s_000130.png",
+      "mean_similarity": 0.9364095330238342,
+      "rank": 150
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\honeybee_s_001784.png",
+      "mean_similarity": 0.9363276362419128,
+      "rank": 151
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\honeybee_s_000459.png",
+      "mean_similarity": 0.9362988471984863,
+      "rank": 152
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\honeybee_s_000753.png",
+      "mean_similarity": 0.9362930655479431,
+      "rank": 153
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\honeybee_s_001216.png",
+      "mean_similarity": 0.9362654089927673,
+      "rank": 154
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\africanized_honey_bee_s_000036.png",
+      "mean_similarity": 0.9361833930015564,
+      "rank": 155
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\bee_s_002206.png",
+      "mean_similarity": 0.9361786246299744,
+      "rank": 156
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\apis_mellifera_s_000900.png",
+      "mean_similarity": 0.9361593127250671,
+      "rank": 157
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\honeybee_s_000527.png",
+      "mean_similarity": 0.9361384510993958,
+      "rank": 158
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\honeybee_s_000505.png",
+      "mean_similarity": 0.936095118522644,
+      "rank": 159
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\apis_mellifera_s_000172.png",
+      "mean_similarity": 0.9360787272453308,
+      "rank": 160
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\honeybee_s_000321.png",
+      "mean_similarity": 0.9360083937644958,
+      "rank": 161
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\bee_s_000462.png",
+      "mean_similarity": 0.9359797835350037,
+      "rank": 162
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\carniolan_bee_s_000145.png",
+      "mean_similarity": 0.935976505279541,
+      "rank": 163
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\black_bee_s_000115.png",
+      "mean_similarity": 0.9359374642372131,
+      "rank": 164
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\honeybee_s_002143.png",
+      "mean_similarity": 0.9358463883399963,
+      "rank": 165
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\honeybee_s_001334.png",
+      "mean_similarity": 0.9358210563659668,
+      "rank": 166
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\honeybee_s_001903.png",
+      "mean_similarity": 0.9358087778091431,
+      "rank": 167
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\honeybee_s_000956.png",
+      "mean_similarity": 0.935685932636261,
+      "rank": 168
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\bee_s_000933.png",
+      "mean_similarity": 0.9356632232666016,
+      "rank": 169
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\apis_mellifera_s_000015.png",
+      "mean_similarity": 0.9356239438056946,
+      "rank": 170
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\honeybee_s_000180.png",
+      "mean_similarity": 0.935623824596405,
+      "rank": 171
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\honeybee_s_000152.png",
+      "mean_similarity": 0.9355998635292053,
+      "rank": 172
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\bee_s_000533.png",
+      "mean_similarity": 0.9355989098548889,
+      "rank": 173
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\honeybee_s_001234.png",
+      "mean_similarity": 0.9355750679969788,
+      "rank": 174
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\honeybee_s_000948.png",
+      "mean_similarity": 0.9355745911598206,
+      "rank": 175
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\bee_s_001393.png",
+      "mean_similarity": 0.9355325698852539,
+      "rank": 176
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\bee_s_000085.png",
+      "mean_similarity": 0.9354304075241089,
+      "rank": 177
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\apis_mellifera_s_001212.png",
+      "mean_similarity": 0.9354202747344971,
+      "rank": 178
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\honeybee_s_001721.png",
+      "mean_similarity": 0.9353690147399902,
+      "rank": 179
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\bee_s_000439.png",
+      "mean_similarity": 0.9353679418563843,
+      "rank": 180
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\apis_mellifera_s_000915.png",
+      "mean_similarity": 0.9353635311126709,
+      "rank": 181
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\honeybee_s_000955.png",
+      "mean_similarity": 0.9353148341178894,
+      "rank": 182
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\apis_mellifera_s_000292.png",
+      "mean_similarity": 0.9352625608444214,
+      "rank": 183
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\apis_mellifera_s_000468.png",
+      "mean_similarity": 0.9352596998214722,
+      "rank": 184
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\bee_s_001704.png",
+      "mean_similarity": 0.9352492690086365,
+      "rank": 185
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\bee_s_001326.png",
+      "mean_similarity": 0.9352357983589172,
+      "rank": 186
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\apis_mellifera_s_000902.png",
+      "mean_similarity": 0.9352041482925415,
+      "rank": 187
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\carpenter_bee_s_000440.png",
+      "mean_similarity": 0.9351921081542969,
+      "rank": 188
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\bee_s_000038.png",
+      "mean_similarity": 0.9351797103881836,
+      "rank": 189
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\drone_s_000078.png",
+      "mean_similarity": 0.9351539611816406,
+      "rank": 190
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\honeybee_s_001257.png",
+      "mean_similarity": 0.9350782036781311,
+      "rank": 191
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\carpenter_bee_s_000129.png",
+      "mean_similarity": 0.9350727796554565,
+      "rank": 192
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\honeybee_s_000716.png",
+      "mean_similarity": 0.9350648522377014,
+      "rank": 193
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\honeybee_s_001637.png",
+      "mean_similarity": 0.9350379109382629,
+      "rank": 194
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\bee_s_000002.png",
+      "mean_similarity": 0.9350197315216064,
+      "rank": 195
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\apis_mellifera_s_001085.png",
+      "mean_similarity": 0.9349391460418701,
+      "rank": 196
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\honeybee_s_000880.png",
+      "mean_similarity": 0.9349256753921509,
+      "rank": 197
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\apis_mellifera_s_000507.png",
+      "mean_similarity": 0.934849202632904,
+      "rank": 198
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\honeybee_s_001209.png",
+      "mean_similarity": 0.9347700476646423,
+      "rank": 199
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\honeybee_s_000383.png",
+      "mean_similarity": 0.9346796870231628,
+      "rank": 200
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\apis_mellifera_s_000999.png",
+      "mean_similarity": 0.9346638917922974,
+      "rank": 201
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\bee_s_002066.png",
+      "mean_similarity": 0.9346181750297546,
+      "rank": 202
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\bee_s_000348.png",
+      "mean_similarity": 0.9345711469650269,
+      "rank": 203
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\bee_s_000162.png",
+      "mean_similarity": 0.9344590306282043,
+      "rank": 204
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\bee_s_000378.png",
+      "mean_similarity": 0.9344481825828552,
+      "rank": 205
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\honeybee_s_000933.png",
+      "mean_similarity": 0.9343838095664978,
+      "rank": 206
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\honeybee_s_000816.png",
+      "mean_similarity": 0.9343801140785217,
+      "rank": 207
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\apis_mellifera_s_001161.png",
+      "mean_similarity": 0.9343156814575195,
+      "rank": 208
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\apis_mellifera_s_000314.png",
+      "mean_similarity": 0.9343045353889465,
+      "rank": 209
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\honeybee_s_000837.png",
+      "mean_similarity": 0.9342792630195618,
+      "rank": 210
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\honeybee_s_000197.png",
+      "mean_similarity": 0.934217095375061,
+      "rank": 211
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\honeybee_s_001543.png",
+      "mean_similarity": 0.9342116117477417,
+      "rank": 212
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\honeybee_s_000561.png",
+      "mean_similarity": 0.9341740608215332,
+      "rank": 213
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\bee_s_001258.png",
+      "mean_similarity": 0.9341644644737244,
+      "rank": 214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\apis_mellifera_s_000223.png",
+      "mean_similarity": 0.934150755405426,
+      "rank": 215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\honeybee_s_000312.png",
+      "mean_similarity": 0.934114396572113,
+      "rank": 216
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\honeybee_s_000001.png",
+      "mean_similarity": 0.934095025062561,
+      "rank": 217
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\honeybee_s_000159.png",
+      "mean_similarity": 0.9340549111366272,
+      "rank": 218
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\honeybee_s_001956.png",
+      "mean_similarity": 0.9340429306030273,
+      "rank": 219
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\bee_s_001035.png",
+      "mean_similarity": 0.9340103268623352,
+      "rank": 220
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\apis_mellifera_s_001720.png",
+      "mean_similarity": 0.9340015649795532,
+      "rank": 221
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\bee_s_000001.png",
+      "mean_similarity": 0.93398517370224,
+      "rank": 222
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\bee_s_000465.png",
+      "mean_similarity": 0.9339596033096313,
+      "rank": 223
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\carpenter_bee_s_000231.png",
+      "mean_similarity": 0.9339287877082825,
+      "rank": 224
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\bee_s_001805.png",
+      "mean_similarity": 0.9338632225990295,
+      "rank": 225
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\honeybee_s_000746.png",
+      "mean_similarity": 0.9338265657424927,
+      "rank": 226
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\carpenter_bee_s_000023.png",
+      "mean_similarity": 0.9338228702545166,
+      "rank": 227
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\honeybee_s_000006.png",
+      "mean_similarity": 0.9337901473045349,
+      "rank": 228
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\apis_mellifera_s_000436.png",
+      "mean_similarity": 0.933783233165741,
+      "rank": 229
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\apis_mellifera_s_000957.png",
+      "mean_similarity": 0.9337515234947205,
+      "rank": 230
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\honeybee_s_000937.png",
+      "mean_similarity": 0.9337360262870789,
+      "rank": 231
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\apis_mellifera_s_001687.png",
+      "mean_similarity": 0.933717668056488,
+      "rank": 232
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\honeybee_s_001912.png",
+      "mean_similarity": 0.9337078332901001,
+      "rank": 233
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\apis_mellifera_s_000035.png",
+      "mean_similarity": 0.9335736036300659,
+      "rank": 234
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\honeybee_s_000213.png",
+      "mean_similarity": 0.9335580468177795,
+      "rank": 235
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\honeybee_s_000008.png",
+      "mean_similarity": 0.9334881901741028,
+      "rank": 236
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\drone_s_000073.png",
+      "mean_similarity": 0.933392345905304,
+      "rank": 237
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\honeybee_s_001210.png",
+      "mean_similarity": 0.9333695769309998,
+      "rank": 238
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\drone_s_000076.png",
+      "mean_similarity": 0.9333518147468567,
+      "rank": 239
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\honeybee_s_002089.png",
+      "mean_similarity": 0.933326780796051,
+      "rank": 240
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\bee_s_001846.png",
+      "mean_similarity": 0.9332666993141174,
+      "rank": 241
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\honeybee_s_002199.png",
+      "mean_similarity": 0.9332523941993713,
+      "rank": 242
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\apis_mellifera_s_000178.png",
+      "mean_similarity": 0.9332141280174255,
+      "rank": 243
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\bee_s_000374.png",
+      "mean_similarity": 0.9331380128860474,
+      "rank": 244
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\honeybee_s_001739.png",
+      "mean_similarity": 0.9331294298171997,
+      "rank": 245
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\honeybee_s_002284.png",
+      "mean_similarity": 0.9330304265022278,
+      "rank": 246
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\carpenter_bee_s_000028.png",
+      "mean_similarity": 0.9329361915588379,
+      "rank": 247
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\bee_s_000419.png",
+      "mean_similarity": 0.9329226613044739,
+      "rank": 248
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\killer_bee_s_000010.png",
+      "mean_similarity": 0.9328559637069702,
+      "rank": 249
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\apis_mellifera_s_001558.png",
+      "mean_similarity": 0.932839572429657,
+      "rank": 250
+    }
+  ]
+}

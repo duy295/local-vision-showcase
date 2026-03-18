@@ -1,0 +1,26 @@
+{
+  "class_name": "koala",
+  "global_description": "Small marsupial with a stout, rounded body and large, fluffy ears. Its fur is thick and soft, predominantly gray with a lighter underside. The face is flat with a large, black nose and small, dark eyes. It has strong limbs with sharp claws for climbing.",
+  "discriminative_attributes": [
+    "Stout, rounded body",
+    "Large, fluffy ears",
+    "Thick, soft gray fur",
+    "Flat face with large black nose",
+    "Strong limbs with sharp claws"
+  ],
+  "part_details": {
+    "head": "Flat with large black nose and small dark eyes",
+    "ears": "Large and fluffy, covered in soft fur",
+    "body": "Stout and rounded, covered in thick gray fur",
+    "limbs": "Strong with sharp claws for climbing",
+    "fur": "Thick, soft, predominantly gray with lighter underside"
+  },
+  "spatial_relations": [
+    "Ears positioned on top of head",
+    "Nose centered on flat face",
+    "Limbs attached to sides of body",
+    "Claws at end of limbs"
+  ],
+  "original_dataset_key": "ImageNetR",
+  "original_class_key": "koala"
+}

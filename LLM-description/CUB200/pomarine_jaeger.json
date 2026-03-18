@@ -1,0 +1,24 @@
+{
+  "class_name": "Bird",
+  "global_description": "A medium-sized seabird with a robust body and a slightly hooked bill. It features a dark brown upper body and a lighter, mottled underbody. The wings are long and pointed, with a distinctive white patch near the base. The tail is broad and rounded, often with central feathers projecting slightly.",
+  "discriminative_attributes": [
+    "Dark brown upper body",
+    "Mottled lighter underbody",
+    "Long pointed wings with white patch",
+    "Broad rounded tail with central projection",
+    "Slightly hooked bill"
+  ],
+  "part_details": {
+    "bill": "Slightly hooked, medium length, dark at the tip.",
+    "wings": "Long, pointed, dark brown with a white patch near the base.",
+    "tail": "Broad, rounded, dark with central feathers projecting slightly.",
+    "body": "Robust, dark brown upper, lighter mottled underbody."
+  },
+  "spatial_relations": [
+    "The wings extend laterally from the body.",
+    "The tail is positioned at the rear, projecting slightly.",
+    "The bill is located at the front of the head."
+  ],
+  "original_dataset_key": "CUB200",
+  "original_class_key": "pomarine_jaeger"
+}

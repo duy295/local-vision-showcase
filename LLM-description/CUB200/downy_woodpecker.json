@@ -1,0 +1,26 @@
+{
+  "class_name": "Bird",
+  "global_description": "A small, compact bird with a black and white plumage, featuring a short, chisel-like bill. The body is predominantly black and white with a distinctive red patch on the back of the head in males. The wings are black with white spots, and the underparts are white.",
+  "discriminative_attributes": [
+    "Black and white plumage",
+    "Red patch on male's head",
+    "Short chisel-like bill",
+    "White spotted black wings",
+    "Compact body shape"
+  ],
+  "part_details": {
+    "head": "Black with a white stripe above the eye and a red patch on the nape in males.",
+    "bill": "Short, straight, and chisel-like, ideal for pecking wood.",
+    "wings": "Black with white spots, providing a speckled appearance.",
+    "underparts": "White, contrasting with the darker upper body.",
+    "tail": "Black with white outer feathers, aiding in balance."
+  },
+  "spatial_relations": [
+    "The red patch is located on the back of the male's head.",
+    "The white stripe runs above the eye on the black head.",
+    "The wings are attached to the sides of the compact body.",
+    "The tail extends from the rear, aiding in balance."
+  ],
+  "original_dataset_key": "CUB200",
+  "original_class_key": "downy_woodpecker"
+}

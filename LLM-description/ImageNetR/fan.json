@@ -1,0 +1,26 @@
+{
+  "class_name": "fan",
+  "global_description": "Circular device with rotating blades, typically metallic or plastic, mounted on a base or stand. It features a protective grille, often in a mesh pattern, and a control panel for speed adjustment. The blades are usually white or silver, and the body can vary in color.",
+  "discriminative_attributes": [
+    "Circular shape",
+    "Rotating blades",
+    "Protective grille",
+    "Mounted on base",
+    "Control panel"
+  ],
+  "part_details": {
+    "blades": "Rotating, usually white or silver, often three or more",
+    "grille": "Protective mesh covering the blades",
+    "base": "Sturdy, supports the fan",
+    "control_panel": "Buttons or dial for speed adjustment",
+    "body": "Varies in color, supports the structure"
+  },
+  "spatial_relations": [
+    "Blades enclosed by grille",
+    "Grille at front of body",
+    "Base supports entire fan",
+    "Control panel on body"
+  ],
+  "original_dataset_key": "ImageNetR",
+  "original_class_key": "fan"
+}

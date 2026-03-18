@@ -1,0 +1,26 @@
+{
+  "class_name": "Savannah Sparrow",
+  "global_description": "A small, slender songbird with a streaked brown and white plumage. It has a short, conical bill and a distinctive yellowish eyebrow stripe. The wings and tail are brown with darker streaks, and the underparts are white with brown streaks.",
+  "discriminative_attributes": [
+    "Yellowish eyebrow stripe",
+    "Streaked brown and white plumage",
+    "Short conical bill",
+    "Brown wings with dark streaks",
+    "White underparts with brown streaks"
+  ],
+  "part_details": {
+    "head": "Small, rounded with a yellowish eyebrow stripe and a short, conical bill.",
+    "wings": "Brown with darker streaks, medium length.",
+    "tail": "Short, brown with streaks, slightly forked.",
+    "underparts": "White with brown streaks, smooth texture.",
+    "plumage": "Overall streaked brown and white, providing camouflage."
+  },
+  "spatial_relations": [
+    "The yellowish eyebrow stripe runs above the eye.",
+    "The short bill is positioned at the front of the head.",
+    "The wings are attached to the sides of the body.",
+    "The tail extends from the rear of the body."
+  ],
+  "original_dataset_key": "CUB200",
+  "original_class_key": "savannah_sparrow"
+}

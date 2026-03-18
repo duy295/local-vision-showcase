@@ -1,0 +1,25 @@
+{
+  "class_name": "plain",
+  "global_description": "A vast, flat expanse of land with minimal elevation changes, often covered in grasses or sparse vegetation. The landscape is typically open and wide, with a horizon that stretches far into the distance. The colors are usually earthy tones, such as greens, browns, and yellows, depending on the season and vegetation.",
+  "discriminative_attributes": [
+    "Flat and expansive",
+    "Minimal elevation changes",
+    "Sparse vegetation",
+    "Wide open horizon",
+    "Earthy tones"
+  ],
+  "part_details": {
+    "landscape": "Flat and open, stretching far with minimal elevation changes.",
+    "vegetation": "Sparse, mostly grasses or low shrubs, varying in color with seasons.",
+    "horizon": "Wide and distant, creating a sense of vastness.",
+    "soil": "Earthy tones, often brown or yellowish, visible in patches.",
+    "sky": "Often expansive and clear, enhancing the openness of the plain."
+  },
+  "spatial_relations": [
+    "Vegetation scattered across the flat landscape",
+    "Horizon visible far in the distance",
+    "Sky above the open plain"
+  ],
+  "original_dataset_key": "cifar100",
+  "original_class_key": "plain"
+}

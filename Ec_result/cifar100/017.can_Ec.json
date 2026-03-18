@@ -1,0 +1,1259 @@
+{
+  "class_name": "can",
+  "class_idx": 16,
+  "num_images_in_class": 500,
+  "ec_size_requested": 250,
+  "ec_size_actual": 250,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\beer_can_s_001075.png",
+      "mean_similarity": 0.9395140409469604,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\soda_can_s_000322.png",
+      "mean_similarity": 0.9393576383590698,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\beer_can_s_002113.png",
+      "mean_similarity": 0.939232587814331,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\beer_can_s_001493.png",
+      "mean_similarity": 0.9392111301422119,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\soda_can_s_000190.png",
+      "mean_similarity": 0.9391958117485046,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\beer_can_s_000692.png",
+      "mean_similarity": 0.9388824105262756,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\soda_can_s_001103.png",
+      "mean_similarity": 0.938880205154419,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\coffee_can_s_001630.png",
+      "mean_similarity": 0.9386418461799622,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\soda_can_s_000946.png",
+      "mean_similarity": 0.9384737610816956,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\beer_can_s_002507.png",
+      "mean_similarity": 0.9384217858314514,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\beer_can_s_002665.png",
+      "mean_similarity": 0.9384117722511292,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\tin_can_s_001685.png",
+      "mean_similarity": 0.938320517539978,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\coffee_can_s_000195.png",
+      "mean_similarity": 0.938286304473877,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\coffee_can_s_000060.png",
+      "mean_similarity": 0.9382799863815308,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\beer_can_s_002664.png",
+      "mean_similarity": 0.9382798075675964,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\oilcan_s_000572.png",
+      "mean_similarity": 0.9382597208023071,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\tin_can_s_001802.png",
+      "mean_similarity": 0.9381246566772461,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\soda_can_s_000262.png",
+      "mean_similarity": 0.9380958080291748,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\beer_can_s_000436.png",
+      "mean_similarity": 0.9380659461021423,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\tin_can_s_001650.png",
+      "mean_similarity": 0.9379935264587402,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\beer_can_s_000113.png",
+      "mean_similarity": 0.9379814267158508,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\beer_can_s_001877.png",
+      "mean_similarity": 0.9379796385765076,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\soda_can_s_000250.png",
+      "mean_similarity": 0.9378751516342163,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\beer_can_s_000003.png",
+      "mean_similarity": 0.9377753138542175,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\soda_can_s_000855.png",
+      "mean_similarity": 0.9377022981643677,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\soda_can_s_000012.png",
+      "mean_similarity": 0.9376941323280334,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\beer_can_s_000111.png",
+      "mean_similarity": 0.9376572966575623,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\milk_can_s_000439.png",
+      "mean_similarity": 0.9376412630081177,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\soda_can_s_000455.png",
+      "mean_similarity": 0.9376242160797119,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\soda_can_s_001147.png",
+      "mean_similarity": 0.9375911355018616,
+      "rank": 30
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\coffee_can_s_002355.png",
+      "mean_similarity": 0.9375879764556885,
+      "rank": 31
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\soda_can_s_000663.png",
+      "mean_similarity": 0.9375795125961304,
+      "rank": 32
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\beer_can_s_002247.png",
+      "mean_similarity": 0.9375172853469849,
+      "rank": 33
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\tin_can_s_001118.png",
+      "mean_similarity": 0.9373546242713928,
+      "rank": 34
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\beer_can_s_000061.png",
+      "mean_similarity": 0.9372304677963257,
+      "rank": 35
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\coffee_can_s_001969.png",
+      "mean_similarity": 0.937229335308075,
+      "rank": 36
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\beer_can_s_000663.png",
+      "mean_similarity": 0.9371184706687927,
+      "rank": 37
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\soda_can_s_000848.png",
+      "mean_similarity": 0.9370678067207336,
+      "rank": 38
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\oilcan_s_000376.png",
+      "mean_similarity": 0.9370349645614624,
+      "rank": 39
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\soda_can_s_000281.png",
+      "mean_similarity": 0.9369103312492371,
+      "rank": 40
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\oilcan_s_000747.png",
+      "mean_similarity": 0.9368959665298462,
+      "rank": 41
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\soda_can_s_000141.png",
+      "mean_similarity": 0.9368357062339783,
+      "rank": 42
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\soda_can_s_000857.png",
+      "mean_similarity": 0.9368274211883545,
+      "rank": 43
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\beer_can_s_001848.png",
+      "mean_similarity": 0.936789870262146,
+      "rank": 44
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\soda_can_s_001702.png",
+      "mean_similarity": 0.9367397427558899,
+      "rank": 45
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\beer_can_s_000031.png",
+      "mean_similarity": 0.9366994500160217,
+      "rank": 46
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\beer_can_s_001399.png",
+      "mean_similarity": 0.9366278648376465,
+      "rank": 47
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\oilcan_s_000461.png",
+      "mean_similarity": 0.9366050362586975,
+      "rank": 48
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\beer_can_s_002376.png",
+      "mean_similarity": 0.9365049004554749,
+      "rank": 49
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\beer_can_s_000337.png",
+      "mean_similarity": 0.936503529548645,
+      "rank": 50
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\milk_can_s_000941.png",
+      "mean_similarity": 0.9364943504333496,
+      "rank": 51
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\coffee_can_s_000567.png",
+      "mean_similarity": 0.9364209175109863,
+      "rank": 52
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\beer_can_s_000046.png",
+      "mean_similarity": 0.9364164471626282,
+      "rank": 53
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\soda_can_s_000664.png",
+      "mean_similarity": 0.9364164471626282,
+      "rank": 54
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\soda_can_s_000670.png",
+      "mean_similarity": 0.9363818764686584,
+      "rank": 55
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\milk_can_s_000174.png",
+      "mean_similarity": 0.936377763748169,
+      "rank": 56
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\soda_can_s_002025.png",
+      "mean_similarity": 0.9363168478012085,
+      "rank": 57
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\tin_can_s_002065.png",
+      "mean_similarity": 0.9362978935241699,
+      "rank": 58
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\soda_can_s_000860.png",
+      "mean_similarity": 0.9362777471542358,
+      "rank": 59
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\oilcan_s_000570.png",
+      "mean_similarity": 0.9362590312957764,
+      "rank": 60
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\coffee_can_s_000344.png",
+      "mean_similarity": 0.9362257122993469,
+      "rank": 61
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\coffee_can_s_000103.png",
+      "mean_similarity": 0.9361069798469543,
+      "rank": 62
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\beer_can_s_000553.png",
+      "mean_similarity": 0.9360027313232422,
+      "rank": 63
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\beer_can_s_003140.png",
+      "mean_similarity": 0.9359919428825378,
+      "rank": 64
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\soda_can_s_000846.png",
+      "mean_similarity": 0.9359801411628723,
+      "rank": 65
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\soda_can_s_000660.png",
+      "mean_similarity": 0.9359714388847351,
+      "rank": 66
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\soda_can_s_000666.png",
+      "mean_similarity": 0.9359435439109802,
+      "rank": 67
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\coffee_can_s_001054.png",
+      "mean_similarity": 0.9358417987823486,
+      "rank": 68
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\soda_can_s_000313.png",
+      "mean_similarity": 0.935836672782898,
+      "rank": 69
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\soda_can_s_000942.png",
+      "mean_similarity": 0.9357750415802002,
+      "rank": 70
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\tin_can_s_001348.png",
+      "mean_similarity": 0.9356405735015869,
+      "rank": 71
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\soda_can_s_000497.png",
+      "mean_similarity": 0.9356329441070557,
+      "rank": 72
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\soda_can_s_001121.png",
+      "mean_similarity": 0.9356141686439514,
+      "rank": 73
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\beer_can_s_001650.png",
+      "mean_similarity": 0.9356098771095276,
+      "rank": 74
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\soda_can_s_000560.png",
+      "mean_similarity": 0.9356058239936829,
+      "rank": 75
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\beer_can_s_002008.png",
+      "mean_similarity": 0.9355708956718445,
+      "rank": 76
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\milk_can_s_000236.png",
+      "mean_similarity": 0.9355456829071045,
+      "rank": 77
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\beer_can_s_000057.png",
+      "mean_similarity": 0.9355132579803467,
+      "rank": 78
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\soda_can_s_000104.png",
+      "mean_similarity": 0.9355095624923706,
+      "rank": 79
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\coffee_can_s_002120.png",
+      "mean_similarity": 0.9354860186576843,
+      "rank": 80
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\soda_can_s_001275.png",
+      "mean_similarity": 0.935482919216156,
+      "rank": 81
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\soda_can_s_000383.png",
+      "mean_similarity": 0.935462474822998,
+      "rank": 82
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\oilcan_s_001315.png",
+      "mean_similarity": 0.9353846907615662,
+      "rank": 83
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\beer_can_s_000590.png",
+      "mean_similarity": 0.9353497624397278,
+      "rank": 84
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\beer_can_s_002846.png",
+      "mean_similarity": 0.935318112373352,
+      "rank": 85
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\soda_can_s_000015.png",
+      "mean_similarity": 0.9353172183036804,
+      "rank": 86
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\beer_can_s_000002.png",
+      "mean_similarity": 0.9352942705154419,
+      "rank": 87
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\coffee_can_s_000925.png",
+      "mean_similarity": 0.9352518916130066,
+      "rank": 88
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\oilcan_s_000395.png",
+      "mean_similarity": 0.9352131485939026,
+      "rank": 89
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\coffee_can_s_000829.png",
+      "mean_similarity": 0.9351283311843872,
+      "rank": 90
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\coffee_can_s_002011.png",
+      "mean_similarity": 0.9351176619529724,
+      "rank": 91
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\beer_can_s_002308.png",
+      "mean_similarity": 0.9351120591163635,
+      "rank": 92
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\oilcan_s_001015.png",
+      "mean_similarity": 0.9350504279136658,
+      "rank": 93
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\soda_can_s_000656.png",
+      "mean_similarity": 0.9349988102912903,
+      "rank": 94
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\oilcan_s_000534.png",
+      "mean_similarity": 0.934928834438324,
+      "rank": 95
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\beer_can_s_000466.png",
+      "mean_similarity": 0.9349267482757568,
+      "rank": 96
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\soda_can_s_000578.png",
+      "mean_similarity": 0.9349254369735718,
+      "rank": 97
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\oilcan_s_001197.png",
+      "mean_similarity": 0.934891402721405,
+      "rank": 98
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\soda_can_s_000565.png",
+      "mean_similarity": 0.9348781704902649,
+      "rank": 99
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\beer_can_s_000292.png",
+      "mean_similarity": 0.9348443150520325,
+      "rank": 100
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\soda_can_s_000099.png",
+      "mean_similarity": 0.9348310828208923,
+      "rank": 101
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\soda_can_s_000638.png",
+      "mean_similarity": 0.9347988367080688,
+      "rank": 102
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\beer_can_s_002383.png",
+      "mean_similarity": 0.9347490072250366,
+      "rank": 103
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\beer_can_s_000977.png",
+      "mean_similarity": 0.9347469210624695,
+      "rank": 104
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\soda_can_s_000174.png",
+      "mean_similarity": 0.9347399473190308,
+      "rank": 105
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\milk_can_s_000828.png",
+      "mean_similarity": 0.9347314834594727,
+      "rank": 106
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\soda_can_s_000017.png",
+      "mean_similarity": 0.934727132320404,
+      "rank": 107
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\soda_can_s_000520.png",
+      "mean_similarity": 0.9347152709960938,
+      "rank": 108
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\soda_can_s_001803.png",
+      "mean_similarity": 0.9346977472305298,
+      "rank": 109
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\pot_s_000023.png",
+      "mean_similarity": 0.9346625208854675,
+      "rank": 110
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\soda_can_s_000767.png",
+      "mean_similarity": 0.9346277117729187,
+      "rank": 111
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\soda_can_s_000659.png",
+      "mean_similarity": 0.9345930218696594,
+      "rank": 112
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\milk_can_s_000434.png",
+      "mean_similarity": 0.9345268607139587,
+      "rank": 113
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\soda_can_s_000559.png",
+      "mean_similarity": 0.9345011711120605,
+      "rank": 114
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\flush_toilet_s_000341.png",
+      "mean_similarity": 0.9344843626022339,
+      "rank": 115
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\beer_can_s_000010.png",
+      "mean_similarity": 0.9344624280929565,
+      "rank": 116
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\oilcan_s_000653.png",
+      "mean_similarity": 0.9344092011451721,
+      "rank": 117
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\coffee_can_s_000768.png",
+      "mean_similarity": 0.9342992901802063,
+      "rank": 118
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\beer_can_s_000019.png",
+      "mean_similarity": 0.9341940879821777,
+      "rank": 119
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\beer_can_s_000990.png",
+      "mean_similarity": 0.9341834187507629,
+      "rank": 120
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\beer_can_s_001357.png",
+      "mean_similarity": 0.934171736240387,
+      "rank": 121
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\milk_can_s_001411.png",
+      "mean_similarity": 0.9341675639152527,
+      "rank": 122
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\milk_can_s_000807.png",
+      "mean_similarity": 0.9341067671775818,
+      "rank": 123
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\soda_can_s_001151.png",
+      "mean_similarity": 0.9340097308158875,
+      "rank": 124
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\soda_can_s_001339.png",
+      "mean_similarity": 0.9339886903762817,
+      "rank": 125
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\beer_can_s_000306.png",
+      "mean_similarity": 0.9339866638183594,
+      "rank": 126
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\beer_can_s_000026.png",
+      "mean_similarity": 0.9339297413825989,
+      "rank": 127
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\soda_can_s_000949.png",
+      "mean_similarity": 0.9339185357093811,
+      "rank": 128
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\soda_can_s_000061.png",
+      "mean_similarity": 0.9338675737380981,
+      "rank": 129
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\soda_can_s_000768.png",
+      "mean_similarity": 0.9338352084159851,
+      "rank": 130
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\soda_can_s_000482.png",
+      "mean_similarity": 0.9338289499282837,
+      "rank": 131
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\soda_can_s_000665.png",
+      "mean_similarity": 0.9338055849075317,
+      "rank": 132
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\beer_can_s_000012.png",
+      "mean_similarity": 0.933789074420929,
+      "rank": 133
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\beer_can_s_000152.png",
+      "mean_similarity": 0.933771550655365,
+      "rank": 134
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\beer_can_s_000151.png",
+      "mean_similarity": 0.9337318539619446,
+      "rank": 135
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\coffee_can_s_001585.png",
+      "mean_similarity": 0.9337267279624939,
+      "rank": 136
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\coffee_can_s_002101.png",
+      "mean_similarity": 0.9337039589881897,
+      "rank": 137
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\oilcan_s_000459.png",
+      "mean_similarity": 0.9336699843406677,
+      "rank": 138
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\beer_can_s_000013.png",
+      "mean_similarity": 0.9336485862731934,
+      "rank": 139
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\soda_can_s_000764.png",
+      "mean_similarity": 0.9336262941360474,
+      "rank": 140
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\coffee_can_s_000090.png",
+      "mean_similarity": 0.9335721135139465,
+      "rank": 141
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\beer_can_s_001248.png",
+      "mean_similarity": 0.9334427118301392,
+      "rank": 142
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\beer_can_s_001349.png",
+      "mean_similarity": 0.9334219098091125,
+      "rank": 143
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\coffee_can_s_001688.png",
+      "mean_similarity": 0.9333838820457458,
+      "rank": 144
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\coffee_can_s_000005.png",
+      "mean_similarity": 0.933379590511322,
+      "rank": 145
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\beer_can_s_001611.png",
+      "mean_similarity": 0.9333788752555847,
+      "rank": 146
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\soda_can_s_001149.png",
+      "mean_similarity": 0.9333687424659729,
+      "rank": 147
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\soda_can_s_000115.png",
+      "mean_similarity": 0.9333165884017944,
+      "rank": 148
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\soda_can_s_000456.png",
+      "mean_similarity": 0.9333134293556213,
+      "rank": 149
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\coffee_can_s_001162.png",
+      "mean_similarity": 0.9332982301712036,
+      "rank": 150
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\oilcan_s_000469.png",
+      "mean_similarity": 0.9332170486450195,
+      "rank": 151
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\soda_can_s_000442.png",
+      "mean_similarity": 0.9331973791122437,
+      "rank": 152
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\soda_can_s_000662.png",
+      "mean_similarity": 0.9331508874893188,
+      "rank": 153
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\soda_can_s_000657.png",
+      "mean_similarity": 0.9331492781639099,
+      "rank": 154
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\soda_can_s_000473.png",
+      "mean_similarity": 0.9331165552139282,
+      "rank": 155
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\coffee_can_s_001653.png",
+      "mean_similarity": 0.9331113696098328,
+      "rank": 156
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\oilcan_s_001207.png",
+      "mean_similarity": 0.9330854415893555,
+      "rank": 157
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\milk_can_s_000521.png",
+      "mean_similarity": 0.9330416321754456,
+      "rank": 158
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\beer_can_s_000399.png",
+      "mean_similarity": 0.9330146908760071,
+      "rank": 159
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\tin_can_s_002022.png",
+      "mean_similarity": 0.9329947233200073,
+      "rank": 160
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\oilcan_s_000657.png",
+      "mean_similarity": 0.9329464435577393,
+      "rank": 161
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\coffee_can_s_001254.png",
+      "mean_similarity": 0.9329373836517334,
+      "rank": 162
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\beer_can_s_000414.png",
+      "mean_similarity": 0.9328938126564026,
+      "rank": 163
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\soda_can_s_000890.png",
+      "mean_similarity": 0.9328816533088684,
+      "rank": 164
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\oilcan_s_000649.png",
+      "mean_similarity": 0.9328784346580505,
+      "rank": 165
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\oilcan_s_001626.png",
+      "mean_similarity": 0.9328489303588867,
+      "rank": 166
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\soda_can_s_000121.png",
+      "mean_similarity": 0.93278968334198,
+      "rank": 167
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\beer_can_s_001062.png",
+      "mean_similarity": 0.9327614307403564,
+      "rank": 168
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\milk_can_s_001487.png",
+      "mean_similarity": 0.9327194690704346,
+      "rank": 169
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\beer_can_s_002776.png",
+      "mean_similarity": 0.9327072501182556,
+      "rank": 170
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\beer_can_s_001223.png",
+      "mean_similarity": 0.9326884746551514,
+      "rank": 171
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\soda_can_s_000475.png",
+      "mean_similarity": 0.9326590299606323,
+      "rank": 172
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\oilcan_s_001417.png",
+      "mean_similarity": 0.9326504468917847,
+      "rank": 173
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\coffee_can_s_000274.png",
+      "mean_similarity": 0.9326433539390564,
+      "rank": 174
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\soda_can_s_000284.png",
+      "mean_similarity": 0.9326342940330505,
+      "rank": 175
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\soda_can_s_000053.png",
+      "mean_similarity": 0.9326215386390686,
+      "rank": 176
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\soda_can_s_000081.png",
+      "mean_similarity": 0.9325366616249084,
+      "rank": 177
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\soda_can_s_000564.png",
+      "mean_similarity": 0.9325197339057922,
+      "rank": 178
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\milk_can_s_001488.png",
+      "mean_similarity": 0.932485818862915,
+      "rank": 179
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\tin_can_s_001119.png",
+      "mean_similarity": 0.9323872327804565,
+      "rank": 180
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\milk_can_s_000922.png",
+      "mean_similarity": 0.9323847889900208,
+      "rank": 181
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\soda_can_s_000091.png",
+      "mean_similarity": 0.9323698878288269,
+      "rank": 182
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\beer_can_s_000276.png",
+      "mean_similarity": 0.9323427081108093,
+      "rank": 183
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\beer_can_s_002541.png",
+      "mean_similarity": 0.9323300123214722,
+      "rank": 184
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\tin_can_s_001035.png",
+      "mean_similarity": 0.932307779788971,
+      "rank": 185
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\soda_can_s_000248.png",
+      "mean_similarity": 0.9322909116744995,
+      "rank": 186
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\soda_can_s_000161.png",
+      "mean_similarity": 0.9322781562805176,
+      "rank": 187
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\soda_can_s_000530.png",
+      "mean_similarity": 0.9321958422660828,
+      "rank": 188
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\soda_can_s_000279.png",
+      "mean_similarity": 0.9321533441543579,
+      "rank": 189
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\tea_caddy_s_000260.png",
+      "mean_similarity": 0.9321388006210327,
+      "rank": 190
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\soda_can_s_000119.png",
+      "mean_similarity": 0.9320961236953735,
+      "rank": 191
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\beer_can_s_000187.png",
+      "mean_similarity": 0.931969165802002,
+      "rank": 192
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\beer_can_s_000720.png",
+      "mean_similarity": 0.9319248795509338,
+      "rank": 193
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\tin_can_s_002079.png",
+      "mean_similarity": 0.9319055676460266,
+      "rank": 194
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\soda_can_s_001054.png",
+      "mean_similarity": 0.9318820834159851,
+      "rank": 195
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\oilcan_s_000565.png",
+      "mean_similarity": 0.9318378567695618,
+      "rank": 196
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\milk_can_s_001007.png",
+      "mean_similarity": 0.9318020939826965,
+      "rank": 197
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\oilcan_s_000278.png",
+      "mean_similarity": 0.9317362904548645,
+      "rank": 198
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\soda_can_s_001979.png",
+      "mean_similarity": 0.9317179322242737,
+      "rank": 199
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\oilcan_s_000994.png",
+      "mean_similarity": 0.9317100048065186,
+      "rank": 200
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\soda_can_s_000065.png",
+      "mean_similarity": 0.9317048192024231,
+      "rank": 201
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\beer_can_s_001196.png",
+      "mean_similarity": 0.9316914081573486,
+      "rank": 202
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\tin_can_s_001107.png",
+      "mean_similarity": 0.9316686391830444,
+      "rank": 203
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\soda_can_s_000672.png",
+      "mean_similarity": 0.9316480755805969,
+      "rank": 204
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\milk_can_s_001275.png",
+      "mean_similarity": 0.9316425323486328,
+      "rank": 205
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\soda_can_s_000853.png",
+      "mean_similarity": 0.9316332936286926,
+      "rank": 206
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\coffee_can_s_000021.png",
+      "mean_similarity": 0.9316024780273438,
+      "rank": 207
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\soda_can_s_000863.png",
+      "mean_similarity": 0.9315911531448364,
+      "rank": 208
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\beer_can_s_002397.png",
+      "mean_similarity": 0.9315700531005859,
+      "rank": 209
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\coffee_can_s_001603.png",
+      "mean_similarity": 0.9315176606178284,
+      "rank": 210
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\milk_can_s_001400.png",
+      "mean_similarity": 0.9315029382705688,
+      "rank": 211
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\soda_can_s_000669.png",
+      "mean_similarity": 0.9314932227134705,
+      "rank": 212
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\beer_can_s_002041.png",
+      "mean_similarity": 0.9313698410987854,
+      "rank": 213
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\tin_can_s_001597.png",
+      "mean_similarity": 0.9313138127326965,
+      "rank": 214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\soda_can_s_000732.png",
+      "mean_similarity": 0.9313050508499146,
+      "rank": 215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\oilcan_s_000571.png",
+      "mean_similarity": 0.9312979578971863,
+      "rank": 216
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\coffee_can_s_000161.png",
+      "mean_similarity": 0.9312711954116821,
+      "rank": 217
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\soda_can_s_000192.png",
+      "mean_similarity": 0.9312648177146912,
+      "rank": 218
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\soda_can_s_001116.png",
+      "mean_similarity": 0.9312465786933899,
+      "rank": 219
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\beer_can_s_002398.png",
+      "mean_similarity": 0.9311729669570923,
+      "rank": 220
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\milk_can_s_001398.png",
+      "mean_similarity": 0.9311622381210327,
+      "rank": 221
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\soda_can_s_001283.png",
+      "mean_similarity": 0.9310473799705505,
+      "rank": 222
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\beer_can_s_000035.png",
+      "mean_similarity": 0.9310210943222046,
+      "rank": 223
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\tin_can_s_001168.png",
+      "mean_similarity": 0.9309921264648438,
+      "rank": 224
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\oilcan_s_000068.png",
+      "mean_similarity": 0.9309912323951721,
+      "rank": 225
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\soda_can_s_000850.png",
+      "mean_similarity": 0.9309178590774536,
+      "rank": 226
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\soda_can_s_000321.png",
+      "mean_similarity": 0.9309173822402954,
+      "rank": 227
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\beer_can_s_000135.png",
+      "mean_similarity": 0.9308637976646423,
+      "rank": 228
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\soda_can_s_000029.png",
+      "mean_similarity": 0.9308509826660156,
+      "rank": 229
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\coffee_can_s_000088.png",
+      "mean_similarity": 0.9307995438575745,
+      "rank": 230
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\coffee_can_s_000035.png",
+      "mean_similarity": 0.9307793378829956,
+      "rank": 231
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\milk_can_s_001211.png",
+      "mean_similarity": 0.930732786655426,
+      "rank": 232
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\oilcan_s_000468.png",
+      "mean_similarity": 0.9307313561439514,
+      "rank": 233
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\beer_can_s_001512.png",
+      "mean_similarity": 0.9307094812393188,
+      "rank": 234
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\pot_s_000320.png",
+      "mean_similarity": 0.9306871294975281,
+      "rank": 235
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\soda_can_s_000950.png",
+      "mean_similarity": 0.9306570291519165,
+      "rank": 236
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\soda_can_s_001967.png",
+      "mean_similarity": 0.9306246638298035,
+      "rank": 237
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\soda_can_s_001863.png",
+      "mean_similarity": 0.9305712580680847,
+      "rank": 238
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\soda_can_s_001205.png",
+      "mean_similarity": 0.9305604696273804,
+      "rank": 239
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\tin_can_s_001187.png",
+      "mean_similarity": 0.9305194020271301,
+      "rank": 240
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\beer_can_s_000050.png",
+      "mean_similarity": 0.9305165410041809,
+      "rank": 241
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\oilcan_s_000559.png",
+      "mean_similarity": 0.9304628372192383,
+      "rank": 242
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\coffee_can_s_000031.png",
+      "mean_similarity": 0.930378794670105,
+      "rank": 243
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\coffee_can_s_000542.png",
+      "mean_similarity": 0.9303469061851501,
+      "rank": 244
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\soda_can_s_000189.png",
+      "mean_similarity": 0.9303444623947144,
+      "rank": 245
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\soda_can_s_000106.png",
+      "mean_similarity": 0.9303211569786072,
+      "rank": 246
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\soda_can_s_000085.png",
+      "mean_similarity": 0.9303023815155029,
+      "rank": 247
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\coffee_can_s_001448.png",
+      "mean_similarity": 0.9302707314491272,
+      "rank": 248
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\soda_can_s_000730.png",
+      "mean_similarity": 0.9301702976226807,
+      "rank": 249
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\017.can\\coffee_can_s_001834.png",
+      "mean_similarity": 0.9301581978797913,
+      "rank": 250
+    }
+  ]
+}

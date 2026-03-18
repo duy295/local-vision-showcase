@@ -1,0 +1,1259 @@
+{
+  "class_name": "hamster",
+  "class_idx": 36,
+  "num_images_in_class": 500,
+  "ec_size_requested": 250,
+  "ec_size_actual": 250,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\hamster_s_000691.png",
+      "mean_similarity": 0.9358072876930237,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\syrian_hamster_s_000396.png",
+      "mean_similarity": 0.9352870583534241,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\hamster_s_000698.png",
+      "mean_similarity": 0.9352043867111206,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\golden_hamster_s_000277.png",
+      "mean_similarity": 0.9350264072418213,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\golden_hamster_s_000072.png",
+      "mean_similarity": 0.9345506429672241,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\hamster_s_000597.png",
+      "mean_similarity": 0.9343301057815552,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\hamster_s_002186.png",
+      "mean_similarity": 0.9340470433235168,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\golden_hamster_s_000338.png",
+      "mean_similarity": 0.9338780045509338,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\hamster_s_002150.png",
+      "mean_similarity": 0.9335253834724426,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\hamster_s_000696.png",
+      "mean_similarity": 0.9332389235496521,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\golden_hamster_s_000920.png",
+      "mean_similarity": 0.9329962730407715,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\hamster_s_002246.png",
+      "mean_similarity": 0.9329805970191956,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\hamster_s_000389.png",
+      "mean_similarity": 0.9329620003700256,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\hamster_s_001966.png",
+      "mean_similarity": 0.9326215982437134,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\hamster_s_000308.png",
+      "mean_similarity": 0.932396650314331,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\golden_hamster_s_000260.png",
+      "mean_similarity": 0.9318773746490479,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\golden_hamster_s_000497.png",
+      "mean_similarity": 0.9318500757217407,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\hamster_s_000498.png",
+      "mean_similarity": 0.9315391778945923,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\syrian_hamster_s_000690.png",
+      "mean_similarity": 0.9312984943389893,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\syrian_hamster_s_000291.png",
+      "mean_similarity": 0.9311842918395996,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\hamster_s_000297.png",
+      "mean_similarity": 0.9311633706092834,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\syrian_hamster_s_000687.png",
+      "mean_similarity": 0.9311109185218811,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\syrian_hamster_s_001482.png",
+      "mean_similarity": 0.9309555292129517,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\cricetus_cricetus_s_000422.png",
+      "mean_similarity": 0.9309338927268982,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\golden_hamster_s_000486.png",
+      "mean_similarity": 0.9309243559837341,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\syrian_hamster_s_000575.png",
+      "mean_similarity": 0.9308765530586243,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\syrian_hamster_s_000333.png",
+      "mean_similarity": 0.9308152794837952,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\golden_hamster_s_000444.png",
+      "mean_similarity": 0.9307233095169067,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\syrian_hamster_s_001521.png",
+      "mean_similarity": 0.9306915998458862,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\hamster_s_000135.png",
+      "mean_similarity": 0.9306505918502808,
+      "rank": 30
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\hamster_s_000685.png",
+      "mean_similarity": 0.9305640459060669,
+      "rank": 31
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\syrian_hamster_s_000825.png",
+      "mean_similarity": 0.9304038286209106,
+      "rank": 32
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\syrian_hamster_s_000390.png",
+      "mean_similarity": 0.9303472638130188,
+      "rank": 33
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\syrian_hamster_s_000534.png",
+      "mean_similarity": 0.9303356409072876,
+      "rank": 34
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\golden_hamster_s_001085.png",
+      "mean_similarity": 0.9302868843078613,
+      "rank": 35
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\golden_hamster_s_000669.png",
+      "mean_similarity": 0.9300416111946106,
+      "rank": 36
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\golden_hamster_s_000220.png",
+      "mean_similarity": 0.929984986782074,
+      "rank": 37
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\golden_hamster_s_001332.png",
+      "mean_similarity": 0.9299267530441284,
+      "rank": 38
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\syrian_hamster_s_000290.png",
+      "mean_similarity": 0.9298887252807617,
+      "rank": 39
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\syrian_hamster_s_001041.png",
+      "mean_similarity": 0.9298696517944336,
+      "rank": 40
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\cricetus_cricetus_s_000486.png",
+      "mean_similarity": 0.9298638105392456,
+      "rank": 41
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\golden_hamster_s_000505.png",
+      "mean_similarity": 0.9296843409538269,
+      "rank": 42
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\syrian_hamster_s_000387.png",
+      "mean_similarity": 0.929578423500061,
+      "rank": 43
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\hamster_s_002294.png",
+      "mean_similarity": 0.9295656085014343,
+      "rank": 44
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\golden_hamster_s_000021.png",
+      "mean_similarity": 0.929513692855835,
+      "rank": 45
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\syrian_hamster_s_001493.png",
+      "mean_similarity": 0.929510772228241,
+      "rank": 46
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\golden_hamster_s_000603.png",
+      "mean_similarity": 0.9294999837875366,
+      "rank": 47
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\syrian_hamster_s_000185.png",
+      "mean_similarity": 0.9294934868812561,
+      "rank": 48
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\hamster_s_000990.png",
+      "mean_similarity": 0.9294460415840149,
+      "rank": 49
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\hamster_s_000695.png",
+      "mean_similarity": 0.9294351935386658,
+      "rank": 50
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\syrian_hamster_s_000289.png",
+      "mean_similarity": 0.9294066429138184,
+      "rank": 51
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\syrian_hamster_s_000133.png",
+      "mean_similarity": 0.9293190240859985,
+      "rank": 52
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\golden_hamster_s_000565.png",
+      "mean_similarity": 0.9292685985565186,
+      "rank": 53
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\syrian_hamster_s_000643.png",
+      "mean_similarity": 0.9292144179344177,
+      "rank": 54
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\syrian_hamster_s_000001.png",
+      "mean_similarity": 0.9292095303535461,
+      "rank": 55
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\syrian_hamster_s_000682.png",
+      "mean_similarity": 0.9291340112686157,
+      "rank": 56
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\syrian_hamster_s_001089.png",
+      "mean_similarity": 0.9291054010391235,
+      "rank": 57
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\golden_hamster_s_000230.png",
+      "mean_similarity": 0.9290961027145386,
+      "rank": 58
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\hamster_s_000687.png",
+      "mean_similarity": 0.928677499294281,
+      "rank": 59
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\syrian_hamster_s_000491.png",
+      "mean_similarity": 0.9286523461341858,
+      "rank": 60
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\hamster_s_000684.png",
+      "mean_similarity": 0.9285823702812195,
+      "rank": 61
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\syrian_hamster_s_001484.png",
+      "mean_similarity": 0.9285545349121094,
+      "rank": 62
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\syrian_hamster_s_000941.png",
+      "mean_similarity": 0.9285492300987244,
+      "rank": 63
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\syrian_hamster_s_001455.png",
+      "mean_similarity": 0.9285365343093872,
+      "rank": 64
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\hamster_s_000483.png",
+      "mean_similarity": 0.9284895658493042,
+      "rank": 65
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\syrian_hamster_s_000392.png",
+      "mean_similarity": 0.928461492061615,
+      "rank": 66
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\golden_hamster_s_000598.png",
+      "mean_similarity": 0.9284586310386658,
+      "rank": 67
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\syrian_hamster_s_000389.png",
+      "mean_similarity": 0.9284167289733887,
+      "rank": 68
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\syrian_hamster_s_001088.png",
+      "mean_similarity": 0.928377628326416,
+      "rank": 69
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\hamster_s_001285.png",
+      "mean_similarity": 0.9283638000488281,
+      "rank": 70
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\hamster_s_000020.png",
+      "mean_similarity": 0.9283285737037659,
+      "rank": 71
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\golden_hamster_s_000632.png",
+      "mean_similarity": 0.9282166957855225,
+      "rank": 72
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\cricetus_cricetus_s_000531.png",
+      "mean_similarity": 0.9280415177345276,
+      "rank": 73
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\golden_hamster_s_000452.png",
+      "mean_similarity": 0.9279435873031616,
+      "rank": 74
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\hamster_s_002476.png",
+      "mean_similarity": 0.9278914332389832,
+      "rank": 75
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\golden_hamster_s_000637.png",
+      "mean_similarity": 0.9278883337974548,
+      "rank": 76
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\syrian_hamster_s_001643.png",
+      "mean_similarity": 0.9278311133384705,
+      "rank": 77
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\hamster_s_001165.png",
+      "mean_similarity": 0.9277666807174683,
+      "rank": 78
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\hamster_s_002194.png",
+      "mean_similarity": 0.9276808500289917,
+      "rank": 79
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\hamster_s_001884.png",
+      "mean_similarity": 0.9276636838912964,
+      "rank": 80
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\hamster_s_002306.png",
+      "mean_similarity": 0.9276508688926697,
+      "rank": 81
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\hamster_s_001170.png",
+      "mean_similarity": 0.9276271462440491,
+      "rank": 82
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\hamster_s_000699.png",
+      "mean_similarity": 0.927603006362915,
+      "rank": 83
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\cricetus_cricetus_s_000079.png",
+      "mean_similarity": 0.9275845289230347,
+      "rank": 84
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\hamster_s_001349.png",
+      "mean_similarity": 0.9274819493293762,
+      "rank": 85
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\cricetus_cricetus_s_000497.png",
+      "mean_similarity": 0.9274412989616394,
+      "rank": 86
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\golden_hamster_s_000293.png",
+      "mean_similarity": 0.927416980266571,
+      "rank": 87
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\cricetus_cricetus_s_000236.png",
+      "mean_similarity": 0.9273830652236938,
+      "rank": 88
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\golden_hamster_s_000736.png",
+      "mean_similarity": 0.9273181557655334,
+      "rank": 89
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\syrian_hamster_s_000549.png",
+      "mean_similarity": 0.9272722601890564,
+      "rank": 90
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\syrian_hamster_s_000533.png",
+      "mean_similarity": 0.9272522330284119,
+      "rank": 91
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\hamster_s_000134.png",
+      "mean_similarity": 0.9272289872169495,
+      "rank": 92
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\hamster_s_000510.png",
+      "mean_similarity": 0.9271620512008667,
+      "rank": 93
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\syrian_hamster_s_001587.png",
+      "mean_similarity": 0.9270477890968323,
+      "rank": 94
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\cricetus_cricetus_s_000082.png",
+      "mean_similarity": 0.9270018339157104,
+      "rank": 95
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\syrian_hamster_s_000063.png",
+      "mean_similarity": 0.9269840121269226,
+      "rank": 96
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\hamster_s_000590.png",
+      "mean_similarity": 0.9269794821739197,
+      "rank": 97
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\hamster_s_002013.png",
+      "mean_similarity": 0.9269542098045349,
+      "rank": 98
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\syrian_hamster_s_000003.png",
+      "mean_similarity": 0.926853597164154,
+      "rank": 99
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\hamster_s_001171.png",
+      "mean_similarity": 0.9267673492431641,
+      "rank": 100
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\hamster_s_002488.png",
+      "mean_similarity": 0.9267120957374573,
+      "rank": 101
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\syrian_hamster_s_001400.png",
+      "mean_similarity": 0.9266344308853149,
+      "rank": 102
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\syrian_hamster_s_000651.png",
+      "mean_similarity": 0.9265761971473694,
+      "rank": 103
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\cricetus_cricetus_s_000078.png",
+      "mean_similarity": 0.9264892339706421,
+      "rank": 104
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\hamster_s_000697.png",
+      "mean_similarity": 0.9264471530914307,
+      "rank": 105
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\golden_hamster_s_000933.png",
+      "mean_similarity": 0.9263732433319092,
+      "rank": 106
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\golden_hamster_s_000164.png",
+      "mean_similarity": 0.926273763179779,
+      "rank": 107
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\syrian_hamster_s_000445.png",
+      "mean_similarity": 0.9262574315071106,
+      "rank": 108
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\syrian_hamster_s_000489.png",
+      "mean_similarity": 0.926065981388092,
+      "rank": 109
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\hamster_s_000309.png",
+      "mean_similarity": 0.9260501861572266,
+      "rank": 110
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\syrian_hamster_s_000193.png",
+      "mean_similarity": 0.9260126948356628,
+      "rank": 111
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\cricetus_cricetus_s_000487.png",
+      "mean_similarity": 0.9259136319160461,
+      "rank": 112
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\golden_hamster_s_000257.png",
+      "mean_similarity": 0.9258860349655151,
+      "rank": 113
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\syrian_hamster_s_000340.png",
+      "mean_similarity": 0.9258635640144348,
+      "rank": 114
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\hamster_s_001000.png",
+      "mean_similarity": 0.9258387088775635,
+      "rank": 115
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\hamster_s_001172.png",
+      "mean_similarity": 0.9257996082305908,
+      "rank": 116
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\hamster_s_000669.png",
+      "mean_similarity": 0.9257729649543762,
+      "rank": 117
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\hamster_s_000054.png",
+      "mean_similarity": 0.9256560206413269,
+      "rank": 118
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\hamster_s_000686.png",
+      "mean_similarity": 0.9256539344787598,
+      "rank": 119
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\golden_hamster_s_001296.png",
+      "mean_similarity": 0.9256503582000732,
+      "rank": 120
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\hamster_s_000689.png",
+      "mean_similarity": 0.9256020784378052,
+      "rank": 121
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\syrian_hamster_s_000049.png",
+      "mean_similarity": 0.9255965948104858,
+      "rank": 122
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\golden_hamster_s_000597.png",
+      "mean_similarity": 0.9255802035331726,
+      "rank": 123
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\syrian_hamster_s_000096.png",
+      "mean_similarity": 0.9254648685455322,
+      "rank": 124
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\golden_hamster_s_000389.png",
+      "mean_similarity": 0.9253799319267273,
+      "rank": 125
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\syrian_hamster_s_000391.png",
+      "mean_similarity": 0.9252579808235168,
+      "rank": 126
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\hamster_s_000495.png",
+      "mean_similarity": 0.9251949787139893,
+      "rank": 127
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\hamster_s_001176.png",
+      "mean_similarity": 0.9251508116722107,
+      "rank": 128
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\hamster_s_000589.png",
+      "mean_similarity": 0.9251424074172974,
+      "rank": 129
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\syrian_hamster_s_000382.png",
+      "mean_similarity": 0.9251211285591125,
+      "rank": 130
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\golden_hamster_s_000836.png",
+      "mean_similarity": 0.9248652458190918,
+      "rank": 131
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\hamster_s_000591.png",
+      "mean_similarity": 0.9248232841491699,
+      "rank": 132
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\syrian_hamster_s_000484.png",
+      "mean_similarity": 0.9247572422027588,
+      "rank": 133
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\golden_hamster_s_000148.png",
+      "mean_similarity": 0.9246804118156433,
+      "rank": 134
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\golden_hamster_s_000181.png",
+      "mean_similarity": 0.9245983362197876,
+      "rank": 135
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\golden_hamster_s_000104.png",
+      "mean_similarity": 0.9245175123214722,
+      "rank": 136
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\hamster_s_000688.png",
+      "mean_similarity": 0.9244709610939026,
+      "rank": 137
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\hamster_s_000599.png",
+      "mean_similarity": 0.9244677424430847,
+      "rank": 138
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\syrian_hamster_s_001091.png",
+      "mean_similarity": 0.9243636727333069,
+      "rank": 139
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\syrian_hamster_s_000538.png",
+      "mean_similarity": 0.9241935014724731,
+      "rank": 140
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\syrian_hamster_s_000225.png",
+      "mean_similarity": 0.9241652488708496,
+      "rank": 141
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\hamster_s_000595.png",
+      "mean_similarity": 0.9241154789924622,
+      "rank": 142
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\cricetus_cricetus_s_000030.png",
+      "mean_similarity": 0.9239118099212646,
+      "rank": 143
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\syrian_hamster_s_000452.png",
+      "mean_similarity": 0.9239081144332886,
+      "rank": 144
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\hamster_s_000952.png",
+      "mean_similarity": 0.92359858751297,
+      "rank": 145
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\hamster_s_001730.png",
+      "mean_similarity": 0.9235843420028687,
+      "rank": 146
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\cricetus_cricetus_s_000051.png",
+      "mean_similarity": 0.9235623478889465,
+      "rank": 147
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\hamster_s_000295.png",
+      "mean_similarity": 0.9235169291496277,
+      "rank": 148
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\golden_hamster_s_000633.png",
+      "mean_similarity": 0.9235138297080994,
+      "rank": 149
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\syrian_hamster_s_001200.png",
+      "mean_similarity": 0.9234509468078613,
+      "rank": 150
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\hamster_s_000598.png",
+      "mean_similarity": 0.9234102964401245,
+      "rank": 151
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\syrian_hamster_s_000343.png",
+      "mean_similarity": 0.9231557250022888,
+      "rank": 152
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\hamster_s_000177.png",
+      "mean_similarity": 0.9231488704681396,
+      "rank": 153
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\golden_hamster_s_000018.png",
+      "mean_similarity": 0.9231205582618713,
+      "rank": 154
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\syrian_hamster_s_000593.png",
+      "mean_similarity": 0.9230810403823853,
+      "rank": 155
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\hamster_s_001896.png",
+      "mean_similarity": 0.9230634570121765,
+      "rank": 156
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\hamster_s_001164.png",
+      "mean_similarity": 0.9229939579963684,
+      "rank": 157
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\syrian_hamster_s_000098.png",
+      "mean_similarity": 0.9229785799980164,
+      "rank": 158
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\hamster_s_000690.png",
+      "mean_similarity": 0.922922670841217,
+      "rank": 159
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\syrian_hamster_s_000543.png",
+      "mean_similarity": 0.9229148030281067,
+      "rank": 160
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\golden_hamster_s_000630.png",
+      "mean_similarity": 0.9228622317314148,
+      "rank": 161
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\hamster_s_002141.png",
+      "mean_similarity": 0.9228278398513794,
+      "rank": 162
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\cricetus_cricetus_s_000210.png",
+      "mean_similarity": 0.9228156805038452,
+      "rank": 163
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\hamster_s_000692.png",
+      "mean_similarity": 0.9228079319000244,
+      "rank": 164
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\hamster_s_001146.png",
+      "mean_similarity": 0.9226232767105103,
+      "rank": 165
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\hamster_s_002335.png",
+      "mean_similarity": 0.9226046204566956,
+      "rank": 166
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\golden_hamster_s_001213.png",
+      "mean_similarity": 0.9225972294807434,
+      "rank": 167
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\golden_hamster_s_000281.png",
+      "mean_similarity": 0.9225253462791443,
+      "rank": 168
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\hamster_s_002258.png",
+      "mean_similarity": 0.9225016236305237,
+      "rank": 169
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\hamster_s_001222.png",
+      "mean_similarity": 0.9224947690963745,
+      "rank": 170
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\syrian_hamster_s_000148.png",
+      "mean_similarity": 0.922494113445282,
+      "rank": 171
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\golden_hamster_s_000204.png",
+      "mean_similarity": 0.9223881363868713,
+      "rank": 172
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\syrian_hamster_s_000611.png",
+      "mean_similarity": 0.9222699999809265,
+      "rank": 173
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\hamster_s_000521.png",
+      "mean_similarity": 0.9222369194030762,
+      "rank": 174
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\hamster_s_002405.png",
+      "mean_similarity": 0.9222247004508972,
+      "rank": 175
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\golden_hamster_s_000038.png",
+      "mean_similarity": 0.922183096408844,
+      "rank": 176
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\hamster_s_002403.png",
+      "mean_similarity": 0.922088623046875,
+      "rank": 177
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\hamster_s_002192.png",
+      "mean_similarity": 0.9220110177993774,
+      "rank": 178
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\syrian_hamster_s_000923.png",
+      "mean_similarity": 0.922002911567688,
+      "rank": 179
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\syrian_hamster_s_001615.png",
+      "mean_similarity": 0.9219920635223389,
+      "rank": 180
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\syrian_hamster_s_000587.png",
+      "mean_similarity": 0.9219388365745544,
+      "rank": 181
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\syrian_hamster_s_001477.png",
+      "mean_similarity": 0.9219185709953308,
+      "rank": 182
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\cricetus_cricetus_s_000505.png",
+      "mean_similarity": 0.9219117164611816,
+      "rank": 183
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\hamster_s_000331.png",
+      "mean_similarity": 0.9217522144317627,
+      "rank": 184
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\hamster_s_001153.png",
+      "mean_similarity": 0.9217177629470825,
+      "rank": 185
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\syrian_hamster_s_000294.png",
+      "mean_similarity": 0.9216607213020325,
+      "rank": 186
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\hamster_s_000892.png",
+      "mean_similarity": 0.92159503698349,
+      "rank": 187
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\hamster_s_001162.png",
+      "mean_similarity": 0.9215241074562073,
+      "rank": 188
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\hamster_s_002302.png",
+      "mean_similarity": 0.9214218258857727,
+      "rank": 189
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\golden_hamster_s_000675.png",
+      "mean_similarity": 0.9212873578071594,
+      "rank": 190
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\syrian_hamster_s_001064.png",
+      "mean_similarity": 0.921197235584259,
+      "rank": 191
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\hamster_s_002336.png",
+      "mean_similarity": 0.920979917049408,
+      "rank": 192
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\hamster_s_000549.png",
+      "mean_similarity": 0.9209674000740051,
+      "rank": 193
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\golden_hamster_s_000122.png",
+      "mean_similarity": 0.9209586977958679,
+      "rank": 194
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\cricetus_cricetus_s_000028.png",
+      "mean_similarity": 0.9209465384483337,
+      "rank": 195
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\syrian_hamster_s_000684.png",
+      "mean_similarity": 0.9209297895431519,
+      "rank": 196
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\hamster_s_002147.png",
+      "mean_similarity": 0.9208022952079773,
+      "rank": 197
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\golden_hamster_s_000063.png",
+      "mean_similarity": 0.9207394123077393,
+      "rank": 198
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\syrian_hamster_s_000526.png",
+      "mean_similarity": 0.920665979385376,
+      "rank": 199
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\hamster_s_000028.png",
+      "mean_similarity": 0.9205405116081238,
+      "rank": 200
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\hamster_s_001834.png",
+      "mean_similarity": 0.9204970002174377,
+      "rank": 201
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\hamster_s_000499.png",
+      "mean_similarity": 0.920442521572113,
+      "rank": 202
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\syrian_hamster_s_001688.png",
+      "mean_similarity": 0.9204251766204834,
+      "rank": 203
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\golden_hamster_s_000735.png",
+      "mean_similarity": 0.9204040765762329,
+      "rank": 204
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\golden_hamster_s_000504.png",
+      "mean_similarity": 0.9203264713287354,
+      "rank": 205
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\cricetus_cricetus_s_000146.png",
+      "mean_similarity": 0.9202415943145752,
+      "rank": 206
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\syrian_hamster_s_000989.png",
+      "mean_similarity": 0.9201433062553406,
+      "rank": 207
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\hamster_s_001574.png",
+      "mean_similarity": 0.9201250672340393,
+      "rank": 208
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\hamster_s_001175.png",
+      "mean_similarity": 0.9200121760368347,
+      "rank": 209
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\cricetus_cricetus_s_000211.png",
+      "mean_similarity": 0.9199169874191284,
+      "rank": 210
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\hamster_s_001284.png",
+      "mean_similarity": 0.9198107123374939,
+      "rank": 211
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\hamster_s_000594.png",
+      "mean_similarity": 0.9197939038276672,
+      "rank": 212
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\syrian_hamster_s_001413.png",
+      "mean_similarity": 0.9196049571037292,
+      "rank": 213
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\syrian_hamster_s_000287.png",
+      "mean_similarity": 0.9195303320884705,
+      "rank": 214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\syrian_hamster_s_000525.png",
+      "mean_similarity": 0.9194353818893433,
+      "rank": 215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\cricetus_cricetus_s_000018.png",
+      "mean_similarity": 0.9194039106369019,
+      "rank": 216
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\syrian_hamster_s_001181.png",
+      "mean_similarity": 0.9188501834869385,
+      "rank": 217
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\golden_hamster_s_001013.png",
+      "mean_similarity": 0.91881263256073,
+      "rank": 218
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\hamster_s_001971.png",
+      "mean_similarity": 0.9187726378440857,
+      "rank": 219
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\hamster_s_001168.png",
+      "mean_similarity": 0.9186207056045532,
+      "rank": 220
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\hamster_s_000055.png",
+      "mean_similarity": 0.9185543060302734,
+      "rank": 221
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\syrian_hamster_s_001498.png",
+      "mean_similarity": 0.9184420108795166,
+      "rank": 222
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\hamster_s_001401.png",
+      "mean_similarity": 0.9182588458061218,
+      "rank": 223
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\hamster_s_001622.png",
+      "mean_similarity": 0.9181235432624817,
+      "rank": 224
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\syrian_hamster_s_000685.png",
+      "mean_similarity": 0.917905867099762,
+      "rank": 225
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\hamster_s_002189.png",
+      "mean_similarity": 0.9178982973098755,
+      "rank": 226
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\syrian_hamster_s_001119.png",
+      "mean_similarity": 0.9178940057754517,
+      "rank": 227
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\hamster_s_000298.png",
+      "mean_similarity": 0.9178916811943054,
+      "rank": 228
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\cricetus_cricetus_s_000305.png",
+      "mean_similarity": 0.917600154876709,
+      "rank": 229
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\hamster_s_000489.png",
+      "mean_similarity": 0.9172742962837219,
+      "rank": 230
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\syrian_hamster_s_000329.png",
+      "mean_similarity": 0.9172521233558655,
+      "rank": 231
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\hamster_s_000279.png",
+      "mean_similarity": 0.9172461628913879,
+      "rank": 232
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\syrian_hamster_s_000596.png",
+      "mean_similarity": 0.9171503782272339,
+      "rank": 233
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\hamster_s_000257.png",
+      "mean_similarity": 0.9170098304748535,
+      "rank": 234
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\syrian_hamster_s_000191.png",
+      "mean_similarity": 0.9169908165931702,
+      "rank": 235
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\hamster_s_001956.png",
+      "mean_similarity": 0.9168829321861267,
+      "rank": 236
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\golden_hamster_s_000006.png",
+      "mean_similarity": 0.9168676733970642,
+      "rank": 237
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\golden_hamster_s_000040.png",
+      "mean_similarity": 0.916799783706665,
+      "rank": 238
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\syrian_hamster_s_000393.png",
+      "mean_similarity": 0.9167376160621643,
+      "rank": 239
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\syrian_hamster_s_001690.png",
+      "mean_similarity": 0.9165948033332825,
+      "rank": 240
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\syrian_hamster_s_001134.png",
+      "mean_similarity": 0.9164896011352539,
+      "rank": 241
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\syrian_hamster_s_000038.png",
+      "mean_similarity": 0.9164392948150635,
+      "rank": 242
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\hamster_s_001741.png",
+      "mean_similarity": 0.9163998365402222,
+      "rank": 243
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\hamster_s_001964.png",
+      "mean_similarity": 0.916377604007721,
+      "rank": 244
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\syrian_hamster_s_001206.png",
+      "mean_similarity": 0.9161626100540161,
+      "rank": 245
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\hamster_s_000455.png",
+      "mean_similarity": 0.9160811901092529,
+      "rank": 246
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\syrian_hamster_s_000918.png",
+      "mean_similarity": 0.9159296154975891,
+      "rank": 247
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\syrian_hamster_s_001605.png",
+      "mean_similarity": 0.9158839583396912,
+      "rank": 248
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\hamster_s_000129.png",
+      "mean_similarity": 0.9158259034156799,
+      "rank": 249
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\037.hamster\\syrian_hamster_s_001102.png",
+      "mean_similarity": 0.9157361388206482,
+      "rank": 250
+    }
+  ]
+}

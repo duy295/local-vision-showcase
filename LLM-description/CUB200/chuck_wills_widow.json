@@ -1,0 +1,25 @@
+{
+  "class_name": "Chuck-will's-widow",
+  "global_description": "A medium-sized nocturnal bird with a cryptic, mottled brown and gray plumage. It has a flat, wide head with a short bill and large, dark eyes. The body is elongated with long wings and a rounded tail, providing excellent camouflage against leaf litter.",
+  "discriminative_attributes": [
+    "Mottled brown and gray plumage",
+    "Flat, wide head",
+    "Short bill",
+    "Large dark eyes",
+    "Elongated body",
+    "Long wings"
+  ],
+  "part_details": {
+    "head": "Flat and wide with a short bill, large dark eyes, and mottled brown-gray feathers.",
+    "plumage": "Cryptic pattern of brown and gray, providing camouflage.",
+    "wings": "Long and narrow, mottled with brown and gray.",
+    "tail": "Rounded, with a continuation of the mottled pattern."
+  },
+  "spatial_relations": [
+    "The wide head is positioned at the front of the elongated body.",
+    "The long wings extend from the sides of the body.",
+    "The rounded tail follows the end of the body."
+  ],
+  "original_dataset_key": "CUB200",
+  "original_class_key": "chuck_wills_widow"
+}

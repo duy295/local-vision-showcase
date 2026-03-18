@@ -1,0 +1,25 @@
+{
+  "class_name": "Bird",
+  "global_description": "A medium-sized bird with a slender body and a prominent crest on its head. It has olive-green upperparts and a bright yellow belly. The wings and tail are brownish with rufous edges, and the throat is pale gray. The beak is broad and slightly hooked.",
+  "discriminative_attributes": [
+    "Prominent head crest",
+    "Olive-green upperparts",
+    "Bright yellow belly",
+    "Brownish wings with rufous edges",
+    "Pale gray throat"
+  ],
+  "part_details": {
+    "head": "Slender with a prominent crest, olive-green with a pale gray throat.",
+    "body": "Medium-sized, slender, olive-green upperparts, bright yellow belly.",
+    "wings": "Brownish with rufous edges, medium length.",
+    "tail": "Brownish with rufous edges, slightly forked.",
+    "beak": "Broad, slightly hooked, dark in color."
+  },
+  "spatial_relations": [
+    "The crest is positioned on top of the head.",
+    "The wings extend from the sides of the body.",
+    "The tail extends from the rear of the body."
+  ],
+  "original_dataset_key": "CUB200",
+  "original_class_key": "great_crested_flycatcher"
+}

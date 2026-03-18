@@ -1,0 +1,26 @@
+{
+  "class_name": "motorcycle",
+  "global_description": "Two-wheeled vehicle with a streamlined, elongated body, metallic frame, and rubber tires. Typically features a glossy finish, with a prominent fuel tank, handlebars, and a seat for one or two riders. Often seen in colors like black, red, or blue.",
+  "discriminative_attributes": [
+    "Two-wheeled design",
+    "Streamlined body",
+    "Metallic frame",
+    "Glossy finish",
+    "Prominent fuel tank"
+  ],
+  "part_details": {
+    "wheels": "Two rubber tires, one at the front and one at the rear",
+    "frame": "Metallic structure supporting the body",
+    "fuel_tank": "Large, often rounded, located between the seat and handlebars",
+    "handlebars": "Curved, positioned at the front for steering",
+    "seat": "Padded, elongated, for one or two riders"
+  },
+  "spatial_relations": [
+    "Wheels positioned at front and rear",
+    "Fuel tank between seat and handlebars",
+    "Handlebars at front of frame",
+    "Seat on top of frame"
+  ],
+  "original_dataset_key": "ImageNetR",
+  "original_class_key": "motorcycle"
+}

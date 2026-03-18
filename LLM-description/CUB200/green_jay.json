@@ -1,0 +1,25 @@
+{
+  "class_name": "Bird",
+  "global_description": "A medium-sized bird with a sleek, elongated body. Predominantly vibrant green plumage with striking blue and black accents. The bird has a long tail and a stout, slightly curved beak. Its feathers are smooth and glossy.",
+  "discriminative_attributes": [
+    "Vibrant green plumage",
+    "Striking blue head and wings",
+    "Black facial mask",
+    "Long tail feathers",
+    "Stout curved beak"
+  ],
+  "part_details": {
+    "head": "Bright blue with a black mask around the eyes",
+    "wings": "Blue with green edges, sleek and pointed",
+    "tail": "Long, green with blue tips",
+    "beak": "Short, stout, slightly curved, black",
+    "body": "Elongated, covered in vibrant green feathers"
+  },
+  "spatial_relations": [
+    "The blue wings are attached to the sides of the green body",
+    "The long tail extends from the rear of the body",
+    "The black mask surrounds the eyes on the blue head"
+  ],
+  "original_dataset_key": "CUB200",
+  "original_class_key": "green_jay"
+}

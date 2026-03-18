@@ -1,0 +1,25 @@
+{
+  "class_name": "Northern Flicker",
+  "global_description": "A medium-sized woodpecker with a sleek, elongated body and a slightly curved bill. It features a brownish-gray plumage with black barring on the back and wings, and a distinctive black crescent on the chest. The underparts are pale with black spots, and the tail is pointed with a white rump patch visible in flight.",
+  "discriminative_attributes": [
+    "Brownish-gray plumage with black barring",
+    "Distinctive black crescent on chest",
+    "Pale underparts with black spots",
+    "Pointed tail with white rump patch",
+    "Slightly curved bill"
+  ],
+  "part_details": {
+    "plumage": "Brownish-gray with black barring on back and wings.",
+    "chest": "Features a distinctive black crescent marking.",
+    "underparts": "Pale with scattered black spots.",
+    "tail": "Pointed with a prominent white rump patch.",
+    "bill": "Slightly curved, medium length."
+  },
+  "spatial_relations": [
+    "The black crescent is positioned on the upper chest.",
+    "The white rump patch is visible at the base of the tail during flight.",
+    "The black barring covers the back and wings."
+  ],
+  "original_dataset_key": "CUB200",
+  "original_class_key": "northern_flicker"
+}

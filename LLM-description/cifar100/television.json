@@ -1,0 +1,26 @@
+{
+  "class_name": "television",
+  "global_description": "Rectangular electronic device with a flat screen, typically black or silver, encased in a plastic or metal frame. The screen is smooth and glossy, often with a thin bezel. It stands on a central pedestal or has wall-mounting brackets.",
+  "discriminative_attributes": [
+    "Flat screen",
+    "Rectangular shape",
+    "Thin bezel",
+    "Central pedestal stand",
+    "Wall-mounting brackets"
+  ],
+  "part_details": {
+    "screen": "Flat, glossy, and smooth surface",
+    "frame": "Thin, often black or silver, surrounding the screen",
+    "stand": "Central pedestal or legs for support",
+    "bezel": "Thin border around the screen",
+    "brackets": "Wall-mounting hardware on the back"
+  },
+  "spatial_relations": [
+    "Screen centered within frame",
+    "Stand beneath screen",
+    "Bezel surrounding screen",
+    "Brackets on back of frame"
+  ],
+  "original_dataset_key": "cifar100",
+  "original_class_key": "television"
+}

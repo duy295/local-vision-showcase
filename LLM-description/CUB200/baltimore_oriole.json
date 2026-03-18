@@ -1,0 +1,25 @@
+{
+  "class_name": "Baltimore Oriole",
+  "global_description": "A small, slender songbird with a vibrant orange and black plumage. It features a sleek, streamlined body with a pointed beak and long, thin tail. The wings are black with white bars, and the head is predominantly black with an orange throat and underparts.",
+  "discriminative_attributes": [
+    "Vibrant orange and black plumage",
+    "Black head with orange throat",
+    "Black wings with white bars",
+    "Long, thin tail",
+    "Pointed beak"
+  ],
+  "part_details": {
+    "head": "Predominantly black with an orange throat, sleek and rounded.",
+    "wings": "Black with distinct white bars, elongated and pointed.",
+    "tail": "Long, thin, and black, tapering to a point.",
+    "body": "Slender and streamlined, bright orange underparts.",
+    "beak": "Pointed, conical, and slightly curved, suitable for feeding on insects and nectar."
+  },
+  "spatial_relations": [
+    "The orange throat is positioned below the black head.",
+    "The black wings extend laterally from the body.",
+    "The long tail extends from the rear of the body."
+  ],
+  "original_dataset_key": "CUB200",
+  "original_class_key": "baltimore_oriole"
+}

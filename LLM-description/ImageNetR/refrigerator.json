@@ -1,0 +1,26 @@
+{
+  "class_name": "refrigerator",
+  "global_description": "Tall rectangular appliance with a smooth white or metallic finish, featuring a large door with a handle, often with a smaller freezer compartment above or below. Interior shelves and compartments for storage, typically with a light inside.",
+  "discriminative_attributes": [
+    "Tall rectangular shape",
+    "Smooth white or metallic finish",
+    "Large door with handle",
+    "Interior shelves",
+    "Freezer compartment"
+  ],
+  "part_details": {
+    "door": "Large, smooth with handle",
+    "body": "Rectangular, white or metallic",
+    "shelves": "Interior, adjustable",
+    "freezer": "Smaller compartment, often above or below",
+    "handle": "Attached to door, vertical"
+  },
+  "spatial_relations": [
+    "Door on front of body",
+    "Shelves inside body",
+    "Freezer above or below main compartment",
+    "Handle on door"
+  ],
+  "original_dataset_key": "ImageNetR",
+  "original_class_key": "refrigerator"
+}

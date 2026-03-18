@@ -1,0 +1,25 @@
+{
+  "class_name": "Forster's Tern",
+  "global_description": "A medium-sized seabird with a slender, streamlined body and long, pointed wings. It features a predominantly white body with a contrasting black cap on the head and a forked tail. The wings have a light gray upper surface and a white underside.",
+  "discriminative_attributes": [
+    "Black cap on head",
+    "Forked tail",
+    "Long pointed wings",
+    "White body with gray wings",
+    "Slender, streamlined shape"
+  ],
+  "part_details": {
+    "head": "Smooth black cap covering the top and back, contrasting with white face.",
+    "wings": "Long, narrow, and pointed with light gray upper surface and white underside.",
+    "tail": "Deeply forked, white with grayish tips.",
+    "body": "Streamlined, predominantly white with a slight grayish tint on the back.",
+    "beak": "Short, slender, and sharp, typically orange with a black tip."
+  },
+  "spatial_relations": [
+    "The black cap covers the top of the head, extending to the nape.",
+    "The wings extend laterally from the slender body.",
+    "The forked tail is positioned at the rear, aiding in flight maneuverability."
+  ],
+  "original_dataset_key": "CUB200",
+  "original_class_key": "forsters_tern"
+}

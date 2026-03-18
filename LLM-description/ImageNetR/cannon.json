@@ -1,0 +1,26 @@
+{
+  "class_name": "cannon",
+  "global_description": "Large, cylindrical, metallic artillery piece with a long barrel, mounted on a sturdy base with wheels or stationary support, typically dark gray or black, used historically in warfare.",
+  "discriminative_attributes": [
+    "Cylindrical barrel",
+    "Metallic material",
+    "Mounted on base",
+    "Large size",
+    "Dark gray or black color"
+  ],
+  "part_details": {
+    "barrel": "Long, cylindrical, metallic, dark gray or black",
+    "base": "Sturdy, often with wheels or stationary support",
+    "wheels": "Large, metallic, attached to base",
+    "breech": "Rear part of the barrel, thicker and reinforced",
+    "muzzle": "Open end of the barrel, slightly flared"
+  },
+  "spatial_relations": [
+    "Barrel extends from base",
+    "Wheels attached to base",
+    "Breech at rear of barrel",
+    "Muzzle at front of barrel"
+  ],
+  "original_dataset_key": "ImageNetR",
+  "original_class_key": "cannon"
+}

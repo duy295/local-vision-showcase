@@ -1,0 +1,1259 @@
+{
+  "class_name": "cloud",
+  "class_idx": 23,
+  "num_images_in_class": 500,
+  "ec_size_requested": 250,
+  "ec_size_actual": 250,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cloud_s_001662.png",
+      "mean_similarity": 0.9498648643493652,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cloud_s_000528.png",
+      "mean_similarity": 0.9497158527374268,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cloud_s_000495.png",
+      "mean_similarity": 0.9496849775314331,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cirrocumulus_s_000426.png",
+      "mean_similarity": 0.9496232867240906,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cloud_s_001428.png",
+      "mean_similarity": 0.949575662612915,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cloud_s_001934.png",
+      "mean_similarity": 0.9495750665664673,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cloud_s_000522.png",
+      "mean_similarity": 0.9495397210121155,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cloud_s_000583.png",
+      "mean_similarity": 0.9495365023612976,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cirrocumulus_s_000988.png",
+      "mean_similarity": 0.9495197534561157,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\mist_s_000083.png",
+      "mean_similarity": 0.9495159983634949,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cloud_s_000581.png",
+      "mean_similarity": 0.9495146870613098,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cloud_s_002065.png",
+      "mean_similarity": 0.949514627456665,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cirrocumulus_cloud_s_000144.png",
+      "mean_similarity": 0.9495100975036621,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cirrocumulus_cloud_s_000062.png",
+      "mean_similarity": 0.9494868516921997,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\dust_cloud_s_001594.png",
+      "mean_similarity": 0.9494432806968689,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cirrocumulus_s_001654.png",
+      "mean_similarity": 0.9494419693946838,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cirrocumulus_cloud_s_000560.png",
+      "mean_similarity": 0.9494389295578003,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cirrostratus_s_001016.png",
+      "mean_similarity": 0.9494389295578003,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cloud_s_000375.png",
+      "mean_similarity": 0.9494351744651794,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cloud_s_002069.png",
+      "mean_similarity": 0.9494266510009766,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cloud_s_000326.png",
+      "mean_similarity": 0.9494220614433289,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cloud_s_001383.png",
+      "mean_similarity": 0.9493878483772278,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cloud_s_001773.png",
+      "mean_similarity": 0.9493781328201294,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cloud_s_000670.png",
+      "mean_similarity": 0.9493736028671265,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cloud_s_002067.png",
+      "mean_similarity": 0.9493669271469116,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cloud_s_001873.png",
+      "mean_similarity": 0.9493604898452759,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cirrocumulus_s_001747.png",
+      "mean_similarity": 0.9493234753608704,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cloud_s_001772.png",
+      "mean_similarity": 0.9493152499198914,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cloud_s_000333.png",
+      "mean_similarity": 0.9493064284324646,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cloud_s_002034.png",
+      "mean_similarity": 0.9492931365966797,
+      "rank": 30
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cloud_s_001269.png",
+      "mean_similarity": 0.9492921233177185,
+      "rank": 31
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cloud_s_001128.png",
+      "mean_similarity": 0.9492830634117126,
+      "rank": 32
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cloud_s_002466.png",
+      "mean_similarity": 0.9492754936218262,
+      "rank": 33
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cirrocumulus_s_001249.png",
+      "mean_similarity": 0.9492597579956055,
+      "rank": 34
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\ice_fog_s_000025.png",
+      "mean_similarity": 0.9492533802986145,
+      "rank": 35
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cirrocumulus_s_000366.png",
+      "mean_similarity": 0.9492514133453369,
+      "rank": 36
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cloud_s_000628.png",
+      "mean_similarity": 0.9492477774620056,
+      "rank": 37
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cloud_s_000161.png",
+      "mean_similarity": 0.9492462873458862,
+      "rank": 38
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cloud_s_000424.png",
+      "mean_similarity": 0.9492420554161072,
+      "rank": 39
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cloud_s_000349.png",
+      "mean_similarity": 0.9492357969284058,
+      "rank": 40
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cloud_s_001586.png",
+      "mean_similarity": 0.9492137432098389,
+      "rank": 41
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cirrocumulus_s_000121.png",
+      "mean_similarity": 0.949212908744812,
+      "rank": 42
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cirrocumulus_cloud_s_000067.png",
+      "mean_similarity": 0.9492052793502808,
+      "rank": 43
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cirrocumulus_s_000945.png",
+      "mean_similarity": 0.9492020606994629,
+      "rank": 44
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cloud_s_001725.png",
+      "mean_similarity": 0.9491744637489319,
+      "rank": 45
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cloud_s_000760.png",
+      "mean_similarity": 0.9491639733314514,
+      "rank": 46
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cloud_s_000122.png",
+      "mean_similarity": 0.9491610527038574,
+      "rank": 47
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\dust_cloud_s_001161.png",
+      "mean_similarity": 0.949155867099762,
+      "rank": 48
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\fog_s_000819.png",
+      "mean_similarity": 0.9491552710533142,
+      "rank": 49
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cirrocumulus_cloud_s_000262.png",
+      "mean_similarity": 0.9491482973098755,
+      "rank": 50
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cirrocumulus_s_000796.png",
+      "mean_similarity": 0.9491283893585205,
+      "rank": 51
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\ice_fog_s_001477.png",
+      "mean_similarity": 0.9491261839866638,
+      "rank": 52
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cloud_s_000162.png",
+      "mean_similarity": 0.9491204023361206,
+      "rank": 53
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cirrostratus_s_000128.png",
+      "mean_similarity": 0.9491186141967773,
+      "rank": 54
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cirrocumulus_cloud_s_000260.png",
+      "mean_similarity": 0.9491115212440491,
+      "rank": 55
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cloud_s_000244.png",
+      "mean_similarity": 0.9491111040115356,
+      "rank": 56
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cirrocumulus_s_000015.png",
+      "mean_similarity": 0.9490944147109985,
+      "rank": 57
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cirrocumulus_s_000048.png",
+      "mean_similarity": 0.949093222618103,
+      "rank": 58
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cirrocumulus_s_000011.png",
+      "mean_similarity": 0.9490921497344971,
+      "rank": 59
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cloud_s_001066.png",
+      "mean_similarity": 0.9490758776664734,
+      "rank": 60
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cloud_s_000776.png",
+      "mean_similarity": 0.9490723609924316,
+      "rank": 61
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cloud_s_001964.png",
+      "mean_similarity": 0.9490721225738525,
+      "rank": 62
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cirrocumulus_cloud_s_000557.png",
+      "mean_similarity": 0.9490636587142944,
+      "rank": 63
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cirrocumulus_s_001252.png",
+      "mean_similarity": 0.9490536451339722,
+      "rank": 64
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\ice_fog_s_000770.png",
+      "mean_similarity": 0.9490429759025574,
+      "rank": 65
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\mist_s_000062.png",
+      "mean_similarity": 0.9490427374839783,
+      "rank": 66
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\fog_s_000342.png",
+      "mean_similarity": 0.9490413069725037,
+      "rank": 67
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cloud_s_001107.png",
+      "mean_similarity": 0.9490393996238708,
+      "rank": 68
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cirrostratus_s_001090.png",
+      "mean_similarity": 0.949034571647644,
+      "rank": 69
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cirrocumulus_cloud_s_000329.png",
+      "mean_similarity": 0.9490326046943665,
+      "rank": 70
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cirrostratus_s_001046.png",
+      "mean_similarity": 0.9490275979042053,
+      "rank": 71
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cirrocumulus_s_000968.png",
+      "mean_similarity": 0.9490121603012085,
+      "rank": 72
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cirrostratus_s_000181.png",
+      "mean_similarity": 0.9489814639091492,
+      "rank": 73
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\fogbank_s_000406.png",
+      "mean_similarity": 0.9489720463752747,
+      "rank": 74
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cloud_s_002467.png",
+      "mean_similarity": 0.9489651918411255,
+      "rank": 75
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cirrocumulus_s_000305.png",
+      "mean_similarity": 0.9489564895629883,
+      "rank": 76
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\haze_s_000741.png",
+      "mean_similarity": 0.94895339012146,
+      "rank": 77
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cloud_s_002256.png",
+      "mean_similarity": 0.9489521384239197,
+      "rank": 78
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cirrocumulus_s_001438.png",
+      "mean_similarity": 0.9489405155181885,
+      "rank": 79
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cloud_s_000093.png",
+      "mean_similarity": 0.9489312767982483,
+      "rank": 80
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\dust_cloud_s_001271.png",
+      "mean_similarity": 0.9489095211029053,
+      "rank": 81
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cirrocumulus_s_000200.png",
+      "mean_similarity": 0.9489054083824158,
+      "rank": 82
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cirrocumulus_s_001341.png",
+      "mean_similarity": 0.9488996267318726,
+      "rank": 83
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cirrocumulus_s_001864.png",
+      "mean_similarity": 0.9488839507102966,
+      "rank": 84
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cloud_s_001289.png",
+      "mean_similarity": 0.9488831162452698,
+      "rank": 85
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\dust_cloud_s_000540.png",
+      "mean_similarity": 0.9488802552223206,
+      "rank": 86
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cirrocumulus_s_000499.png",
+      "mean_similarity": 0.9488800168037415,
+      "rank": 87
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cloud_s_001267.png",
+      "mean_similarity": 0.9488738775253296,
+      "rank": 88
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cirrocumulus_s_000088.png",
+      "mean_similarity": 0.9488546252250671,
+      "rank": 89
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cirrostratus_s_000656.png",
+      "mean_similarity": 0.948847234249115,
+      "rank": 90
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cirrostratus_s_000132.png",
+      "mean_similarity": 0.9488353133201599,
+      "rank": 91
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cirrocumulus_cloud_s_000334.png",
+      "mean_similarity": 0.9488347172737122,
+      "rank": 92
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cloud_s_000009.png",
+      "mean_similarity": 0.948830783367157,
+      "rank": 93
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cirrocumulus_s_000195.png",
+      "mean_similarity": 0.9488288760185242,
+      "rank": 94
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cirrocumulus_s_001251.png",
+      "mean_similarity": 0.9488276243209839,
+      "rank": 95
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\haze_s_001228.png",
+      "mean_similarity": 0.9487912654876709,
+      "rank": 96
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\ice_fog_s_002225.png",
+      "mean_similarity": 0.9487874507904053,
+      "rank": 97
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\fog_s_000530.png",
+      "mean_similarity": 0.9487849473953247,
+      "rank": 98
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cirrocumulus_cloud_s_000240.png",
+      "mean_similarity": 0.9487723112106323,
+      "rank": 99
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\ice_fog_s_002462.png",
+      "mean_similarity": 0.9487513899803162,
+      "rank": 100
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cloud_s_001765.png",
+      "mean_similarity": 0.9487478137016296,
+      "rank": 101
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cirrocumulus_s_001492.png",
+      "mean_similarity": 0.9487432837486267,
+      "rank": 102
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cirrocumulus_cloud_s_000273.png",
+      "mean_similarity": 0.9487361907958984,
+      "rank": 103
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cloud_s_000376.png",
+      "mean_similarity": 0.9487215280532837,
+      "rank": 104
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cloud_s_001493.png",
+      "mean_similarity": 0.948715329170227,
+      "rank": 105
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\ice_fog_s_000842.png",
+      "mean_similarity": 0.948715090751648,
+      "rank": 106
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\ice_fog_s_001059.png",
+      "mean_similarity": 0.9487079977989197,
+      "rank": 107
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cirrocumulus_cloud_s_000189.png",
+      "mean_similarity": 0.9487061500549316,
+      "rank": 108
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cloud_s_002296.png",
+      "mean_similarity": 0.9486891627311707,
+      "rank": 109
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cirrocumulus_cloud_s_000562.png",
+      "mean_similarity": 0.948681116104126,
+      "rank": 110
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cirrocumulus_s_001369.png",
+      "mean_similarity": 0.9486576914787292,
+      "rank": 111
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cirrostratus_s_000027.png",
+      "mean_similarity": 0.9486459493637085,
+      "rank": 112
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cloud_s_000079.png",
+      "mean_similarity": 0.9486358761787415,
+      "rank": 113
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cloud_s_000425.png",
+      "mean_similarity": 0.9486287832260132,
+      "rank": 114
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cloud_s_000074.png",
+      "mean_similarity": 0.9486269950866699,
+      "rank": 115
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cirrocumulus_s_001790.png",
+      "mean_similarity": 0.948622465133667,
+      "rank": 116
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cloud_s_001935.png",
+      "mean_similarity": 0.9486167430877686,
+      "rank": 117
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cloud_s_000559.png",
+      "mean_similarity": 0.9486052989959717,
+      "rank": 118
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cirrocumulus_s_001623.png",
+      "mean_similarity": 0.9485712051391602,
+      "rank": 119
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cirrocumulus_s_000007.png",
+      "mean_similarity": 0.9485682249069214,
+      "rank": 120
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cloud_s_001989.png",
+      "mean_similarity": 0.9485540390014648,
+      "rank": 121
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cloud_s_000720.png",
+      "mean_similarity": 0.9485520124435425,
+      "rank": 122
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cloud_s_000532.png",
+      "mean_similarity": 0.9485340714454651,
+      "rank": 123
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\dust_cloud_s_001155.png",
+      "mean_similarity": 0.9485198259353638,
+      "rank": 124
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cirrocumulus_s_000016.png",
+      "mean_similarity": 0.948512613773346,
+      "rank": 125
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cloud_s_000133.png",
+      "mean_similarity": 0.9485101699829102,
+      "rank": 126
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cirrocumulus_s_001111.png",
+      "mean_similarity": 0.9485009908676147,
+      "rank": 127
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cirrocumulus_s_001799.png",
+      "mean_similarity": 0.9484971761703491,
+      "rank": 128
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cirrostratus_s_000090.png",
+      "mean_similarity": 0.9484948515892029,
+      "rank": 129
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cloud_s_000033.png",
+      "mean_similarity": 0.9484946727752686,
+      "rank": 130
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cloud_s_000562.png",
+      "mean_similarity": 0.9484904408454895,
+      "rank": 131
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cloud_s_000369.png",
+      "mean_similarity": 0.9484886527061462,
+      "rank": 132
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cloud_s_000141.png",
+      "mean_similarity": 0.9484832882881165,
+      "rank": 133
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\smoke_s_000190.png",
+      "mean_similarity": 0.9484648108482361,
+      "rank": 134
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cloud_s_001271.png",
+      "mean_similarity": 0.9484570026397705,
+      "rank": 135
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\ice_fog_s_001813.png",
+      "mean_similarity": 0.9484567046165466,
+      "rank": 136
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cirrocumulus_s_000078.png",
+      "mean_similarity": 0.9484536647796631,
+      "rank": 137
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cirrocumulus_s_001386.png",
+      "mean_similarity": 0.9484505653381348,
+      "rank": 138
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cloud_s_000782.png",
+      "mean_similarity": 0.9484407305717468,
+      "rank": 139
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cloud_s_001350.png",
+      "mean_similarity": 0.9484336376190186,
+      "rank": 140
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cloud_s_000064.png",
+      "mean_similarity": 0.948419988155365,
+      "rank": 141
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cloud_s_000013.png",
+      "mean_similarity": 0.9484185576438904,
+      "rank": 142
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cloud_s_001965.png",
+      "mean_similarity": 0.9484100341796875,
+      "rank": 143
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cloud_s_000724.png",
+      "mean_similarity": 0.9484071731567383,
+      "rank": 144
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cloud_s_000292.png",
+      "mean_similarity": 0.9483975768089294,
+      "rank": 145
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cirrocumulus_cloud_s_000350.png",
+      "mean_similarity": 0.9483894109725952,
+      "rank": 146
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cloud_s_000457.png",
+      "mean_similarity": 0.9483771324157715,
+      "rank": 147
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cloud_s_000611.png",
+      "mean_similarity": 0.9483682513237,
+      "rank": 148
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cirrocumulus_cloud_s_000420.png",
+      "mean_similarity": 0.948367714881897,
+      "rank": 149
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cloud_s_000031.png",
+      "mean_similarity": 0.9483619332313538,
+      "rank": 150
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cloud_s_001173.png",
+      "mean_similarity": 0.9483449459075928,
+      "rank": 151
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cloud_s_001467.png",
+      "mean_similarity": 0.9483433961868286,
+      "rank": 152
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cloud_s_001915.png",
+      "mean_similarity": 0.9483401775360107,
+      "rank": 153
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cirrocumulus_s_000455.png",
+      "mean_similarity": 0.9483384490013123,
+      "rank": 154
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cloud_s_002071.png",
+      "mean_similarity": 0.9483302235603333,
+      "rank": 155
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cloud_s_000283.png",
+      "mean_similarity": 0.948325514793396,
+      "rank": 156
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cirrocumulus_s_000967.png",
+      "mean_similarity": 0.9483233094215393,
+      "rank": 157
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cirrostratus_s_000807.png",
+      "mean_similarity": 0.9483228325843811,
+      "rank": 158
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\dust_cloud_s_001379.png",
+      "mean_similarity": 0.9483168125152588,
+      "rank": 159
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cloud_s_001176.png",
+      "mean_similarity": 0.948316216468811,
+      "rank": 160
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\smoke_s_000279.png",
+      "mean_similarity": 0.9483028650283813,
+      "rank": 161
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cirrocumulus_s_000300.png",
+      "mean_similarity": 0.948287844657898,
+      "rank": 162
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cirrostratus_s_000947.png",
+      "mean_similarity": 0.9482797384262085,
+      "rank": 163
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cloud_s_001154.png",
+      "mean_similarity": 0.9482752084732056,
+      "rank": 164
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cloud_s_000778.png",
+      "mean_similarity": 0.9482726454734802,
+      "rank": 165
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cloud_s_001172.png",
+      "mean_similarity": 0.9482682347297668,
+      "rank": 166
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\ice_fog_s_001520.png",
+      "mean_similarity": 0.9482676386833191,
+      "rank": 167
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cirrostratus_s_000707.png",
+      "mean_similarity": 0.9482641816139221,
+      "rank": 168
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cloud_s_001670.png",
+      "mean_similarity": 0.9482475519180298,
+      "rank": 169
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cirrostratus_s_000188.png",
+      "mean_similarity": 0.9482470750808716,
+      "rank": 170
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cirrostratus_s_000008.png",
+      "mean_similarity": 0.9482365250587463,
+      "rank": 171
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\pogonip_s_000185.png",
+      "mean_similarity": 0.9482316970825195,
+      "rank": 172
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cirrocumulus_s_001115.png",
+      "mean_similarity": 0.9482265710830688,
+      "rank": 173
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cloud_s_000138.png",
+      "mean_similarity": 0.9482231140136719,
+      "rank": 174
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cirrocumulus_cloud_s_000346.png",
+      "mean_similarity": 0.9482122659683228,
+      "rank": 175
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cirrocumulus_s_000910.png",
+      "mean_similarity": 0.9482096433639526,
+      "rank": 176
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cloud_s_000155.png",
+      "mean_similarity": 0.948205292224884,
+      "rank": 177
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cloud_s_000779.png",
+      "mean_similarity": 0.9481992721557617,
+      "rank": 178
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cloud_s_000179.png",
+      "mean_similarity": 0.9481959939002991,
+      "rank": 179
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cloud_s_002474.png",
+      "mean_similarity": 0.94819575548172,
+      "rank": 180
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cirrocumulus_cloud_s_000246.png",
+      "mean_similarity": 0.9481887817382812,
+      "rank": 181
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cirrostratus_s_000943.png",
+      "mean_similarity": 0.9481860399246216,
+      "rank": 182
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\dust_cloud_s_000045.png",
+      "mean_similarity": 0.9481819868087769,
+      "rank": 183
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cirrostratus_s_000877.png",
+      "mean_similarity": 0.9481722116470337,
+      "rank": 184
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cirrocumulus_cloud_s_000551.png",
+      "mean_similarity": 0.9481620788574219,
+      "rank": 185
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cirrocumulus_s_000614.png",
+      "mean_similarity": 0.9481468200683594,
+      "rank": 186
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\ice_fog_s_000790.png",
+      "mean_similarity": 0.9481461048126221,
+      "rank": 187
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cloud_s_001876.png",
+      "mean_similarity": 0.9481089115142822,
+      "rank": 188
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\haze_s_000148.png",
+      "mean_similarity": 0.9481059312820435,
+      "rank": 189
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cirrostratus_s_000080.png",
+      "mean_similarity": 0.9480835199356079,
+      "rank": 190
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cloud_s_001440.png",
+      "mean_similarity": 0.948076069355011,
+      "rank": 191
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cirrostratus_s_000538.png",
+      "mean_similarity": 0.9480733275413513,
+      "rank": 192
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cirrostratus_s_000837.png",
+      "mean_similarity": 0.9480610489845276,
+      "rank": 193
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cloud_s_000175.png",
+      "mean_similarity": 0.9480553865432739,
+      "rank": 194
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cirrocumulus_s_000149.png",
+      "mean_similarity": 0.9480109214782715,
+      "rank": 195
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cloud_s_000470.png",
+      "mean_similarity": 0.9480016231536865,
+      "rank": 196
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\dust_cloud_s_001301.png",
+      "mean_similarity": 0.947971522808075,
+      "rank": 197
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cloud_s_001975.png",
+      "mean_similarity": 0.9479662775993347,
+      "rank": 198
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cirrocumulus_s_001317.png",
+      "mean_similarity": 0.94795161485672,
+      "rank": 199
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cloud_s_001985.png",
+      "mean_similarity": 0.9479508996009827,
+      "rank": 200
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cloud_s_000781.png",
+      "mean_similarity": 0.9479439854621887,
+      "rank": 201
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cloud_s_000134.png",
+      "mean_similarity": 0.947940468788147,
+      "rank": 202
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\ice_fog_s_000786.png",
+      "mean_similarity": 0.9479270577430725,
+      "rank": 203
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cirrocumulus_s_001455.png",
+      "mean_similarity": 0.9479254484176636,
+      "rank": 204
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cloud_s_002292.png",
+      "mean_similarity": 0.9479252696037292,
+      "rank": 205
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cirrocumulus_s_000352.png",
+      "mean_similarity": 0.9479198455810547,
+      "rank": 206
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cloud_s_002158.png",
+      "mean_similarity": 0.9479184150695801,
+      "rank": 207
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cirrocumulus_cloud_s_000418.png",
+      "mean_similarity": 0.9479087591171265,
+      "rank": 208
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cirrocumulus_s_000129.png",
+      "mean_similarity": 0.9479086399078369,
+      "rank": 209
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cloud_s_001764.png",
+      "mean_similarity": 0.9479033946990967,
+      "rank": 210
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cirrocumulus_cloud_s_000573.png",
+      "mean_similarity": 0.9479009509086609,
+      "rank": 211
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cloud_s_002035.png",
+      "mean_similarity": 0.9478951096534729,
+      "rank": 212
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cloud_s_000721.png",
+      "mean_similarity": 0.9478791356086731,
+      "rank": 213
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cloud_s_001468.png",
+      "mean_similarity": 0.9478785991668701,
+      "rank": 214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cloud_s_001846.png",
+      "mean_similarity": 0.9478785395622253,
+      "rank": 215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cirrocumulus_s_001135.png",
+      "mean_similarity": 0.9478745460510254,
+      "rank": 216
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cloud_s_000096.png",
+      "mean_similarity": 0.9478628039360046,
+      "rank": 217
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cloud_s_001947.png",
+      "mean_similarity": 0.9478431344032288,
+      "rank": 218
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\dust_cloud_s_000401.png",
+      "mean_similarity": 0.9478334188461304,
+      "rank": 219
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\fogbank_s_000194.png",
+      "mean_similarity": 0.9478241205215454,
+      "rank": 220
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cloud_s_002270.png",
+      "mean_similarity": 0.94781494140625,
+      "rank": 221
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cloud_s_001972.png",
+      "mean_similarity": 0.9478098750114441,
+      "rank": 222
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cloud_s_000664.png",
+      "mean_similarity": 0.9478054642677307,
+      "rank": 223
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cloud_s_000125.png",
+      "mean_similarity": 0.9477874040603638,
+      "rank": 224
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cloud_s_001978.png",
+      "mean_similarity": 0.9477865695953369,
+      "rank": 225
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cirrostratus_s_000990.png",
+      "mean_similarity": 0.947784960269928,
+      "rank": 226
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cloud_s_000166.png",
+      "mean_similarity": 0.9477799534797668,
+      "rank": 227
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\fog_s_000405.png",
+      "mean_similarity": 0.9477754235267639,
+      "rank": 228
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cirrocumulus_cloud_s_000155.png",
+      "mean_similarity": 0.947763204574585,
+      "rank": 229
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cirrocumulus_s_000304.png",
+      "mean_similarity": 0.9477540254592896,
+      "rank": 230
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cloud_s_001171.png",
+      "mean_similarity": 0.9477540254592896,
+      "rank": 231
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cirrocumulus_cloud_s_000293.png",
+      "mean_similarity": 0.9477513432502747,
+      "rank": 232
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\fog_s_000397.png",
+      "mean_similarity": 0.9477354288101196,
+      "rank": 233
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cloud_s_002402.png",
+      "mean_similarity": 0.9477277398109436,
+      "rank": 234
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cloud_s_000473.png",
+      "mean_similarity": 0.9477157592773438,
+      "rank": 235
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\smoke_s_000461.png",
+      "mean_similarity": 0.9476921558380127,
+      "rank": 236
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cirrocumulus_cloud_s_000515.png",
+      "mean_similarity": 0.9476873278617859,
+      "rank": 237
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\dust_cloud_s_000431.png",
+      "mean_similarity": 0.9476796388626099,
+      "rank": 238
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cirrocumulus_s_000744.png",
+      "mean_similarity": 0.9476735591888428,
+      "rank": 239
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cirrostratus_s_000600.png",
+      "mean_similarity": 0.9476605653762817,
+      "rank": 240
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cloud_s_001967.png",
+      "mean_similarity": 0.947660505771637,
+      "rank": 241
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cloud_s_000848.png",
+      "mean_similarity": 0.9476282000541687,
+      "rank": 242
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\mist_s_000117.png",
+      "mean_similarity": 0.9475993514060974,
+      "rank": 243
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cloud_s_001780.png",
+      "mean_similarity": 0.9475990533828735,
+      "rank": 244
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cirrostratus_s_000808.png",
+      "mean_similarity": 0.9475939273834229,
+      "rank": 245
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cloud_s_000152.png",
+      "mean_similarity": 0.9475860595703125,
+      "rank": 246
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cirrostratus_s_001182.png",
+      "mean_similarity": 0.9475846290588379,
+      "rank": 247
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cirrocumulus_cloud_s_000533.png",
+      "mean_similarity": 0.9475443959236145,
+      "rank": 248
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cirrocumulus_s_001602.png",
+      "mean_similarity": 0.9475193023681641,
+      "rank": 249
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\024.cloud\\cirrocumulus_s_000190.png",
+      "mean_similarity": 0.9475163817405701,
+      "rank": 250
+    }
+  ]
+}

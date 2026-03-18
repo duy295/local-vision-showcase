@@ -1,0 +1,25 @@
+{
+  "class_name": "Least Auklet",
+  "global_description": "A small, compact seabird with a rounded body and short neck. It has a predominantly dark gray plumage with white underparts. The bird features a short, stubby bill and distinctive white facial markings around the eyes. Its wings are short and pointed, and it has a short tail.",
+  "discriminative_attributes": [
+    "Dark gray plumage",
+    "White underparts",
+    "Short, stubby bill",
+    "White facial markings",
+    "Short, pointed wings"
+  ],
+  "part_details": {
+    "bill": "Short, stubby, dark-colored with a slightly hooked tip.",
+    "plumage": "Dark gray on the back and wings, with white underparts.",
+    "facial_markings": "White patches around the eyes, contrasting with dark plumage.",
+    "wings": "Short, pointed, dark gray.",
+    "tail": "Short, dark gray."
+  },
+  "spatial_relations": [
+    "The white facial markings encircle the eyes.",
+    "The short bill is positioned at the front of the head.",
+    "The wings are attached to the sides of the body."
+  ],
+  "original_dataset_key": "CUB200",
+  "original_class_key": "least_auklet"
+}

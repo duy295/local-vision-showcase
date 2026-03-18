@@ -1,0 +1,25 @@
+{
+  "class_name": "keyboard",
+  "global_description": "Rectangular electronic device with a flat surface, featuring a grid of keys. Typically black or white, made of plastic, with a matte or glossy finish. Keys are square or rectangular, with printed letters, numbers, and symbols. Some models include additional function keys and a numeric keypad.",
+  "discriminative_attributes": [
+    "Rectangular shape",
+    "Grid of keys",
+    "Plastic material",
+    "Printed symbols",
+    "Function keys"
+  ],
+  "part_details": {
+    "keys": "Square or rectangular, with printed letters, numbers, and symbols",
+    "surface": "Flat, matte or glossy finish",
+    "body": "Rectangular, typically black or white plastic",
+    "function_keys": "Additional keys for specific functions",
+    "numeric_keypad": "Separate section for numbers"
+  },
+  "spatial_relations": [
+    "Keys arranged in a grid on the surface",
+    "Function keys positioned above main keys",
+    "Numeric keypad on the right side"
+  ],
+  "original_dataset_key": "cifar100",
+  "original_class_key": "keyboard"
+}

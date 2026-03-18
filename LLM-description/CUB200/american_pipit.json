@@ -1,0 +1,26 @@
+{
+  "class_name": "Bird",
+  "global_description": "A small, slender songbird with a streamlined body, predominantly brownish-gray plumage, and a white underbelly. It features a thin, pointed bill and long legs. The wings and tail are streaked with darker shades, providing a subtle contrast.",
+  "discriminative_attributes": [
+    "Brownish-gray plumage",
+    "White underbelly",
+    "Thin pointed bill",
+    "Long legs",
+    "Streaked wings and tail"
+  ],
+  "part_details": {
+    "bill": "Thin, pointed, and slightly curved, suitable for foraging.",
+    "plumage": "Brownish-gray with subtle streaks, providing camouflage.",
+    "underbelly": "White, contrasting with the darker upper parts.",
+    "wings": "Long, with darker streaks along the feathers.",
+    "tail": "Medium length, with streaks and a slightly forked shape."
+  },
+  "spatial_relations": [
+    "The thin bill is positioned at the front of the head.",
+    "The long legs extend downward from the body.",
+    "The wings are attached to the sides of the body, extending outward.",
+    "The tail extends from the rear of the body, slightly forked."
+  ],
+  "original_dataset_key": "CUB200",
+  "original_class_key": "american_pipit"
+}

@@ -1,0 +1,26 @@
+{
+  "class_name": "Bird",
+  "global_description": "A medium-sized bird with a sleek, all-black body and glossy feathers. It has a stout, slightly curved black beak and dark eyes. The wings are broad and rounded, and the tail is fan-shaped. The legs and feet are also black, giving it a uniform appearance.",
+  "discriminative_attributes": [
+    "Glossy black feathers",
+    "Stout black beak",
+    "Fan-shaped tail",
+    "Broad rounded wings",
+    "Uniform black color"
+  ],
+  "part_details": {
+    "beak": "Stout, slightly curved, black",
+    "wings": "Broad, rounded, glossy black",
+    "tail": "Fan-shaped, black",
+    "legs": "Black, slender",
+    "eyes": "Dark, round"
+  },
+  "spatial_relations": [
+    "The beak is positioned at the front of the head",
+    "The wings extend from the sides of the body",
+    "The tail fans out at the rear",
+    "The legs are positioned beneath the body"
+  ],
+  "original_dataset_key": "CUB200",
+  "original_class_key": "american_crow"
+}

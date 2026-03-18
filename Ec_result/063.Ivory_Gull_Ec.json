@@ -1,0 +1,159 @@
+{
+  "class_name": "063.Ivory_Gull",
+  "class_idx": 62,
+  "num_images_in_class": 30,
+  "ec_size_requested": 30,
+  "ec_size_actual": 30,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\063.Ivory_Gull\\Ivory_Gull_0096_49487.jpg",
+      "mean_similarity": 0.9480105638504028,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\063.Ivory_Gull\\Ivory_Gull_0065_49566.jpg",
+      "mean_similarity": 0.9474634528160095,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\063.Ivory_Gull\\Ivory_Gull_0041_49172.jpg",
+      "mean_similarity": 0.9474542737007141,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\063.Ivory_Gull\\Ivory_Gull_0005_49021.jpg",
+      "mean_similarity": 0.9470326900482178,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\063.Ivory_Gull\\Ivory_Gull_0020_49978.jpg",
+      "mean_similarity": 0.9470260739326477,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\063.Ivory_Gull\\Ivory_Gull_0015_49199.jpg",
+      "mean_similarity": 0.9468958377838135,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\063.Ivory_Gull\\Ivory_Gull_0061_49416.jpg",
+      "mean_similarity": 0.9468016624450684,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\063.Ivory_Gull\\Ivory_Gull_0105_49559.jpg",
+      "mean_similarity": 0.946794331073761,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\063.Ivory_Gull\\Ivory_Gull_0117_49227.jpg",
+      "mean_similarity": 0.9462082982063293,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\063.Ivory_Gull\\Ivory_Gull_0074_49698.jpg",
+      "mean_similarity": 0.946010172367096,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\063.Ivory_Gull\\Ivory_Gull_0089_49699.jpg",
+      "mean_similarity": 0.9459558725357056,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\063.Ivory_Gull\\Ivory_Gull_0037_49068.jpg",
+      "mean_similarity": 0.945894718170166,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\063.Ivory_Gull\\Ivory_Gull_0059_49662.jpg",
+      "mean_similarity": 0.9456887245178223,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\063.Ivory_Gull\\Ivory_Gull_0045_49696.jpg",
+      "mean_similarity": 0.9456140398979187,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\063.Ivory_Gull\\Ivory_Gull_0039_49412.jpg",
+      "mean_similarity": 0.9455776214599609,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\063.Ivory_Gull\\Ivory_Gull_0043_49755.jpg",
+      "mean_similarity": 0.9453462362289429,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\063.Ivory_Gull\\Ivory_Gull_0055_49353.jpg",
+      "mean_similarity": 0.9451648592948914,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\063.Ivory_Gull\\Ivory_Gull_0052_50013.jpg",
+      "mean_similarity": 0.9443217515945435,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\063.Ivory_Gull\\Ivory_Gull_0079_49179.jpg",
+      "mean_similarity": 0.9442628026008606,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\063.Ivory_Gull\\Ivory_Gull_0082_49306.jpg",
+      "mean_similarity": 0.944220781326294,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\063.Ivory_Gull\\Ivory_Gull_0107_49186.jpg",
+      "mean_similarity": 0.9439108967781067,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\063.Ivory_Gull\\Ivory_Gull_0035_49523.jpg",
+      "mean_similarity": 0.9436378479003906,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\063.Ivory_Gull\\Ivory_Gull_0109_49382.jpg",
+      "mean_similarity": 0.9430305361747742,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\063.Ivory_Gull\\Ivory_Gull_0027_48974.jpg",
+      "mean_similarity": 0.9429002404212952,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\063.Ivory_Gull\\Ivory_Gull_0067_49659.jpg",
+      "mean_similarity": 0.9422069191932678,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\063.Ivory_Gull\\Ivory_Gull_0040_49180.jpg",
+      "mean_similarity": 0.941311776638031,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\063.Ivory_Gull\\Ivory_Gull_0104_49666.jpg",
+      "mean_similarity": 0.940673291683197,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\063.Ivory_Gull\\Ivory_Gull_0036_49754.jpg",
+      "mean_similarity": 0.938159704208374,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\063.Ivory_Gull\\Ivory_Gull_0099_49218.jpg",
+      "mean_similarity": 0.936835765838623,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\063.Ivory_Gull\\Ivory_Gull_0098_49810.jpg",
+      "mean_similarity": 0.9155682325363159,
+      "rank": 30
+    }
+  ]
+}

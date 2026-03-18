@@ -1,0 +1,25 @@
+{
+  "class_name": "Yellow Headed Blackbird",
+  "global_description": "A medium-sized bird with a striking contrast of a bright yellow head and a sleek black body. It features a pointed black beak and glossy black wings with white wing patches. The bird's tail is long and black, complementing its streamlined shape.",
+  "discriminative_attributes": [
+    "Bright yellow head",
+    "Glossy black body",
+    "White wing patches",
+    "Pointed black beak",
+    "Long black tail"
+  ],
+  "part_details": {
+    "head": "Bright yellow, rounded, with a small black eye.",
+    "body": "Sleek, glossy black with a smooth texture.",
+    "wings": "Glossy black with distinct white patches.",
+    "beak": "Short, pointed, and black.",
+    "tail": "Long, narrow, and black."
+  },
+  "spatial_relations": [
+    "The yellow head is positioned above the black body.",
+    "The wings extend from the sides of the body.",
+    "The tail extends from the rear of the body."
+  ],
+  "original_dataset_key": "CUB200",
+  "original_class_key": "yellow_headed_blackbird"
+}

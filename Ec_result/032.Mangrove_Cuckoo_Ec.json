@@ -1,0 +1,159 @@
+{
+  "class_name": "032.Mangrove_Cuckoo",
+  "class_idx": 31,
+  "num_images_in_class": 30,
+  "ec_size_requested": 30,
+  "ec_size_actual": 30,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\032.Mangrove_Cuckoo\\Mangrove_Cuckoo_0015_26380.jpg",
+      "mean_similarity": 0.9512126445770264,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\032.Mangrove_Cuckoo\\Mangrove_Cuckoo_0046_794616.jpg",
+      "mean_similarity": 0.9508119821548462,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\032.Mangrove_Cuckoo\\Mangrove_Cuckoo_0004_794614.jpg",
+      "mean_similarity": 0.9506762027740479,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\032.Mangrove_Cuckoo\\Mangrove_Cuckoo_0031_26401.jpg",
+      "mean_similarity": 0.950578510761261,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\032.Mangrove_Cuckoo\\Mangrove_Cuckoo_0019_794621.jpg",
+      "mean_similarity": 0.9501534700393677,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\032.Mangrove_Cuckoo\\Mangrove_Cuckoo_0034_26415.jpg",
+      "mean_similarity": 0.9499082565307617,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\032.Mangrove_Cuckoo\\Mangrove_Cuckoo_0020_794629.jpg",
+      "mean_similarity": 0.9498292207717896,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\032.Mangrove_Cuckoo\\Mangrove_Cuckoo_0038_794600.jpg",
+      "mean_similarity": 0.949772298336029,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\032.Mangrove_Cuckoo\\Mangrove_Cuckoo_0025_26375.jpg",
+      "mean_similarity": 0.9495784640312195,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\032.Mangrove_Cuckoo\\Mangrove_Cuckoo_0022_794625.jpg",
+      "mean_similarity": 0.9494476914405823,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\032.Mangrove_Cuckoo\\Mangrove_Cuckoo_0048_26351.jpg",
+      "mean_similarity": 0.9494414925575256,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\032.Mangrove_Cuckoo\\Mangrove_Cuckoo_0013_794620.jpg",
+      "mean_similarity": 0.9493580460548401,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\032.Mangrove_Cuckoo\\Mangrove_Cuckoo_0052_794608.jpg",
+      "mean_similarity": 0.9490964412689209,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\032.Mangrove_Cuckoo\\Mangrove_Cuckoo_0050_794594.jpg",
+      "mean_similarity": 0.9488608241081238,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\032.Mangrove_Cuckoo\\Mangrove_Cuckoo_0028_26358.jpg",
+      "mean_similarity": 0.9487330913543701,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\032.Mangrove_Cuckoo\\Mangrove_Cuckoo_0014_26388.jpg",
+      "mean_similarity": 0.9483368396759033,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\032.Mangrove_Cuckoo\\Mangrove_Cuckoo_0012_26382.jpg",
+      "mean_similarity": 0.948146402835846,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\032.Mangrove_Cuckoo\\Mangrove_Cuckoo_0016_794607.jpg",
+      "mean_similarity": 0.9479612112045288,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\032.Mangrove_Cuckoo\\Mangrove_Cuckoo_0006_794626.jpg",
+      "mean_similarity": 0.9478122591972351,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\032.Mangrove_Cuckoo\\Mangrove_Cuckoo_0051_794627.jpg",
+      "mean_similarity": 0.9472289085388184,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\032.Mangrove_Cuckoo\\Mangrove_Cuckoo_0005_794599.jpg",
+      "mean_similarity": 0.9471011757850647,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\032.Mangrove_Cuckoo\\Mangrove_Cuckoo_0042_794628.jpg",
+      "mean_similarity": 0.9468028545379639,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\032.Mangrove_Cuckoo\\Mangrove_Cuckoo_0041_26370.jpg",
+      "mean_similarity": 0.9466235637664795,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\032.Mangrove_Cuckoo\\Mangrove_Cuckoo_0039_26348.jpg",
+      "mean_similarity": 0.9464355707168579,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\032.Mangrove_Cuckoo\\Mangrove_Cuckoo_0045_794612.jpg",
+      "mean_similarity": 0.9446896910667419,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\032.Mangrove_Cuckoo\\Mangrove_Cuckoo_0029_794624.jpg",
+      "mean_similarity": 0.9425755143165588,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\032.Mangrove_Cuckoo\\Mangrove_Cuckoo_0027_26360.jpg",
+      "mean_similarity": 0.9420546293258667,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\032.Mangrove_Cuckoo\\Mangrove_Cuckoo_0036_794606.jpg",
+      "mean_similarity": 0.9407411813735962,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\032.Mangrove_Cuckoo\\Mangrove_Cuckoo_0044_26393.jpg",
+      "mean_similarity": 0.9393431544303894,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\032.Mangrove_Cuckoo\\Mangrove_Cuckoo_0033_26359.jpg",
+      "mean_similarity": 0.938062846660614,
+      "rank": 30
+    }
+  ]
+}

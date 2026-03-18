@@ -1,0 +1,1259 @@
+{
+  "class_name": "crocodile",
+  "class_idx": 27,
+  "num_images_in_class": 500,
+  "ec_size_requested": 250,
+  "ec_size_actual": 250,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\crocodylus_porosus_s_000862.png",
+      "mean_similarity": 0.9469171762466431,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\nile_crocodile_s_000005.png",
+      "mean_similarity": 0.9467878937721252,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\nile_crocodile_s_001561.png",
+      "mean_similarity": 0.9464651942253113,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\crocodile_s_001176.png",
+      "mean_similarity": 0.9464419484138489,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\crocodylus_porosus_s_000087.png",
+      "mean_similarity": 0.946428656578064,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\crocodile_s_001113.png",
+      "mean_similarity": 0.9463764429092407,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\crocodile_s_000909.png",
+      "mean_similarity": 0.9463545083999634,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\crocodylus_porosus_s_000039.png",
+      "mean_similarity": 0.9463457465171814,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\african_crocodile_s_000409.png",
+      "mean_similarity": 0.9463232159614563,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\crocodylus_niloticus_s_000592.png",
+      "mean_similarity": 0.9463003277778625,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\crocodylus_niloticus_s_000493.png",
+      "mean_similarity": 0.9462636113166809,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\crocodylus_niloticus_s_000232.png",
+      "mean_similarity": 0.9462555646896362,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\crocodylus_porosus_s_000434.png",
+      "mean_similarity": 0.9462375044822693,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\nile_crocodile_s_000077.png",
+      "mean_similarity": 0.9461718201637268,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\crocodile_s_000993.png",
+      "mean_similarity": 0.9461594223976135,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\crocodylus_porosus_s_000121.png",
+      "mean_similarity": 0.946147620677948,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\nile_crocodile_s_001351.png",
+      "mean_similarity": 0.946122944355011,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\nile_crocodile_s_000039.png",
+      "mean_similarity": 0.9460985660552979,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\crocodylus_porosus_s_000620.png",
+      "mean_similarity": 0.9460785388946533,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\crocodile_s_001979.png",
+      "mean_similarity": 0.9460287690162659,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\african_crocodile_s_000433.png",
+      "mean_similarity": 0.9459668397903442,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\crocodylus_niloticus_s_000868.png",
+      "mean_similarity": 0.9459638595581055,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\crocodile_s_001816.png",
+      "mean_similarity": 0.9459543824195862,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\african_crocodile_s_000179.png",
+      "mean_similarity": 0.9459409713745117,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\nile_crocodile_s_000639.png",
+      "mean_similarity": 0.9459129571914673,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\nile_crocodile_s_000706.png",
+      "mean_similarity": 0.945912778377533,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\crocodylus_porosus_s_000732.png",
+      "mean_similarity": 0.9458756446838379,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\crocodylus_porosus_s_000757.png",
+      "mean_similarity": 0.9458706378936768,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\nile_crocodile_s_001336.png",
+      "mean_similarity": 0.9457848072052002,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\crocodylus_porosus_s_000549.png",
+      "mean_similarity": 0.945767343044281,
+      "rank": 30
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\crocodile_s_002417.png",
+      "mean_similarity": 0.9457577466964722,
+      "rank": 31
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\african_crocodile_s_000949.png",
+      "mean_similarity": 0.9457482099533081,
+      "rank": 32
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\crocodile_s_000042.png",
+      "mean_similarity": 0.9457345008850098,
+      "rank": 33
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\crocodylus_porosus_s_000088.png",
+      "mean_similarity": 0.9457036852836609,
+      "rank": 34
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\nile_crocodile_s_001949.png",
+      "mean_similarity": 0.945652186870575,
+      "rank": 35
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\crocodile_s_001224.png",
+      "mean_similarity": 0.9456450343132019,
+      "rank": 36
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\nile_crocodile_s_000615.png",
+      "mean_similarity": 0.9456449747085571,
+      "rank": 37
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\nile_crocodile_s_001130.png",
+      "mean_similarity": 0.9456233382225037,
+      "rank": 38
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\crocodylus_porosus_s_000466.png",
+      "mean_similarity": 0.9456164836883545,
+      "rank": 39
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\crocodylus_porosus_s_000118.png",
+      "mean_similarity": 0.9456096887588501,
+      "rank": 40
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\crocodylus_porosus_s_000443.png",
+      "mean_similarity": 0.9456040859222412,
+      "rank": 41
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\nile_crocodile_s_000220.png",
+      "mean_similarity": 0.9455872178077698,
+      "rank": 42
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\crocodylus_niloticus_s_000953.png",
+      "mean_similarity": 0.9455565810203552,
+      "rank": 43
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\african_crocodile_s_000580.png",
+      "mean_similarity": 0.9455525875091553,
+      "rank": 44
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\crocodylus_porosus_s_000106.png",
+      "mean_similarity": 0.9455509185791016,
+      "rank": 45
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\crocodylus_niloticus_s_000671.png",
+      "mean_similarity": 0.9455364942550659,
+      "rank": 46
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\nile_crocodile_s_000483.png",
+      "mean_similarity": 0.9455204606056213,
+      "rank": 47
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\crocodylus_porosus_s_000090.png",
+      "mean_similarity": 0.9455203413963318,
+      "rank": 48
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\nile_crocodile_s_000738.png",
+      "mean_similarity": 0.9454536437988281,
+      "rank": 49
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\crocodylus_porosus_s_000295.png",
+      "mean_similarity": 0.9454460144042969,
+      "rank": 50
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\crocodylus_porosus_s_000516.png",
+      "mean_similarity": 0.9454315304756165,
+      "rank": 51
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\crocodylus_niloticus_s_000060.png",
+      "mean_similarity": 0.9454284906387329,
+      "rank": 52
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\nile_crocodile_s_001206.png",
+      "mean_similarity": 0.9454251527786255,
+      "rank": 53
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\crocodylus_porosus_s_000562.png",
+      "mean_similarity": 0.9453973770141602,
+      "rank": 54
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\nile_crocodile_s_001966.png",
+      "mean_similarity": 0.9453875422477722,
+      "rank": 55
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\crocodylus_porosus_s_000207.png",
+      "mean_similarity": 0.9453763365745544,
+      "rank": 56
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\nile_crocodile_s_000680.png",
+      "mean_similarity": 0.9452822804450989,
+      "rank": 57
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\african_crocodile_s_000715.png",
+      "mean_similarity": 0.9452815651893616,
+      "rank": 58
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\nile_crocodile_s_000588.png",
+      "mean_similarity": 0.9452754259109497,
+      "rank": 59
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\crocodylus_porosus_s_000279.png",
+      "mean_similarity": 0.9452707767486572,
+      "rank": 60
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\nile_crocodile_s_000432.png",
+      "mean_similarity": 0.9452653527259827,
+      "rank": 61
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\crocodile_s_000156.png",
+      "mean_similarity": 0.9452483057975769,
+      "rank": 62
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\crocodile_s_000008.png",
+      "mean_similarity": 0.9452277421951294,
+      "rank": 63
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\crocodylus_porosus_s_000715.png",
+      "mean_similarity": 0.9452201724052429,
+      "rank": 64
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\crocodylus_porosus_s_000462.png",
+      "mean_similarity": 0.9452200531959534,
+      "rank": 65
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\crocodylus_porosus_s_001215.png",
+      "mean_similarity": 0.9451717138290405,
+      "rank": 66
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\nile_crocodile_s_001378.png",
+      "mean_similarity": 0.9451717138290405,
+      "rank": 67
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\crocodile_s_002267.png",
+      "mean_similarity": 0.945171058177948,
+      "rank": 68
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\crocodylus_porosus_s_000377.png",
+      "mean_similarity": 0.9451708793640137,
+      "rank": 69
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\crocodile_s_002906.png",
+      "mean_similarity": 0.9451439380645752,
+      "rank": 70
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\crocodylus_niloticus_s_000032.png",
+      "mean_similarity": 0.9451205730438232,
+      "rank": 71
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\african_crocodile_s_000011.png",
+      "mean_similarity": 0.9451112747192383,
+      "rank": 72
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\crocodile_s_001759.png",
+      "mean_similarity": 0.945099413394928,
+      "rank": 73
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\crocodile_s_002391.png",
+      "mean_similarity": 0.9450985789299011,
+      "rank": 74
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\crocodylus_porosus_s_000437.png",
+      "mean_similarity": 0.9450861811637878,
+      "rank": 75
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\crocodile_s_003005.png",
+      "mean_similarity": 0.9450685977935791,
+      "rank": 76
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\nile_crocodile_s_000709.png",
+      "mean_similarity": 0.9450652003288269,
+      "rank": 77
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\nile_crocodile_s_000235.png",
+      "mean_similarity": 0.9450601935386658,
+      "rank": 78
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\crocodylus_porosus_s_000122.png",
+      "mean_similarity": 0.9450438022613525,
+      "rank": 79
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\crocodile_s_002043.png",
+      "mean_similarity": 0.9449817538261414,
+      "rank": 80
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\crocodile_s_002505.png",
+      "mean_similarity": 0.9449758529663086,
+      "rank": 81
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\nile_crocodile_s_000587.png",
+      "mean_similarity": 0.9449729919433594,
+      "rank": 82
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\crocodylus_niloticus_s_000786.png",
+      "mean_similarity": 0.9449556469917297,
+      "rank": 83
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\crocodylus_porosus_s_000137.png",
+      "mean_similarity": 0.9449449777603149,
+      "rank": 84
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\crocodile_s_002455.png",
+      "mean_similarity": 0.9449276924133301,
+      "rank": 85
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\nile_crocodile_s_001155.png",
+      "mean_similarity": 0.9449225068092346,
+      "rank": 86
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\crocodylus_porosus_s_000261.png",
+      "mean_similarity": 0.9449190497398376,
+      "rank": 87
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\crocodylus_porosus_s_000942.png",
+      "mean_similarity": 0.9449149370193481,
+      "rank": 88
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\crocodylus_porosus_s_000113.png",
+      "mean_similarity": 0.9448937177658081,
+      "rank": 89
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\crocodylus_porosus_s_000181.png",
+      "mean_similarity": 0.9448744058609009,
+      "rank": 90
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\crocodile_s_001899.png",
+      "mean_similarity": 0.9448738098144531,
+      "rank": 91
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\crocodylus_porosus_s_000716.png",
+      "mean_similarity": 0.9448538422584534,
+      "rank": 92
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\crocodylus_porosus_s_001036.png",
+      "mean_similarity": 0.9448420405387878,
+      "rank": 93
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\nile_crocodile_s_001759.png",
+      "mean_similarity": 0.9448419809341431,
+      "rank": 94
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\crocodile_s_002033.png",
+      "mean_similarity": 0.9448341131210327,
+      "rank": 95
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\crocodile_s_001385.png",
+      "mean_similarity": 0.9448089599609375,
+      "rank": 96
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\crocodylus_porosus_s_000461.png",
+      "mean_similarity": 0.944791316986084,
+      "rank": 97
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\nile_crocodile_s_000549.png",
+      "mean_similarity": 0.9447848200798035,
+      "rank": 98
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\crocodylus_porosus_s_000825.png",
+      "mean_similarity": 0.9447841644287109,
+      "rank": 99
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\crocodile_s_000379.png",
+      "mean_similarity": 0.9447399973869324,
+      "rank": 100
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\crocodylus_niloticus_s_000049.png",
+      "mean_similarity": 0.9447270035743713,
+      "rank": 101
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\crocodile_s_001003.png",
+      "mean_similarity": 0.9447173476219177,
+      "rank": 102
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\crocodylus_niloticus_s_000230.png",
+      "mean_similarity": 0.9447032809257507,
+      "rank": 103
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\crocodylus_porosus_s_000569.png",
+      "mean_similarity": 0.9446713328361511,
+      "rank": 104
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\crocodile_s_000569.png",
+      "mean_similarity": 0.9446603655815125,
+      "rank": 105
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\crocodile_s_002490.png",
+      "mean_similarity": 0.9446424841880798,
+      "rank": 106
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\nile_crocodile_s_001932.png",
+      "mean_similarity": 0.9446379542350769,
+      "rank": 107
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\crocodylus_porosus_s_000418.png",
+      "mean_similarity": 0.9446188807487488,
+      "rank": 108
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\nile_crocodile_s_001557.png",
+      "mean_similarity": 0.9446144104003906,
+      "rank": 109
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\african_crocodile_s_000012.png",
+      "mean_similarity": 0.9446009397506714,
+      "rank": 110
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\crocodile_s_002597.png",
+      "mean_similarity": 0.944594144821167,
+      "rank": 111
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\crocodile_s_001886.png",
+      "mean_similarity": 0.9445820450782776,
+      "rank": 112
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\crocodile_s_002155.png",
+      "mean_similarity": 0.9445725083351135,
+      "rank": 113
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\crocodile_s_000448.png",
+      "mean_similarity": 0.9445663690567017,
+      "rank": 114
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\crocodile_s_000701.png",
+      "mean_similarity": 0.9445618391036987,
+      "rank": 115
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\crocodylus_porosus_s_000749.png",
+      "mean_similarity": 0.9445589780807495,
+      "rank": 116
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\crocodylus_porosus_s_000191.png",
+      "mean_similarity": 0.9445582032203674,
+      "rank": 117
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\crocodylus_porosus_s_000276.png",
+      "mean_similarity": 0.9445491433143616,
+      "rank": 118
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\crocodile_s_001117.png",
+      "mean_similarity": 0.9445438981056213,
+      "rank": 119
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\crocodile_s_000134.png",
+      "mean_similarity": 0.9444999694824219,
+      "rank": 120
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\crocodylus_niloticus_s_000031.png",
+      "mean_similarity": 0.9444143772125244,
+      "rank": 121
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\crocodile_s_002517.png",
+      "mean_similarity": 0.9444082379341125,
+      "rank": 122
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\nile_crocodile_s_000540.png",
+      "mean_similarity": 0.9444007873535156,
+      "rank": 123
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\nile_crocodile_s_001527.png",
+      "mean_similarity": 0.9443916082382202,
+      "rank": 124
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\crocodile_s_000249.png",
+      "mean_similarity": 0.9443652629852295,
+      "rank": 125
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\crocodile_s_001916.png",
+      "mean_similarity": 0.944338858127594,
+      "rank": 126
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\nile_crocodile_s_000481.png",
+      "mean_similarity": 0.9443179965019226,
+      "rank": 127
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\crocodylus_porosus_s_000655.png",
+      "mean_similarity": 0.9443103671073914,
+      "rank": 128
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\crocodile_s_000652.png",
+      "mean_similarity": 0.9442884922027588,
+      "rank": 129
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\crocodylus_porosus_s_000580.png",
+      "mean_similarity": 0.9442884922027588,
+      "rank": 130
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\nile_crocodile_s_001821.png",
+      "mean_similarity": 0.9442872405052185,
+      "rank": 131
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\crocodile_s_001165.png",
+      "mean_similarity": 0.9442725777626038,
+      "rank": 132
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\nile_crocodile_s_001922.png",
+      "mean_similarity": 0.9442529082298279,
+      "rank": 133
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\crocodylus_niloticus_s_000216.png",
+      "mean_similarity": 0.9442101120948792,
+      "rank": 134
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\nile_crocodile_s_000243.png",
+      "mean_similarity": 0.9442009925842285,
+      "rank": 135
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\african_crocodile_s_001366.png",
+      "mean_similarity": 0.9441946148872375,
+      "rank": 136
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\crocodile_s_002580.png",
+      "mean_similarity": 0.9441918730735779,
+      "rank": 137
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\crocodylus_porosus_s_000968.png",
+      "mean_similarity": 0.94418865442276,
+      "rank": 138
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\crocodylus_porosus_s_000899.png",
+      "mean_similarity": 0.9441822171211243,
+      "rank": 139
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\crocodylus_porosus_s_000699.png",
+      "mean_similarity": 0.9441753625869751,
+      "rank": 140
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\crocodylus_porosus_s_000199.png",
+      "mean_similarity": 0.944169819355011,
+      "rank": 141
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\crocodylus_niloticus_s_000390.png",
+      "mean_similarity": 0.9441630244255066,
+      "rank": 142
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\crocodylus_porosus_s_000499.png",
+      "mean_similarity": 0.9441553354263306,
+      "rank": 143
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\crocodile_s_000223.png",
+      "mean_similarity": 0.9441100358963013,
+      "rank": 144
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\nile_crocodile_s_001646.png",
+      "mean_similarity": 0.944108784198761,
+      "rank": 145
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\african_crocodile_s_000954.png",
+      "mean_similarity": 0.9440963268280029,
+      "rank": 146
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\crocodile_s_003003.png",
+      "mean_similarity": 0.9440792202949524,
+      "rank": 147
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\crocodile_s_001663.png",
+      "mean_similarity": 0.944057822227478,
+      "rank": 148
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\crocodile_s_002380.png",
+      "mean_similarity": 0.9440511465072632,
+      "rank": 149
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\nile_crocodile_s_000019.png",
+      "mean_similarity": 0.9440491199493408,
+      "rank": 150
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\crocodylus_porosus_s_000205.png",
+      "mean_similarity": 0.9440393447875977,
+      "rank": 151
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\nile_crocodile_s_001319.png",
+      "mean_similarity": 0.944035530090332,
+      "rank": 152
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\crocodylus_niloticus_s_000436.png",
+      "mean_similarity": 0.9440157413482666,
+      "rank": 153
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\nile_crocodile_s_000646.png",
+      "mean_similarity": 0.9440135955810547,
+      "rank": 154
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\nile_crocodile_s_000636.png",
+      "mean_similarity": 0.9440069198608398,
+      "rank": 155
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\nile_crocodile_s_000215.png",
+      "mean_similarity": 0.9439836740493774,
+      "rank": 156
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\crocodylus_porosus_s_000438.png",
+      "mean_similarity": 0.9439780116081238,
+      "rank": 157
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\crocodile_s_001760.png",
+      "mean_similarity": 0.9439460635185242,
+      "rank": 158
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\crocodile_s_001334.png",
+      "mean_similarity": 0.9439440369606018,
+      "rank": 159
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\nile_crocodile_s_001848.png",
+      "mean_similarity": 0.9439342617988586,
+      "rank": 160
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\crocodylus_porosus_s_000691.png",
+      "mean_similarity": 0.9439191222190857,
+      "rank": 161
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\nile_crocodile_s_000180.png",
+      "mean_similarity": 0.9438949227333069,
+      "rank": 162
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\crocodile_s_000036.png",
+      "mean_similarity": 0.9438869953155518,
+      "rank": 163
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\crocodile_s_002598.png",
+      "mean_similarity": 0.9438827633857727,
+      "rank": 164
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\crocodylus_porosus_s_000884.png",
+      "mean_similarity": 0.9438366889953613,
+      "rank": 165
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\crocodylus_porosus_s_000254.png",
+      "mean_similarity": 0.9438160061836243,
+      "rank": 166
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\african_crocodile_s_000492.png",
+      "mean_similarity": 0.943775475025177,
+      "rank": 167
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\crocodile_s_002271.png",
+      "mean_similarity": 0.943769097328186,
+      "rank": 168
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\crocodylus_porosus_s_000540.png",
+      "mean_similarity": 0.9437667727470398,
+      "rank": 169
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\crocodile_s_000012.png",
+      "mean_similarity": 0.9437640309333801,
+      "rank": 170
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\crocodylus_niloticus_s_000534.png",
+      "mean_similarity": 0.9437437653541565,
+      "rank": 171
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\nile_crocodile_s_000286.png",
+      "mean_similarity": 0.9437336921691895,
+      "rank": 172
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\crocodylus_niloticus_s_000682.png",
+      "mean_similarity": 0.9436948895454407,
+      "rank": 173
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\crocodylus_niloticus_s_000272.png",
+      "mean_similarity": 0.9436758756637573,
+      "rank": 174
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\crocodylus_porosus_s_000211.png",
+      "mean_similarity": 0.9436691403388977,
+      "rank": 175
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\crocodylus_niloticus_s_000610.png",
+      "mean_similarity": 0.9436431527137756,
+      "rank": 176
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\crocodile_s_002374.png",
+      "mean_similarity": 0.9436351656913757,
+      "rank": 177
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\crocodylus_porosus_s_000048.png",
+      "mean_similarity": 0.9436319470405579,
+      "rank": 178
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\crocodile_s_000808.png",
+      "mean_similarity": 0.9436205625534058,
+      "rank": 179
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\crocodylus_niloticus_s_000024.png",
+      "mean_similarity": 0.9435815215110779,
+      "rank": 180
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\crocodylus_niloticus_s_000234.png",
+      "mean_similarity": 0.9435465335845947,
+      "rank": 181
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\crocodylus_porosus_s_000370.png",
+      "mean_similarity": 0.9434556365013123,
+      "rank": 182
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\nile_crocodile_s_000820.png",
+      "mean_similarity": 0.9434471726417542,
+      "rank": 183
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\crocodile_s_002395.png",
+      "mean_similarity": 0.9434448480606079,
+      "rank": 184
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\crocodile_s_002924.png",
+      "mean_similarity": 0.9434393644332886,
+      "rank": 185
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\crocodylus_niloticus_s_000091.png",
+      "mean_similarity": 0.9434357285499573,
+      "rank": 186
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\crocodylus_niloticus_s_000687.png",
+      "mean_similarity": 0.9434178471565247,
+      "rank": 187
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\crocodylus_porosus_s_000210.png",
+      "mean_similarity": 0.9433927536010742,
+      "rank": 188
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\crocodylus_niloticus_s_000002.png",
+      "mean_similarity": 0.9433815479278564,
+      "rank": 189
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\nile_crocodile_s_000802.png",
+      "mean_similarity": 0.9433645009994507,
+      "rank": 190
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\crocodylus_niloticus_s_000231.png",
+      "mean_similarity": 0.9433614015579224,
+      "rank": 191
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\crocodile_s_002755.png",
+      "mean_similarity": 0.9433505535125732,
+      "rank": 192
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\crocodile_s_000857.png",
+      "mean_similarity": 0.9433274269104004,
+      "rank": 193
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\nile_crocodile_s_000597.png",
+      "mean_similarity": 0.9433258175849915,
+      "rank": 194
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\crocodile_s_002299.png",
+      "mean_similarity": 0.9433252811431885,
+      "rank": 195
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\crocodylus_porosus_s_000477.png",
+      "mean_similarity": 0.9433148503303528,
+      "rank": 196
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\asian_crocodile_s_000114.png",
+      "mean_similarity": 0.9433131814002991,
+      "rank": 197
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\crocodylus_porosus_s_000623.png",
+      "mean_similarity": 0.943311870098114,
+      "rank": 198
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\nile_crocodile_s_000073.png",
+      "mean_similarity": 0.9432675242424011,
+      "rank": 199
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\nile_crocodile_s_001648.png",
+      "mean_similarity": 0.9432185888290405,
+      "rank": 200
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\crocodile_s_002221.png",
+      "mean_similarity": 0.9431583881378174,
+      "rank": 201
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\crocodylus_porosus_s_001061.png",
+      "mean_similarity": 0.9431470632553101,
+      "rank": 202
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\crocodile_s_002730.png",
+      "mean_similarity": 0.9431412816047668,
+      "rank": 203
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\crocodylus_porosus_s_000216.png",
+      "mean_similarity": 0.9431389570236206,
+      "rank": 204
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\nile_crocodile_s_000199.png",
+      "mean_similarity": 0.9431363344192505,
+      "rank": 205
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\nile_crocodile_s_000758.png",
+      "mean_similarity": 0.9431242942810059,
+      "rank": 206
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\crocodile_s_001792.png",
+      "mean_similarity": 0.9431172013282776,
+      "rank": 207
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\crocodile_s_002594.png",
+      "mean_similarity": 0.9430906772613525,
+      "rank": 208
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\crocodylus_porosus_s_000795.png",
+      "mean_similarity": 0.9430806040763855,
+      "rank": 209
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\crocodylus_niloticus_s_000025.png",
+      "mean_similarity": 0.943075954914093,
+      "rank": 210
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\crocodile_s_001644.png",
+      "mean_similarity": 0.943072497844696,
+      "rank": 211
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\nile_crocodile_s_000102.png",
+      "mean_similarity": 0.9430368542671204,
+      "rank": 212
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\crocodylus_porosus_s_000323.png",
+      "mean_similarity": 0.9430238604545593,
+      "rank": 213
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\african_crocodile_s_000950.png",
+      "mean_similarity": 0.9430116415023804,
+      "rank": 214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\nile_crocodile_s_000009.png",
+      "mean_similarity": 0.9429885745048523,
+      "rank": 215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\african_crocodile_s_000411.png",
+      "mean_similarity": 0.9429808855056763,
+      "rank": 216
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\crocodylus_porosus_s_000842.png",
+      "mean_similarity": 0.942977786064148,
+      "rank": 217
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\crocodile_s_000005.png",
+      "mean_similarity": 0.9429482221603394,
+      "rank": 218
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\crocodile_s_002905.png",
+      "mean_similarity": 0.9429076910018921,
+      "rank": 219
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\nile_crocodile_s_001109.png",
+      "mean_similarity": 0.9428949356079102,
+      "rank": 220
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\african_crocodile_s_000923.png",
+      "mean_similarity": 0.9428892731666565,
+      "rank": 221
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\nile_crocodile_s_001936.png",
+      "mean_similarity": 0.9428842663764954,
+      "rank": 222
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\crocodile_s_001799.png",
+      "mean_similarity": 0.9428243637084961,
+      "rank": 223
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\crocodylus_porosus_s_001222.png",
+      "mean_similarity": 0.9428120255470276,
+      "rank": 224
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\crocodile_s_001116.png",
+      "mean_similarity": 0.9427886605262756,
+      "rank": 225
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\crocodylus_niloticus_s_000557.png",
+      "mean_similarity": 0.9427862167358398,
+      "rank": 226
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\crocodile_s_001638.png",
+      "mean_similarity": 0.9427820444107056,
+      "rank": 227
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\nile_crocodile_s_001106.png",
+      "mean_similarity": 0.9427800178527832,
+      "rank": 228
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\crocodylus_niloticus_s_000038.png",
+      "mean_similarity": 0.942775309085846,
+      "rank": 229
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\african_crocodile_s_000590.png",
+      "mean_similarity": 0.9427319169044495,
+      "rank": 230
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\crocodile_s_000839.png",
+      "mean_similarity": 0.9427292943000793,
+      "rank": 231
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\crocodylus_porosus_s_000459.png",
+      "mean_similarity": 0.9427292943000793,
+      "rank": 232
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\nile_crocodile_s_000207.png",
+      "mean_similarity": 0.9427172541618347,
+      "rank": 233
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\nile_crocodile_s_000348.png",
+      "mean_similarity": 0.9427028298377991,
+      "rank": 234
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\crocodylus_porosus_s_000637.png",
+      "mean_similarity": 0.9426986575126648,
+      "rank": 235
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\crocodylus_porosus_s_000263.png",
+      "mean_similarity": 0.9426916241645813,
+      "rank": 236
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\crocodile_s_000201.png",
+      "mean_similarity": 0.9426767230033875,
+      "rank": 237
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\crocodylus_niloticus_s_000672.png",
+      "mean_similarity": 0.9426698088645935,
+      "rank": 238
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\african_crocodile_s_000873.png",
+      "mean_similarity": 0.9426673054695129,
+      "rank": 239
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\crocodylus_porosus_s_000469.png",
+      "mean_similarity": 0.9426618814468384,
+      "rank": 240
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\crocodile_s_001409.png",
+      "mean_similarity": 0.9426442384719849,
+      "rank": 241
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\crocodylus_niloticus_s_000489.png",
+      "mean_similarity": 0.9426417946815491,
+      "rank": 242
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\crocodile_s_001163.png",
+      "mean_similarity": 0.9426313042640686,
+      "rank": 243
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\african_crocodile_s_000652.png",
+      "mean_similarity": 0.9426148533821106,
+      "rank": 244
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\nile_crocodile_s_000918.png",
+      "mean_similarity": 0.9425948858261108,
+      "rank": 245
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\crocodile_s_001673.png",
+      "mean_similarity": 0.9425554275512695,
+      "rank": 246
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\crocodile_s_001105.png",
+      "mean_similarity": 0.942554771900177,
+      "rank": 247
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\crocodylus_porosus_s_000119.png",
+      "mean_similarity": 0.942539632320404,
+      "rank": 248
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\crocodile_s_000007.png",
+      "mean_similarity": 0.9425226449966431,
+      "rank": 249
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\028.crocodile\\crocodylus_porosus_s_000193.png",
+      "mean_similarity": 0.9425169825553894,
+      "rank": 250
+    }
+  ]
+}

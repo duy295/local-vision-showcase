@@ -1,0 +1,26 @@
+{
+  "class_name": "motorcycle",
+  "global_description": "Two-wheeled vehicle with a sleek, elongated body, metallic frame, and rubber tires. Typically features a glossy finish, often in black or red. Includes a seat for the rider, handlebars for steering, and an exhaust pipe.",
+  "discriminative_attributes": [
+    "Two wheels",
+    "Metallic frame",
+    "Glossy finish",
+    "Handlebars",
+    "Exhaust pipe"
+  ],
+  "part_details": {
+    "wheels": "Two rubber tires, one at the front and one at the rear",
+    "frame": "Metallic, often with a glossy finish",
+    "seat": "Single or dual, positioned in the middle",
+    "handlebars": "Curved, for steering",
+    "exhaust": "Metal pipe, usually at the rear"
+  },
+  "spatial_relations": [
+    "Wheels at front and rear",
+    "Seat positioned centrally",
+    "Handlebars at front",
+    "Exhaust at rear"
+  ],
+  "original_dataset_key": "cifar100",
+  "original_class_key": "motorcycle"
+}

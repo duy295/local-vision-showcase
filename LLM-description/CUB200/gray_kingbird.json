@@ -1,0 +1,25 @@
+{
+  "class_name": "Bird",
+  "global_description": "A medium-sized bird with a sleek, streamlined body. It has predominantly gray plumage with a lighter gray or white underbelly. The bird features a distinctive black mask across its eyes and a slightly forked tail. Its wings are long and pointed, aiding in agile flight.",
+  "discriminative_attributes": [
+    "Gray plumage",
+    "Black eye mask",
+    "Slightly forked tail",
+    "Long pointed wings",
+    "Light gray underbelly"
+  ],
+  "part_details": {
+    "plumage": "Smooth gray feathers covering the body, darker on the back and lighter on the belly.",
+    "mask": "Black marking across the eyes, contrasting with the gray head.",
+    "tail": "Slightly forked, gray with a subtle notch.",
+    "wings": "Long and pointed, gray with a streamlined shape.",
+    "underbelly": "Light gray or white, contrasting with the darker upper parts."
+  },
+  "spatial_relations": [
+    "The black mask is positioned across the eyes.",
+    "The wings extend from the sides of the body.",
+    "The tail is located at the rear, slightly forked."
+  ],
+  "original_dataset_key": "CUB200",
+  "original_class_key": "gray_kingbird"
+}

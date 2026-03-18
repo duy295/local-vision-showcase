@@ -1,0 +1,25 @@
+{
+  "class_name": "Western Gull",
+  "global_description": "A medium-sized seabird with a robust, streamlined body. Predominantly white with a gray back and wings. It features a yellow, hooked beak and pink legs. The wings are long and pointed, and the tail is short and square.",
+  "discriminative_attributes": [
+    "Gray back and wings",
+    "White head and underparts",
+    "Yellow hooked beak",
+    "Pink legs and feet",
+    "Long pointed wings"
+  ],
+  "part_details": {
+    "head": "White, smooth, rounded with a yellow eye ring.",
+    "beak": "Yellow, thick, slightly hooked at the tip.",
+    "wings": "Long, pointed, gray with black wingtips.",
+    "legs": "Pink, slender, with webbed feet.",
+    "tail": "Short, square, white with gray markings."
+  },
+  "spatial_relations": [
+    "The gray wings extend from the sides of the white body.",
+    "The yellow beak protrudes from the front of the white head.",
+    "The pink legs are positioned under the body, supporting it."
+  ],
+  "original_dataset_key": "CUB200",
+  "original_class_key": "western_gull"
+}

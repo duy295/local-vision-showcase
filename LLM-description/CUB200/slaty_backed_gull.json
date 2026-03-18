@@ -1,0 +1,25 @@
+{
+  "class_name": "Slaty Backed Gull",
+  "global_description": "A medium to large seabird with a robust body and a streamlined shape. It features a slaty gray back and wings, contrasting with a white head, neck, and underparts. The bird has a yellow bill with a red spot near the tip and pink legs. The wings are long and pointed, and the tail is short and square.",
+  "discriminative_attributes": [
+    "Slaty gray back and wings",
+    "White head and underparts",
+    "Yellow bill with red spot",
+    "Pink legs",
+    "Long pointed wings"
+  ],
+  "part_details": {
+    "back": "Slaty gray, smooth feathers covering the upper body.",
+    "wings": "Long, pointed, slaty gray with white tips.",
+    "head": "White, smooth feathers with a rounded shape.",
+    "bill": "Yellow, slightly curved with a distinctive red spot near the tip.",
+    "legs": "Pink, slender, and moderately long."
+  },
+  "spatial_relations": [
+    "The slaty gray wings extend from the sides of the white body.",
+    "The yellow bill protrudes from the front of the white head.",
+    "The pink legs are positioned under the body, supporting it."
+  ],
+  "original_dataset_key": "CUB200",
+  "original_class_key": "slaty_backed_gull"
+}

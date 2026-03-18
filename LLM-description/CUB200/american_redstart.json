@@ -1,0 +1,25 @@
+{
+  "class_name": "Bird",
+  "global_description": "A small, agile songbird with a slender body and short tail. It features striking black and orange plumage, with a glossy black head and back, and bright orange patches on the sides and wings. The underparts are white, and the wings are rounded.",
+  "discriminative_attributes": [
+    "Glossy black head and back",
+    "Bright orange wing patches",
+    "White underparts",
+    "Short tail with orange base",
+    "Rounded wings"
+  ],
+  "part_details": {
+    "head": "Glossy black, small and rounded.",
+    "back": "Glossy black, sleek and smooth.",
+    "wings": "Rounded, black with bright orange patches.",
+    "tail": "Short, black with orange at the base.",
+    "underparts": "White, smooth and clean."
+  },
+  "spatial_relations": [
+    "The orange wing patches are located centrally on the black wings.",
+    "The short tail extends from the lower back.",
+    "The white underparts are below the black back."
+  ],
+  "original_dataset_key": "CUB200",
+  "original_class_key": "american_redstart"
+}

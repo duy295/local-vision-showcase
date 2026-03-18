@@ -1,0 +1,25 @@
+{
+  "class_name": "road",
+  "global_description": "Flat, elongated surface made of asphalt or concrete, typically gray or black, with painted lines for lanes, bordered by curbs or shoulders, designed for vehicles and pedestrians.",
+  "discriminative_attributes": [
+    "Flat elongated surface",
+    "Gray or black color",
+    "Painted lane lines",
+    "Asphalt or concrete material",
+    "Curbs or shoulders"
+  ],
+  "part_details": {
+    "surface": "Flat, smooth, gray or black, made of asphalt or concrete",
+    "lane_lines": "Painted white or yellow lines dividing lanes",
+    "curbs": "Raised edges along the sides, often concrete",
+    "shoulders": "Flat areas beside lanes, sometimes gravel or paved",
+    "markings": "Various symbols and lines for traffic guidance"
+  },
+  "spatial_relations": [
+    "Lane lines run parallel along the surface",
+    "Curbs or shoulders border the road",
+    "Markings are painted on the surface"
+  ],
+  "original_dataset_key": "cifar100",
+  "original_class_key": "road"
+}

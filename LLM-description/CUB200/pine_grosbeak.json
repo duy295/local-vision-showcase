@@ -1,0 +1,25 @@
+{
+  "class_name": "Bird",
+  "global_description": "A medium-sized, plump bird with a stout body and short tail. It features a predominantly rosy-red plumage with grayish wings and back. The bird has a thick, conical bill and a rounded head.",
+  "discriminative_attributes": [
+    "Rosy-red plumage",
+    "Grayish wings and back",
+    "Thick conical bill",
+    "Short tail",
+    "Rounded head"
+  ],
+  "part_details": {
+    "plumage": "Predominantly rosy-red with a soft texture, covering most of the body.",
+    "wings": "Grayish with a subtle pattern, short and rounded.",
+    "bill": "Thick, conical, and pale, suited for seed eating.",
+    "tail": "Short and slightly notched, matching the body color.",
+    "head": "Rounded with a rosy-red hue, blending into the body."
+  },
+  "spatial_relations": [
+    "The thick conical bill is positioned at the front of the rounded head.",
+    "The grayish wings are attached to the sides of the body.",
+    "The short tail extends from the rear of the body."
+  ],
+  "original_dataset_key": "CUB200",
+  "original_class_key": "pine_grosbeak"
+}

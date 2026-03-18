@@ -1,0 +1,159 @@
+{
+  "class_name": "031.Black_billed_Cuckoo",
+  "class_idx": 30,
+  "num_images_in_class": 30,
+  "ec_size_requested": 30,
+  "ec_size_actual": 30,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\031.Black_billed_Cuckoo\\Black_Billed_Cuckoo_0069_795326.jpg",
+      "mean_similarity": 0.9492730498313904,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\031.Black_billed_Cuckoo\\Black_Billed_Cuckoo_0055_26223.jpg",
+      "mean_similarity": 0.9487771391868591,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\031.Black_billed_Cuckoo\\Black_Billed_Cuckoo_0096_26204.jpg",
+      "mean_similarity": 0.9487142562866211,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\031.Black_billed_Cuckoo\\Black_Billed_Cuckoo_0058_795292.jpg",
+      "mean_similarity": 0.9486783742904663,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\031.Black_billed_Cuckoo\\Black_Billed_Cuckoo_0090_26311.jpg",
+      "mean_similarity": 0.9486506581306458,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\031.Black_billed_Cuckoo\\Black_Billed_Cuckoo_0028_26165.jpg",
+      "mean_similarity": 0.9486428499221802,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\031.Black_billed_Cuckoo\\Black_Billed_Cuckoo_0047_26176.jpg",
+      "mean_similarity": 0.9484955072402954,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\031.Black_billed_Cuckoo\\Black_Billed_Cuckoo_0082_26241.jpg",
+      "mean_similarity": 0.9483175277709961,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\031.Black_billed_Cuckoo\\Black_Billed_Cuckoo_0092_795313.jpg",
+      "mean_similarity": 0.9482227563858032,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\031.Black_billed_Cuckoo\\Black_Billed_Cuckoo_0088_26217.jpg",
+      "mean_similarity": 0.9480929970741272,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\031.Black_billed_Cuckoo\\Black_Billed_Cuckoo_0084_26175.jpg",
+      "mean_similarity": 0.9479780197143555,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\031.Black_billed_Cuckoo\\Black_Billed_Cuckoo_0001_26242.jpg",
+      "mean_similarity": 0.9474819898605347,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\031.Black_billed_Cuckoo\\Black_Billed_Cuckoo_0005_26161.jpg",
+      "mean_similarity": 0.9474270939826965,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\031.Black_billed_Cuckoo\\Black_Billed_Cuckoo_0054_26313.jpg",
+      "mean_similarity": 0.9470645189285278,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\031.Black_billed_Cuckoo\\Black_Billed_Cuckoo_0061_795327.jpg",
+      "mean_similarity": 0.9469808340072632,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\031.Black_billed_Cuckoo\\Black_Billed_Cuckoo_0031_26318.jpg",
+      "mean_similarity": 0.946704626083374,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\031.Black_billed_Cuckoo\\Black_Billed_Cuckoo_0057_795323.jpg",
+      "mean_similarity": 0.9466660618782043,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\031.Black_billed_Cuckoo\\Black_Billed_Cuckoo_0053_795321.jpg",
+      "mean_similarity": 0.946586012840271,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\031.Black_billed_Cuckoo\\Black_Billed_Cuckoo_0062_795309.jpg",
+      "mean_similarity": 0.9463942646980286,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\031.Black_billed_Cuckoo\\Black_Billed_Cuckoo_0019_795329.jpg",
+      "mean_similarity": 0.9461207985877991,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\031.Black_billed_Cuckoo\\Black_Billed_Cuckoo_0077_26222.jpg",
+      "mean_similarity": 0.9453554153442383,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\031.Black_billed_Cuckoo\\Black_Billed_Cuckoo_0075_795298.jpg",
+      "mean_similarity": 0.944610059261322,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\031.Black_billed_Cuckoo\\Black_Billed_Cuckoo_0093_795316.jpg",
+      "mean_similarity": 0.9437065720558167,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\031.Black_billed_Cuckoo\\Black_Billed_Cuckoo_0074_795286.jpg",
+      "mean_similarity": 0.943335235118866,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\031.Black_billed_Cuckoo\\Black_Billed_Cuckoo_0066_26303.jpg",
+      "mean_similarity": 0.9432940483093262,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\031.Black_billed_Cuckoo\\Black_Billed_Cuckoo_0070_795310.jpg",
+      "mean_similarity": 0.9430738091468811,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\031.Black_billed_Cuckoo\\Black_Billed_Cuckoo_0087_795300.jpg",
+      "mean_similarity": 0.9404803514480591,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\031.Black_billed_Cuckoo\\Black_Billed_Cuckoo_0086_26188.jpg",
+      "mean_similarity": 0.9401710033416748,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\031.Black_billed_Cuckoo\\Black_Billed_Cuckoo_0079_26180.jpg",
+      "mean_similarity": 0.9160832166671753,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\031.Black_billed_Cuckoo\\Black_Billed_Cuckoo_0081_26209.jpg",
+      "mean_similarity": 0.9108418226242065,
+      "rank": 30
+    }
+  ]
+}

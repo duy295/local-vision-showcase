@@ -1,0 +1,26 @@
+{
+  "class_name": "dragonfly",
+  "global_description": "Slender insect with elongated body, iridescent wings, and large compound eyes. The body is typically metallic or bright in color, with four transparent wings that have intricate vein patterns. The head is large relative to the body, and the legs are thin and spindly.",
+  "discriminative_attributes": [
+    "Elongated body",
+    "Iridescent wings",
+    "Large compound eyes",
+    "Metallic or bright colors",
+    "Intricate wing veins"
+  ],
+  "part_details": {
+    "head": "Large with prominent compound eyes",
+    "body": "Slender, elongated, metallic or bright",
+    "wings": "Four transparent, iridescent with vein patterns",
+    "legs": "Thin and spindly, attached to thorax",
+    "eyes": "Large, compound, covering most of head"
+  },
+  "spatial_relations": [
+    "Head at front of body",
+    "Wings attached to thorax",
+    "Legs beneath thorax",
+    "Eyes on sides of head"
+  ],
+  "original_dataset_key": "ImageNetR",
+  "original_class_key": "dragonfly"
+}

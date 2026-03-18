@@ -1,0 +1,1259 @@
+{
+  "class_name": "lamp",
+  "class_idx": 40,
+  "num_images_in_class": 500,
+  "ec_size_requested": 250,
+  "ec_size_actual": 250,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\lamp_s_000981.png",
+      "mean_similarity": 0.9427670240402222,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\lamp_s_001252.png",
+      "mean_similarity": 0.9427044987678528,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\electric_lamp_s_000514.png",
+      "mean_similarity": 0.9422066807746887,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\lamp_s_001166.png",
+      "mean_similarity": 0.9420710206031799,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\lamp_s_001861.png",
+      "mean_similarity": 0.9418743848800659,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\electric_lamp_s_000434.png",
+      "mean_similarity": 0.9418640732765198,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\lamp_s_002211.png",
+      "mean_similarity": 0.941852331161499,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\electric_lamp_s_000379.png",
+      "mean_similarity": 0.9418145418167114,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\lamp_s_002036.png",
+      "mean_similarity": 0.9417738318443298,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\rush_candle_s_000003.png",
+      "mean_similarity": 0.9417420029640198,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\lamp_s_000339.png",
+      "mean_similarity": 0.941739559173584,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\lamp_s_000580.png",
+      "mean_similarity": 0.9417265057563782,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\electric_lamp_s_000175.png",
+      "mean_similarity": 0.9415852427482605,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\electric_lamp_s_000709.png",
+      "mean_similarity": 0.9415283203125,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\lamp_s_000426.png",
+      "mean_similarity": 0.9414865970611572,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\lamp_s_001230.png",
+      "mean_similarity": 0.9414423704147339,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\lamp_s_001089.png",
+      "mean_similarity": 0.9414322972297668,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\lamp_s_000790.png",
+      "mean_similarity": 0.9414125084877014,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\lamp_s_001229.png",
+      "mean_similarity": 0.9414012432098389,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\lamp_s_001024.png",
+      "mean_similarity": 0.94130939245224,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\wax_light_s_000015.png",
+      "mean_similarity": 0.9412954449653625,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\lamp_s_001022.png",
+      "mean_similarity": 0.9412928819656372,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\lamp_s_000404.png",
+      "mean_similarity": 0.9412404298782349,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\lamp_s_000235.png",
+      "mean_similarity": 0.9412114024162292,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\lamp_s_000386.png",
+      "mean_similarity": 0.9411635994911194,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\lamp_s_001962.png",
+      "mean_similarity": 0.9411360621452332,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\rush_candle_s_000194.png",
+      "mean_similarity": 0.941112220287323,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\lamp_s_001469.png",
+      "mean_similarity": 0.9409903287887573,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\rushlight_s_000560.png",
+      "mean_similarity": 0.940946102142334,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\lamp_s_000778.png",
+      "mean_similarity": 0.9408838748931885,
+      "rank": 30
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\lamp_s_001027.png",
+      "mean_similarity": 0.9408329129219055,
+      "rank": 31
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\lamp_s_001605.png",
+      "mean_similarity": 0.9407950043678284,
+      "rank": 32
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\lamp_s_002103.png",
+      "mean_similarity": 0.9407219886779785,
+      "rank": 33
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\lamp_s_001091.png",
+      "mean_similarity": 0.9406582713127136,
+      "rank": 34
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\lamp_s_001209.png",
+      "mean_similarity": 0.940656840801239,
+      "rank": 35
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\lamp_s_000172.png",
+      "mean_similarity": 0.9406551122665405,
+      "rank": 36
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\lamp_s_002292.png",
+      "mean_similarity": 0.9406219720840454,
+      "rank": 37
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\lamp_s_000809.png",
+      "mean_similarity": 0.9406134486198425,
+      "rank": 38
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\lamp_s_000853.png",
+      "mean_similarity": 0.9405936002731323,
+      "rank": 39
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\discharge_lamp_s_000995.png",
+      "mean_similarity": 0.9405934810638428,
+      "rank": 40
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\electric_lamp_s_000230.png",
+      "mean_similarity": 0.9405726790428162,
+      "rank": 41
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\lamp_s_000240.png",
+      "mean_similarity": 0.940534234046936,
+      "rank": 42
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\lamp_s_000054.png",
+      "mean_similarity": 0.9405216574668884,
+      "rank": 43
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\lamp_s_000899.png",
+      "mean_similarity": 0.9405073523521423,
+      "rank": 44
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\discharge_lamp_s_000553.png",
+      "mean_similarity": 0.9405009150505066,
+      "rank": 45
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\lamp_s_000162.png",
+      "mean_similarity": 0.9404948949813843,
+      "rank": 46
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\lamp_s_000129.png",
+      "mean_similarity": 0.9404817819595337,
+      "rank": 47
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\lamp_s_001081.png",
+      "mean_similarity": 0.9404454827308655,
+      "rank": 48
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\lamp_s_001118.png",
+      "mean_similarity": 0.9403555989265442,
+      "rank": 49
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\lamp_s_000120.png",
+      "mean_similarity": 0.9403455853462219,
+      "rank": 50
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\lamp_s_000331.png",
+      "mean_similarity": 0.940337598323822,
+      "rank": 51
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\electric_lamp_s_000326.png",
+      "mean_similarity": 0.940292477607727,
+      "rank": 52
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\lamp_s_000495.png",
+      "mean_similarity": 0.940291702747345,
+      "rank": 53
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\discharge_lamp_s_000675.png",
+      "mean_similarity": 0.9402821660041809,
+      "rank": 54
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\lamp_s_001579.png",
+      "mean_similarity": 0.940252959728241,
+      "rank": 55
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\lamp_s_002158.png",
+      "mean_similarity": 0.9402202367782593,
+      "rank": 56
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\electric_lamp_s_000245.png",
+      "mean_similarity": 0.9402198195457458,
+      "rank": 57
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\electric_lamp_s_000049.png",
+      "mean_similarity": 0.940197229385376,
+      "rank": 58
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\lamp_s_000233.png",
+      "mean_similarity": 0.9401752948760986,
+      "rank": 59
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\electric_lamp_s_000284.png",
+      "mean_similarity": 0.9401143193244934,
+      "rank": 60
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\electric_lamp_s_000131.png",
+      "mean_similarity": 0.9401069283485413,
+      "rank": 61
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\lamp_s_000768.png",
+      "mean_similarity": 0.940101146697998,
+      "rank": 62
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\lamp_s_001337.png",
+      "mean_similarity": 0.9400827884674072,
+      "rank": 63
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\electric_lamp_s_000715.png",
+      "mean_similarity": 0.9400790333747864,
+      "rank": 64
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\lamp_s_001998.png",
+      "mean_similarity": 0.9400264024734497,
+      "rank": 65
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\lamp_s_002043.png",
+      "mean_similarity": 0.9399954676628113,
+      "rank": 66
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\electric_lamp_s_000648.png",
+      "mean_similarity": 0.9399887323379517,
+      "rank": 67
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\lamp_s_000882.png",
+      "mean_similarity": 0.9399407505989075,
+      "rank": 68
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\rushlight_s_000139.png",
+      "mean_similarity": 0.9399120807647705,
+      "rank": 69
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\lamp_s_001219.png",
+      "mean_similarity": 0.9398033022880554,
+      "rank": 70
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\electric_lamp_s_000541.png",
+      "mean_similarity": 0.9397674798965454,
+      "rank": 71
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\electric_lamp_s_000156.png",
+      "mean_similarity": 0.9396820068359375,
+      "rank": 72
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\discharge_lamp_s_000310.png",
+      "mean_similarity": 0.9396626949310303,
+      "rank": 73
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\lamp_s_000323.png",
+      "mean_similarity": 0.93966144323349,
+      "rank": 74
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\electric_lamp_s_000104.png",
+      "mean_similarity": 0.9396330118179321,
+      "rank": 75
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\rush_candle_s_000055.png",
+      "mean_similarity": 0.9396034479141235,
+      "rank": 76
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\electric_lamp_s_000222.png",
+      "mean_similarity": 0.9395442605018616,
+      "rank": 77
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\lamp_s_001449.png",
+      "mean_similarity": 0.9395433664321899,
+      "rank": 78
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\electric_lamp_s_000651.png",
+      "mean_similarity": 0.9395167827606201,
+      "rank": 79
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\lamp_s_000933.png",
+      "mean_similarity": 0.9394984841346741,
+      "rank": 80
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\lamp_s_000042.png",
+      "mean_similarity": 0.9394900798797607,
+      "rank": 81
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\lamp_s_001811.png",
+      "mean_similarity": 0.9394803047180176,
+      "rank": 82
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\lamp_s_000546.png",
+      "mean_similarity": 0.9394695162773132,
+      "rank": 83
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\electric_lamp_s_000600.png",
+      "mean_similarity": 0.9394612312316895,
+      "rank": 84
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\electric_lamp_s_000053.png",
+      "mean_similarity": 0.9394540190696716,
+      "rank": 85
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\electric_lamp_s_000337.png",
+      "mean_similarity": 0.9394189119338989,
+      "rank": 86
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\electric_lamp_s_000576.png",
+      "mean_similarity": 0.9393187165260315,
+      "rank": 87
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\lamp_s_002168.png",
+      "mean_similarity": 0.9393166303634644,
+      "rank": 88
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\electric_lamp_s_000288.png",
+      "mean_similarity": 0.9392892122268677,
+      "rank": 89
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\electric_lamp_s_000470.png",
+      "mean_similarity": 0.9392432570457458,
+      "rank": 90
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\lamp_s_001452.png",
+      "mean_similarity": 0.9391974806785583,
+      "rank": 91
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\lamp_s_000983.png",
+      "mean_similarity": 0.9391970038414001,
+      "rank": 92
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\lamp_s_001806.png",
+      "mean_similarity": 0.9391484260559082,
+      "rank": 93
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\lamp_s_002029.png",
+      "mean_similarity": 0.9391255974769592,
+      "rank": 94
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\lamp_s_000875.png",
+      "mean_similarity": 0.9390808939933777,
+      "rank": 95
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\electric_lamp_s_000357.png",
+      "mean_similarity": 0.9390600323677063,
+      "rank": 96
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\candle_s_000126.png",
+      "mean_similarity": 0.9390328526496887,
+      "rank": 97
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\electric_lamp_s_000716.png",
+      "mean_similarity": 0.9390274882316589,
+      "rank": 98
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\lamp_s_002243.png",
+      "mean_similarity": 0.9390166997909546,
+      "rank": 99
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\lamp_s_000221.png",
+      "mean_similarity": 0.9390130639076233,
+      "rank": 100
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\lamp_s_002301.png",
+      "mean_similarity": 0.9389901161193848,
+      "rank": 101
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\lamp_s_001690.png",
+      "mean_similarity": 0.9389781355857849,
+      "rank": 102
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\electric_lamp_s_000458.png",
+      "mean_similarity": 0.9389768242835999,
+      "rank": 103
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\lamp_s_001555.png",
+      "mean_similarity": 0.9389413595199585,
+      "rank": 104
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\electric_lamp_s_000520.png",
+      "mean_similarity": 0.9389100670814514,
+      "rank": 105
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\electric_lamp_s_000304.png",
+      "mean_similarity": 0.9389055967330933,
+      "rank": 106
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\electric_lamp_s_000085.png",
+      "mean_similarity": 0.9388611316680908,
+      "rank": 107
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\lamp_s_000484.png",
+      "mean_similarity": 0.9388333559036255,
+      "rank": 108
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\electric_lamp_s_000608.png",
+      "mean_similarity": 0.9387746453285217,
+      "rank": 109
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\electric_lamp_s_000109.png",
+      "mean_similarity": 0.938767671585083,
+      "rank": 110
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\electric_lamp_s_000368.png",
+      "mean_similarity": 0.9387235045433044,
+      "rank": 111
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\electric_lamp_s_000557.png",
+      "mean_similarity": 0.9386753439903259,
+      "rank": 112
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\lamp_s_000341.png",
+      "mean_similarity": 0.9386594295501709,
+      "rank": 113
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\lamp_s_001313.png",
+      "mean_similarity": 0.9386475682258606,
+      "rank": 114
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\discharge_lamp_s_000280.png",
+      "mean_similarity": 0.9386042952537537,
+      "rank": 115
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\electric_lamp_s_000124.png",
+      "mean_similarity": 0.9386007785797119,
+      "rank": 116
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\electric_lamp_s_000171.png",
+      "mean_similarity": 0.9385917782783508,
+      "rank": 117
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\lamp_s_002153.png",
+      "mean_similarity": 0.9385618567466736,
+      "rank": 118
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\lamp_s_002041.png",
+      "mean_similarity": 0.9385614395141602,
+      "rank": 119
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\rushlight_s_000493.png",
+      "mean_similarity": 0.9385221004486084,
+      "rank": 120
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\electric_lamp_s_000712.png",
+      "mean_similarity": 0.9385179877281189,
+      "rank": 121
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\electric_lamp_s_000164.png",
+      "mean_similarity": 0.9385140538215637,
+      "rank": 122
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\discharge_lamp_s_001113.png",
+      "mean_similarity": 0.9384639263153076,
+      "rank": 123
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\discharge_lamp_s_001123.png",
+      "mean_similarity": 0.9384464621543884,
+      "rank": 124
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\lamp_s_001416.png",
+      "mean_similarity": 0.9384158849716187,
+      "rank": 125
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\electric_lamp_s_000672.png",
+      "mean_similarity": 0.9384079575538635,
+      "rank": 126
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\rushlight_s_000150.png",
+      "mean_similarity": 0.9383673667907715,
+      "rank": 127
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\electric_lamp_s_000467.png",
+      "mean_similarity": 0.9383043050765991,
+      "rank": 128
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\electric_lamp_s_000718.png",
+      "mean_similarity": 0.9382821917533875,
+      "rank": 129
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\lamp_s_000481.png",
+      "mean_similarity": 0.9382663369178772,
+      "rank": 130
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\discharge_lamp_s_000385.png",
+      "mean_similarity": 0.9382444024085999,
+      "rank": 131
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\lamp_s_001956.png",
+      "mean_similarity": 0.9382362365722656,
+      "rank": 132
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\rushlight_s_000068.png",
+      "mean_similarity": 0.9382216930389404,
+      "rank": 133
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\lamp_s_000980.png",
+      "mean_similarity": 0.9381983876228333,
+      "rank": 134
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\lamp_s_001401.png",
+      "mean_similarity": 0.938119649887085,
+      "rank": 135
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\lamp_s_002202.png",
+      "mean_similarity": 0.9381071925163269,
+      "rank": 136
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\lamp_s_000452.png",
+      "mean_similarity": 0.9380956888198853,
+      "rank": 137
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\lamp_s_002020.png",
+      "mean_similarity": 0.9380955696105957,
+      "rank": 138
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\electric_lamp_s_000151.png",
+      "mean_similarity": 0.938044548034668,
+      "rank": 139
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\electric_lamp_s_000136.png",
+      "mean_similarity": 0.9380276203155518,
+      "rank": 140
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\lamp_s_000525.png",
+      "mean_similarity": 0.9380216598510742,
+      "rank": 141
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\lamp_s_000225.png",
+      "mean_similarity": 0.9380212426185608,
+      "rank": 142
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\discharge_lamp_s_000342.png",
+      "mean_similarity": 0.9380055069923401,
+      "rank": 143
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\lamp_s_000208.png",
+      "mean_similarity": 0.9379523396492004,
+      "rank": 144
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\electric_lamp_s_000437.png",
+      "mean_similarity": 0.9379424452781677,
+      "rank": 145
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\electric_lamp_s_000569.png",
+      "mean_similarity": 0.9379252791404724,
+      "rank": 146
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\lamp_s_000800.png",
+      "mean_similarity": 0.9379028081893921,
+      "rank": 147
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\lamp_s_000393.png",
+      "mean_similarity": 0.9378931522369385,
+      "rank": 148
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\rush_candle_s_000045.png",
+      "mean_similarity": 0.9378907084465027,
+      "rank": 149
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\lamp_s_001826.png",
+      "mean_similarity": 0.9378791451454163,
+      "rank": 150
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\lamp_s_001122.png",
+      "mean_similarity": 0.9378166794776917,
+      "rank": 151
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\electric_lamp_s_000219.png",
+      "mean_similarity": 0.9377944469451904,
+      "rank": 152
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\electric_lamp_s_000048.png",
+      "mean_similarity": 0.9377890229225159,
+      "rank": 153
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\lamp_s_000814.png",
+      "mean_similarity": 0.9377680420875549,
+      "rank": 154
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\discharge_lamp_s_001244.png",
+      "mean_similarity": 0.9377609491348267,
+      "rank": 155
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\lamp_s_000615.png",
+      "mean_similarity": 0.9377472996711731,
+      "rank": 156
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\lamp_s_001651.png",
+      "mean_similarity": 0.9377357363700867,
+      "rank": 157
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\electric_lamp_s_000168.png",
+      "mean_similarity": 0.9376922845840454,
+      "rank": 158
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\rushlight_s_000021.png",
+      "mean_similarity": 0.9376921653747559,
+      "rank": 159
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\lamp_s_000330.png",
+      "mean_similarity": 0.9376862645149231,
+      "rank": 160
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\lamp_s_001570.png",
+      "mean_similarity": 0.9376323223114014,
+      "rank": 161
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\electric_lamp_s_000246.png",
+      "mean_similarity": 0.9376129508018494,
+      "rank": 162
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\discharge_lamp_s_000816.png",
+      "mean_similarity": 0.9376125335693359,
+      "rank": 163
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\lamp_s_000215.png",
+      "mean_similarity": 0.9375684857368469,
+      "rank": 164
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\lamp_s_001116.png",
+      "mean_similarity": 0.9375556111335754,
+      "rank": 165
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\electric_lamp_s_000661.png",
+      "mean_similarity": 0.9375410676002502,
+      "rank": 166
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\lamp_s_000526.png",
+      "mean_similarity": 0.9375256896018982,
+      "rank": 167
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\electric_lamp_s_000529.png",
+      "mean_similarity": 0.9374964833259583,
+      "rank": 168
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\lamp_s_001355.png",
+      "mean_similarity": 0.9374828934669495,
+      "rank": 169
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\lamp_s_001198.png",
+      "mean_similarity": 0.9374802112579346,
+      "rank": 170
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\lamp_s_001293.png",
+      "mean_similarity": 0.9374674558639526,
+      "rank": 171
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\electric_lamp_s_000199.png",
+      "mean_similarity": 0.9374657869338989,
+      "rank": 172
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\lamp_s_000502.png",
+      "mean_similarity": 0.9374651908874512,
+      "rank": 173
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\electric_lamp_s_000366.png",
+      "mean_similarity": 0.9373968839645386,
+      "rank": 174
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\discharge_lamp_s_000383.png",
+      "mean_similarity": 0.9373597502708435,
+      "rank": 175
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\discharge_lamp_s_000492.png",
+      "mean_similarity": 0.9373263120651245,
+      "rank": 176
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\lamp_s_001103.png",
+      "mean_similarity": 0.9373012781143188,
+      "rank": 177
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\lamp_s_001892.png",
+      "mean_similarity": 0.937248170375824,
+      "rank": 178
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\rush_candle_s_000022.png",
+      "mean_similarity": 0.93721604347229,
+      "rank": 179
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\lamp_s_000996.png",
+      "mean_similarity": 0.9370322227478027,
+      "rank": 180
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\lamp_s_001223.png",
+      "mean_similarity": 0.9370212554931641,
+      "rank": 181
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\lamp_s_000876.png",
+      "mean_similarity": 0.9369763731956482,
+      "rank": 182
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\lamp_s_001420.png",
+      "mean_similarity": 0.9369575381278992,
+      "rank": 183
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\electric_lamp_s_000024.png",
+      "mean_similarity": 0.9369508028030396,
+      "rank": 184
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\lamp_s_002313.png",
+      "mean_similarity": 0.936940610408783,
+      "rank": 185
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\lamp_s_001462.png",
+      "mean_similarity": 0.9369354248046875,
+      "rank": 186
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\electric_lamp_s_000031.png",
+      "mean_similarity": 0.9369136691093445,
+      "rank": 187
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\lamp_s_000700.png",
+      "mean_similarity": 0.9369087219238281,
+      "rank": 188
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\discharge_lamp_s_000406.png",
+      "mean_similarity": 0.9369077682495117,
+      "rank": 189
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\lamp_s_001244.png",
+      "mean_similarity": 0.9368751049041748,
+      "rank": 190
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\lamp_s_002042.png",
+      "mean_similarity": 0.9368549585342407,
+      "rank": 191
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\lamp_s_000353.png",
+      "mean_similarity": 0.9368486404418945,
+      "rank": 192
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\rush_candle_s_000230.png",
+      "mean_similarity": 0.9368310570716858,
+      "rank": 193
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\electric_lamp_s_000201.png",
+      "mean_similarity": 0.9367875456809998,
+      "rank": 194
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\lamp_s_002063.png",
+      "mean_similarity": 0.9367866516113281,
+      "rank": 195
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\electric_lamp_s_000198.png",
+      "mean_similarity": 0.9367300271987915,
+      "rank": 196
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\electric_lamp_s_000081.png",
+      "mean_similarity": 0.9366700649261475,
+      "rank": 197
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\electric_lamp_s_000536.png",
+      "mean_similarity": 0.9366397261619568,
+      "rank": 198
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\discharge_lamp_s_000667.png",
+      "mean_similarity": 0.936630129814148,
+      "rank": 199
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\lamp_s_002284.png",
+      "mean_similarity": 0.9366196990013123,
+      "rank": 200
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\lamp_s_002308.png",
+      "mean_similarity": 0.9366129636764526,
+      "rank": 201
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\lamp_s_000261.png",
+      "mean_similarity": 0.936580240726471,
+      "rank": 202
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\lamp_s_000052.png",
+      "mean_similarity": 0.9365746378898621,
+      "rank": 203
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\lamp_s_001095.png",
+      "mean_similarity": 0.9365553259849548,
+      "rank": 204
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\lamp_s_000305.png",
+      "mean_similarity": 0.9365105032920837,
+      "rank": 205
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\electric_lamp_s_000215.png",
+      "mean_similarity": 0.9364620447158813,
+      "rank": 206
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\lamp_s_002138.png",
+      "mean_similarity": 0.9364598393440247,
+      "rank": 207
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\electric_lamp_s_000649.png",
+      "mean_similarity": 0.9364339113235474,
+      "rank": 208
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\lamp_s_001172.png",
+      "mean_similarity": 0.936412513256073,
+      "rank": 209
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\lamp_s_002109.png",
+      "mean_similarity": 0.9364041090011597,
+      "rank": 210
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\lamp_s_001325.png",
+      "mean_similarity": 0.9363842010498047,
+      "rank": 211
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\electric_lamp_s_000135.png",
+      "mean_similarity": 0.9363394379615784,
+      "rank": 212
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\electric_lamp_s_000145.png",
+      "mean_similarity": 0.9363361597061157,
+      "rank": 213
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\lamp_s_001858.png",
+      "mean_similarity": 0.9363186359405518,
+      "rank": 214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\electric_lamp_s_000078.png",
+      "mean_similarity": 0.9363013505935669,
+      "rank": 215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\lamp_s_000770.png",
+      "mean_similarity": 0.9362624883651733,
+      "rank": 216
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\discharge_lamp_s_001178.png",
+      "mean_similarity": 0.9362438917160034,
+      "rank": 217
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\lamp_s_002081.png",
+      "mean_similarity": 0.9361785054206848,
+      "rank": 218
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\electric_lamp_s_000619.png",
+      "mean_similarity": 0.9361690878868103,
+      "rank": 219
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\electric_lamp_s_000568.png",
+      "mean_similarity": 0.9361638426780701,
+      "rank": 220
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\electric_lamp_s_000146.png",
+      "mean_similarity": 0.9361355304718018,
+      "rank": 221
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\lamp_s_001144.png",
+      "mean_similarity": 0.9361311197280884,
+      "rank": 222
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\electric_lamp_s_000019.png",
+      "mean_similarity": 0.936127781867981,
+      "rank": 223
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\lamp_s_001111.png",
+      "mean_similarity": 0.9360946416854858,
+      "rank": 224
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\electric_lamp_s_000436.png",
+      "mean_similarity": 0.9360601305961609,
+      "rank": 225
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\lamp_s_002099.png",
+      "mean_similarity": 0.936018168926239,
+      "rank": 226
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\electric_lamp_s_000126.png",
+      "mean_similarity": 0.9359797239303589,
+      "rank": 227
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\lamp_s_001741.png",
+      "mean_similarity": 0.9359651803970337,
+      "rank": 228
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\electric_lamp_s_000220.png",
+      "mean_similarity": 0.9359303712844849,
+      "rank": 229
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\lamp_s_001599.png",
+      "mean_similarity": 0.9359185695648193,
+      "rank": 230
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\lamp_s_000535.png",
+      "mean_similarity": 0.9359116554260254,
+      "rank": 231
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\lamp_s_000500.png",
+      "mean_similarity": 0.935874879360199,
+      "rank": 232
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\electric_lamp_s_000618.png",
+      "mean_similarity": 0.9358462691307068,
+      "rank": 233
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\rushlight_s_000227.png",
+      "mean_similarity": 0.9358443021774292,
+      "rank": 234
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\electric_lamp_s_000416.png",
+      "mean_similarity": 0.9358416795730591,
+      "rank": 235
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\lamp_s_001635.png",
+      "mean_similarity": 0.9358090758323669,
+      "rank": 236
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\electric_lamp_s_000154.png",
+      "mean_similarity": 0.9357873797416687,
+      "rank": 237
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\lamp_s_002310.png",
+      "mean_similarity": 0.9357824921607971,
+      "rank": 238
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\lamp_s_001990.png",
+      "mean_similarity": 0.9357519149780273,
+      "rank": 239
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\discharge_lamp_s_000682.png",
+      "mean_similarity": 0.9357415437698364,
+      "rank": 240
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\discharge_lamp_s_001521.png",
+      "mean_similarity": 0.9356731176376343,
+      "rank": 241
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\lamp_s_001876.png",
+      "mean_similarity": 0.9356668591499329,
+      "rank": 242
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\lamp_s_000369.png",
+      "mean_similarity": 0.9355065226554871,
+      "rank": 243
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\electric_lamp_s_000676.png",
+      "mean_similarity": 0.9354730248451233,
+      "rank": 244
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\lamp_s_001855.png",
+      "mean_similarity": 0.9354255795478821,
+      "rank": 245
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\discharge_lamp_s_000881.png",
+      "mean_similarity": 0.9354195594787598,
+      "rank": 246
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\lamp_s_000826.png",
+      "mean_similarity": 0.9353561997413635,
+      "rank": 247
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\lamp_s_001000.png",
+      "mean_similarity": 0.9353495836257935,
+      "rank": 248
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\lamp_s_001316.png",
+      "mean_similarity": 0.935348391532898,
+      "rank": 249
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\lamp_s_000359.png",
+      "mean_similarity": 0.9353110790252686,
+      "rank": 250
+    }
+  ]
+}

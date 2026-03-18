@@ -1,0 +1,25 @@
+{
+  "class_name": "Bird",
+  "global_description": "A small, plump bird with a rounded body and a distinctive black hood covering the head and throat. The rest of the plumage is a mix of brown, gray, and white, with a streaked pattern on the back and wings. The beak is short and conical.",
+  "discriminative_attributes": [
+    "Black hood covering head and throat",
+    "Brown and gray streaked back",
+    "White underparts",
+    "Short conical beak",
+    "Rounded body shape"
+  ],
+  "part_details": {
+    "head": "Covered in a solid black hood extending to the throat.",
+    "back": "Brown with gray streaks, blending into the wings.",
+    "wings": "Brown and gray with streaked pattern, blending into the back.",
+    "underparts": "White, contrasting with the darker upper body.",
+    "beak": "Short, conical, suitable for seed eating."
+  },
+  "spatial_relations": [
+    "The black hood covers the head and extends to the throat.",
+    "The streaked wings are positioned on either side of the body.",
+    "The white underparts are located below the streaked back."
+  ],
+  "original_dataset_key": "CUB200",
+  "original_class_key": "harris_sparrow"
+}

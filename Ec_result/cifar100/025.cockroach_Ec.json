@@ -1,0 +1,1259 @@
+{
+  "class_name": "cockroach",
+  "class_idx": 24,
+  "num_images_in_class": 500,
+  "ec_size_requested": 250,
+  "ec_size_actual": 250,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\cockroach_s_002813.png",
+      "mean_similarity": 0.9438802003860474,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\oriental_cockroach_s_000464.png",
+      "mean_similarity": 0.9435152411460876,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\cockroach_s_001343.png",
+      "mean_similarity": 0.9435011744499207,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\oriental_cockroach_s_000490.png",
+      "mean_similarity": 0.9433487057685852,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\cockroach_s_000767.png",
+      "mean_similarity": 0.9433358311653137,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\cockroach_s_000739.png",
+      "mean_similarity": 0.9431828856468201,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\oriental_cockroach_s_000261.png",
+      "mean_similarity": 0.9429811835289001,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\cockroach_s_001349.png",
+      "mean_similarity": 0.9428598880767822,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\cockroach_s_002766.png",
+      "mean_similarity": 0.9427671432495117,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\cockroach_s_001686.png",
+      "mean_similarity": 0.9427451491355896,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\oriental_roach_s_000123.png",
+      "mean_similarity": 0.9425935745239258,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\oriental_cockroach_s_000272.png",
+      "mean_similarity": 0.9425780773162842,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\oriental_cockroach_s_000656.png",
+      "mean_similarity": 0.9425747394561768,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\oriental_cockroach_s_001291.png",
+      "mean_similarity": 0.9424770474433899,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\oriental_cockroach_s_001224.png",
+      "mean_similarity": 0.9424632787704468,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\oriental_cockroach_s_001228.png",
+      "mean_similarity": 0.9424192309379578,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\oriental_cockroach_s_000112.png",
+      "mean_similarity": 0.9424116611480713,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\cockroach_s_002305.png",
+      "mean_similarity": 0.9424058198928833,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\oriental_cockroach_s_001410.png",
+      "mean_similarity": 0.9423355460166931,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\cockroach_s_000771.png",
+      "mean_similarity": 0.9423301219940186,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\oriental_cockroach_s_000253.png",
+      "mean_similarity": 0.9422997832298279,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\cockroach_s_000065.png",
+      "mean_similarity": 0.9422413110733032,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\cockroach_s_000352.png",
+      "mean_similarity": 0.9422317743301392,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\oriental_cockroach_s_000355.png",
+      "mean_similarity": 0.9421901702880859,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\oriental_cockroach_s_000003.png",
+      "mean_similarity": 0.9421900510787964,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\oriental_roach_s_000176.png",
+      "mean_similarity": 0.942146360874176,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\oriental_cockroach_s_001451.png",
+      "mean_similarity": 0.9421459436416626,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\cockroach_s_000048.png",
+      "mean_similarity": 0.9421212673187256,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\oriental_cockroach_s_000423.png",
+      "mean_similarity": 0.9420946836471558,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\cockroach_s_000421.png",
+      "mean_similarity": 0.9420874714851379,
+      "rank": 30
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\oriental_cockroach_s_001070.png",
+      "mean_similarity": 0.9419510364532471,
+      "rank": 31
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\cockroach_s_001574.png",
+      "mean_similarity": 0.9419346451759338,
+      "rank": 32
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\cockroach_s_000992.png",
+      "mean_similarity": 0.9418548345565796,
+      "rank": 33
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\oriental_cockroach_s_000050.png",
+      "mean_similarity": 0.9418414831161499,
+      "rank": 34
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\cockroach_s_001331.png",
+      "mean_similarity": 0.9418125748634338,
+      "rank": 35
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\oriental_cockroach_s_000648.png",
+      "mean_similarity": 0.9417567849159241,
+      "rank": 36
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\oriental_cockroach_s_000681.png",
+      "mean_similarity": 0.9417217373847961,
+      "rank": 37
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\cockroach_s_001118.png",
+      "mean_similarity": 0.9416665434837341,
+      "rank": 38
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\cockroach_s_001310.png",
+      "mean_similarity": 0.9415991902351379,
+      "rank": 39
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\oriental_cockroach_s_001398.png",
+      "mean_similarity": 0.9415948390960693,
+      "rank": 40
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\oriental_cockroach_s_001267.png",
+      "mean_similarity": 0.9415324926376343,
+      "rank": 41
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\cockroach_s_000135.png",
+      "mean_similarity": 0.9415171146392822,
+      "rank": 42
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\oriental_cockroach_s_001480.png",
+      "mean_similarity": 0.9415082335472107,
+      "rank": 43
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\roach_s_000721.png",
+      "mean_similarity": 0.9414876103401184,
+      "rank": 44
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\cockroach_s_002470.png",
+      "mean_similarity": 0.9414857625961304,
+      "rank": 45
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\cockroach_s_000780.png",
+      "mean_similarity": 0.9414085149765015,
+      "rank": 46
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\oriental_cockroach_s_000778.png",
+      "mean_similarity": 0.9414047002792358,
+      "rank": 47
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\oriental_cockroach_s_001219.png",
+      "mean_similarity": 0.94139564037323,
+      "rank": 48
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\cockroach_s_001303.png",
+      "mean_similarity": 0.9413564801216125,
+      "rank": 49
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\cockroach_s_001581.png",
+      "mean_similarity": 0.9413321018218994,
+      "rank": 50
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\oriental_cockroach_s_000744.png",
+      "mean_similarity": 0.9413292407989502,
+      "rank": 51
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\oriental_cockroach_s_000394.png",
+      "mean_similarity": 0.9413080215454102,
+      "rank": 52
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\cockroach_s_000168.png",
+      "mean_similarity": 0.9412841200828552,
+      "rank": 53
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\oriental_cockroach_s_000062.png",
+      "mean_similarity": 0.9412657022476196,
+      "rank": 54
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\oriental_cockroach_s_001530.png",
+      "mean_similarity": 0.9412620663642883,
+      "rank": 55
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\oriental_cockroach_s_000923.png",
+      "mean_similarity": 0.9412400126457214,
+      "rank": 56
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\oriental_cockroach_s_001386.png",
+      "mean_similarity": 0.9412120580673218,
+      "rank": 57
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\cockroach_s_000357.png",
+      "mean_similarity": 0.9411928057670593,
+      "rank": 58
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\cockroach_s_000197.png",
+      "mean_similarity": 0.941176176071167,
+      "rank": 59
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\oriental_cockroach_s_000877.png",
+      "mean_similarity": 0.941142737865448,
+      "rank": 60
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\oriental_cockroach_s_001347.png",
+      "mean_similarity": 0.9411278963088989,
+      "rank": 61
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\oriental_cockroach_s_000808.png",
+      "mean_similarity": 0.9410620927810669,
+      "rank": 62
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\oriental_cockroach_s_000281.png",
+      "mean_similarity": 0.9410449862480164,
+      "rank": 63
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\oriental_cockroach_s_000367.png",
+      "mean_similarity": 0.9410248398780823,
+      "rank": 64
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\oriental_cockroach_s_001605.png",
+      "mean_similarity": 0.9410093426704407,
+      "rank": 65
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\oriental_cockroach_s_001221.png",
+      "mean_similarity": 0.9409944415092468,
+      "rank": 66
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\cockroach_s_000713.png",
+      "mean_similarity": 0.9409610033035278,
+      "rank": 67
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\cockroach_s_000045.png",
+      "mean_similarity": 0.9409581422805786,
+      "rank": 68
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\oriental_cockroach_s_000586.png",
+      "mean_similarity": 0.9409271478652954,
+      "rank": 69
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\oriental_cockroach_s_000628.png",
+      "mean_similarity": 0.9409234523773193,
+      "rank": 70
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\cockroach_s_000238.png",
+      "mean_similarity": 0.9409120678901672,
+      "rank": 71
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\roach_s_000631.png",
+      "mean_similarity": 0.940899670124054,
+      "rank": 72
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\oriental_roach_s_000124.png",
+      "mean_similarity": 0.9408056735992432,
+      "rank": 73
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\oriental_cockroach_s_001443.png",
+      "mean_similarity": 0.9407927393913269,
+      "rank": 74
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\oriental_cockroach_s_000540.png",
+      "mean_similarity": 0.9407795667648315,
+      "rank": 75
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\oriental_cockroach_s_001463.png",
+      "mean_similarity": 0.9406788349151611,
+      "rank": 76
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\oriental_cockroach_s_000445.png",
+      "mean_similarity": 0.9406516551971436,
+      "rank": 77
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\oriental_cockroach_s_000487.png",
+      "mean_similarity": 0.9405558705329895,
+      "rank": 78
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\oriental_cockroach_s_000363.png",
+      "mean_similarity": 0.9405319690704346,
+      "rank": 79
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\cockroach_s_000076.png",
+      "mean_similarity": 0.9405038356781006,
+      "rank": 80
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\cockroach_s_002772.png",
+      "mean_similarity": 0.9404706954956055,
+      "rank": 81
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\oriental_cockroach_s_001559.png",
+      "mean_similarity": 0.94031822681427,
+      "rank": 82
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\oriental_cockroach_s_000477.png",
+      "mean_similarity": 0.940284013748169,
+      "rank": 83
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\cockroach_s_001474.png",
+      "mean_similarity": 0.9402421712875366,
+      "rank": 84
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\cockroach_s_000727.png",
+      "mean_similarity": 0.940241277217865,
+      "rank": 85
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\oriental_cockroach_s_000386.png",
+      "mean_similarity": 0.9402106404304504,
+      "rank": 86
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\oriental_cockroach_s_001378.png",
+      "mean_similarity": 0.9401888847351074,
+      "rank": 87
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\oriental_cockroach_s_001356.png",
+      "mean_similarity": 0.9401656985282898,
+      "rank": 88
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\cockroach_s_000112.png",
+      "mean_similarity": 0.9401602745056152,
+      "rank": 89
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\oriental_cockroach_s_001399.png",
+      "mean_similarity": 0.940148115158081,
+      "rank": 90
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\cockroach_s_000118.png",
+      "mean_similarity": 0.9401261210441589,
+      "rank": 91
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\cockroach_s_001059.png",
+      "mean_similarity": 0.9401226043701172,
+      "rank": 92
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\oriental_cockroach_s_000634.png",
+      "mean_similarity": 0.9400768280029297,
+      "rank": 93
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\cockroach_s_001857.png",
+      "mean_similarity": 0.9400251507759094,
+      "rank": 94
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\oriental_cockroach_s_001387.png",
+      "mean_similarity": 0.9399888515472412,
+      "rank": 95
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\oriental_cockroach_s_000735.png",
+      "mean_similarity": 0.9399742484092712,
+      "rank": 96
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\cockroach_s_002085.png",
+      "mean_similarity": 0.9399034976959229,
+      "rank": 97
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\cockroach_s_002404.png",
+      "mean_similarity": 0.9398929476737976,
+      "rank": 98
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\cockroach_s_000120.png",
+      "mean_similarity": 0.939870297908783,
+      "rank": 99
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\cockroach_s_002097.png",
+      "mean_similarity": 0.9398367404937744,
+      "rank": 100
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\cockroach_s_001624.png",
+      "mean_similarity": 0.9398247003555298,
+      "rank": 101
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\oriental_cockroach_s_000679.png",
+      "mean_similarity": 0.9397603869438171,
+      "rank": 102
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\roach_s_000028.png",
+      "mean_similarity": 0.9397465586662292,
+      "rank": 103
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\cockroach_s_002602.png",
+      "mean_similarity": 0.9397435784339905,
+      "rank": 104
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\cockroach_s_000740.png",
+      "mean_similarity": 0.9397397041320801,
+      "rank": 105
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\oriental_cockroach_s_000113.png",
+      "mean_similarity": 0.9397337436676025,
+      "rank": 106
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\cockroach_s_001746.png",
+      "mean_similarity": 0.9397168755531311,
+      "rank": 107
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\oriental_cockroach_s_000008.png",
+      "mean_similarity": 0.9396824836730957,
+      "rank": 108
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\cockroach_s_002617.png",
+      "mean_similarity": 0.9396142959594727,
+      "rank": 109
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\cockroach_s_002335.png",
+      "mean_similarity": 0.9396018385887146,
+      "rank": 110
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\cockroach_s_001966.png",
+      "mean_similarity": 0.9395925998687744,
+      "rank": 111
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\oriental_cockroach_s_001422.png",
+      "mean_similarity": 0.9395915269851685,
+      "rank": 112
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\cockroach_s_002259.png",
+      "mean_similarity": 0.9395793676376343,
+      "rank": 113
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\cockroach_s_002307.png",
+      "mean_similarity": 0.9395456910133362,
+      "rank": 114
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\cockroach_s_001167.png",
+      "mean_similarity": 0.9395142793655396,
+      "rank": 115
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\cockroach_s_000643.png",
+      "mean_similarity": 0.9395037889480591,
+      "rank": 116
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\cockroach_s_001801.png",
+      "mean_similarity": 0.9394646883010864,
+      "rank": 117
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\oriental_cockroach_s_000851.png",
+      "mean_similarity": 0.9394203424453735,
+      "rank": 118
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\cockroach_s_000021.png",
+      "mean_similarity": 0.9393746256828308,
+      "rank": 119
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\cockroach_s_001462.png",
+      "mean_similarity": 0.9393046498298645,
+      "rank": 120
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\cockroach_s_000123.png",
+      "mean_similarity": 0.9392272233963013,
+      "rank": 121
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\cockroach_s_002156.png",
+      "mean_similarity": 0.939120352268219,
+      "rank": 122
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\oriental_cockroach_s_000565.png",
+      "mean_similarity": 0.9391154646873474,
+      "rank": 123
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\oriental_cockroach_s_000492.png",
+      "mean_similarity": 0.9390777349472046,
+      "rank": 124
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\oriental_cockroach_s_000749.png",
+      "mean_similarity": 0.9390544891357422,
+      "rank": 125
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\roach_s_000011.png",
+      "mean_similarity": 0.9390535354614258,
+      "rank": 126
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\cockroach_s_000006.png",
+      "mean_similarity": 0.9390441179275513,
+      "rank": 127
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\cockroach_s_000122.png",
+      "mean_similarity": 0.9390403628349304,
+      "rank": 128
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\cockroach_s_000531.png",
+      "mean_similarity": 0.9390111565589905,
+      "rank": 129
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\oriental_cockroach_s_001430.png",
+      "mean_similarity": 0.93900066614151,
+      "rank": 130
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\roach_s_000184.png",
+      "mean_similarity": 0.9389737844467163,
+      "rank": 131
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\oriental_cockroach_s_000463.png",
+      "mean_similarity": 0.9389480352401733,
+      "rank": 132
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\oriental_cockroach_s_000135.png",
+      "mean_similarity": 0.9389470219612122,
+      "rank": 133
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\oriental_cockroach_s_000734.png",
+      "mean_similarity": 0.9389190077781677,
+      "rank": 134
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\oriental_cockroach_s_001344.png",
+      "mean_similarity": 0.9389153718948364,
+      "rank": 135
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\oriental_cockroach_s_001449.png",
+      "mean_similarity": 0.938914954662323,
+      "rank": 136
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\oriental_cockroach_s_000635.png",
+      "mean_similarity": 0.9388958811759949,
+      "rank": 137
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\oriental_cockroach_s_000587.png",
+      "mean_similarity": 0.9388823509216309,
+      "rank": 138
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\oriental_cockroach_s_000184.png",
+      "mean_similarity": 0.9388653039932251,
+      "rank": 139
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\oriental_cockroach_s_000399.png",
+      "mean_similarity": 0.938854992389679,
+      "rank": 140
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\cockroach_s_001120.png",
+      "mean_similarity": 0.9387551546096802,
+      "rank": 141
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\oriental_cockroach_s_001270.png",
+      "mean_similarity": 0.9387341737747192,
+      "rank": 142
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\oriental_cockroach_s_000227.png",
+      "mean_similarity": 0.9386863708496094,
+      "rank": 143
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\oriental_cockroach_s_000723.png",
+      "mean_similarity": 0.9386785626411438,
+      "rank": 144
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\oriental_cockroach_s_000294.png",
+      "mean_similarity": 0.9386056661605835,
+      "rank": 145
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\oriental_cockroach_s_000185.png",
+      "mean_similarity": 0.9386052489280701,
+      "rank": 146
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\oriental_cockroach_s_000328.png",
+      "mean_similarity": 0.9385877847671509,
+      "rank": 147
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\oriental_cockroach_s_000531.png",
+      "mean_similarity": 0.9385543465614319,
+      "rank": 148
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\cockroach_s_000682.png",
+      "mean_similarity": 0.9385429620742798,
+      "rank": 149
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\oriental_cockroach_s_001222.png",
+      "mean_similarity": 0.9385291337966919,
+      "rank": 150
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\roach_s_000066.png",
+      "mean_similarity": 0.9384698271751404,
+      "rank": 151
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\oriental_cockroach_s_000626.png",
+      "mean_similarity": 0.938435435295105,
+      "rank": 152
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\cockroach_s_002166.png",
+      "mean_similarity": 0.9384335279464722,
+      "rank": 153
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\cockroach_s_002609.png",
+      "mean_similarity": 0.9384166598320007,
+      "rank": 154
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\oriental_cockroach_s_000469.png",
+      "mean_similarity": 0.9384113550186157,
+      "rank": 155
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\oriental_roach_s_000114.png",
+      "mean_similarity": 0.9384028315544128,
+      "rank": 156
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\oriental_roach_s_000245.png",
+      "mean_similarity": 0.9383429288864136,
+      "rank": 157
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\cockroach_s_000037.png",
+      "mean_similarity": 0.9383412599563599,
+      "rank": 158
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\oriental_cockroach_s_000169.png",
+      "mean_similarity": 0.9383360147476196,
+      "rank": 159
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\cockroach_s_000725.png",
+      "mean_similarity": 0.9383339285850525,
+      "rank": 160
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\oriental_cockroach_s_000499.png",
+      "mean_similarity": 0.9382156729698181,
+      "rank": 161
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\cockroach_s_000187.png",
+      "mean_similarity": 0.9382153153419495,
+      "rank": 162
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\oriental_cockroach_s_000069.png",
+      "mean_similarity": 0.9381831288337708,
+      "rank": 163
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\oriental_roach_s_000238.png",
+      "mean_similarity": 0.9381069540977478,
+      "rank": 164
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\cockroach_s_000515.png",
+      "mean_similarity": 0.9380829930305481,
+      "rank": 165
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\roach_s_000056.png",
+      "mean_similarity": 0.9380497932434082,
+      "rank": 166
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\oriental_cockroach_s_001470.png",
+      "mean_similarity": 0.9380413889884949,
+      "rank": 167
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\oriental_cockroach_s_001211.png",
+      "mean_similarity": 0.9380238652229309,
+      "rank": 168
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\oriental_cockroach_s_000943.png",
+      "mean_similarity": 0.9379974007606506,
+      "rank": 169
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\cockroach_s_000225.png",
+      "mean_similarity": 0.937995433807373,
+      "rank": 170
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\cockroach_s_002000.png",
+      "mean_similarity": 0.9379883408546448,
+      "rank": 171
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\roach_s_000599.png",
+      "mean_similarity": 0.9379664063453674,
+      "rank": 172
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\oriental_roach_s_000006.png",
+      "mean_similarity": 0.9379446506500244,
+      "rank": 173
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\cockroach_s_001510.png",
+      "mean_similarity": 0.9379372596740723,
+      "rank": 174
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\roach_s_000562.png",
+      "mean_similarity": 0.9379317164421082,
+      "rank": 175
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\oriental_cockroach_s_001122.png",
+      "mean_similarity": 0.9379166960716248,
+      "rank": 176
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\oriental_cockroach_s_001476.png",
+      "mean_similarity": 0.9378624558448792,
+      "rank": 177
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\oriental_cockroach_s_001416.png",
+      "mean_similarity": 0.9378513097763062,
+      "rank": 178
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\oriental_cockroach_s_000574.png",
+      "mean_similarity": 0.9377896189689636,
+      "rank": 179
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\oriental_cockroach_s_000449.png",
+      "mean_similarity": 0.9377220273017883,
+      "rank": 180
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\oriental_cockroach_s_000776.png",
+      "mean_similarity": 0.9377148747444153,
+      "rank": 181
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\oriental_cockroach_s_000416.png",
+      "mean_similarity": 0.937711238861084,
+      "rank": 182
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\oriental_cockroach_s_000025.png",
+      "mean_similarity": 0.9377080202102661,
+      "rank": 183
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\roach_s_000335.png",
+      "mean_similarity": 0.9376937747001648,
+      "rank": 184
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\oriental_cockroach_s_001352.png",
+      "mean_similarity": 0.9376607537269592,
+      "rank": 185
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\oriental_cockroach_s_001345.png",
+      "mean_similarity": 0.9375496506690979,
+      "rank": 186
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\cockroach_s_002608.png",
+      "mean_similarity": 0.9375433325767517,
+      "rank": 187
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\oriental_cockroach_s_001604.png",
+      "mean_similarity": 0.9375052452087402,
+      "rank": 188
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\oriental_cockroach_s_000375.png",
+      "mean_similarity": 0.9374908208847046,
+      "rank": 189
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\oriental_cockroach_s_001231.png",
+      "mean_similarity": 0.9374852180480957,
+      "rank": 190
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\oriental_roach_s_000069.png",
+      "mean_similarity": 0.9374677538871765,
+      "rank": 191
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\roach_s_000910.png",
+      "mean_similarity": 0.9374153017997742,
+      "rank": 192
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\oriental_roach_s_000023.png",
+      "mean_similarity": 0.9374091029167175,
+      "rank": 193
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\oriental_cockroach_s_000390.png",
+      "mean_similarity": 0.9373821020126343,
+      "rank": 194
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\cockroach_s_000274.png",
+      "mean_similarity": 0.9373795390129089,
+      "rank": 195
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\oriental_cockroach_s_000504.png",
+      "mean_similarity": 0.9373789429664612,
+      "rank": 196
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\cockroach_s_002075.png",
+      "mean_similarity": 0.9373684525489807,
+      "rank": 197
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\cockroach_s_002030.png",
+      "mean_similarity": 0.9373680949211121,
+      "rank": 198
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\cockroach_s_002310.png",
+      "mean_similarity": 0.9373597502708435,
+      "rank": 199
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\oriental_cockroach_s_001598.png",
+      "mean_similarity": 0.9373483657836914,
+      "rank": 200
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\oriental_cockroach_s_001561.png",
+      "mean_similarity": 0.9373316168785095,
+      "rank": 201
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\oriental_cockroach_s_000347.png",
+      "mean_similarity": 0.9372870326042175,
+      "rank": 202
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\cockroach_s_002149.png",
+      "mean_similarity": 0.9372690916061401,
+      "rank": 203
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\oriental_cockroach_s_000072.png",
+      "mean_similarity": 0.9372638463973999,
+      "rank": 204
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\roach_s_000811.png",
+      "mean_similarity": 0.9372418522834778,
+      "rank": 205
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\oriental_cockroach_s_000506.png",
+      "mean_similarity": 0.9372366666793823,
+      "rank": 206
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\oriental_cockroach_s_001599.png",
+      "mean_similarity": 0.9372299313545227,
+      "rank": 207
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\oriental_cockroach_s_000282.png",
+      "mean_similarity": 0.9372287392616272,
+      "rank": 208
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\cockroach_s_002173.png",
+      "mean_similarity": 0.9372236728668213,
+      "rank": 209
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\oriental_cockroach_s_001468.png",
+      "mean_similarity": 0.9372221231460571,
+      "rank": 210
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\oriental_cockroach_s_000855.png",
+      "mean_similarity": 0.9371578693389893,
+      "rank": 211
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\cockroach_s_000525.png",
+      "mean_similarity": 0.9371221661567688,
+      "rank": 212
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\cockroach_s_000299.png",
+      "mean_similarity": 0.9370867609977722,
+      "rank": 213
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\cockroach_s_000876.png",
+      "mean_similarity": 0.9370545148849487,
+      "rank": 214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\oriental_cockroach_s_001453.png",
+      "mean_similarity": 0.9370163679122925,
+      "rank": 215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\cockroach_s_002273.png",
+      "mean_similarity": 0.9370114207267761,
+      "rank": 216
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\cockroach_s_002550.png",
+      "mean_similarity": 0.9369942545890808,
+      "rank": 217
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\cockroach_s_000775.png",
+      "mean_similarity": 0.9369905591011047,
+      "rank": 218
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\cockroach_s_001311.png",
+      "mean_similarity": 0.9369775652885437,
+      "rank": 219
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\oriental_cockroach_s_001150.png",
+      "mean_similarity": 0.9369359016418457,
+      "rank": 220
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\cockroach_s_002408.png",
+      "mean_similarity": 0.9368909001350403,
+      "rank": 221
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\oriental_cockroach_s_000284.png",
+      "mean_similarity": 0.9368793964385986,
+      "rank": 222
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\oriental_cockroach_s_000724.png",
+      "mean_similarity": 0.9368386268615723,
+      "rank": 223
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\oriental_cockroach_s_000042.png",
+      "mean_similarity": 0.9368245601654053,
+      "rank": 224
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\oriental_cockroach_s_000743.png",
+      "mean_similarity": 0.9368190765380859,
+      "rank": 225
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\oriental_cockroach_s_000073.png",
+      "mean_similarity": 0.9368101954460144,
+      "rank": 226
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\oriental_cockroach_s_001439.png",
+      "mean_similarity": 0.9367282390594482,
+      "rank": 227
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\oriental_cockroach_s_001035.png",
+      "mean_similarity": 0.9367117881774902,
+      "rank": 228
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\oriental_cockroach_s_001031.png",
+      "mean_similarity": 0.9366679191589355,
+      "rank": 229
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\oriental_cockroach_s_000612.png",
+      "mean_similarity": 0.9366533756256104,
+      "rank": 230
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\oriental_roach_s_000001.png",
+      "mean_similarity": 0.9365438222885132,
+      "rank": 231
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\cockroach_s_001681.png",
+      "mean_similarity": 0.9365352988243103,
+      "rank": 232
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\cockroach_s_000516.png",
+      "mean_similarity": 0.9365186095237732,
+      "rank": 233
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\cockroach_s_000354.png",
+      "mean_similarity": 0.9365179538726807,
+      "rank": 234
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\roach_s_000729.png",
+      "mean_similarity": 0.9364567399024963,
+      "rank": 235
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\cockroach_s_000766.png",
+      "mean_similarity": 0.9364238977432251,
+      "rank": 236
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\cockroach_s_000028.png",
+      "mean_similarity": 0.9364078044891357,
+      "rank": 237
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\oriental_cockroach_s_001348.png",
+      "mean_similarity": 0.9363813400268555,
+      "rank": 238
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\oriental_cockroach_s_001591.png",
+      "mean_similarity": 0.9363482594490051,
+      "rank": 239
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\oriental_cockroach_s_001607.png",
+      "mean_similarity": 0.9363336563110352,
+      "rank": 240
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\cockroach_s_001393.png",
+      "mean_similarity": 0.9362425208091736,
+      "rank": 241
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\cockroach_s_000458.png",
+      "mean_similarity": 0.9361595511436462,
+      "rank": 242
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\cockroach_s_002786.png",
+      "mean_similarity": 0.9361262917518616,
+      "rank": 243
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\oriental_cockroach_s_001032.png",
+      "mean_similarity": 0.9361253380775452,
+      "rank": 244
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\cockroach_s_000134.png",
+      "mean_similarity": 0.9360736012458801,
+      "rank": 245
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\oriental_cockroach_s_000913.png",
+      "mean_similarity": 0.936026930809021,
+      "rank": 246
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\cockroach_s_000246.png",
+      "mean_similarity": 0.9360235929489136,
+      "rank": 247
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\cockroach_s_000658.png",
+      "mean_similarity": 0.9360101222991943,
+      "rank": 248
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\oriental_cockroach_s_000692.png",
+      "mean_similarity": 0.9360054731369019,
+      "rank": 249
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\025.cockroach\\oriental_cockroach_s_000119.png",
+      "mean_similarity": 0.9359480142593384,
+      "rank": 250
+    }
+  ]
+}

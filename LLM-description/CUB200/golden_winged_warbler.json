@@ -1,0 +1,24 @@
+{
+  "class_name": "Bird",
+  "global_description": "A small songbird with a slender body and pointed wings. It features a striking combination of gray, black, and yellow plumage. The bird has a distinctive black mask across its eyes and a bright yellow crown on its head. Its underparts are pale gray, and it has a thin, pointed bill.",
+  "discriminative_attributes": [
+    "Bright yellow crown",
+    "Black mask across eyes",
+    "Gray and black plumage",
+    "Pointed wings",
+    "Thin pointed bill"
+  ],
+  "part_details": {
+    "head": "Bright yellow crown with a black mask across the eyes, small and rounded.",
+    "wings": "Pointed, with a mix of gray and black feathers.",
+    "body": "Slender, covered in gray plumage with pale gray underparts.",
+    "bill": "Thin, pointed, suitable for insectivorous feeding."
+  },
+  "spatial_relations": [
+    "The yellow crown is positioned on top of the head.",
+    "The black mask extends across the eyes.",
+    "The pointed wings are attached to the sides of the slender body."
+  ],
+  "original_dataset_key": "CUB200",
+  "original_class_key": "golden_winged_warbler"
+}

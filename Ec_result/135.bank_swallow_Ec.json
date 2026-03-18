@@ -1,0 +1,446 @@
+{
+  "class_name": "Bank Swallow",
+  "class_idx": 135,
+  "class_folder": "135.Bank_Swallow",
+  "num_images_in_class": 10,
+  "ec_size_requested": 30,
+  "ec_size_actual": 40,
+  "num_fewshot": 10,
+  "num_synthesized": 30,
+  "fewshot_emphasis_weight": 3.0,
+  "hybrid_lambda": 0.6,
+  "related_base_classes": [
+    {
+      "class_key": "olive_sided_flycatcher",
+      "relevance_score": 1.8534
+    },
+    {
+      "class_key": "bobolink",
+      "relevance_score": 1.2868
+    },
+    {
+      "class_key": "white_breasted_nuthatch",
+      "relevance_score": 1.269
+    },
+    {
+      "class_key": "pied_kingfisher",
+      "relevance_score": 1.2247
+    },
+    {
+      "class_key": "yellow_billed_cuckoo",
+      "relevance_score": 1.2182
+    },
+    {
+      "class_key": "brown_creeper",
+      "relevance_score": 1.2043
+    },
+    {
+      "class_key": "pomarine_jaeger",
+      "relevance_score": 1.1924
+    },
+    {
+      "class_key": "western_meadowlark",
+      "relevance_score": 1.1327
+    }
+  ],
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\Incremental class - Copy\\135.Bank_Swallow\\Bank_Swallow_0054_129743.jpg",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 1,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\Incremental class - Copy\\135.Bank_Swallow\\Bank_Swallow_0007_129514.jpg",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 2,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\Incremental class - Copy\\135.Bank_Swallow\\Bank_Swallow_0002_129654.jpg",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 3,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\Incremental class - Copy\\135.Bank_Swallow\\Bank_Swallow_0062_129548.jpg",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 4,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\Incremental class - Copy\\135.Bank_Swallow\\Bank_Swallow_0023_129878.jpg",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 5,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\Incremental class - Copy\\135.Bank_Swallow\\Bank_Swallow_0020_129747.jpg",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 6,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\Incremental class - Copy\\135.Bank_Swallow\\Bank_Swallow_0066_129559.jpg",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 7,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\Incremental class - Copy\\135.Bank_Swallow\\Bank_Swallow_0010_129592.jpg",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 8,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\Incremental class - Copy\\135.Bank_Swallow\\Bank_Swallow_0068_129806.jpg",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 9,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\Incremental class - Copy\\135.Bank_Swallow\\Bank_Swallow_0049_129611.jpg",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 10,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\040.Olive_sided_Flycatcher\\Olive_Sided_Flycatcher_0086_30553.jpg",
+      "mean_similarity": 0.9792153000000001,
+      "rank": 11,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\040.Olive_sided_Flycatcher\\Olive_Sided_Flycatcher_0052_30639.jpg",
+      "mean_similarity": 0.979215,
+      "rank": 12,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\040.Olive_sided_Flycatcher\\Olive_Sided_Flycatcher_0070_30490.jpg",
+      "mean_similarity": 0.979215,
+      "rank": 13,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\040.Olive_sided_Flycatcher\\Olive_Sided_Flycatcher_0033_30532.jpg",
+      "mean_similarity": 0.9792149000000001,
+      "rank": 14,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\040.Olive_sided_Flycatcher\\Olive_Sided_Flycatcher_0001_30669.jpg",
+      "mean_similarity": 0.9792149000000001,
+      "rank": 15,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\040.Olive_sided_Flycatcher\\Olive_Sided_Flycatcher_0002_30776.jpg",
+      "mean_similarity": 0.9792147999999999,
+      "rank": 16,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\040.Olive_sided_Flycatcher\\Olive_Sided_Flycatcher_0014_30651.jpg",
+      "mean_similarity": 0.9792147,
+      "rank": 17,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\040.Olive_sided_Flycatcher\\Olive_Sided_Flycatcher_0059_30536.jpg",
+      "mean_similarity": 0.9792147,
+      "rank": 18,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\033.Yellow_billed_Cuckoo\\Yellow_Billed_Cuckoo_0050_26424.jpg",
+      "mean_similarity": 0.9792147,
+      "rank": 19,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\040.Olive_sided_Flycatcher\\Olive_Sided_Flycatcher_0064_30485.jpg",
+      "mean_similarity": 0.9792146000000002,
+      "rank": 20,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\033.Yellow_billed_Cuckoo\\Yellow_Billed_Cuckoo_0022_26423.jpg",
+      "mean_similarity": 0.9792146000000002,
+      "rank": 21,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\040.Olive_sided_Flycatcher\\Olive_Sided_Flycatcher_0071_30647.jpg",
+      "mean_similarity": 0.9792145,
+      "rank": 22,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\033.Yellow_billed_Cuckoo\\Yellow_Billed_Cuckoo_0038_26912.jpg",
+      "mean_similarity": 0.9792145,
+      "rank": 23,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\033.Yellow_billed_Cuckoo\\Yellow_Billed_Cuckoo_0010_26795.jpg",
+      "mean_similarity": 0.9792145,
+      "rank": 24,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\033.Yellow_billed_Cuckoo\\Yellow_Billed_Cuckoo_0009_26656.jpg",
+      "mean_similarity": 0.9792144,
+      "rank": 25,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\033.Yellow_billed_Cuckoo\\Yellow_Billed_Cuckoo_0097_26713.jpg",
+      "mean_similarity": 0.9792144,
+      "rank": 26,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\094.White_breasted_Nuthatch\\White_Breasted_Nuthatch_0043_86196.jpg",
+      "mean_similarity": 0.9792144,
+      "rank": 27,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\033.Yellow_billed_Cuckoo\\Yellow_Billed_Cuckoo_0019_26803.jpg",
+      "mean_similarity": 0.9792144,
+      "rank": 28,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\040.Olive_sided_Flycatcher\\Olive_Sided_Flycatcher_0054_30732.jpg",
+      "mean_similarity": 0.9792143,
+      "rank": 29,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\033.Yellow_billed_Cuckoo\\Yellow_Billed_Cuckoo_0091_26428.jpg",
+      "mean_similarity": 0.9792143,
+      "rank": 30,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\033.Yellow_billed_Cuckoo\\Yellow_Billed_Cuckoo_0028_26446.jpg",
+      "mean_similarity": 0.9792143,
+      "rank": 31,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\040.Olive_sided_Flycatcher\\Olive_Sided_Flycatcher_0012_796876.jpg",
+      "mean_similarity": 0.9792142,
+      "rank": 32,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\040.Olive_sided_Flycatcher\\Olive_Sided_Flycatcher_0037_30784.jpg",
+      "mean_similarity": 0.9792142,
+      "rank": 33,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\033.Yellow_billed_Cuckoo\\Yellow_Billed_Cuckoo_0121_26807.jpg",
+      "mean_similarity": 0.9792142,
+      "rank": 34,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\013.Bobolink\\Bobolink_0001_9261.jpg",
+      "mean_similarity": 0.9792142,
+      "rank": 35,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\040.Olive_sided_Flycatcher\\Olive_Sided_Flycatcher_0005_30734.jpg",
+      "mean_similarity": 0.9792141000000001,
+      "rank": 36,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\094.White_breasted_Nuthatch\\White_Breasted_Nuthatch_0065_85829.jpg",
+      "mean_similarity": 0.9792141000000001,
+      "rank": 37,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\033.Yellow_billed_Cuckoo\\Yellow_Billed_Cuckoo_0081_26429.jpg",
+      "mean_similarity": 0.979214,
+      "rank": 38,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\094.White_breasted_Nuthatch\\White_Breasted_Nuthatch_0054_86551.jpg",
+      "mean_similarity": 0.979214,
+      "rank": 39,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\094.White_breasted_Nuthatch\\White_Breasted_Nuthatch_0040_86127.jpg",
+      "mean_similarity": 0.979214,
+      "rank": 40,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    }
+  ],
+  "debug": {
+    "total_candidates": 130,
+    "after_voting": 130,
+    "after_dedup": 30,
+    "dedup_mode": "backbone",
+    "top_segments": [
+      {
+        "class": "040.Olive_sided_Flycatcher",
+        "seg": 2,
+        "hybrid": 1.622,
+        "magnitude": 9.7921,
+        "borda": 394.0
+      },
+      {
+        "class": "040.Olive_sided_Flycatcher",
+        "seg": 4,
+        "hybrid": 1.4436,
+        "magnitude": 9.7921,
+        "borda": 377.0
+      },
+      {
+        "class": "040.Olive_sided_Flycatcher",
+        "seg": 0,
+        "hybrid": 1.3819,
+        "magnitude": 9.7921,
+        "borda": 376.0
+      },
+      {
+        "class": "040.Olive_sided_Flycatcher",
+        "seg": 1,
+        "hybrid": 1.3268,
+        "magnitude": 9.7921,
+        "borda": 361.0
+      },
+      {
+        "class": "040.Olive_sided_Flycatcher",
+        "seg": 3,
+        "hybrid": 1.2101,
+        "magnitude": 9.7921,
+        "borda": 345.0
+      },
+      {
+        "class": "033.Yellow_billed_Cuckoo",
+        "seg": 4,
+        "hybrid": 1.039,
+        "magnitude": 9.7921,
+        "borda": 330.0
+      },
+      {
+        "class": "033.Yellow_billed_Cuckoo",
+        "seg": 2,
+        "hybrid": 0.9663,
+        "magnitude": 9.7921,
+        "borda": 326.0
+      },
+      {
+        "class": "033.Yellow_billed_Cuckoo",
+        "seg": 1,
+        "hybrid": 0.9406,
+        "magnitude": 9.7921,
+        "borda": 319.0
+      },
+      {
+        "class": "033.Yellow_billed_Cuckoo",
+        "seg": 3,
+        "hybrid": 0.9296,
+        "magnitude": 9.7921,
+        "borda": 316.0
+      },
+      {
+        "class": "094.White_breasted_Nuthatch",
+        "seg": 1,
+        "hybrid": 0.7732,
+        "magnitude": 9.7921,
+        "borda": 305.0
+      }
+    ]
+  }
+}

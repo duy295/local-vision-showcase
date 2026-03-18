@@ -1,0 +1,26 @@
+{
+  "class_name": "Bohemian Waxwing",
+  "global_description": "A medium-sized bird with a sleek, streamlined body and a distinctive crest on its head. It has a predominantly soft gray-brown plumage with a silky texture, accented by a black mask around the eyes and a yellow-tipped tail. The wings feature striking white and red markings.",
+  "discriminative_attributes": [
+    "Silky gray-brown plumage",
+    "Black eye mask",
+    "Yellow-tipped tail",
+    "White and red wing markings",
+    "Pointed crest on head"
+  ],
+  "part_details": {
+    "head": "Smooth, gray-brown with a prominent pointed crest and a black mask around the eyes.",
+    "body": "Streamlined, covered in soft gray-brown feathers with a silky texture.",
+    "wings": "Gray-brown with distinctive white and red markings.",
+    "tail": "Short, ending in a bright yellow tip.",
+    "beak": "Short, black, and slightly curved."
+  },
+  "spatial_relations": [
+    "The pointed crest is located on top of the head.",
+    "The black mask surrounds the eyes.",
+    "The yellow tip is at the end of the tail.",
+    "White and red markings are on the wings."
+  ],
+  "original_dataset_key": "CUB200",
+  "original_class_key": "bohemian_waxwing"
+}

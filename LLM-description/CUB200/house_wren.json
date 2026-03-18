@@ -1,0 +1,25 @@
+{
+  "class_name": "Bird",
+  "global_description": "A small, compact bird with a rounded body and short tail. It has a predominantly brown plumage with subtle streaks and a lighter underbelly. The wings are short and rounded, and the beak is thin and slightly curved.",
+  "discriminative_attributes": [
+    "Brown streaked plumage",
+    "Short rounded wings",
+    "Thin slightly curved beak",
+    "Light underbelly",
+    "Compact rounded body"
+  ],
+  "part_details": {
+    "plumage": "Brown with fine streaks, providing a camouflaged appearance.",
+    "wings": "Short, rounded, and brown, aiding in quick, agile flight.",
+    "beak": "Thin, slightly curved, ideal for catching insects.",
+    "tail": "Short and slightly rounded, aiding in balance.",
+    "underbelly": "Lighter brown or buff, contrasting with the darker upper parts."
+  },
+  "spatial_relations": [
+    "The wings are attached to the sides of the rounded body.",
+    "The beak protrudes from the front of the head.",
+    "The tail extends from the rear of the body."
+  ],
+  "original_dataset_key": "CUB200",
+  "original_class_key": "house_wren"
+}

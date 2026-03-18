@@ -1,0 +1,25 @@
+{
+  "class_name": "laptop",
+  "global_description": "Rectangular electronic device with a flat, hinged screen and a keyboard. Typically metallic or plastic, often silver or black. The screen is glossy, and the keyboard is tactile with a trackpad below it. Portable and compact, designed for computing tasks.",
+  "discriminative_attributes": [
+    "Rectangular shape",
+    "Hinged screen",
+    "Tactile keyboard",
+    "Glossy screen",
+    "Trackpad below keyboard"
+  ],
+  "part_details": {
+    "screen": "Flat, glossy, rectangular",
+    "keyboard": "Tactile, with keys",
+    "trackpad": "Smooth, below keyboard",
+    "body": "Metallic or plastic, rectangular",
+    "hinge": "Connects screen and body"
+  },
+  "spatial_relations": [
+    "Screen hinged to body",
+    "Keyboard below screen",
+    "Trackpad below keyboard"
+  ],
+  "original_dataset_key": "ImageNetR",
+  "original_class_key": "laptop"
+}

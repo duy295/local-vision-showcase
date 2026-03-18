@@ -1,0 +1,24 @@
+{
+  "class_name": "table",
+  "global_description": "A flat-topped piece of furniture with a horizontal surface supported by legs. Typically made of wood, metal, or plastic, with a smooth or textured finish. The shape can be rectangular, round, or square, often in natural wood tones or painted colors.",
+  "discriminative_attributes": [
+    "Flat horizontal surface",
+    "Supported by legs",
+    "Rectangular, round, or square shape",
+    "Wood, metal, or plastic material",
+    "Smooth or textured finish"
+  ],
+  "part_details": {
+    "top": "Flat, horizontal surface, smooth or textured",
+    "legs": "Four or more, supporting the top, made of wood, metal, or plastic",
+    "edges": "Straight or rounded, matching the top's shape",
+    "surface": "Smooth or textured, often polished or painted"
+  },
+  "spatial_relations": [
+    "Top supported by legs",
+    "Legs positioned at corners or evenly spaced",
+    "Edges define the perimeter of the top"
+  ],
+  "original_dataset_key": "cifar100",
+  "original_class_key": "table"
+}

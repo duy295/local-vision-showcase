@@ -1,0 +1,25 @@
+{
+  "class_name": "Bird",
+  "global_description": "A medium-sized bird with a robust body, large head, and long pointed bill. It features a striking blue-gray plumage with a distinctive rusty orange band across the chest and belly. The wings and back are darker blue-gray, while the throat and collar are white.",
+  "discriminative_attributes": [
+    "Blue-gray plumage",
+    "Rusty orange chest band",
+    "Long pointed bill",
+    "White throat and collar",
+    "Large head"
+  ],
+  "part_details": {
+    "head": "Large, blue-gray with a white collar and a long pointed bill.",
+    "chest": "Rusty orange band across the chest and belly.",
+    "wings": "Dark blue-gray, broad and strong.",
+    "throat": "White, contrasting with the darker head and chest.",
+    "bill": "Long, pointed, and dark, suited for fishing."
+  },
+  "spatial_relations": [
+    "The white collar encircles the base of the head.",
+    "The rusty orange band covers the chest and extends to the belly.",
+    "The long bill protrudes from the front of the head."
+  ],
+  "original_dataset_key": "CUB200",
+  "original_class_key": "ringed_kingfisher"
+}

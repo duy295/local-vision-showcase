@@ -1,0 +1,25 @@
+{
+  "class_name": "Bird",
+  "global_description": "A small, agile songbird with a distinctive bright yellow body and contrasting black hood. It has a slender, streamlined shape with a pointed beak and short tail. The wings and back are olive-green, providing a subtle contrast to the vibrant yellow underparts.",
+  "discriminative_attributes": [
+    "Bright yellow body",
+    "Black hood covering head and throat",
+    "Olive-green wings and back",
+    "Pointed beak",
+    "Short tail"
+  ],
+  "part_details": {
+    "head": "Covered in a black hood, contrasting with the yellow body.",
+    "body": "Vibrant yellow underparts with an olive-green back.",
+    "wings": "Olive-green, blending with the back.",
+    "beak": "Short, pointed, suitable for insect catching.",
+    "tail": "Short, aiding in agile flight."
+  },
+  "spatial_relations": [
+    "The black hood covers the head and throat, contrasting with the yellow body.",
+    "The olive-green wings are positioned on the sides of the yellow body.",
+    "The short tail extends from the rear of the body."
+  ],
+  "original_dataset_key": "CUB200",
+  "original_class_key": "hooded_warbler"
+}

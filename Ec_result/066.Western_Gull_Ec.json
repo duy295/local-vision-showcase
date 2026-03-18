@@ -1,0 +1,159 @@
+{
+  "class_name": "066.Western_Gull",
+  "class_idx": 65,
+  "num_images_in_class": 30,
+  "ec_size_requested": 30,
+  "ec_size_actual": 30,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\066.Western_Gull\\Western_Gull_0115_54950.jpg",
+      "mean_similarity": 0.9499624967575073,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\066.Western_Gull\\Western_Gull_0062_53538.jpg",
+      "mean_similarity": 0.9498264789581299,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\066.Western_Gull\\Western_Gull_0089_55306.jpg",
+      "mean_similarity": 0.9497665762901306,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\066.Western_Gull\\Western_Gull_0080_53445.jpg",
+      "mean_similarity": 0.9493097066879272,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\066.Western_Gull\\Western_Gull_0128_53852.jpg",
+      "mean_similarity": 0.9492698907852173,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\066.Western_Gull\\Western_Gull_0073_54118.jpg",
+      "mean_similarity": 0.9488592147827148,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\066.Western_Gull\\Western_Gull_0052_53485.jpg",
+      "mean_similarity": 0.9487161040306091,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\066.Western_Gull\\Western_Gull_0057_55312.jpg",
+      "mean_similarity": 0.9486892819404602,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\066.Western_Gull\\Western_Gull_0030_54083.jpg",
+      "mean_similarity": 0.9481277465820312,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\066.Western_Gull\\Western_Gull_0006_53504.jpg",
+      "mean_similarity": 0.9478707313537598,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\066.Western_Gull\\Western_Gull_0114_55644.jpg",
+      "mean_similarity": 0.9476189613342285,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\066.Western_Gull\\Western_Gull_0025_55421.jpg",
+      "mean_similarity": 0.947533905506134,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\066.Western_Gull\\Western_Gull_0131_53349.jpg",
+      "mean_similarity": 0.9473912715911865,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\066.Western_Gull\\Western_Gull_0051_54320.jpg",
+      "mean_similarity": 0.9473227858543396,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\066.Western_Gull\\Western_Gull_0009_54768.jpg",
+      "mean_similarity": 0.9468173384666443,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\066.Western_Gull\\Western_Gull_0042_53843.jpg",
+      "mean_similarity": 0.9467652440071106,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\066.Western_Gull\\Western_Gull_0058_53882.jpg",
+      "mean_similarity": 0.9466442465782166,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\066.Western_Gull\\Western_Gull_0093_54925.jpg",
+      "mean_similarity": 0.946271538734436,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\066.Western_Gull\\Western_Gull_0028_55680.jpg",
+      "mean_similarity": 0.9453340172767639,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\066.Western_Gull\\Western_Gull_0097_54508.jpg",
+      "mean_similarity": 0.9450528621673584,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\066.Western_Gull\\Western_Gull_0124_53838.jpg",
+      "mean_similarity": 0.9450106024742126,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\066.Western_Gull\\Western_Gull_0117_44697.jpg",
+      "mean_similarity": 0.9449395537376404,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\066.Western_Gull\\Western_Gull_0094_55156.jpg",
+      "mean_similarity": 0.9448034167289734,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\066.Western_Gull\\Western_Gull_0122_40866.jpg",
+      "mean_similarity": 0.9425292015075684,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\066.Western_Gull\\Western_Gull_0098_53925.jpg",
+      "mean_similarity": 0.9409447908401489,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\066.Western_Gull\\Western_Gull_0004_55605.jpg",
+      "mean_similarity": 0.9404422044754028,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\066.Western_Gull\\Western_Gull_0022_54607.jpg",
+      "mean_similarity": 0.9403053522109985,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\066.Western_Gull\\Western_Gull_0036_54329.jpg",
+      "mean_similarity": 0.9400635957717896,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\066.Western_Gull\\Western_Gull_0090_53603.jpg",
+      "mean_similarity": 0.9381489157676697,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\066.Western_Gull\\Western_Gull_0002_54825.jpg",
+      "mean_similarity": 0.933544933795929,
+      "rank": 30
+    }
+  ]
+}

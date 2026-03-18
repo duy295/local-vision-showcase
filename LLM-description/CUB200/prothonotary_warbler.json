@@ -1,0 +1,24 @@
+{
+  "class_name": "Prothonotary Warbler",
+  "global_description": "A small, vibrant songbird with a sleek, streamlined body. It features a bright yellow-orange head and underparts, contrasting with bluish-gray wings and back. The bird has a thin, pointed black bill and dark eyes.",
+  "discriminative_attributes": [
+    "Bright yellow-orange head and chest",
+    "Bluish-gray wings and back",
+    "Thin pointed black bill",
+    "Dark eyes",
+    "Small, streamlined body"
+  ],
+  "part_details": {
+    "head": "Bright yellow-orange, smooth and rounded with dark eyes.",
+    "wings": "Bluish-gray, elongated and sleek, contrasting with the body.",
+    "bill": "Thin, pointed, black, suitable for insect catching.",
+    "body": "Small, streamlined, predominantly yellow-orange with bluish-gray back."
+  },
+  "spatial_relations": [
+    "The yellow-orange head transitions into the bluish-gray back.",
+    "The thin black bill protrudes from the front of the head.",
+    "The bluish-gray wings extend from the sides of the body."
+  ],
+  "original_dataset_key": "CUB200",
+  "original_class_key": "prothonotary_warbler"
+}

@@ -1,0 +1,26 @@
+{
+  "class_name": "ambulance",
+  "global_description": "Boxy vehicle with white body, red stripes, emergency lights on roof, standard wheels, front windshield, side doors for passengers.",
+  "discriminative_attributes": [
+    "White and red color",
+    "Emergency lights on roof",
+    "Boxy vehicle shape",
+    "Side doors for passengers",
+    "Standard wheels"
+  ],
+  "part_details": {
+    "lights": "Red and blue flashing emergency lights on roof",
+    "body": "Boxy, mostly white with red stripes",
+    "wheels": "Four standard wheels",
+    "windows": "Front windshield and side windows",
+    "doors": "Side doors for passengers"
+  },
+  "spatial_relations": [
+    "Lights on top of the vehicle",
+    "Doors on sides of the body",
+    "Wheels beneath body",
+    "Windshield at front"
+  ],
+  "original_dataset_key": "ImageNetR",
+  "original_class_key": "ambulance"
+}

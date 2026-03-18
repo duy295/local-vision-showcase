@@ -1,0 +1,26 @@
+{
+  "class_name": "beetle",
+  "global_description": "Compact, oval-shaped insect with hard, shiny exoskeleton, typically black or metallic, six jointed legs, antennae, and elytra covering wings.",
+  "discriminative_attributes": [
+    "Hard exoskeleton",
+    "Oval body shape",
+    "Elytra covering wings",
+    "Six jointed legs",
+    "Antennae"
+  ],
+  "part_details": {
+    "head": "Small with antennae and compound eyes",
+    "body": "Oval, hard exoskeleton, often shiny",
+    "elytra": "Hardened forewings covering hindwings",
+    "legs": "Three pairs of jointed legs",
+    "antennae": "Long, segmented, on head"
+  },
+  "spatial_relations": [
+    "Head at front, abdomen at rear",
+    "Legs attached to thorax",
+    "Elytra covering wings",
+    "Antennae on head"
+  ],
+  "original_dataset_key": "cifar100",
+  "original_class_key": "beetle"
+}

@@ -1,0 +1,25 @@
+{
+  "class_name": "Vermilion Flycatcher",
+  "global_description": "Small bird with a compact body, vibrant vermilion red plumage on the head and underparts, contrasting with dark brown to black wings and tail. The texture is smooth with a glossy sheen on the red areas.",
+  "discriminative_attributes": [
+    "Vermilion red head and underparts",
+    "Dark brown to black wings",
+    "Compact body shape",
+    "Glossy sheen on red plumage",
+    "Small size"
+  ],
+  "part_details": {
+    "head": "Bright vermilion red, smooth texture",
+    "wings": "Dark brown to black, elongated and narrow",
+    "tail": "Dark brown to black, slightly forked",
+    "underparts": "Vermilion red, smooth and glossy",
+    "beak": "Short, pointed, dark gray"
+  },
+  "spatial_relations": [
+    "The vermilion red head transitions into dark wings",
+    "The tail extends from the rear of the body",
+    "The beak is positioned at the front of the head"
+  ],
+  "original_dataset_key": "CUB200",
+  "original_class_key": "vermilion_flycatcher"
+}

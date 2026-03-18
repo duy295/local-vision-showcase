@@ -1,0 +1,1259 @@
+{
+  "class_name": "bottle",
+  "class_idx": 9,
+  "num_images_in_class": 500,
+  "ec_size_requested": 250,
+  "ec_size_actual": 250,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\beer_bottle_s_001900.png",
+      "mean_similarity": 0.9446658492088318,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\beer_bottle_s_000824.png",
+      "mean_similarity": 0.9445763230323792,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\beer_bottle_s_001579.png",
+      "mean_similarity": 0.9443438649177551,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\beer_bottle_s_000766.png",
+      "mean_similarity": 0.9443255662918091,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\beer_bottle_s_001090.png",
+      "mean_similarity": 0.9443133473396301,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\whiskey_bottle_s_000831.png",
+      "mean_similarity": 0.9441974759101868,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\beer_bottle_s_001802.png",
+      "mean_similarity": 0.9441142082214355,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\whiskey_bottle_s_000340.png",
+      "mean_similarity": 0.9441111087799072,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\soda_bottle_s_001393.png",
+      "mean_similarity": 0.9441089034080505,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\ampoule_s_000271.png",
+      "mean_similarity": 0.9440928101539612,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\whiskey_bottle_s_000322.png",
+      "mean_similarity": 0.9439902901649475,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\beer_bottle_s_001882.png",
+      "mean_similarity": 0.9439408779144287,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\catsup_bottle_s_000172.png",
+      "mean_similarity": 0.9438777565956116,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\soda_bottle_s_000113.png",
+      "mean_similarity": 0.9438555240631104,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\beer_bottle_s_002103.png",
+      "mean_similarity": 0.9438326954841614,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\pop_bottle_s_001592.png",
+      "mean_similarity": 0.9438189268112183,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\soda_bottle_s_000788.png",
+      "mean_similarity": 0.9438140392303467,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\whiskey_bottle_s_000274.png",
+      "mean_similarity": 0.9437539577484131,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\beer_bottle_s_001725.png",
+      "mean_similarity": 0.9437486529350281,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\soda_bottle_s_001757.png",
+      "mean_similarity": 0.9437093138694763,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\whiskey_bottle_s_000550.png",
+      "mean_similarity": 0.9436542987823486,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\whiskey_bottle_s_000605.png",
+      "mean_similarity": 0.9435264468193054,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\beer_bottle_s_000500.png",
+      "mean_similarity": 0.9435248970985413,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\whiskey_bottle_s_001329.png",
+      "mean_similarity": 0.9434975385665894,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\bottle_s_001776.png",
+      "mean_similarity": 0.9434947967529297,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\ampoule_s_000192.png",
+      "mean_similarity": 0.9434832334518433,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\bottle_s_000263.png",
+      "mean_similarity": 0.9434706568717957,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\soda_bottle_s_000952.png",
+      "mean_similarity": 0.9434178471565247,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\soda_bottle_s_000279.png",
+      "mean_similarity": 0.9434002041816711,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\whiskey_bottle_s_000871.png",
+      "mean_similarity": 0.9433470368385315,
+      "rank": 30
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\soda_bottle_s_000471.png",
+      "mean_similarity": 0.9433402419090271,
+      "rank": 31
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\bottle_s_000050.png",
+      "mean_similarity": 0.943331241607666,
+      "rank": 32
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\beer_bottle_s_001063.png",
+      "mean_similarity": 0.9433237910270691,
+      "rank": 33
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\whiskey_bottle_s_001157.png",
+      "mean_similarity": 0.9433156847953796,
+      "rank": 34
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\bottle_s_001486.png",
+      "mean_similarity": 0.9433119297027588,
+      "rank": 35
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\whiskey_bottle_s_001001.png",
+      "mean_similarity": 0.9431565999984741,
+      "rank": 36
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\beer_bottle_s_000025.png",
+      "mean_similarity": 0.943080484867096,
+      "rank": 37
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\beer_bottle_s_001567.png",
+      "mean_similarity": 0.9430638551712036,
+      "rank": 38
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\whiskey_bottle_s_000211.png",
+      "mean_similarity": 0.9430267810821533,
+      "rank": 39
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\pop_bottle_s_001740.png",
+      "mean_similarity": 0.9429894089698792,
+      "rank": 40
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\pop_bottle_s_000486.png",
+      "mean_similarity": 0.9429627060890198,
+      "rank": 41
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\soda_bottle_s_000039.png",
+      "mean_similarity": 0.9429296851158142,
+      "rank": 42
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\ketchup_bottle_s_000644.png",
+      "mean_similarity": 0.9429109692573547,
+      "rank": 43
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\beer_bottle_s_001728.png",
+      "mean_similarity": 0.9428532123565674,
+      "rank": 44
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\beer_bottle_s_000077.png",
+      "mean_similarity": 0.9427895545959473,
+      "rank": 45
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\bottle_s_000656.png",
+      "mean_similarity": 0.942788302898407,
+      "rank": 46
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\beer_bottle_s_000354.png",
+      "mean_similarity": 0.9427666664123535,
+      "rank": 47
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\beer_bottle_s_001970.png",
+      "mean_similarity": 0.9427515864372253,
+      "rank": 48
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\whiskey_bottle_s_000493.png",
+      "mean_similarity": 0.9427515864372253,
+      "rank": 49
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\beer_bottle_s_001749.png",
+      "mean_similarity": 0.9427151679992676,
+      "rank": 50
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\beer_bottle_s_001490.png",
+      "mean_similarity": 0.9427059888839722,
+      "rank": 51
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\bottle_s_000439.png",
+      "mean_similarity": 0.9426890015602112,
+      "rank": 52
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\ampoule_s_000270.png",
+      "mean_similarity": 0.9426268339157104,
+      "rank": 53
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\bottle_s_000132.png",
+      "mean_similarity": 0.942624568939209,
+      "rank": 54
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\bottle_s_001649.png",
+      "mean_similarity": 0.942611575126648,
+      "rank": 55
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\soda_bottle_s_000013.png",
+      "mean_similarity": 0.9425519108772278,
+      "rank": 56
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\pop_bottle_s_000765.png",
+      "mean_similarity": 0.9425373077392578,
+      "rank": 57
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\whiskey_bottle_s_000900.png",
+      "mean_similarity": 0.942512035369873,
+      "rank": 58
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\pill_bottle_s_000040.png",
+      "mean_similarity": 0.942511260509491,
+      "rank": 59
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\pop_bottle_s_000515.png",
+      "mean_similarity": 0.9424995183944702,
+      "rank": 60
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\beer_bottle_s_002102.png",
+      "mean_similarity": 0.9424886107444763,
+      "rank": 61
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\beer_bottle_s_001569.png",
+      "mean_similarity": 0.942473292350769,
+      "rank": 62
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\pop_bottle_s_001480.png",
+      "mean_similarity": 0.9424254298210144,
+      "rank": 63
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\beer_bottle_s_000781.png",
+      "mean_similarity": 0.9424062967300415,
+      "rank": 64
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\beer_bottle_s_001558.png",
+      "mean_similarity": 0.9423800706863403,
+      "rank": 65
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\soda_bottle_s_000562.png",
+      "mean_similarity": 0.94236159324646,
+      "rank": 66
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\beer_bottle_s_000001.png",
+      "mean_similarity": 0.9422913193702698,
+      "rank": 67
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\soda_bottle_s_000022.png",
+      "mean_similarity": 0.9422487616539001,
+      "rank": 68
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\soda_bottle_s_001091.png",
+      "mean_similarity": 0.9422439932823181,
+      "rank": 69
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\beer_bottle_s_001965.png",
+      "mean_similarity": 0.9421707391738892,
+      "rank": 70
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\beer_bottle_s_001719.png",
+      "mean_similarity": 0.9421660900115967,
+      "rank": 71
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\bottle_s_000994.png",
+      "mean_similarity": 0.942165732383728,
+      "rank": 72
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\beer_bottle_s_001633.png",
+      "mean_similarity": 0.9421435594558716,
+      "rank": 73
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\beer_bottle_s_000231.png",
+      "mean_similarity": 0.9421054720878601,
+      "rank": 74
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\soda_bottle_s_000005.png",
+      "mean_similarity": 0.9420427680015564,
+      "rank": 75
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\thermos_bottle_s_000346.png",
+      "mean_similarity": 0.9420419931411743,
+      "rank": 76
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\beer_bottle_s_000331.png",
+      "mean_similarity": 0.9420348405838013,
+      "rank": 77
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\bottle_s_001924.png",
+      "mean_similarity": 0.9420257210731506,
+      "rank": 78
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\beer_bottle_s_000930.png",
+      "mean_similarity": 0.9420247077941895,
+      "rank": 79
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\soda_bottle_s_000673.png",
+      "mean_similarity": 0.9420128464698792,
+      "rank": 80
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\soda_bottle_s_000001.png",
+      "mean_similarity": 0.9420028924942017,
+      "rank": 81
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\beer_bottle_s_000032.png",
+      "mean_similarity": 0.9419889450073242,
+      "rank": 82
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\soda_bottle_s_000626.png",
+      "mean_similarity": 0.9419869184494019,
+      "rank": 83
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\whiskey_bottle_s_000496.png",
+      "mean_similarity": 0.9419490694999695,
+      "rank": 84
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\beer_bottle_s_002133.png",
+      "mean_similarity": 0.941923975944519,
+      "rank": 85
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\whiskey_bottle_s_001153.png",
+      "mean_similarity": 0.9418845176696777,
+      "rank": 86
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\bottle_s_000187.png",
+      "mean_similarity": 0.9418769478797913,
+      "rank": 87
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\soda_bottle_s_000910.png",
+      "mean_similarity": 0.9418579936027527,
+      "rank": 88
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\bottle_s_000721.png",
+      "mean_similarity": 0.941836416721344,
+      "rank": 89
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\beer_bottle_s_001165.png",
+      "mean_similarity": 0.941825270652771,
+      "rank": 90
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\whiskey_bottle_s_000419.png",
+      "mean_similarity": 0.9418103694915771,
+      "rank": 91
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\beer_bottle_s_001727.png",
+      "mean_similarity": 0.9417979121208191,
+      "rank": 92
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\beer_bottle_s_002013.png",
+      "mean_similarity": 0.941775918006897,
+      "rank": 93
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\pop_bottle_s_001097.png",
+      "mean_similarity": 0.9416614174842834,
+      "rank": 94
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\beer_bottle_s_000585.png",
+      "mean_similarity": 0.9416570067405701,
+      "rank": 95
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\beer_bottle_s_000010.png",
+      "mean_similarity": 0.9415996074676514,
+      "rank": 96
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\beer_bottle_s_000139.png",
+      "mean_similarity": 0.9415743947029114,
+      "rank": 97
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\pop_bottle_s_001440.png",
+      "mean_similarity": 0.9415613412857056,
+      "rank": 98
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\bottle_s_001616.png",
+      "mean_similarity": 0.9415485858917236,
+      "rank": 99
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\soda_bottle_s_000871.png",
+      "mean_similarity": 0.94151371717453,
+      "rank": 100
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\soda_bottle_s_000086.png",
+      "mean_similarity": 0.9414894580841064,
+      "rank": 101
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\beer_bottle_s_000371.png",
+      "mean_similarity": 0.941483199596405,
+      "rank": 102
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\beer_bottle_s_001649.png",
+      "mean_similarity": 0.9414357542991638,
+      "rank": 103
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\whiskey_bottle_s_001166.png",
+      "mean_similarity": 0.9414249658584595,
+      "rank": 104
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\water_bottle_s_000281.png",
+      "mean_similarity": 0.9414183497428894,
+      "rank": 105
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\pop_bottle_s_000501.png",
+      "mean_similarity": 0.9414153099060059,
+      "rank": 106
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\ketchup_bottle_s_000124.png",
+      "mean_similarity": 0.9413937926292419,
+      "rank": 107
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\beer_bottle_s_000003.png",
+      "mean_similarity": 0.9413699507713318,
+      "rank": 108
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\bottle_s_000945.png",
+      "mean_similarity": 0.9413270950317383,
+      "rank": 109
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\beer_bottle_s_001169.png",
+      "mean_similarity": 0.9412817358970642,
+      "rank": 110
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\bottle_s_001991.png",
+      "mean_similarity": 0.9412071108818054,
+      "rank": 111
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\beer_bottle_s_000270.png",
+      "mean_similarity": 0.9412024617195129,
+      "rank": 112
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\whiskey_bottle_s_000546.png",
+      "mean_similarity": 0.9412000179290771,
+      "rank": 113
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\beer_bottle_s_000163.png",
+      "mean_similarity": 0.9411924481391907,
+      "rank": 114
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\beer_bottle_s_000323.png",
+      "mean_similarity": 0.9411667585372925,
+      "rank": 115
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\whiskey_bottle_s_000012.png",
+      "mean_similarity": 0.9411304593086243,
+      "rank": 116
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\bottle_s_000944.png",
+      "mean_similarity": 0.941110372543335,
+      "rank": 117
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\soda_bottle_s_001237.png",
+      "mean_similarity": 0.9411051273345947,
+      "rank": 118
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\bottle_s_001317.png",
+      "mean_similarity": 0.9410824179649353,
+      "rank": 119
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\soda_bottle_s_001739.png",
+      "mean_similarity": 0.9410610795021057,
+      "rank": 120
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\whiskey_bottle_s_000424.png",
+      "mean_similarity": 0.9410608410835266,
+      "rank": 121
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\soda_bottle_s_001623.png",
+      "mean_similarity": 0.9410232901573181,
+      "rank": 122
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\whiskey_bottle_s_001002.png",
+      "mean_similarity": 0.9409926533699036,
+      "rank": 123
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\beer_bottle_s_000169.png",
+      "mean_similarity": 0.9409909844398499,
+      "rank": 124
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\beer_bottle_s_001809.png",
+      "mean_similarity": 0.94095778465271,
+      "rank": 125
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\bottle_s_000723.png",
+      "mean_similarity": 0.9409521222114563,
+      "rank": 126
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\ketchup_bottle_s_000202.png",
+      "mean_similarity": 0.9409512281417847,
+      "rank": 127
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\bottle_s_000529.png",
+      "mean_similarity": 0.940946102142334,
+      "rank": 128
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\bottle_s_000729.png",
+      "mean_similarity": 0.940944254398346,
+      "rank": 129
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\whiskey_bottle_s_001210.png",
+      "mean_similarity": 0.940933883190155,
+      "rank": 130
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\soda_bottle_s_000096.png",
+      "mean_similarity": 0.9408838748931885,
+      "rank": 131
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\whiskey_bottle_s_000219.png",
+      "mean_similarity": 0.9408732652664185,
+      "rank": 132
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\soda_bottle_s_001081.png",
+      "mean_similarity": 0.9408652782440186,
+      "rank": 133
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\beer_bottle_s_000317.png",
+      "mean_similarity": 0.9408368468284607,
+      "rank": 134
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\soda_bottle_s_000437.png",
+      "mean_similarity": 0.9408044815063477,
+      "rank": 135
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\beer_bottle_s_001877.png",
+      "mean_similarity": 0.9407867193222046,
+      "rank": 136
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\beer_bottle_s_001642.png",
+      "mean_similarity": 0.940785825252533,
+      "rank": 137
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\beer_bottle_s_001783.png",
+      "mean_similarity": 0.9407806396484375,
+      "rank": 138
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\soda_bottle_s_000456.png",
+      "mean_similarity": 0.9407793879508972,
+      "rank": 139
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\beer_bottle_s_000165.png",
+      "mean_similarity": 0.940738320350647,
+      "rank": 140
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\soda_bottle_s_000806.png",
+      "mean_similarity": 0.9407156705856323,
+      "rank": 141
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\beer_bottle_s_000322.png",
+      "mean_similarity": 0.9406710267066956,
+      "rank": 142
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\wine_bottle_s_000004.png",
+      "mean_similarity": 0.9406627416610718,
+      "rank": 143
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\beer_bottle_s_000526.png",
+      "mean_similarity": 0.9406405687332153,
+      "rank": 144
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\beer_bottle_s_000009.png",
+      "mean_similarity": 0.9406399726867676,
+      "rank": 145
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\beer_bottle_s_002039.png",
+      "mean_similarity": 0.9406399726867676,
+      "rank": 146
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\ketchup_bottle_s_000999.png",
+      "mean_similarity": 0.9406184554100037,
+      "rank": 147
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\beer_bottle_s_001830.png",
+      "mean_similarity": 0.9405944347381592,
+      "rank": 148
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\beer_bottle_s_000449.png",
+      "mean_similarity": 0.9405621886253357,
+      "rank": 149
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\bottle_s_000411.png",
+      "mean_similarity": 0.9405603408813477,
+      "rank": 150
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\beer_bottle_s_001905.png",
+      "mean_similarity": 0.940557599067688,
+      "rank": 151
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\decanter_s_000293.png",
+      "mean_similarity": 0.940554141998291,
+      "rank": 152
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\beer_bottle_s_001564.png",
+      "mean_similarity": 0.9405472278594971,
+      "rank": 153
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\soda_bottle_s_000950.png",
+      "mean_similarity": 0.9405348896980286,
+      "rank": 154
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\ampule_s_000123.png",
+      "mean_similarity": 0.9404973387718201,
+      "rank": 155
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\whiskey_bottle_s_000010.png",
+      "mean_similarity": 0.9404813647270203,
+      "rank": 156
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\soda_bottle_s_000891.png",
+      "mean_similarity": 0.9404711723327637,
+      "rank": 157
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\beer_bottle_s_000271.png",
+      "mean_similarity": 0.9404638409614563,
+      "rank": 158
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\beer_bottle_s_001986.png",
+      "mean_similarity": 0.9404243230819702,
+      "rank": 159
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\soda_bottle_s_000089.png",
+      "mean_similarity": 0.9403992295265198,
+      "rank": 160
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\beer_bottle_s_001164.png",
+      "mean_similarity": 0.9403895735740662,
+      "rank": 161
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\bottle_s_000422.png",
+      "mean_similarity": 0.940385639667511,
+      "rank": 162
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\beer_bottle_s_000423.png",
+      "mean_similarity": 0.9403725266456604,
+      "rank": 163
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\bottle_s_001893.png",
+      "mean_similarity": 0.9403651356697083,
+      "rank": 164
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\beer_bottle_s_001892.png",
+      "mean_similarity": 0.9403524994850159,
+      "rank": 165
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\whiskey_bottle_s_000776.png",
+      "mean_similarity": 0.9403499364852905,
+      "rank": 166
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\beer_bottle_s_000410.png",
+      "mean_similarity": 0.9403381943702698,
+      "rank": 167
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\pop_bottle_s_000186.png",
+      "mean_similarity": 0.9403241276741028,
+      "rank": 168
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\beer_bottle_s_001185.png",
+      "mean_similarity": 0.9403067231178284,
+      "rank": 169
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\bottle_s_001662.png",
+      "mean_similarity": 0.9403022527694702,
+      "rank": 170
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\ampule_s_000217.png",
+      "mean_similarity": 0.9402700066566467,
+      "rank": 171
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\soda_bottle_s_001092.png",
+      "mean_similarity": 0.9402658939361572,
+      "rank": 172
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\beer_bottle_s_000028.png",
+      "mean_similarity": 0.9402576088905334,
+      "rank": 173
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\ketchup_bottle_s_000024.png",
+      "mean_similarity": 0.9402550458908081,
+      "rank": 174
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\soda_bottle_s_000041.png",
+      "mean_similarity": 0.940254807472229,
+      "rank": 175
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\vacuum_bottle_s_000346.png",
+      "mean_similarity": 0.94022536277771,
+      "rank": 176
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\phial_s_000110.png",
+      "mean_similarity": 0.9402182102203369,
+      "rank": 177
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\ink_bottle_s_000054.png",
+      "mean_similarity": 0.9401555061340332,
+      "rank": 178
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\bottle_s_000432.png",
+      "mean_similarity": 0.9401368498802185,
+      "rank": 179
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\whiskey_bottle_s_000117.png",
+      "mean_similarity": 0.9401335716247559,
+      "rank": 180
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\soda_bottle_s_001380.png",
+      "mean_similarity": 0.9400638341903687,
+      "rank": 181
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\bottle_s_002206.png",
+      "mean_similarity": 0.9400531053543091,
+      "rank": 182
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\ketchup_bottle_s_000736.png",
+      "mean_similarity": 0.9400421380996704,
+      "rank": 183
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\whiskey_bottle_s_000353.png",
+      "mean_similarity": 0.9400174021720886,
+      "rank": 184
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\pop_bottle_s_000639.png",
+      "mean_similarity": 0.9400113821029663,
+      "rank": 185
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\beer_bottle_s_001565.png",
+      "mean_similarity": 0.939999520778656,
+      "rank": 186
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\beer_bottle_s_002038.png",
+      "mean_similarity": 0.939994215965271,
+      "rank": 187
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\beer_bottle_s_001721.png",
+      "mean_similarity": 0.9399718642234802,
+      "rank": 188
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\beer_bottle_s_001713.png",
+      "mean_similarity": 0.9399698972702026,
+      "rank": 189
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\ketchup_bottle_s_000329.png",
+      "mean_similarity": 0.9399381279945374,
+      "rank": 190
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\ketchup_bottle_s_000003.png",
+      "mean_similarity": 0.9399325847625732,
+      "rank": 191
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\soda_bottle_s_000505.png",
+      "mean_similarity": 0.939882755279541,
+      "rank": 192
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\beer_bottle_s_000926.png",
+      "mean_similarity": 0.9398685097694397,
+      "rank": 193
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\beer_bottle_s_000726.png",
+      "mean_similarity": 0.9398641586303711,
+      "rank": 194
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\beer_bottle_s_001108.png",
+      "mean_similarity": 0.9397864937782288,
+      "rank": 195
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\beer_bottle_s_001266.png",
+      "mean_similarity": 0.9397686123847961,
+      "rank": 196
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\soda_bottle_s_001301.png",
+      "mean_similarity": 0.9397498369216919,
+      "rank": 197
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\beer_bottle_s_001089.png",
+      "mean_similarity": 0.9397091269493103,
+      "rank": 198
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\beer_bottle_s_001557.png",
+      "mean_similarity": 0.9396987557411194,
+      "rank": 199
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\soda_bottle_s_001319.png",
+      "mean_similarity": 0.9396910071372986,
+      "rank": 200
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\wine_bottle_s_000008.png",
+      "mean_similarity": 0.9396880865097046,
+      "rank": 201
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\bottle_s_001308.png",
+      "mean_similarity": 0.9396699070930481,
+      "rank": 202
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\soda_bottle_s_000006.png",
+      "mean_similarity": 0.9396546483039856,
+      "rank": 203
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\bottle_s_000040.png",
+      "mean_similarity": 0.9396513104438782,
+      "rank": 204
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\flask_s_000130.png",
+      "mean_similarity": 0.9396404027938843,
+      "rank": 205
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\pop_bottle_s_001292.png",
+      "mean_similarity": 0.9396078586578369,
+      "rank": 206
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\soda_bottle_s_000805.png",
+      "mean_similarity": 0.9395396113395691,
+      "rank": 207
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\pop_bottle_s_001108.png",
+      "mean_similarity": 0.9395127892494202,
+      "rank": 208
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\bottle_s_001686.png",
+      "mean_similarity": 0.9394845366477966,
+      "rank": 209
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\bottle_s_000950.png",
+      "mean_similarity": 0.9394717216491699,
+      "rank": 210
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\ketchup_bottle_s_000427.png",
+      "mean_similarity": 0.9394541382789612,
+      "rank": 211
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\whiskey_bottle_s_000746.png",
+      "mean_similarity": 0.9394341111183167,
+      "rank": 212
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\whiskey_bottle_s_000348.png",
+      "mean_similarity": 0.9394066333770752,
+      "rank": 213
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\whiskey_bottle_s_000282.png",
+      "mean_similarity": 0.9394001960754395,
+      "rank": 214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\whiskey_bottle_s_000397.png",
+      "mean_similarity": 0.9393332600593567,
+      "rank": 215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\beer_bottle_s_001025.png",
+      "mean_similarity": 0.9393240213394165,
+      "rank": 216
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\pop_bottle_s_000485.png",
+      "mean_similarity": 0.9393154382705688,
+      "rank": 217
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\beer_bottle_s_001300.png",
+      "mean_similarity": 0.939307689666748,
+      "rank": 218
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\whiskey_bottle_s_001037.png",
+      "mean_similarity": 0.9393020868301392,
+      "rank": 219
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\bottle_s_001613.png",
+      "mean_similarity": 0.939297616481781,
+      "rank": 220
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\whiskey_bottle_s_001433.png",
+      "mean_similarity": 0.9392663836479187,
+      "rank": 221
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\whiskey_bottle_s_000646.png",
+      "mean_similarity": 0.9392386078834534,
+      "rank": 222
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\soda_bottle_s_001009.png",
+      "mean_similarity": 0.9391877055168152,
+      "rank": 223
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\whiskey_bottle_s_000185.png",
+      "mean_similarity": 0.9391796588897705,
+      "rank": 224
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\soda_bottle_s_000014.png",
+      "mean_similarity": 0.9391294717788696,
+      "rank": 225
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\soda_bottle_s_001336.png",
+      "mean_similarity": 0.9391178488731384,
+      "rank": 226
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\beer_bottle_s_001654.png",
+      "mean_similarity": 0.9391162395477295,
+      "rank": 227
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\soda_bottle_s_001378.png",
+      "mean_similarity": 0.9390875101089478,
+      "rank": 228
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\beer_bottle_s_000024.png",
+      "mean_similarity": 0.9390556216239929,
+      "rank": 229
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\beer_bottle_s_001409.png",
+      "mean_similarity": 0.9390513300895691,
+      "rank": 230
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\beer_bottle_s_000023.png",
+      "mean_similarity": 0.9390474557876587,
+      "rank": 231
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\beer_bottle_s_001668.png",
+      "mean_similarity": 0.939041256904602,
+      "rank": 232
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\beer_bottle_s_001559.png",
+      "mean_similarity": 0.9390305280685425,
+      "rank": 233
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\beer_bottle_s_001977.png",
+      "mean_similarity": 0.9390302300453186,
+      "rank": 234
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\bottle_s_000535.png",
+      "mean_similarity": 0.9390166997909546,
+      "rank": 235
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\water_bottle_s_000456.png",
+      "mean_similarity": 0.9390003085136414,
+      "rank": 236
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\thermos_bottle_s_000114.png",
+      "mean_similarity": 0.938972532749176,
+      "rank": 237
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\beer_bottle_s_000255.png",
+      "mean_similarity": 0.9389310479164124,
+      "rank": 238
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\beer_bottle_s_001639.png",
+      "mean_similarity": 0.9389159083366394,
+      "rank": 239
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\pop_bottle_s_000083.png",
+      "mean_similarity": 0.9388958811759949,
+      "rank": 240
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\beer_bottle_s_001799.png",
+      "mean_similarity": 0.9388947486877441,
+      "rank": 241
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\carboy_s_000222.png",
+      "mean_similarity": 0.9388879537582397,
+      "rank": 242
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\beer_bottle_s_000865.png",
+      "mean_similarity": 0.9388724565505981,
+      "rank": 243
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\beer_bottle_s_001084.png",
+      "mean_similarity": 0.93886798620224,
+      "rank": 244
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\beer_bottle_s_000341.png",
+      "mean_similarity": 0.9388594031333923,
+      "rank": 245
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\bottle_s_000066.png",
+      "mean_similarity": 0.9388200640678406,
+      "rank": 246
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\beer_bottle_s_001162.png",
+      "mean_similarity": 0.9387971758842468,
+      "rank": 247
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\soda_bottle_s_000700.png",
+      "mean_similarity": 0.9387940764427185,
+      "rank": 248
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\catsup_bottle_s_000006.png",
+      "mean_similarity": 0.9387760758399963,
+      "rank": 249
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\010.bottle\\beer_bottle_s_001273.png",
+      "mean_similarity": 0.9387682676315308,
+      "rank": 250
+    }
+  ]
+}

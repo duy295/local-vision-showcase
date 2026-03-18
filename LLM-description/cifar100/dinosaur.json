@@ -1,0 +1,26 @@
+{
+  "class_name": "dinosaur",
+  "global_description": "Large prehistoric reptile with a massive body, long tail, and thick legs. Skin texture varies from scaly to leathery, often in earthy tones like green, brown, or gray. Some species have distinctive features like horns, frills, or crests.",
+  "discriminative_attributes": [
+    "Massive body",
+    "Long tail",
+    "Thick legs",
+    "Scaly or leathery skin",
+    "Earthy colors"
+  ],
+  "part_details": {
+    "head": "Large with possible horns or crests",
+    "body": "Massive with scaly or leathery texture",
+    "legs": "Thick and sturdy",
+    "tail": "Long and often muscular",
+    "skin": "Varies from scaly to leathery"
+  },
+  "spatial_relations": [
+    "Head at front of body",
+    "Tail extending from rear",
+    "Legs beneath body",
+    "Skin covering entire body"
+  ],
+  "original_dataset_key": "cifar100",
+  "original_class_key": "dinosaur"
+}

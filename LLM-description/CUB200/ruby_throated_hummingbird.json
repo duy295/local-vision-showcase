@@ -1,0 +1,26 @@
+{
+  "class_name": "Bird",
+  "global_description": "A small, slender bird with an iridescent green back and crown, a striking ruby-red throat, and a white underbelly. It has a long, thin, black bill and rapid, blurred wings. The tail is forked and dark with white tips.",
+  "discriminative_attributes": [
+    "Iridescent green back",
+    "Ruby-red throat",
+    "Long thin black bill",
+    "Forked dark tail with white tips",
+    "Rapid blurred wings"
+  ],
+  "part_details": {
+    "throat": "Vivid ruby-red, iridescent patch on the throat.",
+    "back": "Shimmering green, smooth feathers covering the back.",
+    "bill": "Long, thin, and black, slightly curved.",
+    "wings": "Small, rapid, appearing blurred in motion.",
+    "tail": "Forked, dark with white tips, short and fan-shaped."
+  },
+  "spatial_relations": [
+    "The long bill extends from the small head.",
+    "The iridescent green back covers the upper body.",
+    "The ruby-red throat is below the head.",
+    "The forked tail extends from the rear."
+  ],
+  "original_dataset_key": "CUB200",
+  "original_class_key": "ruby_throated_hummingbird"
+}

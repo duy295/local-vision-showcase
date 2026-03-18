@@ -1,0 +1,22 @@
+{
+  "class_name": "Bird",
+  "global_description": "A small, sleek bird with a glossy, iridescent plumage. The body is predominantly black with a metallic sheen, and the feathers exhibit a purplish-blue tint under light. It has a short, conical beak and dark eyes.",
+  "discriminative_attributes": [
+    "Glossy iridescent plumage",
+    "Metallic black feathers",
+    "Purplish-blue sheen",
+    "Short conical beak",
+    "Small sleek body"
+  ],
+  "part_details": {
+    "plumage": "Glossy, iridescent, predominantly black with purplish-blue tint",
+    "beak": "Short, conical, dark-colored",
+    "eyes": "Dark, round, small"
+  },
+  "spatial_relations": [
+    "The beak is positioned at the front of the head",
+    "The eyes are located on either side of the head"
+  ],
+  "original_dataset_key": "CUB200",
+  "original_class_key": "shiny_cowbird"
+}

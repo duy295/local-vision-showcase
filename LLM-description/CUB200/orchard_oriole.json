@@ -1,0 +1,24 @@
+{
+  "class_name": "Orchard Oriole",
+  "global_description": "A small, slender songbird with a compact body and a short tail. The male features a striking combination of black and chestnut plumage, while the female is more subdued with olive-yellow tones. The bird has a sharp, pointed beak and glossy feathers.",
+  "discriminative_attributes": [
+    "Black and chestnut plumage in males",
+    "Olive-yellow plumage in females",
+    "Sharp pointed beak",
+    "Glossy feather texture",
+    "Compact body shape"
+  ],
+  "part_details": {
+    "plumage": "Males have black head, back, and wings with chestnut underparts; females are olive-yellow overall.",
+    "beak": "Short, pointed, and slightly curved, dark gray in color.",
+    "tail": "Short, slightly rounded, matching the body plumage color.",
+    "wings": "Medium length, glossy black in males, olive in females."
+  },
+  "spatial_relations": [
+    "The black head transitions into a chestnut body in males.",
+    "The wings are attached to the sides of the compact body.",
+    "The short tail extends from the rear of the body."
+  ],
+  "original_dataset_key": "CUB200",
+  "original_class_key": "orchard_oriole"
+}

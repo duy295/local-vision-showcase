@@ -1,0 +1,26 @@
+{
+  "class_name": "bed",
+  "global_description": "A large rectangular furniture piece with a flat surface for sleeping, typically featuring a frame, mattress, and bedding. Commonly made of wood or metal, with a headboard and sometimes a footboard. The mattress is covered with sheets and blankets, often in neutral or pastel colors.",
+  "discriminative_attributes": [
+    "Rectangular shape",
+    "Flat surface for sleeping",
+    "Wood or metal frame",
+    "Headboard",
+    "Mattress with bedding"
+  ],
+  "part_details": {
+    "frame": "Wood or metal structure supporting the mattress",
+    "mattress": "Soft, rectangular, covered with sheets",
+    "headboard": "Upright panel at the head of the bed",
+    "footboard": "Optional panel at the foot of the bed",
+    "bedding": "Sheets, blankets, and pillows in various colors"
+  },
+  "spatial_relations": [
+    "Mattress rests on frame",
+    "Headboard at the head of the bed",
+    "Footboard at the foot of the bed",
+    "Bedding covers mattress"
+  ],
+  "original_dataset_key": "cifar100",
+  "original_class_key": "bed"
+}

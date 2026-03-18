@@ -1,0 +1,26 @@
+{
+  "class_name": "forest",
+  "global_description": "Dense collection of trees with varying heights, predominantly green foliage, trunks of brown and gray, undergrowth of shrubs and ferns, dappled sunlight filtering through the canopy, earthy ground covered in leaves and moss.",
+  "discriminative_attributes": [
+    "Dense tree canopy",
+    "Green foliage",
+    "Brown and gray trunks",
+    "Undergrowth of shrubs",
+    "Earthy ground cover"
+  ],
+  "part_details": {
+    "canopy": "Thick layer of green leaves at the top",
+    "trunks": "Tall, cylindrical, brown and gray",
+    "undergrowth": "Dense shrubs and ferns",
+    "ground": "Covered in leaves and moss",
+    "light": "Dappled sunlight through leaves"
+  },
+  "spatial_relations": [
+    "Canopy above trunks",
+    "Trunks rise from ground",
+    "Undergrowth beneath trees",
+    "Light filters through canopy"
+  ],
+  "original_dataset_key": "cifar100",
+  "original_class_key": "forest"
+}

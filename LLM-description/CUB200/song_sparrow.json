@@ -1,0 +1,25 @@
+{
+  "class_name": "Bird",
+  "global_description": "A small, plump bird with a rounded body, predominantly brown and gray with streaked patterns. It has a short, conical beak and a long, rounded tail. The wings and back are brown with darker streaks, while the underparts are white with brown streaks.",
+  "discriminative_attributes": [
+    "Brown and gray streaked plumage",
+    "Short conical beak",
+    "Long rounded tail",
+    "White underparts with brown streaks",
+    "Brown wings with darker streaks"
+  ],
+  "part_details": {
+    "beak": "Short, conical, grayish",
+    "tail": "Long, rounded, brown",
+    "wings": "Brown with darker streaks",
+    "underparts": "White with brown streaks",
+    "head": "Brown with streaks"
+  },
+  "spatial_relations": [
+    "The tail extends from the rear of the body",
+    "The wings are positioned on either side of the body",
+    "The beak is located at the front of the head"
+  ],
+  "original_dataset_key": "CUB200",
+  "original_class_key": "song_sparrow"
+}

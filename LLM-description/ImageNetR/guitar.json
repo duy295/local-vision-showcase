@@ -1,0 +1,26 @@
+{
+  "class_name": "guitar",
+  "global_description": "Stringed musical instrument with a hollow wooden body, long neck, and six strings. Typically features a glossy finish, often in natural wood tones or vibrant colors. The body is hourglass-shaped with a sound hole in the center. The neck is slender with frets, and the headstock holds tuning pegs.",
+  "discriminative_attributes": [
+    "Hourglass-shaped body",
+    "Six strings",
+    "Wooden material",
+    "Glossy finish",
+    "Sound hole"
+  ],
+  "part_details": {
+    "body": "Hourglass-shaped, wooden, often glossy",
+    "neck": "Long, slender with frets",
+    "strings": "Six, metallic, stretched across body",
+    "headstock": "Top of neck with tuning pegs",
+    "sound hole": "Circular, centered on body"
+  },
+  "spatial_relations": [
+    "Neck extends from body",
+    "Strings run from headstock to body",
+    "Sound hole centered on body",
+    "Tuning pegs on headstock"
+  ],
+  "original_dataset_key": "ImageNetR",
+  "original_class_key": "guitar"
+}

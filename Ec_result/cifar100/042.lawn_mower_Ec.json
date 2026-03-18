@@ -1,0 +1,1259 @@
+{
+  "class_name": "lawn_mower",
+  "class_idx": 41,
+  "num_images_in_class": 500,
+  "ec_size_requested": 250,
+  "ec_size_actual": 250,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\lawn_mower_s_000052.png",
+      "mean_similarity": 0.9390854835510254,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\mower_s_001128.png",
+      "mean_similarity": 0.9387444257736206,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\lawn_mower_s_000030.png",
+      "mean_similarity": 0.9380125403404236,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\hand_mower_s_000088.png",
+      "mean_similarity": 0.937926709651947,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\mower_s_000384.png",
+      "mean_similarity": 0.9376358389854431,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\lawn_mower_s_000831.png",
+      "mean_similarity": 0.9374350905418396,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\motor_mower_s_000036.png",
+      "mean_similarity": 0.937376081943512,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\lawn_mower_s_000406.png",
+      "mean_similarity": 0.937279462814331,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\power_mower_s_000731.png",
+      "mean_similarity": 0.9368360638618469,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\hand_mower_s_000057.png",
+      "mean_similarity": 0.936712920665741,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\lawn_mower_s_000727.png",
+      "mean_similarity": 0.9366371035575867,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\mower_s_000292.png",
+      "mean_similarity": 0.9362995624542236,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\lawn_mower_s_001042.png",
+      "mean_similarity": 0.9362598657608032,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\mower_s_001289.png",
+      "mean_similarity": 0.9362317323684692,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\mower_s_000381.png",
+      "mean_similarity": 0.9361967444419861,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\power_mower_s_001436.png",
+      "mean_similarity": 0.9359058737754822,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\motor_mower_s_000735.png",
+      "mean_similarity": 0.9357996582984924,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\motor_mower_s_000039.png",
+      "mean_similarity": 0.9357427358627319,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\motor_mower_s_000451.png",
+      "mean_similarity": 0.9357263445854187,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\mower_s_001132.png",
+      "mean_similarity": 0.9354093670845032,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\hand_mower_s_000195.png",
+      "mean_similarity": 0.9353865385055542,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\power_mower_s_001024.png",
+      "mean_similarity": 0.9353843331336975,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\mower_s_000688.png",
+      "mean_similarity": 0.9353681802749634,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\motor_mower_s_000022.png",
+      "mean_similarity": 0.9353571534156799,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\power_mower_s_001166.png",
+      "mean_similarity": 0.9352203607559204,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\mower_s_000839.png",
+      "mean_similarity": 0.9351993799209595,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\motor_mower_s_000312.png",
+      "mean_similarity": 0.9351300597190857,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\mower_s_000832.png",
+      "mean_similarity": 0.9351126551628113,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\hand_mower_s_000419.png",
+      "mean_similarity": 0.9350811839103699,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\lawn_mower_s_000321.png",
+      "mean_similarity": 0.9349726438522339,
+      "rank": 30
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\motor_mower_s_000432.png",
+      "mean_similarity": 0.9349198937416077,
+      "rank": 31
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\motor_mower_s_000246.png",
+      "mean_similarity": 0.9348840713500977,
+      "rank": 32
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\power_mower_s_001487.png",
+      "mean_similarity": 0.9347668886184692,
+      "rank": 33
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\motor_mower_s_000616.png",
+      "mean_similarity": 0.9346728324890137,
+      "rank": 34
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\mower_s_000909.png",
+      "mean_similarity": 0.934656023979187,
+      "rank": 35
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\motor_mower_s_000014.png",
+      "mean_similarity": 0.934626579284668,
+      "rank": 36
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\motor_mower_s_000378.png",
+      "mean_similarity": 0.9345960021018982,
+      "rank": 37
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\lawn_mower_s_001944.png",
+      "mean_similarity": 0.9345945715904236,
+      "rank": 38
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\lawn_mower_s_000021.png",
+      "mean_similarity": 0.9345712065696716,
+      "rank": 39
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\mower_s_001196.png",
+      "mean_similarity": 0.9345020651817322,
+      "rank": 40
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\lawn_mower_s_000303.png",
+      "mean_similarity": 0.9344775676727295,
+      "rank": 41
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\motor_mower_s_000021.png",
+      "mean_similarity": 0.9343585968017578,
+      "rank": 42
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\lawn_mower_s_001744.png",
+      "mean_similarity": 0.9342743158340454,
+      "rank": 43
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\lawn_mower_s_002264.png",
+      "mean_similarity": 0.9342246055603027,
+      "rank": 44
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\lawn_mower_s_000405.png",
+      "mean_similarity": 0.9342113137245178,
+      "rank": 45
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\motor_mower_s_000171.png",
+      "mean_similarity": 0.9341745376586914,
+      "rank": 46
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\motor_mower_s_000414.png",
+      "mean_similarity": 0.9341580271720886,
+      "rank": 47
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\motor_mower_s_000478.png",
+      "mean_similarity": 0.9340201616287231,
+      "rank": 48
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\lawn_mower_s_000032.png",
+      "mean_similarity": 0.9338764548301697,
+      "rank": 49
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\mower_s_000306.png",
+      "mean_similarity": 0.933800220489502,
+      "rank": 50
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\mower_s_001292.png",
+      "mean_similarity": 0.9337759017944336,
+      "rank": 51
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\motor_mower_s_000355.png",
+      "mean_similarity": 0.9337284564971924,
+      "rank": 52
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\power_mower_s_001450.png",
+      "mean_similarity": 0.9337106347084045,
+      "rank": 53
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\lawn_mower_s_001739.png",
+      "mean_similarity": 0.9336811900138855,
+      "rank": 54
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\mower_s_001015.png",
+      "mean_similarity": 0.9335742592811584,
+      "rank": 55
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\mower_s_000877.png",
+      "mean_similarity": 0.9335718750953674,
+      "rank": 56
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\power_mower_s_000475.png",
+      "mean_similarity": 0.9335054755210876,
+      "rank": 57
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\motor_mower_s_000316.png",
+      "mean_similarity": 0.9334784150123596,
+      "rank": 58
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\power_mower_s_001599.png",
+      "mean_similarity": 0.9334666132926941,
+      "rank": 59
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\motor_mower_s_000172.png",
+      "mean_similarity": 0.9334383010864258,
+      "rank": 60
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\hand_mower_s_000099.png",
+      "mean_similarity": 0.9333892464637756,
+      "rank": 61
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\motor_mower_s_000185.png",
+      "mean_similarity": 0.9333677887916565,
+      "rank": 62
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\power_mower_s_000478.png",
+      "mean_similarity": 0.9333658218383789,
+      "rank": 63
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\mower_s_001798.png",
+      "mean_similarity": 0.9333377480506897,
+      "rank": 64
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\mower_s_002013.png",
+      "mean_similarity": 0.9332934617996216,
+      "rank": 65
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\power_mower_s_001421.png",
+      "mean_similarity": 0.9332413673400879,
+      "rank": 66
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\power_mower_s_001584.png",
+      "mean_similarity": 0.9331721663475037,
+      "rank": 67
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\power_mower_s_001032.png",
+      "mean_similarity": 0.9331516623497009,
+      "rank": 68
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\power_mower_s_001015.png",
+      "mean_similarity": 0.9331405758857727,
+      "rank": 69
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\power_mower_s_001557.png",
+      "mean_similarity": 0.9331064820289612,
+      "rank": 70
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\mower_s_000608.png",
+      "mean_similarity": 0.9330965280532837,
+      "rank": 71
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\mower_s_002214.png",
+      "mean_similarity": 0.9330909252166748,
+      "rank": 72
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\lawn_mower_s_001306.png",
+      "mean_similarity": 0.9330889582633972,
+      "rank": 73
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\motor_mower_s_000649.png",
+      "mean_similarity": 0.9330829977989197,
+      "rank": 74
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\hand_mower_s_000400.png",
+      "mean_similarity": 0.9330592751502991,
+      "rank": 75
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\lawn_mower_s_001397.png",
+      "mean_similarity": 0.9330356121063232,
+      "rank": 76
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\motor_mower_s_000043.png",
+      "mean_similarity": 0.932817280292511,
+      "rank": 77
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\lawn_mower_s_001566.png",
+      "mean_similarity": 0.9328160881996155,
+      "rank": 78
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\motor_mower_s_000401.png",
+      "mean_similarity": 0.9327622056007385,
+      "rank": 79
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\lawn_mower_s_000100.png",
+      "mean_similarity": 0.9327532649040222,
+      "rank": 80
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\lawn_mower_s_000624.png",
+      "mean_similarity": 0.932655930519104,
+      "rank": 81
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\power_mower_s_000721.png",
+      "mean_similarity": 0.9326545000076294,
+      "rank": 82
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\motor_mower_s_000532.png",
+      "mean_similarity": 0.932504415512085,
+      "rank": 83
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\mower_s_001440.png",
+      "mean_similarity": 0.9324346780776978,
+      "rank": 84
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\mower_s_001194.png",
+      "mean_similarity": 0.9322821497917175,
+      "rank": 85
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\hand_mower_s_000123.png",
+      "mean_similarity": 0.9322645664215088,
+      "rank": 86
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\motor_mower_s_000124.png",
+      "mean_similarity": 0.9322490692138672,
+      "rank": 87
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\power_mower_s_000823.png",
+      "mean_similarity": 0.9322433471679688,
+      "rank": 88
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\motor_mower_s_000184.png",
+      "mean_similarity": 0.932233989238739,
+      "rank": 89
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\power_mower_s_000253.png",
+      "mean_similarity": 0.9321274757385254,
+      "rank": 90
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\lawn_mower_s_000157.png",
+      "mean_similarity": 0.9321190118789673,
+      "rank": 91
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\power_mower_s_001081.png",
+      "mean_similarity": 0.9321053624153137,
+      "rank": 92
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\motor_mower_s_000814.png",
+      "mean_similarity": 0.9320746064186096,
+      "rank": 93
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\power_mower_s_000534.png",
+      "mean_similarity": 0.9320728778839111,
+      "rank": 94
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\motor_mower_s_000048.png",
+      "mean_similarity": 0.9320306777954102,
+      "rank": 95
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\lawn_mower_s_001653.png",
+      "mean_similarity": 0.9319727420806885,
+      "rank": 96
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\power_mower_s_000603.png",
+      "mean_similarity": 0.9318316578865051,
+      "rank": 97
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\power_mower_s_001150.png",
+      "mean_similarity": 0.9318042993545532,
+      "rank": 98
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\lawn_mower_s_000417.png",
+      "mean_similarity": 0.9318021535873413,
+      "rank": 99
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\hand_mower_s_000545.png",
+      "mean_similarity": 0.9317954182624817,
+      "rank": 100
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\hand_mower_s_000018.png",
+      "mean_similarity": 0.9317257404327393,
+      "rank": 101
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\motor_mower_s_000626.png",
+      "mean_similarity": 0.9316909313201904,
+      "rank": 102
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\lawn_mower_s_000520.png",
+      "mean_similarity": 0.9315974712371826,
+      "rank": 103
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\hand_mower_s_000214.png",
+      "mean_similarity": 0.9315879344940186,
+      "rank": 104
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\power_mower_s_000760.png",
+      "mean_similarity": 0.9315507411956787,
+      "rank": 105
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\power_mower_s_001261.png",
+      "mean_similarity": 0.9314839839935303,
+      "rank": 106
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\mower_s_001976.png",
+      "mean_similarity": 0.9314428567886353,
+      "rank": 107
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\mower_s_001866.png",
+      "mean_similarity": 0.9313927888870239,
+      "rank": 108
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\lawn_mower_s_001074.png",
+      "mean_similarity": 0.9313833117485046,
+      "rank": 109
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\power_mower_s_001585.png",
+      "mean_similarity": 0.9313705563545227,
+      "rank": 110
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\power_mower_s_000116.png",
+      "mean_similarity": 0.9313404560089111,
+      "rank": 111
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\power_mower_s_000129.png",
+      "mean_similarity": 0.931232213973999,
+      "rank": 112
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\motor_mower_s_000543.png",
+      "mean_similarity": 0.931221067905426,
+      "rank": 113
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\mower_s_002033.png",
+      "mean_similarity": 0.9312039017677307,
+      "rank": 114
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\mower_s_000713.png",
+      "mean_similarity": 0.931178629398346,
+      "rank": 115
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\motor_mower_s_000255.png",
+      "mean_similarity": 0.9310703873634338,
+      "rank": 116
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\power_mower_s_000765.png",
+      "mean_similarity": 0.9310482144355774,
+      "rank": 117
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\hand_mower_s_000344.png",
+      "mean_similarity": 0.9309472441673279,
+      "rank": 118
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\hand_mower_s_000042.png",
+      "mean_similarity": 0.9308855533599854,
+      "rank": 119
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\motor_mower_s_000437.png",
+      "mean_similarity": 0.9308571219444275,
+      "rank": 120
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\motor_mower_s_000177.png",
+      "mean_similarity": 0.9308494925498962,
+      "rank": 121
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\hand_mower_s_000439.png",
+      "mean_similarity": 0.9307636618614197,
+      "rank": 122
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\hand_mower_s_000027.png",
+      "mean_similarity": 0.930757462978363,
+      "rank": 123
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\lawn_mower_s_000868.png",
+      "mean_similarity": 0.930692732334137,
+      "rank": 124
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\lawn_mower_s_001398.png",
+      "mean_similarity": 0.9304589033126831,
+      "rank": 125
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\motor_mower_s_000008.png",
+      "mean_similarity": 0.9303932785987854,
+      "rank": 126
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\lawn_mower_s_002127.png",
+      "mean_similarity": 0.9303683042526245,
+      "rank": 127
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\power_mower_s_000167.png",
+      "mean_similarity": 0.9303637146949768,
+      "rank": 128
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\mower_s_001077.png",
+      "mean_similarity": 0.9303009510040283,
+      "rank": 129
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\lawn_mower_s_000245.png",
+      "mean_similarity": 0.9302315711975098,
+      "rank": 130
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\lawn_mower_s_000002.png",
+      "mean_similarity": 0.9302108883857727,
+      "rank": 131
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\motor_mower_s_000635.png",
+      "mean_similarity": 0.9300830960273743,
+      "rank": 132
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\motor_mower_s_000253.png",
+      "mean_similarity": 0.9300708174705505,
+      "rank": 133
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\motor_mower_s_000460.png",
+      "mean_similarity": 0.9300231337547302,
+      "rank": 134
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\mower_s_000418.png",
+      "mean_similarity": 0.9299875497817993,
+      "rank": 135
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\lawn_mower_s_000306.png",
+      "mean_similarity": 0.9299684762954712,
+      "rank": 136
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\hand_mower_s_000065.png",
+      "mean_similarity": 0.9298990964889526,
+      "rank": 137
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\power_mower_s_000419.png",
+      "mean_similarity": 0.9298802614212036,
+      "rank": 138
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\mower_s_001046.png",
+      "mean_similarity": 0.9298778772354126,
+      "rank": 139
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\power_mower_s_000933.png",
+      "mean_similarity": 0.9298716187477112,
+      "rank": 140
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\motor_mower_s_000659.png",
+      "mean_similarity": 0.9298585057258606,
+      "rank": 141
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\mower_s_001269.png",
+      "mean_similarity": 0.9298553466796875,
+      "rank": 142
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\motor_mower_s_000319.png",
+      "mean_similarity": 0.9298152923583984,
+      "rank": 143
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\mower_s_002112.png",
+      "mean_similarity": 0.9297448396682739,
+      "rank": 144
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\lawn_mower_s_001300.png",
+      "mean_similarity": 0.9296934604644775,
+      "rank": 145
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\power_mower_s_000867.png",
+      "mean_similarity": 0.9296485185623169,
+      "rank": 146
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\motor_mower_s_000827.png",
+      "mean_similarity": 0.9295160174369812,
+      "rank": 147
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\lawn_mower_s_000074.png",
+      "mean_similarity": 0.9294191002845764,
+      "rank": 148
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\lawn_mower_s_000859.png",
+      "mean_similarity": 0.9293864369392395,
+      "rank": 149
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\motor_mower_s_000455.png",
+      "mean_similarity": 0.9293513894081116,
+      "rank": 150
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\mower_s_002047.png",
+      "mean_similarity": 0.9293302297592163,
+      "rank": 151
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\mower_s_001769.png",
+      "mean_similarity": 0.9292864799499512,
+      "rank": 152
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\power_mower_s_001579.png",
+      "mean_similarity": 0.9292364120483398,
+      "rank": 153
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\power_mower_s_001065.png",
+      "mean_similarity": 0.9292064309120178,
+      "rank": 154
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\motor_mower_s_000832.png",
+      "mean_similarity": 0.9291932582855225,
+      "rank": 155
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\mower_s_002005.png",
+      "mean_similarity": 0.9290512800216675,
+      "rank": 156
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\lawn_mower_s_001036.png",
+      "mean_similarity": 0.9290260672569275,
+      "rank": 157
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\hand_mower_s_000581.png",
+      "mean_similarity": 0.9290082454681396,
+      "rank": 158
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\power_mower_s_000553.png",
+      "mean_similarity": 0.9289785623550415,
+      "rank": 159
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\power_mower_s_000536.png",
+      "mean_similarity": 0.9289779663085938,
+      "rank": 160
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\lawn_mower_s_000426.png",
+      "mean_similarity": 0.9289244413375854,
+      "rank": 161
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\power_mower_s_000434.png",
+      "mean_similarity": 0.9289142489433289,
+      "rank": 162
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\power_mower_s_000611.png",
+      "mean_similarity": 0.9288058280944824,
+      "rank": 163
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\motor_mower_s_000097.png",
+      "mean_similarity": 0.9287974834442139,
+      "rank": 164
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\power_mower_s_000747.png",
+      "mean_similarity": 0.9287944436073303,
+      "rank": 165
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\lawn_mower_s_001955.png",
+      "mean_similarity": 0.9287591576576233,
+      "rank": 166
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\lawn_mower_s_000223.png",
+      "mean_similarity": 0.9286602139472961,
+      "rank": 167
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\motor_mower_s_000026.png",
+      "mean_similarity": 0.9286110401153564,
+      "rank": 168
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\motor_mower_s_000542.png",
+      "mean_similarity": 0.9285998344421387,
+      "rank": 169
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\power_mower_s_001122.png",
+      "mean_similarity": 0.9285186529159546,
+      "rank": 170
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\motor_mower_s_000011.png",
+      "mean_similarity": 0.9284973740577698,
+      "rank": 171
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\motor_mower_s_000115.png",
+      "mean_similarity": 0.9284570813179016,
+      "rank": 172
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\lawn_mower_s_001004.png",
+      "mean_similarity": 0.9284512400627136,
+      "rank": 173
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\mower_s_001260.png",
+      "mean_similarity": 0.9283162355422974,
+      "rank": 174
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\mower_s_001911.png",
+      "mean_similarity": 0.9281960725784302,
+      "rank": 175
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\lawn_mower_s_000790.png",
+      "mean_similarity": 0.9281914830207825,
+      "rank": 176
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\hand_mower_s_000853.png",
+      "mean_similarity": 0.9281648397445679,
+      "rank": 177
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\motor_mower_s_000593.png",
+      "mean_similarity": 0.9280215501785278,
+      "rank": 178
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\hand_mower_s_000073.png",
+      "mean_similarity": 0.928016185760498,
+      "rank": 179
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\lawn_mower_s_000408.png",
+      "mean_similarity": 0.9280000925064087,
+      "rank": 180
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\mower_s_001991.png",
+      "mean_similarity": 0.9279641509056091,
+      "rank": 181
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\lawn_mower_s_000683.png",
+      "mean_similarity": 0.9277880191802979,
+      "rank": 182
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\lawn_mower_s_000098.png",
+      "mean_similarity": 0.9277653694152832,
+      "rank": 183
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\lawn_mower_s_000964.png",
+      "mean_similarity": 0.9277009963989258,
+      "rank": 184
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\motor_mower_s_000825.png",
+      "mean_similarity": 0.9276801943778992,
+      "rank": 185
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\motor_mower_s_000716.png",
+      "mean_similarity": 0.9276790022850037,
+      "rank": 186
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\power_mower_s_000653.png",
+      "mean_similarity": 0.9275830984115601,
+      "rank": 187
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\lawn_mower_s_000979.png",
+      "mean_similarity": 0.9275572896003723,
+      "rank": 188
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\lawn_mower_s_001867.png",
+      "mean_similarity": 0.927555501461029,
+      "rank": 189
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\motor_mower_s_000134.png",
+      "mean_similarity": 0.9275126457214355,
+      "rank": 190
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\lawn_mower_s_000996.png",
+      "mean_similarity": 0.9275075197219849,
+      "rank": 191
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\motor_mower_s_000420.png",
+      "mean_similarity": 0.9274593591690063,
+      "rank": 192
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\mower_s_002218.png",
+      "mean_similarity": 0.9274548292160034,
+      "rank": 193
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\power_mower_s_000149.png",
+      "mean_similarity": 0.9274470210075378,
+      "rank": 194
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\mower_s_000705.png",
+      "mean_similarity": 0.9274049997329712,
+      "rank": 195
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\lawn_mower_s_000971.png",
+      "mean_similarity": 0.9274037480354309,
+      "rank": 196
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\mower_s_001639.png",
+      "mean_similarity": 0.9273961782455444,
+      "rank": 197
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\mower_s_001889.png",
+      "mean_similarity": 0.927337110042572,
+      "rank": 198
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\motor_mower_s_000038.png",
+      "mean_similarity": 0.9272602796554565,
+      "rank": 199
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\lawn_mower_s_001444.png",
+      "mean_similarity": 0.9272580742835999,
+      "rank": 200
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\motor_mower_s_000487.png",
+      "mean_similarity": 0.9271913170814514,
+      "rank": 201
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\hand_mower_s_000666.png",
+      "mean_similarity": 0.927186131477356,
+      "rank": 202
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\lawn_mower_s_000005.png",
+      "mean_similarity": 0.927148163318634,
+      "rank": 203
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\lawn_mower_s_001378.png",
+      "mean_similarity": 0.9270718693733215,
+      "rank": 204
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\mower_s_002166.png",
+      "mean_similarity": 0.9270405173301697,
+      "rank": 205
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\power_mower_s_000212.png",
+      "mean_similarity": 0.9270380735397339,
+      "rank": 206
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\power_mower_s_000557.png",
+      "mean_similarity": 0.9270315766334534,
+      "rank": 207
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\power_mower_s_000307.png",
+      "mean_similarity": 0.9270085096359253,
+      "rank": 208
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\motor_mower_s_000483.png",
+      "mean_similarity": 0.9269832968711853,
+      "rank": 209
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\motor_mower_s_000362.png",
+      "mean_similarity": 0.9269312620162964,
+      "rank": 210
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\motor_mower_s_000662.png",
+      "mean_similarity": 0.9268941879272461,
+      "rank": 211
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\lawn_mower_s_000202.png",
+      "mean_similarity": 0.9268260598182678,
+      "rank": 212
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\motor_mower_s_000820.png",
+      "mean_similarity": 0.9267970323562622,
+      "rank": 213
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\lawn_mower_s_000267.png",
+      "mean_similarity": 0.926788866519928,
+      "rank": 214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\motor_mower_s_000477.png",
+      "mean_similarity": 0.9265878796577454,
+      "rank": 215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\mower_s_002284.png",
+      "mean_similarity": 0.9265178442001343,
+      "rank": 216
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\mower_s_000844.png",
+      "mean_similarity": 0.9263821840286255,
+      "rank": 217
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\motor_mower_s_000643.png",
+      "mean_similarity": 0.9263507723808289,
+      "rank": 218
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\mower_s_000907.png",
+      "mean_similarity": 0.9263049960136414,
+      "rank": 219
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\hand_mower_s_000038.png",
+      "mean_similarity": 0.9262542724609375,
+      "rank": 220
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\motor_mower_s_000041.png",
+      "mean_similarity": 0.9262115955352783,
+      "rank": 221
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\mower_s_001086.png",
+      "mean_similarity": 0.9261354804039001,
+      "rank": 222
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\mower_s_002259.png",
+      "mean_similarity": 0.9260219931602478,
+      "rank": 223
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\mower_s_001932.png",
+      "mean_similarity": 0.9260042905807495,
+      "rank": 224
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\motor_mower_s_000725.png",
+      "mean_similarity": 0.925984799861908,
+      "rank": 225
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\hand_mower_s_000108.png",
+      "mean_similarity": 0.9259639978408813,
+      "rank": 226
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\mower_s_000987.png",
+      "mean_similarity": 0.9259204268455505,
+      "rank": 227
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\lawn_mower_s_001110.png",
+      "mean_similarity": 0.9259127378463745,
+      "rank": 228
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\lawn_mower_s_000525.png",
+      "mean_similarity": 0.9258739948272705,
+      "rank": 229
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\power_mower_s_000165.png",
+      "mean_similarity": 0.9257836937904358,
+      "rank": 230
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\motor_mower_s_000591.png",
+      "mean_similarity": 0.9256612062454224,
+      "rank": 231
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\lawn_mower_s_002111.png",
+      "mean_similarity": 0.9256370663642883,
+      "rank": 232
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\lawn_mower_s_002036.png",
+      "mean_similarity": 0.9254946708679199,
+      "rank": 233
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\lawn_mower_s_000158.png",
+      "mean_similarity": 0.9254869222640991,
+      "rank": 234
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\motor_mower_s_000044.png",
+      "mean_similarity": 0.9253907203674316,
+      "rank": 235
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\motor_mower_s_000023.png",
+      "mean_similarity": 0.9253847002983093,
+      "rank": 236
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\power_mower_s_000373.png",
+      "mean_similarity": 0.9253825545310974,
+      "rank": 237
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\hand_mower_s_000194.png",
+      "mean_similarity": 0.9253820180892944,
+      "rank": 238
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\lawn_mower_s_002254.png",
+      "mean_similarity": 0.9253719449043274,
+      "rank": 239
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\motor_mower_s_000173.png",
+      "mean_similarity": 0.925239622592926,
+      "rank": 240
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\lawn_mower_s_001092.png",
+      "mean_similarity": 0.9251396656036377,
+      "rank": 241
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\hand_mower_s_000807.png",
+      "mean_similarity": 0.9251074194908142,
+      "rank": 242
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\lawn_mower_s_000142.png",
+      "mean_similarity": 0.9250635504722595,
+      "rank": 243
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\lawn_mower_s_000036.png",
+      "mean_similarity": 0.9250231981277466,
+      "rank": 244
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\mower_s_001051.png",
+      "mean_similarity": 0.9250127077102661,
+      "rank": 245
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\mower_s_000796.png",
+      "mean_similarity": 0.9248656034469604,
+      "rank": 246
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\power_mower_s_000008.png",
+      "mean_similarity": 0.9248493313789368,
+      "rank": 247
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\lawn_mower_s_000132.png",
+      "mean_similarity": 0.9248459339141846,
+      "rank": 248
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\lawn_mower_s_000865.png",
+      "mean_similarity": 0.9247627258300781,
+      "rank": 249
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\lawn_mower_s_001199.png",
+      "mean_similarity": 0.9246847033500671,
+      "rank": 250
+    }
+  ]
+}

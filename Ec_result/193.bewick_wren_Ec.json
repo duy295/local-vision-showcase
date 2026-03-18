@@ -1,0 +1,446 @@
+{
+  "class_name": "Bewick Wren",
+  "class_idx": 193,
+  "class_folder": "193.Bewick_Wren",
+  "num_images_in_class": 10,
+  "ec_size_requested": 30,
+  "ec_size_actual": 40,
+  "num_fewshot": 10,
+  "num_synthesized": 30,
+  "fewshot_emphasis_weight": 3.0,
+  "hybrid_lambda": 0.6,
+  "related_base_classes": [
+    {
+      "class_key": "olive_sided_flycatcher",
+      "relevance_score": 1.7754
+    },
+    {
+      "class_key": "ringed_kingfisher",
+      "relevance_score": 1.6055
+    },
+    {
+      "class_key": "white_breasted_nuthatch",
+      "relevance_score": 1.3463
+    },
+    {
+      "class_key": "dark_eyed_junco",
+      "relevance_score": 1.3381
+    },
+    {
+      "class_key": "ruby_throated_hummingbird",
+      "relevance_score": 1.3286
+    },
+    {
+      "class_key": "gray_catbird",
+      "relevance_score": 1.2864
+    },
+    {
+      "class_key": "gray_crowned_rosy_finch",
+      "relevance_score": 1.2607
+    },
+    {
+      "class_key": "red_breasted_merganser",
+      "relevance_score": 1.1949
+    }
+  ],
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\Incremental class - Copy\\193.Bewick_Wren\\Bewick_Wren_0088_184733.jpg",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 1,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\Incremental class - Copy\\193.Bewick_Wren\\Bewick_Wren_0015_184981.jpg",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 2,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\Incremental class - Copy\\193.Bewick_Wren\\Bewick_Wren_0003_185072.jpg",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 3,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\Incremental class - Copy\\193.Bewick_Wren\\Bewick_Wren_0104_185256.jpg",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 4,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\Incremental class - Copy\\193.Bewick_Wren\\Bewick_Wren_0042_184878.jpg",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 5,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\Incremental class - Copy\\193.Bewick_Wren\\Bewick_Wren_0039_184989.jpg",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 6,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\Incremental class - Copy\\193.Bewick_Wren\\Bewick_Wren_0107_184908.jpg",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 7,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\Incremental class - Copy\\193.Bewick_Wren\\Bewick_Wren_0023_185400.jpg",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 8,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\Incremental class - Copy\\193.Bewick_Wren\\Bewick_Wren_0132_184906.jpg",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 9,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\Incremental class - Copy\\193.Bewick_Wren\\Bewick_Wren_0081_185080.jpg",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 10,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\034.Gray_crowned_Rosy_Finch\\Gray_Crowned_Rosy_Finch_0010_27039.jpg",
+      "mean_similarity": 0.9792149000000001,
+      "rank": 11,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\034.Gray_crowned_Rosy_Finch\\Gray_Crowned_Rosy_Finch_0046_797295.jpg",
+      "mean_similarity": 0.9792149000000001,
+      "rank": 12,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\034.Gray_crowned_Rosy_Finch\\Gray_Crowned_Rosy_Finch_0038_797309.jpg",
+      "mean_similarity": 0.9792147999999999,
+      "rank": 13,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\034.Gray_crowned_Rosy_Finch\\Gray_Crowned_Rosy_Finch_0006_797284.jpg",
+      "mean_similarity": 0.9792145,
+      "rank": 14,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\034.Gray_crowned_Rosy_Finch\\Gray_Crowned_Rosy_Finch_0044_26976.jpg",
+      "mean_similarity": 0.9792145,
+      "rank": 15,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\076.Dark_eyed_Junco\\Dark_Eyed_Junco_0043_68689.jpg",
+      "mean_similarity": 0.9792145,
+      "rank": 16,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\040.Olive_sided_Flycatcher\\Olive_Sided_Flycatcher_0059_30536.jpg",
+      "mean_similarity": 0.9792145,
+      "rank": 17,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\034.Gray_crowned_Rosy_Finch\\Gray_Crowned_Rosy_Finch_0026_27160.jpg",
+      "mean_similarity": 0.9792144,
+      "rank": 18,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\034.Gray_crowned_Rosy_Finch\\Gray_Crowned_Rosy_Finch_0021_797286.jpg",
+      "mean_similarity": 0.9792143,
+      "rank": 19,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\040.Olive_sided_Flycatcher\\Olive_Sided_Flycatcher_0018_796882.jpg",
+      "mean_similarity": 0.9792143,
+      "rank": 20,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\040.Olive_sided_Flycatcher\\Olive_Sided_Flycatcher_0033_30532.jpg",
+      "mean_similarity": 0.9792142,
+      "rank": 21,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\034.Gray_crowned_Rosy_Finch\\Gray_Crowned_Rosy_Finch_0074_27156.jpg",
+      "mean_similarity": 0.9792142,
+      "rank": 22,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\068.Ruby_throated_Hummingbird\\Ruby_Throated_Hummingbird_0030_57422.jpg",
+      "mean_similarity": 0.9792142,
+      "rank": 23,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\019.Gray_Catbird\\Gray_Catbird_0111_19550.jpg",
+      "mean_similarity": 0.9792142,
+      "rank": 24,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\076.Dark_eyed_Junco\\Dark_Eyed_Junco_0130_67867.jpg",
+      "mean_similarity": 0.9792141000000001,
+      "rank": 25,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\034.Gray_crowned_Rosy_Finch\\Gray_Crowned_Rosy_Finch_0065_797301.jpg",
+      "mean_similarity": 0.9792141000000001,
+      "rank": 26,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\040.Olive_sided_Flycatcher\\Olive_Sided_Flycatcher_0001_30669.jpg",
+      "mean_similarity": 0.9792141000000001,
+      "rank": 27,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\019.Gray_Catbird\\Gray_Catbird_0023_20668.jpg",
+      "mean_similarity": 0.9792141000000001,
+      "rank": 28,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\094.White_breasted_Nuthatch\\White_Breasted_Nuthatch_0055_86075.jpg",
+      "mean_similarity": 0.9792141000000001,
+      "rank": 29,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\076.Dark_eyed_Junco\\Dark_Eyed_Junco_0113_68470.jpg",
+      "mean_similarity": 0.979214,
+      "rank": 30,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\040.Olive_sided_Flycatcher\\Olive_Sided_Flycatcher_0002_30776.jpg",
+      "mean_similarity": 0.979214,
+      "rank": 31,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\068.Ruby_throated_Hummingbird\\Ruby_Throated_Hummingbird_0058_57298.jpg",
+      "mean_similarity": 0.979214,
+      "rank": 32,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\019.Gray_Catbird\\Gray_Catbird_0141_21174.jpg",
+      "mean_similarity": 0.979214,
+      "rank": 33,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\068.Ruby_throated_Hummingbird\\Ruby_Throated_Hummingbird_0106_57976.jpg",
+      "mean_similarity": 0.979214,
+      "rank": 34,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\034.Gray_crowned_Rosy_Finch\\Gray_Crowned_Rosy_Finch_0063_27123.jpg",
+      "mean_similarity": 0.9792139000000001,
+      "rank": 35,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\068.Ruby_throated_Hummingbird\\Ruby_Throated_Hummingbird_0083_57397.jpg",
+      "mean_similarity": 0.9792139000000001,
+      "rank": 36,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\019.Gray_Catbird\\Gray_Catbird_0129_20987.jpg",
+      "mean_similarity": 0.9792139000000001,
+      "rank": 37,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\040.Olive_sided_Flycatcher\\Olive_Sided_Flycatcher_0014_30651.jpg",
+      "mean_similarity": 0.9792139000000001,
+      "rank": 38,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\076.Dark_eyed_Junco\\Dark_Eyed_Junco_0008_68321.jpg",
+      "mean_similarity": 0.9792139000000001,
+      "rank": 39,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\068.Ruby_throated_Hummingbird\\Ruby_Throated_Hummingbird_0110_57851.jpg",
+      "mean_similarity": 0.9792139000000001,
+      "rank": 40,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    }
+  ],
+  "debug": {
+    "total_candidates": 136,
+    "after_voting": 136,
+    "after_dedup": 30,
+    "dedup_mode": "backbone",
+    "top_segments": [
+      {
+        "class": "034.Gray_crowned_Rosy_Finch",
+        "seg": 2,
+        "hybrid": 1.4788,
+        "magnitude": 9.7921,
+        "borda": 395.0
+      },
+      {
+        "class": "034.Gray_crowned_Rosy_Finch",
+        "seg": 3,
+        "hybrid": 1.4322,
+        "magnitude": 9.7921,
+        "borda": 382.0
+      },
+      {
+        "class": "034.Gray_crowned_Rosy_Finch",
+        "seg": 4,
+        "hybrid": 1.4179,
+        "magnitude": 9.7921,
+        "borda": 378.0
+      },
+      {
+        "class": "076.Dark_eyed_Junco",
+        "seg": 3,
+        "hybrid": 1.1263,
+        "magnitude": 9.7921,
+        "borda": 348.0
+      },
+      {
+        "class": "040.Olive_sided_Flycatcher",
+        "seg": 2,
+        "hybrid": 1.1007,
+        "magnitude": 9.7921,
+        "borda": 358.0
+      },
+      {
+        "class": "034.Gray_crowned_Rosy_Finch",
+        "seg": 1,
+        "hybrid": 1.0474,
+        "magnitude": 9.7921,
+        "borda": 326.0
+      },
+      {
+        "class": "040.Olive_sided_Flycatcher",
+        "seg": 3,
+        "hybrid": 0.9605,
+        "magnitude": 9.7921,
+        "borda": 336.0
+      },
+      {
+        "class": "034.Gray_crowned_Rosy_Finch",
+        "seg": 0,
+        "hybrid": 0.9323,
+        "magnitude": 9.7921,
+        "borda": 311.0
+      },
+      {
+        "class": "068.Ruby_throated_Hummingbird",
+        "seg": 1,
+        "hybrid": 0.896,
+        "magnitude": 9.7921,
+        "borda": 318.0
+      },
+      {
+        "class": "076.Dark_eyed_Junco",
+        "seg": 0,
+        "hybrid": 0.7773,
+        "magnitude": 9.7921,
+        "borda": 302.0
+      }
+    ]
+  }
+}

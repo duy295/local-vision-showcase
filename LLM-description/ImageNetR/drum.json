@@ -1,0 +1,24 @@
+{
+  "class_name": "drum",
+  "global_description": "A cylindrical percussion instrument with a hollow body, typically made of wood or metal, and a taut membrane stretched across the top. The body is often polished or painted, and the membrane is usually white or light-colored. Drums can vary in size but generally have a circular shape.",
+  "discriminative_attributes": [
+    "Cylindrical shape",
+    "Taut membrane",
+    "Hollow body",
+    "Wood or metal material",
+    "Circular top"
+  ],
+  "part_details": {
+    "body": "Cylindrical, often polished or painted, made of wood or metal",
+    "membrane": "Taut, usually white or light-colored, stretched across the top",
+    "rim": "Circular, often metallic, securing the membrane",
+    "shell": "Hollow, resonant, forming the main structure"
+  },
+  "spatial_relations": [
+    "Membrane stretched across top of body",
+    "Rim encircling the membrane",
+    "Shell forming the cylindrical body"
+  ],
+  "original_dataset_key": "ImageNetR",
+  "original_class_key": "drum"
+}

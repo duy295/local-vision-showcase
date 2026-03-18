@@ -1,0 +1,23 @@
+{
+  "class_name": "Pied Billed Grebe",
+  "global_description": "A small, compact water bird with a rounded body and short neck. It features a predominantly brown plumage with a distinctive black and white bill. The bird has a smooth, glossy texture, and its feathers are tightly packed.",
+  "discriminative_attributes": [
+    "Brown plumage with glossy texture",
+    "Black and white pied bill",
+    "Rounded body shape",
+    "Short neck",
+    "Compact size"
+  ],
+  "part_details": {
+    "body": "Rounded, compact, covered in brown feathers with a glossy sheen.",
+    "bill": "Short, thick, black and white, distinctive pied pattern.",
+    "neck": "Short, blending seamlessly into the body.",
+    "feathers": "Tightly packed, smooth, brown with a glossy finish."
+  },
+  "spatial_relations": [
+    "The short neck connects the rounded body to the head.",
+    "The pied bill is positioned at the front of the head."
+  ],
+  "original_dataset_key": "CUB200",
+  "original_class_key": "pied_billed_grebe"
+}

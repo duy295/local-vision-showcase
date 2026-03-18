@@ -1,0 +1,1259 @@
+{
+  "class_name": "otter",
+  "class_idx": 55,
+  "num_images_in_class": 500,
+  "ec_size_requested": 250,
+  "ec_size_actual": 250,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\river_otter_s_000232.png",
+      "mean_similarity": 0.9449824690818787,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\river_otter_s_000556.png",
+      "mean_similarity": 0.9447928667068481,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\otter_s_000201.png",
+      "mean_similarity": 0.9447371363639832,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\otter_s_000333.png",
+      "mean_similarity": 0.94468092918396,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\otter_s_000742.png",
+      "mean_similarity": 0.9445879459381104,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\river_otter_s_002115.png",
+      "mean_similarity": 0.9445669054985046,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\river_otter_s_000051.png",
+      "mean_similarity": 0.9445552229881287,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\river_otter_s_000727.png",
+      "mean_similarity": 0.9445074200630188,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\river_otter_s_000055.png",
+      "mean_similarity": 0.9444594979286194,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\otter_s_001100.png",
+      "mean_similarity": 0.9443364143371582,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\river_otter_s_001021.png",
+      "mean_similarity": 0.9443352818489075,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\river_otter_s_001250.png",
+      "mean_similarity": 0.9443151354789734,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\lutra_canadensis_s_000461.png",
+      "mean_similarity": 0.944259524345398,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\river_otter_s_000416.png",
+      "mean_similarity": 0.9442307353019714,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\river_otter_s_000281.png",
+      "mean_similarity": 0.9442288279533386,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\river_otter_s_000440.png",
+      "mean_similarity": 0.9441841244697571,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\otter_s_001520.png",
+      "mean_similarity": 0.9441518783569336,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\otter_s_001753.png",
+      "mean_similarity": 0.9441145062446594,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\lutra_canadensis_s_000488.png",
+      "mean_similarity": 0.9441051483154297,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\otter_s_001321.png",
+      "mean_similarity": 0.9441048502922058,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\otter_s_000624.png",
+      "mean_similarity": 0.9440580606460571,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\lutra_canadensis_s_000305.png",
+      "mean_similarity": 0.9439346194267273,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\otter_s_001439.png",
+      "mean_similarity": 0.943912148475647,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\otter_s_002004.png",
+      "mean_similarity": 0.9438899755477905,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\otter_s_001868.png",
+      "mean_similarity": 0.9438767433166504,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\river_otter_s_000691.png",
+      "mean_similarity": 0.9438528418540955,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\river_otter_s_000781.png",
+      "mean_similarity": 0.9438440799713135,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\river_otter_s_000494.png",
+      "mean_similarity": 0.9438022971153259,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\river_otter_s_000074.png",
+      "mean_similarity": 0.9437692761421204,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\otter_s_000772.png",
+      "mean_similarity": 0.9437318444252014,
+      "rank": 30
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\otter_s_000217.png",
+      "mean_similarity": 0.9437075853347778,
+      "rank": 31
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\otter_s_002107.png",
+      "mean_similarity": 0.9436801075935364,
+      "rank": 32
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\river_otter_s_000858.png",
+      "mean_similarity": 0.943647563457489,
+      "rank": 33
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\otter_s_001043.png",
+      "mean_similarity": 0.9434614181518555,
+      "rank": 34
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\otter_s_001042.png",
+      "mean_similarity": 0.9433817863464355,
+      "rank": 35
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\lutra_canadensis_s_000015.png",
+      "mean_similarity": 0.9433680772781372,
+      "rank": 36
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\river_otter_s_000880.png",
+      "mean_similarity": 0.9433627128601074,
+      "rank": 37
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\river_otter_s_001276.png",
+      "mean_similarity": 0.9432796239852905,
+      "rank": 38
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\river_otter_s_002334.png",
+      "mean_similarity": 0.9432151913642883,
+      "rank": 39
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\river_otter_s_000454.png",
+      "mean_similarity": 0.943183422088623,
+      "rank": 40
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\otter_s_000310.png",
+      "mean_similarity": 0.9431503415107727,
+      "rank": 41
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\river_otter_s_001443.png",
+      "mean_similarity": 0.9431430697441101,
+      "rank": 42
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\otter_s_000570.png",
+      "mean_similarity": 0.9431359767913818,
+      "rank": 43
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\lutra_canadensis_s_000084.png",
+      "mean_similarity": 0.9431069493293762,
+      "rank": 44
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\river_otter_s_002420.png",
+      "mean_similarity": 0.9431038498878479,
+      "rank": 45
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\river_otter_s_001183.png",
+      "mean_similarity": 0.9430303573608398,
+      "rank": 46
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\otter_s_000576.png",
+      "mean_similarity": 0.9430155754089355,
+      "rank": 47
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\otter_s_000349.png",
+      "mean_similarity": 0.9430133700370789,
+      "rank": 48
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\lutra_canadensis_s_000118.png",
+      "mean_similarity": 0.9429795742034912,
+      "rank": 49
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\river_otter_s_000879.png",
+      "mean_similarity": 0.9429336786270142,
+      "rank": 50
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\otter_s_000119.png",
+      "mean_similarity": 0.9429333209991455,
+      "rank": 51
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\lutra_canadensis_s_000470.png",
+      "mean_similarity": 0.9429045915603638,
+      "rank": 52
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\river_otter_s_000080.png",
+      "mean_similarity": 0.9428836703300476,
+      "rank": 53
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\river_otter_s_001660.png",
+      "mean_similarity": 0.9428510069847107,
+      "rank": 54
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\otter_s_000944.png",
+      "mean_similarity": 0.9428461790084839,
+      "rank": 55
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\otter_s_000447.png",
+      "mean_similarity": 0.9428253769874573,
+      "rank": 56
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\river_otter_s_000488.png",
+      "mean_similarity": 0.9428151845932007,
+      "rank": 57
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\otter_s_001002.png",
+      "mean_similarity": 0.9428087472915649,
+      "rank": 58
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\otter_s_000031.png",
+      "mean_similarity": 0.942790687084198,
+      "rank": 59
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\river_otter_s_001940.png",
+      "mean_similarity": 0.9427767395973206,
+      "rank": 60
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\otter_s_001467.png",
+      "mean_similarity": 0.9427250027656555,
+      "rank": 61
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\lutra_canadensis_s_000579.png",
+      "mean_similarity": 0.9426923990249634,
+      "rank": 62
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\river_otter_s_000863.png",
+      "mean_similarity": 0.9426707625389099,
+      "rank": 63
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\otter_s_000755.png",
+      "mean_similarity": 0.9426618218421936,
+      "rank": 64
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\river_otter_s_001726.png",
+      "mean_similarity": 0.942656934261322,
+      "rank": 65
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\lutra_canadensis_s_000286.png",
+      "mean_similarity": 0.9426516890525818,
+      "rank": 66
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\otter_s_001574.png",
+      "mean_similarity": 0.9425801038742065,
+      "rank": 67
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\river_otter_s_002032.png",
+      "mean_similarity": 0.9425774216651917,
+      "rank": 68
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\river_otter_s_002265.png",
+      "mean_similarity": 0.9425625205039978,
+      "rank": 69
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\otter_s_001221.png",
+      "mean_similarity": 0.9425492882728577,
+      "rank": 70
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\river_otter_s_000545.png",
+      "mean_similarity": 0.9424979090690613,
+      "rank": 71
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\river_otter_s_000883.png",
+      "mean_similarity": 0.9424953460693359,
+      "rank": 72
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\lutra_canadensis_s_000030.png",
+      "mean_similarity": 0.9424789547920227,
+      "rank": 73
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\river_otter_s_000423.png",
+      "mean_similarity": 0.9424663186073303,
+      "rank": 74
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\river_otter_s_000125.png",
+      "mean_similarity": 0.9424384236335754,
+      "rank": 75
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\river_otter_s_001825.png",
+      "mean_similarity": 0.942431628704071,
+      "rank": 76
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\river_otter_s_000630.png",
+      "mean_similarity": 0.9423920512199402,
+      "rank": 77
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\river_otter_s_000028.png",
+      "mean_similarity": 0.9423841834068298,
+      "rank": 78
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\otter_s_000263.png",
+      "mean_similarity": 0.9423785209655762,
+      "rank": 79
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\river_otter_s_001836.png",
+      "mean_similarity": 0.9423615336418152,
+      "rank": 80
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\otter_s_000937.png",
+      "mean_similarity": 0.9423283338546753,
+      "rank": 81
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\river_otter_s_001146.png",
+      "mean_similarity": 0.942323625087738,
+      "rank": 82
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\river_otter_s_000874.png",
+      "mean_similarity": 0.9422764182090759,
+      "rank": 83
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\lutra_canadensis_s_000188.png",
+      "mean_similarity": 0.9422378540039062,
+      "rank": 84
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\otter_s_001503.png",
+      "mean_similarity": 0.9422212839126587,
+      "rank": 85
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\otter_s_000193.png",
+      "mean_similarity": 0.942215621471405,
+      "rank": 86
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\river_otter_s_002092.png",
+      "mean_similarity": 0.9421577453613281,
+      "rank": 87
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\otter_s_000652.png",
+      "mean_similarity": 0.9421420097351074,
+      "rank": 88
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\river_otter_s_001655.png",
+      "mean_similarity": 0.9421373605728149,
+      "rank": 89
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\river_otter_s_000156.png",
+      "mean_similarity": 0.9421062469482422,
+      "rank": 90
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\lutra_canadensis_s_000023.png",
+      "mean_similarity": 0.9420763254165649,
+      "rank": 91
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\river_otter_s_000290.png",
+      "mean_similarity": 0.9420523047447205,
+      "rank": 92
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\river_otter_s_000034.png",
+      "mean_similarity": 0.942038357257843,
+      "rank": 93
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\river_otter_s_000882.png",
+      "mean_similarity": 0.9420280456542969,
+      "rank": 94
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\otter_s_000455.png",
+      "mean_similarity": 0.9420086741447449,
+      "rank": 95
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\river_otter_s_000786.png",
+      "mean_similarity": 0.9419701099395752,
+      "rank": 96
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\river_otter_s_000793.png",
+      "mean_similarity": 0.9419544339179993,
+      "rank": 97
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\lutra_canadensis_s_000029.png",
+      "mean_similarity": 0.9419254660606384,
+      "rank": 98
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\otter_s_000668.png",
+      "mean_similarity": 0.9418587684631348,
+      "rank": 99
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\otter_s_002091.png",
+      "mean_similarity": 0.94185471534729,
+      "rank": 100
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\river_otter_s_002333.png",
+      "mean_similarity": 0.9418282508850098,
+      "rank": 101
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\river_otter_s_000446.png",
+      "mean_similarity": 0.9417528510093689,
+      "rank": 102
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\lutra_canadensis_s_000072.png",
+      "mean_similarity": 0.9417279362678528,
+      "rank": 103
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\otter_s_000394.png",
+      "mean_similarity": 0.9417276978492737,
+      "rank": 104
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\river_otter_s_002136.png",
+      "mean_similarity": 0.9417140483856201,
+      "rank": 105
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\river_otter_s_001064.png",
+      "mean_similarity": 0.9416981339454651,
+      "rank": 106
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\lutra_canadensis_s_000422.png",
+      "mean_similarity": 0.9416924715042114,
+      "rank": 107
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\river_otter_s_000279.png",
+      "mean_similarity": 0.9416427612304688,
+      "rank": 108
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\otter_s_001112.png",
+      "mean_similarity": 0.9416214227676392,
+      "rank": 109
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\otter_s_000847.png",
+      "mean_similarity": 0.941602885723114,
+      "rank": 110
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\otter_s_000786.png",
+      "mean_similarity": 0.9415619969367981,
+      "rank": 111
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\river_otter_s_001349.png",
+      "mean_similarity": 0.941552460193634,
+      "rank": 112
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\otter_s_000259.png",
+      "mean_similarity": 0.9415322542190552,
+      "rank": 113
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\river_otter_s_002146.png",
+      "mean_similarity": 0.9415217041969299,
+      "rank": 114
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\river_otter_s_000846.png",
+      "mean_similarity": 0.9414992332458496,
+      "rank": 115
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\otter_s_000033.png",
+      "mean_similarity": 0.9414892792701721,
+      "rank": 116
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\otter_s_001825.png",
+      "mean_similarity": 0.9414587020874023,
+      "rank": 117
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\lutra_canadensis_s_000388.png",
+      "mean_similarity": 0.9413952827453613,
+      "rank": 118
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\otter_s_001432.png",
+      "mean_similarity": 0.9413887858390808,
+      "rank": 119
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\river_otter_s_002258.png",
+      "mean_similarity": 0.9413822889328003,
+      "rank": 120
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\river_otter_s_001531.png",
+      "mean_similarity": 0.9413745999336243,
+      "rank": 121
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\lutra_canadensis_s_000321.png",
+      "mean_similarity": 0.9413740634918213,
+      "rank": 122
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\river_otter_s_000959.png",
+      "mean_similarity": 0.9413740038871765,
+      "rank": 123
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\lutra_canadensis_s_000354.png",
+      "mean_similarity": 0.9413553476333618,
+      "rank": 124
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\otter_s_001569.png",
+      "mean_similarity": 0.9413238167762756,
+      "rank": 125
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\river_otter_s_002447.png",
+      "mean_similarity": 0.9412841796875,
+      "rank": 126
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\river_otter_s_000162.png",
+      "mean_similarity": 0.9412591457366943,
+      "rank": 127
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\lutra_canadensis_s_000027.png",
+      "mean_similarity": 0.9412189722061157,
+      "rank": 128
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\otter_s_000457.png",
+      "mean_similarity": 0.9411994218826294,
+      "rank": 129
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\otter_s_000995.png",
+      "mean_similarity": 0.9411989450454712,
+      "rank": 130
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\river_otter_s_001386.png",
+      "mean_similarity": 0.9411816596984863,
+      "rank": 131
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\river_otter_s_000844.png",
+      "mean_similarity": 0.9411197900772095,
+      "rank": 132
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\lutra_canadensis_s_000294.png",
+      "mean_similarity": 0.941116988658905,
+      "rank": 133
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\river_otter_s_001585.png",
+      "mean_similarity": 0.9411097764968872,
+      "rank": 134
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\otter_s_001694.png",
+      "mean_similarity": 0.9410988688468933,
+      "rank": 135
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\otter_s_001049.png",
+      "mean_similarity": 0.9410868883132935,
+      "rank": 136
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\otter_s_001707.png",
+      "mean_similarity": 0.9410781860351562,
+      "rank": 137
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\otter_s_000562.png",
+      "mean_similarity": 0.9410116672515869,
+      "rank": 138
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\otter_s_000330.png",
+      "mean_similarity": 0.941002607345581,
+      "rank": 139
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\otter_s_000781.png",
+      "mean_similarity": 0.9410004019737244,
+      "rank": 140
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\river_otter_s_000650.png",
+      "mean_similarity": 0.9409682750701904,
+      "rank": 141
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\otter_s_001255.png",
+      "mean_similarity": 0.9408847093582153,
+      "rank": 142
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\lutra_canadensis_s_000725.png",
+      "mean_similarity": 0.9408510327339172,
+      "rank": 143
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\otter_s_000833.png",
+      "mean_similarity": 0.9408274292945862,
+      "rank": 144
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\otter_s_000574.png",
+      "mean_similarity": 0.9407761693000793,
+      "rank": 145
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\river_otter_s_000076.png",
+      "mean_similarity": 0.9407730102539062,
+      "rank": 146
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\river_otter_s_000082.png",
+      "mean_similarity": 0.9407709836959839,
+      "rank": 147
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\lutra_canadensis_s_000290.png",
+      "mean_similarity": 0.9407623410224915,
+      "rank": 148
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\river_otter_s_000158.png",
+      "mean_similarity": 0.9407559633255005,
+      "rank": 149
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\river_otter_s_000840.png",
+      "mean_similarity": 0.9407361149787903,
+      "rank": 150
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\river_otter_s_001865.png",
+      "mean_similarity": 0.9407072067260742,
+      "rank": 151
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\otter_s_000561.png",
+      "mean_similarity": 0.9406864047050476,
+      "rank": 152
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\otter_s_001385.png",
+      "mean_similarity": 0.9406779408454895,
+      "rank": 153
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\otter_s_000523.png",
+      "mean_similarity": 0.9406259059906006,
+      "rank": 154
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\river_otter_s_000260.png",
+      "mean_similarity": 0.9406216144561768,
+      "rank": 155
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\otter_s_001440.png",
+      "mean_similarity": 0.9406133890151978,
+      "rank": 156
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\river_otter_s_000257.png",
+      "mean_similarity": 0.9405824542045593,
+      "rank": 157
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\lutra_canadensis_s_000013.png",
+      "mean_similarity": 0.9405646324157715,
+      "rank": 158
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\otter_s_000290.png",
+      "mean_similarity": 0.9405624270439148,
+      "rank": 159
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\otter_s_000117.png",
+      "mean_similarity": 0.940558135509491,
+      "rank": 160
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\otter_s_000020.png",
+      "mean_similarity": 0.9405301809310913,
+      "rank": 161
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\otter_s_001224.png",
+      "mean_similarity": 0.9405097961425781,
+      "rank": 162
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\otter_s_001883.png",
+      "mean_similarity": 0.9404730796813965,
+      "rank": 163
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\river_otter_s_001052.png",
+      "mean_similarity": 0.9404573440551758,
+      "rank": 164
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\otter_s_000563.png",
+      "mean_similarity": 0.9404551386833191,
+      "rank": 165
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\river_otter_s_001946.png",
+      "mean_similarity": 0.9403684139251709,
+      "rank": 166
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\otter_s_002101.png",
+      "mean_similarity": 0.9402334094047546,
+      "rank": 167
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\river_otter_s_000386.png",
+      "mean_similarity": 0.940229594707489,
+      "rank": 168
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\river_otter_s_001382.png",
+      "mean_similarity": 0.9402225613594055,
+      "rank": 169
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\otter_s_002095.png",
+      "mean_similarity": 0.9400720596313477,
+      "rank": 170
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\river_otter_s_002413.png",
+      "mean_similarity": 0.940035879611969,
+      "rank": 171
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\otter_s_000559.png",
+      "mean_similarity": 0.9400351047515869,
+      "rank": 172
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\otter_s_000123.png",
+      "mean_similarity": 0.9400234818458557,
+      "rank": 173
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\river_otter_s_000785.png",
+      "mean_similarity": 0.9399991631507874,
+      "rank": 174
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\lutra_canadensis_s_000380.png",
+      "mean_similarity": 0.9399875402450562,
+      "rank": 175
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\river_otter_s_000220.png",
+      "mean_similarity": 0.9399638772010803,
+      "rank": 176
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\river_otter_s_001290.png",
+      "mean_similarity": 0.9399580359458923,
+      "rank": 177
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\otter_s_002247.png",
+      "mean_similarity": 0.9399278163909912,
+      "rank": 178
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\otter_s_001171.png",
+      "mean_similarity": 0.9399190545082092,
+      "rank": 179
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\otter_s_000758.png",
+      "mean_similarity": 0.9399081468582153,
+      "rank": 180
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\otter_s_001260.png",
+      "mean_similarity": 0.9398968815803528,
+      "rank": 181
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\river_otter_s_000123.png",
+      "mean_similarity": 0.9398883581161499,
+      "rank": 182
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\river_otter_s_001527.png",
+      "mean_similarity": 0.9398835897445679,
+      "rank": 183
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\river_otter_s_000256.png",
+      "mean_similarity": 0.939864993095398,
+      "rank": 184
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\otter_s_000035.png",
+      "mean_similarity": 0.9398648738861084,
+      "rank": 185
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\river_otter_s_000126.png",
+      "mean_similarity": 0.9398605823516846,
+      "rank": 186
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\otter_s_001595.png",
+      "mean_similarity": 0.9398489594459534,
+      "rank": 187
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\river_otter_s_000987.png",
+      "mean_similarity": 0.9398373365402222,
+      "rank": 188
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\lutra_canadensis_s_000480.png",
+      "mean_similarity": 0.9398303627967834,
+      "rank": 189
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\otter_s_001216.png",
+      "mean_similarity": 0.9398300051689148,
+      "rank": 190
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\otter_s_000778.png",
+      "mean_similarity": 0.9398261904716492,
+      "rank": 191
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\otter_s_000073.png",
+      "mean_similarity": 0.9397966265678406,
+      "rank": 192
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\otter_s_001785.png",
+      "mean_similarity": 0.9397826790809631,
+      "rank": 193
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\river_otter_s_001251.png",
+      "mean_similarity": 0.9397815465927124,
+      "rank": 194
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\otter_s_000568.png",
+      "mean_similarity": 0.9396688342094421,
+      "rank": 195
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\otter_s_000391.png",
+      "mean_similarity": 0.9396587610244751,
+      "rank": 196
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\river_otter_s_000683.png",
+      "mean_similarity": 0.9396340250968933,
+      "rank": 197
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\lutra_canadensis_s_000007.png",
+      "mean_similarity": 0.9395885467529297,
+      "rank": 198
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\river_otter_s_001153.png",
+      "mean_similarity": 0.9395833015441895,
+      "rank": 199
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\river_otter_s_000067.png",
+      "mean_similarity": 0.9395318627357483,
+      "rank": 200
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\otter_s_001117.png",
+      "mean_similarity": 0.9395158886909485,
+      "rank": 201
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\otter_s_001106.png",
+      "mean_similarity": 0.9394328594207764,
+      "rank": 202
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\otter_s_000397.png",
+      "mean_similarity": 0.9393960237503052,
+      "rank": 203
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\otter_s_001965.png",
+      "mean_similarity": 0.9393554329872131,
+      "rank": 204
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\river_otter_s_002403.png",
+      "mean_similarity": 0.9393446445465088,
+      "rank": 205
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\river_otter_s_001637.png",
+      "mean_similarity": 0.9393168687820435,
+      "rank": 206
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\river_otter_s_001163.png",
+      "mean_similarity": 0.9392576813697815,
+      "rank": 207
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\lutra_canadensis_s_000333.png",
+      "mean_similarity": 0.9392514228820801,
+      "rank": 208
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\river_otter_s_002157.png",
+      "mean_similarity": 0.9392513036727905,
+      "rank": 209
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\river_otter_s_002015.png",
+      "mean_similarity": 0.9391864538192749,
+      "rank": 210
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\otter_s_000859.png",
+      "mean_similarity": 0.9391263127326965,
+      "rank": 211
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\river_otter_s_000229.png",
+      "mean_similarity": 0.9391149878501892,
+      "rank": 212
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\otter_s_001774.png",
+      "mean_similarity": 0.93911212682724,
+      "rank": 213
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\river_otter_s_001518.png",
+      "mean_similarity": 0.9390538930892944,
+      "rank": 214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\river_otter_s_001230.png",
+      "mean_similarity": 0.9390140175819397,
+      "rank": 215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\river_otter_s_000283.png",
+      "mean_similarity": 0.939002513885498,
+      "rank": 216
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\otter_s_001693.png",
+      "mean_similarity": 0.9389671087265015,
+      "rank": 217
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\otter_s_002040.png",
+      "mean_similarity": 0.9389652013778687,
+      "rank": 218
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\river_otter_s_000950.png",
+      "mean_similarity": 0.9389511346817017,
+      "rank": 219
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\otter_s_000537.png",
+      "mean_similarity": 0.9389259815216064,
+      "rank": 220
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\river_otter_s_001291.png",
+      "mean_similarity": 0.9389017224311829,
+      "rank": 221
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\lutra_canadensis_s_000415.png",
+      "mean_similarity": 0.9388543963432312,
+      "rank": 222
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\lutra_canadensis_s_000248.png",
+      "mean_similarity": 0.9388056397438049,
+      "rank": 223
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\otter_s_000357.png",
+      "mean_similarity": 0.9387981295585632,
+      "rank": 224
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\river_otter_s_001962.png",
+      "mean_similarity": 0.938690721988678,
+      "rank": 225
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\otter_s_000305.png",
+      "mean_similarity": 0.9386687278747559,
+      "rank": 226
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\lutra_canadensis_s_000275.png",
+      "mean_similarity": 0.9386477470397949,
+      "rank": 227
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\otter_s_000560.png",
+      "mean_similarity": 0.9386335015296936,
+      "rank": 228
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\otter_s_001803.png",
+      "mean_similarity": 0.9385303854942322,
+      "rank": 229
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\river_otter_s_001875.png",
+      "mean_similarity": 0.9384634494781494,
+      "rank": 230
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\otter_s_001201.png",
+      "mean_similarity": 0.9384542107582092,
+      "rank": 231
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\river_otter_s_001882.png",
+      "mean_similarity": 0.9384430050849915,
+      "rank": 232
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\otter_s_002136.png",
+      "mean_similarity": 0.9384326338768005,
+      "rank": 233
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\otter_s_000535.png",
+      "mean_similarity": 0.9382900595664978,
+      "rank": 234
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\river_otter_s_001966.png",
+      "mean_similarity": 0.9382893443107605,
+      "rank": 235
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\otter_s_000882.png",
+      "mean_similarity": 0.9382758736610413,
+      "rank": 236
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\river_otter_s_000233.png",
+      "mean_similarity": 0.9381734728813171,
+      "rank": 237
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\otter_s_001071.png",
+      "mean_similarity": 0.9381619691848755,
+      "rank": 238
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\otter_s_001246.png",
+      "mean_similarity": 0.9381586909294128,
+      "rank": 239
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\lutra_canadensis_s_000556.png",
+      "mean_similarity": 0.9381497502326965,
+      "rank": 240
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\otter_s_001433.png",
+      "mean_similarity": 0.9381478428840637,
+      "rank": 241
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\river_otter_s_000175.png",
+      "mean_similarity": 0.9381350874900818,
+      "rank": 242
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\otter_s_000460.png",
+      "mean_similarity": 0.9380731582641602,
+      "rank": 243
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\river_otter_s_001656.png",
+      "mean_similarity": 0.9380398392677307,
+      "rank": 244
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\river_otter_s_000385.png",
+      "mean_similarity": 0.9380281567573547,
+      "rank": 245
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\otter_s_002257.png",
+      "mean_similarity": 0.938001275062561,
+      "rank": 246
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\otter_s_001705.png",
+      "mean_similarity": 0.9379051327705383,
+      "rank": 247
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\river_otter_s_000594.png",
+      "mean_similarity": 0.9378991723060608,
+      "rank": 248
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\otter_s_000769.png",
+      "mean_similarity": 0.9378724694252014,
+      "rank": 249
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\056.otter\\otter_s_001431.png",
+      "mean_similarity": 0.9378531575202942,
+      "rank": 250
+    }
+  ]
+}

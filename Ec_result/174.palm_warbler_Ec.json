@@ -1,0 +1,446 @@
+{
+  "class_name": "Palm Warbler",
+  "class_idx": 174,
+  "class_folder": "174.Palm_Warbler",
+  "num_images_in_class": 10,
+  "ec_size_requested": 30,
+  "ec_size_actual": 40,
+  "num_fewshot": 10,
+  "num_synthesized": 30,
+  "fewshot_emphasis_weight": 3.0,
+  "hybrid_lambda": 0.6,
+  "related_base_classes": [
+    {
+      "class_key": "yellow_bellied_flycatcher",
+      "relevance_score": 2.4344
+    },
+    {
+      "class_key": "western_meadowlark",
+      "relevance_score": 2.2976
+    },
+    {
+      "class_key": "great_crested_flycatcher",
+      "relevance_score": 2.1895
+    },
+    {
+      "class_key": "yellow_breasted_chat",
+      "relevance_score": 2.143
+    },
+    {
+      "class_key": "yellow_billed_cuckoo",
+      "relevance_score": 1.9352
+    },
+    {
+      "class_key": "acadian_flycatcher",
+      "relevance_score": 1.8095
+    },
+    {
+      "class_key": "ovenbird",
+      "relevance_score": 1.3521
+    },
+    {
+      "class_key": "european_goldfinch",
+      "relevance_score": 1.2604
+    }
+  ],
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\Incremental class - Copy\\174.Palm_Warbler\\Palm_Warbler_0093_170499.jpg",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 1,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\Incremental class - Copy\\174.Palm_Warbler\\Palm_Warbler_0006_169429.jpg",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 2,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\Incremental class - Copy\\174.Palm_Warbler\\Palm_Warbler_0001_170297.jpg",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 3,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\Incremental class - Copy\\174.Palm_Warbler\\Palm_Warbler_0113_170080.jpg",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 4,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\Incremental class - Copy\\174.Palm_Warbler\\Palm_Warbler_0024_170501.jpg",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 5,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\Incremental class - Copy\\174.Palm_Warbler\\Palm_Warbler_0020_168857.jpg",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 6,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\Incremental class - Copy\\174.Palm_Warbler\\Palm_Warbler_0117_170073.jpg",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 7,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\Incremental class - Copy\\174.Palm_Warbler\\Palm_Warbler_0010_169452.jpg",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 8,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\Incremental class - Copy\\174.Palm_Warbler\\Palm_Warbler_0134_168943.jpg",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 9,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\Incremental class - Copy\\174.Palm_Warbler\\Palm_Warbler_0083_170281.jpg",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 10,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\043.Yellow_bellied_Flycatcher\\Yellow_Bellied_Flycatcher_0034_795511.jpg",
+      "mean_similarity": 0.9792146000000002,
+      "rank": 11,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\038.Great_Crested_Flycatcher\\Great_Crested_Flycatcher_0067_29384.jpg",
+      "mean_similarity": 0.9792146000000002,
+      "rank": 12,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\088.Western_Meadowlark\\Western_Meadowlark_0021_78841.jpg",
+      "mean_similarity": 0.9792145,
+      "rank": 13,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\037.Acadian_Flycatcher\\Acadian_Flycatcher_0010_29199.jpg",
+      "mean_similarity": 0.9792145,
+      "rank": 14,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\099.Ovenbird\\Ovenbird_0045_92973.jpg",
+      "mean_similarity": 0.9792144,
+      "rank": 15,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\099.Ovenbird\\Ovenbird_0104_92763.jpg",
+      "mean_similarity": 0.9792144,
+      "rank": 16,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\099.Ovenbird\\Ovenbird_0128_93366.jpg",
+      "mean_similarity": 0.9792143,
+      "rank": 17,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\099.Ovenbird\\Ovenbird_0004_92868.jpg",
+      "mean_similarity": 0.9792143,
+      "rank": 18,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\099.Ovenbird\\Ovenbird_0032_93199.jpg",
+      "mean_similarity": 0.9792143,
+      "rank": 19,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\043.Yellow_bellied_Flycatcher\\Yellow_Bellied_Flycatcher_0031_42580.jpg",
+      "mean_similarity": 0.9792143,
+      "rank": 20,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\099.Ovenbird\\Ovenbird_0024_92583.jpg",
+      "mean_similarity": 0.9792142,
+      "rank": 21,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\099.Ovenbird\\Ovenbird_0046_92821.jpg",
+      "mean_similarity": 0.9792142,
+      "rank": 22,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\043.Yellow_bellied_Flycatcher\\Yellow_Bellied_Flycatcher_0018_795494.jpg",
+      "mean_similarity": 0.9792142,
+      "rank": 23,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\043.Yellow_bellied_Flycatcher\\Yellow_Bellied_Flycatcher_0044_795480.jpg",
+      "mean_similarity": 0.9792142,
+      "rank": 24,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\020.Yellow_breasted_Chat\\Yellow_Breasted_Chat_0073_21932.jpg",
+      "mean_similarity": 0.9792141000000001,
+      "rank": 25,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\037.Acadian_Flycatcher\\Acadian_Flycatcher_0065_29070.jpg",
+      "mean_similarity": 0.9792141000000001,
+      "rank": 26,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\037.Acadian_Flycatcher\\Acadian_Flycatcher_0066_29190.jpg",
+      "mean_similarity": 0.9792141000000001,
+      "rank": 27,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\099.Ovenbird\\Ovenbird_0136_92859.jpg",
+      "mean_similarity": 0.9792139000000001,
+      "rank": 28,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\088.Western_Meadowlark\\Western_Meadowlark_0118_78820.jpg",
+      "mean_similarity": 0.9792139000000001,
+      "rank": 29,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\043.Yellow_bellied_Flycatcher\\Yellow_Bellied_Flycatcher_0049_42593.jpg",
+      "mean_similarity": 0.9792139000000001,
+      "rank": 30,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\043.Yellow_bellied_Flycatcher\\Yellow_Bellied_Flycatcher_0054_42709.jpg",
+      "mean_similarity": 0.9792139000000001,
+      "rank": 31,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\088.Western_Meadowlark\\Western_Meadowlark_0001_78676.jpg",
+      "mean_similarity": 0.9792139000000001,
+      "rank": 32,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\099.Ovenbird\\Ovenbird_0064_93208.jpg",
+      "mean_similarity": 0.9792138,
+      "rank": 33,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\048.European_Goldfinch\\European_Goldfinch_0032_794679.jpg",
+      "mean_similarity": 0.9792138,
+      "rank": 34,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\020.Yellow_breasted_Chat\\Yellow_Breasted_Chat_0052_21866.jpg",
+      "mean_similarity": 0.9792138,
+      "rank": 35,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\038.Great_Crested_Flycatcher\\Great_Crested_Flycatcher_0063_29507.jpg",
+      "mean_similarity": 0.9792138,
+      "rank": 36,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\038.Great_Crested_Flycatcher\\Great_Crested_Flycatcher_0087_29252.jpg",
+      "mean_similarity": 0.9792138,
+      "rank": 37,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\088.Western_Meadowlark\\Western_Meadowlark_0053_77774.jpg",
+      "mean_similarity": 0.9792137000000001,
+      "rank": 38,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\088.Western_Meadowlark\\Western_Meadowlark_0097_78239.jpg",
+      "mean_similarity": 0.9792137000000001,
+      "rank": 39,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\043.Yellow_bellied_Flycatcher\\Yellow_Bellied_Flycatcher_0009_795510.jpg",
+      "mean_similarity": 0.9792137000000001,
+      "rank": 40,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    }
+  ],
+  "debug": {
+    "total_candidates": 128,
+    "after_voting": 128,
+    "after_dedup": 30,
+    "dedup_mode": "backbone",
+    "top_segments": [
+      {
+        "class": "088.Western_Meadowlark",
+        "seg": 3,
+        "hybrid": 1.708,
+        "magnitude": 9.7921,
+        "borda": 370.0
+      },
+      {
+        "class": "099.Ovenbird",
+        "seg": 3,
+        "hybrid": 1.5169,
+        "magnitude": 9.7921,
+        "borda": 366.0
+      },
+      {
+        "class": "099.Ovenbird",
+        "seg": 1,
+        "hybrid": 1.3258,
+        "magnitude": 9.7921,
+        "borda": 340.0
+      },
+      {
+        "class": "099.Ovenbird",
+        "seg": 0,
+        "hybrid": 1.1984,
+        "magnitude": 9.7921,
+        "borda": 330.0
+      },
+      {
+        "class": "099.Ovenbird",
+        "seg": 4,
+        "hybrid": 1.1705,
+        "magnitude": 9.7921,
+        "borda": 323.0
+      },
+      {
+        "class": "043.Yellow_bellied_Flycatcher",
+        "seg": 3,
+        "hybrid": 1.1068,
+        "magnitude": 9.7921,
+        "borda": 329.0
+      },
+      {
+        "class": "020.Yellow_breasted_Chat",
+        "seg": 4,
+        "hybrid": 1.0232,
+        "magnitude": 9.7921,
+        "borda": 308.0
+      },
+      {
+        "class": "088.Western_Meadowlark",
+        "seg": 1,
+        "hybrid": 0.8639,
+        "magnitude": 9.7921,
+        "borda": 290.0
+      },
+      {
+        "class": "043.Yellow_bellied_Flycatcher",
+        "seg": 2,
+        "hybrid": 0.852,
+        "magnitude": 9.7921,
+        "borda": 309.0
+      },
+      {
+        "class": "099.Ovenbird",
+        "seg": 2,
+        "hybrid": 0.8361,
+        "magnitude": 9.7921,
+        "borda": 283.0
+      }
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "class_name": "Bird",
+  "global_description": "A medium-sized bird with a compact body and short tail, predominantly green with distinctive white spots. It has a rounded head, short beak, and bright red eyes. The plumage is glossy, giving it a sleek appearance.",
+  "discriminative_attributes": [
+    "Green plumage with white spots",
+    "Bright red eyes",
+    "Short tail",
+    "Glossy texture",
+    "Compact body"
+  ],
+  "part_details": {
+    "head": "Rounded, green with red eyes and a short beak.",
+    "body": "Compact, covered in green feathers with white spots.",
+    "tail": "Short, green, matching the body.",
+    "eyes": "Bright red, contrasting with green feathers."
+  },
+  "spatial_relations": [
+    "The head is positioned at the front of the compact body.",
+    "The tail extends from the rear of the body."
+  ],
+  "original_dataset_key": "CUB200",
+  "original_class_key": "spotted_catbird"
+}

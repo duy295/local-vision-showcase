@@ -1,0 +1,159 @@
+{
+  "class_name": "091.Mockingbird",
+  "class_idx": 90,
+  "num_images_in_class": 30,
+  "ec_size_requested": 30,
+  "ec_size_actual": 30,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\091.Mockingbird\\Mockingbird_0109_79682.jpg",
+      "mean_similarity": 0.944555938243866,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\091.Mockingbird\\Mockingbird_0083_79862.jpg",
+      "mean_similarity": 0.9440006613731384,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\091.Mockingbird\\Mockingbird_0056_81986.jpg",
+      "mean_similarity": 0.9435024261474609,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\091.Mockingbird\\Mockingbird_0077_81470.jpg",
+      "mean_similarity": 0.943314790725708,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\091.Mockingbird\\Mockingbird_0059_82126.jpg",
+      "mean_similarity": 0.9425824880599976,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\091.Mockingbird\\Mockingbird_0072_80789.jpg",
+      "mean_similarity": 0.9415313601493835,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\091.Mockingbird\\Mockingbird_0069_79760.jpg",
+      "mean_similarity": 0.9400410056114197,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\091.Mockingbird\\Mockingbird_0050_80184.jpg",
+      "mean_similarity": 0.9398511648178101,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\091.Mockingbird\\Mockingbird_0010_79955.jpg",
+      "mean_similarity": 0.9396882057189941,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\091.Mockingbird\\Mockingbird_0094_80232.jpg",
+      "mean_similarity": 0.9391952157020569,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\091.Mockingbird\\Mockingbird_0103_79659.jpg",
+      "mean_similarity": 0.9383342266082764,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\091.Mockingbird\\Mockingbird_0097_79951.jpg",
+      "mean_similarity": 0.9383045434951782,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\091.Mockingbird\\Mockingbird_0049_80336.jpg",
+      "mean_similarity": 0.9382641315460205,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\091.Mockingbird\\Mockingbird_0108_81908.jpg",
+      "mean_similarity": 0.9382134079933167,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\091.Mockingbird\\Mockingbird_0024_79623.jpg",
+      "mean_similarity": 0.9376608729362488,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\091.Mockingbird\\Mockingbird_0087_79600.jpg",
+      "mean_similarity": 0.9374130368232727,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\091.Mockingbird\\Mockingbird_0096_79878.jpg",
+      "mean_similarity": 0.9373952746391296,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\091.Mockingbird\\Mockingbird_0085_81417.jpg",
+      "mean_similarity": 0.9367144703865051,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\091.Mockingbird\\Mockingbird_0046_81086.jpg",
+      "mean_similarity": 0.9365559220314026,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\091.Mockingbird\\Mockingbird_0057_79643.jpg",
+      "mean_similarity": 0.9362444281578064,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\091.Mockingbird\\Mockingbird_0048_80441.jpg",
+      "mean_similarity": 0.9343903660774231,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\091.Mockingbird\\Mockingbird_0038_81299.jpg",
+      "mean_similarity": 0.9342933297157288,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\091.Mockingbird\\Mockingbird_0106_81381.jpg",
+      "mean_similarity": 0.9341814517974854,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\091.Mockingbird\\Mockingbird_0035_79635.jpg",
+      "mean_similarity": 0.9330411553382874,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\091.Mockingbird\\Mockingbird_0004_81991.jpg",
+      "mean_similarity": 0.9329736232757568,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\091.Mockingbird\\Mockingbird_0019_81296.jpg",
+      "mean_similarity": 0.9328129887580872,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\091.Mockingbird\\Mockingbird_0047_80819.jpg",
+      "mean_similarity": 0.9319519996643066,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\091.Mockingbird\\Mockingbird_0015_80652.jpg",
+      "mean_similarity": 0.9291353225708008,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\091.Mockingbird\\Mockingbird_0008_81226.jpg",
+      "mean_similarity": 0.9246618151664734,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\091.Mockingbird\\Mockingbird_0086_81868.jpg",
+      "mean_similarity": 0.9174981117248535,
+      "rank": 30
+    }
+  ]
+}

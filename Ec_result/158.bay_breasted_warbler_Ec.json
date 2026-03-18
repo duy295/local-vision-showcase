@@ -1,0 +1,434 @@
+{
+  "class_name": "Bay breasted Warbler",
+  "class_idx": 158,
+  "class_folder": "158.Bay_breasted_Warbler",
+  "num_images_in_class": 10,
+  "ec_size_requested": 30,
+  "ec_size_actual": 40,
+  "num_fewshot": 10,
+  "num_synthesized": 30,
+  "fewshot_emphasis_weight": 3.0,
+  "hybrid_lambda": 0.6,
+  "related_base_classes": [
+    {
+      "class_key": "western_meadowlark",
+      "relevance_score": 2.1619
+    },
+    {
+      "class_key": "orchard_oriole",
+      "relevance_score": 1.8321
+    },
+    {
+      "class_key": "red_breasted_merganser",
+      "relevance_score": 1.7393
+    },
+    {
+      "class_key": "rufous_hummingbird",
+      "relevance_score": 1.3995
+    },
+    {
+      "class_key": "european_goldfinch",
+      "relevance_score": 1.3939
+    }
+  ],
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\Incremental class - Copy\\158.Bay_breasted_Warbler\\Bay_Breasted_Warbler_0087_797122.jpg",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 1,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\Incremental class - Copy\\158.Bay_breasted_Warbler\\Bay_Breasted_Warbler_0020_159737.jpg",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 2,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\Incremental class - Copy\\158.Bay_breasted_Warbler\\Bay_Breasted_Warbler_0005_159739.jpg",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 3,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\Incremental class - Copy\\158.Bay_breasted_Warbler\\Bay_Breasted_Warbler_0095_797113.jpg",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 4,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\Incremental class - Copy\\158.Bay_breasted_Warbler\\Bay_Breasted_Warbler_0052_797125.jpg",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 5,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\Incremental class - Copy\\158.Bay_breasted_Warbler\\Bay_Breasted_Warbler_0049_797129.jpg",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 6,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\Incremental class - Copy\\158.Bay_breasted_Warbler\\Bay_Breasted_Warbler_0097_159974.jpg",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 7,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\Incremental class - Copy\\158.Bay_breasted_Warbler\\Bay_Breasted_Warbler_0026_159744.jpg",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 8,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\Incremental class - Copy\\158.Bay_breasted_Warbler\\Bay_Breasted_Warbler_0109_159883.jpg",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 9,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\Incremental class - Copy\\158.Bay_breasted_Warbler\\Bay_Breasted_Warbler_0079_159998.jpg",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 10,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\097.Orchard_Oriole\\Orchard_Oriole_0092_92128.jpg",
+      "mean_similarity": 0.9792146000000002,
+      "rank": 11,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\097.Orchard_Oriole\\Orchard_Oriole_0035_92003.jpg",
+      "mean_similarity": 0.9792145,
+      "rank": 12,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\048.European_Goldfinch\\European_Goldfinch_0032_794679.jpg",
+      "mean_similarity": 0.9792142,
+      "rank": 13,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\097.Orchard_Oriole\\Orchard_Oriole_0005_91682.jpg",
+      "mean_similarity": 0.9792141000000001,
+      "rank": 14,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\048.European_Goldfinch\\European_Goldfinch_0041_794645.jpg",
+      "mean_similarity": 0.9792141000000001,
+      "rank": 15,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\048.European_Goldfinch\\European_Goldfinch_0098_33152.jpg",
+      "mean_similarity": 0.979214,
+      "rank": 16,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\069.Rufous_Hummingbird\\Rufous_Hummingbird_0025_59461.jpg",
+      "mean_similarity": 0.979214,
+      "rank": 17,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\069.Rufous_Hummingbird\\Rufous_Hummingbird_0106_60465.jpg",
+      "mean_similarity": 0.979214,
+      "rank": 18,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\069.Rufous_Hummingbird\\Rufous_Hummingbird_0089_59524.jpg",
+      "mean_similarity": 0.9792138,
+      "rank": 19,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\069.Rufous_Hummingbird\\Rufous_Hummingbird_0047_59448.jpg",
+      "mean_similarity": 0.9792138,
+      "rank": 20,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\069.Rufous_Hummingbird\\Rufous_Hummingbird_0091_60551.jpg",
+      "mean_similarity": 0.9792138,
+      "rank": 21,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\097.Orchard_Oriole\\Orchard_Oriole_0039_91267.jpg",
+      "mean_similarity": 0.9792137000000001,
+      "rank": 22,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\048.European_Goldfinch\\European_Goldfinch_0076_33173.jpg",
+      "mean_similarity": 0.9792137000000001,
+      "rank": 23,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\097.Orchard_Oriole\\Orchard_Oriole_0075_91847.jpg",
+      "mean_similarity": 0.9792136,
+      "rank": 24,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\069.Rufous_Hummingbird\\Rufous_Hummingbird_0120_59900.jpg",
+      "mean_similarity": 0.9792135000000001,
+      "rank": 25,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\069.Rufous_Hummingbird\\Rufous_Hummingbird_0115_59202.jpg",
+      "mean_similarity": 0.9792135000000001,
+      "rank": 26,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\069.Rufous_Hummingbird\\Rufous_Hummingbird_0060_58986.jpg",
+      "mean_similarity": 0.9792135000000001,
+      "rank": 27,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\097.Orchard_Oriole\\Orchard_Oriole_0084_91658.jpg",
+      "mean_similarity": 0.9792134000000001,
+      "rank": 28,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979213
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\097.Orchard_Oriole\\Orchard_Oriole_0015_91565.jpg",
+      "mean_similarity": 0.9792134000000001,
+      "rank": 29,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979213
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\097.Orchard_Oriole\\Orchard_Oriole_0051_91787.jpg",
+      "mean_similarity": 0.9792133000000001,
+      "rank": 30,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979213
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\048.European_Goldfinch\\European_Goldfinch_0012_794646.jpg",
+      "mean_similarity": 0.9792133000000001,
+      "rank": 31,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979213
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\069.Rufous_Hummingbird\\Rufous_Hummingbird_0035_59434.jpg",
+      "mean_similarity": 0.9792133000000001,
+      "rank": 32,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979213
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\088.Western_Meadowlark\\Western_Meadowlark_0021_78841.jpg",
+      "mean_similarity": 0.9792131,
+      "rank": 33,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979213
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\088.Western_Meadowlark\\Western_Meadowlark_0112_78760.jpg",
+      "mean_similarity": 0.9792131,
+      "rank": 34,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979213
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\097.Orchard_Oriole\\Orchard_Oriole_0059_92046.jpg",
+      "mean_similarity": 0.9792130000000001,
+      "rank": 35,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979213
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\097.Orchard_Oriole\\Orchard_Oriole_0034_91825.jpg",
+      "mean_similarity": 0.9792130000000001,
+      "rank": 36,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979213
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\088.Western_Meadowlark\\Western_Meadowlark_0104_78105.jpg",
+      "mean_similarity": 0.9792130000000001,
+      "rank": 37,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979213
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\088.Western_Meadowlark\\Western_Meadowlark_0053_77774.jpg",
+      "mean_similarity": 0.9792130000000001,
+      "rank": 38,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979213
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\088.Western_Meadowlark\\Western_Meadowlark_0118_78820.jpg",
+      "mean_similarity": 0.9792130000000001,
+      "rank": 39,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979213
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\088.Western_Meadowlark\\Western_Meadowlark_0097_78239.jpg",
+      "mean_similarity": 0.9792128,
+      "rank": 40,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979213
+    }
+  ],
+  "debug": {
+    "total_candidates": 78,
+    "after_voting": 78,
+    "after_dedup": 30,
+    "dedup_mode": "backbone",
+    "top_segments": [
+      {
+        "class": "097.Orchard_Oriole",
+        "seg": 4,
+        "hybrid": 1.4599,
+        "magnitude": 9.7921,
+        "borda": 244.0
+      },
+      {
+        "class": "048.European_Goldfinch",
+        "seg": 3,
+        "hybrid": 1.2882,
+        "magnitude": 9.7921,
+        "borda": 227.0
+      },
+      {
+        "class": "097.Orchard_Oriole",
+        "seg": 1,
+        "hybrid": 1.1034,
+        "magnitude": 9.7921,
+        "borda": 220.0
+      },
+      {
+        "class": "048.European_Goldfinch",
+        "seg": 2,
+        "hybrid": 1.0035,
+        "magnitude": 9.7921,
+        "borda": 203.0
+      },
+      {
+        "class": "048.European_Goldfinch",
+        "seg": 4,
+        "hybrid": 0.98,
+        "magnitude": 9.7921,
+        "borda": 199.0
+      },
+      {
+        "class": "048.European_Goldfinch",
+        "seg": 0,
+        "hybrid": 0.9624,
+        "magnitude": 9.7921,
+        "borda": 196.0
+      },
+      {
+        "class": "097.Orchard_Oriole",
+        "seg": 2,
+        "hybrid": 0.8318,
+        "magnitude": 9.7921,
+        "borda": 186.0
+      },
+      {
+        "class": "069.Rufous_Hummingbird",
+        "seg": 1,
+        "hybrid": 0.7482,
+        "magnitude": 9.7921,
+        "borda": 184.0
+      },
+      {
+        "class": "048.European_Goldfinch",
+        "seg": 1,
+        "hybrid": 0.6,
+        "magnitude": 9.7921,
+        "borda": 171.0
+      },
+      {
+        "class": "069.Rufous_Hummingbird",
+        "seg": 0,
+        "hybrid": 0.5106,
+        "magnitude": 9.7921,
+        "borda": 168.0
+      }
+    ]
+  }
+}

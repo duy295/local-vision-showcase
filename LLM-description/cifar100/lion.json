@@ -1,0 +1,26 @@
+{
+  "class_name": "lion",
+  "global_description": "Large feline with a muscular body, tawny fur, and a distinctive mane in males. The face is broad with a prominent nose and sharp eyes. Paws are large with retractable claws, and the tail is long with a tufted end.",
+  "discriminative_attributes": [
+    "Muscular body",
+    "Tawny fur",
+    "Mane in males",
+    "Broad face",
+    "Long tufted tail"
+  ],
+  "part_details": {
+    "head": "Broad with a prominent nose and sharp eyes, males have a mane",
+    "body": "Muscular and covered in tawny fur",
+    "paws": "Large with retractable claws",
+    "tail": "Long with a tufted end",
+    "mane": "Thick and dark, surrounding the head in males"
+  },
+  "spatial_relations": [
+    "Mane surrounds head in males",
+    "Tail extends from rear",
+    "Paws beneath body",
+    "Head at front of body"
+  ],
+  "original_dataset_key": "cifar100",
+  "original_class_key": "lion"
+}

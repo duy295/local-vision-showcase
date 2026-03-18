@@ -1,0 +1,26 @@
+{
+  "class_name": "crocodile",
+  "global_description": "Large reptile with elongated body, rough scaly skin, typically dark green or brown. Features a long, powerful tail, short legs, and a broad snout with sharp teeth. Eyes and nostrils positioned on top of the head for stealth in water.",
+  "discriminative_attributes": [
+    "Elongated body",
+    "Rough scaly skin",
+    "Long powerful tail",
+    "Broad snout with sharp teeth",
+    "Eyes and nostrils on top of head"
+  ],
+  "part_details": {
+    "head": "Broad snout with sharp teeth, eyes and nostrils on top",
+    "body": "Elongated with rough, scaly skin",
+    "tail": "Long and powerful, aiding in swimming",
+    "legs": "Short and sturdy, with webbed feet",
+    "skin": "Thick, rough, and scaly, typically dark green or brown"
+  },
+  "spatial_relations": [
+    "Head at front with snout extending forward",
+    "Tail extending from rear",
+    "Legs beneath body",
+    "Eyes and nostrils positioned on top of head"
+  ],
+  "original_dataset_key": "cifar100",
+  "original_class_key": "crocodile"
+}

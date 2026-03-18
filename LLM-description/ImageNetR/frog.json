@@ -1,0 +1,25 @@
+{
+  "class_name": "frog",
+  "global_description": "Small amphibian with a compact, rounded body, smooth moist skin, typically green or brown, long hind legs for jumping, webbed feet for swimming, and prominent bulging eyes.",
+  "discriminative_attributes": [
+    "Smooth moist skin",
+    "Green or brown color",
+    "Long hind legs",
+    "Webbed feet",
+    "Bulging eyes"
+  ],
+  "part_details": {
+    "head": "Rounded with prominent bulging eyes",
+    "body": "Compact, rounded with smooth skin",
+    "hind legs": "Long and muscular for jumping",
+    "feet": "Webbed for swimming",
+    "skin": "Smooth and moist"
+  },
+  "spatial_relations": [
+    "Hind legs extend from rear of body",
+    "Feet at end of legs",
+    "Head on top of body"
+  ],
+  "original_dataset_key": "ImageNetR",
+  "original_class_key": "frog"
+}

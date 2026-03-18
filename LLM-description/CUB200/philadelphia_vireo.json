@@ -1,0 +1,25 @@
+{
+  "class_name": "Bird",
+  "global_description": "A small, compact songbird with an olive-green back and yellow underparts. It has a short, straight bill and a distinctive white eyebrow stripe. The wings and tail are darker with subtle wing bars.",
+  "discriminative_attributes": [
+    "Olive-green back",
+    "Yellow underparts",
+    "White eyebrow stripe",
+    "Short straight bill",
+    "Darker wings with wing bars"
+  ],
+  "part_details": {
+    "back": "Olive-green, smooth feathers covering the upper body.",
+    "underparts": "Bright yellow, soft feathers on the belly and chest.",
+    "eyebrow_stripe": "Thin, white line above the eye, contrasting with the head color.",
+    "bill": "Short, straight, and pointed, suitable for insect feeding.",
+    "wings": "Darker than the body, featuring subtle wing bars."
+  },
+  "spatial_relations": [
+    "The white eyebrow stripe runs above the eye across the head.",
+    "The olive-green back transitions into yellow underparts.",
+    "The short bill is positioned at the front of the head."
+  ],
+  "original_dataset_key": "CUB200",
+  "original_class_key": "philadelphia_vireo"
+}

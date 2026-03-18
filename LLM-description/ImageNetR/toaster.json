@@ -1,0 +1,24 @@
+{
+  "class_name": "toaster",
+  "global_description": "Compact rectangular appliance with metallic or plastic exterior, typically silver or black, featuring slots on top for bread slices, control knobs or buttons on the side, and a lever for lowering bread.",
+  "discriminative_attributes": [
+    "Rectangular shape",
+    "Metallic or plastic exterior",
+    "Slots on top",
+    "Control knobs or buttons",
+    "Lever for lowering bread"
+  ],
+  "part_details": {
+    "slots": "Two or four narrow slots on top for bread slices",
+    "body": "Rectangular with metallic or plastic finish, often silver or black",
+    "controls": "Knobs or buttons on the side for settings",
+    "lever": "Lever on the side for lowering bread into slots"
+  },
+  "spatial_relations": [
+    "Slots positioned on top of the body",
+    "Controls located on the side",
+    "Lever adjacent to slots"
+  ],
+  "original_dataset_key": "ImageNetR",
+  "original_class_key": "toaster"
+}

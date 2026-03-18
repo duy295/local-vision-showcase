@@ -1,0 +1,22 @@
+{
+  "class_name": "skateboard",
+  "global_description": "Elongated board with a flat deck, typically wooden, mounted on four small wheels. The deck often features colorful graphics or grip tape, and the wheels are attached via metal trucks.",
+  "discriminative_attributes": [
+    "Flat wooden deck",
+    "Four small wheels",
+    "Colorful graphics",
+    "Grip tape surface",
+    "Metal trucks"
+  ],
+  "part_details": {
+    "deck": "Flat, elongated, often with colorful graphics or grip tape",
+    "wheels": "Four small, round, typically made of polyurethane",
+    "trucks": "Metal, connecting wheels to deck"
+  },
+  "spatial_relations": [
+    "Wheels attached to trucks",
+    "Trucks mounted under deck"
+  ],
+  "original_dataset_key": "ImageNetR",
+  "original_class_key": "skateboard"
+}

@@ -1,0 +1,25 @@
+{
+  "class_name": "sea",
+  "global_description": "Vast, undulating body of water with a predominantly blue hue, reflecting the sky. The surface is textured with waves and ripples, creating a dynamic, ever-changing pattern. The sea can appear different shades of blue, green, or gray depending on weather and light conditions. It is bordered by coastlines and may contain visible marine life or boats.",
+  "discriminative_attributes": [
+    "Vast water body",
+    "Blue hue",
+    "Waves and ripples",
+    "Dynamic surface",
+    "Coastline borders"
+  ],
+  "part_details": {
+    "surface": "Textured with waves and ripples, reflecting light",
+    "color": "Predominantly blue, varying with conditions",
+    "horizon": "Distant line where sea meets sky",
+    "coastline": "Borders of land meeting sea",
+    "marine life": "Visible in or above water, like fish or birds"
+  },
+  "spatial_relations": [
+    "Surface is below the sky",
+    "Coastline borders the sea",
+    "Horizon is where sea meets sky"
+  ],
+  "original_dataset_key": "cifar100",
+  "original_class_key": "sea"
+}

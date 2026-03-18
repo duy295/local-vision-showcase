@@ -1,0 +1,26 @@
+{
+  "class_name": "cattle",
+  "global_description": "Large, robust mammal with a broad, muscular body, typically covered in short hair. Colors vary from black, brown, white, or a mix. Features a large head with prominent eyes and ears, a long tail with a tuft, and sturdy legs with hooves. Often has horns or a dewlap.",
+  "discriminative_attributes": [
+    "Broad, muscular body",
+    "Short hair coat",
+    "Large head with prominent eyes",
+    "Long tail with tuft",
+    "Sturdy legs with hooves"
+  ],
+  "part_details": {
+    "head": "Large with prominent eyes, ears, and often horns",
+    "body": "Broad and muscular, covered in short hair",
+    "legs": "Sturdy with hooves",
+    "tail": "Long with a tuft at the end",
+    "horns": "Curved or straight, present in some breeds"
+  },
+  "spatial_relations": [
+    "Head at front of body",
+    "Legs beneath body",
+    "Tail extending from rear",
+    "Horns on top of head"
+  ],
+  "original_dataset_key": "cifar100",
+  "original_class_key": "cattle"
+}

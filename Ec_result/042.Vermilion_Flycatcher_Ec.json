@@ -1,0 +1,159 @@
+{
+  "class_name": "042.Vermilion_Flycatcher",
+  "class_idx": 41,
+  "num_images_in_class": 30,
+  "ec_size_requested": 30,
+  "ec_size_actual": 30,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\042.Vermilion_Flycatcher\\Vermilion_Flycatcher_0012_42253.jpg",
+      "mean_similarity": 0.9504424929618835,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\042.Vermilion_Flycatcher\\Vermilion_Flycatcher_0071_42429.jpg",
+      "mean_similarity": 0.9502314925193787,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\042.Vermilion_Flycatcher\\Vermilion_Flycatcher_0036_42389.jpg",
+      "mean_similarity": 0.9501692652702332,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\042.Vermilion_Flycatcher\\Vermilion_Flycatcher_0045_42219.jpg",
+      "mean_similarity": 0.9500766396522522,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\042.Vermilion_Flycatcher\\Vermilion_Flycatcher_0054_42210.jpg",
+      "mean_similarity": 0.9499857425689697,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\042.Vermilion_Flycatcher\\Vermilion_Flycatcher_0040_42398.jpg",
+      "mean_similarity": 0.9499444961547852,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\042.Vermilion_Flycatcher\\Vermilion_Flycatcher_0034_42356.jpg",
+      "mean_similarity": 0.9499092102050781,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\042.Vermilion_Flycatcher\\Vermilion_Flycatcher_0023_42565.jpg",
+      "mean_similarity": 0.9498727917671204,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\042.Vermilion_Flycatcher\\Vermilion_Flycatcher_0020_42498.jpg",
+      "mean_similarity": 0.9498649835586548,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\042.Vermilion_Flycatcher\\Vermilion_Flycatcher_0007_42214.jpg",
+      "mean_similarity": 0.9498414397239685,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\042.Vermilion_Flycatcher\\Vermilion_Flycatcher_0006_42564.jpg",
+      "mean_similarity": 0.9497739672660828,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\042.Vermilion_Flycatcher\\Vermilion_Flycatcher_0033_42522.jpg",
+      "mean_similarity": 0.9496408700942993,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\042.Vermilion_Flycatcher\\Vermilion_Flycatcher_0060_42293.jpg",
+      "mean_similarity": 0.949522078037262,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\042.Vermilion_Flycatcher\\Vermilion_Flycatcher_0022_42559.jpg",
+      "mean_similarity": 0.9493012428283691,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\042.Vermilion_Flycatcher\\Vermilion_Flycatcher_0050_42479.jpg",
+      "mean_similarity": 0.9492361545562744,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\042.Vermilion_Flycatcher\\Vermilion_Flycatcher_0067_42185.jpg",
+      "mean_similarity": 0.9492142200469971,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\042.Vermilion_Flycatcher\\Vermilion_Flycatcher_0002_42390.jpg",
+      "mean_similarity": 0.9491423964500427,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\042.Vermilion_Flycatcher\\Vermilion_Flycatcher_0069_42502.jpg",
+      "mean_similarity": 0.9490880966186523,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\042.Vermilion_Flycatcher\\Vermilion_Flycatcher_0055_42442.jpg",
+      "mean_similarity": 0.9490081667900085,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\042.Vermilion_Flycatcher\\Vermilion_Flycatcher_0016_42196.jpg",
+      "mean_similarity": 0.9485117197036743,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\042.Vermilion_Flycatcher\\Vermilion_Flycatcher_0065_42467.jpg",
+      "mean_similarity": 0.9484859108924866,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\042.Vermilion_Flycatcher\\Vermilion_Flycatcher_0003_42316.jpg",
+      "mean_similarity": 0.9484025239944458,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\042.Vermilion_Flycatcher\\Vermilion_Flycatcher_0025_42248.jpg",
+      "mean_similarity": 0.9480761289596558,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\042.Vermilion_Flycatcher\\Vermilion_Flycatcher_0072_42218.jpg",
+      "mean_similarity": 0.9477783441543579,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\042.Vermilion_Flycatcher\\Vermilion_Flycatcher_0005_42478.jpg",
+      "mean_similarity": 0.9471327662467957,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\042.Vermilion_Flycatcher\\Vermilion_Flycatcher_0053_42184.jpg",
+      "mean_similarity": 0.9470131993293762,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\042.Vermilion_Flycatcher\\Vermilion_Flycatcher_0027_42388.jpg",
+      "mean_similarity": 0.9469571709632874,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\042.Vermilion_Flycatcher\\Vermilion_Flycatcher_0061_42397.jpg",
+      "mean_similarity": 0.9433248043060303,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\042.Vermilion_Flycatcher\\Vermilion_Flycatcher_0042_42266.jpg",
+      "mean_similarity": 0.9426984786987305,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\042.Vermilion_Flycatcher\\Vermilion_Flycatcher_0004_42395.jpg",
+      "mean_similarity": 0.9420949220657349,
+      "rank": 30
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "class_name": "bus",
+  "global_description": "Large rectangular vehicle with elongated body, typically yellow or white, featuring large windows, multiple doors, and standard wheels. The exterior is often metallic with a glossy finish, designed for transporting passengers.",
+  "discriminative_attributes": [
+    "Large rectangular shape",
+    "Yellow or white color",
+    "Multiple large windows",
+    "Standard wheels",
+    "Multiple doors"
+  ],
+  "part_details": {
+    "body": "Elongated rectangular shape, metallic, glossy finish",
+    "windows": "Large, evenly spaced along sides",
+    "doors": "Multiple, located on sides for passenger entry",
+    "wheels": "Standard, positioned beneath body",
+    "roof": "Flat, sometimes with mounted equipment"
+  },
+  "spatial_relations": [
+    "Windows along sides of body",
+    "Doors on sides of body",
+    "Wheels beneath body",
+    "Roof on top of body"
+  ],
+  "original_dataset_key": "cifar100",
+  "original_class_key": "bus"
+}

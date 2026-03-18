@@ -1,0 +1,26 @@
+{
+  "class_name": "ant",
+  "global_description": "Small insect with segmented body, dark brown or black color, six legs, antennae, and a pair of mandibles on the head for carrying and biting.",
+  "discriminative_attributes": [
+    "Segmented body",
+    "Dark brown or black",
+    "Six legs",
+    "Antennae",
+    "Mandibles"
+  ],
+  "part_details": {
+    "head": "Small with antennae and mandibles",
+    "thorax": "Middle segment connecting legs",
+    "abdomen": "Rear segment, slightly larger",
+    "legs": "Three pairs attached to thorax",
+    "antennae": "Pair on head for sensing"
+  },
+  "spatial_relations": [
+    "Head at front, abdomen at rear",
+    "Legs attached to thorax",
+    "Antennae on head",
+    "Mandibles at front of head"
+  ],
+  "original_dataset_key": "ImageNetR",
+  "original_class_key": "ant"
+}

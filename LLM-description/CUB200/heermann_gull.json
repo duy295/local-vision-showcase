@@ -1,0 +1,26 @@
+{
+  "class_name": "Heermann Gull",
+  "global_description": "A medium-sized seabird with a streamlined body and a slightly curved, pointed beak. Its plumage is predominantly gray with a lighter underbelly and a distinctive white head. The wings are long and narrow, aiding in flight, and the tail is short and squared. The legs and feet are dark, contrasting with the lighter body.",
+  "discriminative_attributes": [
+    "Gray plumage with white head",
+    "Long narrow wings",
+    "Short squared tail",
+    "Dark legs and feet",
+    "Slightly curved pointed beak"
+  ],
+  "part_details": {
+    "head": "White with a smooth texture, contrasting with the gray body.",
+    "beak": "Slightly curved, pointed, and dark in color.",
+    "wings": "Long, narrow, and gray, aiding in flight.",
+    "tail": "Short, squared, and gray.",
+    "legs": "Dark and slender, supporting the body."
+  },
+  "spatial_relations": [
+    "The white head is positioned above the gray body.",
+    "The long wings extend from the sides of the body.",
+    "The short tail is at the rear of the body.",
+    "The dark legs are positioned below the body."
+  ],
+  "original_dataset_key": "CUB200",
+  "original_class_key": "heermann_gull"
+}

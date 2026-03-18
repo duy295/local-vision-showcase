@@ -1,0 +1,159 @@
+{
+  "class_name": "005.Crested_Auklet",
+  "class_idx": 4,
+  "num_images_in_class": 30,
+  "ec_size_requested": 30,
+  "ec_size_actual": 30,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\005.Crested_Auklet\\Crested_Auklet_0066_785251.jpg",
+      "mean_similarity": 0.9461197853088379,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\005.Crested_Auklet\\Crested_Auklet_0076_785252.jpg",
+      "mean_similarity": 0.9452121257781982,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\005.Crested_Auklet\\Crested_Auklet_0005_794922.jpg",
+      "mean_similarity": 0.9445117115974426,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\005.Crested_Auklet\\Crested_Auklet_0072_785260.jpg",
+      "mean_similarity": 0.9434869885444641,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\005.Crested_Auklet\\Crested_Auklet_0001_794941.jpg",
+      "mean_similarity": 0.9434794783592224,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\005.Crested_Auklet\\Crested_Auklet_0073_785248.jpg",
+      "mean_similarity": 0.9433053135871887,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\005.Crested_Auklet\\Crested_Auklet_0063_794901.jpg",
+      "mean_similarity": 0.9430962204933167,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\005.Crested_Auklet\\Crested_Auklet_0040_794912.jpg",
+      "mean_similarity": 0.9429863691329956,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\005.Crested_Auklet\\Crested_Auklet_0057_794932.jpg",
+      "mean_similarity": 0.9423796534538269,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\005.Crested_Auklet\\Crested_Auklet_0030_794937.jpg",
+      "mean_similarity": 0.941289484500885,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\005.Crested_Auklet\\Crested_Auklet_0013_794914.jpg",
+      "mean_similarity": 0.941220223903656,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\005.Crested_Auklet\\Crested_Auklet_0039_794944.jpg",
+      "mean_similarity": 0.9410881996154785,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\005.Crested_Auklet\\Crested_Auklet_0069_785258.jpg",
+      "mean_similarity": 0.940767228603363,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\005.Crested_Auklet\\Crested_Auklet_0045_794940.jpg",
+      "mean_similarity": 0.9406425356864929,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\005.Crested_Auklet\\Crested_Auklet_0052_794952.jpg",
+      "mean_similarity": 0.9402250051498413,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\005.Crested_Auklet\\Crested_Auklet_0061_794904.jpg",
+      "mean_similarity": 0.9400389790534973,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\005.Crested_Auklet\\Crested_Auklet_0067_785249.jpg",
+      "mean_similarity": 0.9397759437561035,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\005.Crested_Auklet\\Crested_Auklet_0012_794960.jpg",
+      "mean_similarity": 0.9384565353393555,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\005.Crested_Auklet\\Crested_Auklet_0071_785255.jpg",
+      "mean_similarity": 0.9371196031570435,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\005.Crested_Auklet\\Crested_Auklet_0047_794918.jpg",
+      "mean_similarity": 0.936877429485321,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\005.Crested_Auklet\\Crested_Auklet_0062_794968.jpg",
+      "mean_similarity": 0.9368005394935608,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\005.Crested_Auklet\\Crested_Auklet_0029_1824.jpg",
+      "mean_similarity": 0.9361461997032166,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\005.Crested_Auklet\\Crested_Auklet_0032_794931.jpg",
+      "mean_similarity": 0.9335411190986633,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\005.Crested_Auklet\\Crested_Auklet_0033_794964.jpg",
+      "mean_similarity": 0.9329267740249634,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\005.Crested_Auklet\\Crested_Auklet_0019_794925.jpg",
+      "mean_similarity": 0.9323009848594666,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\005.Crested_Auklet\\Crested_Auklet_0003_794962.jpg",
+      "mean_similarity": 0.9310048818588257,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\005.Crested_Auklet\\Crested_Auklet_0010_794907.jpg",
+      "mean_similarity": 0.9298481345176697,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\005.Crested_Auklet\\Crested_Auklet_0077_785257.jpg",
+      "mean_similarity": 0.9226890206336975,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\005.Crested_Auklet\\Crested_Auklet_0018_1817.jpg",
+      "mean_similarity": 0.9189591407775879,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\005.Crested_Auklet\\Crested_Auklet_0075_785259.jpg",
+      "mean_similarity": 0.8779525756835938,
+      "rank": 30
+    }
+  ]
+}

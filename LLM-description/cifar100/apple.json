@@ -1,0 +1,24 @@
+{
+  "class_name": "apple",
+  "global_description": "Round fruit with smooth, glossy skin, typically red, green, or yellow. Firm, crisp flesh inside, often white or pale cream. Small, brown stem at the top, sometimes with a few leaves attached.",
+  "discriminative_attributes": [
+    "Round shape",
+    "Smooth glossy skin",
+    "Red, green, or yellow color",
+    "Firm, crisp flesh",
+    "Small brown stem"
+  ],
+  "part_details": {
+    "skin": "Smooth and glossy, varying in color from red to green to yellow",
+    "flesh": "Firm, crisp, and usually white or pale cream",
+    "stem": "Small, brown, located at the top",
+    "leaves": "Occasionally attached, small and green"
+  },
+  "spatial_relations": [
+    "Stem at top of fruit",
+    "Flesh beneath skin",
+    "Leaves near stem"
+  ],
+  "original_dataset_key": "cifar100",
+  "original_class_key": "apple"
+}

@@ -1,0 +1,25 @@
+{
+  "class_name": "lizard",
+  "global_description": "Small to medium-sized reptile with elongated body, scaly skin, typically green or brown, long tail, short legs, and a pointed snout. Adapted for climbing and quick movement.",
+  "discriminative_attributes": [
+    "Elongated body",
+    "Scaly skin",
+    "Long tail",
+    "Short legs",
+    "Pointed snout"
+  ],
+  "part_details": {
+    "head": "Small with pointed snout and visible scales",
+    "body": "Elongated with rough, scaly texture",
+    "legs": "Short, adapted for climbing",
+    "tail": "Long and tapering",
+    "skin": "Scaly, often green or brown"
+  },
+  "spatial_relations": [
+    "Head at front, tail extending behind",
+    "Legs attached to sides of body",
+    "Tail tapering from body"
+  ],
+  "original_dataset_key": "ImageNetR",
+  "original_class_key": "lizard"
+}

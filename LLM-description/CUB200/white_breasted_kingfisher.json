@@ -1,0 +1,25 @@
+{
+  "class_name": "White Breasted Kingfisher",
+  "global_description": "A medium-sized bird with a robust body, featuring a striking combination of bright blue wings and back, a white breast, and a rich chestnut head. The beak is long and pointed, colored bright red, and the legs are short and red. The plumage is glossy, giving it a vibrant appearance.",
+  "discriminative_attributes": [
+    "Bright blue wings and back",
+    "White breast and throat",
+    "Rich chestnut head",
+    "Long bright red beak",
+    "Glossy plumage"
+  ],
+  "part_details": {
+    "head": "Rich chestnut color, rounded shape with a glossy texture.",
+    "beak": "Long, pointed, bright red, smooth surface.",
+    "wings": "Bright blue, elongated, glossy feathers.",
+    "breast": "White, smooth, contrasting with the chestnut head.",
+    "legs": "Short, bright red, smooth texture."
+  },
+  "spatial_relations": [
+    "The bright blue wings extend from the sides of the chestnut head.",
+    "The white breast is positioned below the chestnut head.",
+    "The long red beak protrudes from the front of the head."
+  ],
+  "original_dataset_key": "CUB200",
+  "original_class_key": "white_breasted_kingfisher"
+}

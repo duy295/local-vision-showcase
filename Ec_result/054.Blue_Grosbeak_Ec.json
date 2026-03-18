@@ -1,0 +1,159 @@
+{
+  "class_name": "054.Blue_Grosbeak",
+  "class_idx": 53,
+  "num_images_in_class": 30,
+  "ec_size_requested": 30,
+  "ec_size_actual": 30,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\054.Blue_Grosbeak\\Blue_Grosbeak_0031_37173.jpg",
+      "mean_similarity": 0.9520058631896973,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\054.Blue_Grosbeak\\Blue_Grosbeak_0093_37107.jpg",
+      "mean_similarity": 0.9519121050834656,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\054.Blue_Grosbeak\\Blue_Grosbeak_0086_36818.jpg",
+      "mean_similarity": 0.9518369436264038,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\054.Blue_Grosbeak\\Blue_Grosbeak_0079_36656.jpg",
+      "mean_similarity": 0.9512315988540649,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\054.Blue_Grosbeak\\Blue_Grosbeak_0033_36980.jpg",
+      "mean_similarity": 0.9510980844497681,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\054.Blue_Grosbeak\\Blue_Grosbeak_0094_36995.jpg",
+      "mean_similarity": 0.9508891701698303,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\054.Blue_Grosbeak\\Blue_Grosbeak_0009_36992.jpg",
+      "mean_similarity": 0.950805127620697,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\054.Blue_Grosbeak\\Blue_Grosbeak_0099_36828.jpg",
+      "mean_similarity": 0.9507592916488647,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\054.Blue_Grosbeak\\Blue_Grosbeak_0029_37197.jpg",
+      "mean_similarity": 0.9505224227905273,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\054.Blue_Grosbeak\\Blue_Grosbeak_0066_36632.jpg",
+      "mean_similarity": 0.950363039970398,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\054.Blue_Grosbeak\\Blue_Grosbeak_0043_37200.jpg",
+      "mean_similarity": 0.9502612352371216,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\054.Blue_Grosbeak\\Blue_Grosbeak_0038_37095.jpg",
+      "mean_similarity": 0.9500650763511658,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\054.Blue_Grosbeak\\Blue_Grosbeak_0073_37148.jpg",
+      "mean_similarity": 0.9500560164451599,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\054.Blue_Grosbeak\\Blue_Grosbeak_0004_14988.jpg",
+      "mean_similarity": 0.9498146176338196,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\054.Blue_Grosbeak\\Blue_Grosbeak_0111_36841.jpg",
+      "mean_similarity": 0.9497838020324707,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\054.Blue_Grosbeak\\Blue_Grosbeak_0103_36673.jpg",
+      "mean_similarity": 0.9490584135055542,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\054.Blue_Grosbeak\\Blue_Grosbeak_0067_36965.jpg",
+      "mean_similarity": 0.9489726424217224,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\054.Blue_Grosbeak\\Blue_Grosbeak_0101_36719.jpg",
+      "mean_similarity": 0.9488515257835388,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\054.Blue_Grosbeak\\Blue_Grosbeak_0072_36774.jpg",
+      "mean_similarity": 0.9486969113349915,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\054.Blue_Grosbeak\\Blue_Grosbeak_0053_36709.jpg",
+      "mean_similarity": 0.9483572840690613,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\054.Blue_Grosbeak\\Blue_Grosbeak_0065_36847.jpg",
+      "mean_similarity": 0.9482833743095398,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\054.Blue_Grosbeak\\Blue_Grosbeak_0092_36711.jpg",
+      "mean_similarity": 0.9478950500488281,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\054.Blue_Grosbeak\\Blue_Grosbeak_0051_37065.jpg",
+      "mean_similarity": 0.9477488398551941,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\054.Blue_Grosbeak\\Blue_Grosbeak_0107_36696.jpg",
+      "mean_similarity": 0.9475234150886536,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\054.Blue_Grosbeak\\Blue_Grosbeak_0023_37069.jpg",
+      "mean_similarity": 0.9471293687820435,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\054.Blue_Grosbeak\\Blue_Grosbeak_0037_36794.jpg",
+      "mean_similarity": 0.946758508682251,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\054.Blue_Grosbeak\\Blue_Grosbeak_0020_36967.jpg",
+      "mean_similarity": 0.9455478191375732,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\054.Blue_Grosbeak\\Blue_Grosbeak_0045_36672.jpg",
+      "mean_similarity": 0.9340051412582397,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\054.Blue_Grosbeak\\Blue_Grosbeak_0010_37108.jpg",
+      "mean_similarity": 0.9293399453163147,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\054.Blue_Grosbeak\\Blue_Grosbeak_0036_37048.jpg",
+      "mean_similarity": 0.928352952003479,
+      "rank": 30
+    }
+  ]
+}

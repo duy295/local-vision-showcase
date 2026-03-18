@@ -1,0 +1,159 @@
+{
+  "class_name": "018.Spotted_Catbird",
+  "class_idx": 17,
+  "num_images_in_class": 30,
+  "ec_size_requested": 30,
+  "ec_size_actual": 30,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\018.Spotted_Catbird\\Spotted_Catbird_0011_796815.jpg",
+      "mean_similarity": 0.952307939529419,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\018.Spotted_Catbird\\Spotted_Catbird_0031_796806.jpg",
+      "mean_similarity": 0.9520514011383057,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\018.Spotted_Catbird\\Spotted_Catbird_0006_796823.jpg",
+      "mean_similarity": 0.9518958926200867,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\018.Spotted_Catbird\\Spotted_Catbird_0047_19400.jpg",
+      "mean_similarity": 0.9518473148345947,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\018.Spotted_Catbird\\Spotted_Catbird_0039_796811.jpg",
+      "mean_similarity": 0.9516317248344421,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\018.Spotted_Catbird\\Spotted_Catbird_0030_796801.jpg",
+      "mean_similarity": 0.9515722990036011,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\018.Spotted_Catbird\\Spotted_Catbird_0020_796794.jpg",
+      "mean_similarity": 0.9515454769134521,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\018.Spotted_Catbird\\Spotted_Catbird_0023_796793.jpg",
+      "mean_similarity": 0.9515216946601868,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\018.Spotted_Catbird\\Spotted_Catbird_0005_19411.jpg",
+      "mean_similarity": 0.9514897465705872,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\018.Spotted_Catbird\\Spotted_Catbird_0037_796810.jpg",
+      "mean_similarity": 0.9514061212539673,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\018.Spotted_Catbird\\Spotted_Catbird_0001_796797.jpg",
+      "mean_similarity": 0.9513810276985168,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\018.Spotted_Catbird\\Spotted_Catbird_0028_796813.jpg",
+      "mean_similarity": 0.9513314366340637,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\018.Spotted_Catbird\\Spotted_Catbird_0036_19406.jpg",
+      "mean_similarity": 0.9513068199157715,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\018.Spotted_Catbird\\Spotted_Catbird_0012_796802.jpg",
+      "mean_similarity": 0.9512779116630554,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\018.Spotted_Catbird\\Spotted_Catbird_0045_796814.jpg",
+      "mean_similarity": 0.9511821269989014,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\018.Spotted_Catbird\\Spotted_Catbird_0029_796825.jpg",
+      "mean_similarity": 0.9511326551437378,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\018.Spotted_Catbird\\Spotted_Catbird_0024_796791.jpg",
+      "mean_similarity": 0.9508573412895203,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\018.Spotted_Catbird\\Spotted_Catbird_0025_796819.jpg",
+      "mean_similarity": 0.9508501291275024,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\018.Spotted_Catbird\\Spotted_Catbird_0019_796788.jpg",
+      "mean_similarity": 0.9508345723152161,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\018.Spotted_Catbird\\Spotted_Catbird_0027_796796.jpg",
+      "mean_similarity": 0.9507765769958496,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\018.Spotted_Catbird\\Spotted_Catbird_0010_19436.jpg",
+      "mean_similarity": 0.9507505893707275,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\018.Spotted_Catbird\\Spotted_Catbird_0041_796807.jpg",
+      "mean_similarity": 0.9506927728652954,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\018.Spotted_Catbird\\Spotted_Catbird_0008_796789.jpg",
+      "mean_similarity": 0.9503979682922363,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\018.Spotted_Catbird\\Spotted_Catbird_0004_796804.jpg",
+      "mean_similarity": 0.949478030204773,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\018.Spotted_Catbird\\Spotted_Catbird_0034_19437.jpg",
+      "mean_similarity": 0.9492238759994507,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\018.Spotted_Catbird\\Spotted_Catbird_0007_19424.jpg",
+      "mean_similarity": 0.9488334655761719,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\018.Spotted_Catbird\\Spotted_Catbird_0016_796803.jpg",
+      "mean_similarity": 0.9474946856498718,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\018.Spotted_Catbird\\Spotted_Catbird_0013_19428.jpg",
+      "mean_similarity": 0.9460946321487427,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\018.Spotted_Catbird\\Spotted_Catbird_0022_796821.jpg",
+      "mean_similarity": 0.945935070514679,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\018.Spotted_Catbird\\Spotted_Catbird_0042_19430.jpg",
+      "mean_similarity": 0.9319127798080444,
+      "rank": 30
+    }
+  ]
+}

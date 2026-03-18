@@ -1,0 +1,26 @@
+{
+  "class_name": "oak tree",
+  "global_description": "Large, sturdy tree with a thick, rough-textured trunk and wide-spreading branches. The leaves are lobed and green, turning brown in autumn. Acorns are small, brown, and grow in clusters. The bark is grayish-brown and deeply furrowed.",
+  "discriminative_attributes": [
+    "Thick, rough-textured trunk",
+    "Wide-spreading branches",
+    "Lobed green leaves",
+    "Acorns in clusters",
+    "Grayish-brown, deeply furrowed bark"
+  ],
+  "part_details": {
+    "trunk": "Thick, rough-textured, grayish-brown",
+    "branches": "Wide-spreading, sturdy",
+    "leaves": "Lobed, green, turning brown in autumn",
+    "acorns": "Small, brown, clustered",
+    "bark": "Grayish-brown, deeply furrowed"
+  },
+  "spatial_relations": [
+    "Branches extend from trunk",
+    "Leaves grow on branches",
+    "Acorns hang from branches",
+    "Bark covers trunk"
+  ],
+  "original_dataset_key": "cifar100",
+  "original_class_key": "oak_tree"
+}

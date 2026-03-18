@@ -1,0 +1,1259 @@
+{
+  "class_name": "beetle",
+  "class_idx": 7,
+  "num_images_in_class": 500,
+  "ec_size_requested": 250,
+  "ec_size_actual": 250,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\beetle_s_001496.png",
+      "mean_similarity": 0.9425823092460632,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\beetle_s_000470.png",
+      "mean_similarity": 0.9414185881614685,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\beetle_s_000386.png",
+      "mean_similarity": 0.9412902593612671,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\beetle_s_000046.png",
+      "mean_similarity": 0.9411742091178894,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\beetle_s_000103.png",
+      "mean_similarity": 0.9408847093582153,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\tiger_beetle_s_000418.png",
+      "mean_similarity": 0.9406676292419434,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\tiger_beetle_s_000817.png",
+      "mean_similarity": 0.9405214190483093,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\tiger_beetle_s_000554.png",
+      "mean_similarity": 0.9405002593994141,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\beetle_s_000467.png",
+      "mean_similarity": 0.9404790997505188,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\ladybug_s_000383.png",
+      "mean_similarity": 0.9403041005134583,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\tiger_beetle_s_000742.png",
+      "mean_similarity": 0.9401031136512756,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\beetle_s_000004.png",
+      "mean_similarity": 0.9400848150253296,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\tiger_beetle_s_000767.png",
+      "mean_similarity": 0.9399484992027283,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\beetle_s_000006.png",
+      "mean_similarity": 0.9399220943450928,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\tiger_beetle_s_000205.png",
+      "mean_similarity": 0.939744770526886,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\beetle_s_000872.png",
+      "mean_similarity": 0.9397141933441162,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\tiger_beetle_s_000986.png",
+      "mean_similarity": 0.9396935105323792,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\tiger_beetle_s_000170.png",
+      "mean_similarity": 0.9396266937255859,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\beetle_s_001654.png",
+      "mean_similarity": 0.9395301938056946,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\tiger_beetle_s_000640.png",
+      "mean_similarity": 0.9393745064735413,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\tiger_beetle_s_000906.png",
+      "mean_similarity": 0.9393726587295532,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\beetle_s_001210.png",
+      "mean_similarity": 0.9393677711486816,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\tiger_beetle_s_000163.png",
+      "mean_similarity": 0.9393019676208496,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\tiger_beetle_s_000705.png",
+      "mean_similarity": 0.939098596572876,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\tiger_beetle_s_000076.png",
+      "mean_similarity": 0.9390441179275513,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\beetle_s_000024.png",
+      "mean_similarity": 0.9389941096305847,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\tiger_beetle_s_000511.png",
+      "mean_similarity": 0.9389433264732361,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\tiger_beetle_s_001409.png",
+      "mean_similarity": 0.9389374852180481,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\tiger_beetle_s_000203.png",
+      "mean_similarity": 0.9388730525970459,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\tiger_beetle_s_000053.png",
+      "mean_similarity": 0.9388342499732971,
+      "rank": 30
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\tiger_beetle_s_000025.png",
+      "mean_similarity": 0.9388065934181213,
+      "rank": 31
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\tiger_beetle_s_000844.png",
+      "mean_similarity": 0.9387385249137878,
+      "rank": 32
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\tiger_beetle_s_000501.png",
+      "mean_similarity": 0.9386743307113647,
+      "rank": 33
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\tiger_beetle_s_000503.png",
+      "mean_similarity": 0.938671886920929,
+      "rank": 34
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\beetle_s_000229.png",
+      "mean_similarity": 0.9386380314826965,
+      "rank": 35
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\beetle_s_000637.png",
+      "mean_similarity": 0.93863445520401,
+      "rank": 36
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\tiger_beetle_s_001361.png",
+      "mean_similarity": 0.9386005997657776,
+      "rank": 37
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\beetle_s_000203.png",
+      "mean_similarity": 0.9385779500007629,
+      "rank": 38
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\tiger_beetle_s_000137.png",
+      "mean_similarity": 0.9385432600975037,
+      "rank": 39
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\tiger_beetle_s_000256.png",
+      "mean_similarity": 0.9385280609130859,
+      "rank": 40
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\beetle_s_000941.png",
+      "mean_similarity": 0.9384751319885254,
+      "rank": 41
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\tiger_beetle_s_000847.png",
+      "mean_similarity": 0.9384382367134094,
+      "rank": 42
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\beetle_s_001505.png",
+      "mean_similarity": 0.9384292960166931,
+      "rank": 43
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\tiger_beetle_s_001284.png",
+      "mean_similarity": 0.938351035118103,
+      "rank": 44
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\tiger_beetle_s_000226.png",
+      "mean_similarity": 0.9382655620574951,
+      "rank": 45
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\tiger_beetle_s_000467.png",
+      "mean_similarity": 0.9382312297821045,
+      "rank": 46
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\tiger_beetle_s_000497.png",
+      "mean_similarity": 0.9382311105728149,
+      "rank": 47
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\tiger_beetle_s_000125.png",
+      "mean_similarity": 0.9381985664367676,
+      "rank": 48
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\tiger_beetle_s_000197.png",
+      "mean_similarity": 0.9381906390190125,
+      "rank": 49
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\tiger_beetle_s_000373.png",
+      "mean_similarity": 0.9381886124610901,
+      "rank": 50
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\tiger_beetle_s_000169.png",
+      "mean_similarity": 0.9381803274154663,
+      "rank": 51
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\tiger_beetle_s_000856.png",
+      "mean_similarity": 0.9381349682807922,
+      "rank": 52
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\tiger_beetle_s_000267.png",
+      "mean_similarity": 0.9380916357040405,
+      "rank": 53
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\tiger_beetle_s_000178.png",
+      "mean_similarity": 0.9380157589912415,
+      "rank": 54
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\tiger_beetle_s_000063.png",
+      "mean_similarity": 0.9379860758781433,
+      "rank": 55
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\beetle_s_000329.png",
+      "mean_similarity": 0.9378426671028137,
+      "rank": 56
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\beetle_s_000418.png",
+      "mean_similarity": 0.9378323554992676,
+      "rank": 57
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\tiger_beetle_s_000116.png",
+      "mean_similarity": 0.9378294348716736,
+      "rank": 58
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\beetle_s_000873.png",
+      "mean_similarity": 0.9378240704536438,
+      "rank": 59
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\tiger_beetle_s_000556.png",
+      "mean_similarity": 0.9377170205116272,
+      "rank": 60
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\tiger_beetle_s_001016.png",
+      "mean_similarity": 0.9376740455627441,
+      "rank": 61
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\tiger_beetle_s_000092.png",
+      "mean_similarity": 0.9376574754714966,
+      "rank": 62
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\tiger_beetle_s_000586.png",
+      "mean_similarity": 0.9375995993614197,
+      "rank": 63
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\ladybug_s_000016.png",
+      "mean_similarity": 0.9375934600830078,
+      "rank": 64
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\beetle_s_000105.png",
+      "mean_similarity": 0.9375555515289307,
+      "rank": 65
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\tiger_beetle_s_000357.png",
+      "mean_similarity": 0.9375135898590088,
+      "rank": 66
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\tiger_beetle_s_001364.png",
+      "mean_similarity": 0.9374960660934448,
+      "rank": 67
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\beetle_s_000448.png",
+      "mean_similarity": 0.9374906420707703,
+      "rank": 68
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\tiger_beetle_s_000581.png",
+      "mean_similarity": 0.9374762773513794,
+      "rank": 69
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\beetle_s_000728.png",
+      "mean_similarity": 0.9374397397041321,
+      "rank": 70
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\tiger_beetle_s_000295.png",
+      "mean_similarity": 0.9373047947883606,
+      "rank": 71
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\beetle_s_001203.png",
+      "mean_similarity": 0.937301754951477,
+      "rank": 72
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\beetle_s_000382.png",
+      "mean_similarity": 0.937290370464325,
+      "rank": 73
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\beetle_s_000390.png",
+      "mean_similarity": 0.9372677206993103,
+      "rank": 74
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\tiger_beetle_s_000102.png",
+      "mean_similarity": 0.9372215270996094,
+      "rank": 75
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\tiger_beetle_s_000905.png",
+      "mean_similarity": 0.9371942281723022,
+      "rank": 76
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\tiger_beetle_s_000288.png",
+      "mean_similarity": 0.9371652007102966,
+      "rank": 77
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\beetle_s_000774.png",
+      "mean_similarity": 0.9371368885040283,
+      "rank": 78
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\beetle_s_001193.png",
+      "mean_similarity": 0.9371346235275269,
+      "rank": 79
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\tiger_beetle_s_000262.png",
+      "mean_similarity": 0.9371179938316345,
+      "rank": 80
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\tiger_beetle_s_001371.png",
+      "mean_similarity": 0.9371173977851868,
+      "rank": 81
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\tiger_beetle_s_000271.png",
+      "mean_similarity": 0.9370909333229065,
+      "rank": 82
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\beetle_s_001243.png",
+      "mean_similarity": 0.9370666742324829,
+      "rank": 83
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\beetle_s_002205.png",
+      "mean_similarity": 0.9370567202568054,
+      "rank": 84
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\tiger_beetle_s_000041.png",
+      "mean_similarity": 0.9369128942489624,
+      "rank": 85
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\tiger_beetle_s_000695.png",
+      "mean_similarity": 0.9369083046913147,
+      "rank": 86
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\beetle_s_000531.png",
+      "mean_similarity": 0.9368587732315063,
+      "rank": 87
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\beetle_s_000345.png",
+      "mean_similarity": 0.9368237257003784,
+      "rank": 88
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\tiger_beetle_s_000455.png",
+      "mean_similarity": 0.9367955923080444,
+      "rank": 89
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\ladybeetle_s_000056.png",
+      "mean_similarity": 0.9367594122886658,
+      "rank": 90
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\beetle_s_001249.png",
+      "mean_similarity": 0.9367575645446777,
+      "rank": 91
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\tiger_beetle_s_000036.png",
+      "mean_similarity": 0.9367244243621826,
+      "rank": 92
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\beetle_s_000727.png",
+      "mean_similarity": 0.9366939067840576,
+      "rank": 93
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\beetle_s_001653.png",
+      "mean_similarity": 0.9366846680641174,
+      "rank": 94
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\tiger_beetle_s_000176.png",
+      "mean_similarity": 0.9366785883903503,
+      "rank": 95
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\tiger_beetle_s_000740.png",
+      "mean_similarity": 0.9366382956504822,
+      "rank": 96
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\tiger_beetle_s_000419.png",
+      "mean_similarity": 0.9365813136100769,
+      "rank": 97
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\tiger_beetle_s_000229.png",
+      "mean_similarity": 0.9365424513816833,
+      "rank": 98
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\tiger_beetle_s_000377.png",
+      "mean_similarity": 0.9364992380142212,
+      "rank": 99
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\beetle_s_000509.png",
+      "mean_similarity": 0.9364213943481445,
+      "rank": 100
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\beetle_s_000059.png",
+      "mean_similarity": 0.9363990426063538,
+      "rank": 101
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\tiger_beetle_s_000866.png",
+      "mean_similarity": 0.9363609552383423,
+      "rank": 102
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\ladybug_s_001389.png",
+      "mean_similarity": 0.9363352656364441,
+      "rank": 103
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\tiger_beetle_s_000583.png",
+      "mean_similarity": 0.9362488389015198,
+      "rank": 104
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\tiger_beetle_s_000813.png",
+      "mean_similarity": 0.93623948097229,
+      "rank": 105
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\tiger_beetle_s_000211.png",
+      "mean_similarity": 0.9362214207649231,
+      "rank": 106
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\ladybug_s_001656.png",
+      "mean_similarity": 0.9362161755561829,
+      "rank": 107
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\tiger_beetle_s_000015.png",
+      "mean_similarity": 0.9361612200737,
+      "rank": 108
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\tiger_beetle_s_000239.png",
+      "mean_similarity": 0.9361423254013062,
+      "rank": 109
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\beetle_s_000155.png",
+      "mean_similarity": 0.936090886592865,
+      "rank": 110
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\beetle_s_001155.png",
+      "mean_similarity": 0.9360834956169128,
+      "rank": 111
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\tiger_beetle_s_000514.png",
+      "mean_similarity": 0.9360727071762085,
+      "rank": 112
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\beetle_s_000139.png",
+      "mean_similarity": 0.936057448387146,
+      "rank": 113
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\beetle_s_000054.png",
+      "mean_similarity": 0.9360467791557312,
+      "rank": 114
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\tiger_beetle_s_000996.png",
+      "mean_similarity": 0.9360007643699646,
+      "rank": 115
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\ladybug_s_000683.png",
+      "mean_similarity": 0.9359971880912781,
+      "rank": 116
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\tiger_beetle_s_000808.png",
+      "mean_similarity": 0.9359853863716125,
+      "rank": 117
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\tiger_beetle_s_001436.png",
+      "mean_similarity": 0.9359409809112549,
+      "rank": 118
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\tiger_beetle_s_000306.png",
+      "mean_similarity": 0.9359017610549927,
+      "rank": 119
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\tiger_beetle_s_000354.png",
+      "mean_similarity": 0.9358944296836853,
+      "rank": 120
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\beetle_s_001418.png",
+      "mean_similarity": 0.9358659386634827,
+      "rank": 121
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\tiger_beetle_s_001446.png",
+      "mean_similarity": 0.9358569383621216,
+      "rank": 122
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\tiger_beetle_s_000876.png",
+      "mean_similarity": 0.9358406662940979,
+      "rank": 123
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\tiger_beetle_s_001407.png",
+      "mean_similarity": 0.9358152747154236,
+      "rank": 124
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\beetle_s_000042.png",
+      "mean_similarity": 0.9358063340187073,
+      "rank": 125
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\tiger_beetle_s_000921.png",
+      "mean_similarity": 0.9357499480247498,
+      "rank": 126
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\beetle_s_002312.png",
+      "mean_similarity": 0.9357360005378723,
+      "rank": 127
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\beetle_s_001429.png",
+      "mean_similarity": 0.9357027411460876,
+      "rank": 128
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\tiger_beetle_s_000249.png",
+      "mean_similarity": 0.9356521964073181,
+      "rank": 129
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\beetle_s_000908.png",
+      "mean_similarity": 0.9356436133384705,
+      "rank": 130
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\beetle_s_002204.png",
+      "mean_similarity": 0.935580849647522,
+      "rank": 131
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\tiger_beetle_s_000207.png",
+      "mean_similarity": 0.9355671405792236,
+      "rank": 132
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\beetle_s_001023.png",
+      "mean_similarity": 0.9355183839797974,
+      "rank": 133
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\beetle_s_002069.png",
+      "mean_similarity": 0.9354940056800842,
+      "rank": 134
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\tiger_beetle_s_000582.png",
+      "mean_similarity": 0.9354767799377441,
+      "rank": 135
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\beetle_s_001412.png",
+      "mean_similarity": 0.9354714751243591,
+      "rank": 136
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\beetle_s_001021.png",
+      "mean_similarity": 0.9354172945022583,
+      "rank": 137
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\tiger_beetle_s_000799.png",
+      "mean_similarity": 0.935391902923584,
+      "rank": 138
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\beetle_s_000472.png",
+      "mean_similarity": 0.9353868365287781,
+      "rank": 139
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\beetle_s_000575.png",
+      "mean_similarity": 0.9353854656219482,
+      "rank": 140
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\beetle_s_000026.png",
+      "mean_similarity": 0.9353436231613159,
+      "rank": 141
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\beetle_s_002206.png",
+      "mean_similarity": 0.9353342056274414,
+      "rank": 142
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\beetle_s_001416.png",
+      "mean_similarity": 0.9353212118148804,
+      "rank": 143
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\tiger_beetle_s_000807.png",
+      "mean_similarity": 0.9352636337280273,
+      "rank": 144
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\tiger_beetle_s_001318.png",
+      "mean_similarity": 0.9352152943611145,
+      "rank": 145
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\beetle_s_001753.png",
+      "mean_similarity": 0.9351734519004822,
+      "rank": 146
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\tiger_beetle_s_001087.png",
+      "mean_similarity": 0.9351609945297241,
+      "rank": 147
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\beetle_s_001637.png",
+      "mean_similarity": 0.9351598620414734,
+      "rank": 148
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\tiger_beetle_s_000841.png",
+      "mean_similarity": 0.9351470470428467,
+      "rank": 149
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\tiger_beetle_s_001271.png",
+      "mean_similarity": 0.9351397156715393,
+      "rank": 150
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\beetle_s_000874.png",
+      "mean_similarity": 0.9351334571838379,
+      "rank": 151
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\beetle_s_000579.png",
+      "mean_similarity": 0.9349996447563171,
+      "rank": 152
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\beetle_s_000247.png",
+      "mean_similarity": 0.9349845051765442,
+      "rank": 153
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\tiger_beetle_s_000671.png",
+      "mean_similarity": 0.9349390864372253,
+      "rank": 154
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\tiger_beetle_s_000358.png",
+      "mean_similarity": 0.9349269270896912,
+      "rank": 155
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\tiger_beetle_s_000748.png",
+      "mean_similarity": 0.93485027551651,
+      "rank": 156
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\beetle_s_000678.png",
+      "mean_similarity": 0.9347627758979797,
+      "rank": 157
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\tiger_beetle_s_000721.png",
+      "mean_similarity": 0.9347544312477112,
+      "rank": 158
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\tiger_beetle_s_000923.png",
+      "mean_similarity": 0.9347439408302307,
+      "rank": 159
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\tiger_beetle_s_000566.png",
+      "mean_similarity": 0.9347370862960815,
+      "rank": 160
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\beetle_s_000163.png",
+      "mean_similarity": 0.9346957206726074,
+      "rank": 161
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\beetle_s_000162.png",
+      "mean_similarity": 0.934635579586029,
+      "rank": 162
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\tiger_beetle_s_001372.png",
+      "mean_similarity": 0.9346029758453369,
+      "rank": 163
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\tiger_beetle_s_000569.png",
+      "mean_similarity": 0.9345817565917969,
+      "rank": 164
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\beetle_s_002002.png",
+      "mean_similarity": 0.9345154762268066,
+      "rank": 165
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\tiger_beetle_s_001079.png",
+      "mean_similarity": 0.9344851970672607,
+      "rank": 166
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\beetle_s_002070.png",
+      "mean_similarity": 0.9344603419303894,
+      "rank": 167
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\tiger_beetle_s_001007.png",
+      "mean_similarity": 0.9344373941421509,
+      "rank": 168
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\tiger_beetle_s_001255.png",
+      "mean_similarity": 0.9344289302825928,
+      "rank": 169
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\tiger_beetle_s_001461.png",
+      "mean_similarity": 0.9344280362129211,
+      "rank": 170
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\beetle_s_002201.png",
+      "mean_similarity": 0.9344158172607422,
+      "rank": 171
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\tiger_beetle_s_001069.png",
+      "mean_similarity": 0.9343658089637756,
+      "rank": 172
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\tiger_beetle_s_001306.png",
+      "mean_similarity": 0.9343653321266174,
+      "rank": 173
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\beetle_s_001697.png",
+      "mean_similarity": 0.9343022108078003,
+      "rank": 174
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\tiger_beetle_s_000040.png",
+      "mean_similarity": 0.9342533349990845,
+      "rank": 175
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\beetle_s_000824.png",
+      "mean_similarity": 0.9342151284217834,
+      "rank": 176
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\beetle_s_000245.png",
+      "mean_similarity": 0.9341960549354553,
+      "rank": 177
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\beetle_s_000918.png",
+      "mean_similarity": 0.9341879487037659,
+      "rank": 178
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\beetle_s_000459.png",
+      "mean_similarity": 0.9341469407081604,
+      "rank": 179
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\tiger_beetle_s_000623.png",
+      "mean_similarity": 0.9341013431549072,
+      "rank": 180
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\beetle_s_000323.png",
+      "mean_similarity": 0.9340974688529968,
+      "rank": 181
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\tiger_beetle_s_000786.png",
+      "mean_similarity": 0.9340860247612,
+      "rank": 182
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\tiger_beetle_s_000465.png",
+      "mean_similarity": 0.9340430498123169,
+      "rank": 183
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\beetle_s_001834.png",
+      "mean_similarity": 0.9340338110923767,
+      "rank": 184
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\ladybug_s_000286.png",
+      "mean_similarity": 0.9339980483055115,
+      "rank": 185
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\beetle_s_001610.png",
+      "mean_similarity": 0.9339543581008911,
+      "rank": 186
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\beetle_s_001926.png",
+      "mean_similarity": 0.9339025020599365,
+      "rank": 187
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\beetle_s_002128.png",
+      "mean_similarity": 0.9338923096656799,
+      "rank": 188
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\beetle_s_000821.png",
+      "mean_similarity": 0.9338768124580383,
+      "rank": 189
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\ladybug_s_000507.png",
+      "mean_similarity": 0.9338715076446533,
+      "rank": 190
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\tiger_beetle_s_000056.png",
+      "mean_similarity": 0.9338207244873047,
+      "rank": 191
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\tiger_beetle_s_000683.png",
+      "mean_similarity": 0.9338015913963318,
+      "rank": 192
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\tiger_beetle_s_000161.png",
+      "mean_similarity": 0.9337264895439148,
+      "rank": 193
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\tiger_beetle_s_001447.png",
+      "mean_similarity": 0.9337145090103149,
+      "rank": 194
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\ladybug_s_001390.png",
+      "mean_similarity": 0.9336972236633301,
+      "rank": 195
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\tiger_beetle_s_000279.png",
+      "mean_similarity": 0.9336918592453003,
+      "rank": 196
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\tiger_beetle_s_001473.png",
+      "mean_similarity": 0.9336918592453003,
+      "rank": 197
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\tiger_beetle_s_000967.png",
+      "mean_similarity": 0.933688759803772,
+      "rank": 198
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\beetle_s_000336.png",
+      "mean_similarity": 0.9336519837379456,
+      "rank": 199
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\tiger_beetle_s_000628.png",
+      "mean_similarity": 0.9336305856704712,
+      "rank": 200
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\ladybug_s_001119.png",
+      "mean_similarity": 0.9336125254631042,
+      "rank": 201
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\tiger_beetle_s_000388.png",
+      "mean_similarity": 0.9335989952087402,
+      "rank": 202
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\ladybug_s_000712.png",
+      "mean_similarity": 0.9335712790489197,
+      "rank": 203
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\beetle_s_002226.png",
+      "mean_similarity": 0.9335435032844543,
+      "rank": 204
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\tiger_beetle_s_001028.png",
+      "mean_similarity": 0.9335166215896606,
+      "rank": 205
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\tiger_beetle_s_000213.png",
+      "mean_similarity": 0.9334085583686829,
+      "rank": 206
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\tiger_beetle_s_000620.png",
+      "mean_similarity": 0.9334020614624023,
+      "rank": 207
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\tiger_beetle_s_000155.png",
+      "mean_similarity": 0.9333609938621521,
+      "rank": 208
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\tiger_beetle_s_000572.png",
+      "mean_similarity": 0.9333245754241943,
+      "rank": 209
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\tiger_beetle_s_000115.png",
+      "mean_similarity": 0.9332847595214844,
+      "rank": 210
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\tiger_beetle_s_001421.png",
+      "mean_similarity": 0.9332017302513123,
+      "rank": 211
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\tiger_beetle_s_000232.png",
+      "mean_similarity": 0.9331691861152649,
+      "rank": 212
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\tiger_beetle_s_000051.png",
+      "mean_similarity": 0.9331256747245789,
+      "rank": 213
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\tiger_beetle_s_000712.png",
+      "mean_similarity": 0.9331105947494507,
+      "rank": 214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\tiger_beetle_s_000039.png",
+      "mean_similarity": 0.9329975843429565,
+      "rank": 215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\beetle_s_001545.png",
+      "mean_similarity": 0.9329878091812134,
+      "rank": 216
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\tiger_beetle_s_000645.png",
+      "mean_similarity": 0.9329848289489746,
+      "rank": 217
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\beetle_s_000414.png",
+      "mean_similarity": 0.9329388737678528,
+      "rank": 218
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\ladybeetle_s_000016.png",
+      "mean_similarity": 0.9329196214675903,
+      "rank": 219
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\tiger_beetle_s_000187.png",
+      "mean_similarity": 0.9328687787055969,
+      "rank": 220
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\tiger_beetle_s_000164.png",
+      "mean_similarity": 0.9328413009643555,
+      "rank": 221
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\ladybeetle_s_000003.png",
+      "mean_similarity": 0.9328233003616333,
+      "rank": 222
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\tiger_beetle_s_000003.png",
+      "mean_similarity": 0.9327313303947449,
+      "rank": 223
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\beetle_s_000235.png",
+      "mean_similarity": 0.932675302028656,
+      "rank": 224
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\beetle_s_001432.png",
+      "mean_similarity": 0.932650625705719,
+      "rank": 225
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\tiger_beetle_s_000104.png",
+      "mean_similarity": 0.9326362609863281,
+      "rank": 226
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\beetle_s_001555.png",
+      "mean_similarity": 0.9325976967811584,
+      "rank": 227
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\beetle_s_000879.png",
+      "mean_similarity": 0.9325939416885376,
+      "rank": 228
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\beetle_s_002170.png",
+      "mean_similarity": 0.9325606822967529,
+      "rank": 229
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\beetle_s_002313.png",
+      "mean_similarity": 0.9325470328330994,
+      "rank": 230
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\beetle_s_000212.png",
+      "mean_similarity": 0.932360827922821,
+      "rank": 231
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\tiger_beetle_s_000984.png",
+      "mean_similarity": 0.9323422908782959,
+      "rank": 232
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\tiger_beetle_s_000489.png",
+      "mean_similarity": 0.9322958588600159,
+      "rank": 233
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\beetle_s_000332.png",
+      "mean_similarity": 0.9322671294212341,
+      "rank": 234
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\tiger_beetle_s_001386.png",
+      "mean_similarity": 0.9322586059570312,
+      "rank": 235
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\tiger_beetle_s_000315.png",
+      "mean_similarity": 0.9321590065956116,
+      "rank": 236
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\tiger_beetle_s_000706.png",
+      "mean_similarity": 0.9321422576904297,
+      "rank": 237
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\tiger_beetle_s_000848.png",
+      "mean_similarity": 0.9321154952049255,
+      "rank": 238
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\beetle_s_000880.png",
+      "mean_similarity": 0.9321141242980957,
+      "rank": 239
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\tiger_beetle_s_000221.png",
+      "mean_similarity": 0.9320560097694397,
+      "rank": 240
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\tiger_beetle_s_000064.png",
+      "mean_similarity": 0.9320544004440308,
+      "rank": 241
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\tiger_beetle_s_000054.png",
+      "mean_similarity": 0.9320359230041504,
+      "rank": 242
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\tiger_beetle_s_000032.png",
+      "mean_similarity": 0.9319970607757568,
+      "rank": 243
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\beetle_s_001034.png",
+      "mean_similarity": 0.9319921731948853,
+      "rank": 244
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\beetle_s_000503.png",
+      "mean_similarity": 0.9319269061088562,
+      "rank": 245
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\tiger_beetle_s_000138.png",
+      "mean_similarity": 0.9318820238113403,
+      "rank": 246
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\beetle_s_000563.png",
+      "mean_similarity": 0.9318719506263733,
+      "rank": 247
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\ladybeetle_s_000008.png",
+      "mean_similarity": 0.9318541884422302,
+      "rank": 248
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\beetle_s_002172.png",
+      "mean_similarity": 0.9318469762802124,
+      "rank": 249
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\008.beetle\\tiger_beetle_s_001048.png",
+      "mean_similarity": 0.9318392872810364,
+      "rank": 250
+    }
+  ]
+}

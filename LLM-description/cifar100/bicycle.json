@@ -1,0 +1,26 @@
+{
+  "class_name": "bicycle",
+  "global_description": "Two-wheeled vehicle with a slender frame, typically metallic, featuring handlebars, a seat, pedals, and rubber tires. Often seen in colors like black, blue, or red, with a chain connecting the pedals to the rear wheel.",
+  "discriminative_attributes": [
+    "Two wheels",
+    "Slender metallic frame",
+    "Handlebars",
+    "Pedals",
+    "Rubber tires"
+  ],
+  "part_details": {
+    "frame": "Slender metallic structure, often painted",
+    "wheels": "Two circular rubber tires with spokes",
+    "handlebars": "Curved or straight, attached to front wheel",
+    "seat": "Small, cushioned, positioned above pedals",
+    "pedals": "Flat, attached to cranks"
+  },
+  "spatial_relations": [
+    "Handlebars at front of frame",
+    "Seat above pedals",
+    "Pedals connected to rear wheel via chain",
+    "Wheels at front and rear of frame"
+  ],
+  "original_dataset_key": "cifar100",
+  "original_class_key": "bicycle"
+}

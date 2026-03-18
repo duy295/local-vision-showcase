@@ -1,0 +1,159 @@
+{
+  "class_name": "045.Northern_Fulmar",
+  "class_idx": 44,
+  "num_images_in_class": 30,
+  "ec_size_requested": 30,
+  "ec_size_actual": 30,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\045.Northern_Fulmar\\Northern_Fulmar_0019_43853.jpg",
+      "mean_similarity": 0.9485664367675781,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\045.Northern_Fulmar\\Northern_Fulmar_0014_43895.jpg",
+      "mean_similarity": 0.9481468796730042,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\045.Northern_Fulmar\\Northern_Fulmar_0047_43698.jpg",
+      "mean_similarity": 0.9480974674224854,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\045.Northern_Fulmar\\Northern_Fulmar_0048_43672.jpg",
+      "mean_similarity": 0.947517991065979,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\045.Northern_Fulmar\\Northern_Fulmar_0074_43955.jpg",
+      "mean_similarity": 0.9474904537200928,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\045.Northern_Fulmar\\Northern_Fulmar_0004_43755.jpg",
+      "mean_similarity": 0.9474897384643555,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\045.Northern_Fulmar\\Northern_Fulmar_0041_44013.jpg",
+      "mean_similarity": 0.9474378228187561,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\045.Northern_Fulmar\\Northern_Fulmar_0058_44114.jpg",
+      "mean_similarity": 0.9468944072723389,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\045.Northern_Fulmar\\Northern_Fulmar_0066_43714.jpg",
+      "mean_similarity": 0.9466875195503235,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\045.Northern_Fulmar\\Northern_Fulmar_0100_43732.jpg",
+      "mean_similarity": 0.9464455246925354,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\045.Northern_Fulmar\\Northern_Fulmar_0043_43685.jpg",
+      "mean_similarity": 0.9459910988807678,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\045.Northern_Fulmar\\Northern_Fulmar_0098_43578.jpg",
+      "mean_similarity": 0.9459758400917053,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\045.Northern_Fulmar\\Northern_Fulmar_0029_44049.jpg",
+      "mean_similarity": 0.9458197355270386,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\045.Northern_Fulmar\\Northern_Fulmar_0060_43813.jpg",
+      "mean_similarity": 0.9458128809928894,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\045.Northern_Fulmar\\Northern_Fulmar_0006_43753.jpg",
+      "mean_similarity": 0.9456869959831238,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\045.Northern_Fulmar\\Northern_Fulmar_0076_43893.jpg",
+      "mean_similarity": 0.9453536868095398,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\045.Northern_Fulmar\\Northern_Fulmar_0099_44015.jpg",
+      "mean_similarity": 0.9451324343681335,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\045.Northern_Fulmar\\Northern_Fulmar_0083_43618.jpg",
+      "mean_similarity": 0.9448756575584412,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\045.Northern_Fulmar\\Northern_Fulmar_0050_43839.jpg",
+      "mean_similarity": 0.9444349408149719,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\045.Northern_Fulmar\\Northern_Fulmar_0070_43916.jpg",
+      "mean_similarity": 0.9441477656364441,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\045.Northern_Fulmar\\Northern_Fulmar_0046_43760.jpg",
+      "mean_similarity": 0.9437752962112427,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\045.Northern_Fulmar\\Northern_Fulmar_0095_43860.jpg",
+      "mean_similarity": 0.9434872269630432,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\045.Northern_Fulmar\\Northern_Fulmar_0079_43599.jpg",
+      "mean_similarity": 0.9429560899734497,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\045.Northern_Fulmar\\Northern_Fulmar_0061_43653.jpg",
+      "mean_similarity": 0.9413683414459229,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\045.Northern_Fulmar\\Northern_Fulmar_0039_43689.jpg",
+      "mean_similarity": 0.9404714107513428,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\045.Northern_Fulmar\\Northern_Fulmar_0071_44146.jpg",
+      "mean_similarity": 0.9390067458152771,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\045.Northern_Fulmar\\Northern_Fulmar_0081_43912.jpg",
+      "mean_similarity": 0.9383301734924316,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\045.Northern_Fulmar\\Northern_Fulmar_0065_44081.jpg",
+      "mean_similarity": 0.937286376953125,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\045.Northern_Fulmar\\Northern_Fulmar_0023_43809.jpg",
+      "mean_similarity": 0.9367751479148865,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\045.Northern_Fulmar\\Northern_Fulmar_0010_44112.jpg",
+      "mean_similarity": 0.9305501580238342,
+      "rank": 30
+    }
+  ]
+}

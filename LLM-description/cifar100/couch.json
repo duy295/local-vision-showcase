@@ -1,0 +1,25 @@
+{
+  "class_name": "couch",
+  "global_description": "Large, rectangular seating furniture with cushioned seats and backrest, typically upholstered in fabric or leather. Often features armrests on either side and sits on short legs or a solid base. Commonly found in living rooms, available in various colors, with a smooth or textured surface.",
+  "discriminative_attributes": [
+    "Rectangular shape",
+    "Cushioned seats",
+    "Upholstered in fabric or leather",
+    "Armrests on sides",
+    "Short legs or solid base"
+  ],
+  "part_details": {
+    "seats": "Cushioned, soft, often rectangular",
+    "backrest": "Padded, matching upholstery",
+    "armrests": "Located on sides, padded",
+    "legs": "Short, sometimes hidden",
+    "upholstery": "Fabric or leather, smooth or textured"
+  },
+  "spatial_relations": [
+    "Backrest attached to rear of seats",
+    "Armrests on sides of seats",
+    "Legs beneath base"
+  ],
+  "original_dataset_key": "cifar100",
+  "original_class_key": "couch"
+}

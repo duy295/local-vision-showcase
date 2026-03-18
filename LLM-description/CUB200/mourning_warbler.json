@@ -1,0 +1,25 @@
+{
+  "class_name": "Mourning Warbler",
+  "global_description": "A small, slender songbird with a rounded body and short tail. It features a distinctive olive-green back, gray head and throat, and a yellow belly. The bird's plumage is smooth and sleek, with a subtle gradient between the colors.",
+  "discriminative_attributes": [
+    "Olive-green back",
+    "Gray head and throat",
+    "Yellow belly",
+    "Smooth sleek plumage",
+    "Small rounded body"
+  ],
+  "part_details": {
+    "head": "Smooth gray with a subtle transition to the throat.",
+    "back": "Olive-green, blending into the wings.",
+    "belly": "Bright yellow, contrasting with the darker upper parts.",
+    "tail": "Short and slightly rounded, matching the body color.",
+    "wings": "Olive-green, sleek and smooth, extending from the back."
+  },
+  "spatial_relations": [
+    "The gray head transitions smoothly into the olive-green back.",
+    "The yellow belly is positioned below the gray throat.",
+    "The short tail extends from the rounded body."
+  ],
+  "original_dataset_key": "CUB200",
+  "original_class_key": "mourning_warbler"
+}

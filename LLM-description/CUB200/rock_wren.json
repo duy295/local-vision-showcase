@@ -1,0 +1,25 @@
+{
+  "class_name": "Rock Wren",
+  "global_description": "A small, compact bird with a rounded body and short tail. It has a predominantly brown and gray plumage with a speckled pattern. The bird features a slender, slightly curved bill and long legs. Its underparts are lighter with a buffy tone.",
+  "discriminative_attributes": [
+    "Brown and gray speckled plumage",
+    "Slender slightly curved bill",
+    "Short tail",
+    "Long legs",
+    "Buffy underparts"
+  ],
+  "part_details": {
+    "plumage": "Brown and gray with speckled pattern, providing camouflage against rocky environments.",
+    "bill": "Slender, slightly curved, suitable for probing.",
+    "tail": "Short, aiding in balance and maneuverability.",
+    "legs": "Long, adapted for hopping on rocky surfaces.",
+    "underparts": "Lighter with a buffy tone, contrasting with the darker upperparts."
+  },
+  "spatial_relations": [
+    "The slender bill extends from the front of the head.",
+    "The short tail is positioned at the rear of the body.",
+    "The long legs are positioned beneath the body, supporting it."
+  ],
+  "original_dataset_key": "CUB200",
+  "original_class_key": "rock_wren"
+}

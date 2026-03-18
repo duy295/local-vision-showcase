@@ -1,0 +1,25 @@
+{
+  "class_name": "Hooded Oriole",
+  "global_description": "A medium-sized bird with a slender, elongated body and a distinctively curved beak. It features a bright yellow-orange plumage on the head and underparts, contrasting with black wings and tail. The bird's texture is smooth and glossy.",
+  "discriminative_attributes": [
+    "Bright yellow-orange head and underparts",
+    "Black wings and tail",
+    "Slender, elongated body",
+    "Distinctively curved beak",
+    "Smooth, glossy plumage"
+  ],
+  "part_details": {
+    "head": "Bright yellow-orange, smooth and glossy, with a small, rounded shape.",
+    "beak": "Long, slender, and slightly curved, dark in color.",
+    "wings": "Black, elongated, with a glossy texture.",
+    "tail": "Black, long, and narrow, with a smooth finish.",
+    "body": "Slender and elongated, predominantly yellow-orange with a glossy sheen."
+  },
+  "spatial_relations": [
+    "The bright yellow-orange head transitions into the black wings.",
+    "The curved beak protrudes from the front of the head.",
+    "The black tail extends from the rear of the body."
+  ],
+  "original_dataset_key": "CUB200",
+  "original_class_key": "hooded_oriole"
+}

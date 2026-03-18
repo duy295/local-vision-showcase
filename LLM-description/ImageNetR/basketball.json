@@ -1,0 +1,22 @@
+{
+  "class_name": "basketball",
+  "global_description": "Spherical ball with an orange surface, covered in black lines forming a pattern of segments. The texture is slightly pebbled, providing grip. Typically made of leather or synthetic materials, used in the sport of basketball.",
+  "discriminative_attributes": [
+    "Spherical shape",
+    "Orange color",
+    "Black lines",
+    "Pebbled texture",
+    "Leather or synthetic material"
+  ],
+  "part_details": {
+    "surface": "Orange with pebbled texture for grip",
+    "lines": "Black, forming a pattern of segments",
+    "material": "Leather or synthetic"
+  },
+  "spatial_relations": [
+    "Lines cover the surface, forming segments",
+    "Pebbled texture across entire surface"
+  ],
+  "original_dataset_key": "ImageNetR",
+  "original_class_key": "basketball"
+}

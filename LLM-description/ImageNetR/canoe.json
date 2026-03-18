@@ -1,0 +1,24 @@
+{
+  "class_name": "canoe",
+  "global_description": "Long, narrow watercraft with pointed ends, typically made of wood or lightweight materials. The hull is smooth and streamlined, often painted in natural or muted colors. It features open seating with benches or seats, designed for paddling on calm waters.",
+  "discriminative_attributes": [
+    "Long and narrow shape",
+    "Pointed ends",
+    "Open seating",
+    "Smooth hull",
+    "Wood or lightweight material"
+  ],
+  "part_details": {
+    "hull": "Smooth, streamlined, often painted in natural colors",
+    "seating": "Open with benches or seats",
+    "ends": "Pointed, facilitating movement through water",
+    "material": "Wood or lightweight composite"
+  },
+  "spatial_relations": [
+    "Seating is positioned inside the hull",
+    "Ends are pointed and symmetrical",
+    "Hull is elongated and narrow"
+  ],
+  "original_dataset_key": "ImageNetR",
+  "original_class_key": "canoe"
+}

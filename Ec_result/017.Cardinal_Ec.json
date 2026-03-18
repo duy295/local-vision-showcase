@@ -1,0 +1,159 @@
+{
+  "class_name": "017.Cardinal",
+  "class_idx": 16,
+  "num_images_in_class": 30,
+  "ec_size_requested": 30,
+  "ec_size_actual": 30,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\017.Cardinal\\Cardinal_0081_17291.jpg",
+      "mean_similarity": 0.9508355259895325,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\017.Cardinal\\Cardinal_0097_17396.jpg",
+      "mean_similarity": 0.9506235122680664,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\017.Cardinal\\Cardinal_0104_17122.jpg",
+      "mean_similarity": 0.9505249261856079,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\017.Cardinal\\Cardinal_0019_17368.jpg",
+      "mean_similarity": 0.9504737854003906,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\017.Cardinal\\Cardinal_0075_17946.jpg",
+      "mean_similarity": 0.9503114819526672,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\017.Cardinal\\Cardinal_0094_17165.jpg",
+      "mean_similarity": 0.950246274471283,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\017.Cardinal\\Cardinal_0053_17541.jpg",
+      "mean_similarity": 0.9502188563346863,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\017.Cardinal\\Cardinal_0045_18021.jpg",
+      "mean_similarity": 0.950183093547821,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\017.Cardinal\\Cardinal_0057_17128.jpg",
+      "mean_similarity": 0.9501444101333618,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\017.Cardinal\\Cardinal_0079_19044.jpg",
+      "mean_similarity": 0.9500622153282166,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\017.Cardinal\\Cardinal_0054_19334.jpg",
+      "mean_similarity": 0.950026273727417,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\017.Cardinal\\Cardinal_0052_18334.jpg",
+      "mean_similarity": 0.9499799609184265,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\017.Cardinal\\Cardinal_0092_17591.jpg",
+      "mean_similarity": 0.9499728679656982,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\017.Cardinal\\Cardinal_0025_17239.jpg",
+      "mean_similarity": 0.9498019218444824,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\017.Cardinal\\Cardinal_0089_18005.jpg",
+      "mean_similarity": 0.9497193694114685,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\017.Cardinal\\Cardinal_0066_17803.jpg",
+      "mean_similarity": 0.949629008769989,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\017.Cardinal\\Cardinal_0060_17139.jpg",
+      "mean_similarity": 0.9494643211364746,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\017.Cardinal\\Cardinal_0085_19162.jpg",
+      "mean_similarity": 0.9492343068122864,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\017.Cardinal\\Cardinal_0084_17576.jpg",
+      "mean_similarity": 0.9491007328033447,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\017.Cardinal\\Cardinal_0083_18042.jpg",
+      "mean_similarity": 0.948740541934967,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\017.Cardinal\\Cardinal_0012_18638.jpg",
+      "mean_similarity": 0.9484505653381348,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\017.Cardinal\\Cardinal_0056_18352.jpg",
+      "mean_similarity": 0.9482333660125732,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\017.Cardinal\\Cardinal_0029_17297.jpg",
+      "mean_similarity": 0.9481501579284668,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\017.Cardinal\\Cardinal_0020_18664.jpg",
+      "mean_similarity": 0.9476945400238037,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\017.Cardinal\\Cardinal_0039_17597.jpg",
+      "mean_similarity": 0.9476302266120911,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\017.Cardinal\\Cardinal_0037_18092.jpg",
+      "mean_similarity": 0.9475615620613098,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\017.Cardinal\\Cardinal_0002_18424.jpg",
+      "mean_similarity": 0.9473628997802734,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\017.Cardinal\\Cardinal_0051_17223.jpg",
+      "mean_similarity": 0.9464468955993652,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\017.Cardinal\\Cardinal_0007_18537.jpg",
+      "mean_similarity": 0.940642237663269,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\017.Cardinal\\Cardinal_0028_18054.jpg",
+      "mean_similarity": 0.9310345649719238,
+      "rank": 30
+    }
+  ]
+}

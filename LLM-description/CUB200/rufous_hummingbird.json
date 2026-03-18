@@ -1,0 +1,25 @@
+{
+  "class_name": "Bird",
+  "global_description": "A small, agile bird with a compact, streamlined body. It features iridescent green upperparts and a rich, rufous-orange underbelly. The wings are narrow and pointed, aiding in rapid flight. The tail is forked and rufous with dark tips, while the head is adorned with a shimmering red throat patch.",
+  "discriminative_attributes": [
+    "Iridescent green upperparts",
+    "Rufous-orange underbelly",
+    "Shimmering red throat patch",
+    "Narrow pointed wings",
+    "Forked rufous tail with dark tips"
+  ],
+  "part_details": {
+    "upperparts": "Iridescent green, smooth and glossy",
+    "underbelly": "Rufous-orange, soft texture",
+    "throat": "Shimmering red, iridescent",
+    "wings": "Narrow, pointed, dark",
+    "tail": "Forked, rufous with dark tips"
+  },
+  "spatial_relations": [
+    "The narrow wings extend from the sides of the compact body",
+    "The forked tail is positioned at the rear of the body",
+    "The red throat patch is located on the front of the head"
+  ],
+  "original_dataset_key": "CUB200",
+  "original_class_key": "rufous_hummingbird"
+}

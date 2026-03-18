@@ -1,0 +1,25 @@
+{
+  "class_name": "Bird",
+  "global_description": "A small, slender songbird with a streamlined body and a long tail. It features a brown upper body with a white underbelly and a distinctive white eye stripe. The wings and tail are dark brown with lighter edges, and the legs are pinkish.",
+  "discriminative_attributes": [
+    "White eye stripe",
+    "Brown upper body",
+    "White underbelly",
+    "Dark brown wings with lighter edges",
+    "Pinkish legs"
+  ],
+  "part_details": {
+    "head": "Small, rounded with a prominent white eye stripe and brown crown.",
+    "body": "Streamlined with brown upper parts and white underparts.",
+    "wings": "Dark brown with lighter edges, medium length.",
+    "tail": "Long, dark brown with lighter edges.",
+    "legs": "Thin, pinkish in color."
+  },
+  "spatial_relations": [
+    "The white eye stripe runs from the beak to the back of the head.",
+    "The brown upper body transitions to a white underbelly.",
+    "The wings are attached to the sides of the body, extending outwards."
+  ],
+  "original_dataset_key": "CUB200",
+  "original_class_key": "louisiana_waterthrush"
+}

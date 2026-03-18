@@ -1,0 +1,24 @@
+{
+  "class_name": "Bank Swallow",
+  "global_description": "A small, slender bird with a streamlined body and pointed wings. It has a brown upper body and a white underbody with a distinctive brown band across the chest. The bird's plumage is smooth and sleek, aiding in its agile flight.",
+  "discriminative_attributes": [
+    "Brown upper body",
+    "White underbody with brown chest band",
+    "Pointed wings",
+    "Streamlined body",
+    "Small size"
+  ],
+  "part_details": {
+    "head": "Small, rounded, brown with a short, pointed beak.",
+    "wings": "Long, narrow, pointed, brown on top.",
+    "chest": "White with a distinct brown band.",
+    "tail": "Short, forked, brown."
+  },
+  "spatial_relations": [
+    "The brown chest band is positioned horizontally across the white underbody.",
+    "The pointed wings extend laterally from the streamlined body.",
+    "The short forked tail is at the rear of the body."
+  ],
+  "original_dataset_key": "CUB200",
+  "original_class_key": "bank_swallow"
+}

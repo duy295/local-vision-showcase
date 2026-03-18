@@ -1,0 +1,159 @@
+{
+  "class_name": "052.Pied_billed_Grebe",
+  "class_idx": 51,
+  "num_images_in_class": 30,
+  "ec_size_requested": 30,
+  "ec_size_actual": 30,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\052.Pied_billed_Grebe\\Pied_Billed_Grebe_0086_35483.jpg",
+      "mean_similarity": 0.9496657848358154,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\052.Pied_billed_Grebe\\Pied_Billed_Grebe_0044_35425.jpg",
+      "mean_similarity": 0.9496657252311707,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\052.Pied_billed_Grebe\\Pied_Billed_Grebe_0125_35322.jpg",
+      "mean_similarity": 0.9492878317832947,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\052.Pied_billed_Grebe\\Pied_Billed_Grebe_0064_35843.jpg",
+      "mean_similarity": 0.9491331577301025,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\052.Pied_billed_Grebe\\Pied_Billed_Grebe_0070_35472.jpg",
+      "mean_similarity": 0.948991596698761,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\052.Pied_billed_Grebe\\Pied_Billed_Grebe_0058_35503.jpg",
+      "mean_similarity": 0.948936939239502,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\052.Pied_billed_Grebe\\Pied_Billed_Grebe_0076_35432.jpg",
+      "mean_similarity": 0.9488620162010193,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\052.Pied_billed_Grebe\\Pied_Billed_Grebe_0063_35529.jpg",
+      "mean_similarity": 0.9487007260322571,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\052.Pied_billed_Grebe\\Pied_Billed_Grebe_0033_35379.jpg",
+      "mean_similarity": 0.9486357569694519,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\052.Pied_billed_Grebe\\Pied_Billed_Grebe_0100_35310.jpg",
+      "mean_similarity": 0.948584794998169,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\052.Pied_billed_Grebe\\Pied_Billed_Grebe_0024_35949.jpg",
+      "mean_similarity": 0.9484670162200928,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\052.Pied_billed_Grebe\\Pied_Billed_Grebe_0099_35872.jpg",
+      "mean_similarity": 0.9484306573867798,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\052.Pied_billed_Grebe\\Pied_Billed_Grebe_0052_35937.jpg",
+      "mean_similarity": 0.9483931660652161,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\052.Pied_billed_Grebe\\Pied_Billed_Grebe_0082_35356.jpg",
+      "mean_similarity": 0.9481222033500671,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\052.Pied_billed_Grebe\\Pied_Billed_Grebe_0005_35437.jpg",
+      "mean_similarity": 0.9479185938835144,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\052.Pied_billed_Grebe\\Pied_Billed_Grebe_0114_35493.jpg",
+      "mean_similarity": 0.9478025436401367,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\052.Pied_billed_Grebe\\Pied_Billed_Grebe_0115_35362.jpg",
+      "mean_similarity": 0.9477152228355408,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\052.Pied_billed_Grebe\\Pied_Billed_Grebe_0015_35289.jpg",
+      "mean_similarity": 0.9475357532501221,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\052.Pied_billed_Grebe\\Pied_Billed_Grebe_0123_35469.jpg",
+      "mean_similarity": 0.9475276470184326,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\052.Pied_billed_Grebe\\Pied_Billed_Grebe_0119_35377.jpg",
+      "mean_similarity": 0.9472857713699341,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\052.Pied_billed_Grebe\\Pied_Billed_Grebe_0122_35970.jpg",
+      "mean_similarity": 0.9471540451049805,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\052.Pied_billed_Grebe\\Pied_Billed_Grebe_0050_35530.jpg",
+      "mean_similarity": 0.9470704197883606,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\052.Pied_billed_Grebe\\Pied_Billed_Grebe_0068_35963.jpg",
+      "mean_similarity": 0.9460654258728027,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\052.Pied_billed_Grebe\\Pied_Billed_Grebe_0113_35703.jpg",
+      "mean_similarity": 0.9455785751342773,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\052.Pied_billed_Grebe\\Pied_Billed_Grebe_0120_35764.jpg",
+      "mean_similarity": 0.9445928335189819,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\052.Pied_billed_Grebe\\Pied_Billed_Grebe_0096_35579.jpg",
+      "mean_similarity": 0.9432024955749512,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\052.Pied_billed_Grebe\\Pied_Billed_Grebe_0081_35409.jpg",
+      "mean_similarity": 0.9431302547454834,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\052.Pied_billed_Grebe\\Pied_Billed_Grebe_0032_35931.jpg",
+      "mean_similarity": 0.9430956244468689,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\052.Pied_billed_Grebe\\Pied_Billed_Grebe_0072_35939.jpg",
+      "mean_similarity": 0.9410239458084106,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\052.Pied_billed_Grebe\\Pied_Billed_Grebe_0048_35670.jpg",
+      "mean_similarity": 0.9200643301010132,
+      "rank": 30
+    }
+  ]
+}

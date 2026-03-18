@@ -1,0 +1,25 @@
+{
+  "class_name": "Bird",
+  "global_description": "A small, compact songbird with a vibrant blue plumage covering most of its body. It has a conical, pointed beak and dark eyes. The wings and tail are medium-length and the bird has a slightly rounded body shape.",
+  "discriminative_attributes": [
+    "Vibrant blue plumage",
+    "Small, compact body",
+    "Conical pointed beak",
+    "Medium-length wings",
+    "Dark eyes"
+  ],
+  "part_details": {
+    "plumage": "Bright blue feathers covering the head, back, and wings, with a slightly iridescent sheen.",
+    "beak": "Short, conical, and pointed, typically dark gray or black.",
+    "eyes": "Small, round, and dark, set on either side of the head.",
+    "wings": "Medium-length, blue with darker tips, folded along the body.",
+    "tail": "Short to medium, blue with a slightly forked shape."
+  },
+  "spatial_relations": [
+    "The beak is positioned at the front of the head.",
+    "The wings are attached to the sides of the body.",
+    "The tail extends from the rear of the body."
+  ],
+  "original_dataset_key": "CUB200",
+  "original_class_key": "indigo_bunting"
+}

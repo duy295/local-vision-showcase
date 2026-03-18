@@ -1,0 +1,23 @@
+{
+  "class_name": "hotdog",
+  "global_description": "Elongated cylindrical food item, typically brown sausage encased in a bun, often with condiments like mustard or ketchup. The bun is soft and light brown, while the sausage has a glossy, cooked appearance.",
+  "discriminative_attributes": [
+    "Cylindrical sausage",
+    "Soft bun",
+    "Glossy cooked appearance",
+    "Condiments on top",
+    "Elongated shape"
+  ],
+  "part_details": {
+    "sausage": "Brown, cylindrical, glossy cooked surface",
+    "bun": "Soft, light brown, split to hold sausage",
+    "condiments": "Brightly colored, often yellow or red, drizzled on top"
+  },
+  "spatial_relations": [
+    "Sausage inside bun",
+    "Condiments on top of sausage",
+    "Bun surrounds sausage"
+  ],
+  "original_dataset_key": "ImageNetR",
+  "original_class_key": "hotdog"
+}

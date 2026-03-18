@@ -1,0 +1,25 @@
+{
+  "class_name": "Laysan Albatross",
+  "global_description": "A large seabird with a streamlined body, predominantly white with dark gray wings. It features a long, slender neck and a large, hooked bill. The wings are long and narrow, adapted for gliding over the ocean.",
+  "discriminative_attributes": [
+    "Predominantly white body",
+    "Dark gray wings",
+    "Long narrow wings",
+    "Large hooked bill",
+    "Streamlined body shape"
+  ],
+  "part_details": {
+    "body": "Streamlined, predominantly white with a smooth texture.",
+    "wings": "Long, narrow, dark gray, adapted for gliding.",
+    "bill": "Large, hooked, pale pinkish-yellow.",
+    "neck": "Long, slender, white.",
+    "tail": "Short, white with dark edges."
+  },
+  "spatial_relations": [
+    "The long narrow wings extend from the sides of the streamlined body.",
+    "The large hooked bill is positioned at the front of the head.",
+    "The long slender neck connects the head to the body."
+  ],
+  "original_dataset_key": "CUB200",
+  "original_class_key": "laysan_albatross"
+}

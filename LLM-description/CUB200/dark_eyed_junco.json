@@ -1,0 +1,26 @@
+{
+  "class_name": "Bird",
+  "global_description": "A small, plump bird with a rounded body and short tail. It has a predominantly gray body with a white belly and dark eyes. The wings and back are a darker shade of gray, and the bird has a small, conical pinkish bill.",
+  "discriminative_attributes": [
+    "Dark eyes",
+    "Gray body with white belly",
+    "Small conical pinkish bill",
+    "Short tail",
+    "Darker gray wings and back"
+  ],
+  "part_details": {
+    "body": "Rounded, plump shape, predominantly gray with a white belly.",
+    "eyes": "Dark and prominent, set against the gray plumage.",
+    "bill": "Small, conical, pinkish in color.",
+    "wings": "Darker gray, blending with the back.",
+    "tail": "Short, matching the darker gray of the wings."
+  },
+  "spatial_relations": [
+    "The dark eyes are set within the gray plumage of the head.",
+    "The small pinkish bill is positioned at the front of the head.",
+    "The darker gray wings are attached to the sides of the body.",
+    "The short tail extends from the rear of the body."
+  ],
+  "original_dataset_key": "CUB200",
+  "original_class_key": "dark_eyed_junco"
+}

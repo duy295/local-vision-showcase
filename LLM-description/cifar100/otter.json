@@ -1,0 +1,25 @@
+{
+  "class_name": "otter",
+  "global_description": "A small to medium-sized aquatic mammal with a sleek, elongated body, dense waterproof fur, typically brown or gray. It has a flat, broad head, small rounded ears, and a long, muscular tail. The limbs are short with webbed feet, adapted for swimming.",
+  "discriminative_attributes": [
+    "Sleek elongated body",
+    "Dense waterproof fur",
+    "Flat broad head",
+    "Long muscular tail",
+    "Webbed feet"
+  ],
+  "part_details": {
+    "head": "Flat and broad with small rounded ears",
+    "body": "Sleek and elongated with dense fur",
+    "tail": "Long and muscular",
+    "limbs": "Short with webbed feet",
+    "fur": "Dense and waterproof, typically brown or gray"
+  },
+  "spatial_relations": [
+    "Head at front, tail at rear",
+    "Limbs attached to sides of body",
+    "Fur covering entire body"
+  ],
+  "original_dataset_key": "cifar100",
+  "original_class_key": "otter"
+}

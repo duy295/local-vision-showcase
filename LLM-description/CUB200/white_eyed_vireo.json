@@ -1,0 +1,25 @@
+{
+  "class_name": "Bird",
+  "global_description": "A small, compact songbird with a rounded body and short tail. It has olive-green upperparts and white underparts, with a distinctive white eye-ring. The wings are grayish with two white wing bars, and the bill is short and pointed.",
+  "discriminative_attributes": [
+    "Olive-green upperparts",
+    "White underparts",
+    "Distinctive white eye-ring",
+    "Grayish wings with white bars",
+    "Short pointed bill"
+  ],
+  "part_details": {
+    "eye_ring": "Prominent white circle around the eye, contrasting with the olive head.",
+    "wings": "Grayish with two distinct white bars, medium length.",
+    "bill": "Short, pointed, dark gray.",
+    "tail": "Short, slightly rounded, matching olive-green upperparts.",
+    "underparts": "White, smooth texture, contrasting with upperparts."
+  },
+  "spatial_relations": [
+    "The white eye-ring encircles the eye on the olive-green head.",
+    "The grayish wings are positioned laterally on the body with white bars.",
+    "The short tail extends from the rear of the body."
+  ],
+  "original_dataset_key": "CUB200",
+  "original_class_key": "white_eyed_vireo"
+}

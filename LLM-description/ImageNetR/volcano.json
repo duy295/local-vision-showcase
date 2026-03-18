@@ -1,0 +1,26 @@
+{
+  "class_name": "volcano",
+  "global_description": "Large conical mountain with steep slopes, composed of dark rocky material, often with a crater at the summit. The surface may be rugged with visible layers of lava and ash deposits, and the surrounding area can be barren or sparsely vegetated.",
+  "discriminative_attributes": [
+    "Conical mountain shape",
+    "Dark rocky material",
+    "Crater at summit",
+    "Steep slopes",
+    "Lava and ash layers"
+  ],
+  "part_details": {
+    "summit": "Crater at the top, often circular and deep",
+    "slopes": "Steep and rugged, covered with rocky debris",
+    "surface": "Dark with layers of hardened lava and ash",
+    "base": "Wide and stable, supporting the conical structure",
+    "crater": "Central depression, sometimes emitting steam or gases"
+  },
+  "spatial_relations": [
+    "Summit at top of mountain",
+    "Slopes descend from summit",
+    "Crater located at summit",
+    "Base supports entire structure"
+  ],
+  "original_dataset_key": "ImageNetR",
+  "original_class_key": "volcano"
+}

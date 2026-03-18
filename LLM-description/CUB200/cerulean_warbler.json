@@ -1,0 +1,26 @@
+{
+  "class_name": "Cerulean Warbler",
+  "global_description": "A small, slender songbird with a streamlined body. It features a striking cerulean blue upper body and white underparts. The wings are dark with two white wing bars, and the tail is long and slightly forked. The bird has a small, pointed beak and a thin black eye stripe.",
+  "discriminative_attributes": [
+    "Cerulean blue upper body",
+    "White underparts",
+    "Dark wings with white bars",
+    "Long slightly forked tail",
+    "Thin black eye stripe"
+  ],
+  "part_details": {
+    "upper_body": "Cerulean blue, smooth plumage covering the head, back, and wings.",
+    "underparts": "White, clean plumage covering the chest and belly.",
+    "wings": "Dark with two distinct white bars, creating a banded appearance.",
+    "tail": "Long, narrow, slightly forked with dark feathers.",
+    "beak": "Small, pointed, dark gray, suited for insect feeding.",
+    "eye_stripe": "Thin, black, running horizontally through the eye."
+  },
+  "spatial_relations": [
+    "The cerulean blue upper body transitions into white underparts.",
+    "The dark wings feature two white bars across them.",
+    "The thin black eye stripe runs horizontally through the eye."
+  ],
+  "original_dataset_key": "CUB200",
+  "original_class_key": "cerulean_warbler"
+}

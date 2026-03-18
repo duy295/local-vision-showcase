@@ -1,0 +1,27 @@
+{
+  "class_name": "human",
+  "global_description": "Upright bipedal mammal with a symmetrical body, smooth skin, diverse skin tones, hair on head, facial features including eyes, nose, mouth, and ears, limbs with hands and feet, typically clothed.",
+  "discriminative_attributes": [
+    "Upright bipedal posture",
+    "Symmetrical body",
+    "Diverse skin tones",
+    "Hair on head",
+    "Facial features"
+  ],
+  "part_details": {
+    "head": "Rounded with hair, facial features like eyes, nose, mouth, and ears",
+    "body": "Symmetrical torso with smooth skin",
+    "arms": "Two arms with hands, fingers",
+    "legs": "Two legs with feet, toes",
+    "skin": "Smooth, varies in tone"
+  },
+  "spatial_relations": [
+    "Head atop body",
+    "Arms extend from sides of torso",
+    "Legs beneath torso",
+    "Hands at ends of arms",
+    "Feet at ends of legs"
+  ],
+  "original_dataset_key": "ImageNetR",
+  "original_class_key": "human"
+}

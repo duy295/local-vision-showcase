@@ -1,0 +1,24 @@
+{
+  "class_name": "Cape Glossy Starling",
+  "global_description": "A medium-sized bird with an elongated body and a sleek, glossy plumage. Its feathers are predominantly iridescent blue-green, with a metallic sheen that shifts in color under light. The bird has a slender, pointed beak and bright yellow eyes that contrast with its dark head.",
+  "discriminative_attributes": [
+    "Iridescent blue-green plumage",
+    "Metallic sheen on feathers",
+    "Bright yellow eyes",
+    "Slender pointed beak",
+    "Dark head contrasting with body"
+  ],
+  "part_details": {
+    "plumage": "Glossy, iridescent feathers with a blue-green hue, metallic sheen.",
+    "eyes": "Bright yellow, round, contrasting with the dark head.",
+    "beak": "Slender, pointed, black, suitable for insect foraging.",
+    "head": "Dark, smooth, with a glossy finish, contrasting with the body."
+  },
+  "spatial_relations": [
+    "The slender beak protrudes from the front of the dark head.",
+    "The bright yellow eyes are set on either side of the head.",
+    "The iridescent plumage covers the entire body, creating a seamless transition from head to tail."
+  ],
+  "original_dataset_key": "CUB200",
+  "original_class_key": "cape_glossy_starling"
+}

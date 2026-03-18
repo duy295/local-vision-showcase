@@ -1,0 +1,1259 @@
+{
+  "class_name": "chair",
+  "class_idx": 20,
+  "num_images_in_class": 500,
+  "ec_size_requested": 250,
+  "ec_size_actual": 250,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\armchair_s_001554.png",
+      "mean_similarity": 0.943539023399353,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\chaise_s_002320.png",
+      "mean_similarity": 0.9434447884559631,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\armchair_s_000518.png",
+      "mean_similarity": 0.943427562713623,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\chaise_s_000502.png",
+      "mean_similarity": 0.9432981610298157,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\chair_s_002449.png",
+      "mean_similarity": 0.9432177543640137,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\armchair_s_000387.png",
+      "mean_similarity": 0.9431906938552856,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\lounge_chair_s_000777.png",
+      "mean_similarity": 0.9431833624839783,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\chair_s_002426.png",
+      "mean_similarity": 0.9431519508361816,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\lounge_chair_s_000480.png",
+      "mean_similarity": 0.9429595470428467,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\lounge_chair_s_000565.png",
+      "mean_similarity": 0.9429560899734497,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\easy_chair_s_001804.png",
+      "mean_similarity": 0.9429473280906677,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\lounge_chair_s_001209.png",
+      "mean_similarity": 0.9429101347923279,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\armchair_s_000735.png",
+      "mean_similarity": 0.9429004788398743,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\easy_chair_s_001330.png",
+      "mean_similarity": 0.9428690671920776,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\wing_chair_s_000433.png",
+      "mean_similarity": 0.9428653120994568,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\wing_chair_s_000550.png",
+      "mean_similarity": 0.942854106426239,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\easy_chair_s_000801.png",
+      "mean_similarity": 0.9428366422653198,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\chaise_s_000993.png",
+      "mean_similarity": 0.94283527135849,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\chair_s_002466.png",
+      "mean_similarity": 0.9427509903907776,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\recliner_s_001853.png",
+      "mean_similarity": 0.9426445960998535,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\armchair_s_000759.png",
+      "mean_similarity": 0.9425820112228394,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\armchair_s_001238.png",
+      "mean_similarity": 0.9425753355026245,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\chaise_s_001371.png",
+      "mean_similarity": 0.9425711035728455,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\chair_s_002600.png",
+      "mean_similarity": 0.9425528645515442,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\armchair_s_000376.png",
+      "mean_similarity": 0.9425156712532043,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\armchair_s_000141.png",
+      "mean_similarity": 0.9425076842308044,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\eames_chair_s_000276.png",
+      "mean_similarity": 0.9424425959587097,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\chair_s_002429.png",
+      "mean_similarity": 0.9424378871917725,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\chair_s_002291.png",
+      "mean_similarity": 0.9424198269844055,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\armchair_s_001247.png",
+      "mean_similarity": 0.9423732161521912,
+      "rank": 30
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\armchair_s_001849.png",
+      "mean_similarity": 0.9423158168792725,
+      "rank": 31
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\armchair_s_001539.png",
+      "mean_similarity": 0.9422652721405029,
+      "rank": 32
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\chaise_s_001448.png",
+      "mean_similarity": 0.9422196745872498,
+      "rank": 33
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\chaise_s_001863.png",
+      "mean_similarity": 0.9421597719192505,
+      "rank": 34
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\armchair_s_001023.png",
+      "mean_similarity": 0.9421565532684326,
+      "rank": 35
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\easy_chair_s_000933.png",
+      "mean_similarity": 0.9421491026878357,
+      "rank": 36
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\reclining_chair_s_001768.png",
+      "mean_similarity": 0.9421074986457825,
+      "rank": 37
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\reclining_chair_s_000537.png",
+      "mean_similarity": 0.9420972466468811,
+      "rank": 38
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\lounge_chair_s_001469.png",
+      "mean_similarity": 0.942090630531311,
+      "rank": 39
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\easy_chair_s_000263.png",
+      "mean_similarity": 0.9420591592788696,
+      "rank": 40
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\lounge_chair_s_000537.png",
+      "mean_similarity": 0.9420403242111206,
+      "rank": 41
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\easy_chair_s_001122.png",
+      "mean_similarity": 0.9420005679130554,
+      "rank": 42
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\chair_s_002512.png",
+      "mean_similarity": 0.941999614238739,
+      "rank": 43
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\wing_chair_s_000250.png",
+      "mean_similarity": 0.9419859051704407,
+      "rank": 44
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\chaise_s_000470.png",
+      "mean_similarity": 0.9419794082641602,
+      "rank": 45
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\recliner_s_001928.png",
+      "mean_similarity": 0.941978931427002,
+      "rank": 46
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\recliner_s_001557.png",
+      "mean_similarity": 0.9419754147529602,
+      "rank": 47
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\lounge_chair_s_000255.png",
+      "mean_similarity": 0.9419259428977966,
+      "rank": 48
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\armchair_s_001719.png",
+      "mean_similarity": 0.9418977499008179,
+      "rank": 49
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\reclining_chair_s_001157.png",
+      "mean_similarity": 0.9418870806694031,
+      "rank": 50
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\chaise_s_001460.png",
+      "mean_similarity": 0.9418650269508362,
+      "rank": 51
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\wing_chair_s_000424.png",
+      "mean_similarity": 0.9418559670448303,
+      "rank": 52
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\easy_chair_s_000162.png",
+      "mean_similarity": 0.9418274164199829,
+      "rank": 53
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\chaise_s_000151.png",
+      "mean_similarity": 0.9417871832847595,
+      "rank": 54
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\chaise_longue_s_000057.png",
+      "mean_similarity": 0.9417604804039001,
+      "rank": 55
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\reclining_chair_s_000908.png",
+      "mean_similarity": 0.9417280554771423,
+      "rank": 56
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\armchair_s_000142.png",
+      "mean_similarity": 0.9417265057563782,
+      "rank": 57
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\lounge_chair_s_001576.png",
+      "mean_similarity": 0.9417265057563782,
+      "rank": 58
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\easy_chair_s_001847.png",
+      "mean_similarity": 0.9416990280151367,
+      "rank": 59
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\lounge_chair_s_001522.png",
+      "mean_similarity": 0.941686749458313,
+      "rank": 60
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\lounge_chair_s_001415.png",
+      "mean_similarity": 0.941685140132904,
+      "rank": 61
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\chaise_s_000144.png",
+      "mean_similarity": 0.9416547417640686,
+      "rank": 62
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\recliner_s_001855.png",
+      "mean_similarity": 0.9416481256484985,
+      "rank": 63
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\wing_chair_s_000150.png",
+      "mean_similarity": 0.9416458010673523,
+      "rank": 64
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\recliner_s_001663.png",
+      "mean_similarity": 0.9416401386260986,
+      "rank": 65
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\armchair_s_002134.png",
+      "mean_similarity": 0.9415756464004517,
+      "rank": 66
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\chaise_s_000246.png",
+      "mean_similarity": 0.9415663480758667,
+      "rank": 67
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\armchair_s_000175.png",
+      "mean_similarity": 0.9415010809898376,
+      "rank": 68
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\reclining_chair_s_000414.png",
+      "mean_similarity": 0.9414714574813843,
+      "rank": 69
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\chaise_s_002008.png",
+      "mean_similarity": 0.9414385557174683,
+      "rank": 70
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\lounge_chair_s_000229.png",
+      "mean_similarity": 0.9414227604866028,
+      "rank": 71
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\reclining_chair_s_001474.png",
+      "mean_similarity": 0.941367506980896,
+      "rank": 72
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\easy_chair_s_000348.png",
+      "mean_similarity": 0.9413519501686096,
+      "rank": 73
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\wing_chair_s_000050.png",
+      "mean_similarity": 0.941347062587738,
+      "rank": 74
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\wing_chair_s_000100.png",
+      "mean_similarity": 0.9413437843322754,
+      "rank": 75
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\reclining_chair_s_001686.png",
+      "mean_similarity": 0.9413350820541382,
+      "rank": 76
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\armchair_s_000059.png",
+      "mean_similarity": 0.9413338899612427,
+      "rank": 77
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\lounge_chair_s_001643.png",
+      "mean_similarity": 0.9413313865661621,
+      "rank": 78
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\armchair_s_001365.png",
+      "mean_similarity": 0.9412438869476318,
+      "rank": 79
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\chaise_s_001468.png",
+      "mean_similarity": 0.9412178993225098,
+      "rank": 80
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\armchair_s_000169.png",
+      "mean_similarity": 0.9411845207214355,
+      "rank": 81
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\eames_chair_s_000410.png",
+      "mean_similarity": 0.9411716461181641,
+      "rank": 82
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\armchair_s_000434.png",
+      "mean_similarity": 0.9411634206771851,
+      "rank": 83
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\reclining_chair_s_000839.png",
+      "mean_similarity": 0.9411495327949524,
+      "rank": 84
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\lounge_chair_s_001769.png",
+      "mean_similarity": 0.9411472082138062,
+      "rank": 85
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\armchair_s_000080.png",
+      "mean_similarity": 0.9411384463310242,
+      "rank": 86
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\armchair_s_000609.png",
+      "mean_similarity": 0.9411284923553467,
+      "rank": 87
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\reclining_chair_s_000196.png",
+      "mean_similarity": 0.9411084055900574,
+      "rank": 88
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\reclining_chair_s_000374.png",
+      "mean_similarity": 0.9410890936851501,
+      "rank": 89
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\armchair_s_000145.png",
+      "mean_similarity": 0.9410301446914673,
+      "rank": 90
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\armchair_s_000146.png",
+      "mean_similarity": 0.941025972366333,
+      "rank": 91
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\reclining_chair_s_001769.png",
+      "mean_similarity": 0.9410225749015808,
+      "rank": 92
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\armchair_s_002146.png",
+      "mean_similarity": 0.9410145878791809,
+      "rank": 93
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\armchair_s_002357.png",
+      "mean_similarity": 0.941013753414154,
+      "rank": 94
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\lounge_chair_s_000951.png",
+      "mean_similarity": 0.9409846663475037,
+      "rank": 95
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\easy_chair_s_000632.png",
+      "mean_similarity": 0.9409745931625366,
+      "rank": 96
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\armchair_s_001848.png",
+      "mean_similarity": 0.9409416913986206,
+      "rank": 97
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\wing_chair_s_000559.png",
+      "mean_similarity": 0.9409371614456177,
+      "rank": 98
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\reclining_chair_s_000818.png",
+      "mean_similarity": 0.9409304857254028,
+      "rank": 99
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\chair_s_002544.png",
+      "mean_similarity": 0.9409209489822388,
+      "rank": 100
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\reclining_chair_s_000411.png",
+      "mean_similarity": 0.9408832788467407,
+      "rank": 101
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\chaise_s_001852.png",
+      "mean_similarity": 0.9408704042434692,
+      "rank": 102
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\easy_chair_s_001395.png",
+      "mean_similarity": 0.9408612251281738,
+      "rank": 103
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\wing_chair_s_000567.png",
+      "mean_similarity": 0.9408173561096191,
+      "rank": 104
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\armchair_s_002236.png",
+      "mean_similarity": 0.9408057332038879,
+      "rank": 105
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\chaise_s_001675.png",
+      "mean_similarity": 0.9408029317855835,
+      "rank": 106
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\recliner_s_001904.png",
+      "mean_similarity": 0.9407872557640076,
+      "rank": 107
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\eames_chair_s_000268.png",
+      "mean_similarity": 0.9407804608345032,
+      "rank": 108
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\reclining_chair_s_000901.png",
+      "mean_similarity": 0.9407308101654053,
+      "rank": 109
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\wing_chair_s_000220.png",
+      "mean_similarity": 0.9407135844230652,
+      "rank": 110
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\easy_chair_s_001784.png",
+      "mean_similarity": 0.9407065510749817,
+      "rank": 111
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\easy_chair_s_001355.png",
+      "mean_similarity": 0.9407061338424683,
+      "rank": 112
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\reclining_chair_s_000710.png",
+      "mean_similarity": 0.9406972527503967,
+      "rank": 113
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\wing_chair_s_000248.png",
+      "mean_similarity": 0.9406935572624207,
+      "rank": 114
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\easy_chair_s_000633.png",
+      "mean_similarity": 0.9406906962394714,
+      "rank": 115
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\overstuffed_chair_s_000330.png",
+      "mean_similarity": 0.9406846165657043,
+      "rank": 116
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\easy_chair_s_000042.png",
+      "mean_similarity": 0.9406775832176208,
+      "rank": 117
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\chaise_s_000021.png",
+      "mean_similarity": 0.9406541585922241,
+      "rank": 118
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\lounge_chair_s_001687.png",
+      "mean_similarity": 0.9406442642211914,
+      "rank": 119
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\eames_chair_s_000269.png",
+      "mean_similarity": 0.9406378865242004,
+      "rank": 120
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\armchair_s_001563.png",
+      "mean_similarity": 0.9405927658081055,
+      "rank": 121
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\chaise_s_000369.png",
+      "mean_similarity": 0.9405792951583862,
+      "rank": 122
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\chaise_s_002120.png",
+      "mean_similarity": 0.9405573010444641,
+      "rank": 123
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\easy_chair_s_000170.png",
+      "mean_similarity": 0.9405490756034851,
+      "rank": 124
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\reclining_chair_s_001740.png",
+      "mean_similarity": 0.9405427575111389,
+      "rank": 125
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\chaise_s_000598.png",
+      "mean_similarity": 0.9405394792556763,
+      "rank": 126
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\reclining_chair_s_000309.png",
+      "mean_similarity": 0.9405387043952942,
+      "rank": 127
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\armchair_s_001148.png",
+      "mean_similarity": 0.9405160546302795,
+      "rank": 128
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\chaise_s_001895.png",
+      "mean_similarity": 0.9405094385147095,
+      "rank": 129
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\chaise_s_000254.png",
+      "mean_similarity": 0.9404599666595459,
+      "rank": 130
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\easy_chair_s_001687.png",
+      "mean_similarity": 0.9404428005218506,
+      "rank": 131
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\barber_chair_s_000460.png",
+      "mean_similarity": 0.9404277205467224,
+      "rank": 132
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\reclining_chair_s_001450.png",
+      "mean_similarity": 0.9404032230377197,
+      "rank": 133
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\wing_chair_s_000472.png",
+      "mean_similarity": 0.9403848052024841,
+      "rank": 134
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\easy_chair_s_001689.png",
+      "mean_similarity": 0.9403687715530396,
+      "rank": 135
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\easy_chair_s_000401.png",
+      "mean_similarity": 0.940363883972168,
+      "rank": 136
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\easy_chair_s_000298.png",
+      "mean_similarity": 0.9402959942817688,
+      "rank": 137
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\lounge_chair_s_000169.png",
+      "mean_similarity": 0.9402785301208496,
+      "rank": 138
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\easy_chair_s_001178.png",
+      "mean_similarity": 0.9402631521224976,
+      "rank": 139
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\chaise_s_001096.png",
+      "mean_similarity": 0.9402532577514648,
+      "rank": 140
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\chaise_s_001903.png",
+      "mean_similarity": 0.9402490258216858,
+      "rank": 141
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\chaise_s_000382.png",
+      "mean_similarity": 0.9402291178703308,
+      "rank": 142
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\armchair_s_000370.png",
+      "mean_similarity": 0.9402209520339966,
+      "rank": 143
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\chaise_s_002215.png",
+      "mean_similarity": 0.9401900768280029,
+      "rank": 144
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\recliner_s_001553.png",
+      "mean_similarity": 0.9401880502700806,
+      "rank": 145
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\chair_s_002625.png",
+      "mean_similarity": 0.9401848912239075,
+      "rank": 146
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\reclining_chair_s_000895.png",
+      "mean_similarity": 0.9401785731315613,
+      "rank": 147
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\armchair_s_001162.png",
+      "mean_similarity": 0.9401668310165405,
+      "rank": 148
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\reclining_chair_s_000466.png",
+      "mean_similarity": 0.9401555061340332,
+      "rank": 149
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\armchair_s_000945.png",
+      "mean_similarity": 0.9401444792747498,
+      "rank": 150
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\armchair_s_001558.png",
+      "mean_similarity": 0.9401346445083618,
+      "rank": 151
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\armchair_s_000270.png",
+      "mean_similarity": 0.9400938153266907,
+      "rank": 152
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\armchair_s_000840.png",
+      "mean_similarity": 0.9400932192802429,
+      "rank": 153
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\armchair_s_000436.png",
+      "mean_similarity": 0.940080463886261,
+      "rank": 154
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\chaise_s_001222.png",
+      "mean_similarity": 0.9400780200958252,
+      "rank": 155
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\easy_chair_s_001567.png",
+      "mean_similarity": 0.9400278925895691,
+      "rank": 156
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\chair_s_002537.png",
+      "mean_similarity": 0.9399825930595398,
+      "rank": 157
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\eames_chair_s_000620.png",
+      "mean_similarity": 0.9399719834327698,
+      "rank": 158
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\reclining_chair_s_000586.png",
+      "mean_similarity": 0.9398993849754333,
+      "rank": 159
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\wing_chair_s_000093.png",
+      "mean_similarity": 0.9398857355117798,
+      "rank": 160
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\recliner_s_001755.png",
+      "mean_similarity": 0.9398853778839111,
+      "rank": 161
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\easy_chair_s_000620.png",
+      "mean_similarity": 0.9398618936538696,
+      "rank": 162
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\wing_chair_s_000184.png",
+      "mean_similarity": 0.9398499131202698,
+      "rank": 163
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\armchair_s_001862.png",
+      "mean_similarity": 0.9397783279418945,
+      "rank": 164
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\lounge_chair_s_001604.png",
+      "mean_similarity": 0.939760684967041,
+      "rank": 165
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\armchair_s_001337.png",
+      "mean_similarity": 0.9397525787353516,
+      "rank": 166
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\reclining_chair_s_000937.png",
+      "mean_similarity": 0.9397304654121399,
+      "rank": 167
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\armchair_s_000382.png",
+      "mean_similarity": 0.9396919012069702,
+      "rank": 168
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\chaise_s_001713.png",
+      "mean_similarity": 0.939531147480011,
+      "rank": 169
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\armchair_s_001083.png",
+      "mean_similarity": 0.9395256042480469,
+      "rank": 170
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\easy_chair_s_001318.png",
+      "mean_similarity": 0.9395059943199158,
+      "rank": 171
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\chaise_s_001187.png",
+      "mean_similarity": 0.9394928216934204,
+      "rank": 172
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\eames_chair_s_000528.png",
+      "mean_similarity": 0.9394828081130981,
+      "rank": 173
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\recliner_s_001462.png",
+      "mean_similarity": 0.9394684433937073,
+      "rank": 174
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\chaise_s_001803.png",
+      "mean_similarity": 0.939419150352478,
+      "rank": 175
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\wing_chair_s_000560.png",
+      "mean_similarity": 0.9393944144248962,
+      "rank": 176
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\armchair_s_001353.png",
+      "mean_similarity": 0.9393662214279175,
+      "rank": 177
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\reclining_chair_s_000213.png",
+      "mean_similarity": 0.9393532872200012,
+      "rank": 178
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\lounge_chair_s_000482.png",
+      "mean_similarity": 0.9393521547317505,
+      "rank": 179
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\armchair_s_000265.png",
+      "mean_similarity": 0.939329206943512,
+      "rank": 180
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\reclining_chair_s_001336.png",
+      "mean_similarity": 0.9393254518508911,
+      "rank": 181
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\armchair_s_001354.png",
+      "mean_similarity": 0.9393240213394165,
+      "rank": 182
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\wing_chair_s_000592.png",
+      "mean_similarity": 0.9392859935760498,
+      "rank": 183
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\chaise_s_000849.png",
+      "mean_similarity": 0.9392634630203247,
+      "rank": 184
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\chaise_s_001861.png",
+      "mean_similarity": 0.9392628073692322,
+      "rank": 185
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\recliner_s_001546.png",
+      "mean_similarity": 0.939201831817627,
+      "rank": 186
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\easy_chair_s_000687.png",
+      "mean_similarity": 0.9391771554946899,
+      "rank": 187
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\wing_chair_s_000565.png",
+      "mean_similarity": 0.9391332268714905,
+      "rank": 188
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\reclining_chair_s_000678.png",
+      "mean_similarity": 0.9391231536865234,
+      "rank": 189
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\armchair_s_000642.png",
+      "mean_similarity": 0.939121425151825,
+      "rank": 190
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\chair_s_002602.png",
+      "mean_similarity": 0.9391040205955505,
+      "rank": 191
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\overstuffed_chair_s_000623.png",
+      "mean_similarity": 0.9390908479690552,
+      "rank": 192
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\lounge_chair_s_000949.png",
+      "mean_similarity": 0.9390676021575928,
+      "rank": 193
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\armchair_s_000870.png",
+      "mean_similarity": 0.9390600323677063,
+      "rank": 194
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\armchair_s_000587.png",
+      "mean_similarity": 0.9390565752983093,
+      "rank": 195
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\lounge_chair_s_000300.png",
+      "mean_similarity": 0.93905109167099,
+      "rank": 196
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\chaise_s_000152.png",
+      "mean_similarity": 0.9390445947647095,
+      "rank": 197
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\armchair_s_000786.png",
+      "mean_similarity": 0.9390250444412231,
+      "rank": 198
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\easy_chair_s_000072.png",
+      "mean_similarity": 0.9390063285827637,
+      "rank": 199
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\eames_chair_s_000197.png",
+      "mean_similarity": 0.9389797449111938,
+      "rank": 200
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\chaise_s_000155.png",
+      "mean_similarity": 0.9389657378196716,
+      "rank": 201
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\easy_chair_s_001036.png",
+      "mean_similarity": 0.938960075378418,
+      "rank": 202
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\chaise_s_000756.png",
+      "mean_similarity": 0.9389516711235046,
+      "rank": 203
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\armchair_s_002261.png",
+      "mean_similarity": 0.9389023780822754,
+      "rank": 204
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\reclining_chair_s_001211.png",
+      "mean_similarity": 0.9388967156410217,
+      "rank": 205
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\armchair_s_001832.png",
+      "mean_similarity": 0.9388821125030518,
+      "rank": 206
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\armchair_s_001149.png",
+      "mean_similarity": 0.9388809204101562,
+      "rank": 207
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\easy_chair_s_000104.png",
+      "mean_similarity": 0.9388784766197205,
+      "rank": 208
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\reclining_chair_s_000105.png",
+      "mean_similarity": 0.938863217830658,
+      "rank": 209
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\armchair_s_002373.png",
+      "mean_similarity": 0.9388408660888672,
+      "rank": 210
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\barber_chair_s_000470.png",
+      "mean_similarity": 0.9388341903686523,
+      "rank": 211
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\armchair_s_001619.png",
+      "mean_similarity": 0.9388052225112915,
+      "rank": 212
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\wing_chair_s_000398.png",
+      "mean_similarity": 0.9388041496276855,
+      "rank": 213
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\wing_chair_s_000259.png",
+      "mean_similarity": 0.9387848377227783,
+      "rank": 214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\reclining_chair_s_000639.png",
+      "mean_similarity": 0.9387693405151367,
+      "rank": 215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\eames_chair_s_000063.png",
+      "mean_similarity": 0.938757061958313,
+      "rank": 216
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\eames_chair_s_000070.png",
+      "mean_similarity": 0.9387509822845459,
+      "rank": 217
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\easy_chair_s_001533.png",
+      "mean_similarity": 0.9387372136116028,
+      "rank": 218
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\reclining_chair_s_000065.png",
+      "mean_similarity": 0.9386918544769287,
+      "rank": 219
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\wing_chair_s_000491.png",
+      "mean_similarity": 0.9386873245239258,
+      "rank": 220
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\reclining_chair_s_001125.png",
+      "mean_similarity": 0.9386749863624573,
+      "rank": 221
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\easy_chair_s_000271.png",
+      "mean_similarity": 0.9386666417121887,
+      "rank": 222
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\reclining_chair_s_001813.png",
+      "mean_similarity": 0.9386666417121887,
+      "rank": 223
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\reclining_chair_s_000679.png",
+      "mean_similarity": 0.9386609792709351,
+      "rank": 224
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\reclining_chair_s_001407.png",
+      "mean_similarity": 0.93863445520401,
+      "rank": 225
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\armchair_s_000163.png",
+      "mean_similarity": 0.9386141896247864,
+      "rank": 226
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\lounge_chair_s_000624.png",
+      "mean_similarity": 0.9385969042778015,
+      "rank": 227
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\armchair_s_000617.png",
+      "mean_similarity": 0.9385709762573242,
+      "rank": 228
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\easy_chair_s_001199.png",
+      "mean_similarity": 0.9385298490524292,
+      "rank": 229
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\reclining_chair_s_001121.png",
+      "mean_similarity": 0.9385272264480591,
+      "rank": 230
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\armchair_s_000004.png",
+      "mean_similarity": 0.9385250210762024,
+      "rank": 231
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\easy_chair_s_001518.png",
+      "mean_similarity": 0.9385202527046204,
+      "rank": 232
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\armchair_s_002037.png",
+      "mean_similarity": 0.938514769077301,
+      "rank": 233
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\armchair_s_002428.png",
+      "mean_similarity": 0.9384933710098267,
+      "rank": 234
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\armchair_s_000632.png",
+      "mean_similarity": 0.9384730458259583,
+      "rank": 235
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\wing_chair_s_000381.png",
+      "mean_similarity": 0.9384304881095886,
+      "rank": 236
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\chaise_s_002248.png",
+      "mean_similarity": 0.9384250044822693,
+      "rank": 237
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\overstuffed_chair_s_000542.png",
+      "mean_similarity": 0.9384135007858276,
+      "rank": 238
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\armchair_s_001025.png",
+      "mean_similarity": 0.9383858442306519,
+      "rank": 239
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\chair_s_002541.png",
+      "mean_similarity": 0.9383729696273804,
+      "rank": 240
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\recliner_s_001674.png",
+      "mean_similarity": 0.9383416771888733,
+      "rank": 241
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\lounge_chair_s_001124.png",
+      "mean_similarity": 0.9383053779602051,
+      "rank": 242
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\recliner_s_001657.png",
+      "mean_similarity": 0.9382914304733276,
+      "rank": 243
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\easy_chair_s_001610.png",
+      "mean_similarity": 0.9382619261741638,
+      "rank": 244
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\eames_chair_s_000242.png",
+      "mean_similarity": 0.9382518529891968,
+      "rank": 245
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\reclining_chair_s_000142.png",
+      "mean_similarity": 0.938247561454773,
+      "rank": 246
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\wing_chair_s_000470.png",
+      "mean_similarity": 0.9382268190383911,
+      "rank": 247
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\eames_chair_s_000006.png",
+      "mean_similarity": 0.9382189512252808,
+      "rank": 248
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\wing_chair_s_000354.png",
+      "mean_similarity": 0.9382094740867615,
+      "rank": 249
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\021.chair\\reclining_chair_s_001799.png",
+      "mean_similarity": 0.9381700158119202,
+      "rank": 250
+    }
+  ]
+}

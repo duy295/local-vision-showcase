@@ -1,0 +1,25 @@
+{
+  "class_name": "Bird",
+  "global_description": "A small, plump songbird with a distinctive black and white plumage. The male features a black head and back with a white nape and shoulders, while the underparts are buff. The wings are black with white patches, and the tail is short and pointed.",
+  "discriminative_attributes": [
+    "Black head and back",
+    "White nape and shoulders",
+    "Buff underparts",
+    "Black wings with white patches",
+    "Short pointed tail"
+  ],
+  "part_details": {
+    "head": "Black with a white nape",
+    "back": "Black",
+    "wings": "Black with white patches",
+    "underparts": "Buff",
+    "tail": "Short and pointed"
+  },
+  "spatial_relations": [
+    "The black head transitions to a white nape",
+    "The black wings have white patches",
+    "The buff underparts contrast with the black back"
+  ],
+  "original_dataset_key": "CUB200",
+  "original_class_key": "bobolink"
+}

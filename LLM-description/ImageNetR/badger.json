@@ -1,0 +1,26 @@
+{
+  "class_name": "badger",
+  "global_description": "Medium-sized mammal with a stocky, elongated body, short legs, and a distinctive black and white striped face. The fur is coarse and predominantly gray with a lighter underside. The claws are long and sharp, adapted for digging.",
+  "discriminative_attributes": [
+    "Black and white striped face",
+    "Stocky, elongated body",
+    "Short legs",
+    "Coarse gray fur",
+    "Long, sharp claws"
+  ],
+  "part_details": {
+    "head": "Broad with black and white stripes",
+    "body": "Stocky, elongated with coarse gray fur",
+    "legs": "Short and sturdy",
+    "claws": "Long, sharp, adapted for digging",
+    "fur": "Coarse, predominantly gray"
+  },
+  "spatial_relations": [
+    "Head at front with stripes running lengthwise",
+    "Legs beneath body",
+    "Claws at end of legs",
+    "Fur covering entire body"
+  ],
+  "original_dataset_key": "ImageNetR",
+  "original_class_key": "badger"
+}

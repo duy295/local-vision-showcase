@@ -1,0 +1,25 @@
+{
+  "class_name": "Black Throated Sparrow",
+  "global_description": "A small, sleek bird with a compact body and a distinctive black throat patch. Its plumage is primarily gray with white underparts and a striking black and white facial pattern. The wings and tail are dark with subtle white edging, and it has a short, conical beak.",
+  "discriminative_attributes": [
+    "Black throat patch",
+    "Gray plumage with white underparts",
+    "Black and white facial pattern",
+    "Dark wings with white edging",
+    "Short conical beak"
+  ],
+  "part_details": {
+    "throat": "Distinctive black patch, contrasting with lighter body colors.",
+    "plumage": "Gray on the back and wings, white on the underparts, smooth texture.",
+    "face": "Black and white pattern, with a bold black stripe through the eye.",
+    "wings": "Dark gray with subtle white edging, streamlined shape.",
+    "beak": "Short, conical, adapted for seed eating."
+  },
+  "spatial_relations": [
+    "The black throat patch is centrally located on the chest.",
+    "The black and white facial pattern frames the eyes and beak.",
+    "The wings are attached to the sides of the body, extending backwards."
+  ],
+  "original_dataset_key": "CUB200",
+  "original_class_key": "black_throated_sparrow"
+}

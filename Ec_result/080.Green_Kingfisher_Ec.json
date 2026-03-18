@@ -1,0 +1,159 @@
+{
+  "class_name": "080.Green_Kingfisher",
+  "class_idx": 79,
+  "num_images_in_class": 30,
+  "ec_size_requested": 30,
+  "ec_size_actual": 30,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\080.Green_Kingfisher\\Green_Kingfisher_0022_71223.jpg",
+      "mean_similarity": 0.9442354440689087,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\080.Green_Kingfisher\\Green_Kingfisher_0062_70985.jpg",
+      "mean_similarity": 0.9440106153488159,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\080.Green_Kingfisher\\Green_Kingfisher_0042_71028.jpg",
+      "mean_similarity": 0.9436703324317932,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\080.Green_Kingfisher\\Green_Kingfisher_0067_71093.jpg",
+      "mean_similarity": 0.9435446858406067,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\080.Green_Kingfisher\\Green_Kingfisher_0032_71050.jpg",
+      "mean_similarity": 0.9432976245880127,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\080.Green_Kingfisher\\Green_Kingfisher_0020_71155.jpg",
+      "mean_similarity": 0.9428706169128418,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\080.Green_Kingfisher\\Green_Kingfisher_0016_71198.jpg",
+      "mean_similarity": 0.9420501589775085,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\080.Green_Kingfisher\\Green_Kingfisher_0031_71229.jpg",
+      "mean_similarity": 0.9416553974151611,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\080.Green_Kingfisher\\Green_Kingfisher_0027_71048.jpg",
+      "mean_similarity": 0.9411013126373291,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\080.Green_Kingfisher\\Green_Kingfisher_0011_71183.jpg",
+      "mean_similarity": 0.9407560229301453,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\080.Green_Kingfisher\\Green_Kingfisher_0091_71248.jpg",
+      "mean_similarity": 0.9397409558296204,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\080.Green_Kingfisher\\Green_Kingfisher_0081_70953.jpg",
+      "mean_similarity": 0.9396668076515198,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\080.Green_Kingfisher\\Green_Kingfisher_0004_71076.jpg",
+      "mean_similarity": 0.9395799040794373,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\080.Green_Kingfisher\\Green_Kingfisher_0059_71119.jpg",
+      "mean_similarity": 0.939465343952179,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\080.Green_Kingfisher\\Green_Kingfisher_0010_71191.jpg",
+      "mean_similarity": 0.9393485188484192,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\080.Green_Kingfisher\\Green_Kingfisher_0094_71112.jpg",
+      "mean_similarity": 0.939152181148529,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\080.Green_Kingfisher\\Green_Kingfisher_0096_71080.jpg",
+      "mean_similarity": 0.9387537837028503,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\080.Green_Kingfisher\\Green_Kingfisher_0097_71102.jpg",
+      "mean_similarity": 0.9386715292930603,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\080.Green_Kingfisher\\Green_Kingfisher_0005_71352.jpg",
+      "mean_similarity": 0.9378909468650818,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\080.Green_Kingfisher\\Green_Kingfisher_0071_71255.jpg",
+      "mean_similarity": 0.9376192092895508,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\080.Green_Kingfisher\\Green_Kingfisher_0066_71200.jpg",
+      "mean_similarity": 0.9375272989273071,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\080.Green_Kingfisher\\Green_Kingfisher_0058_70998.jpg",
+      "mean_similarity": 0.9361486434936523,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\080.Green_Kingfisher\\Green_Kingfisher_0069_71053.jpg",
+      "mean_similarity": 0.9351445436477661,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\080.Green_Kingfisher\\Green_Kingfisher_0065_71132.jpg",
+      "mean_similarity": 0.9340713024139404,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\080.Green_Kingfisher\\Green_Kingfisher_0056_70972.jpg",
+      "mean_similarity": 0.9334330558776855,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\080.Green_Kingfisher\\Green_Kingfisher_0063_71345.jpg",
+      "mean_similarity": 0.9328926205635071,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\080.Green_Kingfisher\\Green_Kingfisher_0037_71113.jpg",
+      "mean_similarity": 0.9298465251922607,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\080.Green_Kingfisher\\Green_Kingfisher_0048_71164.jpg",
+      "mean_similarity": 0.9287815690040588,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\080.Green_Kingfisher\\Green_Kingfisher_0018_71189.jpg",
+      "mean_similarity": 0.9274235367774963,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\080.Green_Kingfisher\\Green_Kingfisher_0099_70942.jpg",
+      "mean_similarity": 0.9215019345283508,
+      "rank": 30
+    }
+  ]
+}

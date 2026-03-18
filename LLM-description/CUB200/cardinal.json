@@ -1,0 +1,25 @@
+{
+  "class_name": "Cardinal",
+  "global_description": "A small, robust songbird with a distinctive crest and a stout, conical beak. The male is vibrant red with a black mask around the face, while the female is pale brown with reddish tinges. Both have a smooth, glossy plumage and a medium-length tail.",
+  "discriminative_attributes": [
+    "Vibrant red plumage (male)",
+    "Black facial mask (male)",
+    "Pale brown with reddish tinges (female)",
+    "Distinctive crest on head",
+    "Stout, conical orange beak"
+  ],
+  "part_details": {
+    "crest": "Prominent, pointed, and upright, matching body color.",
+    "beak": "Short, thick, conical, and bright orange.",
+    "plumage": "Smooth and glossy, red in males, brown with red tinges in females.",
+    "tail": "Medium-length, slightly rounded, matching body color.",
+    "mask": "Black area around the face, prominent in males."
+  },
+  "spatial_relations": [
+    "The crest is positioned atop the head.",
+    "The black mask surrounds the beak and eyes.",
+    "The tail extends from the rear of the body."
+  ],
+  "original_dataset_key": "CUB200",
+  "original_class_key": "cardinal"
+}

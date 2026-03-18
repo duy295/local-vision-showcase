@@ -1,0 +1,25 @@
+{
+  "class_name": "chair",
+  "global_description": "A piece of furniture with a flat seat, typically supported by four legs, and a backrest. Often made of wood, metal, or plastic, with a variety of colors and finishes. The seat may be cushioned or hard, and the backrest can be straight or curved.",
+  "discriminative_attributes": [
+    "Flat seat",
+    "Four legs",
+    "Backrest",
+    "Wood, metal, or plastic",
+    "Variety of colors"
+  ],
+  "part_details": {
+    "seat": "Flat, sometimes cushioned, available in various materials",
+    "legs": "Four, straight or slightly angled, supporting the seat",
+    "backrest": "Attached to the seat, can be straight or curved",
+    "material": "Wood, metal, or plastic, sometimes with fabric or leather",
+    "color": "Variety, often neutral or natural tones"
+  },
+  "spatial_relations": [
+    "Seat supported by legs",
+    "Backrest attached to rear of seat",
+    "Legs positioned at corners of seat"
+  ],
+  "original_dataset_key": "cifar100",
+  "original_class_key": "chair"
+}

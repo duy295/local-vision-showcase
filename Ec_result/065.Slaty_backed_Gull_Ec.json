@@ -1,0 +1,159 @@
+{
+  "class_name": "065.Slaty_backed_Gull",
+  "class_idx": 64,
+  "num_images_in_class": 30,
+  "ec_size_requested": 30,
+  "ec_size_actual": 30,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\065.Slaty_backed_Gull\\Slaty_Backed_Gull_0053_796051.jpg",
+      "mean_similarity": 0.9472559690475464,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\065.Slaty_backed_Gull\\Slaty_Backed_Gull_0077_796017.jpg",
+      "mean_similarity": 0.9465430378913879,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\065.Slaty_backed_Gull\\Slaty_Backed_Gull_0032_796046.jpg",
+      "mean_similarity": 0.9463556408882141,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\065.Slaty_backed_Gull\\Slaty_Backed_Gull_0058_796024.jpg",
+      "mean_similarity": 0.9456950426101685,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\065.Slaty_backed_Gull\\Slaty_Backed_Gull_0030_796003.jpg",
+      "mean_similarity": 0.9456153512001038,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\065.Slaty_backed_Gull\\Slaty_Backed_Gull_0031_796029.jpg",
+      "mean_similarity": 0.944535493850708,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\065.Slaty_backed_Gull\\Slaty_Backed_Gull_0071_796037.jpg",
+      "mean_similarity": 0.944214940071106,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\065.Slaty_backed_Gull\\Slaty_Backed_Gull_0025_796047.jpg",
+      "mean_similarity": 0.9441660642623901,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\065.Slaty_backed_Gull\\Slaty_Backed_Gull_0060_796052.jpg",
+      "mean_similarity": 0.9438546299934387,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\065.Slaty_backed_Gull\\Slaty_Backed_Gull_0038_796044.jpg",
+      "mean_similarity": 0.9437608122825623,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\065.Slaty_backed_Gull\\Slaty_Backed_Gull_0072_53314.jpg",
+      "mean_similarity": 0.9436091780662537,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\065.Slaty_backed_Gull\\Slaty_Backed_Gull_0026_53245.jpg",
+      "mean_similarity": 0.9432142376899719,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\065.Slaty_backed_Gull\\Slaty_Backed_Gull_0043_796009.jpg",
+      "mean_similarity": 0.9427741169929504,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\065.Slaty_backed_Gull\\Slaty_Backed_Gull_0087_786374.jpg",
+      "mean_similarity": 0.9415923953056335,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\065.Slaty_backed_Gull\\Slaty_Backed_Gull_0086_786387.jpg",
+      "mean_similarity": 0.9413662552833557,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\065.Slaty_backed_Gull\\Slaty_Backed_Gull_0046_796035.jpg",
+      "mean_similarity": 0.9409921765327454,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\065.Slaty_backed_Gull\\Slaty_Backed_Gull_0045_796025.jpg",
+      "mean_similarity": 0.940460741519928,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\065.Slaty_backed_Gull\\Slaty_Backed_Gull_0002_53238.jpg",
+      "mean_similarity": 0.9404343962669373,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\065.Slaty_backed_Gull\\Slaty_Backed_Gull_0021_796008.jpg",
+      "mean_similarity": 0.9396781921386719,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\065.Slaty_backed_Gull\\Slaty_Backed_Gull_0029_45047.jpg",
+      "mean_similarity": 0.9394711256027222,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\065.Slaty_backed_Gull\\Slaty_Backed_Gull_0051_796031.jpg",
+      "mean_similarity": 0.9391145706176758,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\065.Slaty_backed_Gull\\Slaty_Backed_Gull_0020_796012.jpg",
+      "mean_similarity": 0.937701404094696,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\065.Slaty_backed_Gull\\Slaty_Backed_Gull_0068_53206.jpg",
+      "mean_similarity": 0.9376016855239868,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\065.Slaty_backed_Gull\\Slaty_Backed_Gull_0049_53318.jpg",
+      "mean_similarity": 0.9362953901290894,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\065.Slaty_backed_Gull\\Slaty_Backed_Gull_0076_796005.jpg",
+      "mean_similarity": 0.9356148838996887,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\065.Slaty_backed_Gull\\Slaty_Backed_Gull_0006_796014.jpg",
+      "mean_similarity": 0.932312548160553,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\065.Slaty_backed_Gull\\Slaty_Backed_Gull_0033_796023.jpg",
+      "mean_similarity": 0.9315690398216248,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\065.Slaty_backed_Gull\\Slaty_Backed_Gull_0081_53264.jpg",
+      "mean_similarity": 0.9283341765403748,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\065.Slaty_backed_Gull\\Slaty_Backed_Gull_0084_786383.jpg",
+      "mean_similarity": 0.9245659112930298,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\065.Slaty_backed_Gull\\Slaty_Backed_Gull_0056_796013.jpg",
+      "mean_similarity": 0.9237257838249207,
+      "rank": 30
+    }
+  ]
+}

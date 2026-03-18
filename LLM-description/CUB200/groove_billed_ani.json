@@ -1,0 +1,24 @@
+{
+  "class_name": "Bird",
+  "global_description": "A medium-sized bird with a slender, elongated body and a distinctive groove-billed beak. It has glossy black plumage with a slightly iridescent sheen. The wings are long and rounded, and the tail is long and graduated.",
+  "discriminative_attributes": [
+    "Groove-billed beak",
+    "Glossy black plumage",
+    "Long rounded wings",
+    "Long graduated tail",
+    "Slight iridescent sheen"
+  ],
+  "part_details": {
+    "beak": "Short, thick, black with visible grooves along the upper mandible.",
+    "plumage": "Glossy black with a subtle iridescent sheen, smooth texture.",
+    "wings": "Long, rounded, black with a glossy finish.",
+    "tail": "Long, graduated, black with a slight sheen."
+  },
+  "spatial_relations": [
+    "The groove-billed beak is positioned at the front of the head.",
+    "The long wings extend from the sides of the body.",
+    "The long tail extends from the rear of the body."
+  ],
+  "original_dataset_key": "CUB200",
+  "original_class_key": "groove_billed_ani"
+}

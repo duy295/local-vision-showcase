@@ -1,0 +1,24 @@
+{
+  "class_name": "can",
+  "global_description": "A cylindrical container typically made of metal, with a smooth, shiny surface. It often features a pull-tab on the top for opening. The body is usually uniform in color, often silver or with printed labels, and the base is flat to allow it to stand upright.",
+  "discriminative_attributes": [
+    "Cylindrical shape",
+    "Metallic surface",
+    "Pull-tab on top",
+    "Flat base",
+    "Printed labels"
+  ],
+  "part_details": {
+    "body": "Cylindrical, metallic, often silver or with printed labels",
+    "top": "Flat with a pull-tab for opening",
+    "base": "Flat to allow upright standing",
+    "surface": "Smooth and shiny"
+  },
+  "spatial_relations": [
+    "Top is flat with pull-tab",
+    "Base is flat for stability",
+    "Body is cylindrical and smooth"
+  ],
+  "original_dataset_key": "cifar100",
+  "original_class_key": "can"
+}

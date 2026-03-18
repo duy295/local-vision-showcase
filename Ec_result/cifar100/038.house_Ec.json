@@ -1,0 +1,1259 @@
+{
+  "class_name": "house",
+  "class_idx": 37,
+  "num_images_in_class": 500,
+  "ec_size_requested": 250,
+  "ec_size_actual": 250,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\boardinghouse_s_000924.png",
+      "mean_similarity": 0.9477446675300598,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\boarding_house_s_002006.png",
+      "mean_similarity": 0.9476319551467896,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\bungalow_s_000095.png",
+      "mean_similarity": 0.9475102424621582,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\boarding_house_s_002007.png",
+      "mean_similarity": 0.9474897384643555,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\bungalow_s_000365.png",
+      "mean_similarity": 0.9474462866783142,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\house_s_000407.png",
+      "mean_similarity": 0.947411835193634,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\boarding_house_s_000903.png",
+      "mean_similarity": 0.9473702907562256,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\boardinghouse_s_000065.png",
+      "mean_similarity": 0.9473684430122375,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\bungalow_s_000424.png",
+      "mean_similarity": 0.9473230838775635,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\bungalow_s_000376.png",
+      "mean_similarity": 0.947298526763916,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\house_s_000049.png",
+      "mean_similarity": 0.9472809433937073,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\bungalow_s_000496.png",
+      "mean_similarity": 0.947126567363739,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\house_s_001010.png",
+      "mean_similarity": 0.9471260905265808,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\boarding_house_s_000803.png",
+      "mean_similarity": 0.9471220374107361,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\boarding_house_s_000627.png",
+      "mean_similarity": 0.9471096992492676,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\house_s_000596.png",
+      "mean_similarity": 0.9470646977424622,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\boarding_house_s_001230.png",
+      "mean_similarity": 0.947040855884552,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\house_s_000036.png",
+      "mean_similarity": 0.9470211267471313,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\house_s_000656.png",
+      "mean_similarity": 0.9470179677009583,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\bungalow_s_000298.png",
+      "mean_similarity": 0.9470006227493286,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\house_s_000716.png",
+      "mean_similarity": 0.9469680786132812,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\house_s_000022.png",
+      "mean_similarity": 0.9469380974769592,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\boarding_house_s_001991.png",
+      "mean_similarity": 0.9469195008277893,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\house_s_001276.png",
+      "mean_similarity": 0.9469128847122192,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\boardinghouse_s_000014.png",
+      "mean_similarity": 0.9469121694564819,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\house_s_000797.png",
+      "mean_similarity": 0.9468743801116943,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\house_s_000212.png",
+      "mean_similarity": 0.9468700885772705,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\house_s_001112.png",
+      "mean_similarity": 0.9468528032302856,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\house_s_000045.png",
+      "mean_similarity": 0.9468117952346802,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\house_s_001209.png",
+      "mean_similarity": 0.9467923045158386,
+      "rank": 30
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\boarding_house_s_000831.png",
+      "mean_similarity": 0.9467812776565552,
+      "rank": 31
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\house_s_000585.png",
+      "mean_similarity": 0.9467625617980957,
+      "rank": 32
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\boarding_house_s_001228.png",
+      "mean_similarity": 0.9467417597770691,
+      "rank": 33
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\bungalow_s_000578.png",
+      "mean_similarity": 0.9467279314994812,
+      "rank": 34
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\boarding_house_s_001420.png",
+      "mean_similarity": 0.9467110633850098,
+      "rank": 35
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\boarding_house_s_001212.png",
+      "mean_similarity": 0.9467066526412964,
+      "rank": 36
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\house_s_001261.png",
+      "mean_similarity": 0.9466966390609741,
+      "rank": 37
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\bungalow_s_000233.png",
+      "mean_similarity": 0.9466840028762817,
+      "rank": 38
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\boarding_house_s_001601.png",
+      "mean_similarity": 0.9466731548309326,
+      "rank": 39
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\bungalow_s_000554.png",
+      "mean_similarity": 0.9466330409049988,
+      "rank": 40
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\house_s_000244.png",
+      "mean_similarity": 0.9466092586517334,
+      "rank": 41
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\boardinghouse_s_001591.png",
+      "mean_similarity": 0.9466038942337036,
+      "rank": 42
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\house_s_000749.png",
+      "mean_similarity": 0.9466022253036499,
+      "rank": 43
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\house_s_000531.png",
+      "mean_similarity": 0.9465964436531067,
+      "rank": 44
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\bungalow_s_000332.png",
+      "mean_similarity": 0.9465842247009277,
+      "rank": 45
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\house_s_000187.png",
+      "mean_similarity": 0.9465419054031372,
+      "rank": 46
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\bungalow_s_000055.png",
+      "mean_similarity": 0.9465417861938477,
+      "rank": 47
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\bungalow_s_000264.png",
+      "mean_similarity": 0.9465395212173462,
+      "rank": 48
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\house_s_000143.png",
+      "mean_similarity": 0.9465329647064209,
+      "rank": 49
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\bungalow_s_000347.png",
+      "mean_similarity": 0.9465304613113403,
+      "rank": 50
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\boardinghouse_s_000543.png",
+      "mean_similarity": 0.9465250372886658,
+      "rank": 51
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\house_s_000439.png",
+      "mean_similarity": 0.9464865922927856,
+      "rank": 52
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\boarding_house_s_000686.png",
+      "mean_similarity": 0.9464523792266846,
+      "rank": 53
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\boarding_house_s_001297.png",
+      "mean_similarity": 0.946448802947998,
+      "rank": 54
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\house_s_000504.png",
+      "mean_similarity": 0.9464473724365234,
+      "rank": 55
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\boarding_house_s_000935.png",
+      "mean_similarity": 0.9464359879493713,
+      "rank": 56
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\house_s_000236.png",
+      "mean_similarity": 0.9464339017868042,
+      "rank": 57
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\boarding_house_s_000801.png",
+      "mean_similarity": 0.9464324712753296,
+      "rank": 58
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\boarding_house_s_001784.png",
+      "mean_similarity": 0.946428120136261,
+      "rank": 59
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\boarding_house_s_000684.png",
+      "mean_similarity": 0.9464273452758789,
+      "rank": 60
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\bungalow_s_000038.png",
+      "mean_similarity": 0.9464153051376343,
+      "rank": 61
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\house_s_000772.png",
+      "mean_similarity": 0.9464020729064941,
+      "rank": 62
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\boardinghouse_s_001459.png",
+      "mean_similarity": 0.9463780522346497,
+      "rank": 63
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\boardinghouse_s_001615.png",
+      "mean_similarity": 0.9463775157928467,
+      "rank": 64
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\house_s_001395.png",
+      "mean_similarity": 0.9463617205619812,
+      "rank": 65
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\house_s_000612.png",
+      "mean_similarity": 0.9463598728179932,
+      "rank": 66
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\house_s_001110.png",
+      "mean_similarity": 0.9463586807250977,
+      "rank": 67
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\house_s_001091.png",
+      "mean_similarity": 0.9463547468185425,
+      "rank": 68
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\bungalow_s_000040.png",
+      "mean_similarity": 0.9463261365890503,
+      "rank": 69
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\boarding_house_s_001937.png",
+      "mean_similarity": 0.9463217854499817,
+      "rank": 70
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\bungalow_s_000343.png",
+      "mean_similarity": 0.9463207721710205,
+      "rank": 71
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\boarding_house_s_001959.png",
+      "mean_similarity": 0.9462957978248596,
+      "rank": 72
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\house_s_001090.png",
+      "mean_similarity": 0.9462896585464478,
+      "rank": 73
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\house_s_000697.png",
+      "mean_similarity": 0.9462877511978149,
+      "rank": 74
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\house_s_001369.png",
+      "mean_similarity": 0.9462586045265198,
+      "rank": 75
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\house_s_000005.png",
+      "mean_similarity": 0.9462411999702454,
+      "rank": 76
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\boarding_house_s_001531.png",
+      "mean_similarity": 0.9462324380874634,
+      "rank": 77
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\boarding_house_s_001886.png",
+      "mean_similarity": 0.9462228417396545,
+      "rank": 78
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\house_s_000029.png",
+      "mean_similarity": 0.9462156295776367,
+      "rank": 79
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\house_s_000704.png",
+      "mean_similarity": 0.9462120532989502,
+      "rank": 80
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\boardinghouse_s_000117.png",
+      "mean_similarity": 0.9462038278579712,
+      "rank": 81
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\house_s_000594.png",
+      "mean_similarity": 0.9461864233016968,
+      "rank": 82
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\boarding_house_s_001578.png",
+      "mean_similarity": 0.9461811780929565,
+      "rank": 83
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\bungalow_s_000401.png",
+      "mean_similarity": 0.946163535118103,
+      "rank": 84
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\boarding_house_s_002012.png",
+      "mean_similarity": 0.9461508393287659,
+      "rank": 85
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\house_s_000628.png",
+      "mean_similarity": 0.946142315864563,
+      "rank": 86
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\boardinghouse_s_001328.png",
+      "mean_similarity": 0.9461369514465332,
+      "rank": 87
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\boardinghouse_s_000158.png",
+      "mean_similarity": 0.9461109638214111,
+      "rank": 88
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\boarding_house_s_001551.png",
+      "mean_similarity": 0.9461073279380798,
+      "rank": 89
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\boardinghouse_s_001348.png",
+      "mean_similarity": 0.9460836052894592,
+      "rank": 90
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\boarding_house_s_000892.png",
+      "mean_similarity": 0.9460721611976624,
+      "rank": 91
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\boarding_house_s_001918.png",
+      "mean_similarity": 0.9460690021514893,
+      "rank": 92
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\boarding_house_s_001669.png",
+      "mean_similarity": 0.9460657238960266,
+      "rank": 93
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\house_s_000813.png",
+      "mean_similarity": 0.9460516571998596,
+      "rank": 94
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\boarding_house_s_000653.png",
+      "mean_similarity": 0.9460304975509644,
+      "rank": 95
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\boardinghouse_s_000710.png",
+      "mean_similarity": 0.9460282921791077,
+      "rank": 96
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\bungalow_s_000324.png",
+      "mean_similarity": 0.9460249543190002,
+      "rank": 97
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\house_s_000485.png",
+      "mean_similarity": 0.9459827542304993,
+      "rank": 98
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\boarding_house_s_001872.png",
+      "mean_similarity": 0.945963978767395,
+      "rank": 99
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\boardinghouse_s_001470.png",
+      "mean_similarity": 0.9459615349769592,
+      "rank": 100
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\boarding_house_s_001292.png",
+      "mean_similarity": 0.9459584355354309,
+      "rank": 101
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\house_s_000026.png",
+      "mean_similarity": 0.9459409117698669,
+      "rank": 102
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\boardinghouse_s_000534.png",
+      "mean_similarity": 0.9459380507469177,
+      "rank": 103
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\house_s_001067.png",
+      "mean_similarity": 0.9459339380264282,
+      "rank": 104
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\boarding_house_s_001537.png",
+      "mean_similarity": 0.945928692817688,
+      "rank": 105
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\boarding_house_s_001831.png",
+      "mean_similarity": 0.9459213018417358,
+      "rank": 106
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\boardinghouse_s_000786.png",
+      "mean_similarity": 0.9459109306335449,
+      "rank": 107
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\house_s_001201.png",
+      "mean_similarity": 0.9458528757095337,
+      "rank": 108
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\boarding_house_s_001231.png",
+      "mean_similarity": 0.9458516836166382,
+      "rank": 109
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\house_s_000314.png",
+      "mean_similarity": 0.9458277225494385,
+      "rank": 110
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\house_s_001113.png",
+      "mean_similarity": 0.9458189010620117,
+      "rank": 111
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\house_s_000867.png",
+      "mean_similarity": 0.9458140134811401,
+      "rank": 112
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\house_s_000852.png",
+      "mean_similarity": 0.945793092250824,
+      "rank": 113
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\boarding_house_s_001229.png",
+      "mean_similarity": 0.9457916021347046,
+      "rank": 114
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\boardinghouse_s_000072.png",
+      "mean_similarity": 0.9457700848579407,
+      "rank": 115
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\boardinghouse_s_000891.png",
+      "mean_similarity": 0.9457643628120422,
+      "rank": 116
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\house_s_000312.png",
+      "mean_similarity": 0.9457429647445679,
+      "rank": 117
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\house_s_000044.png",
+      "mean_similarity": 0.9457424283027649,
+      "rank": 118
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\house_s_000605.png",
+      "mean_similarity": 0.9457409977912903,
+      "rank": 119
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\boarding_house_s_001757.png",
+      "mean_similarity": 0.9457389712333679,
+      "rank": 120
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\bungalow_s_000397.png",
+      "mean_similarity": 0.9457335472106934,
+      "rank": 121
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\bungalow_s_000295.png",
+      "mean_similarity": 0.9457321166992188,
+      "rank": 122
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\boarding_house_s_001383.png",
+      "mean_similarity": 0.9457316994667053,
+      "rank": 123
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\boarding_house_s_000577.png",
+      "mean_similarity": 0.9457282423973083,
+      "rank": 124
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\bungalow_s_000232.png",
+      "mean_similarity": 0.9457077383995056,
+      "rank": 125
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\house_s_000435.png",
+      "mean_similarity": 0.9457037448883057,
+      "rank": 126
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\boardinghouse_s_000036.png",
+      "mean_similarity": 0.9457036852836609,
+      "rank": 127
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\boarding_house_s_001078.png",
+      "mean_similarity": 0.9457027316093445,
+      "rank": 128
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\bungalow_s_000316.png",
+      "mean_similarity": 0.9456580281257629,
+      "rank": 129
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\boarding_house_s_001917.png",
+      "mean_similarity": 0.9456537365913391,
+      "rank": 130
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\house_s_000384.png",
+      "mean_similarity": 0.9456445574760437,
+      "rank": 131
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\boarding_house_s_001756.png",
+      "mean_similarity": 0.9455937147140503,
+      "rank": 132
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\bungalow_s_000012.png",
+      "mean_similarity": 0.945569634437561,
+      "rank": 133
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\house_s_000421.png",
+      "mean_similarity": 0.9455612897872925,
+      "rank": 134
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\boarding_house_s_001667.png",
+      "mean_similarity": 0.9455510377883911,
+      "rank": 135
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\house_s_000537.png",
+      "mean_similarity": 0.9455322027206421,
+      "rank": 136
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\house_s_001097.png",
+      "mean_similarity": 0.9455305933952332,
+      "rank": 137
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\boarding_house_s_001788.png",
+      "mean_similarity": 0.9455278515815735,
+      "rank": 138
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\boardinghouse_s_001613.png",
+      "mean_similarity": 0.9455034732818604,
+      "rank": 139
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\bungalow_s_000005.png",
+      "mean_similarity": 0.9455005526542664,
+      "rank": 140
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\boardinghouse_s_001794.png",
+      "mean_similarity": 0.9454886317253113,
+      "rank": 141
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\house_s_001105.png",
+      "mean_similarity": 0.9454638957977295,
+      "rank": 142
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\bungalow_s_000385.png",
+      "mean_similarity": 0.9454621076583862,
+      "rank": 143
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\boarding_house_s_001311.png",
+      "mean_similarity": 0.9454383850097656,
+      "rank": 144
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\bungalow_s_000427.png",
+      "mean_similarity": 0.9454337358474731,
+      "rank": 145
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\boarding_house_s_001367.png",
+      "mean_similarity": 0.9454138875007629,
+      "rank": 146
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\house_s_000041.png",
+      "mean_similarity": 0.9453920722007751,
+      "rank": 147
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\house_s_000980.png",
+      "mean_similarity": 0.945385754108429,
+      "rank": 148
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\boarding_house_s_001493.png",
+      "mean_similarity": 0.9453838467597961,
+      "rank": 149
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\boardinghouse_s_001466.png",
+      "mean_similarity": 0.945372462272644,
+      "rank": 150
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\boarding_house_s_001884.png",
+      "mean_similarity": 0.9453518390655518,
+      "rank": 151
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\house_s_000524.png",
+      "mean_similarity": 0.945340096950531,
+      "rank": 152
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\bungalow_s_000552.png",
+      "mean_similarity": 0.9453350305557251,
+      "rank": 153
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\house_s_000424.png",
+      "mean_similarity": 0.9453339576721191,
+      "rank": 154
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\house_s_001111.png",
+      "mean_similarity": 0.9453328251838684,
+      "rank": 155
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\house_s_001062.png",
+      "mean_similarity": 0.9453269243240356,
+      "rank": 156
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\bungalow_s_000057.png",
+      "mean_similarity": 0.9453192949295044,
+      "rank": 157
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\bungalow_s_000339.png",
+      "mean_similarity": 0.9452627301216125,
+      "rank": 158
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\house_s_000437.png",
+      "mean_similarity": 0.9452576637268066,
+      "rank": 159
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\boardinghouse_s_001646.png",
+      "mean_similarity": 0.9452342391014099,
+      "rank": 160
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\bungalow_s_000045.png",
+      "mean_similarity": 0.9452030658721924,
+      "rank": 161
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\bungalow_s_000019.png",
+      "mean_similarity": 0.9451965093612671,
+      "rank": 162
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\house_s_000876.png",
+      "mean_similarity": 0.9451737999916077,
+      "rank": 163
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\bungalow_s_000495.png",
+      "mean_similarity": 0.9450962543487549,
+      "rank": 164
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\boarding_house_s_001111.png",
+      "mean_similarity": 0.9450874328613281,
+      "rank": 165
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\boarding_house_s_001057.png",
+      "mean_similarity": 0.9450869560241699,
+      "rank": 166
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\boardinghouse_s_000871.png",
+      "mean_similarity": 0.9450576305389404,
+      "rank": 167
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\house_s_000007.png",
+      "mean_similarity": 0.9450365900993347,
+      "rank": 168
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\house_s_001100.png",
+      "mean_similarity": 0.9450265169143677,
+      "rank": 169
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\boardinghouse_s_001072.png",
+      "mean_similarity": 0.9450193047523499,
+      "rank": 170
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\boarding_house_s_000721.png",
+      "mean_similarity": 0.9450079202651978,
+      "rank": 171
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\boarding_house_s_001540.png",
+      "mean_similarity": 0.945005476474762,
+      "rank": 172
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\boardinghouse_s_000909.png",
+      "mean_similarity": 0.9449925422668457,
+      "rank": 173
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\boarding_house_s_001714.png",
+      "mean_similarity": 0.944991946220398,
+      "rank": 174
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\house_s_000755.png",
+      "mean_similarity": 0.9449853897094727,
+      "rank": 175
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\boarding_house_s_001724.png",
+      "mean_similarity": 0.9449827671051025,
+      "rank": 176
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\house_s_000145.png",
+      "mean_similarity": 0.9449818730354309,
+      "rank": 177
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\boardinghouse_s_001118.png",
+      "mean_similarity": 0.9449520707130432,
+      "rank": 178
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\house_s_001071.png",
+      "mean_similarity": 0.9449391961097717,
+      "rank": 179
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\boarding_house_s_001824.png",
+      "mean_similarity": 0.944938600063324,
+      "rank": 180
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\bungalow_s_000107.png",
+      "mean_similarity": 0.9448935985565186,
+      "rank": 181
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\house_s_000233.png",
+      "mean_similarity": 0.9448932409286499,
+      "rank": 182
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\house_s_001389.png",
+      "mean_similarity": 0.9448795318603516,
+      "rank": 183
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\boarding_house_s_001390.png",
+      "mean_similarity": 0.9448665380477905,
+      "rank": 184
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\boarding_house_s_001051.png",
+      "mean_similarity": 0.9448582530021667,
+      "rank": 185
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\house_s_000895.png",
+      "mean_similarity": 0.944855809211731,
+      "rank": 186
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\bungalow_s_000253.png",
+      "mean_similarity": 0.9448484778404236,
+      "rank": 187
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\house_s_000994.png",
+      "mean_similarity": 0.9448450207710266,
+      "rank": 188
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\house_s_001193.png",
+      "mean_similarity": 0.944837749004364,
+      "rank": 189
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\bungalow_s_000356.png",
+      "mean_similarity": 0.9448204636573792,
+      "rank": 190
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\bungalow_s_000009.png",
+      "mean_similarity": 0.944813072681427,
+      "rank": 191
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\house_s_000911.png",
+      "mean_similarity": 0.9448046684265137,
+      "rank": 192
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\house_s_000707.png",
+      "mean_similarity": 0.9447909593582153,
+      "rank": 193
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\house_s_000993.png",
+      "mean_similarity": 0.9447899460792542,
+      "rank": 194
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\boarding_house_s_001569.png",
+      "mean_similarity": 0.9447880387306213,
+      "rank": 195
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\house_s_000428.png",
+      "mean_similarity": 0.9447696805000305,
+      "rank": 196
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\house_s_001371.png",
+      "mean_similarity": 0.9447314143180847,
+      "rank": 197
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\bungalow_s_000453.png",
+      "mean_similarity": 0.9447311758995056,
+      "rank": 198
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\boardinghouse_s_001689.png",
+      "mean_similarity": 0.9447295665740967,
+      "rank": 199
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\house_s_001181.png",
+      "mean_similarity": 0.9446807503700256,
+      "rank": 200
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\bungalow_s_000240.png",
+      "mean_similarity": 0.9446722865104675,
+      "rank": 201
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\boarding_house_s_001603.png",
+      "mean_similarity": 0.9446721076965332,
+      "rank": 202
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\bungalow_s_000145.png",
+      "mean_similarity": 0.9446696043014526,
+      "rank": 203
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\bungalow_s_000011.png",
+      "mean_similarity": 0.9446670413017273,
+      "rank": 204
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\house_s_001065.png",
+      "mean_similarity": 0.9446624517440796,
+      "rank": 205
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\house_s_001199.png",
+      "mean_similarity": 0.9446536898612976,
+      "rank": 206
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\bungalow_s_000510.png",
+      "mean_similarity": 0.944597601890564,
+      "rank": 207
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\boardinghouse_s_000001.png",
+      "mean_similarity": 0.9445673823356628,
+      "rank": 208
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\boardinghouse_s_001452.png",
+      "mean_similarity": 0.9445619583129883,
+      "rank": 209
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\house_s_000992.png",
+      "mean_similarity": 0.9445611238479614,
+      "rank": 210
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\house_s_001285.png",
+      "mean_similarity": 0.9445305466651917,
+      "rank": 211
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\house_s_000693.png",
+      "mean_similarity": 0.9445188641548157,
+      "rank": 212
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\boardinghouse_s_001004.png",
+      "mean_similarity": 0.9445091485977173,
+      "rank": 213
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\boarding_house_s_001529.png",
+      "mean_similarity": 0.9445074200630188,
+      "rank": 214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\bungalow_s_000266.png",
+      "mean_similarity": 0.9445018768310547,
+      "rank": 215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\bungalow_s_000388.png",
+      "mean_similarity": 0.9444993734359741,
+      "rank": 216
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\boarding_house_s_001356.png",
+      "mean_similarity": 0.9444583654403687,
+      "rank": 217
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\house_s_000824.png",
+      "mean_similarity": 0.9444530010223389,
+      "rank": 218
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\bungalow_s_000186.png",
+      "mean_similarity": 0.9444438815116882,
+      "rank": 219
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\bungalow_s_000170.png",
+      "mean_similarity": 0.9444434642791748,
+      "rank": 220
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\boarding_house_s_000699.png",
+      "mean_similarity": 0.9444239139556885,
+      "rank": 221
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\house_s_001365.png",
+      "mean_similarity": 0.9444197416305542,
+      "rank": 222
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\boarding_house_s_001094.png",
+      "mean_similarity": 0.9444112777709961,
+      "rank": 223
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\bungalow_s_000348.png",
+      "mean_similarity": 0.9444001913070679,
+      "rank": 224
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\boardinghouse_s_001812.png",
+      "mean_similarity": 0.9443793892860413,
+      "rank": 225
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\bungalow_s_000003.png",
+      "mean_similarity": 0.9443397521972656,
+      "rank": 226
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\house_s_000635.png",
+      "mean_similarity": 0.9443382620811462,
+      "rank": 227
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\house_s_000907.png",
+      "mean_similarity": 0.944333016872406,
+      "rank": 228
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\house_s_001197.png",
+      "mean_similarity": 0.9443223476409912,
+      "rank": 229
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\boarding_house_s_000906.png",
+      "mean_similarity": 0.9443134665489197,
+      "rank": 230
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\boardinghouse_s_000360.png",
+      "mean_similarity": 0.9443040490150452,
+      "rank": 231
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\house_s_000604.png",
+      "mean_similarity": 0.9442170858383179,
+      "rank": 232
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\house_s_001392.png",
+      "mean_similarity": 0.9441932439804077,
+      "rank": 233
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\house_s_000335.png",
+      "mean_similarity": 0.9441902041435242,
+      "rank": 234
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\boardinghouse_s_001455.png",
+      "mean_similarity": 0.944165825843811,
+      "rank": 235
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\house_s_000405.png",
+      "mean_similarity": 0.9441540241241455,
+      "rank": 236
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\house_s_000913.png",
+      "mean_similarity": 0.9441475868225098,
+      "rank": 237
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\house_s_000413.png",
+      "mean_similarity": 0.9441452622413635,
+      "rank": 238
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\bungalow_s_000429.png",
+      "mean_similarity": 0.9441289305686951,
+      "rank": 239
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\house_s_000981.png",
+      "mean_similarity": 0.9441271424293518,
+      "rank": 240
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\house_s_000004.png",
+      "mean_similarity": 0.9440735578536987,
+      "rank": 241
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\bungalow_s_000212.png",
+      "mean_similarity": 0.9440552592277527,
+      "rank": 242
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\house_s_001001.png",
+      "mean_similarity": 0.9440476298332214,
+      "rank": 243
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\house_s_000512.png",
+      "mean_similarity": 0.9440083503723145,
+      "rank": 244
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\bungalow_s_000319.png",
+      "mean_similarity": 0.943993330001831,
+      "rank": 245
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\bungalow_s_000100.png",
+      "mean_similarity": 0.9439824819564819,
+      "rank": 246
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\bungalow_s_000041.png",
+      "mean_similarity": 0.9439238905906677,
+      "rank": 247
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\boarding_house_s_000698.png",
+      "mean_similarity": 0.9439162611961365,
+      "rank": 248
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\boarding_house_s_000985.png",
+      "mean_similarity": 0.9439135193824768,
+      "rank": 249
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\038.house\\house_s_000682.png",
+      "mean_similarity": 0.9438961148262024,
+      "rank": 250
+    }
+  ]
+}

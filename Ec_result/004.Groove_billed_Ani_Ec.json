@@ -1,0 +1,159 @@
+{
+  "class_name": "004.Groove_billed_Ani",
+  "class_idx": 3,
+  "num_images_in_class": 30,
+  "ec_size_requested": 30,
+  "ec_size_actual": 30,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\004.Groove_billed_Ani\\Groove_Billed_Ani_0072_1696.jpg",
+      "mean_similarity": 0.9498564004898071,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\004.Groove_billed_Ani\\Groove_Billed_Ani_0032_1776.jpg",
+      "mean_similarity": 0.949074923992157,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\004.Groove_billed_Ani\\Groove_Billed_Ani_0058_1751.jpg",
+      "mean_similarity": 0.948896586894989,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\004.Groove_billed_Ani\\Groove_Billed_Ani_0091_1728.jpg",
+      "mean_similarity": 0.9488551616668701,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\004.Groove_billed_Ani\\Groove_Billed_Ani_0012_1784.jpg",
+      "mean_similarity": 0.9487478137016296,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\004.Groove_billed_Ani\\Groove_Billed_Ani_0004_1528.jpg",
+      "mean_similarity": 0.9484172463417053,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\004.Groove_billed_Ani\\Groove_Billed_Ani_0027_1754.jpg",
+      "mean_similarity": 0.9480227828025818,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\004.Groove_billed_Ani\\Groove_Billed_Ani_0019_1585.jpg",
+      "mean_similarity": 0.948013186454773,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\004.Groove_billed_Ani\\Groove_Billed_Ani_0076_1661.jpg",
+      "mean_similarity": 0.9477518200874329,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\004.Groove_billed_Ani\\Groove_Billed_Ani_0006_1763.jpg",
+      "mean_similarity": 0.9476151466369629,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\004.Groove_billed_Ani\\Groove_Billed_Ani_0015_1653.jpg",
+      "mean_similarity": 0.9476096034049988,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\004.Groove_billed_Ani\\Groove_Billed_Ani_0036_1604.jpg",
+      "mean_similarity": 0.9472600221633911,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\004.Groove_billed_Ani\\Groove_Billed_Ani_0061_1510.jpg",
+      "mean_similarity": 0.9470278024673462,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\004.Groove_billed_Ani\\Groove_Billed_Ani_0047_1706.jpg",
+      "mean_similarity": 0.9469882249832153,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\004.Groove_billed_Ani\\Groove_Billed_Ani_0044_1731.jpg",
+      "mean_similarity": 0.9469503164291382,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\004.Groove_billed_Ani\\Groove_Billed_Ani_0055_1501.jpg",
+      "mean_similarity": 0.9469219446182251,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\004.Groove_billed_Ani\\Groove_Billed_Ani_0018_1613.jpg",
+      "mean_similarity": 0.94688880443573,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\004.Groove_billed_Ani\\Groove_Billed_Ani_0071_1559.jpg",
+      "mean_similarity": 0.9466165900230408,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\004.Groove_billed_Ani\\Groove_Billed_Ani_0077_1724.jpg",
+      "mean_similarity": 0.9455971717834473,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\004.Groove_billed_Ani\\Groove_Billed_Ani_0002_1670.jpg",
+      "mean_similarity": 0.9454244375228882,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\004.Groove_billed_Ani\\Groove_Billed_Ani_0069_1546.jpg",
+      "mean_similarity": 0.9452175498008728,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\004.Groove_billed_Ani\\Groove_Billed_Ani_0056_1493.jpg",
+      "mean_similarity": 0.9448543787002563,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\004.Groove_billed_Ani\\Groove_Billed_Ani_0085_1612.jpg",
+      "mean_similarity": 0.9446663856506348,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\004.Groove_billed_Ani\\Groove_Billed_Ani_0105_1562.jpg",
+      "mean_similarity": 0.9444871544837952,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\004.Groove_billed_Ani\\Groove_Billed_Ani_0065_1502.jpg",
+      "mean_similarity": 0.9438520073890686,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\004.Groove_billed_Ani\\Groove_Billed_Ani_0023_1485.jpg",
+      "mean_similarity": 0.9436930418014526,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\004.Groove_billed_Ani\\Groove_Billed_Ani_0007_1615.jpg",
+      "mean_similarity": 0.9409833550453186,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\004.Groove_billed_Ani\\Groove_Billed_Ani_0051_1650.jpg",
+      "mean_similarity": 0.9353514909744263,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\004.Groove_billed_Ani\\Groove_Billed_Ani_0090_1567.jpg",
+      "mean_similarity": 0.9336530566215515,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\004.Groove_billed_Ani\\Groove_Billed_Ani_0033_1494.jpg",
+      "mean_similarity": 0.9286819696426392,
+      "rank": 30
+    }
+  ]
+}

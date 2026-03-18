@@ -1,0 +1,24 @@
+{
+  "class_name": "Bird",
+  "global_description": "A small, slender bird with a streamlined body and a slightly forked tail. It has olive-gray upperparts and a contrasting white throat and belly. The wings are long and pointed, with darker flight feathers. The head is rounded with a short, broad bill.",
+  "discriminative_attributes": [
+    "Olive-gray upperparts",
+    "White throat and belly",
+    "Long pointed wings",
+    "Slightly forked tail",
+    "Short broad bill"
+  ],
+  "part_details": {
+    "head": "Rounded, olive-gray with a short, broad bill.",
+    "wings": "Long, pointed, darker flight feathers.",
+    "tail": "Slightly forked, olive-gray.",
+    "body": "Streamlined, olive-gray upperparts, white throat and belly."
+  },
+  "spatial_relations": [
+    "The wings extend from the sides of the body, tapering to a point.",
+    "The tail is positioned at the rear, slightly forked.",
+    "The head is at the front, rounded with a short bill."
+  ],
+  "original_dataset_key": "CUB200",
+  "original_class_key": "olive_sided_flycatcher"
+}

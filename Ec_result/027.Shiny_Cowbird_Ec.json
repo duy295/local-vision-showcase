@@ -1,0 +1,159 @@
+{
+  "class_name": "027.Shiny_Cowbird",
+  "class_idx": 26,
+  "num_images_in_class": 30,
+  "ec_size_requested": 30,
+  "ec_size_actual": 30,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\027.Shiny_Cowbird\\Shiny_Cowbird_0064_796848.jpg",
+      "mean_similarity": 0.9481315612792969,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\027.Shiny_Cowbird\\Shiny_Cowbird_0044_24239.jpg",
+      "mean_similarity": 0.9475308060646057,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\027.Shiny_Cowbird\\Shiny_Cowbird_0047_24210.jpg",
+      "mean_similarity": 0.9474621415138245,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\027.Shiny_Cowbird\\Shiny_Cowbird_0002_24380.jpg",
+      "mean_similarity": 0.9473546147346497,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\027.Shiny_Cowbird\\Shiny_Cowbird_0061_796874.jpg",
+      "mean_similarity": 0.9473166465759277,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\027.Shiny_Cowbird\\Shiny_Cowbird_0017_796853.jpg",
+      "mean_similarity": 0.9470077753067017,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\027.Shiny_Cowbird\\Shiny_Cowbird_0010_24439.jpg",
+      "mean_similarity": 0.9470000863075256,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\027.Shiny_Cowbird\\Shiny_Cowbird_0025_24444.jpg",
+      "mean_similarity": 0.9469447731971741,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\027.Shiny_Cowbird\\Shiny_Cowbird_0076_24363.jpg",
+      "mean_similarity": 0.9466000199317932,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\027.Shiny_Cowbird\\Shiny_Cowbird_0036_24274.jpg",
+      "mean_similarity": 0.9462051391601562,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\027.Shiny_Cowbird\\Shiny_Cowbird_0055_24331.jpg",
+      "mean_similarity": 0.945938766002655,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\027.Shiny_Cowbird\\Shiny_Cowbird_0083_796834.jpg",
+      "mean_similarity": 0.9449244737625122,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\027.Shiny_Cowbird\\Shiny_Cowbird_0006_796864.jpg",
+      "mean_similarity": 0.944904088973999,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\027.Shiny_Cowbird\\Shiny_Cowbird_0086_24386.jpg",
+      "mean_similarity": 0.9436066150665283,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\027.Shiny_Cowbird\\Shiny_Cowbird_0075_24335.jpg",
+      "mean_similarity": 0.9432728290557861,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\027.Shiny_Cowbird\\Shiny_Cowbird_0001_796860.jpg",
+      "mean_similarity": 0.943112313747406,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\027.Shiny_Cowbird\\Shiny_Cowbird_0077_24273.jpg",
+      "mean_similarity": 0.9428222179412842,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\027.Shiny_Cowbird\\Shiny_Cowbird_0070_796832.jpg",
+      "mean_similarity": 0.9427198171615601,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\027.Shiny_Cowbird\\Shiny_Cowbird_0026_796847.jpg",
+      "mean_similarity": 0.9426785111427307,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\027.Shiny_Cowbird\\Shiny_Cowbird_0062_24271.jpg",
+      "mean_similarity": 0.9425376057624817,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\027.Shiny_Cowbird\\Shiny_Cowbird_0014_24214.jpg",
+      "mean_similarity": 0.942079484462738,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\027.Shiny_Cowbird\\Shiny_Cowbird_0045_796856.jpg",
+      "mean_similarity": 0.9416887760162354,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\027.Shiny_Cowbird\\Shiny_Cowbird_0040_24379.jpg",
+      "mean_similarity": 0.9412259459495544,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\027.Shiny_Cowbird\\Shiny_Cowbird_0034_796849.jpg",
+      "mean_similarity": 0.9400619864463806,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\027.Shiny_Cowbird\\Shiny_Cowbird_0024_24281.jpg",
+      "mean_similarity": 0.9398766756057739,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\027.Shiny_Cowbird\\Shiny_Cowbird_0021_796870.jpg",
+      "mean_similarity": 0.9379029273986816,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\027.Shiny_Cowbird\\Shiny_Cowbird_0063_24259.jpg",
+      "mean_similarity": 0.9360172748565674,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\027.Shiny_Cowbird\\Shiny_Cowbird_0066_24358.jpg",
+      "mean_similarity": 0.9291456341743469,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\027.Shiny_Cowbird\\Shiny_Cowbird_0069_24351.jpg",
+      "mean_similarity": 0.9176346063613892,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\027.Shiny_Cowbird\\Shiny_Cowbird_0019_24323.jpg",
+      "mean_similarity": 0.9158253073692322,
+      "rank": 30
+    }
+  ]
+}

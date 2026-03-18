@@ -1,0 +1,159 @@
+{
+  "class_name": "002.Laysan_Albatross",
+  "class_idx": 1,
+  "num_images_in_class": 30,
+  "ec_size_requested": 30,
+  "ec_size_actual": 30,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\002.Laysan_Albatross\\Laysan_Albatross_0085_564.jpg",
+      "mean_similarity": 0.9453839659690857,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\002.Laysan_Albatross\\Laysan_Albatross_0044_784.jpg",
+      "mean_similarity": 0.9452800154685974,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\002.Laysan_Albatross\\Laysan_Albatross_0094_1013.jpg",
+      "mean_similarity": 0.9448146224021912,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\002.Laysan_Albatross\\Laysan_Albatross_0071_792.jpg",
+      "mean_similarity": 0.9444019794464111,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\002.Laysan_Albatross\\Laysan_Albatross_0018_492.jpg",
+      "mean_similarity": 0.9441609382629395,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\002.Laysan_Albatross\\Laysan_Albatross_0029_482.jpg",
+      "mean_similarity": 0.9439345598220825,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\002.Laysan_Albatross\\Laysan_Albatross_0100_735.jpg",
+      "mean_similarity": 0.9435331225395203,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\002.Laysan_Albatross\\Laysan_Albatross_0056_500.jpg",
+      "mean_similarity": 0.943520188331604,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\002.Laysan_Albatross\\Laysan_Albatross_0040_472.jpg",
+      "mean_similarity": 0.9423894882202148,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\002.Laysan_Albatross\\Laysan_Albatross_0073_927.jpg",
+      "mean_similarity": 0.9422150254249573,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\002.Laysan_Albatross\\Laysan_Albatross_0099_869.jpg",
+      "mean_similarity": 0.9420326352119446,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\002.Laysan_Albatross\\Laysan_Albatross_0076_671.jpg",
+      "mean_similarity": 0.9418442845344543,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\002.Laysan_Albatross\\Laysan_Albatross_0092_834.jpg",
+      "mean_similarity": 0.9415596723556519,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\002.Laysan_Albatross\\Laysan_Albatross_0096_673.jpg",
+      "mean_similarity": 0.9415023922920227,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\002.Laysan_Albatross\\Laysan_Albatross_0003_1033.jpg",
+      "mean_similarity": 0.9411247372627258,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\002.Laysan_Albatross\\Laysan_Albatross_0006_702.jpg",
+      "mean_similarity": 0.9408228993415833,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\002.Laysan_Albatross\\Laysan_Albatross_0065_809.jpg",
+      "mean_similarity": 0.9404210448265076,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\002.Laysan_Albatross\\Laysan_Albatross_0088_883.jpg",
+      "mean_similarity": 0.9403735399246216,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\002.Laysan_Albatross\\Laysan_Albatross_0005_565.jpg",
+      "mean_similarity": 0.9374773502349854,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\002.Laysan_Albatross\\Laysan_Albatross_0061_563.jpg",
+      "mean_similarity": 0.9372831583023071,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\002.Laysan_Albatross\\Laysan_Albatross_0025_571.jpg",
+      "mean_similarity": 0.9372754693031311,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\002.Laysan_Albatross\\Laysan_Albatross_0083_756.jpg",
+      "mean_similarity": 0.9370166063308716,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\002.Laysan_Albatross\\Laysan_Albatross_0039_924.jpg",
+      "mean_similarity": 0.9361830949783325,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\002.Laysan_Albatross\\Laysan_Albatross_0050_870.jpg",
+      "mean_similarity": 0.9350850582122803,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\002.Laysan_Albatross\\Laysan_Albatross_0047_619.jpg",
+      "mean_similarity": 0.9350679516792297,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\002.Laysan_Albatross\\Laysan_Albatross_0013_910.jpg",
+      "mean_similarity": 0.9292963147163391,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\002.Laysan_Albatross\\Laysan_Albatross_0068_726.jpg",
+      "mean_similarity": 0.9281438589096069,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\002.Laysan_Albatross\\Laysan_Albatross_0055_570.jpg",
+      "mean_similarity": 0.9274339079856873,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\002.Laysan_Albatross\\Laysan_Albatross_0051_1020.jpg",
+      "mean_similarity": 0.9229774475097656,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\002.Laysan_Albatross\\Laysan_Albatross_0081_800.jpg",
+      "mean_similarity": 0.920257031917572,
+      "rank": 30
+    }
+  ]
+}

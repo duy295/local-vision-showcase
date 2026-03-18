@@ -1,0 +1,1259 @@
+{
+  "class_name": "camel",
+  "class_idx": 15,
+  "num_images_in_class": 500,
+  "ec_size_requested": 250,
+  "ec_size_actual": 250,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\arabian_camel_s_000078.png",
+      "mean_similarity": 0.942605197429657,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\camel_s_001848.png",
+      "mean_similarity": 0.9422296285629272,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\camel_s_001293.png",
+      "mean_similarity": 0.9419798254966736,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\arabian_camel_s_000022.png",
+      "mean_similarity": 0.941929280757904,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\camel_s_001791.png",
+      "mean_similarity": 0.9418025612831116,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\arabian_camel_s_000557.png",
+      "mean_similarity": 0.9417523145675659,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\camel_s_000431.png",
+      "mean_similarity": 0.9415987730026245,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\camel_s_001339.png",
+      "mean_similarity": 0.9415157437324524,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\camel_s_000654.png",
+      "mean_similarity": 0.941510796546936,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\camel_s_000824.png",
+      "mean_similarity": 0.9411575794219971,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\camelus_dromedarius_s_000034.png",
+      "mean_similarity": 0.9409573674201965,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\camel_s_002034.png",
+      "mean_similarity": 0.9409487247467041,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\arabian_camel_s_001313.png",
+      "mean_similarity": 0.9408763647079468,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\camel_s_001925.png",
+      "mean_similarity": 0.9408235549926758,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\bactrian_camel_s_000029.png",
+      "mean_similarity": 0.9407662153244019,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\arabian_camel_s_000515.png",
+      "mean_similarity": 0.9406416416168213,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\camelus_dromedarius_s_000054.png",
+      "mean_similarity": 0.9405800104141235,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\camel_s_000283.png",
+      "mean_similarity": 0.94050532579422,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\camel_s_000108.png",
+      "mean_similarity": 0.9404863119125366,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\camel_s_002196.png",
+      "mean_similarity": 0.940476655960083,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\arabian_camel_s_001387.png",
+      "mean_similarity": 0.9403629302978516,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\dromedary_s_000006.png",
+      "mean_similarity": 0.9403412938117981,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\arabian_camel_s_000722.png",
+      "mean_similarity": 0.9402963519096375,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\arabian_camel_s_000262.png",
+      "mean_similarity": 0.9402852654457092,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\camelus_dromedarius_s_000282.png",
+      "mean_similarity": 0.9402725100517273,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\camel_s_000375.png",
+      "mean_similarity": 0.9402610659599304,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\camel_s_000054.png",
+      "mean_similarity": 0.9402531981468201,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\camel_s_000812.png",
+      "mean_similarity": 0.9401808977127075,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\camel_s_000060.png",
+      "mean_similarity": 0.9401705265045166,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\dromedary_s_001490.png",
+      "mean_similarity": 0.9401476383209229,
+      "rank": 30
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\camel_s_000063.png",
+      "mean_similarity": 0.9401175379753113,
+      "rank": 31
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\dromedary_s_000087.png",
+      "mean_similarity": 0.94010329246521,
+      "rank": 32
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\camel_s_001697.png",
+      "mean_similarity": 0.9400955438613892,
+      "rank": 33
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\bactrian_camel_s_000002.png",
+      "mean_similarity": 0.9400359392166138,
+      "rank": 34
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\camel_s_000024.png",
+      "mean_similarity": 0.9399710297584534,
+      "rank": 35
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\arabian_camel_s_000005.png",
+      "mean_similarity": 0.9399043917655945,
+      "rank": 36
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\dromedary_s_000656.png",
+      "mean_similarity": 0.9397139549255371,
+      "rank": 37
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\camel_s_000174.png",
+      "mean_similarity": 0.9397019147872925,
+      "rank": 38
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\arabian_camel_s_001266.png",
+      "mean_similarity": 0.939688503742218,
+      "rank": 39
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\camel_s_000120.png",
+      "mean_similarity": 0.9396501779556274,
+      "rank": 40
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\dromedary_s_000951.png",
+      "mean_similarity": 0.939644455909729,
+      "rank": 41
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\arabian_camel_s_000662.png",
+      "mean_similarity": 0.9395901560783386,
+      "rank": 42
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\camel_s_000397.png",
+      "mean_similarity": 0.939553439617157,
+      "rank": 43
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\camel_s_001007.png",
+      "mean_similarity": 0.9394586682319641,
+      "rank": 44
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\arabian_camel_s_000919.png",
+      "mean_similarity": 0.939404308795929,
+      "rank": 45
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\camel_s_000095.png",
+      "mean_similarity": 0.9393183588981628,
+      "rank": 46
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\camel_s_000933.png",
+      "mean_similarity": 0.9393011331558228,
+      "rank": 47
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\arabian_camel_s_000168.png",
+      "mean_similarity": 0.9392852187156677,
+      "rank": 48
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\camel_s_001002.png",
+      "mean_similarity": 0.9392772316932678,
+      "rank": 49
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\camelus_dromedarius_s_000735.png",
+      "mean_similarity": 0.9392592906951904,
+      "rank": 50
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\camel_s_000205.png",
+      "mean_similarity": 0.9392544031143188,
+      "rank": 51
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\camel_s_000382.png",
+      "mean_similarity": 0.9392065405845642,
+      "rank": 52
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\camelus_dromedarius_s_000016.png",
+      "mean_similarity": 0.939176619052887,
+      "rank": 53
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\arabian_camel_s_000410.png",
+      "mean_similarity": 0.9391700625419617,
+      "rank": 54
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\camel_s_000842.png",
+      "mean_similarity": 0.9391618967056274,
+      "rank": 55
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\arabian_camel_s_000682.png",
+      "mean_similarity": 0.939147412776947,
+      "rank": 56
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\camelus_dromedarius_s_000100.png",
+      "mean_similarity": 0.9391406178474426,
+      "rank": 57
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\dromedary_s_000664.png",
+      "mean_similarity": 0.9390849471092224,
+      "rank": 58
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\camel_s_000002.png",
+      "mean_similarity": 0.9390245676040649,
+      "rank": 59
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\camel_s_002042.png",
+      "mean_similarity": 0.9390072226524353,
+      "rank": 60
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\camel_s_000071.png",
+      "mean_similarity": 0.9389591217041016,
+      "rank": 61
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\camelus_dromedarius_s_000431.png",
+      "mean_similarity": 0.9389345049858093,
+      "rank": 62
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\camel_s_000837.png",
+      "mean_similarity": 0.938897967338562,
+      "rank": 63
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\camel_s_001692.png",
+      "mean_similarity": 0.9388861656188965,
+      "rank": 64
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\arabian_camel_s_000073.png",
+      "mean_similarity": 0.9388668537139893,
+      "rank": 65
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\dromedary_s_001736.png",
+      "mean_similarity": 0.9388634562492371,
+      "rank": 66
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\dromedary_s_000743.png",
+      "mean_similarity": 0.9388502240180969,
+      "rank": 67
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\camel_s_001110.png",
+      "mean_similarity": 0.938833475112915,
+      "rank": 68
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\arabian_camel_s_000259.png",
+      "mean_similarity": 0.9388082027435303,
+      "rank": 69
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\camelus_dromedarius_s_000330.png",
+      "mean_similarity": 0.9387984871864319,
+      "rank": 70
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\arabian_camel_s_001283.png",
+      "mean_similarity": 0.9387263059616089,
+      "rank": 71
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\camelus_dromedarius_s_000263.png",
+      "mean_similarity": 0.938701868057251,
+      "rank": 72
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\camel_s_000039.png",
+      "mean_similarity": 0.9386746287345886,
+      "rank": 73
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\arabian_camel_s_001171.png",
+      "mean_similarity": 0.9386407732963562,
+      "rank": 74
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\camel_s_000201.png",
+      "mean_similarity": 0.9385806918144226,
+      "rank": 75
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\camel_s_000155.png",
+      "mean_similarity": 0.9385664463043213,
+      "rank": 76
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\bactrian_camel_s_000068.png",
+      "mean_similarity": 0.9385480880737305,
+      "rank": 77
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\dromedary_s_000686.png",
+      "mean_similarity": 0.9385444521903992,
+      "rank": 78
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\dromedary_s_001708.png",
+      "mean_similarity": 0.9385165572166443,
+      "rank": 79
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\camel_s_000072.png",
+      "mean_similarity": 0.9385128021240234,
+      "rank": 80
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\arabian_camel_s_000170.png",
+      "mean_similarity": 0.938462495803833,
+      "rank": 81
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\dromedary_s_000438.png",
+      "mean_similarity": 0.9384528994560242,
+      "rank": 82
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\dromedary_s_000162.png",
+      "mean_similarity": 0.9384438395500183,
+      "rank": 83
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\camel_s_002049.png",
+      "mean_similarity": 0.9383965134620667,
+      "rank": 84
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\camel_s_001859.png",
+      "mean_similarity": 0.9383235573768616,
+      "rank": 85
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\dromedary_s_000765.png",
+      "mean_similarity": 0.9382935762405396,
+      "rank": 86
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\camel_s_000742.png",
+      "mean_similarity": 0.9382894039154053,
+      "rank": 87
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\camel_s_001629.png",
+      "mean_similarity": 0.9382708072662354,
+      "rank": 88
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\dromedary_s_000763.png",
+      "mean_similarity": 0.9382283687591553,
+      "rank": 89
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\camel_s_001203.png",
+      "mean_similarity": 0.9381921887397766,
+      "rank": 90
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\camel_s_001288.png",
+      "mean_similarity": 0.9381906986236572,
+      "rank": 91
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\dromedary_s_000836.png",
+      "mean_similarity": 0.9381348490715027,
+      "rank": 92
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\camel_s_000041.png",
+      "mean_similarity": 0.9381347894668579,
+      "rank": 93
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\arabian_camel_s_000763.png",
+      "mean_similarity": 0.938127338886261,
+      "rank": 94
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\dromedary_s_000655.png",
+      "mean_similarity": 0.9381102323532104,
+      "rank": 95
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\camel_s_000007.png",
+      "mean_similarity": 0.9380395412445068,
+      "rank": 96
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\camel_s_000704.png",
+      "mean_similarity": 0.9379526972770691,
+      "rank": 97
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\arabian_camel_s_000055.png",
+      "mean_similarity": 0.9379486441612244,
+      "rank": 98
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\camel_s_000414.png",
+      "mean_similarity": 0.9379270076751709,
+      "rank": 99
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\camel_s_000119.png",
+      "mean_similarity": 0.9378488659858704,
+      "rank": 100
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\camel_s_000454.png",
+      "mean_similarity": 0.9378180503845215,
+      "rank": 101
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\dromedary_s_001345.png",
+      "mean_similarity": 0.9377912282943726,
+      "rank": 102
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\dromedary_s_000694.png",
+      "mean_similarity": 0.937734842300415,
+      "rank": 103
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\camel_s_001409.png",
+      "mean_similarity": 0.9376869201660156,
+      "rank": 104
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\camel_s_001678.png",
+      "mean_similarity": 0.9376564025878906,
+      "rank": 105
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\bactrian_camel_s_000032.png",
+      "mean_similarity": 0.9376070499420166,
+      "rank": 106
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\dromedary_s_000721.png",
+      "mean_similarity": 0.9373989701271057,
+      "rank": 107
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\camel_s_001168.png",
+      "mean_similarity": 0.9373838901519775,
+      "rank": 108
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\camelus_dromedarius_s_000466.png",
+      "mean_similarity": 0.9373093247413635,
+      "rank": 109
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\camel_s_002126.png",
+      "mean_similarity": 0.93730229139328,
+      "rank": 110
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\camel_s_000697.png",
+      "mean_similarity": 0.9372265934944153,
+      "rank": 111
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\camel_s_000808.png",
+      "mean_similarity": 0.9372179508209229,
+      "rank": 112
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\camel_s_001437.png",
+      "mean_similarity": 0.9371607303619385,
+      "rank": 113
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\arabian_camel_s_000274.png",
+      "mean_similarity": 0.937155544757843,
+      "rank": 114
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\camelus_dromedarius_s_000470.png",
+      "mean_similarity": 0.9371252655982971,
+      "rank": 115
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\camel_s_001518.png",
+      "mean_similarity": 0.9371163249015808,
+      "rank": 116
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\camel_s_001239.png",
+      "mean_similarity": 0.937046468257904,
+      "rank": 117
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\dromedary_s_000755.png",
+      "mean_similarity": 0.9370051622390747,
+      "rank": 118
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\dromedary_s_000766.png",
+      "mean_similarity": 0.9369895458221436,
+      "rank": 119
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\camel_s_001706.png",
+      "mean_similarity": 0.9369511008262634,
+      "rank": 120
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\dromedary_s_001202.png",
+      "mean_similarity": 0.9369454979896545,
+      "rank": 121
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\arabian_camel_s_000531.png",
+      "mean_similarity": 0.9368978142738342,
+      "rank": 122
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\camel_s_000534.png",
+      "mean_similarity": 0.9368644952774048,
+      "rank": 123
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\camel_s_001899.png",
+      "mean_similarity": 0.9366242289543152,
+      "rank": 124
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\camelus_dromedarius_s_000400.png",
+      "mean_similarity": 0.936619222164154,
+      "rank": 125
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\dromedary_s_000075.png",
+      "mean_similarity": 0.936610758304596,
+      "rank": 126
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\camel_s_000536.png",
+      "mean_similarity": 0.936572253704071,
+      "rank": 127
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\camel_s_001519.png",
+      "mean_similarity": 0.936567485332489,
+      "rank": 128
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\camelus_dromedarius_s_000242.png",
+      "mean_similarity": 0.9365557432174683,
+      "rank": 129
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\dromedary_s_000041.png",
+      "mean_similarity": 0.9365344047546387,
+      "rank": 130
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\camelus_dromedarius_s_000239.png",
+      "mean_similarity": 0.9365146160125732,
+      "rank": 131
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\arabian_camel_s_000280.png",
+      "mean_similarity": 0.9365040063858032,
+      "rank": 132
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\dromedary_s_001529.png",
+      "mean_similarity": 0.9365008473396301,
+      "rank": 133
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\dromedary_s_000515.png",
+      "mean_similarity": 0.93648362159729,
+      "rank": 134
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\camelus_dromedarius_s_000493.png",
+      "mean_similarity": 0.9364725947380066,
+      "rank": 135
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\arabian_camel_s_000166.png",
+      "mean_similarity": 0.9364446997642517,
+      "rank": 136
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\camelus_dromedarius_s_000651.png",
+      "mean_similarity": 0.936354398727417,
+      "rank": 137
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\dromedary_s_001610.png",
+      "mean_similarity": 0.9363521933555603,
+      "rank": 138
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\arabian_camel_s_001429.png",
+      "mean_similarity": 0.9363213181495667,
+      "rank": 139
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\arabian_camel_s_000021.png",
+      "mean_similarity": 0.9362986087799072,
+      "rank": 140
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\camelus_dromedarius_s_000143.png",
+      "mean_similarity": 0.9362315535545349,
+      "rank": 141
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\camel_s_002069.png",
+      "mean_similarity": 0.9362294673919678,
+      "rank": 142
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\camel_s_000784.png",
+      "mean_similarity": 0.9362193942070007,
+      "rank": 143
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\arabian_camel_s_000910.png",
+      "mean_similarity": 0.9361782670021057,
+      "rank": 144
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\camelus_dromedarius_s_000310.png",
+      "mean_similarity": 0.9361695647239685,
+      "rank": 145
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\camel_s_000834.png",
+      "mean_similarity": 0.9361629486083984,
+      "rank": 146
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\camel_s_000350.png",
+      "mean_similarity": 0.9360673427581787,
+      "rank": 147
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\camel_s_001004.png",
+      "mean_similarity": 0.9360330700874329,
+      "rank": 148
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\camelus_dromedarius_s_000230.png",
+      "mean_similarity": 0.9360189437866211,
+      "rank": 149
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\dromedary_s_000658.png",
+      "mean_similarity": 0.9359834790229797,
+      "rank": 150
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\camel_s_001721.png",
+      "mean_similarity": 0.9358648657798767,
+      "rank": 151
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\camel_s_000520.png",
+      "mean_similarity": 0.9357845187187195,
+      "rank": 152
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\camel_s_001801.png",
+      "mean_similarity": 0.9357839822769165,
+      "rank": 153
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\camel_s_002208.png",
+      "mean_similarity": 0.935739278793335,
+      "rank": 154
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\camel_s_000428.png",
+      "mean_similarity": 0.9357284307479858,
+      "rank": 155
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\dromedary_s_001850.png",
+      "mean_similarity": 0.9357176423072815,
+      "rank": 156
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\bactrian_camel_s_000001.png",
+      "mean_similarity": 0.9357068538665771,
+      "rank": 157
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\arabian_camel_s_000174.png",
+      "mean_similarity": 0.9356787204742432,
+      "rank": 158
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\bactrian_camel_s_000038.png",
+      "mean_similarity": 0.9356223344802856,
+      "rank": 159
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\camel_s_000026.png",
+      "mean_similarity": 0.935619056224823,
+      "rank": 160
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\arabian_camel_s_000122.png",
+      "mean_similarity": 0.9355948567390442,
+      "rank": 161
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\dromedary_s_000611.png",
+      "mean_similarity": 0.9355823397636414,
+      "rank": 162
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\camel_s_000175.png",
+      "mean_similarity": 0.9354972839355469,
+      "rank": 163
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\dromedary_s_001855.png",
+      "mean_similarity": 0.9354504942893982,
+      "rank": 164
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\camel_s_001184.png",
+      "mean_similarity": 0.9354361891746521,
+      "rank": 165
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\dromedary_s_001084.png",
+      "mean_similarity": 0.935432493686676,
+      "rank": 166
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\camel_s_002299.png",
+      "mean_similarity": 0.9354307055473328,
+      "rank": 167
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\camel_s_002140.png",
+      "mean_similarity": 0.9353933930397034,
+      "rank": 168
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\arabian_camel_s_000341.png",
+      "mean_similarity": 0.9353536367416382,
+      "rank": 169
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\arabian_camel_s_000132.png",
+      "mean_similarity": 0.9353283047676086,
+      "rank": 170
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\arabian_camel_s_000521.png",
+      "mean_similarity": 0.9353190064430237,
+      "rank": 171
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\dromedary_s_000764.png",
+      "mean_similarity": 0.9353100657463074,
+      "rank": 172
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\camel_s_001336.png",
+      "mean_similarity": 0.9353024363517761,
+      "rank": 173
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\arabian_camel_s_000386.png",
+      "mean_similarity": 0.9352973699569702,
+      "rank": 174
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\arabian_camel_s_000031.png",
+      "mean_similarity": 0.9352943301200867,
+      "rank": 175
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\camel_s_001163.png",
+      "mean_similarity": 0.9352737665176392,
+      "rank": 176
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\dromedary_s_000959.png",
+      "mean_similarity": 0.9352688789367676,
+      "rank": 177
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\dromedary_s_001024.png",
+      "mean_similarity": 0.9352210164070129,
+      "rank": 178
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\camel_s_002073.png",
+      "mean_similarity": 0.9351428747177124,
+      "rank": 179
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\camel_s_000143.png",
+      "mean_similarity": 0.9350741505622864,
+      "rank": 180
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\camel_s_001817.png",
+      "mean_similarity": 0.935057520866394,
+      "rank": 181
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\camel_s_001919.png",
+      "mean_similarity": 0.9350205659866333,
+      "rank": 182
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\camelus_dromedarius_s_000002.png",
+      "mean_similarity": 0.9349822998046875,
+      "rank": 183
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\camel_s_001722.png",
+      "mean_similarity": 0.9349251389503479,
+      "rank": 184
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\arabian_camel_s_000918.png",
+      "mean_similarity": 0.9349047541618347,
+      "rank": 185
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\camelus_dromedarius_s_000117.png",
+      "mean_similarity": 0.9348974227905273,
+      "rank": 186
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\dromedary_s_000088.png",
+      "mean_similarity": 0.934882402420044,
+      "rank": 187
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\camelus_dromedarius_s_000543.png",
+      "mean_similarity": 0.93483966588974,
+      "rank": 188
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\arabian_camel_s_000761.png",
+      "mean_similarity": 0.9348067045211792,
+      "rank": 189
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\camelus_dromedarius_s_000710.png",
+      "mean_similarity": 0.9347941279411316,
+      "rank": 190
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\camel_s_000187.png",
+      "mean_similarity": 0.934789776802063,
+      "rank": 191
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\camel_s_000926.png",
+      "mean_similarity": 0.9347726106643677,
+      "rank": 192
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\camel_s_002134.png",
+      "mean_similarity": 0.9346903562545776,
+      "rank": 193
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\camel_s_002062.png",
+      "mean_similarity": 0.9346728324890137,
+      "rank": 194
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\camel_s_000886.png",
+      "mean_similarity": 0.9346117973327637,
+      "rank": 195
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\dromedary_s_000422.png",
+      "mean_similarity": 0.9345767498016357,
+      "rank": 196
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\camel_s_000290.png",
+      "mean_similarity": 0.9345289468765259,
+      "rank": 197
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\camel_s_000544.png",
+      "mean_similarity": 0.9345061182975769,
+      "rank": 198
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\camel_s_000354.png",
+      "mean_similarity": 0.9344993829727173,
+      "rank": 199
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\camel_s_001338.png",
+      "mean_similarity": 0.9344666004180908,
+      "rank": 200
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\arabian_camel_s_001286.png",
+      "mean_similarity": 0.9344578981399536,
+      "rank": 201
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\camel_s_000017.png",
+      "mean_similarity": 0.9344038367271423,
+      "rank": 202
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\dromedary_s_001204.png",
+      "mean_similarity": 0.9343482851982117,
+      "rank": 203
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\camelus_dromedarius_s_000261.png",
+      "mean_similarity": 0.9343379139900208,
+      "rank": 204
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\camel_s_000963.png",
+      "mean_similarity": 0.934304416179657,
+      "rank": 205
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\camel_s_001816.png",
+      "mean_similarity": 0.9342429637908936,
+      "rank": 206
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\arabian_camel_s_001039.png",
+      "mean_similarity": 0.9340607523918152,
+      "rank": 207
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\dromedary_s_001479.png",
+      "mean_similarity": 0.9340165257453918,
+      "rank": 208
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\camelus_dromedarius_s_000324.png",
+      "mean_similarity": 0.933967649936676,
+      "rank": 209
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\camel_s_000185.png",
+      "mean_similarity": 0.9339629411697388,
+      "rank": 210
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\camel_s_002301.png",
+      "mean_similarity": 0.9338637590408325,
+      "rank": 211
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\camelus_dromedarius_s_000298.png",
+      "mean_similarity": 0.9337990880012512,
+      "rank": 212
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\arabian_camel_s_000596.png",
+      "mean_similarity": 0.9337933659553528,
+      "rank": 213
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\dromedary_s_001828.png",
+      "mean_similarity": 0.933752715587616,
+      "rank": 214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\camel_s_002202.png",
+      "mean_similarity": 0.9337080717086792,
+      "rank": 215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\camelus_dromedarius_s_000598.png",
+      "mean_similarity": 0.9336994290351868,
+      "rank": 216
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\dromedary_s_000181.png",
+      "mean_similarity": 0.9336749911308289,
+      "rank": 217
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\camel_s_001881.png",
+      "mean_similarity": 0.933652937412262,
+      "rank": 218
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\camelus_dromedarius_s_000327.png",
+      "mean_similarity": 0.9335886240005493,
+      "rank": 219
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\arabian_camel_s_000151.png",
+      "mean_similarity": 0.9335083961486816,
+      "rank": 220
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\arabian_camel_s_000332.png",
+      "mean_similarity": 0.9334607720375061,
+      "rank": 221
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\camel_s_000256.png",
+      "mean_similarity": 0.9334205389022827,
+      "rank": 222
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\bactrian_camel_s_000080.png",
+      "mean_similarity": 0.9333614706993103,
+      "rank": 223
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\camel_s_002163.png",
+      "mean_similarity": 0.9333603978157043,
+      "rank": 224
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\arabian_camel_s_000368.png",
+      "mean_similarity": 0.9333267211914062,
+      "rank": 225
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\arabian_camel_s_000014.png",
+      "mean_similarity": 0.9333118200302124,
+      "rank": 226
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\dromedary_s_000077.png",
+      "mean_similarity": 0.9332984685897827,
+      "rank": 227
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\camel_s_001956.png",
+      "mean_similarity": 0.9332297444343567,
+      "rank": 228
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\camelus_dromedarius_s_000035.png",
+      "mean_similarity": 0.9332197308540344,
+      "rank": 229
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\camelus_dromedarius_s_000295.png",
+      "mean_similarity": 0.9331932067871094,
+      "rank": 230
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\camel_s_002207.png",
+      "mean_similarity": 0.9330983757972717,
+      "rank": 231
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\camel_s_000102.png",
+      "mean_similarity": 0.9330627918243408,
+      "rank": 232
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\arabian_camel_s_001392.png",
+      "mean_similarity": 0.9330501556396484,
+      "rank": 233
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\dromedary_s_000175.png",
+      "mean_similarity": 0.9329696297645569,
+      "rank": 234
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\camel_s_000044.png",
+      "mean_similarity": 0.932964563369751,
+      "rank": 235
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\camel_s_001449.png",
+      "mean_similarity": 0.9329473376274109,
+      "rank": 236
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\camel_s_001030.png",
+      "mean_similarity": 0.9328984022140503,
+      "rank": 237
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\camel_s_001404.png",
+      "mean_similarity": 0.932880699634552,
+      "rank": 238
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\camel_s_000913.png",
+      "mean_similarity": 0.932849109172821,
+      "rank": 239
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\camel_s_001969.png",
+      "mean_similarity": 0.9328275918960571,
+      "rank": 240
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\camel_s_002085.png",
+      "mean_similarity": 0.9327846169471741,
+      "rank": 241
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\camel_s_002219.png",
+      "mean_similarity": 0.9327600598335266,
+      "rank": 242
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\camel_s_001627.png",
+      "mean_similarity": 0.9327041506767273,
+      "rank": 243
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\camel_s_000644.png",
+      "mean_similarity": 0.9326983094215393,
+      "rank": 244
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\arabian_camel_s_000008.png",
+      "mean_similarity": 0.932689905166626,
+      "rank": 245
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\camel_s_001446.png",
+      "mean_similarity": 0.9326702356338501,
+      "rank": 246
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\arabian_camel_s_000793.png",
+      "mean_similarity": 0.9326503276824951,
+      "rank": 247
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\camelus_dromedarius_s_000104.png",
+      "mean_similarity": 0.9325133562088013,
+      "rank": 248
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\camelus_dromedarius_s_000003.png",
+      "mean_similarity": 0.9324920773506165,
+      "rank": 249
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\016.camel\\camel_s_000036.png",
+      "mean_similarity": 0.9323793053627014,
+      "rank": 250
+    }
+  ]
+}

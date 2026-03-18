@@ -1,0 +1,27 @@
+{
+  "class_name": "Mallard",
+  "global_description": "A medium-sized duck with a rounded body and a distinctive iridescent green head. The male features a bright yellow bill and a white ring around its neck. The body is primarily gray with a chestnut-brown breast and black tail. Females are mottled brown with an orange bill.",
+  "discriminative_attributes": [
+    "Iridescent green head",
+    "Bright yellow bill",
+    "White neck ring",
+    "Chestnut-brown breast",
+    "Mottled brown female plumage"
+  ],
+  "part_details": {
+    "head": "Glossy, iridescent green with a smooth texture.",
+    "bill": "Bright yellow in males, orange in females, slightly flattened.",
+    "neck": "White ring separating the head from the body.",
+    "breast": "Rich chestnut-brown, smooth feathers.",
+    "body": "Gray with a mix of black and white patterns, rounded shape.",
+    "tail": "Short, black with a slight upward curl."
+  },
+  "spatial_relations": [
+    "The iridescent green head sits atop the white-ringed neck.",
+    "The bright yellow bill extends forward from the head.",
+    "The chestnut-brown breast transitions into the gray body.",
+    "The black tail is positioned at the rear of the body."
+  ],
+  "original_dataset_key": "CUB200",
+  "original_class_key": "mallard"
+}

@@ -1,0 +1,25 @@
+{
+  "class_name": "Bird",
+  "global_description": "A small, plump songbird with a distinctive bright yellow breast and olive-green back. It has a rounded body, short wings, and a long tail. The face is marked with a white eye-ring and a dark mask across the eyes. The underparts are smooth and vibrant.",
+  "discriminative_attributes": [
+    "Bright yellow breast",
+    "Olive-green back",
+    "White eye-ring",
+    "Dark eye mask",
+    "Long tail"
+  ],
+  "part_details": {
+    "breast": "Bright yellow, smooth texture",
+    "back": "Olive-green, slightly glossy",
+    "eye_ring": "White, circular",
+    "eye_mask": "Dark, contrasting with yellow",
+    "tail": "Long, narrow, olive-green"
+  },
+  "spatial_relations": [
+    "The white eye-ring encircles the eye",
+    "The dark mask crosses the eyes",
+    "The long tail extends from the rounded body"
+  ],
+  "original_dataset_key": "CUB200",
+  "original_class_key": "yellow_breasted_chat"
+}

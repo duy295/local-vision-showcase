@@ -1,0 +1,26 @@
+{
+  "class_name": "girl",
+  "global_description": "Young female human with a slender, upright body, smooth skin, often with long hair. Clothing varies widely in color and style, typically casual or playful. Facial features include a small nose, bright eyes, and a gentle smile.",
+  "discriminative_attributes": [
+    "Slender body",
+    "Long hair",
+    "Smooth skin",
+    "Bright eyes",
+    "Gentle smile"
+  ],
+  "part_details": {
+    "head": "Round with long hair, bright eyes, small nose, and gentle smile",
+    "body": "Slender and upright, smooth skin",
+    "hair": "Long, flowing, various colors",
+    "eyes": "Bright, expressive",
+    "clothing": "Varied in color and style, often casual"
+  },
+  "spatial_relations": [
+    "Head on top of body",
+    "Hair extends from head",
+    "Eyes positioned on face",
+    "Clothing covers body"
+  ],
+  "original_dataset_key": "cifar100",
+  "original_class_key": "girl"
+}

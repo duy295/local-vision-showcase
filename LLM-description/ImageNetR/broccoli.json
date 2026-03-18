@@ -1,0 +1,22 @@
+{
+  "class_name": "broccoli",
+  "global_description": "Green vegetable with a tree-like structure, consisting of a thick stalk and a dense cluster of small, tightly packed florets. The surface is rough and bumpy, with a vibrant green color. The stalk is firm and cylindrical, while the florets form a rounded, bushy top.",
+  "discriminative_attributes": [
+    "Tree-like structure",
+    "Dense green florets",
+    "Thick cylindrical stalk",
+    "Rough bumpy surface",
+    "Vibrant green color"
+  ],
+  "part_details": {
+    "stalk": "Thick, firm, cylindrical, pale green",
+    "florets": "Dense, small, rounded, vibrant green",
+    "surface": "Rough, bumpy texture"
+  },
+  "spatial_relations": [
+    "Florets form a bushy top on the stalk",
+    "Stalk supports the florets"
+  ],
+  "original_dataset_key": "ImageNetR",
+  "original_class_key": "broccoli"
+}

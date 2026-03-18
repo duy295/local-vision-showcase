@@ -1,0 +1,26 @@
+{
+  "class_name": "helicopter",
+  "global_description": "Aircraft with a sleek, elongated body, large rotating rotor blades on top, tail rotor at the rear, typically metallic with a glossy finish, often in shades of white, blue, or green.",
+  "discriminative_attributes": [
+    "Large rotating rotor blades",
+    "Tail rotor at rear",
+    "Sleek, elongated body",
+    "Glossy metallic finish",
+    "Cockpit with large windows"
+  ],
+  "part_details": {
+    "rotor": "Large, rotating blades on top",
+    "body": "Sleek, elongated, metallic",
+    "tail": "Long with a small rotor",
+    "cockpit": "Large windows, front of body",
+    "landing_skids": "Metallic, beneath body"
+  },
+  "spatial_relations": [
+    "Rotor blades on top of body",
+    "Tail rotor at rear of tail",
+    "Cockpit at front of body",
+    "Landing skids beneath body"
+  ],
+  "original_dataset_key": "ImageNetR",
+  "original_class_key": "helicopter"
+}

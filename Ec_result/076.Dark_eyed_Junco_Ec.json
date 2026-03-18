@@ -1,0 +1,159 @@
+{
+  "class_name": "076.Dark_eyed_Junco",
+  "class_idx": 75,
+  "num_images_in_class": 30,
+  "ec_size_requested": 30,
+  "ec_size_actual": 30,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\076.Dark_eyed_Junco\\Dark_Eyed_Junco_0130_67867.jpg",
+      "mean_similarity": 0.9457907676696777,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\076.Dark_eyed_Junco\\Dark_Eyed_Junco_0109_66326.jpg",
+      "mean_similarity": 0.945309579372406,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\076.Dark_eyed_Junco\\Dark_Eyed_Junco_0090_69051.jpg",
+      "mean_similarity": 0.9452377557754517,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\076.Dark_eyed_Junco\\Dark_Eyed_Junco_0026_68061.jpg",
+      "mean_similarity": 0.9449313282966614,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\076.Dark_eyed_Junco\\Dark_Eyed_Junco_0008_68321.jpg",
+      "mean_similarity": 0.9447475075721741,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\076.Dark_eyed_Junco\\Dark_Eyed_Junco_0072_67810.jpg",
+      "mean_similarity": 0.9442259669303894,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\076.Dark_eyed_Junco\\Dark_Eyed_Junco_0094_68735.jpg",
+      "mean_similarity": 0.9442200064659119,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\076.Dark_eyed_Junco\\Dark_Eyed_Junco_0048_66981.jpg",
+      "mean_similarity": 0.9440193176269531,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\076.Dark_eyed_Junco\\Dark_Eyed_Junco_0056_67498.jpg",
+      "mean_similarity": 0.943328857421875,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\076.Dark_eyed_Junco\\Dark_Eyed_Junco_0005_68813.jpg",
+      "mean_similarity": 0.9431780576705933,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\076.Dark_eyed_Junco\\Dark_Eyed_Junco_0062_68198.jpg",
+      "mean_similarity": 0.942882776260376,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\076.Dark_eyed_Junco\\Dark_Eyed_Junco_0103_67700.jpg",
+      "mean_similarity": 0.9427072405815125,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\076.Dark_eyed_Junco\\Dark_Eyed_Junco_0091_67304.jpg",
+      "mean_similarity": 0.9422101974487305,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\076.Dark_eyed_Junco\\Dark_Eyed_Junco_0013_66332.jpg",
+      "mean_similarity": 0.9417049884796143,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\076.Dark_eyed_Junco\\Dark_Eyed_Junco_0088_66722.jpg",
+      "mean_similarity": 0.941550612449646,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\076.Dark_eyed_Junco\\Dark_Eyed_Junco_0089_68498.jpg",
+      "mean_similarity": 0.9401357769966125,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\076.Dark_eyed_Junco\\Dark_Eyed_Junco_0099_67868.jpg",
+      "mean_similarity": 0.9399174451828003,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\076.Dark_eyed_Junco\\Dark_Eyed_Junco_0061_66858.jpg",
+      "mean_similarity": 0.9388878345489502,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\076.Dark_eyed_Junco\\Dark_Eyed_Junco_0115_68840.jpg",
+      "mean_similarity": 0.9388726353645325,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\076.Dark_eyed_Junco\\Dark_Eyed_Junco_0087_68102.jpg",
+      "mean_similarity": 0.9384856224060059,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\076.Dark_eyed_Junco\\Dark_Eyed_Junco_0071_67426.jpg",
+      "mean_similarity": 0.9383801817893982,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\076.Dark_eyed_Junco\\Dark_Eyed_Junco_0012_66932.jpg",
+      "mean_similarity": 0.9378488659858704,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\076.Dark_eyed_Junco\\Dark_Eyed_Junco_0113_68470.jpg",
+      "mean_similarity": 0.9378136396408081,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\076.Dark_eyed_Junco\\Dark_Eyed_Junco_0043_68689.jpg",
+      "mean_similarity": 0.9377121925354004,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\076.Dark_eyed_Junco\\Dark_Eyed_Junco_0096_68514.jpg",
+      "mean_similarity": 0.9354121685028076,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\076.Dark_eyed_Junco\\Dark_Eyed_Junco_0030_68439.jpg",
+      "mean_similarity": 0.9342122673988342,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\076.Dark_eyed_Junco\\Dark_Eyed_Junco_0086_66437.jpg",
+      "mean_similarity": 0.932638943195343,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\076.Dark_eyed_Junco\\Dark_Eyed_Junco_0084_66455.jpg",
+      "mean_similarity": 0.9286887645721436,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\076.Dark_eyed_Junco\\Dark_Eyed_Junco_0132_66476.jpg",
+      "mean_similarity": 0.926835298538208,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\076.Dark_eyed_Junco\\Dark_Eyed_Junco_0081_67223.jpg",
+      "mean_similarity": 0.9221695065498352,
+      "rank": 30
+    }
+  ]
+}

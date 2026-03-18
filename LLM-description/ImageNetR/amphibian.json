@@ -1,0 +1,25 @@
+{
+  "class_name": "amphibian",
+  "global_description": "Small to medium-sized creature with smooth moist skin, usually green or brown, short limbs, webbed feet, bulging eyes, and a rounded body suitable for swimming and hopping.",
+  "discriminative_attributes": [
+    "Smooth, moist skin",
+    "Green or brown color",
+    "Short limbs",
+    "Webbed feet",
+    "Bulging eyes"
+  ],
+  "part_details": {
+    "head": "Rounded head with bulging eyes",
+    "body": "Compact, rounded with smooth skin",
+    "limbs": "Short legs, sometimes webbed",
+    "feet": "Webbed for swimming",
+    "skin": "Moist and smooth"
+  },
+  "spatial_relations": [
+    "Limbs attached to sides of body",
+    "Feet at end of limbs",
+    "Head on top of body"
+  ],
+  "original_dataset_key": "ImageNetR",
+  "original_class_key": "amphibian"
+}

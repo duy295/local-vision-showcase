@@ -1,0 +1,26 @@
+{
+  "class_name": "bow",
+  "global_description": "Curved, elongated object typically made of wood or composite materials, featuring a central grip, flexible limbs, and a taut string. Often brown or black, used for archery or decoration.",
+  "discriminative_attributes": [
+    "Curved elongated shape",
+    "Central grip",
+    "Flexible limbs",
+    "Taut string",
+    "Wood or composite material"
+  ],
+  "part_details": {
+    "grip": "Central section, often thicker, for holding",
+    "limbs": "Flexible, extending from grip, curved",
+    "string": "Taut, connecting limb tips",
+    "tips": "Ends of limbs, often reinforced",
+    "material": "Wood or composite, smooth texture"
+  },
+  "spatial_relations": [
+    "Grip is central on bow",
+    "Limbs extend from grip",
+    "String connects limb tips",
+    "Tips at ends of limbs"
+  ],
+  "original_dataset_key": "ImageNetR",
+  "original_class_key": "bow"
+}

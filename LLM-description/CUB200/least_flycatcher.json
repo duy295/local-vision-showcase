@@ -1,0 +1,25 @@
+{
+  "class_name": "Bird",
+  "global_description": "A small, compact bird with a short, rounded body and a relatively large head. It has a grayish-olive upper body and pale underparts. The wings and tail are short, and the beak is small and pointed.",
+  "discriminative_attributes": [
+    "Grayish-olive upper body",
+    "Pale underparts",
+    "Short wings and tail",
+    "Small pointed beak",
+    "Large head relative to body"
+  ],
+  "part_details": {
+    "head": "Large relative to body, grayish-olive with a small pointed beak.",
+    "body": "Compact and rounded, grayish-olive on top, pale underneath.",
+    "wings": "Short and rounded, matching the upper body color.",
+    "tail": "Short, grayish-olive, slightly rounded.",
+    "beak": "Small, pointed, suitable for catching insects."
+  },
+  "spatial_relations": [
+    "The large head is positioned at the front of the compact body.",
+    "The short wings are attached to the sides of the body.",
+    "The short tail extends from the rear of the body."
+  ],
+  "original_dataset_key": "CUB200",
+  "original_class_key": "least_flycatcher"
+}

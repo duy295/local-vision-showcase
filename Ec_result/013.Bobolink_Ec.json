@@ -1,0 +1,159 @@
+{
+  "class_name": "013.Bobolink",
+  "class_idx": 12,
+  "num_images_in_class": 30,
+  "ec_size_requested": 30,
+  "ec_size_actual": 30,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\013.Bobolink\\Bobolink_0019_10552.jpg",
+      "mean_similarity": 0.946779191493988,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\013.Bobolink\\Bobolink_0050_9821.jpg",
+      "mean_similarity": 0.9464250802993774,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\013.Bobolink\\Bobolink_0020_9194.jpg",
+      "mean_similarity": 0.945656955242157,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\013.Bobolink\\Bobolink_0133_9618.jpg",
+      "mean_similarity": 0.9456149339675903,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\013.Bobolink\\Bobolink_0044_9990.jpg",
+      "mean_similarity": 0.9454428553581238,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\013.Bobolink\\Bobolink_0065_9375.jpg",
+      "mean_similarity": 0.9449979066848755,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\013.Bobolink\\Bobolink_0059_10041.jpg",
+      "mean_similarity": 0.9445803165435791,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\013.Bobolink\\Bobolink_0033_10809.jpg",
+      "mean_similarity": 0.9442424178123474,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\013.Bobolink\\Bobolink_0052_9423.jpg",
+      "mean_similarity": 0.9435579180717468,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\013.Bobolink\\Bobolink_0053_10166.jpg",
+      "mean_similarity": 0.9434539675712585,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\013.Bobolink\\Bobolink_0094_9823.jpg",
+      "mean_similarity": 0.943391740322113,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\013.Bobolink\\Bobolink_0001_9261.jpg",
+      "mean_similarity": 0.942923903465271,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\013.Bobolink\\Bobolink_0101_9811.jpg",
+      "mean_similarity": 0.9428192377090454,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\013.Bobolink\\Bobolink_0032_10217.jpg",
+      "mean_similarity": 0.9427225589752197,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\013.Bobolink\\Bobolink_0104_10273.jpg",
+      "mean_similarity": 0.9425744414329529,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\013.Bobolink\\Bobolink_0002_11085.jpg",
+      "mean_similarity": 0.9422916769981384,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\013.Bobolink\\Bobolink_0107_10252.jpg",
+      "mean_similarity": 0.9421554207801819,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\013.Bobolink\\Bobolink_0092_10026.jpg",
+      "mean_similarity": 0.9419708251953125,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\013.Bobolink\\Bobolink_0047_9204.jpg",
+      "mean_similarity": 0.941366970539093,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\013.Bobolink\\Bobolink_0014_11055.jpg",
+      "mean_similarity": 0.9412381649017334,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\013.Bobolink\\Bobolink_0008_9289.jpg",
+      "mean_similarity": 0.9409561157226562,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\013.Bobolink\\Bobolink_0119_10430.jpg",
+      "mean_similarity": 0.9402376413345337,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\013.Bobolink\\Bobolink_0131_9578.jpg",
+      "mean_similarity": 0.9401670694351196,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\013.Bobolink\\Bobolink_0013_9367.jpg",
+      "mean_similarity": 0.9383746981620789,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\013.Bobolink\\Bobolink_0117_10215.jpg",
+      "mean_similarity": 0.9366748332977295,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\013.Bobolink\\Bobolink_0124_10182.jpg",
+      "mean_similarity": 0.9364940524101257,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\013.Bobolink\\Bobolink_0102_10807.jpg",
+      "mean_similarity": 0.9364437460899353,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\013.Bobolink\\Bobolink_0064_10092.jpg",
+      "mean_similarity": 0.9300144910812378,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\013.Bobolink\\Bobolink_0099_9314.jpg",
+      "mean_similarity": 0.9275457262992859,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\013.Bobolink\\Bobolink_0069_9085.jpg",
+      "mean_similarity": 0.9211916923522949,
+      "rank": 30
+    }
+  ]
+}

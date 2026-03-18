@@ -1,0 +1,23 @@
+{
+  "class_name": "artichoke",
+  "global_description": "A large, bulbous vegetable with a layered, spiky appearance. The outer leaves are thick, green, and slightly purple-tipped, while the inner core is tender and pale. The texture is fibrous and the overall shape is rounded with a tapered top.",
+  "discriminative_attributes": [
+    "Bulbous shape",
+    "Layered spiky leaves",
+    "Green with purple tips",
+    "Fibrous texture",
+    "Tapered top"
+  ],
+  "part_details": {
+    "outer leaves": "Thick, green with purple tips, spiky edges",
+    "inner core": "Tender, pale, located at the center",
+    "stem": "Short, thick, green, supporting the base"
+  },
+  "spatial_relations": [
+    "Outer leaves surround inner core",
+    "Stem extends from base",
+    "Leaves taper towards top"
+  ],
+  "original_dataset_key": "ImageNetR",
+  "original_class_key": "artichoke"
+}

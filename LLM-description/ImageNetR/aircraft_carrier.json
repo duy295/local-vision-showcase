@@ -1,0 +1,26 @@
+{
+  "class_name": "aircraft carrier",
+  "global_description": "Massive naval ship with flat, expansive deck, gray metallic body, control tower, runway markings, and aircraft parked on deck. Designed for launching and recovering aircraft at sea.",
+  "discriminative_attributes": [
+    "Flat expansive deck",
+    "Control tower",
+    "Runway markings",
+    "Aircraft parked on deck",
+    "Gray metallic body"
+  ],
+  "part_details": {
+    "deck": "Flat, expansive with runway markings",
+    "control tower": "Tall structure with windows",
+    "body": "Gray metallic, massive",
+    "aircraft": "Various parked on deck",
+    "runway": "Marked on deck for takeoff and landing"
+  },
+  "spatial_relations": [
+    "Control tower rises from deck",
+    "Aircraft positioned on deck",
+    "Runway markings on deck surface",
+    "Deck spans length of body"
+  ],
+  "original_dataset_key": "ImageNetR",
+  "original_class_key": "aircraft_carrier"
+}

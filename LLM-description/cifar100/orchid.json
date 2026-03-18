@@ -1,0 +1,25 @@
+{
+  "class_name": "orchid",
+  "global_description": "Elegant flowering plant with long, slender stems and intricate blooms. The flowers are often vibrant, with colors ranging from white and pink to purple and yellow. The petals are smooth and waxy, sometimes with unique patterns or spots. Orchids have a central column and a distinctive lip petal, adding to their exotic appearance.",
+  "discriminative_attributes": [
+    "Long slender stems",
+    "Intricate vibrant blooms",
+    "Smooth waxy petals",
+    "Distinctive lip petal",
+    "Central column in flower"
+  ],
+  "part_details": {
+    "stem": "Long and slender, supporting the flowers",
+    "flower": "Intricate with vibrant colors, smooth waxy petals",
+    "petals": "Smooth, sometimes patterned or spotted",
+    "lip": "Distinctive petal, often larger and differently shaped",
+    "column": "Central part of the flower, unique to orchids"
+  },
+  "spatial_relations": [
+    "Flowers positioned along the stem",
+    "Lip petal extends from the flower",
+    "Column located at the center of the flower"
+  ],
+  "original_dataset_key": "cifar100",
+  "original_class_key": "orchid"
+}

@@ -1,0 +1,24 @@
+{
+  "class_name": "bucket",
+  "global_description": "Cylindrical container with a flat base, typically made of plastic or metal. It has a smooth surface, often in colors like blue, red, or silver. A curved handle is attached to the top for carrying, and the rim is slightly thicker for reinforcement.",
+  "discriminative_attributes": [
+    "Cylindrical shape",
+    "Flat base",
+    "Curved handle",
+    "Smooth surface",
+    "Reinforced rim"
+  ],
+  "part_details": {
+    "body": "Cylindrical, smooth surface, often colored",
+    "base": "Flat, providing stability",
+    "handle": "Curved, attached to top",
+    "rim": "Slightly thicker, reinforced"
+  },
+  "spatial_relations": [
+    "Handle attached to top of body",
+    "Base at bottom of body",
+    "Rim encircles top edge"
+  ],
+  "original_dataset_key": "ImageNetR",
+  "original_class_key": "bucket"
+}

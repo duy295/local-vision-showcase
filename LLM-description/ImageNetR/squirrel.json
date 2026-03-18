@@ -1,0 +1,25 @@
+{
+  "class_name": "squirrel",
+  "global_description": "Small mammal with a slender, agile body, bushy tail, and large eyes. Fur is typically gray, brown, or reddish, with a soft, fluffy texture. Adapted for climbing with sharp claws and strong hind legs.",
+  "discriminative_attributes": [
+    "Bushy tail",
+    "Large eyes",
+    "Sharp claws",
+    "Slender body",
+    "Soft fur"
+  ],
+  "part_details": {
+    "head": "Small with large, expressive eyes and short ears",
+    "body": "Slender and agile, covered in soft fur",
+    "tail": "Long and bushy, providing balance",
+    "legs": "Strong hind legs with sharp claws for climbing",
+    "fur": "Soft, fluffy, typically gray, brown, or reddish"
+  },
+  "spatial_relations": [
+    "Tail extends from rear of body",
+    "Legs positioned beneath body",
+    "Head at front with eyes facing forward"
+  ],
+  "original_dataset_key": "ImageNetR",
+  "original_class_key": "squirrel"
+}

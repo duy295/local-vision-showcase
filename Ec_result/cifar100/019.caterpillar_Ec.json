@@ -1,0 +1,1259 @@
+{
+  "class_name": "caterpillar",
+  "class_idx": 18,
+  "num_images_in_class": 500,
+  "ec_size_requested": 250,
+  "ec_size_actual": 250,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\cankerworm_s_000556.png",
+      "mean_similarity": 0.9453477263450623,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\caterpillar_s_000549.png",
+      "mean_similarity": 0.9450671672821045,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\tussock_caterpillar_s_000180.png",
+      "mean_similarity": 0.9450370669364929,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\caterpillar_s_000117.png",
+      "mean_similarity": 0.9448306560516357,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\cankerworm_s_000554.png",
+      "mean_similarity": 0.944697916507721,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\caterpillar_s_000655.png",
+      "mean_similarity": 0.9446426033973694,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\caterpillar_s_000440.png",
+      "mean_similarity": 0.9445509910583496,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\caterpillar_s_000973.png",
+      "mean_similarity": 0.9445328712463379,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\fall_cankerworm_s_000076.png",
+      "mean_similarity": 0.9444685578346252,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\caterpillar_s_000205.png",
+      "mean_similarity": 0.9444676041603088,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\caterpillar_s_000884.png",
+      "mean_similarity": 0.9443809986114502,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\caterpillar_s_000882.png",
+      "mean_similarity": 0.944303572177887,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\caterpillar_s_001139.png",
+      "mean_similarity": 0.944297194480896,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\cankerworm_s_000558.png",
+      "mean_similarity": 0.9442965388298035,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\caterpillar_s_002153.png",
+      "mean_similarity": 0.9442132711410522,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\caterpillar_s_001032.png",
+      "mean_similarity": 0.9442050457000732,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\caterpillar_s_001042.png",
+      "mean_similarity": 0.9441437721252441,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\tussock_caterpillar_s_000019.png",
+      "mean_similarity": 0.9441096782684326,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\tussock_caterpillar_s_000438.png",
+      "mean_similarity": 0.944041907787323,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\caterpillar_s_000721.png",
+      "mean_similarity": 0.9440189599990845,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\caterpillar_s_000438.png",
+      "mean_similarity": 0.9440116882324219,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\caterpillar_s_000086.png",
+      "mean_similarity": 0.9439905285835266,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\caterpillar_s_001485.png",
+      "mean_similarity": 0.9439738988876343,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\caterpillar_s_000503.png",
+      "mean_similarity": 0.943966805934906,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\caterpillar_s_000227.png",
+      "mean_similarity": 0.9439605474472046,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\caterpillar_s_001677.png",
+      "mean_similarity": 0.9439486861228943,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\caterpillar_s_001381.png",
+      "mean_similarity": 0.9439260959625244,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\caterpillar_s_000375.png",
+      "mean_similarity": 0.9438703060150146,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\caterpillar_s_001473.png",
+      "mean_similarity": 0.9438216686248779,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\caterpillar_s_001474.png",
+      "mean_similarity": 0.943800687789917,
+      "rank": 30
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\fall_cankerworm_s_000289.png",
+      "mean_similarity": 0.9437957406044006,
+      "rank": 31
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\caterpillar_s_001338.png",
+      "mean_similarity": 0.9437867403030396,
+      "rank": 32
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\tussock_caterpillar_s_000494.png",
+      "mean_similarity": 0.9437357783317566,
+      "rank": 33
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\cankerworm_s_000567.png",
+      "mean_similarity": 0.94366455078125,
+      "rank": 34
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\caterpillar_s_001282.png",
+      "mean_similarity": 0.9436599016189575,
+      "rank": 35
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\tussock_caterpillar_s_000167.png",
+      "mean_similarity": 0.9436573386192322,
+      "rank": 36
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\caterpillar_s_001025.png",
+      "mean_similarity": 0.9436399340629578,
+      "rank": 37
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\caterpillar_s_002148.png",
+      "mean_similarity": 0.9436092376708984,
+      "rank": 38
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\tussock_caterpillar_s_000016.png",
+      "mean_similarity": 0.9435278177261353,
+      "rank": 39
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\caterpillar_s_001455.png",
+      "mean_similarity": 0.9435147047042847,
+      "rank": 40
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\cankerworm_s_000166.png",
+      "mean_similarity": 0.9435060024261475,
+      "rank": 41
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\caterpillar_s_002673.png",
+      "mean_similarity": 0.9435008764266968,
+      "rank": 42
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\caterpillar_s_002580.png",
+      "mean_similarity": 0.9434943199157715,
+      "rank": 43
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\cankerworm_s_000139.png",
+      "mean_similarity": 0.9434298872947693,
+      "rank": 44
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\caterpillar_s_001785.png",
+      "mean_similarity": 0.9433625340461731,
+      "rank": 45
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\caterpillar_s_002213.png",
+      "mean_similarity": 0.9433445930480957,
+      "rank": 46
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\tussock_caterpillar_s_000510.png",
+      "mean_similarity": 0.9433098435401917,
+      "rank": 47
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\caterpillar_s_000907.png",
+      "mean_similarity": 0.9432579874992371,
+      "rank": 48
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\caterpillar_s_000244.png",
+      "mean_similarity": 0.9432322382926941,
+      "rank": 49
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\cankerworm_s_000575.png",
+      "mean_similarity": 0.943228542804718,
+      "rank": 50
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\caterpillar_s_002675.png",
+      "mean_similarity": 0.9432188868522644,
+      "rank": 51
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\caterpillar_s_000159.png",
+      "mean_similarity": 0.9431799650192261,
+      "rank": 52
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\caterpillar_s_001034.png",
+      "mean_similarity": 0.9431778192520142,
+      "rank": 53
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\caterpillar_s_000344.png",
+      "mean_similarity": 0.9431283473968506,
+      "rank": 54
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\caterpillar_s_001364.png",
+      "mean_similarity": 0.9430952668190002,
+      "rank": 55
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\tussock_caterpillar_s_000015.png",
+      "mean_similarity": 0.9430950284004211,
+      "rank": 56
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\caterpillar_s_001144.png",
+      "mean_similarity": 0.9430678486824036,
+      "rank": 57
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\caterpillar_s_000040.png",
+      "mean_similarity": 0.9430525302886963,
+      "rank": 58
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\caterpillar_s_000707.png",
+      "mean_similarity": 0.9430440664291382,
+      "rank": 59
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\caterpillar_s_002665.png",
+      "mean_similarity": 0.9430319666862488,
+      "rank": 60
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\caterpillar_s_002578.png",
+      "mean_similarity": 0.943029522895813,
+      "rank": 61
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\caterpillar_s_001027.png",
+      "mean_similarity": 0.9429956078529358,
+      "rank": 62
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\tussock_caterpillar_s_000344.png",
+      "mean_similarity": 0.94298255443573,
+      "rank": 63
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\caterpillar_s_000339.png",
+      "mean_similarity": 0.9429681301116943,
+      "rank": 64
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\caterpillar_s_001148.png",
+      "mean_similarity": 0.9429615139961243,
+      "rank": 65
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\caterpillar_s_001222.png",
+      "mean_similarity": 0.9429523348808289,
+      "rank": 66
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\caterpillar_s_001850.png",
+      "mean_similarity": 0.9429457187652588,
+      "rank": 67
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\caterpillar_s_001019.png",
+      "mean_similarity": 0.9429308772087097,
+      "rank": 68
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\caterpillar_s_000002.png",
+      "mean_similarity": 0.9428766369819641,
+      "rank": 69
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\caterpillar_s_001848.png",
+      "mean_similarity": 0.9428499937057495,
+      "rank": 70
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\caterpillar_s_000928.png",
+      "mean_similarity": 0.9428401589393616,
+      "rank": 71
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\caterpillar_s_000977.png",
+      "mean_similarity": 0.9428359866142273,
+      "rank": 72
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\caterpillar_s_002255.png",
+      "mean_similarity": 0.9427559971809387,
+      "rank": 73
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\tussock_caterpillar_s_000484.png",
+      "mean_similarity": 0.9427351951599121,
+      "rank": 74
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\caterpillar_s_001171.png",
+      "mean_similarity": 0.9427238702774048,
+      "rank": 75
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\caterpillar_s_000680.png",
+      "mean_similarity": 0.942719042301178,
+      "rank": 76
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\caterpillar_s_000684.png",
+      "mean_similarity": 0.9427039623260498,
+      "rank": 77
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\tussock_caterpillar_s_000068.png",
+      "mean_similarity": 0.942695677280426,
+      "rank": 78
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\caterpillar_s_001037.png",
+      "mean_similarity": 0.9426756501197815,
+      "rank": 79
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\caterpillar_s_001804.png",
+      "mean_similarity": 0.9426730275154114,
+      "rank": 80
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\caterpillar_s_001438.png",
+      "mean_similarity": 0.942638635635376,
+      "rank": 81
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\caterpillar_s_000854.png",
+      "mean_similarity": 0.9426134824752808,
+      "rank": 82
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\fall_cankerworm_s_000220.png",
+      "mean_similarity": 0.9425684809684753,
+      "rank": 83
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\caterpillar_s_001633.png",
+      "mean_similarity": 0.9425283670425415,
+      "rank": 84
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\tussock_caterpillar_s_000403.png",
+      "mean_similarity": 0.9425028562545776,
+      "rank": 85
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\caterpillar_s_000916.png",
+      "mean_similarity": 0.9424905776977539,
+      "rank": 86
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\caterpillar_s_001005.png",
+      "mean_similarity": 0.9424824118614197,
+      "rank": 87
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\cankerworm_s_000561.png",
+      "mean_similarity": 0.9424582719802856,
+      "rank": 88
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\caterpillar_s_001036.png",
+      "mean_similarity": 0.9424483776092529,
+      "rank": 89
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\caterpillar_s_000658.png",
+      "mean_similarity": 0.9424474239349365,
+      "rank": 90
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\caterpillar_s_001570.png",
+      "mean_similarity": 0.9424396753311157,
+      "rank": 91
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\caterpillar_s_000913.png",
+      "mean_similarity": 0.9424303770065308,
+      "rank": 92
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\caterpillar_s_001142.png",
+      "mean_similarity": 0.9424216151237488,
+      "rank": 93
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\caterpillar_s_000661.png",
+      "mean_similarity": 0.9424039721488953,
+      "rank": 94
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\caterpillar_s_000555.png",
+      "mean_similarity": 0.9424002766609192,
+      "rank": 95
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\caterpillar_s_001590.png",
+      "mean_similarity": 0.9423947930335999,
+      "rank": 96
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\caterpillar_s_002244.png",
+      "mean_similarity": 0.9423848986625671,
+      "rank": 97
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\caterpillar_s_000410.png",
+      "mean_similarity": 0.9423799514770508,
+      "rank": 98
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\caterpillar_s_001223.png",
+      "mean_similarity": 0.9423615336418152,
+      "rank": 99
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\caterpillar_s_000137.png",
+      "mean_similarity": 0.9423581957817078,
+      "rank": 100
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\caterpillar_s_001271.png",
+      "mean_similarity": 0.9423490762710571,
+      "rank": 101
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\fall_cankerworm_s_000074.png",
+      "mean_similarity": 0.9423468708992004,
+      "rank": 102
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\caterpillar_s_001839.png",
+      "mean_similarity": 0.9423203468322754,
+      "rank": 103
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\caterpillar_s_001038.png",
+      "mean_similarity": 0.9423071146011353,
+      "rank": 104
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\caterpillar_s_001024.png",
+      "mean_similarity": 0.9422617554664612,
+      "rank": 105
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\caterpillar_s_000752.png",
+      "mean_similarity": 0.9421815872192383,
+      "rank": 106
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\caterpillar_s_000885.png",
+      "mean_similarity": 0.942176342010498,
+      "rank": 107
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\cankerworm_s_000580.png",
+      "mean_similarity": 0.9421361088752747,
+      "rank": 108
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\caterpillar_s_001151.png",
+      "mean_similarity": 0.9421331882476807,
+      "rank": 109
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\caterpillar_s_000657.png",
+      "mean_similarity": 0.9421321749687195,
+      "rank": 110
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\caterpillar_s_000553.png",
+      "mean_similarity": 0.9421089887619019,
+      "rank": 111
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\caterpillar_s_001145.png",
+      "mean_similarity": 0.9421068429946899,
+      "rank": 112
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\caterpillar_s_001928.png",
+      "mean_similarity": 0.9420307874679565,
+      "rank": 113
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\caterpillar_s_000702.png",
+      "mean_similarity": 0.941981852054596,
+      "rank": 114
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\caterpillar_s_001035.png",
+      "mean_similarity": 0.9419752955436707,
+      "rank": 115
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\tussock_caterpillar_s_000221.png",
+      "mean_similarity": 0.9419611096382141,
+      "rank": 116
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\caterpillar_s_001150.png",
+      "mean_similarity": 0.941957414150238,
+      "rank": 117
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\caterpillar_s_000225.png",
+      "mean_similarity": 0.9418956637382507,
+      "rank": 118
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\fall_cankerworm_s_000300.png",
+      "mean_similarity": 0.9418174028396606,
+      "rank": 119
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\caterpillar_s_000001.png",
+      "mean_similarity": 0.9418081045150757,
+      "rank": 120
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\caterpillar_s_000679.png",
+      "mean_similarity": 0.9418027997016907,
+      "rank": 121
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\caterpillar_s_000664.png",
+      "mean_similarity": 0.9418012499809265,
+      "rank": 122
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\caterpillar_s_001763.png",
+      "mean_similarity": 0.9418010711669922,
+      "rank": 123
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\caterpillar_s_000385.png",
+      "mean_similarity": 0.9417765140533447,
+      "rank": 124
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\caterpillar_s_001026.png",
+      "mean_similarity": 0.9417693018913269,
+      "rank": 125
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\caterpillar_s_000993.png",
+      "mean_similarity": 0.9417576789855957,
+      "rank": 126
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\caterpillar_s_002335.png",
+      "mean_similarity": 0.941733181476593,
+      "rank": 127
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\caterpillar_s_001421.png",
+      "mean_similarity": 0.9417310953140259,
+      "rank": 128
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\caterpillar_s_000358.png",
+      "mean_similarity": 0.9417192339897156,
+      "rank": 129
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\caterpillar_s_001140.png",
+      "mean_similarity": 0.941540539264679,
+      "rank": 130
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\fall_cankerworm_s_000308.png",
+      "mean_similarity": 0.9415374994277954,
+      "rank": 131
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\caterpillar_s_000846.png",
+      "mean_similarity": 0.9415371417999268,
+      "rank": 132
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\caterpillar_s_000550.png",
+      "mean_similarity": 0.9415308833122253,
+      "rank": 133
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\caterpillar_s_000102.png",
+      "mean_similarity": 0.9415245652198792,
+      "rank": 134
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\caterpillar_s_001372.png",
+      "mean_similarity": 0.9415214657783508,
+      "rank": 135
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\caterpillar_s_001986.png",
+      "mean_similarity": 0.9415164589881897,
+      "rank": 136
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\caterpillar_s_000795.png",
+      "mean_similarity": 0.9414932727813721,
+      "rank": 137
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\caterpillar_s_001149.png",
+      "mean_similarity": 0.941482424736023,
+      "rank": 138
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\caterpillar_s_001528.png",
+      "mean_similarity": 0.9414785504341125,
+      "rank": 139
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\caterpillar_s_001712.png",
+      "mean_similarity": 0.9414686560630798,
+      "rank": 140
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\caterpillar_s_000677.png",
+      "mean_similarity": 0.9414477944374084,
+      "rank": 141
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\cankerworm_s_000582.png",
+      "mean_similarity": 0.9414419531822205,
+      "rank": 142
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\caterpillar_s_001075.png",
+      "mean_similarity": 0.9414322376251221,
+      "rank": 143
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\caterpillar_s_001466.png",
+      "mean_similarity": 0.9414137601852417,
+      "rank": 144
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\tussock_caterpillar_s_000264.png",
+      "mean_similarity": 0.9413938522338867,
+      "rank": 145
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\caterpillar_s_001342.png",
+      "mean_similarity": 0.9413870573043823,
+      "rank": 146
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\caterpillar_s_001160.png",
+      "mean_similarity": 0.941340982913971,
+      "rank": 147
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\caterpillar_s_000783.png",
+      "mean_similarity": 0.941318929195404,
+      "rank": 148
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\caterpillar_s_000681.png",
+      "mean_similarity": 0.941308856010437,
+      "rank": 149
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\tussock_caterpillar_s_000413.png",
+      "mean_similarity": 0.9412752389907837,
+      "rank": 150
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\caterpillar_s_000676.png",
+      "mean_similarity": 0.941240131855011,
+      "rank": 151
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\tussock_caterpillar_s_000535.png",
+      "mean_similarity": 0.9412110447883606,
+      "rank": 152
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\caterpillar_s_001033.png",
+      "mean_similarity": 0.9412102103233337,
+      "rank": 153
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\caterpillar_s_001216.png",
+      "mean_similarity": 0.9411987066268921,
+      "rank": 154
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\caterpillar_s_000464.png",
+      "mean_similarity": 0.9411654472351074,
+      "rank": 155
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\cankerworm_s_000351.png",
+      "mean_similarity": 0.9411135911941528,
+      "rank": 156
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\caterpillar_s_001752.png",
+      "mean_similarity": 0.9411059021949768,
+      "rank": 157
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\caterpillar_s_001754.png",
+      "mean_similarity": 0.9410654902458191,
+      "rank": 158
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\tussock_caterpillar_s_000256.png",
+      "mean_similarity": 0.941038966178894,
+      "rank": 159
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\caterpillar_s_000129.png",
+      "mean_similarity": 0.9409927725791931,
+      "rank": 160
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\caterpillar_s_000909.png",
+      "mean_similarity": 0.9409602284431458,
+      "rank": 161
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\caterpillar_s_001231.png",
+      "mean_similarity": 0.9409481883049011,
+      "rank": 162
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\caterpillar_s_000543.png",
+      "mean_similarity": 0.9409399032592773,
+      "rank": 163
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\caterpillar_s_000556.png",
+      "mean_similarity": 0.940933883190155,
+      "rank": 164
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\caterpillar_s_001039.png",
+      "mean_similarity": 0.9409254193305969,
+      "rank": 165
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\caterpillar_s_001398.png",
+      "mean_similarity": 0.9409222602844238,
+      "rank": 166
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\caterpillar_s_000857.png",
+      "mean_similarity": 0.9409149289131165,
+      "rank": 167
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\fall_cankerworm_s_000210.png",
+      "mean_similarity": 0.9408739805221558,
+      "rank": 168
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\cankerworm_s_000577.png",
+      "mean_similarity": 0.9408323764801025,
+      "rank": 169
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\caterpillar_s_000675.png",
+      "mean_similarity": 0.9408251643180847,
+      "rank": 170
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\caterpillar_s_002666.png",
+      "mean_similarity": 0.940771222114563,
+      "rank": 171
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\caterpillar_s_001595.png",
+      "mean_similarity": 0.9407387971878052,
+      "rank": 172
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\cankerworm_s_000291.png",
+      "mean_similarity": 0.9406983256340027,
+      "rank": 173
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\caterpillar_s_000660.png",
+      "mean_similarity": 0.9406878352165222,
+      "rank": 174
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\caterpillar_s_000233.png",
+      "mean_similarity": 0.9406539797782898,
+      "rank": 175
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\caterpillar_s_002190.png",
+      "mean_similarity": 0.9406381845474243,
+      "rank": 176
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\caterpillar_s_001412.png",
+      "mean_similarity": 0.9405775666236877,
+      "rank": 177
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\caterpillar_s_000557.png",
+      "mean_similarity": 0.9405375123023987,
+      "rank": 178
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\caterpillar_s_001230.png",
+      "mean_similarity": 0.9405167102813721,
+      "rank": 179
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\caterpillar_s_002577.png",
+      "mean_similarity": 0.9405013918876648,
+      "rank": 180
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\caterpillar_s_001004.png",
+      "mean_similarity": 0.9404415488243103,
+      "rank": 181
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\caterpillar_s_001744.png",
+      "mean_similarity": 0.940437376499176,
+      "rank": 182
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\caterpillar_s_001573.png",
+      "mean_similarity": 0.9404056668281555,
+      "rank": 183
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\caterpillar_s_001270.png",
+      "mean_similarity": 0.940391480922699,
+      "rank": 184
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\caterpillar_s_001041.png",
+      "mean_similarity": 0.9403756856918335,
+      "rank": 185
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\caterpillar_s_001671.png",
+      "mean_similarity": 0.9403656125068665,
+      "rank": 186
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\caterpillar_s_001511.png",
+      "mean_similarity": 0.9403603672981262,
+      "rank": 187
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\caterpillar_s_001154.png",
+      "mean_similarity": 0.9403587579727173,
+      "rank": 188
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\caterpillar_s_001376.png",
+      "mean_similarity": 0.9403025507926941,
+      "rank": 189
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\cankerworm_s_000560.png",
+      "mean_similarity": 0.940269947052002,
+      "rank": 190
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\caterpillar_s_001413.png",
+      "mean_similarity": 0.9402543902397156,
+      "rank": 191
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\caterpillar_s_000933.png",
+      "mean_similarity": 0.9402388334274292,
+      "rank": 192
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\caterpillar_s_002044.png",
+      "mean_similarity": 0.9402384161949158,
+      "rank": 193
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\caterpillar_s_001550.png",
+      "mean_similarity": 0.9401800632476807,
+      "rank": 194
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\cankerworm_s_000513.png",
+      "mean_similarity": 0.9401505589485168,
+      "rank": 195
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\cankerworm_s_000292.png",
+      "mean_similarity": 0.9401023983955383,
+      "rank": 196
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\caterpillar_s_000610.png",
+      "mean_similarity": 0.9400367140769958,
+      "rank": 197
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\caterpillar_s_001746.png",
+      "mean_similarity": 0.9400326013565063,
+      "rank": 198
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\caterpillar_s_000602.png",
+      "mean_similarity": 0.9400281310081482,
+      "rank": 199
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\caterpillar_s_000094.png",
+      "mean_similarity": 0.9399953484535217,
+      "rank": 200
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\tussock_caterpillar_s_000094.png",
+      "mean_similarity": 0.9399840831756592,
+      "rank": 201
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\cankerworm_s_000125.png",
+      "mean_similarity": 0.9399559497833252,
+      "rank": 202
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\cankerworm_s_000071.png",
+      "mean_similarity": 0.9399466514587402,
+      "rank": 203
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\caterpillar_s_001016.png",
+      "mean_similarity": 0.9399409294128418,
+      "rank": 204
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\caterpillar_s_001040.png",
+      "mean_similarity": 0.9399223327636719,
+      "rank": 205
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\caterpillar_s_000095.png",
+      "mean_similarity": 0.9399130344390869,
+      "rank": 206
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\caterpillar_s_002576.png",
+      "mean_similarity": 0.9398187398910522,
+      "rank": 207
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\caterpillar_s_000685.png",
+      "mean_similarity": 0.9397683143615723,
+      "rank": 208
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\tussock_caterpillar_s_000037.png",
+      "mean_similarity": 0.9397456049919128,
+      "rank": 209
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\tussock_caterpillar_s_000233.png",
+      "mean_similarity": 0.9397149085998535,
+      "rank": 210
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\caterpillar_s_000088.png",
+      "mean_similarity": 0.9396904706954956,
+      "rank": 211
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\caterpillar_s_000552.png",
+      "mean_similarity": 0.9396452307701111,
+      "rank": 212
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\tussock_caterpillar_s_000164.png",
+      "mean_similarity": 0.9396374821662903,
+      "rank": 213
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\tussock_caterpillar_s_000168.png",
+      "mean_similarity": 0.9395661354064941,
+      "rank": 214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\caterpillar_s_000927.png",
+      "mean_similarity": 0.9394898414611816,
+      "rank": 215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\caterpillar_s_000914.png",
+      "mean_similarity": 0.9394716024398804,
+      "rank": 216
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\caterpillar_s_000206.png",
+      "mean_similarity": 0.9394606947898865,
+      "rank": 217
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\caterpillar_s_000021.png",
+      "mean_similarity": 0.9394353032112122,
+      "rank": 218
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\caterpillar_s_000682.png",
+      "mean_similarity": 0.9394253492355347,
+      "rank": 219
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\caterpillar_s_000662.png",
+      "mean_similarity": 0.9394161701202393,
+      "rank": 220
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\fall_cankerworm_s_000063.png",
+      "mean_similarity": 0.9394004344940186,
+      "rank": 221
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\caterpillar_s_000103.png",
+      "mean_similarity": 0.9393781423568726,
+      "rank": 222
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\caterpillar_s_001583.png",
+      "mean_similarity": 0.9393765926361084,
+      "rank": 223
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\caterpillar_s_001937.png",
+      "mean_similarity": 0.9393636584281921,
+      "rank": 224
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\caterpillar_s_000815.png",
+      "mean_similarity": 0.9393304586410522,
+      "rank": 225
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\caterpillar_s_000906.png",
+      "mean_similarity": 0.9393210411071777,
+      "rank": 226
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\caterpillar_s_000544.png",
+      "mean_similarity": 0.9393042922019958,
+      "rank": 227
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\cankerworm_s_000008.png",
+      "mean_similarity": 0.9393022656440735,
+      "rank": 228
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\tussock_caterpillar_s_000035.png",
+      "mean_similarity": 0.9393017292022705,
+      "rank": 229
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\caterpillar_s_002091.png",
+      "mean_similarity": 0.9392587542533875,
+      "rank": 230
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\caterpillar_s_001456.png",
+      "mean_similarity": 0.9392459392547607,
+      "rank": 231
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\fall_cankerworm_s_000056.png",
+      "mean_similarity": 0.9392451047897339,
+      "rank": 232
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\tussock_caterpillar_s_000045.png",
+      "mean_similarity": 0.939231276512146,
+      "rank": 233
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\caterpillar_s_002063.png",
+      "mean_similarity": 0.939217209815979,
+      "rank": 234
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\cankerworm_s_000112.png",
+      "mean_similarity": 0.9392126798629761,
+      "rank": 235
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\caterpillar_s_002222.png",
+      "mean_similarity": 0.9391962885856628,
+      "rank": 236
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\caterpillar_s_001721.png",
+      "mean_similarity": 0.9391337633132935,
+      "rank": 237
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\caterpillar_s_001849.png",
+      "mean_similarity": 0.9391247630119324,
+      "rank": 238
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\cankerworm_s_000515.png",
+      "mean_similarity": 0.9390372633934021,
+      "rank": 239
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\caterpillar_s_001689.png",
+      "mean_similarity": 0.9390289783477783,
+      "rank": 240
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\cankerworm_s_000526.png",
+      "mean_similarity": 0.9389941096305847,
+      "rank": 241
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\caterpillar_s_000099.png",
+      "mean_similarity": 0.9389714598655701,
+      "rank": 242
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\tussock_caterpillar_s_000115.png",
+      "mean_similarity": 0.9389694929122925,
+      "rank": 243
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\caterpillar_s_000434.png",
+      "mean_similarity": 0.9389296770095825,
+      "rank": 244
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\caterpillar_s_001682.png",
+      "mean_similarity": 0.9389092922210693,
+      "rank": 245
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\caterpillar_s_002191.png",
+      "mean_similarity": 0.9388960003852844,
+      "rank": 246
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\caterpillar_s_001341.png",
+      "mean_similarity": 0.9388668537139893,
+      "rank": 247
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\tussock_caterpillar_s_000291.png",
+      "mean_similarity": 0.938784658908844,
+      "rank": 248
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\caterpillar_s_002192.png",
+      "mean_similarity": 0.9387428760528564,
+      "rank": 249
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\caterpillar_s_000792.png",
+      "mean_similarity": 0.9387018084526062,
+      "rank": 250
+    }
+  ]
+}

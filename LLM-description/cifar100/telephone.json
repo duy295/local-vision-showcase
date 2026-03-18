@@ -1,0 +1,26 @@
+{
+  "class_name": "telephone",
+  "global_description": "Device with a rectangular or oval base, often plastic or metal, featuring a handset with a coiled cord, numeric keypad, and sometimes a display screen. Typically in black, white, or gray colors.",
+  "discriminative_attributes": [
+    "Handset with coiled cord",
+    "Numeric keypad",
+    "Rectangular or oval base",
+    "Plastic or metal material",
+    "Display screen"
+  ],
+  "part_details": {
+    "handset": "Curved, with speaker and microphone, connected by coiled cord",
+    "base": "Rectangular or oval, housing keypad and sometimes a display",
+    "keypad": "Numeric buttons, usually in a grid layout",
+    "cord": "Coiled, connecting handset to base",
+    "screen": "Small, often above keypad, for displaying numbers or caller ID"
+  },
+  "spatial_relations": [
+    "Handset rests on top of base",
+    "Cord connects handset to base",
+    "Keypad positioned on base",
+    "Screen located above keypad"
+  ],
+  "original_dataset_key": "cifar100",
+  "original_class_key": "telephone"
+}

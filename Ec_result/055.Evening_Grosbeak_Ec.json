@@ -1,0 +1,159 @@
+{
+  "class_name": "055.Evening_Grosbeak",
+  "class_idx": 54,
+  "num_images_in_class": 30,
+  "ec_size_requested": 30,
+  "ec_size_actual": 30,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\055.Evening_Grosbeak\\Evening_Grosbeak_0102_37927.jpg",
+      "mean_similarity": 0.9451578855514526,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\055.Evening_Grosbeak\\Evening_Grosbeak_0079_37979.jpg",
+      "mean_similarity": 0.9443318843841553,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\055.Evening_Grosbeak\\Evening_Grosbeak_0044_37938.jpg",
+      "mean_similarity": 0.9432581067085266,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\055.Evening_Grosbeak\\Evening_Grosbeak_0016_37613.jpg",
+      "mean_similarity": 0.942533552646637,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\055.Evening_Grosbeak\\Evening_Grosbeak_0075_37302.jpg",
+      "mean_similarity": 0.9421209096908569,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\055.Evening_Grosbeak\\Evening_Grosbeak_0104_37661.jpg",
+      "mean_similarity": 0.9416841268539429,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\055.Evening_Grosbeak\\Evening_Grosbeak_0046_37280.jpg",
+      "mean_similarity": 0.9411576390266418,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\055.Evening_Grosbeak\\Evening_Grosbeak_0132_38025.jpg",
+      "mean_similarity": 0.9406998157501221,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\055.Evening_Grosbeak\\Evening_Grosbeak_0070_37767.jpg",
+      "mean_similarity": 0.9400391578674316,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\055.Evening_Grosbeak\\Evening_Grosbeak_0001_37437.jpg",
+      "mean_similarity": 0.9389781355857849,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\055.Evening_Grosbeak\\Evening_Grosbeak_0033_37707.jpg",
+      "mean_similarity": 0.9387271404266357,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\055.Evening_Grosbeak\\Evening_Grosbeak_0069_37684.jpg",
+      "mean_similarity": 0.9386041760444641,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\055.Evening_Grosbeak\\Evening_Grosbeak_0041_37928.jpg",
+      "mean_similarity": 0.9382538795471191,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\055.Evening_Grosbeak\\Evening_Grosbeak_0065_37296.jpg",
+      "mean_similarity": 0.9380832314491272,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\055.Evening_Grosbeak\\Evening_Grosbeak_0027_37824.jpg",
+      "mean_similarity": 0.9375548362731934,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\055.Evening_Grosbeak\\Evening_Grosbeak_0101_37697.jpg",
+      "mean_similarity": 0.9371365308761597,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\055.Evening_Grosbeak\\Evening_Grosbeak_0112_37922.jpg",
+      "mean_similarity": 0.9370132684707642,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\055.Evening_Grosbeak\\Evening_Grosbeak_0072_37301.jpg",
+      "mean_similarity": 0.9364244937896729,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\055.Evening_Grosbeak\\Evening_Grosbeak_0034_37349.jpg",
+      "mean_similarity": 0.9362813830375671,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\055.Evening_Grosbeak\\Evening_Grosbeak_0100_37863.jpg",
+      "mean_similarity": 0.9359745383262634,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\055.Evening_Grosbeak\\Evening_Grosbeak_0122_37864.jpg",
+      "mean_similarity": 0.934840202331543,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\055.Evening_Grosbeak\\Evening_Grosbeak_0107_37933.jpg",
+      "mean_similarity": 0.934242844581604,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\055.Evening_Grosbeak\\Evening_Grosbeak_0133_37976.jpg",
+      "mean_similarity": 0.9335269331932068,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\055.Evening_Grosbeak\\Evening_Grosbeak_0022_37761.jpg",
+      "mean_similarity": 0.9327451586723328,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\055.Evening_Grosbeak\\Evening_Grosbeak_0051_37954.jpg",
+      "mean_similarity": 0.9299425482749939,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\055.Evening_Grosbeak\\Evening_Grosbeak_0057_37392.jpg",
+      "mean_similarity": 0.9293366074562073,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\055.Evening_Grosbeak\\Evening_Grosbeak_0130_37813.jpg",
+      "mean_similarity": 0.919638454914093,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\055.Evening_Grosbeak\\Evening_Grosbeak_0115_37490.jpg",
+      "mean_similarity": 0.9163186550140381,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\055.Evening_Grosbeak\\Evening_Grosbeak_0011_37913.jpg",
+      "mean_similarity": 0.8978818655014038,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\055.Evening_Grosbeak\\Evening_Grosbeak_0093_37608.jpg",
+      "mean_similarity": 0.8595897555351257,
+      "rank": 30
+    }
+  ]
+}

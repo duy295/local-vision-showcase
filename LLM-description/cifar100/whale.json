@@ -1,0 +1,26 @@
+{
+  "class_name": "whale",
+  "global_description": "Large marine mammal with streamlined, elongated body, smooth skin, typically gray or blue, prominent dorsal fin, large flippers, and a broad tail fluke.",
+  "discriminative_attributes": [
+    "Streamlined body",
+    "Smooth skin",
+    "Prominent dorsal fin",
+    "Large flippers",
+    "Broad tail fluke"
+  ],
+  "part_details": {
+    "head": "Large with a rounded forehead, sometimes with a prominent blowhole on top.",
+    "body": "Elongated and streamlined, covered in smooth skin, often gray or blue.",
+    "dorsal fin": "Prominent, located on the back, varies in size and shape.",
+    "flippers": "Large, paddle-shaped, located on the sides of the body.",
+    "tail fluke": "Broad and flat, used for propulsion, located at the rear."
+  },
+  "spatial_relations": [
+    "Head at front, tail fluke at rear",
+    "Dorsal fin on top of body",
+    "Flippers on sides of body",
+    "Blowhole on top of head"
+  ],
+  "original_dataset_key": "cifar100",
+  "original_class_key": "whale"
+}

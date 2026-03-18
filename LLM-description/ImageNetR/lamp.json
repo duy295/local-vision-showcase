@@ -1,0 +1,24 @@
+{
+  "class_name": "lamp",
+  "global_description": "A lighting device with a base, a slender stand, and a shade. Typically made of metal or plastic, with a bulb inside the shade. The base is often round or square, and the shade can be conical or cylindrical. Common colors include white, black, or metallic finishes.",
+  "discriminative_attributes": [
+    "Slender stand",
+    "Conical or cylindrical shade",
+    "Round or square base",
+    "Metal or plastic material",
+    "Bulb inside shade"
+  ],
+  "part_details": {
+    "base": "Round or square, providing stability",
+    "stand": "Slender, connecting base to shade",
+    "shade": "Conical or cylindrical, houses bulb",
+    "bulb": "Located inside shade, emits light"
+  },
+  "spatial_relations": [
+    "Stand connects base to shade",
+    "Shade positioned at top of stand",
+    "Bulb inside shade"
+  ],
+  "original_dataset_key": "ImageNetR",
+  "original_class_key": "lamp"
+}

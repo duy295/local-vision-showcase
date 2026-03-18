@@ -1,0 +1,26 @@
+{
+  "class_name": "Frigatebird",
+  "global_description": "A large seabird with a slender, elongated body and long, pointed wings. It has a predominantly black plumage with a glossy sheen, and a distinctive red gular pouch on males. The tail is deeply forked, and the beak is long and hooked.",
+  "discriminative_attributes": [
+    "Glossy black plumage",
+    "Long pointed wings",
+    "Deeply forked tail",
+    "Red gular pouch on males",
+    "Long hooked beak"
+  ],
+  "part_details": {
+    "wings": "Long, narrow, and pointed with glossy black feathers.",
+    "tail": "Deeply forked with long, tapering black feathers.",
+    "gular_pouch": "Bright red, inflatable sac located on the throat of males.",
+    "beak": "Long, slender, and hooked, pale in color.",
+    "body": "Slender and elongated with a glossy black sheen."
+  },
+  "spatial_relations": [
+    "The long pointed wings extend laterally from the slender body.",
+    "The deeply forked tail is positioned at the rear of the body.",
+    "The red gular pouch is located on the throat, beneath the beak.",
+    "The long hooked beak protrudes from the front of the head."
+  ],
+  "original_dataset_key": "CUB200",
+  "original_class_key": "frigatebird"
+}

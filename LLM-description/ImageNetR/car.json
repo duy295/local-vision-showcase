@@ -1,0 +1,26 @@
+{
+  "class_name": "car",
+  "global_description": "Four-wheeled vehicle with a streamlined body, typically metallic or glossy finish, available in various colors. Features include a front grille, side mirrors, windows, and doors. The interior is enclosed, with seats and a dashboard.",
+  "discriminative_attributes": [
+    "Four wheels",
+    "Streamlined body",
+    "Metallic or glossy finish",
+    "Front grille",
+    "Enclosed interior"
+  ],
+  "part_details": {
+    "body": "Streamlined, metallic or glossy finish, available in various colors",
+    "wheels": "Four, typically round and rubberized",
+    "grille": "Front, often metallic, part of the cooling system",
+    "windows": "Transparent, located on sides and front",
+    "doors": "Side, hinged for entry and exit"
+  },
+  "spatial_relations": [
+    "Wheels beneath body",
+    "Grille at front",
+    "Windows on sides and front",
+    "Doors on sides"
+  ],
+  "original_dataset_key": "ImageNetR",
+  "original_class_key": "car"
+}

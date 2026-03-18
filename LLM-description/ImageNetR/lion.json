@@ -1,0 +1,25 @@
+{
+  "class_name": "lion",
+  "global_description": "Large feline with a muscular, elongated body, covered in short tawny fur. Males have a distinctive mane of darker, longer hair around the head and neck. The face is broad with a prominent nose and sharp eyes. The tail is long with a tuft of darker fur at the end.",
+  "discriminative_attributes": [
+    "Muscular body",
+    "Tawny fur",
+    "Mane in males",
+    "Broad face",
+    "Tufted tail"
+  ],
+  "part_details": {
+    "mane": "Thick, dark hair encircling the head and neck of males",
+    "body": "Elongated, muscular with short tawny fur",
+    "face": "Broad with a prominent nose and sharp eyes",
+    "tail": "Long with a tuft of darker fur at the tip",
+    "paws": "Large with retractable claws"
+  },
+  "spatial_relations": [
+    "Mane encircles head and neck",
+    "Tail extends from rear",
+    "Paws at end of legs"
+  ],
+  "original_dataset_key": "ImageNetR",
+  "original_class_key": "lion"
+}

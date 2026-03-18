@@ -1,0 +1,25 @@
+{
+  "class_name": "Bird",
+  "global_description": "A medium-sized seabird with a robust, stocky body and a short, thick neck. It has a predominantly pale gray and white plumage with a slightly hooked bill. The wings are long and narrow, adapted for gliding over the ocean.",
+  "discriminative_attributes": [
+    "Pale gray and white plumage",
+    "Short, thick neck",
+    "Slightly hooked bill",
+    "Long, narrow wings",
+    "Stocky body"
+  ],
+  "part_details": {
+    "plumage": "Pale gray on the upper parts and white on the underparts, smooth texture.",
+    "bill": "Short, slightly hooked, pale yellow or gray.",
+    "wings": "Long, narrow, and pointed, gray on top and white underneath.",
+    "tail": "Short and square, matching the gray and white plumage.",
+    "legs": "Short, webbed, pale in color."
+  },
+  "spatial_relations": [
+    "The wings extend laterally from the body, long and narrow.",
+    "The short neck connects the head to the stocky body.",
+    "The tail is positioned at the rear, short and square."
+  ],
+  "original_dataset_key": "CUB200",
+  "original_class_key": "northern_fulmar"
+}

@@ -1,0 +1,26 @@
+{
+  "class_name": "ankle_boot",
+  "global_description": "Short leather footwear covering the ankle, often with laces or zippers, rounded toe, flat or small heel, sturdy sole, typically in brown or black.",
+  "discriminative_attributes": [
+    "Covers ankle",
+    "Leather material",
+    "Rounded toe",
+    "Flat or small heel",
+    "Laces or zipper closure"
+  ],
+  "part_details": {
+    "upper": "Leather upper covering foot and ankle",
+    "sole": "Sturdy flat sole",
+    "toe": "Rounded shape",
+    "heel": "Small or flat",
+    "closure": "Laces or zipper"
+  },
+  "spatial_relations": [
+    "Upper surrounds foot and ankle",
+    "Sole beneath foot",
+    "Heel at back",
+    "Toe at front"
+  ],
+  "original_dataset_key": "ImageNetR",
+  "original_class_key": "ankle_boot"
+}

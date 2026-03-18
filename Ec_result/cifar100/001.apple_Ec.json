@@ -1,0 +1,1259 @@
+{
+  "class_name": "apple",
+  "class_idx": 0,
+  "num_images_in_class": 500,
+  "ec_size_requested": 250,
+  "ec_size_actual": 250,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\pearmain_s_000088.png",
+      "mean_similarity": 0.9408990144729614,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\macoun_s_000598.png",
+      "mean_similarity": 0.9404524564743042,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\eating_apple_s_000266.png",
+      "mean_similarity": 0.940045952796936,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\northern_spy_s_000138.png",
+      "mean_similarity": 0.9398626089096069,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\northern_spy_s_000075.png",
+      "mean_similarity": 0.9397053122520447,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\pearmain_s_000061.png",
+      "mean_similarity": 0.9396527409553528,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\eating_apple_s_000364.png",
+      "mean_similarity": 0.9395830631256104,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\pearmain_s_000242.png",
+      "mean_similarity": 0.9395653009414673,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\pearmain_s_000291.png",
+      "mean_similarity": 0.9395105242729187,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\macoun_s_001511.png",
+      "mean_similarity": 0.9391893148422241,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\northern_spy_s_000315.png",
+      "mean_similarity": 0.9391767978668213,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\northern_spy_s_000692.png",
+      "mean_similarity": 0.938981831073761,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\northern_spy_s_000070.png",
+      "mean_similarity": 0.9389541149139404,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\macoun_s_000065.png",
+      "mean_similarity": 0.938578724861145,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\macoun_s_000592.png",
+      "mean_similarity": 0.9385555982589722,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\pearmain_s_000273.png",
+      "mean_similarity": 0.9384186863899231,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\pearmain_s_000341.png",
+      "mean_similarity": 0.9382694363594055,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\red_delicious_s_000409.png",
+      "mean_similarity": 0.9382532238960266,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\macoun_s_000663.png",
+      "mean_similarity": 0.9382440447807312,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\macoun_s_000661.png",
+      "mean_similarity": 0.9381566047668457,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\red_delicious_s_001345.png",
+      "mean_similarity": 0.9380702376365662,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\cortland_s_000152.png",
+      "mean_similarity": 0.9379835724830627,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\northern_spy_s_000052.png",
+      "mean_similarity": 0.9377837777137756,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\eating_apple_s_000473.png",
+      "mean_similarity": 0.9376669526100159,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\northern_spy_s_000660.png",
+      "mean_similarity": 0.937666654586792,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\macoun_s_000072.png",
+      "mean_similarity": 0.937640905380249,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\pearmain_s_000139.png",
+      "mean_similarity": 0.9376327991485596,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\red_delicious_s_000471.png",
+      "mean_similarity": 0.9375967979431152,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\macoun_s_001006.png",
+      "mean_similarity": 0.9375884532928467,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\cortland_s_000023.png",
+      "mean_similarity": 0.9375433325767517,
+      "rank": 30
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\pearmain_s_000182.png",
+      "mean_similarity": 0.9375147223472595,
+      "rank": 31
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\apple_s_000768.png",
+      "mean_similarity": 0.9375053644180298,
+      "rank": 32
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\macoun_s_000965.png",
+      "mean_similarity": 0.9374014139175415,
+      "rank": 33
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\yellow_delicious_s_000504.png",
+      "mean_similarity": 0.9373972415924072,
+      "rank": 34
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\pearmain_s_000076.png",
+      "mean_similarity": 0.937395453453064,
+      "rank": 35
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\red_delicious_s_000711.png",
+      "mean_similarity": 0.9372872710227966,
+      "rank": 36
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\northern_spy_s_000316.png",
+      "mean_similarity": 0.9372268915176392,
+      "rank": 37
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\yellow_delicious_s_000195.png",
+      "mean_similarity": 0.9372137784957886,
+      "rank": 38
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\mcintosh_s_000151.png",
+      "mean_similarity": 0.9369837045669556,
+      "rank": 39
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\eating_apple_s_001361.png",
+      "mean_similarity": 0.9369649887084961,
+      "rank": 40
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\golden_delicious_s_000967.png",
+      "mean_similarity": 0.9369316101074219,
+      "rank": 41
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\red_delicious_s_000020.png",
+      "mean_similarity": 0.9367832541465759,
+      "rank": 42
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\macoun_s_000054.png",
+      "mean_similarity": 0.9367626905441284,
+      "rank": 43
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\apple_s_000028.png",
+      "mean_similarity": 0.9367515444755554,
+      "rank": 44
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\macoun_s_000126.png",
+      "mean_similarity": 0.9366087317466736,
+      "rank": 45
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\northern_spy_s_000876.png",
+      "mean_similarity": 0.9365904927253723,
+      "rank": 46
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\red_delicious_s_001688.png",
+      "mean_similarity": 0.9365428686141968,
+      "rank": 47
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\red_delicious_s_000655.png",
+      "mean_similarity": 0.9365389943122864,
+      "rank": 48
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\red_delicious_s_002193.png",
+      "mean_similarity": 0.936531662940979,
+      "rank": 49
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\eating_apple_s_000336.png",
+      "mean_similarity": 0.9364227652549744,
+      "rank": 50
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\northern_spy_s_000648.png",
+      "mean_similarity": 0.9364137053489685,
+      "rank": 51
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\yellow_delicious_s_000023.png",
+      "mean_similarity": 0.9363908171653748,
+      "rank": 52
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\red_delicious_s_001369.png",
+      "mean_similarity": 0.936367392539978,
+      "rank": 53
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\northern_spy_s_000548.png",
+      "mean_similarity": 0.9363646507263184,
+      "rank": 54
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\macoun_s_000251.png",
+      "mean_similarity": 0.9363489747047424,
+      "rank": 55
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\macoun_s_000041.png",
+      "mean_similarity": 0.9363114833831787,
+      "rank": 56
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\golden_delicious_s_000687.png",
+      "mean_similarity": 0.936263918876648,
+      "rank": 57
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\eating_apple_s_000073.png",
+      "mean_similarity": 0.9362433552742004,
+      "rank": 58
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\red_delicious_s_002109.png",
+      "mean_similarity": 0.9362257719039917,
+      "rank": 59
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\yellow_delicious_s_000569.png",
+      "mean_similarity": 0.9362004399299622,
+      "rank": 60
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\macoun_s_000525.png",
+      "mean_similarity": 0.9361478090286255,
+      "rank": 61
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\pearmain_s_000115.png",
+      "mean_similarity": 0.9361140131950378,
+      "rank": 62
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\macoun_s_000530.png",
+      "mean_similarity": 0.9361019134521484,
+      "rank": 63
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\eating_apple_s_000492.png",
+      "mean_similarity": 0.9360750317573547,
+      "rank": 64
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\red_delicious_s_001022.png",
+      "mean_similarity": 0.9360641837120056,
+      "rank": 65
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\macoun_s_000363.png",
+      "mean_similarity": 0.9360458850860596,
+      "rank": 66
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\macoun_s_000476.png",
+      "mean_similarity": 0.9360263347625732,
+      "rank": 67
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\northern_spy_s_001099.png",
+      "mean_similarity": 0.9359901547431946,
+      "rank": 68
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\pearmain_s_000142.png",
+      "mean_similarity": 0.9359077215194702,
+      "rank": 69
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\cortland_s_000525.png",
+      "mean_similarity": 0.9358440041542053,
+      "rank": 70
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\cortland_s_000684.png",
+      "mean_similarity": 0.9358037710189819,
+      "rank": 71
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\macoun_s_000898.png",
+      "mean_similarity": 0.9357214570045471,
+      "rank": 72
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\northern_spy_s_000235.png",
+      "mean_similarity": 0.9357107877731323,
+      "rank": 73
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\cortland_s_000791.png",
+      "mean_similarity": 0.9356583952903748,
+      "rank": 74
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\red_delicious_s_000286.png",
+      "mean_similarity": 0.9356069564819336,
+      "rank": 75
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\mcintosh_s_000911.png",
+      "mean_similarity": 0.9355776309967041,
+      "rank": 76
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\crabapple_s_000281.png",
+      "mean_similarity": 0.9355455636978149,
+      "rank": 77
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\northern_spy_s_000617.png",
+      "mean_similarity": 0.9355411529541016,
+      "rank": 78
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\macoun_s_000073.png",
+      "mean_similarity": 0.935386061668396,
+      "rank": 79
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\red_delicious_s_000940.png",
+      "mean_similarity": 0.9353688955307007,
+      "rank": 80
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\pearmain_s_000210.png",
+      "mean_similarity": 0.9353157877922058,
+      "rank": 81
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\pearmain_s_000006.png",
+      "mean_similarity": 0.9352831244468689,
+      "rank": 82
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\northern_spy_s_000030.png",
+      "mean_similarity": 0.9351956248283386,
+      "rank": 83
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\mcintosh_s_000045.png",
+      "mean_similarity": 0.9351571202278137,
+      "rank": 84
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\macoun_s_000145.png",
+      "mean_similarity": 0.9351480007171631,
+      "rank": 85
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\golden_delicious_s_001690.png",
+      "mean_similarity": 0.9351190328598022,
+      "rank": 86
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\eating_apple_s_001028.png",
+      "mean_similarity": 0.9351010322570801,
+      "rank": 87
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\northern_spy_s_000156.png",
+      "mean_similarity": 0.9350507855415344,
+      "rank": 88
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\macoun_s_000904.png",
+      "mean_similarity": 0.9350464940071106,
+      "rank": 89
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\macoun_s_000283.png",
+      "mean_similarity": 0.9349524974822998,
+      "rank": 90
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\eating_apple_s_000893.png",
+      "mean_similarity": 0.9349449872970581,
+      "rank": 91
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\eating_apple_s_001100.png",
+      "mean_similarity": 0.9349416494369507,
+      "rank": 92
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\macoun_s_000974.png",
+      "mean_similarity": 0.9348928928375244,
+      "rank": 93
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\red_delicious_s_001845.png",
+      "mean_similarity": 0.9348683953285217,
+      "rank": 94
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\red_delicious_s_002069.png",
+      "mean_similarity": 0.9348160624504089,
+      "rank": 95
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\macoun_s_000014.png",
+      "mean_similarity": 0.9347874522209167,
+      "rank": 96
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\yellow_delicious_s_000043.png",
+      "mean_similarity": 0.934783399105072,
+      "rank": 97
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\red_delicious_s_000122.png",
+      "mean_similarity": 0.9346575140953064,
+      "rank": 98
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\macoun_s_000004.png",
+      "mean_similarity": 0.9346557259559631,
+      "rank": 99
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\golden_delicious_s_000720.png",
+      "mean_similarity": 0.9346548318862915,
+      "rank": 100
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\cortland_s_000153.png",
+      "mean_similarity": 0.9346528649330139,
+      "rank": 101
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\northern_spy_s_000871.png",
+      "mean_similarity": 0.9345896244049072,
+      "rank": 102
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\northern_spy_s_000786.png",
+      "mean_similarity": 0.9345681667327881,
+      "rank": 103
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\mcintosh_s_000493.png",
+      "mean_similarity": 0.9344359636306763,
+      "rank": 104
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\golden_delicious_s_001757.png",
+      "mean_similarity": 0.9344236850738525,
+      "rank": 105
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\macoun_s_000966.png",
+      "mean_similarity": 0.9344131946563721,
+      "rank": 106
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\red_delicious_s_000285.png",
+      "mean_similarity": 0.9344030022621155,
+      "rank": 107
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\cortland_s_000053.png",
+      "mean_similarity": 0.9343665242195129,
+      "rank": 108
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\eating_apple_s_001151.png",
+      "mean_similarity": 0.9343538880348206,
+      "rank": 109
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\red_delicious_s_001980.png",
+      "mean_similarity": 0.934321403503418,
+      "rank": 110
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\red_delicious_s_000750.png",
+      "mean_similarity": 0.9343127608299255,
+      "rank": 111
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\northern_spy_s_000766.png",
+      "mean_similarity": 0.9342971444129944,
+      "rank": 112
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\mcintosh_s_000093.png",
+      "mean_similarity": 0.9342937469482422,
+      "rank": 113
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\northern_spy_s_000879.png",
+      "mean_similarity": 0.9342896342277527,
+      "rank": 114
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\yellow_delicious_s_000198.png",
+      "mean_similarity": 0.9342281222343445,
+      "rank": 115
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\mcintosh_s_000386.png",
+      "mean_similarity": 0.9342187643051147,
+      "rank": 116
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\northern_spy_s_000064.png",
+      "mean_similarity": 0.934205949306488,
+      "rank": 117
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\red_delicious_s_001620.png",
+      "mean_similarity": 0.9341968894004822,
+      "rank": 118
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\mcintosh_s_000670.png",
+      "mean_similarity": 0.9341940879821777,
+      "rank": 119
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\red_delicious_s_001322.png",
+      "mean_similarity": 0.9341446161270142,
+      "rank": 120
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\macoun_s_000071.png",
+      "mean_similarity": 0.9340980648994446,
+      "rank": 121
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\macoun_s_000151.png",
+      "mean_similarity": 0.9340215921401978,
+      "rank": 122
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\red_delicious_s_001272.png",
+      "mean_similarity": 0.933979332447052,
+      "rank": 123
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\northern_spy_s_000048.png",
+      "mean_similarity": 0.9338961243629456,
+      "rank": 124
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\mcintosh_s_000016.png",
+      "mean_similarity": 0.9338774681091309,
+      "rank": 125
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\golden_delicious_s_001536.png",
+      "mean_similarity": 0.9338731169700623,
+      "rank": 126
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\golden_delicious_s_001399.png",
+      "mean_similarity": 0.9338492751121521,
+      "rank": 127
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\macoun_s_000688.png",
+      "mean_similarity": 0.9338169097900391,
+      "rank": 128
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\northern_spy_s_000211.png",
+      "mean_similarity": 0.9337993860244751,
+      "rank": 129
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\red_delicious_s_001405.png",
+      "mean_similarity": 0.9337043166160583,
+      "rank": 130
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\macoun_s_000191.png",
+      "mean_similarity": 0.9336540102958679,
+      "rank": 131
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\eating_apple_s_001024.png",
+      "mean_similarity": 0.9336002469062805,
+      "rank": 132
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\mcintosh_s_000206.png",
+      "mean_similarity": 0.9335996508598328,
+      "rank": 133
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\red_delicious_s_000662.png",
+      "mean_similarity": 0.9335900545120239,
+      "rank": 134
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\red_delicious_s_002221.png",
+      "mean_similarity": 0.9335426092147827,
+      "rank": 135
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\macoun_s_000198.png",
+      "mean_similarity": 0.9335275292396545,
+      "rank": 136
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\red_delicious_s_002304.png",
+      "mean_similarity": 0.9335231781005859,
+      "rank": 137
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\macoun_s_000055.png",
+      "mean_similarity": 0.9335072040557861,
+      "rank": 138
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\red_delicious_s_001010.png",
+      "mean_similarity": 0.9334779381752014,
+      "rank": 139
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\red_delicious_s_002298.png",
+      "mean_similarity": 0.9334760308265686,
+      "rank": 140
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\macoun_s_000027.png",
+      "mean_similarity": 0.9334726333618164,
+      "rank": 141
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\red_delicious_s_001203.png",
+      "mean_similarity": 0.9334666728973389,
+      "rank": 142
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\dessert_apple_s_000221.png",
+      "mean_similarity": 0.9334262013435364,
+      "rank": 143
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\mcintosh_s_000847.png",
+      "mean_similarity": 0.9333715438842773,
+      "rank": 144
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\macoun_s_000890.png",
+      "mean_similarity": 0.9333689212799072,
+      "rank": 145
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\pearmain_s_000340.png",
+      "mean_similarity": 0.9333567023277283,
+      "rank": 146
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\golden_delicious_s_001024.png",
+      "mean_similarity": 0.933353841304779,
+      "rank": 147
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\macoun_s_000309.png",
+      "mean_similarity": 0.9332627654075623,
+      "rank": 148
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\macoun_s_000551.png",
+      "mean_similarity": 0.9332106709480286,
+      "rank": 149
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\macoun_s_001403.png",
+      "mean_similarity": 0.9332090020179749,
+      "rank": 150
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\apple_s_000519.png",
+      "mean_similarity": 0.9331759214401245,
+      "rank": 151
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\macoun_s_000520.png",
+      "mean_similarity": 0.9331536889076233,
+      "rank": 152
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\red_delicious_s_000367.png",
+      "mean_similarity": 0.9331267476081848,
+      "rank": 153
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\red_delicious_s_001529.png",
+      "mean_similarity": 0.9330213069915771,
+      "rank": 154
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\macoun_s_000827.png",
+      "mean_similarity": 0.9329991340637207,
+      "rank": 155
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\macoun_s_000554.png",
+      "mean_similarity": 0.9329516291618347,
+      "rank": 156
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\red_delicious_s_000165.png",
+      "mean_similarity": 0.9329145550727844,
+      "rank": 157
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\red_delicious_s_000924.png",
+      "mean_similarity": 0.9329049587249756,
+      "rank": 158
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\macoun_s_001027.png",
+      "mean_similarity": 0.9328809380531311,
+      "rank": 159
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\golden_delicious_s_001103.png",
+      "mean_similarity": 0.9327491521835327,
+      "rank": 160
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\red_delicious_s_001464.png",
+      "mean_similarity": 0.932706356048584,
+      "rank": 161
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\red_delicious_s_000445.png",
+      "mean_similarity": 0.9326387047767639,
+      "rank": 162
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\red_delicious_s_000856.png",
+      "mean_similarity": 0.9326050877571106,
+      "rank": 163
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\red_delicious_s_000671.png",
+      "mean_similarity": 0.9325284361839294,
+      "rank": 164
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\northern_spy_s_000821.png",
+      "mean_similarity": 0.9325280785560608,
+      "rank": 165
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\apple_s_000536.png",
+      "mean_similarity": 0.9325165152549744,
+      "rank": 166
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\macoun_s_000594.png",
+      "mean_similarity": 0.9324842095375061,
+      "rank": 167
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\red_delicious_s_000133.png",
+      "mean_similarity": 0.9324460625648499,
+      "rank": 168
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\northern_spy_s_000596.png",
+      "mean_similarity": 0.9323936104774475,
+      "rank": 169
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\macoun_s_000009.png",
+      "mean_similarity": 0.932357132434845,
+      "rank": 170
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\pearmain_s_000313.png",
+      "mean_similarity": 0.9322734475135803,
+      "rank": 171
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\northern_spy_s_000177.png",
+      "mean_similarity": 0.9322089552879333,
+      "rank": 172
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\northern_spy_s_000836.png",
+      "mean_similarity": 0.932202935218811,
+      "rank": 173
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\pearmain_s_000314.png",
+      "mean_similarity": 0.9321935176849365,
+      "rank": 174
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\pearmain_s_000320.png",
+      "mean_similarity": 0.9321717023849487,
+      "rank": 175
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\cortland_s_000771.png",
+      "mean_similarity": 0.9321176409721375,
+      "rank": 176
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\macoun_s_000070.png",
+      "mean_similarity": 0.932084858417511,
+      "rank": 177
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\northern_spy_s_000019.png",
+      "mean_similarity": 0.9319860339164734,
+      "rank": 178
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\red_delicious_s_001240.png",
+      "mean_similarity": 0.931976854801178,
+      "rank": 179
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\red_delicious_s_000552.png",
+      "mean_similarity": 0.9319508075714111,
+      "rank": 180
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\mcintosh_s_000256.png",
+      "mean_similarity": 0.9318710565567017,
+      "rank": 181
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\macoun_s_000886.png",
+      "mean_similarity": 0.9318252205848694,
+      "rank": 182
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\red_delicious_s_000665.png",
+      "mean_similarity": 0.9318216443061829,
+      "rank": 183
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\cortland_s_000454.png",
+      "mean_similarity": 0.9317413568496704,
+      "rank": 184
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\red_delicious_s_000913.png",
+      "mean_similarity": 0.9316726922988892,
+      "rank": 185
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\northern_spy_s_000147.png",
+      "mean_similarity": 0.9316061735153198,
+      "rank": 186
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\red_delicious_s_001424.png",
+      "mean_similarity": 0.9315232634544373,
+      "rank": 187
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\golden_delicious_s_001854.png",
+      "mean_similarity": 0.9315104484558105,
+      "rank": 188
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\macoun_s_000203.png",
+      "mean_similarity": 0.9314379096031189,
+      "rank": 189
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\red_delicious_s_000412.png",
+      "mean_similarity": 0.9314186573028564,
+      "rank": 190
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\northern_spy_s_000207.png",
+      "mean_similarity": 0.931349515914917,
+      "rank": 191
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\macoun_s_000978.png",
+      "mean_similarity": 0.931309700012207,
+      "rank": 192
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\red_delicious_s_000424.png",
+      "mean_similarity": 0.9312402009963989,
+      "rank": 193
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\golden_delicious_s_000143.png",
+      "mean_similarity": 0.9311932921409607,
+      "rank": 194
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\red_delicious_s_000001.png",
+      "mean_similarity": 0.9311259388923645,
+      "rank": 195
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\macoun_s_001095.png",
+      "mean_similarity": 0.9311026930809021,
+      "rank": 196
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\eating_apple_s_000712.png",
+      "mean_similarity": 0.9310629367828369,
+      "rank": 197
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\pearmain_s_000245.png",
+      "mean_similarity": 0.9310253262519836,
+      "rank": 198
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\golden_delicious_s_001694.png",
+      "mean_similarity": 0.9309555888175964,
+      "rank": 199
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\northern_spy_s_000750.png",
+      "mean_similarity": 0.9309435486793518,
+      "rank": 200
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\red_delicious_s_000523.png",
+      "mean_similarity": 0.9309114813804626,
+      "rank": 201
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\yellow_delicious_s_000084.png",
+      "mean_similarity": 0.9308444261550903,
+      "rank": 202
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\macoun_s_001494.png",
+      "mean_similarity": 0.9308367967605591,
+      "rank": 203
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\northern_spy_s_000029.png",
+      "mean_similarity": 0.9308047294616699,
+      "rank": 204
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\apple_s_000528.png",
+      "mean_similarity": 0.9307990074157715,
+      "rank": 205
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\red_delicious_s_000015.png",
+      "mean_similarity": 0.9307833313941956,
+      "rank": 206
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\red_delicious_s_002098.png",
+      "mean_similarity": 0.9307204484939575,
+      "rank": 207
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\golden_delicious_s_000006.png",
+      "mean_similarity": 0.930644154548645,
+      "rank": 208
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\red_delicious_s_000149.png",
+      "mean_similarity": 0.9306033849716187,
+      "rank": 209
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\northern_spy_s_000775.png",
+      "mean_similarity": 0.9305716156959534,
+      "rank": 210
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\red_delicious_s_000014.png",
+      "mean_similarity": 0.9305390119552612,
+      "rank": 211
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\red_delicious_s_000019.png",
+      "mean_similarity": 0.930498480796814,
+      "rank": 212
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\crabapple_s_000111.png",
+      "mean_similarity": 0.930470883846283,
+      "rank": 213
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\red_delicious_s_000079.png",
+      "mean_similarity": 0.9303948879241943,
+      "rank": 214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\pearmain_s_000365.png",
+      "mean_similarity": 0.9303440451622009,
+      "rank": 215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\golden_delicious_s_001342.png",
+      "mean_similarity": 0.9301801919937134,
+      "rank": 216
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\macoun_s_000441.png",
+      "mean_similarity": 0.9301115274429321,
+      "rank": 217
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\red_delicious_s_000018.png",
+      "mean_similarity": 0.9301007390022278,
+      "rank": 218
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\eating_apple_s_000491.png",
+      "mean_similarity": 0.9300660490989685,
+      "rank": 219
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\red_delicious_s_000240.png",
+      "mean_similarity": 0.9300468564033508,
+      "rank": 220
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\red_delicious_s_001342.png",
+      "mean_similarity": 0.930045485496521,
+      "rank": 221
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\northern_spy_s_000423.png",
+      "mean_similarity": 0.929972767829895,
+      "rank": 222
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\red_delicious_s_002038.png",
+      "mean_similarity": 0.9298563599586487,
+      "rank": 223
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\northern_spy_s_000020.png",
+      "mean_similarity": 0.929785966873169,
+      "rank": 224
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\mcintosh_s_000964.png",
+      "mean_similarity": 0.9296378493309021,
+      "rank": 225
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\golden_delicious_s_000038.png",
+      "mean_similarity": 0.9296355247497559,
+      "rank": 226
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\golden_delicious_s_000266.png",
+      "mean_similarity": 0.9295986890792847,
+      "rank": 227
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\golden_delicious_s_001139.png",
+      "mean_similarity": 0.9295409917831421,
+      "rank": 228
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\mcintosh_s_000643.png",
+      "mean_similarity": 0.9295352697372437,
+      "rank": 229
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\mcintosh_s_000006.png",
+      "mean_similarity": 0.9294958710670471,
+      "rank": 230
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\northern_spy_s_000157.png",
+      "mean_similarity": 0.9294829964637756,
+      "rank": 231
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\pearmain_s_000125.png",
+      "mean_similarity": 0.9292713403701782,
+      "rank": 232
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\red_delicious_s_001304.png",
+      "mean_similarity": 0.9292443990707397,
+      "rank": 233
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\golden_delicious_s_001120.png",
+      "mean_similarity": 0.9291295409202576,
+      "rank": 234
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\macoun_s_000228.png",
+      "mean_similarity": 0.9289497137069702,
+      "rank": 235
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\apple_s_000027.png",
+      "mean_similarity": 0.9289488196372986,
+      "rank": 236
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\macoun_s_000024.png",
+      "mean_similarity": 0.928917646408081,
+      "rank": 237
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\yellow_delicious_s_000568.png",
+      "mean_similarity": 0.9289159774780273,
+      "rank": 238
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\macoun_s_000018.png",
+      "mean_similarity": 0.9289013147354126,
+      "rank": 239
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\cortland_s_000692.png",
+      "mean_similarity": 0.9288941621780396,
+      "rank": 240
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\golden_delicious_s_000093.png",
+      "mean_similarity": 0.9287964701652527,
+      "rank": 241
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\golden_delicious_s_000648.png",
+      "mean_similarity": 0.92874675989151,
+      "rank": 242
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\cortland_s_000255.png",
+      "mean_similarity": 0.9286606907844543,
+      "rank": 243
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\red_delicious_s_001841.png",
+      "mean_similarity": 0.9286575317382812,
+      "rank": 244
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\macoun_s_000763.png",
+      "mean_similarity": 0.9286060929298401,
+      "rank": 245
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\golden_delicious_s_000291.png",
+      "mean_similarity": 0.9284089803695679,
+      "rank": 246
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\apple_s_000307.png",
+      "mean_similarity": 0.9283763766288757,
+      "rank": 247
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\northern_spy_s_000355.png",
+      "mean_similarity": 0.9281326532363892,
+      "rank": 248
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\red_delicious_s_000068.png",
+      "mean_similarity": 0.9280821084976196,
+      "rank": 249
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\macoun_s_000623.png",
+      "mean_similarity": 0.9279493093490601,
+      "rank": 250
+    }
+  ]
+}

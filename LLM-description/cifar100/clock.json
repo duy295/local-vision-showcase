@@ -1,0 +1,26 @@
+{
+  "class_name": "clock",
+  "global_description": "Circular or square device with a face displaying numbers or markers, hands indicating time, often encased in metal, plastic, or wood, with a glass cover. Typically features a central pivot for hands and a visible frame or bezel.",
+  "discriminative_attributes": [
+    "Circular or square shape",
+    "Numbers or markers on face",
+    "Hands for time indication",
+    "Glass cover",
+    "Central pivot for hands"
+  ],
+  "part_details": {
+    "face": "Flat surface with numbers or markers, often white or light-colored",
+    "hands": "Thin, elongated, usually black or metallic, rotating around a central pivot",
+    "frame": "Encasing structure, often metallic or wooden, providing support",
+    "glass": "Transparent cover protecting the face",
+    "pivot": "Central point from which hands rotate"
+  },
+  "spatial_relations": [
+    "Hands rotate around central pivot",
+    "Face enclosed by frame",
+    "Glass cover over face",
+    "Numbers or markers arranged around face"
+  ],
+  "original_dataset_key": "cifar100",
+  "original_class_key": "clock"
+}

@@ -1,0 +1,1259 @@
+{
+  "class_name": "pickup_truck",
+  "class_idx": 58,
+  "num_images_in_class": 500,
+  "ec_size_requested": 250,
+  "ec_size_actual": 250,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_s_001919.png",
+      "mean_similarity": 0.9393281936645508,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_truck_s_000288.png",
+      "mean_similarity": 0.9392784833908081,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_s_000954.png",
+      "mean_similarity": 0.9391899108886719,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_s_000914.png",
+      "mean_similarity": 0.9389887452125549,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_s_000557.png",
+      "mean_similarity": 0.9389040470123291,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_truck_s_001531.png",
+      "mean_similarity": 0.9387657046318054,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_s_000128.png",
+      "mean_similarity": 0.9386965036392212,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_truck_s_001353.png",
+      "mean_similarity": 0.9386919736862183,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_s_000928.png",
+      "mean_similarity": 0.9386435747146606,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_truck_s_001686.png",
+      "mean_similarity": 0.9383910894393921,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_s_002196.png",
+      "mean_similarity": 0.9383494853973389,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_s_001987.png",
+      "mean_similarity": 0.9383423924446106,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_truck_s_001653.png",
+      "mean_similarity": 0.9382767081260681,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_truck_s_000202.png",
+      "mean_similarity": 0.9382708668708801,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_s_000207.png",
+      "mean_similarity": 0.9382345676422119,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_s_000381.png",
+      "mean_similarity": 0.9382129907608032,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_s_001866.png",
+      "mean_similarity": 0.9382092952728271,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_s_000442.png",
+      "mean_similarity": 0.9381441473960876,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_truck_s_002457.png",
+      "mean_similarity": 0.9381393790245056,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_truck_s_002657.png",
+      "mean_similarity": 0.9379550218582153,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_s_001288.png",
+      "mean_similarity": 0.937924325466156,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_s_000952.png",
+      "mean_similarity": 0.9378973841667175,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_s_000172.png",
+      "mean_similarity": 0.9377845525741577,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_s_000438.png",
+      "mean_similarity": 0.9377694725990295,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_truck_s_000953.png",
+      "mean_similarity": 0.9376238584518433,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_s_001562.png",
+      "mean_similarity": 0.9375741481781006,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_truck_s_000604.png",
+      "mean_similarity": 0.9374859929084778,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_truck_s_000230.png",
+      "mean_similarity": 0.9374778270721436,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_s_001286.png",
+      "mean_similarity": 0.9374357461929321,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_s_000564.png",
+      "mean_similarity": 0.937276303768158,
+      "rank": 30
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_truck_s_000620.png",
+      "mean_similarity": 0.937218427658081,
+      "rank": 31
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_s_000108.png",
+      "mean_similarity": 0.9371792674064636,
+      "rank": 32
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_truck_s_001651.png",
+      "mean_similarity": 0.9371717572212219,
+      "rank": 33
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_s_000135.png",
+      "mean_similarity": 0.937152624130249,
+      "rank": 34
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_truck_s_002044.png",
+      "mean_similarity": 0.9371086359024048,
+      "rank": 35
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_s_001956.png",
+      "mean_similarity": 0.9371022582054138,
+      "rank": 36
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_truck_s_000023.png",
+      "mean_similarity": 0.9370654821395874,
+      "rank": 37
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_truck_s_000079.png",
+      "mean_similarity": 0.937057614326477,
+      "rank": 38
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_truck_s_000146.png",
+      "mean_similarity": 0.9370435476303101,
+      "rank": 39
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_truck_s_001431.png",
+      "mean_similarity": 0.9370012283325195,
+      "rank": 40
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_truck_s_000968.png",
+      "mean_similarity": 0.9369931221008301,
+      "rank": 41
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_s_001003.png",
+      "mean_similarity": 0.9368890523910522,
+      "rank": 42
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_truck_s_001132.png",
+      "mean_similarity": 0.9367691874504089,
+      "rank": 43
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_s_000035.png",
+      "mean_similarity": 0.9366707801818848,
+      "rank": 44
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_s_001119.png",
+      "mean_similarity": 0.9366326928138733,
+      "rank": 45
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_truck_s_001802.png",
+      "mean_similarity": 0.9366042017936707,
+      "rank": 46
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_truck_s_000833.png",
+      "mean_similarity": 0.9365653395652771,
+      "rank": 47
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_truck_s_000501.png",
+      "mean_similarity": 0.9364998936653137,
+      "rank": 48
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_truck_s_001539.png",
+      "mean_similarity": 0.9364973306655884,
+      "rank": 49
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_s_000700.png",
+      "mean_similarity": 0.9364531636238098,
+      "rank": 50
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_truck_s_002236.png",
+      "mean_similarity": 0.9364492893218994,
+      "rank": 51
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_s_002026.png",
+      "mean_similarity": 0.936416506767273,
+      "rank": 52
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_s_001380.png",
+      "mean_similarity": 0.9363734722137451,
+      "rank": 53
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_truck_s_000169.png",
+      "mean_similarity": 0.9363475441932678,
+      "rank": 54
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_truck_s_000009.png",
+      "mean_similarity": 0.9362882375717163,
+      "rank": 55
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_s_000206.png",
+      "mean_similarity": 0.9362229704856873,
+      "rank": 56
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_truck_s_001647.png",
+      "mean_similarity": 0.9362195134162903,
+      "rank": 57
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_truck_s_000960.png",
+      "mean_similarity": 0.9361781477928162,
+      "rank": 58
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_truck_s_001426.png",
+      "mean_similarity": 0.9361311793327332,
+      "rank": 59
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_s_002035.png",
+      "mean_similarity": 0.9360824823379517,
+      "rank": 60
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_s_001812.png",
+      "mean_similarity": 0.9360761642456055,
+      "rank": 61
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_s_000479.png",
+      "mean_similarity": 0.9360367059707642,
+      "rank": 62
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_s_000328.png",
+      "mean_similarity": 0.9360348582267761,
+      "rank": 63
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_s_000003.png",
+      "mean_similarity": 0.935980498790741,
+      "rank": 64
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_truck_s_002518.png",
+      "mean_similarity": 0.9359539747238159,
+      "rank": 65
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_truck_s_002064.png",
+      "mean_similarity": 0.9359349608421326,
+      "rank": 66
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_truck_s_000162.png",
+      "mean_similarity": 0.9359172582626343,
+      "rank": 67
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_s_001774.png",
+      "mean_similarity": 0.9359013438224792,
+      "rank": 68
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_s_001471.png",
+      "mean_similarity": 0.9358835220336914,
+      "rank": 69
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_s_000817.png",
+      "mean_similarity": 0.9358474612236023,
+      "rank": 70
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_s_001450.png",
+      "mean_similarity": 0.9357633590698242,
+      "rank": 71
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_truck_s_001537.png",
+      "mean_similarity": 0.9357228875160217,
+      "rank": 72
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_s_000948.png",
+      "mean_similarity": 0.935710072517395,
+      "rank": 73
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_s_000924.png",
+      "mean_similarity": 0.9356787800788879,
+      "rank": 74
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_truck_s_000629.png",
+      "mean_similarity": 0.9356293082237244,
+      "rank": 75
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_s_000897.png",
+      "mean_similarity": 0.9355986714363098,
+      "rank": 76
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_truck_s_000736.png",
+      "mean_similarity": 0.9355512857437134,
+      "rank": 77
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_truck_s_001557.png",
+      "mean_similarity": 0.935546338558197,
+      "rank": 78
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_truck_s_000056.png",
+      "mean_similarity": 0.9355342984199524,
+      "rank": 79
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_truck_s_002240.png",
+      "mean_similarity": 0.9355085492134094,
+      "rank": 80
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_truck_s_002364.png",
+      "mean_similarity": 0.9355052709579468,
+      "rank": 81
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_s_000790.png",
+      "mean_similarity": 0.935490608215332,
+      "rank": 82
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_s_000230.png",
+      "mean_similarity": 0.9354727268218994,
+      "rank": 83
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_s_001451.png",
+      "mean_similarity": 0.9354514479637146,
+      "rank": 84
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_truck_s_000355.png",
+      "mean_similarity": 0.935449481010437,
+      "rank": 85
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_s_002194.png",
+      "mean_similarity": 0.9354046583175659,
+      "rank": 86
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_truck_s_000614.png",
+      "mean_similarity": 0.9353999495506287,
+      "rank": 87
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_truck_s_000530.png",
+      "mean_similarity": 0.9352935552597046,
+      "rank": 88
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_truck_s_002445.png",
+      "mean_similarity": 0.9352688193321228,
+      "rank": 89
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_truck_s_000970.png",
+      "mean_similarity": 0.9352656006813049,
+      "rank": 90
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_truck_s_000682.png",
+      "mean_similarity": 0.9352493286132812,
+      "rank": 91
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\technical_s_000046.png",
+      "mean_similarity": 0.9352002739906311,
+      "rank": 92
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_s_001566.png",
+      "mean_similarity": 0.935191810131073,
+      "rank": 93
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_truck_s_000773.png",
+      "mean_similarity": 0.9351685047149658,
+      "rank": 94
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_truck_s_000743.png",
+      "mean_similarity": 0.93515545129776,
+      "rank": 95
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_s_000600.png",
+      "mean_similarity": 0.9351129531860352,
+      "rank": 96
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_s_001125.png",
+      "mean_similarity": 0.9351047873497009,
+      "rank": 97
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_s_000565.png",
+      "mean_similarity": 0.9350983500480652,
+      "rank": 98
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_truck_s_000415.png",
+      "mean_similarity": 0.9350420832633972,
+      "rank": 99
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_s_000715.png",
+      "mean_similarity": 0.9350351095199585,
+      "rank": 100
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_truck_s_002541.png",
+      "mean_similarity": 0.9350317120552063,
+      "rank": 101
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_truck_s_002202.png",
+      "mean_similarity": 0.9349954724311829,
+      "rank": 102
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_truck_s_000828.png",
+      "mean_similarity": 0.9349936842918396,
+      "rank": 103
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_truck_s_002618.png",
+      "mean_similarity": 0.9349539279937744,
+      "rank": 104
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_s_000459.png",
+      "mean_similarity": 0.9348279237747192,
+      "rank": 105
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_s_000138.png",
+      "mean_similarity": 0.9348141551017761,
+      "rank": 106
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_truck_s_001411.png",
+      "mean_similarity": 0.934768795967102,
+      "rank": 107
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_truck_s_001513.png",
+      "mean_similarity": 0.9345908761024475,
+      "rank": 108
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_truck_s_001484.png",
+      "mean_similarity": 0.9345619678497314,
+      "rank": 109
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_truck_s_001910.png",
+      "mean_similarity": 0.934462308883667,
+      "rank": 110
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_s_001757.png",
+      "mean_similarity": 0.9344557523727417,
+      "rank": 111
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_s_001376.png",
+      "mean_similarity": 0.9344421625137329,
+      "rank": 112
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_truck_s_000394.png",
+      "mean_similarity": 0.9344030618667603,
+      "rank": 113
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_truck_s_002258.png",
+      "mean_similarity": 0.9343626499176025,
+      "rank": 114
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_truck_s_001900.png",
+      "mean_similarity": 0.9343267679214478,
+      "rank": 115
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_s_000006.png",
+      "mean_similarity": 0.9342953562736511,
+      "rank": 116
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_truck_s_000813.png",
+      "mean_similarity": 0.9342859983444214,
+      "rank": 117
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_truck_s_001187.png",
+      "mean_similarity": 0.9342828989028931,
+      "rank": 118
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_s_000707.png",
+      "mean_similarity": 0.9342209696769714,
+      "rank": 119
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_s_001383.png",
+      "mean_similarity": 0.9342156052589417,
+      "rank": 120
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_truck_s_000049.png",
+      "mean_similarity": 0.9341804385185242,
+      "rank": 121
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_truck_s_000994.png",
+      "mean_similarity": 0.9341760873794556,
+      "rank": 122
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_s_000321.png",
+      "mean_similarity": 0.9341665506362915,
+      "rank": 123
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_truck_s_000014.png",
+      "mean_similarity": 0.9341529607772827,
+      "rank": 124
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_truck_s_000987.png",
+      "mean_similarity": 0.9341486096382141,
+      "rank": 125
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_s_002011.png",
+      "mean_similarity": 0.9340327978134155,
+      "rank": 126
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_s_001561.png",
+      "mean_similarity": 0.9339854121208191,
+      "rank": 127
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_truck_s_002631.png",
+      "mean_similarity": 0.933907151222229,
+      "rank": 128
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_s_000241.png",
+      "mean_similarity": 0.9338089227676392,
+      "rank": 129
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_truck_s_001628.png",
+      "mean_similarity": 0.9337834119796753,
+      "rank": 130
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_s_000422.png",
+      "mean_similarity": 0.9337766170501709,
+      "rank": 131
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_s_000380.png",
+      "mean_similarity": 0.933691143989563,
+      "rank": 132
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_truck_s_000771.png",
+      "mean_similarity": 0.9336463809013367,
+      "rank": 133
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_s_000239.png",
+      "mean_similarity": 0.93361896276474,
+      "rank": 134
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_s_000132.png",
+      "mean_similarity": 0.9335834980010986,
+      "rank": 135
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_s_000789.png",
+      "mean_similarity": 0.9335777163505554,
+      "rank": 136
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_s_000048.png",
+      "mean_similarity": 0.9335743188858032,
+      "rank": 137
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_truck_s_001801.png",
+      "mean_similarity": 0.9335113167762756,
+      "rank": 138
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_s_001786.png",
+      "mean_similarity": 0.9335092306137085,
+      "rank": 139
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_truck_s_001221.png",
+      "mean_similarity": 0.9334626197814941,
+      "rank": 140
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_truck_s_000178.png",
+      "mean_similarity": 0.9334526658058167,
+      "rank": 141
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_s_000506.png",
+      "mean_similarity": 0.9334398508071899,
+      "rank": 142
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_truck_s_002446.png",
+      "mean_similarity": 0.9333863854408264,
+      "rank": 143
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_s_000832.png",
+      "mean_similarity": 0.9333736896514893,
+      "rank": 144
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_truck_s_000976.png",
+      "mean_similarity": 0.9333544969558716,
+      "rank": 145
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_s_002116.png",
+      "mean_similarity": 0.9333419799804688,
+      "rank": 146
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_s_002045.png",
+      "mean_similarity": 0.9333047270774841,
+      "rank": 147
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_truck_s_001314.png",
+      "mean_similarity": 0.9332651495933533,
+      "rank": 148
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_s_001469.png",
+      "mean_similarity": 0.9332619309425354,
+      "rank": 149
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_s_000416.png",
+      "mean_similarity": 0.9331965446472168,
+      "rank": 150
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_s_000308.png",
+      "mean_similarity": 0.9331873655319214,
+      "rank": 151
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_truck_s_001684.png",
+      "mean_similarity": 0.9331463575363159,
+      "rank": 152
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_truck_s_001366.png",
+      "mean_similarity": 0.933050811290741,
+      "rank": 153
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_s_001880.png",
+      "mean_similarity": 0.9330137968063354,
+      "rank": 154
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_truck_s_001586.png",
+      "mean_similarity": 0.9330105781555176,
+      "rank": 155
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_truck_s_001509.png",
+      "mean_similarity": 0.9330044388771057,
+      "rank": 156
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_s_001779.png",
+      "mean_similarity": 0.9329670071601868,
+      "rank": 157
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_s_000511.png",
+      "mean_similarity": 0.9329379796981812,
+      "rank": 158
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_truck_s_002157.png",
+      "mean_similarity": 0.932881772518158,
+      "rank": 159
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_truck_s_000097.png",
+      "mean_similarity": 0.9328693151473999,
+      "rank": 160
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_s_000360.png",
+      "mean_similarity": 0.9328679442405701,
+      "rank": 161
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_s_000705.png",
+      "mean_similarity": 0.9328541159629822,
+      "rank": 162
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_truck_s_002424.png",
+      "mean_similarity": 0.9327558279037476,
+      "rank": 163
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_s_000199.png",
+      "mean_similarity": 0.9327090978622437,
+      "rank": 164
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_truck_s_001307.png",
+      "mean_similarity": 0.9327072501182556,
+      "rank": 165
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_truck_s_001485.png",
+      "mean_similarity": 0.9325373768806458,
+      "rank": 166
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_s_000702.png",
+      "mean_similarity": 0.9325348734855652,
+      "rank": 167
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_truck_s_000836.png",
+      "mean_similarity": 0.9324806332588196,
+      "rank": 168
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_s_002266.png",
+      "mean_similarity": 0.9324793219566345,
+      "rank": 169
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_truck_s_001625.png",
+      "mean_similarity": 0.932474672794342,
+      "rank": 170
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_truck_s_000143.png",
+      "mean_similarity": 0.9324626922607422,
+      "rank": 171
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_s_001581.png",
+      "mean_similarity": 0.9324613809585571,
+      "rank": 172
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_s_000507.png",
+      "mean_similarity": 0.9324541687965393,
+      "rank": 173
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_s_001482.png",
+      "mean_similarity": 0.9324489235877991,
+      "rank": 174
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_s_001171.png",
+      "mean_similarity": 0.9324367642402649,
+      "rank": 175
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_s_000704.png",
+      "mean_similarity": 0.9324268102645874,
+      "rank": 176
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_s_000020.png",
+      "mean_similarity": 0.9323758482933044,
+      "rank": 177
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_truck_s_002280.png",
+      "mean_similarity": 0.932333767414093,
+      "rank": 178
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_truck_s_001911.png",
+      "mean_similarity": 0.9323180317878723,
+      "rank": 179
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_truck_s_001180.png",
+      "mean_similarity": 0.9322731494903564,
+      "rank": 180
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_truck_s_001346.png",
+      "mean_similarity": 0.9321820735931396,
+      "rank": 181
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_truck_s_002092.png",
+      "mean_similarity": 0.9321653246879578,
+      "rank": 182
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_s_002040.png",
+      "mean_similarity": 0.9321480989456177,
+      "rank": 183
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_s_000698.png",
+      "mean_similarity": 0.9321044683456421,
+      "rank": 184
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_s_000231.png",
+      "mean_similarity": 0.9320735335350037,
+      "rank": 185
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_truck_s_001923.png",
+      "mean_similarity": 0.932063102722168,
+      "rank": 186
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_s_000242.png",
+      "mean_similarity": 0.9320576190948486,
+      "rank": 187
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_s_000103.png",
+      "mean_similarity": 0.9320523738861084,
+      "rank": 188
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_truck_s_000624.png",
+      "mean_similarity": 0.9320517182350159,
+      "rank": 189
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_s_000755.png",
+      "mean_similarity": 0.9320003986358643,
+      "rank": 190
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_truck_s_000726.png",
+      "mean_similarity": 0.931850016117096,
+      "rank": 191
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_s_001565.png",
+      "mean_similarity": 0.9318037033081055,
+      "rank": 192
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_truck_s_000331.png",
+      "mean_similarity": 0.9317733645439148,
+      "rank": 193
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_truck_s_001483.png",
+      "mean_similarity": 0.931749165058136,
+      "rank": 194
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_s_001603.png",
+      "mean_similarity": 0.9317290782928467,
+      "rank": 195
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_truck_s_000358.png",
+      "mean_similarity": 0.9316291213035583,
+      "rank": 196
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_truck_s_000955.png",
+      "mean_similarity": 0.9316193461418152,
+      "rank": 197
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_truck_s_000832.png",
+      "mean_similarity": 0.9315351247787476,
+      "rank": 198
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_truck_s_002273.png",
+      "mean_similarity": 0.931520938873291,
+      "rank": 199
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_truck_s_000244.png",
+      "mean_similarity": 0.931452751159668,
+      "rank": 200
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_truck_s_001668.png",
+      "mean_similarity": 0.9313977360725403,
+      "rank": 201
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_truck_s_001251.png",
+      "mean_similarity": 0.9313251376152039,
+      "rank": 202
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_truck_s_001232.png",
+      "mean_similarity": 0.9313205480575562,
+      "rank": 203
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_truck_s_002033.png",
+      "mean_similarity": 0.9313169717788696,
+      "rank": 204
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_truck_s_001761.png",
+      "mean_similarity": 0.9312924146652222,
+      "rank": 205
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_s_000960.png",
+      "mean_similarity": 0.9312619566917419,
+      "rank": 206
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_s_000576.png",
+      "mean_similarity": 0.9312593936920166,
+      "rank": 207
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_s_001000.png",
+      "mean_similarity": 0.9311802387237549,
+      "rank": 208
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_s_001109.png",
+      "mean_similarity": 0.9311637282371521,
+      "rank": 209
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_truck_s_000500.png",
+      "mean_similarity": 0.9311316013336182,
+      "rank": 210
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_truck_s_002468.png",
+      "mean_similarity": 0.931078314781189,
+      "rank": 211
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_s_000684.png",
+      "mean_similarity": 0.9310422539710999,
+      "rank": 212
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_s_001940.png",
+      "mean_similarity": 0.9310266375541687,
+      "rank": 213
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_s_001793.png",
+      "mean_similarity": 0.931013286113739,
+      "rank": 214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_truck_s_001696.png",
+      "mean_similarity": 0.930993914604187,
+      "rank": 215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_s_001037.png",
+      "mean_similarity": 0.9309871792793274,
+      "rank": 216
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_s_000547.png",
+      "mean_similarity": 0.9309513568878174,
+      "rank": 217
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_s_001173.png",
+      "mean_similarity": 0.9309237599372864,
+      "rank": 218
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_s_001078.png",
+      "mean_similarity": 0.9309065341949463,
+      "rank": 219
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_truck_s_000834.png",
+      "mean_similarity": 0.9308963418006897,
+      "rank": 220
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_s_001398.png",
+      "mean_similarity": 0.9308407306671143,
+      "rank": 221
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_s_000011.png",
+      "mean_similarity": 0.9308151006698608,
+      "rank": 222
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_s_002149.png",
+      "mean_similarity": 0.9307599067687988,
+      "rank": 223
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_s_001476.png",
+      "mean_similarity": 0.9307518601417542,
+      "rank": 224
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_s_001212.png",
+      "mean_similarity": 0.9306764602661133,
+      "rank": 225
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_truck_s_001277.png",
+      "mean_similarity": 0.9306742548942566,
+      "rank": 226
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_s_001853.png",
+      "mean_similarity": 0.9306513667106628,
+      "rank": 227
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_truck_s_000138.png",
+      "mean_similarity": 0.9305551052093506,
+      "rank": 228
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_truck_s_002517.png",
+      "mean_similarity": 0.9305062890052795,
+      "rank": 229
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_truck_s_000794.png",
+      "mean_similarity": 0.930497944355011,
+      "rank": 230
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_s_001284.png",
+      "mean_similarity": 0.9304901361465454,
+      "rank": 231
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_truck_s_000012.png",
+      "mean_similarity": 0.930441677570343,
+      "rank": 232
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_s_001135.png",
+      "mean_similarity": 0.930436909198761,
+      "rank": 233
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_s_000325.png",
+      "mean_similarity": 0.9303569197654724,
+      "rank": 234
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_s_000021.png",
+      "mean_similarity": 0.9302252531051636,
+      "rank": 235
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_truck_s_001521.png",
+      "mean_similarity": 0.9302135109901428,
+      "rank": 236
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_truck_s_002156.png",
+      "mean_similarity": 0.9301969408988953,
+      "rank": 237
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_s_000169.png",
+      "mean_similarity": 0.930191695690155,
+      "rank": 238
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_truck_s_001066.png",
+      "mean_similarity": 0.9301819205284119,
+      "rank": 239
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_truck_s_000725.png",
+      "mean_similarity": 0.930064857006073,
+      "rank": 240
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_truck_s_000072.png",
+      "mean_similarity": 0.9300154447555542,
+      "rank": 241
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_truck_s_000772.png",
+      "mean_similarity": 0.9299823641777039,
+      "rank": 242
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_truck_s_000272.png",
+      "mean_similarity": 0.9299784898757935,
+      "rank": 243
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_truck_s_001865.png",
+      "mean_similarity": 0.9299646019935608,
+      "rank": 244
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_s_000131.png",
+      "mean_similarity": 0.9299635291099548,
+      "rank": 245
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_s_000527.png",
+      "mean_similarity": 0.9299577474594116,
+      "rank": 246
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_truck_s_002545.png",
+      "mean_similarity": 0.9299079179763794,
+      "rank": 247
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_truck_s_000681.png",
+      "mean_similarity": 0.9298321008682251,
+      "rank": 248
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_truck_s_001438.png",
+      "mean_similarity": 0.9297992587089539,
+      "rank": 249
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\059.pickup_truck\\pickup_truck_s_000225.png",
+      "mean_similarity": 0.9296560883522034,
+      "rank": 250
+    }
+  ]
+}

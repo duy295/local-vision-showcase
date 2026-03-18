@@ -1,0 +1,1259 @@
+{
+  "class_name": "bridge",
+  "class_idx": 12,
+  "num_images_in_class": 500,
+  "ec_size_requested": 250,
+  "ec_size_actual": 250,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\drawbridge_s_002421.png",
+      "mean_similarity": 0.9490314722061157,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\drawbridge_s_000878.png",
+      "mean_similarity": 0.9490023851394653,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\lift_bridge_s_001579.png",
+      "mean_similarity": 0.9490013122558594,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\drawbridge_s_001723.png",
+      "mean_similarity": 0.9489873647689819,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\footbridge_s_000194.png",
+      "mean_similarity": 0.9489743113517761,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\drawbridge_s_001670.png",
+      "mean_similarity": 0.9488967061042786,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\lift_bridge_s_000232.png",
+      "mean_similarity": 0.9488789439201355,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\lift_bridge_s_000286.png",
+      "mean_similarity": 0.948837161064148,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\lift_bridge_s_000261.png",
+      "mean_similarity": 0.9488260746002197,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\drawbridge_s_000907.png",
+      "mean_similarity": 0.9487975239753723,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\drawbridge_s_001027.png",
+      "mean_similarity": 0.9487955570220947,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\lift_bridge_s_000421.png",
+      "mean_similarity": 0.9487941861152649,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\lift_bridge_s_000544.png",
+      "mean_similarity": 0.9487918615341187,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\drawbridge_s_000888.png",
+      "mean_similarity": 0.9487911462783813,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\drawbridge_s_002427.png",
+      "mean_similarity": 0.9487760066986084,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\lift_bridge_s_000002.png",
+      "mean_similarity": 0.9487320780754089,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\lift_bridge_s_000322.png",
+      "mean_similarity": 0.9487293362617493,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\lift_bridge_s_000563.png",
+      "mean_similarity": 0.9487032890319824,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\lift_bridge_s_001781.png",
+      "mean_similarity": 0.9486907124519348,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\footbridge_s_000487.png",
+      "mean_similarity": 0.9486640691757202,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\footbridge_s_000403.png",
+      "mean_similarity": 0.9486550092697144,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\drawbridge_s_002699.png",
+      "mean_similarity": 0.9486478567123413,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\drawbridge_s_002726.png",
+      "mean_similarity": 0.9486441612243652,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\lift_bridge_s_000941.png",
+      "mean_similarity": 0.9486353397369385,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\drawbridge_s_001445.png",
+      "mean_similarity": 0.9486227035522461,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\drawbridge_s_001796.png",
+      "mean_similarity": 0.9485997557640076,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\lift_bridge_s_000676.png",
+      "mean_similarity": 0.9485989809036255,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\drawbridge_s_002329.png",
+      "mean_similarity": 0.9485892653465271,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\drawbridge_s_000959.png",
+      "mean_similarity": 0.9485594034194946,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\drawbridge_s_001156.png",
+      "mean_similarity": 0.9485559463500977,
+      "rank": 30
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\lift_bridge_s_000495.png",
+      "mean_similarity": 0.9485204219818115,
+      "rank": 31
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\lift_bridge_s_000454.png",
+      "mean_similarity": 0.9485183954238892,
+      "rank": 32
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\drawbridge_s_002426.png",
+      "mean_similarity": 0.9485150575637817,
+      "rank": 33
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\drawbridge_s_001873.png",
+      "mean_similarity": 0.9484902620315552,
+      "rank": 34
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\footbridge_s_000181.png",
+      "mean_similarity": 0.9484821557998657,
+      "rank": 35
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\lift_bridge_s_000185.png",
+      "mean_similarity": 0.9484801292419434,
+      "rank": 36
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\footbridge_s_000308.png",
+      "mean_similarity": 0.948466420173645,
+      "rank": 37
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\lift_bridge_s_000525.png",
+      "mean_similarity": 0.9484605193138123,
+      "rank": 38
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\drawbridge_s_001656.png",
+      "mean_similarity": 0.9484556913375854,
+      "rank": 39
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\lift_bridge_s_002002.png",
+      "mean_similarity": 0.9484469890594482,
+      "rank": 40
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\drawbridge_s_000740.png",
+      "mean_similarity": 0.9484385251998901,
+      "rank": 41
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\drawbridge_s_000809.png",
+      "mean_similarity": 0.9484361410140991,
+      "rank": 42
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\lift_bridge_s_000300.png",
+      "mean_similarity": 0.9484279751777649,
+      "rank": 43
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\lift_bridge_s_001485.png",
+      "mean_similarity": 0.9484243392944336,
+      "rank": 44
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\lift_bridge_s_001127.png",
+      "mean_similarity": 0.9484217762947083,
+      "rank": 45
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\lift_bridge_s_000252.png",
+      "mean_similarity": 0.9484164714813232,
+      "rank": 46
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\lift_bridge_s_000179.png",
+      "mean_similarity": 0.9484047889709473,
+      "rank": 47
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\lift_bridge_s_000537.png",
+      "mean_similarity": 0.9483965635299683,
+      "rank": 48
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\lift_bridge_s_000177.png",
+      "mean_similarity": 0.9483681321144104,
+      "rank": 49
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\drawbridge_s_001745.png",
+      "mean_similarity": 0.948367714881897,
+      "rank": 50
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\drawbridge_s_002402.png",
+      "mean_similarity": 0.9483671188354492,
+      "rank": 51
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\lift_bridge_s_000057.png",
+      "mean_similarity": 0.9483665823936462,
+      "rank": 52
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\drawbridge_s_002812.png",
+      "mean_similarity": 0.9483597278594971,
+      "rank": 53
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\footbridge_s_000815.png",
+      "mean_similarity": 0.9483588933944702,
+      "rank": 54
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\lift_bridge_s_000981.png",
+      "mean_similarity": 0.9483580589294434,
+      "rank": 55
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\lift_bridge_s_001659.png",
+      "mean_similarity": 0.9483352303504944,
+      "rank": 56
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\drawbridge_s_001523.png",
+      "mean_similarity": 0.9483245015144348,
+      "rank": 57
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\lift_bridge_s_001890.png",
+      "mean_similarity": 0.9483203291893005,
+      "rank": 58
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\lift_bridge_s_001116.png",
+      "mean_similarity": 0.9483175277709961,
+      "rank": 59
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\lift_bridge_s_001982.png",
+      "mean_similarity": 0.9483106136322021,
+      "rank": 60
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\lift_bridge_s_000086.png",
+      "mean_similarity": 0.9483093619346619,
+      "rank": 61
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\lift_bridge_s_000247.png",
+      "mean_similarity": 0.9483048319816589,
+      "rank": 62
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\lift_bridge_s_000994.png",
+      "mean_similarity": 0.9483013153076172,
+      "rank": 63
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\lift_bridge_s_000235.png",
+      "mean_similarity": 0.9482977390289307,
+      "rank": 64
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\drawbridge_s_001724.png",
+      "mean_similarity": 0.9482965469360352,
+      "rank": 65
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\lift_bridge_s_000266.png",
+      "mean_similarity": 0.9482904076576233,
+      "rank": 66
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\drawbridge_s_002369.png",
+      "mean_similarity": 0.9482807517051697,
+      "rank": 67
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\lift_bridge_s_000619.png",
+      "mean_similarity": 0.9482424259185791,
+      "rank": 68
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\lift_bridge_s_001274.png",
+      "mean_similarity": 0.9482319355010986,
+      "rank": 69
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\lift_bridge_s_000551.png",
+      "mean_similarity": 0.9482298493385315,
+      "rank": 70
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\drawbridge_s_001999.png",
+      "mean_similarity": 0.9482290148735046,
+      "rank": 71
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\lift_bridge_s_001306.png",
+      "mean_similarity": 0.948225736618042,
+      "rank": 72
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\footbridge_s_000290.png",
+      "mean_similarity": 0.9482256770133972,
+      "rank": 73
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\drawbridge_s_002092.png",
+      "mean_similarity": 0.9482112526893616,
+      "rank": 74
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\drawbridge_s_001943.png",
+      "mean_similarity": 0.9482002854347229,
+      "rank": 75
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\drawbridge_s_000686.png",
+      "mean_similarity": 0.9481756687164307,
+      "rank": 76
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\lift_bridge_s_000540.png",
+      "mean_similarity": 0.948172390460968,
+      "rank": 77
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\lift_bridge_s_001782.png",
+      "mean_similarity": 0.9481672048568726,
+      "rank": 78
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\drawbridge_s_001397.png",
+      "mean_similarity": 0.9481506943702698,
+      "rank": 79
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\lift_bridge_s_000053.png",
+      "mean_similarity": 0.9481484889984131,
+      "rank": 80
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\footbridge_s_000271.png",
+      "mean_similarity": 0.9481481313705444,
+      "rank": 81
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\drawbridge_s_002547.png",
+      "mean_similarity": 0.9481427669525146,
+      "rank": 82
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\lift_bridge_s_000442.png",
+      "mean_similarity": 0.9481248259544373,
+      "rank": 83
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\footbridge_s_000044.png",
+      "mean_similarity": 0.9481240510940552,
+      "rank": 84
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\lift_bridge_s_001458.png",
+      "mean_similarity": 0.9481212496757507,
+      "rank": 85
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\footbridge_s_000491.png",
+      "mean_similarity": 0.9481055736541748,
+      "rank": 86
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\drawbridge_s_000789.png",
+      "mean_similarity": 0.9480944275856018,
+      "rank": 87
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\drawbridge_s_001384.png",
+      "mean_similarity": 0.9480804204940796,
+      "rank": 88
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\lift_bridge_s_001575.png",
+      "mean_similarity": 0.948079526424408,
+      "rank": 89
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\lift_bridge_s_001257.png",
+      "mean_similarity": 0.948073148727417,
+      "rank": 90
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\drawbridge_s_002425.png",
+      "mean_similarity": 0.9480592012405396,
+      "rank": 91
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\drawbridge_s_002177.png",
+      "mean_similarity": 0.9480545520782471,
+      "rank": 92
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\lift_bridge_s_000764.png",
+      "mean_similarity": 0.948052704334259,
+      "rank": 93
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\drawbridge_s_000681.png",
+      "mean_similarity": 0.9480401277542114,
+      "rank": 94
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\lift_bridge_s_000239.png",
+      "mean_similarity": 0.9480321407318115,
+      "rank": 95
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\footbridge_s_000759.png",
+      "mean_similarity": 0.9480319619178772,
+      "rank": 96
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\lift_bridge_s_000018.png",
+      "mean_similarity": 0.9480266571044922,
+      "rank": 97
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\lift_bridge_s_001945.png",
+      "mean_similarity": 0.948007345199585,
+      "rank": 98
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\drawbridge_s_001632.png",
+      "mean_similarity": 0.9480066299438477,
+      "rank": 99
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\footbridge_s_000283.png",
+      "mean_similarity": 0.9479881525039673,
+      "rank": 100
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\drawbridge_s_002049.png",
+      "mean_similarity": 0.9479706883430481,
+      "rank": 101
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\drawbridge_s_001730.png",
+      "mean_similarity": 0.9479420185089111,
+      "rank": 102
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\lift_bridge_s_001156.png",
+      "mean_similarity": 0.947940468788147,
+      "rank": 103
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\lift_bridge_s_000047.png",
+      "mean_similarity": 0.947937548160553,
+      "rank": 104
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\footbridge_s_000004.png",
+      "mean_similarity": 0.9479349255561829,
+      "rank": 105
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\lift_bridge_s_001175.png",
+      "mean_similarity": 0.9479275345802307,
+      "rank": 106
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\lift_bridge_s_001230.png",
+      "mean_similarity": 0.9479051828384399,
+      "rank": 107
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\lift_bridge_s_000839.png",
+      "mean_similarity": 0.9478992223739624,
+      "rank": 108
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\lift_bridge_s_001669.png",
+      "mean_similarity": 0.9478901624679565,
+      "rank": 109
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\lift_bridge_s_001015.png",
+      "mean_similarity": 0.9478746056556702,
+      "rank": 110
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\lift_bridge_s_000182.png",
+      "mean_similarity": 0.9478743672370911,
+      "rank": 111
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\lift_bridge_s_000565.png",
+      "mean_similarity": 0.9478539824485779,
+      "rank": 112
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\drawbridge_s_002725.png",
+      "mean_similarity": 0.9478523135185242,
+      "rank": 113
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\lift_bridge_s_001335.png",
+      "mean_similarity": 0.947848379611969,
+      "rank": 114
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\lift_bridge_s_000234.png",
+      "mean_similarity": 0.9478450417518616,
+      "rank": 115
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\lift_bridge_s_002109.png",
+      "mean_similarity": 0.9478429555892944,
+      "rank": 116
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\drawbridge_s_002052.png",
+      "mean_similarity": 0.9478310942649841,
+      "rank": 117
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\lift_bridge_s_001118.png",
+      "mean_similarity": 0.9478203058242798,
+      "rank": 118
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\lift_bridge_s_001246.png",
+      "mean_similarity": 0.9478155970573425,
+      "rank": 119
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\drawbridge_s_000865.png",
+      "mean_similarity": 0.9478097558021545,
+      "rank": 120
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\footbridge_s_000967.png",
+      "mean_similarity": 0.9478070735931396,
+      "rank": 121
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\lift_bridge_s_001809.png",
+      "mean_similarity": 0.9478068947792053,
+      "rank": 122
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\lift_bridge_s_001494.png",
+      "mean_similarity": 0.9477953910827637,
+      "rank": 123
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\footbridge_s_000722.png",
+      "mean_similarity": 0.9477894306182861,
+      "rank": 124
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\lift_bridge_s_001143.png",
+      "mean_similarity": 0.9477829337120056,
+      "rank": 125
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\drawbridge_s_000772.png",
+      "mean_similarity": 0.9477788805961609,
+      "rank": 126
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\drawbridge_s_001748.png",
+      "mean_similarity": 0.9477763175964355,
+      "rank": 127
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\drawbridge_s_002553.png",
+      "mean_similarity": 0.9477636218070984,
+      "rank": 128
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\footbridge_s_000932.png",
+      "mean_similarity": 0.9477605223655701,
+      "rank": 129
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\drawbridge_s_001219.png",
+      "mean_similarity": 0.9477536678314209,
+      "rank": 130
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\footbridge_s_000757.png",
+      "mean_similarity": 0.9477366805076599,
+      "rank": 131
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\lift_bridge_s_001731.png",
+      "mean_similarity": 0.9477326273918152,
+      "rank": 132
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\drawbridge_s_001485.png",
+      "mean_similarity": 0.9477213621139526,
+      "rank": 133
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\lift_bridge_s_000054.png",
+      "mean_similarity": 0.9477198719978333,
+      "rank": 134
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\drawbridge_s_001501.png",
+      "mean_similarity": 0.947716236114502,
+      "rank": 135
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\drawbridge_s_002321.png",
+      "mean_similarity": 0.9477159976959229,
+      "rank": 136
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\lift_bridge_s_000066.png",
+      "mean_similarity": 0.9477034211158752,
+      "rank": 137
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\lift_bridge_s_001305.png",
+      "mean_similarity": 0.9477032423019409,
+      "rank": 138
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\drawbridge_s_002422.png",
+      "mean_similarity": 0.9476942420005798,
+      "rank": 139
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\lift_bridge_s_000675.png",
+      "mean_similarity": 0.947691798210144,
+      "rank": 140
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\drawbridge_s_001695.png",
+      "mean_similarity": 0.9476804137229919,
+      "rank": 141
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\lift_bridge_s_000903.png",
+      "mean_similarity": 0.9476742148399353,
+      "rank": 142
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\lift_bridge_s_000703.png",
+      "mean_similarity": 0.9476698637008667,
+      "rank": 143
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\footbridge_s_000945.png",
+      "mean_similarity": 0.9476521611213684,
+      "rank": 144
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\drawbridge_s_002659.png",
+      "mean_similarity": 0.9476519227027893,
+      "rank": 145
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\drawbridge_s_001311.png",
+      "mean_similarity": 0.947647750377655,
+      "rank": 146
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\footbridge_s_000468.png",
+      "mean_similarity": 0.9476456642150879,
+      "rank": 147
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\lift_bridge_s_000445.png",
+      "mean_similarity": 0.9476453065872192,
+      "rank": 148
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\drawbridge_s_002331.png",
+      "mean_similarity": 0.9476433992385864,
+      "rank": 149
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\lift_bridge_s_000829.png",
+      "mean_similarity": 0.947640061378479,
+      "rank": 150
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\lift_bridge_s_000639.png",
+      "mean_similarity": 0.9476373195648193,
+      "rank": 151
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\lift_bridge_s_001663.png",
+      "mean_similarity": 0.9476357102394104,
+      "rank": 152
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\lift_bridge_s_001231.png",
+      "mean_similarity": 0.9476354122161865,
+      "rank": 153
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\drawbridge_s_000653.png",
+      "mean_similarity": 0.947627604007721,
+      "rank": 154
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\lift_bridge_s_000762.png",
+      "mean_similarity": 0.9476248621940613,
+      "rank": 155
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\drawbridge_s_001255.png",
+      "mean_similarity": 0.9476089477539062,
+      "rank": 156
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\lift_bridge_s_000293.png",
+      "mean_similarity": 0.947606086730957,
+      "rank": 157
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\lift_bridge_s_001635.png",
+      "mean_similarity": 0.9475924372673035,
+      "rank": 158
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\drawbridge_s_001022.png",
+      "mean_similarity": 0.9475887417793274,
+      "rank": 159
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\drawbridge_s_002625.png",
+      "mean_similarity": 0.9475813508033752,
+      "rank": 160
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\lift_bridge_s_000686.png",
+      "mean_similarity": 0.9475549459457397,
+      "rank": 161
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\lift_bridge_s_001260.png",
+      "mean_similarity": 0.947536826133728,
+      "rank": 162
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\lift_bridge_s_001317.png",
+      "mean_similarity": 0.9475338459014893,
+      "rank": 163
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\lift_bridge_s_000922.png",
+      "mean_similarity": 0.9475308656692505,
+      "rank": 164
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\lift_bridge_s_001258.png",
+      "mean_similarity": 0.947511613368988,
+      "rank": 165
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\lift_bridge_s_000341.png",
+      "mean_similarity": 0.9474961161613464,
+      "rank": 166
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\footbridge_s_000204.png",
+      "mean_similarity": 0.9474954605102539,
+      "rank": 167
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\lift_bridge_s_001161.png",
+      "mean_similarity": 0.9474951028823853,
+      "rank": 168
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\drawbridge_s_001017.png",
+      "mean_similarity": 0.9474782347679138,
+      "rank": 169
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\drawbridge_s_002524.png",
+      "mean_similarity": 0.9474776387214661,
+      "rank": 170
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\lift_bridge_s_000735.png",
+      "mean_similarity": 0.947476863861084,
+      "rank": 171
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\lift_bridge_s_001916.png",
+      "mean_similarity": 0.9474580883979797,
+      "rank": 172
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\footbridge_s_000594.png",
+      "mean_similarity": 0.9474478960037231,
+      "rank": 173
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\lift_bridge_s_000368.png",
+      "mean_similarity": 0.9474446773529053,
+      "rank": 174
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\drawbridge_s_000862.png",
+      "mean_similarity": 0.9474419951438904,
+      "rank": 175
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\drawbridge_s_001754.png",
+      "mean_similarity": 0.9474400877952576,
+      "rank": 176
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\lift_bridge_s_000446.png",
+      "mean_similarity": 0.9474304914474487,
+      "rank": 177
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\lift_bridge_s_001330.png",
+      "mean_similarity": 0.9474274516105652,
+      "rank": 178
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\lift_bridge_s_000292.png",
+      "mean_similarity": 0.9474226236343384,
+      "rank": 179
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\drawbridge_s_002318.png",
+      "mean_similarity": 0.9474210739135742,
+      "rank": 180
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\footbridge_s_000198.png",
+      "mean_similarity": 0.9474180340766907,
+      "rank": 181
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\drawbridge_s_001134.png",
+      "mean_similarity": 0.9474171996116638,
+      "rank": 182
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\lift_bridge_s_000130.png",
+      "mean_similarity": 0.9474061131477356,
+      "rank": 183
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\drawbridge_s_001833.png",
+      "mean_similarity": 0.9474021196365356,
+      "rank": 184
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\lift_bridge_s_000325.png",
+      "mean_similarity": 0.9473828077316284,
+      "rank": 185
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\lift_bridge_s_000048.png",
+      "mean_similarity": 0.9473698735237122,
+      "rank": 186
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\drawbridge_s_002628.png",
+      "mean_similarity": 0.947363555431366,
+      "rank": 187
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\drawbridge_s_001424.png",
+      "mean_similarity": 0.9473446607589722,
+      "rank": 188
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\drawbridge_s_001256.png",
+      "mean_similarity": 0.9473217725753784,
+      "rank": 189
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\lift_bridge_s_001482.png",
+      "mean_similarity": 0.9473158717155457,
+      "rank": 190
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\lift_bridge_s_000663.png",
+      "mean_similarity": 0.9473090767860413,
+      "rank": 191
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\lift_bridge_s_000208.png",
+      "mean_similarity": 0.9472987651824951,
+      "rank": 192
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\lift_bridge_s_001125.png",
+      "mean_similarity": 0.9472935199737549,
+      "rank": 193
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\lift_bridge_s_001037.png",
+      "mean_similarity": 0.9472890496253967,
+      "rank": 194
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\lift_bridge_s_001349.png",
+      "mean_similarity": 0.9472833275794983,
+      "rank": 195
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\drawbridge_s_002428.png",
+      "mean_similarity": 0.9472751021385193,
+      "rank": 196
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\drawbridge_s_002732.png",
+      "mean_similarity": 0.9472736120223999,
+      "rank": 197
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\lift_bridge_s_001753.png",
+      "mean_similarity": 0.947270393371582,
+      "rank": 198
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\drawbridge_s_002161.png",
+      "mean_similarity": 0.9472688436508179,
+      "rank": 199
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\lift_bridge_s_000113.png",
+      "mean_similarity": 0.9472667574882507,
+      "rank": 200
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\lift_bridge_s_001947.png",
+      "mean_similarity": 0.9472537636756897,
+      "rank": 201
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\drawbridge_s_001297.png",
+      "mean_similarity": 0.9472151398658752,
+      "rank": 202
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\lift_bridge_s_000888.png",
+      "mean_similarity": 0.9471889138221741,
+      "rank": 203
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\footbridge_s_000798.png",
+      "mean_similarity": 0.9471778273582458,
+      "rank": 204
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\footbridge_s_000446.png",
+      "mean_similarity": 0.9471725821495056,
+      "rank": 205
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\lift_bridge_s_002006.png",
+      "mean_similarity": 0.9471697211265564,
+      "rank": 206
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\drawbridge_s_001386.png",
+      "mean_similarity": 0.9471579790115356,
+      "rank": 207
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\lift_bridge_s_000847.png",
+      "mean_similarity": 0.9471550583839417,
+      "rank": 208
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\footbridge_s_000543.png",
+      "mean_similarity": 0.9471536874771118,
+      "rank": 209
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\lift_bridge_s_000173.png",
+      "mean_similarity": 0.9471511244773865,
+      "rank": 210
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\lift_bridge_s_000076.png",
+      "mean_similarity": 0.9471324682235718,
+      "rank": 211
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\lift_bridge_s_000176.png",
+      "mean_similarity": 0.9471198320388794,
+      "rank": 212
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\footbridge_s_000950.png",
+      "mean_similarity": 0.9471177458763123,
+      "rank": 213
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\lift_bridge_s_001119.png",
+      "mean_similarity": 0.9471107721328735,
+      "rank": 214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\lift_bridge_s_001268.png",
+      "mean_similarity": 0.9470984935760498,
+      "rank": 215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\lift_bridge_s_000465.png",
+      "mean_similarity": 0.9470938444137573,
+      "rank": 216
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\lift_bridge_s_000646.png",
+      "mean_similarity": 0.9470816850662231,
+      "rank": 217
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\drawbridge_s_001575.png",
+      "mean_similarity": 0.9470716714859009,
+      "rank": 218
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\lift_bridge_s_000375.png",
+      "mean_similarity": 0.9470677375793457,
+      "rank": 219
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\footbridge_s_000671.png",
+      "mean_similarity": 0.9470366835594177,
+      "rank": 220
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\drawbridge_s_002526.png",
+      "mean_similarity": 0.947014331817627,
+      "rank": 221
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\lift_bridge_s_000372.png",
+      "mean_similarity": 0.9470119476318359,
+      "rank": 222
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\lift_bridge_s_000648.png",
+      "mean_similarity": 0.9470058083534241,
+      "rank": 223
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\drawbridge_s_001582.png",
+      "mean_similarity": 0.947004497051239,
+      "rank": 224
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\drawbridge_s_002022.png",
+      "mean_similarity": 0.9469984769821167,
+      "rank": 225
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\lift_bridge_s_001727.png",
+      "mean_similarity": 0.9469943046569824,
+      "rank": 226
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\lift_bridge_s_000374.png",
+      "mean_similarity": 0.9469899535179138,
+      "rank": 227
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\lift_bridge_s_000180.png",
+      "mean_similarity": 0.9469849467277527,
+      "rank": 228
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\footbridge_s_000193.png",
+      "mean_similarity": 0.9469848275184631,
+      "rank": 229
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\drawbridge_s_002222.png",
+      "mean_similarity": 0.946979820728302,
+      "rank": 230
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\drawbridge_s_000791.png",
+      "mean_similarity": 0.9469784498214722,
+      "rank": 231
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\drawbridge_s_002701.png",
+      "mean_similarity": 0.946972131729126,
+      "rank": 232
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\drawbridge_s_002602.png",
+      "mean_similarity": 0.9469418525695801,
+      "rank": 233
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\lift_bridge_s_002062.png",
+      "mean_similarity": 0.946938157081604,
+      "rank": 234
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\lift_bridge_s_000425.png",
+      "mean_similarity": 0.9469144940376282,
+      "rank": 235
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\lift_bridge_s_000645.png",
+      "mean_similarity": 0.9469094276428223,
+      "rank": 236
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\drawbridge_s_002674.png",
+      "mean_similarity": 0.9469034671783447,
+      "rank": 237
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\footbridge_s_000604.png",
+      "mean_similarity": 0.9468932747840881,
+      "rank": 238
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\drawbridge_s_000950.png",
+      "mean_similarity": 0.9468837976455688,
+      "rank": 239
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\footbridge_s_000093.png",
+      "mean_similarity": 0.9468722939491272,
+      "rank": 240
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\lift_bridge_s_000458.png",
+      "mean_similarity": 0.9468638896942139,
+      "rank": 241
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\lift_bridge_s_000588.png",
+      "mean_similarity": 0.9468346238136292,
+      "rank": 242
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\drawbridge_s_002178.png",
+      "mean_similarity": 0.9468222856521606,
+      "rank": 243
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\lift_bridge_s_001743.png",
+      "mean_similarity": 0.9468096494674683,
+      "rank": 244
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\lift_bridge_s_001109.png",
+      "mean_similarity": 0.9467940926551819,
+      "rank": 245
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\footbridge_s_000527.png",
+      "mean_similarity": 0.9467924237251282,
+      "rank": 246
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\lift_bridge_s_000644.png",
+      "mean_similarity": 0.9467791318893433,
+      "rank": 247
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\footbridge_s_000562.png",
+      "mean_similarity": 0.9467732310295105,
+      "rank": 248
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\lift_bridge_s_001689.png",
+      "mean_similarity": 0.9467629194259644,
+      "rank": 249
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\013.bridge\\lift_bridge_s_000268.png",
+      "mean_similarity": 0.94676274061203,
+      "rank": 250
+    }
+  ]
+}

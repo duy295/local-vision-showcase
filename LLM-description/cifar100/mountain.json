@@ -1,0 +1,26 @@
+{
+  "class_name": "mountain",
+  "global_description": "Large natural elevation with rugged peaks, often covered in snow or vegetation. Dominant colors include gray, white, and green. The surface is rocky and uneven, with steep slopes and jagged ridges.",
+  "discriminative_attributes": [
+    "Rugged peaks",
+    "Snow-covered tops",
+    "Steep slopes",
+    "Jagged ridges",
+    "Rocky surface"
+  ],
+  "part_details": {
+    "peak": "Sharp and pointed, often snow-capped",
+    "slope": "Steep and uneven, covered in rocks or vegetation",
+    "ridge": "Jagged and narrow, connecting peaks",
+    "base": "Wide and stable, merging with the ground",
+    "surface": "Rocky and rough, with patches of snow or greenery"
+  },
+  "spatial_relations": [
+    "Peaks rise above slopes",
+    "Ridges connect peaks",
+    "Base spreads at ground level",
+    "Surface varies with altitude"
+  ],
+  "original_dataset_key": "cifar100",
+  "original_class_key": "mountain"
+}

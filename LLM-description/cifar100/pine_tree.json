@@ -1,0 +1,26 @@
+{
+  "class_name": "pine tree",
+  "global_description": "Tall coniferous tree with a straight trunk, covered in rough brown bark. The branches are arranged in a whorled pattern, supporting clusters of long, slender green needles. Cones are often present, hanging from the branches, and the overall shape is conical.",
+  "discriminative_attributes": [
+    "Straight trunk",
+    "Whorled branches",
+    "Long green needles",
+    "Rough brown bark",
+    "Conical shape"
+  ],
+  "part_details": {
+    "trunk": "Straight, covered in rough brown bark",
+    "branches": "Whorled pattern, extending outward",
+    "needles": "Long, slender, green",
+    "cones": "Hanging from branches, woody texture",
+    "bark": "Rough, brown"
+  },
+  "spatial_relations": [
+    "Branches extend from trunk",
+    "Needles cluster on branches",
+    "Cones hang from branches",
+    "Trunk supports entire structure"
+  ],
+  "original_dataset_key": "cifar100",
+  "original_class_key": "pine_tree"
+}

@@ -1,0 +1,159 @@
+{
+  "class_name": "024.Red_faced_Cormorant",
+  "class_idx": 23,
+  "num_images_in_class": 30,
+  "ec_size_requested": 30,
+  "ec_size_actual": 30,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\024.Red_faced_Cormorant\\Red_Faced_Cormorant_0032_796334.jpg",
+      "mean_similarity": 0.9442166686058044,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\024.Red_faced_Cormorant\\Red_Faced_Cormorant_0042_796277.jpg",
+      "mean_similarity": 0.9440932273864746,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\024.Red_faced_Cormorant\\Red_Faced_Cormorant_0048_796296.jpg",
+      "mean_similarity": 0.9440087676048279,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\024.Red_faced_Cormorant\\Red_Faced_Cormorant_0017_796323.jpg",
+      "mean_similarity": 0.9435112476348877,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\024.Red_faced_Cormorant\\Red_Faced_Cormorant_0062_796336.jpg",
+      "mean_similarity": 0.9433531761169434,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\024.Red_faced_Cormorant\\Red_Faced_Cormorant_0050_796276.jpg",
+      "mean_similarity": 0.943150520324707,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\024.Red_faced_Cormorant\\Red_Faced_Cormorant_0046_23446.jpg",
+      "mean_similarity": 0.9430885314941406,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\024.Red_faced_Cormorant\\Red_Faced_Cormorant_0073_796332.jpg",
+      "mean_similarity": 0.9429022073745728,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\024.Red_faced_Cormorant\\Red_Faced_Cormorant_0061_796300.jpg",
+      "mean_similarity": 0.9425618648529053,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\024.Red_faced_Cormorant\\Red_Faced_Cormorant_0049_796279.jpg",
+      "mean_similarity": 0.9421430826187134,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\024.Red_faced_Cormorant\\Red_Faced_Cormorant_0056_796297.jpg",
+      "mean_similarity": 0.9417665600776672,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\024.Red_faced_Cormorant\\Red_Faced_Cormorant_0002_796275.jpg",
+      "mean_similarity": 0.9416416883468628,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\024.Red_faced_Cormorant\\Red_Faced_Cormorant_0033_796337.jpg",
+      "mean_similarity": 0.9413033127784729,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\024.Red_faced_Cormorant\\Red_Faced_Cormorant_0030_796325.jpg",
+      "mean_similarity": 0.9406559467315674,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\024.Red_faced_Cormorant\\Red_Faced_Cormorant_0028_796322.jpg",
+      "mean_similarity": 0.940579891204834,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\024.Red_faced_Cormorant\\Red_Faced_Cormorant_0036_796329.jpg",
+      "mean_similarity": 0.9399129748344421,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\024.Red_faced_Cormorant\\Red_Faced_Cormorant_0007_796280.jpg",
+      "mean_similarity": 0.9398666024208069,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\024.Red_faced_Cormorant\\Red_Faced_Cormorant_0060_23416.jpg",
+      "mean_similarity": 0.9382995963096619,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\024.Red_faced_Cormorant\\Red_Faced_Cormorant_0072_796269.jpg",
+      "mean_similarity": 0.9376072883605957,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\024.Red_faced_Cormorant\\Red_Faced_Cormorant_0053_796331.jpg",
+      "mean_similarity": 0.9374939203262329,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\024.Red_faced_Cormorant\\Red_Faced_Cormorant_0034_23425.jpg",
+      "mean_similarity": 0.9374561309814453,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\024.Red_faced_Cormorant\\Red_Faced_Cormorant_0064_23464.jpg",
+      "mean_similarity": 0.9359755516052246,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\024.Red_faced_Cormorant\\Red_Faced_Cormorant_0065_796293.jpg",
+      "mean_similarity": 0.9357668161392212,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\024.Red_faced_Cormorant\\Red_Faced_Cormorant_0052_796316.jpg",
+      "mean_similarity": 0.9349697828292847,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\024.Red_faced_Cormorant\\Red_Faced_Cormorant_0040_796272.jpg",
+      "mean_similarity": 0.93404221534729,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\024.Red_faced_Cormorant\\Red_Faced_Cormorant_0035_796294.jpg",
+      "mean_similarity": 0.9333154559135437,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\024.Red_faced_Cormorant\\Red_Faced_Cormorant_0037_796305.jpg",
+      "mean_similarity": 0.9315798878669739,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\024.Red_faced_Cormorant\\Red_Faced_Cormorant_0070_796319.jpg",
+      "mean_similarity": 0.9251961708068848,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\024.Red_faced_Cormorant\\Red_Faced_Cormorant_0045_796324.jpg",
+      "mean_similarity": 0.9216985702514648,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\024.Red_faced_Cormorant\\Red_Faced_Cormorant_0009_796314.jpg",
+      "mean_similarity": 0.9156997799873352,
+      "rank": 30
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "class_name": "Tree Sparrow",
+  "global_description": "A small, compact bird with a rounded body and short tail. It features a chestnut brown crown and nape, white cheeks with a distinctive black patch, and a streaked brown back. The underparts are pale gray, and the wings are brown with white bars.",
+  "discriminative_attributes": [
+    "Chestnut brown crown",
+    "White cheeks with black patch",
+    "Streaked brown back",
+    "Pale gray underparts",
+    "Brown wings with white bars"
+  ],
+  "part_details": {
+    "head": "Chestnut brown crown and nape, white cheeks with a black patch.",
+    "back": "Streaked brown with darker lines.",
+    "wings": "Brown with distinct white bars.",
+    "underparts": "Pale gray, smooth texture.",
+    "tail": "Short, brown, slightly rounded."
+  },
+  "spatial_relations": [
+    "The chestnut crown covers the top of the head.",
+    "White cheeks are positioned below the crown.",
+    "The black patch is centered on the white cheeks.",
+    "The streaked back extends from the nape to the tail.",
+    "The wings are attached to the sides of the body."
+  ],
+  "original_dataset_key": "CUB200",
+  "original_class_key": "tree_sparrow"
+}

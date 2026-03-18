@@ -1,0 +1,159 @@
+{
+  "class_name": "062.Herring_Gull",
+  "class_idx": 61,
+  "num_images_in_class": 30,
+  "ec_size_requested": 30,
+  "ec_size_actual": 30,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\062.Herring_Gull\\Herring_Gull_0054_46164.jpg",
+      "mean_similarity": 0.9451058506965637,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\062.Herring_Gull\\Herring_Gull_0047_46218.jpg",
+      "mean_similarity": 0.9439724087715149,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\062.Herring_Gull\\Herring_Gull_0004_48046.jpg",
+      "mean_similarity": 0.9438784122467041,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\062.Herring_Gull\\Herring_Gull_0139_47006.jpg",
+      "mean_similarity": 0.9431812167167664,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\062.Herring_Gull\\Herring_Gull_0106_46930.jpg",
+      "mean_similarity": 0.9428125619888306,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\062.Herring_Gull\\Herring_Gull_0010_46425.jpg",
+      "mean_similarity": 0.9423741102218628,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\062.Herring_Gull\\Herring_Gull_0042_46637.jpg",
+      "mean_similarity": 0.9419448971748352,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\062.Herring_Gull\\Herring_Gull_0143_46461.jpg",
+      "mean_similarity": 0.9417591094970703,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\062.Herring_Gull\\Herring_Gull_0064_47832.jpg",
+      "mean_similarity": 0.9415485858917236,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\062.Herring_Gull\\Herring_Gull_0094_47172.jpg",
+      "mean_similarity": 0.9413864016532898,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\062.Herring_Gull\\Herring_Gull_0014_47814.jpg",
+      "mean_similarity": 0.9409232139587402,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\062.Herring_Gull\\Herring_Gull_0048_46061.jpg",
+      "mean_similarity": 0.9406364560127258,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\062.Herring_Gull\\Herring_Gull_0130_46675.jpg",
+      "mean_similarity": 0.940424919128418,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\062.Herring_Gull\\Herring_Gull_0084_46406.jpg",
+      "mean_similarity": 0.9402173757553101,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\062.Herring_Gull\\Herring_Gull_0026_48041.jpg",
+      "mean_similarity": 0.9390415549278259,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\062.Herring_Gull\\Herring_Gull_0051_46276.jpg",
+      "mean_similarity": 0.9385490417480469,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\062.Herring_Gull\\Herring_Gull_0039_46420.jpg",
+      "mean_similarity": 0.9381416440010071,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\062.Herring_Gull\\Herring_Gull_0116_47222.jpg",
+      "mean_similarity": 0.9380378723144531,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\062.Herring_Gull\\Herring_Gull_0052_46810.jpg",
+      "mean_similarity": 0.9376020431518555,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\062.Herring_Gull\\Herring_Gull_0105_46113.jpg",
+      "mean_similarity": 0.9371147155761719,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\062.Herring_Gull\\Herring_Gull_0034_48824.jpg",
+      "mean_similarity": 0.9369842410087585,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\062.Herring_Gull\\Herring_Gull_0095_48058.jpg",
+      "mean_similarity": 0.9356374144554138,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\062.Herring_Gull\\Herring_Gull_0114_46956.jpg",
+      "mean_similarity": 0.9355341196060181,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\062.Herring_Gull\\Herring_Gull_0024_48309.jpg",
+      "mean_similarity": 0.9339378476142883,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\062.Herring_Gull\\Herring_Gull_0141_47184.jpg",
+      "mean_similarity": 0.9305094480514526,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\062.Herring_Gull\\Herring_Gull_0075_48935.jpg",
+      "mean_similarity": 0.9256095886230469,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\062.Herring_Gull\\Herring_Gull_0140_46455.jpg",
+      "mean_similarity": 0.9213460683822632,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\062.Herring_Gull\\Herring_Gull_0129_46708.jpg",
+      "mean_similarity": 0.8974483013153076,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\062.Herring_Gull\\Herring_Gull_0100_46677.jpg",
+      "mean_similarity": 0.8971626162528992,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\062.Herring_Gull\\Herring_Gull_0065_48098.jpg",
+      "mean_similarity": 0.8935456275939941,
+      "rank": 30
+    }
+  ]
+}

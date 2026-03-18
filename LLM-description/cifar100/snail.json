@@ -1,0 +1,26 @@
+{
+  "class_name": "snail",
+  "global_description": "Small mollusk with a coiled shell, soft elongated body, usually brown or gray, slimy texture, tentacles on head, slow-moving.",
+  "discriminative_attributes": [
+    "Coiled shell",
+    "Soft elongated body",
+    "Tentacles on head",
+    "Slimy texture",
+    "Slow-moving"
+  ],
+  "part_details": {
+    "shell": "Coiled, hard, usually brown or gray",
+    "body": "Soft, elongated, slimy",
+    "tentacles": "Two pairs on head, one pair with eyes",
+    "foot": "Muscular, used for movement",
+    "mantle": "Thin layer under shell"
+  },
+  "spatial_relations": [
+    "Shell on back of body",
+    "Tentacles extend from head",
+    "Foot beneath body",
+    "Mantle under shell"
+  ],
+  "original_dataset_key": "cifar100",
+  "original_class_key": "snail"
+}

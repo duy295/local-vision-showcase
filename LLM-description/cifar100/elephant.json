@@ -1,0 +1,27 @@
+{
+  "class_name": "elephant",
+  "global_description": "Large mammal with a massive, rounded body, thick gray skin, long trunk, large floppy ears, and tusks. The legs are thick and sturdy, supporting its heavy weight. The tail is relatively short with a tuft of hair at the end.",
+  "discriminative_attributes": [
+    "Massive body",
+    "Thick gray skin",
+    "Long trunk",
+    "Large floppy ears",
+    "Tusks"
+  ],
+  "part_details": {
+    "head": "Large with a long trunk and tusks, big floppy ears",
+    "body": "Massive and rounded, covered in thick gray skin",
+    "legs": "Thick and sturdy, supporting the heavy body",
+    "trunk": "Long and flexible, extending from the head",
+    "ears": "Large and floppy, positioned on the sides of the head"
+  },
+  "spatial_relations": [
+    "Trunk extends from the front of the head",
+    "Tusks protrude from the sides of the trunk",
+    "Ears are positioned on the sides of the head",
+    "Legs are beneath the body",
+    "Tail extends from the rear"
+  ],
+  "original_dataset_key": "cifar100",
+  "original_class_key": "elephant"
+}

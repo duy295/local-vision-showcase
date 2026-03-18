@@ -1,0 +1,25 @@
+{
+  "class_name": "baboon",
+  "global_description": "Medium-sized primate with a robust body, long limbs, and a distinctive dog-like muzzle. Its fur is coarse and varies from olive to brown, with a hairless, colorful face. The tail is long and often held in an arch. Known for its expressive face and social behavior.",
+  "discriminative_attributes": [
+    "Dog-like muzzle",
+    "Colorful face",
+    "Long limbs",
+    "Coarse fur",
+    "Arched tail"
+  ],
+  "part_details": {
+    "head": "Dog-like muzzle with colorful, hairless face",
+    "body": "Robust with coarse fur, olive to brown",
+    "limbs": "Long and muscular",
+    "tail": "Long, often arched",
+    "fur": "Coarse texture, varying colors"
+  },
+  "spatial_relations": [
+    "Head at front with prominent muzzle",
+    "Limbs extend from body",
+    "Tail at rear, often arched"
+  ],
+  "original_dataset_key": "ImageNetR",
+  "original_class_key": "baboon"
+}

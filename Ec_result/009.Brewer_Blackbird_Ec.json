@@ -1,0 +1,159 @@
+{
+  "class_name": "009.Brewer_Blackbird",
+  "class_idx": 8,
+  "num_images_in_class": 30,
+  "ec_size_requested": 30,
+  "ec_size_actual": 30,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\009.Brewer_Blackbird\\Brewer_Blackbird_0087_2622.jpg",
+      "mean_similarity": 0.9492103457450867,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\009.Brewer_Blackbird\\Brewer_Blackbird_0115_2279.jpg",
+      "mean_similarity": 0.9490973949432373,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\009.Brewer_Blackbird\\Brewer_Blackbird_0142_2636.jpg",
+      "mean_similarity": 0.9489621520042419,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\009.Brewer_Blackbird\\Brewer_Blackbird_0132_2293.jpg",
+      "mean_similarity": 0.9487267732620239,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\009.Brewer_Blackbird\\Brewer_Blackbird_0002_2278.jpg",
+      "mean_similarity": 0.948161244392395,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\009.Brewer_Blackbird\\Brewer_Blackbird_0133_2324.jpg",
+      "mean_similarity": 0.9477589130401611,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\009.Brewer_Blackbird\\Brewer_Blackbird_0018_2261.jpg",
+      "mean_similarity": 0.9475648403167725,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\009.Brewer_Blackbird\\Brewer_Blackbird_0095_2610.jpg",
+      "mean_similarity": 0.9473323225975037,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\009.Brewer_Blackbird\\Brewer_Blackbird_0014_2679.jpg",
+      "mean_similarity": 0.9471148252487183,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\009.Brewer_Blackbird\\Brewer_Blackbird_0064_2290.jpg",
+      "mean_similarity": 0.9470952153205872,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\009.Brewer_Blackbird\\Brewer_Blackbird_0035_2611.jpg",
+      "mean_similarity": 0.94707852602005,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\009.Brewer_Blackbird\\Brewer_Blackbird_0097_2322.jpg",
+      "mean_similarity": 0.9470254182815552,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\009.Brewer_Blackbird\\Brewer_Blackbird_0116_2327.jpg",
+      "mean_similarity": 0.9470075368881226,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\009.Brewer_Blackbird\\Brewer_Blackbird_0030_2268.jpg",
+      "mean_similarity": 0.946302056312561,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\009.Brewer_Blackbird\\Brewer_Blackbird_0140_2586.jpg",
+      "mean_similarity": 0.9459167718887329,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\009.Brewer_Blackbird\\Brewer_Blackbird_0032_2214.jpg",
+      "mean_similarity": 0.9455999135971069,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\009.Brewer_Blackbird\\Brewer_Blackbird_0082_2593.jpg",
+      "mean_similarity": 0.9455949068069458,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\009.Brewer_Blackbird\\Brewer_Blackbird_0078_2659.jpg",
+      "mean_similarity": 0.9451054334640503,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\009.Brewer_Blackbird\\Brewer_Blackbird_0103_2273.jpg",
+      "mean_similarity": 0.9441971778869629,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\009.Brewer_Blackbird\\Brewer_Blackbird_0079_2343.jpg",
+      "mean_similarity": 0.9435384273529053,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\009.Brewer_Blackbird\\Brewer_Blackbird_0045_2303.jpg",
+      "mean_similarity": 0.9427388906478882,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\009.Brewer_Blackbird\\Brewer_Blackbird_0131_2289.jpg",
+      "mean_similarity": 0.9412046074867249,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\009.Brewer_Blackbird\\Brewer_Blackbird_0026_2625.jpg",
+      "mean_similarity": 0.9410911202430725,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\009.Brewer_Blackbird\\Brewer_Blackbird_0070_2325.jpg",
+      "mean_similarity": 0.9402126669883728,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\009.Brewer_Blackbird\\Brewer_Blackbird_0112_2340.jpg",
+      "mean_similarity": 0.9399438500404358,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\009.Brewer_Blackbird\\Brewer_Blackbird_0074_2277.jpg",
+      "mean_similarity": 0.9398983716964722,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\009.Brewer_Blackbird\\Brewer_Blackbird_0111_2613.jpg",
+      "mean_similarity": 0.9368119239807129,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\009.Brewer_Blackbird\\Brewer_Blackbird_0139_2567.jpg",
+      "mean_similarity": 0.9357082843780518,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\009.Brewer_Blackbird\\Brewer_Blackbird_0109_2232.jpg",
+      "mean_similarity": 0.9320818185806274,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\009.Brewer_Blackbird\\Brewer_Blackbird_0135_2607.jpg",
+      "mean_similarity": 0.9292405247688293,
+      "rank": 30
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "class_name": "bottle",
+  "global_description": "Cylindrical container with narrow neck, typically made of glass or plastic, smooth surface, often transparent or colored, with a cap or lid on top.",
+  "discriminative_attributes": [
+    "Cylindrical shape",
+    "Narrow neck",
+    "Glass or plastic material",
+    "Smooth surface",
+    "Cap or lid on top"
+  ],
+  "part_details": {
+    "body": "Cylindrical, smooth, often transparent or colored",
+    "neck": "Narrow, connecting body to opening",
+    "cap": "Top closure, usually screw-on or snap-on",
+    "base": "Flat, stable for standing",
+    "surface": "Smooth, sometimes with labels"
+  },
+  "spatial_relations": [
+    "Neck connects body to cap",
+    "Cap on top of neck",
+    "Base at bottom of body"
+  ],
+  "original_dataset_key": "cifar100",
+  "original_class_key": "bottle"
+}

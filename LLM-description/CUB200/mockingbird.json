@@ -1,0 +1,24 @@
+{
+  "class_name": "Mockingbird",
+  "global_description": "A medium-sized songbird with a slender, streamlined body and long tail. It has a predominantly gray plumage with lighter underparts and distinctive white wing patches. The bird's beak is slightly curved and black, while its legs are thin and dark.",
+  "discriminative_attributes": [
+    "Gray plumage with white wing patches",
+    "Long, slender tail",
+    "Curved black beak",
+    "Light gray underparts",
+    "Thin dark legs"
+  ],
+  "part_details": {
+    "plumage": "Smooth gray feathers with white patches on wings and tail.",
+    "beak": "Slightly curved, black, medium length.",
+    "tail": "Long, slender, with white edges.",
+    "legs": "Thin, dark, adapted for perching."
+  },
+  "spatial_relations": [
+    "The long tail extends from the rear of the body.",
+    "White wing patches are visible when wings are spread.",
+    "The curved beak protrudes from the front of the head."
+  ],
+  "original_dataset_key": "CUB200",
+  "original_class_key": "mockingbird"
+}

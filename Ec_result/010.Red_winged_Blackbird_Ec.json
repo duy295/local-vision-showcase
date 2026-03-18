@@ -1,0 +1,159 @@
+{
+  "class_name": "010.Red_winged_Blackbird",
+  "class_idx": 9,
+  "num_images_in_class": 30,
+  "ec_size_requested": 30,
+  "ec_size_actual": 30,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\010.Red_winged_Blackbird\\Red_Winged_Blackbird_0040_4522.jpg",
+      "mean_similarity": 0.9460577368736267,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\010.Red_winged_Blackbird\\Red_Winged_Blackbird_0096_5019.jpg",
+      "mean_similarity": 0.9450386762619019,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\010.Red_winged_Blackbird\\Red_Winged_Blackbird_0021_3767.jpg",
+      "mean_similarity": 0.944977343082428,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\010.Red_winged_Blackbird\\Red_Winged_Blackbird_0052_5575.jpg",
+      "mean_similarity": 0.9449012279510498,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\010.Red_winged_Blackbird\\Red_Winged_Blackbird_0105_4842.jpg",
+      "mean_similarity": 0.9442732930183411,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\010.Red_winged_Blackbird\\Red_Winged_Blackbird_0023_5257.jpg",
+      "mean_similarity": 0.9441571831703186,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\010.Red_winged_Blackbird\\Red_Winged_Blackbird_0014_3761.jpg",
+      "mean_similarity": 0.9437304735183716,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\010.Red_winged_Blackbird\\Red_Winged_Blackbird_0079_4527.jpg",
+      "mean_similarity": 0.9437258839607239,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\010.Red_winged_Blackbird\\Red_Winged_Blackbird_0032_4004.jpg",
+      "mean_similarity": 0.9436578750610352,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\010.Red_winged_Blackbird\\Red_Winged_Blackbird_0081_6081.jpg",
+      "mean_similarity": 0.9433615803718567,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\010.Red_winged_Blackbird\\Red_Winged_Blackbird_0012_6015.jpg",
+      "mean_similarity": 0.9431236386299133,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\010.Red_winged_Blackbird\\Red_Winged_Blackbird_0028_4709.jpg",
+      "mean_similarity": 0.9423874020576477,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\010.Red_winged_Blackbird\\Red_Winged_Blackbird_0005_5636.jpg",
+      "mean_similarity": 0.9415925145149231,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\010.Red_winged_Blackbird\\Red_Winged_Blackbird_0044_5621.jpg",
+      "mean_similarity": 0.9412596821784973,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\010.Red_winged_Blackbird\\Red_Winged_Blackbird_0061_4196.jpg",
+      "mean_similarity": 0.9407115578651428,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\010.Red_winged_Blackbird\\Red_Winged_Blackbird_0059_4612.jpg",
+      "mean_similarity": 0.9402924180030823,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\010.Red_winged_Blackbird\\Red_Winged_Blackbird_0091_4096.jpg",
+      "mean_similarity": 0.9400557279586792,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\010.Red_winged_Blackbird\\Red_Winged_Blackbird_0025_5342.jpg",
+      "mean_similarity": 0.9398019313812256,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\010.Red_winged_Blackbird\\Red_Winged_Blackbird_0049_5598.jpg",
+      "mean_similarity": 0.9397254586219788,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\010.Red_winged_Blackbird\\Red_Winged_Blackbird_0001_3695.jpg",
+      "mean_similarity": 0.9391032457351685,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\010.Red_winged_Blackbird\\Red_Winged_Blackbird_0046_4242.jpg",
+      "mean_similarity": 0.9389533996582031,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\010.Red_winged_Blackbird\\Red_Winged_Blackbird_0060_4688.jpg",
+      "mean_similarity": 0.9385108351707458,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\010.Red_winged_Blackbird\\Red_Winged_Blackbird_0093_5948.jpg",
+      "mean_similarity": 0.9379650354385376,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\010.Red_winged_Blackbird\\Red_Winged_Blackbird_0101_6244.jpg",
+      "mean_similarity": 0.9368657469749451,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\010.Red_winged_Blackbird\\Red_Winged_Blackbird_0054_4625.jpg",
+      "mean_similarity": 0.9363911747932434,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\010.Red_winged_Blackbird\\Red_Winged_Blackbird_0055_4345.jpg",
+      "mean_similarity": 0.9361293315887451,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\010.Red_winged_Blackbird\\Red_Winged_Blackbird_0085_5846.jpg",
+      "mean_similarity": 0.9343833923339844,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\010.Red_winged_Blackbird\\Red_Winged_Blackbird_0020_4050.jpg",
+      "mean_similarity": 0.9308746457099915,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\010.Red_winged_Blackbird\\Red_Winged_Blackbird_0066_5070.jpg",
+      "mean_similarity": 0.9297367334365845,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\010.Red_winged_Blackbird\\Red_Winged_Blackbird_0075_4953.jpg",
+      "mean_similarity": 0.924776017665863,
+      "rank": 30
+    }
+  ]
+}

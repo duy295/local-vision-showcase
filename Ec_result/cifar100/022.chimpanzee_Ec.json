@@ -1,0 +1,1259 @@
+{
+  "class_name": "chimpanzee",
+  "class_idx": 21,
+  "num_images_in_class": 500,
+  "ec_size_requested": 250,
+  "ec_size_actual": 250,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimp_s_002698.png",
+      "mean_similarity": 0.9464921355247498,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimp_s_001927.png",
+      "mean_similarity": 0.9464622735977173,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimpanzee_s_002094.png",
+      "mean_similarity": 0.9463743567466736,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimpanzee_s_001528.png",
+      "mean_similarity": 0.9463673233985901,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimpanzee_s_000968.png",
+      "mean_similarity": 0.9462554454803467,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimp_s_000482.png",
+      "mean_similarity": 0.9462490677833557,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimpanzee_s_001927.png",
+      "mean_similarity": 0.9462474584579468,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\pan_troglodytes_s_000071.png",
+      "mean_similarity": 0.9462102055549622,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimpanzee_s_000002.png",
+      "mean_similarity": 0.9461765885353088,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimpanzee_s_000672.png",
+      "mean_similarity": 0.946150004863739,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimp_s_001907.png",
+      "mean_similarity": 0.9459678530693054,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimpanzee_s_001319.png",
+      "mean_similarity": 0.9459501504898071,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimpanzee_s_000206.png",
+      "mean_similarity": 0.9458397030830383,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimpanzee_s_002179.png",
+      "mean_similarity": 0.9458326697349548,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimp_s_000133.png",
+      "mean_similarity": 0.9458005428314209,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimpanzee_s_000637.png",
+      "mean_similarity": 0.945788562297821,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimp_s_000395.png",
+      "mean_similarity": 0.9457752704620361,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimpanzee_s_000142.png",
+      "mean_similarity": 0.9457520246505737,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimp_s_002085.png",
+      "mean_similarity": 0.9457295536994934,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimpanzee_s_000181.png",
+      "mean_similarity": 0.9457253813743591,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimpanzee_s_000961.png",
+      "mean_similarity": 0.9456472992897034,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimpanzee_s_000070.png",
+      "mean_similarity": 0.9455740451812744,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimpanzee_s_001538.png",
+      "mean_similarity": 0.9455533027648926,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimp_s_001792.png",
+      "mean_similarity": 0.9455143213272095,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimpanzee_s_000313.png",
+      "mean_similarity": 0.9454936385154724,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimpanzee_s_002091.png",
+      "mean_similarity": 0.9454881548881531,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimpanzee_s_000743.png",
+      "mean_similarity": 0.9454267621040344,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimpanzee_s_001364.png",
+      "mean_similarity": 0.9454095363616943,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimpanzee_s_000663.png",
+      "mean_similarity": 0.9453895688056946,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimp_s_001538.png",
+      "mean_similarity": 0.945348858833313,
+      "rank": 30
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimpanzee_s_000072.png",
+      "mean_similarity": 0.945348858833313,
+      "rank": 31
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimpanzee_s_000420.png",
+      "mean_similarity": 0.9453338980674744,
+      "rank": 32
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimp_s_001963.png",
+      "mean_similarity": 0.9453281760215759,
+      "rank": 33
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimpanzee_s_002219.png",
+      "mean_similarity": 0.9453228116035461,
+      "rank": 34
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimp_s_000843.png",
+      "mean_similarity": 0.9453088641166687,
+      "rank": 35
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimpanzee_s_000987.png",
+      "mean_similarity": 0.9452896118164062,
+      "rank": 36
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimp_s_000333.png",
+      "mean_similarity": 0.9451969861984253,
+      "rank": 37
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimpanzee_s_002036.png",
+      "mean_similarity": 0.9451737999916077,
+      "rank": 38
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimpanzee_s_000545.png",
+      "mean_similarity": 0.9451707601547241,
+      "rank": 39
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimpanzee_s_001911.png",
+      "mean_similarity": 0.9451663494110107,
+      "rank": 40
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimpanzee_s_001197.png",
+      "mean_similarity": 0.9451478719711304,
+      "rank": 41
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimpanzee_s_001457.png",
+      "mean_similarity": 0.9451440572738647,
+      "rank": 42
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimpanzee_s_001020.png",
+      "mean_similarity": 0.9451436400413513,
+      "rank": 43
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimpanzee_s_002140.png",
+      "mean_similarity": 0.9451219439506531,
+      "rank": 44
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimpanzee_s_002080.png",
+      "mean_similarity": 0.9451115727424622,
+      "rank": 45
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\pan_troglodytes_s_000003.png",
+      "mean_similarity": 0.9451051354408264,
+      "rank": 46
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimp_s_000339.png",
+      "mean_similarity": 0.9451005458831787,
+      "rank": 47
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimpanzee_s_001491.png",
+      "mean_similarity": 0.945099413394928,
+      "rank": 48
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimp_s_000306.png",
+      "mean_similarity": 0.9450926184654236,
+      "rank": 49
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimpanzee_s_000233.png",
+      "mean_similarity": 0.9450886845588684,
+      "rank": 50
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimpanzee_s_001414.png",
+      "mean_similarity": 0.9450799226760864,
+      "rank": 51
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimp_s_002244.png",
+      "mean_similarity": 0.9450678825378418,
+      "rank": 52
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimpanzee_s_000520.png",
+      "mean_similarity": 0.9450634121894836,
+      "rank": 53
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimpanzee_s_000148.png",
+      "mean_similarity": 0.9450332522392273,
+      "rank": 54
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimpanzee_s_000182.png",
+      "mean_similarity": 0.9450275301933289,
+      "rank": 55
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimpanzee_s_001214.png",
+      "mean_similarity": 0.9449983835220337,
+      "rank": 56
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimpanzee_s_000038.png",
+      "mean_similarity": 0.9449214935302734,
+      "rank": 57
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimp_s_001908.png",
+      "mean_similarity": 0.9449103474617004,
+      "rank": 58
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimp_s_002322.png",
+      "mean_similarity": 0.9448708891868591,
+      "rank": 59
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimpanzee_s_000490.png",
+      "mean_similarity": 0.9448257088661194,
+      "rank": 60
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimpanzee_s_001309.png",
+      "mean_similarity": 0.9448115229606628,
+      "rank": 61
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimpanzee_s_001455.png",
+      "mean_similarity": 0.9448110461235046,
+      "rank": 62
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimp_s_000137.png",
+      "mean_similarity": 0.9448049068450928,
+      "rank": 63
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimpanzee_s_000285.png",
+      "mean_similarity": 0.9447843432426453,
+      "rank": 64
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimpanzee_s_000878.png",
+      "mean_similarity": 0.9447777271270752,
+      "rank": 65
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimpanzee_s_000448.png",
+      "mean_similarity": 0.9447656273841858,
+      "rank": 66
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimpanzee_s_001174.png",
+      "mean_similarity": 0.9447211623191833,
+      "rank": 67
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimpanzee_s_000188.png",
+      "mean_similarity": 0.9447140097618103,
+      "rank": 68
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimpanzee_s_000391.png",
+      "mean_similarity": 0.9446976184844971,
+      "rank": 69
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimp_s_000332.png",
+      "mean_similarity": 0.9446918964385986,
+      "rank": 70
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimpanzee_s_000319.png",
+      "mean_similarity": 0.9446578025817871,
+      "rank": 71
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimp_s_000291.png",
+      "mean_similarity": 0.944607138633728,
+      "rank": 72
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimp_s_000165.png",
+      "mean_similarity": 0.9445915818214417,
+      "rank": 73
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimp_s_002450.png",
+      "mean_similarity": 0.9445626139640808,
+      "rank": 74
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimpanzee_s_000342.png",
+      "mean_similarity": 0.9445552229881287,
+      "rank": 75
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimpanzee_s_001965.png",
+      "mean_similarity": 0.9445368051528931,
+      "rank": 76
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimpanzee_s_000900.png",
+      "mean_similarity": 0.9444935917854309,
+      "rank": 77
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimpanzee_s_000081.png",
+      "mean_similarity": 0.9444853067398071,
+      "rank": 78
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimp_s_001680.png",
+      "mean_similarity": 0.9444644451141357,
+      "rank": 79
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimpanzee_s_002171.png",
+      "mean_similarity": 0.9444605112075806,
+      "rank": 80
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimpanzee_s_000508.png",
+      "mean_similarity": 0.9444484710693359,
+      "rank": 81
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimpanzee_s_000109.png",
+      "mean_similarity": 0.9444304704666138,
+      "rank": 82
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimp_s_002051.png",
+      "mean_similarity": 0.9443954825401306,
+      "rank": 83
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimp_s_000553.png",
+      "mean_similarity": 0.9443356990814209,
+      "rank": 84
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimpanzee_s_000032.png",
+      "mean_similarity": 0.9443260431289673,
+      "rank": 85
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimp_s_002631.png",
+      "mean_similarity": 0.94432532787323,
+      "rank": 86
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimp_s_002190.png",
+      "mean_similarity": 0.9442972540855408,
+      "rank": 87
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimpanzee_s_000602.png",
+      "mean_similarity": 0.944273829460144,
+      "rank": 88
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimpanzee_s_001583.png",
+      "mean_similarity": 0.9442654252052307,
+      "rank": 89
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimpanzee_s_000122.png",
+      "mean_similarity": 0.9442422389984131,
+      "rank": 90
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimp_s_001971.png",
+      "mean_similarity": 0.9442295432090759,
+      "rank": 91
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimpanzee_s_000221.png",
+      "mean_similarity": 0.9442219734191895,
+      "rank": 92
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimpanzee_s_000469.png",
+      "mean_similarity": 0.944202721118927,
+      "rank": 93
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimpanzee_s_000417.png",
+      "mean_similarity": 0.9441260099411011,
+      "rank": 94
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimpanzee_s_000131.png",
+      "mean_similarity": 0.9441197514533997,
+      "rank": 95
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\pan_troglodytes_s_000198.png",
+      "mean_similarity": 0.944110631942749,
+      "rank": 96
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimpanzee_s_000421.png",
+      "mean_similarity": 0.9440871477127075,
+      "rank": 97
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimp_s_000399.png",
+      "mean_similarity": 0.9440454244613647,
+      "rank": 98
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimpanzee_s_001281.png",
+      "mean_similarity": 0.9440327286720276,
+      "rank": 99
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimpanzee_s_000039.png",
+      "mean_similarity": 0.944024384021759,
+      "rank": 100
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimp_s_001605.png",
+      "mean_similarity": 0.9440098404884338,
+      "rank": 101
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimp_s_002300.png",
+      "mean_similarity": 0.9439977407455444,
+      "rank": 102
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimpanzee_s_000213.png",
+      "mean_similarity": 0.9439316391944885,
+      "rank": 103
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimp_s_000959.png",
+      "mean_similarity": 0.9439131617546082,
+      "rank": 104
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimpanzee_s_001070.png",
+      "mean_similarity": 0.9438795447349548,
+      "rank": 105
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimpanzee_s_000838.png",
+      "mean_similarity": 0.9438736438751221,
+      "rank": 106
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimpanzee_s_000075.png",
+      "mean_similarity": 0.9438520669937134,
+      "rank": 107
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimpanzee_s_000683.png",
+      "mean_similarity": 0.9438289403915405,
+      "rank": 108
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimpanzee_s_000493.png",
+      "mean_similarity": 0.94381183385849,
+      "rank": 109
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimpanzee_s_000841.png",
+      "mean_similarity": 0.9438092112541199,
+      "rank": 110
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimpanzee_s_000797.png",
+      "mean_similarity": 0.9437795281410217,
+      "rank": 111
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\pan_troglodytes_s_000085.png",
+      "mean_similarity": 0.9437705874443054,
+      "rank": 112
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimpanzee_s_001748.png",
+      "mean_similarity": 0.9437578916549683,
+      "rank": 113
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimpanzee_s_000972.png",
+      "mean_similarity": 0.9436983466148376,
+      "rank": 114
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimpanzee_s_000664.png",
+      "mean_similarity": 0.9436946511268616,
+      "rank": 115
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimp_s_000645.png",
+      "mean_similarity": 0.9436720013618469,
+      "rank": 116
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimp_s_001915.png",
+      "mean_similarity": 0.943651556968689,
+      "rank": 117
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimpanzee_s_000291.png",
+      "mean_similarity": 0.943612813949585,
+      "rank": 118
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimp_s_002011.png",
+      "mean_similarity": 0.9435909986495972,
+      "rank": 119
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimpanzee_s_000387.png",
+      "mean_similarity": 0.9435849189758301,
+      "rank": 120
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimpanzee_s_000953.png",
+      "mean_similarity": 0.9435638189315796,
+      "rank": 121
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimpanzee_s_002055.png",
+      "mean_similarity": 0.9435534477233887,
+      "rank": 122
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimpanzee_s_001176.png",
+      "mean_similarity": 0.9435433149337769,
+      "rank": 123
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimpanzee_s_000586.png",
+      "mean_similarity": 0.9434815645217896,
+      "rank": 124
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimpanzee_s_001052.png",
+      "mean_similarity": 0.9434709548950195,
+      "rank": 125
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimp_s_002027.png",
+      "mean_similarity": 0.9434688687324524,
+      "rank": 126
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimpanzee_s_001578.png",
+      "mean_similarity": 0.9434304237365723,
+      "rank": 127
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimpanzee_s_002186.png",
+      "mean_similarity": 0.9434099197387695,
+      "rank": 128
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\pan_troglodytes_s_000068.png",
+      "mean_similarity": 0.9433814883232117,
+      "rank": 129
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimp_s_000018.png",
+      "mean_similarity": 0.9433699250221252,
+      "rank": 130
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimp_s_002084.png",
+      "mean_similarity": 0.9433383345603943,
+      "rank": 131
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimp_s_000746.png",
+      "mean_similarity": 0.9433275461196899,
+      "rank": 132
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimp_s_000002.png",
+      "mean_similarity": 0.9433075189590454,
+      "rank": 133
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimpanzee_s_000097.png",
+      "mean_similarity": 0.9432703256607056,
+      "rank": 134
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimp_s_000587.png",
+      "mean_similarity": 0.9432693719863892,
+      "rank": 135
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimpanzee_s_001785.png",
+      "mean_similarity": 0.9432670474052429,
+      "rank": 136
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimpanzee_s_001095.png",
+      "mean_similarity": 0.943260908126831,
+      "rank": 137
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimp_s_002317.png",
+      "mean_similarity": 0.9432336688041687,
+      "rank": 138
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimp_s_000151.png",
+      "mean_similarity": 0.9432273507118225,
+      "rank": 139
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimpanzee_s_000691.png",
+      "mean_similarity": 0.9432198405265808,
+      "rank": 140
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimp_s_001207.png",
+      "mean_similarity": 0.9432194232940674,
+      "rank": 141
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimp_s_000507.png",
+      "mean_similarity": 0.9431739449501038,
+      "rank": 142
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimp_s_000690.png",
+      "mean_similarity": 0.94316565990448,
+      "rank": 143
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimpanzee_s_001073.png",
+      "mean_similarity": 0.9431307315826416,
+      "rank": 144
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimpanzee_s_000020.png",
+      "mean_similarity": 0.9431226849555969,
+      "rank": 145
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimp_s_002417.png",
+      "mean_similarity": 0.9431217908859253,
+      "rank": 146
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimp_s_002705.png",
+      "mean_similarity": 0.9430943131446838,
+      "rank": 147
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimpanzee_s_000105.png",
+      "mean_similarity": 0.943061113357544,
+      "rank": 148
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimpanzee_s_001610.png",
+      "mean_similarity": 0.9430307149887085,
+      "rank": 149
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimp_s_000639.png",
+      "mean_similarity": 0.9430270791053772,
+      "rank": 150
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimpanzee_s_000403.png",
+      "mean_similarity": 0.9430236220359802,
+      "rank": 151
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimpanzee_s_000158.png",
+      "mean_similarity": 0.9430197477340698,
+      "rank": 152
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimp_s_002119.png",
+      "mean_similarity": 0.9429998993873596,
+      "rank": 153
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimp_s_001643.png",
+      "mean_similarity": 0.9429890513420105,
+      "rank": 154
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimp_s_000175.png",
+      "mean_similarity": 0.9429854154586792,
+      "rank": 155
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimpanzee_s_001494.png",
+      "mean_similarity": 0.9429740905761719,
+      "rank": 156
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimpanzee_s_001487.png",
+      "mean_similarity": 0.9429495334625244,
+      "rank": 157
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimpanzee_s_000933.png",
+      "mean_similarity": 0.9429315328598022,
+      "rank": 158
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimpanzee_s_000336.png",
+      "mean_similarity": 0.9428983926773071,
+      "rank": 159
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimpanzee_s_001647.png",
+      "mean_similarity": 0.9428879618644714,
+      "rank": 160
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimp_s_002559.png",
+      "mean_similarity": 0.9428772926330566,
+      "rank": 161
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimpanzee_s_001932.png",
+      "mean_similarity": 0.942805826663971,
+      "rank": 162
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimpanzee_s_000788.png",
+      "mean_similarity": 0.9427991509437561,
+      "rank": 163
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimpanzee_s_001609.png",
+      "mean_similarity": 0.9427876472473145,
+      "rank": 164
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimp_s_001599.png",
+      "mean_similarity": 0.9427523612976074,
+      "rank": 165
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimp_s_001959.png",
+      "mean_similarity": 0.9427309036254883,
+      "rank": 166
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimpanzee_s_000219.png",
+      "mean_similarity": 0.9427234530448914,
+      "rank": 167
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimp_s_001536.png",
+      "mean_similarity": 0.942716121673584,
+      "rank": 168
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimpanzee_s_000121.png",
+      "mean_similarity": 0.9427022933959961,
+      "rank": 169
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimpanzee_s_001605.png",
+      "mean_similarity": 0.942700982093811,
+      "rank": 170
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimp_s_002760.png",
+      "mean_similarity": 0.9426935315132141,
+      "rank": 171
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimpanzee_s_000256.png",
+      "mean_similarity": 0.9426087141036987,
+      "rank": 172
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimpanzee_s_000026.png",
+      "mean_similarity": 0.9426071643829346,
+      "rank": 173
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimpanzee_s_001059.png",
+      "mean_similarity": 0.9425691366195679,
+      "rank": 174
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimpanzee_s_001822.png",
+      "mean_similarity": 0.9425584077835083,
+      "rank": 175
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimpanzee_s_000498.png",
+      "mean_similarity": 0.9425334334373474,
+      "rank": 176
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimp_s_000508.png",
+      "mean_similarity": 0.9425138831138611,
+      "rank": 177
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimp_s_001023.png",
+      "mean_similarity": 0.9424841403961182,
+      "rank": 178
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimpanzee_s_002050.png",
+      "mean_similarity": 0.9424657821655273,
+      "rank": 179
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimpanzee_s_001707.png",
+      "mean_similarity": 0.942425012588501,
+      "rank": 180
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimp_s_000096.png",
+      "mean_similarity": 0.942422091960907,
+      "rank": 181
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimpanzee_s_000964.png",
+      "mean_similarity": 0.9424214959144592,
+      "rank": 182
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimpanzee_s_000523.png",
+      "mean_similarity": 0.9424204230308533,
+      "rank": 183
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimpanzee_s_001600.png",
+      "mean_similarity": 0.9423727989196777,
+      "rank": 184
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimpanzee_s_001486.png",
+      "mean_similarity": 0.9423719644546509,
+      "rank": 185
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimpanzee_s_001537.png",
+      "mean_similarity": 0.9423067569732666,
+      "rank": 186
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimp_s_000305.png",
+      "mean_similarity": 0.9422448873519897,
+      "rank": 187
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimp_s_000382.png",
+      "mean_similarity": 0.9422330856323242,
+      "rank": 188
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimpanzee_s_000732.png",
+      "mean_similarity": 0.942219614982605,
+      "rank": 189
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimp_s_000260.png",
+      "mean_similarity": 0.9422042965888977,
+      "rank": 190
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimpanzee_s_001897.png",
+      "mean_similarity": 0.9421994090080261,
+      "rank": 191
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimpanzee_s_002109.png",
+      "mean_similarity": 0.9421720504760742,
+      "rank": 192
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimpanzee_s_001212.png",
+      "mean_similarity": 0.9421629309654236,
+      "rank": 193
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimpanzee_s_001694.png",
+      "mean_similarity": 0.9421456456184387,
+      "rank": 194
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimp_s_001845.png",
+      "mean_similarity": 0.9421035647392273,
+      "rank": 195
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimpanzee_s_001395.png",
+      "mean_similarity": 0.942102313041687,
+      "rank": 196
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimp_s_001676.png",
+      "mean_similarity": 0.9420800805091858,
+      "rank": 197
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimp_s_000545.png",
+      "mean_similarity": 0.942072868347168,
+      "rank": 198
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimpanzee_s_001207.png",
+      "mean_similarity": 0.9420611262321472,
+      "rank": 199
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimp_s_000046.png",
+      "mean_similarity": 0.9420440196990967,
+      "rank": 200
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimpanzee_s_001971.png",
+      "mean_similarity": 0.9420398473739624,
+      "rank": 201
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\pan_troglodytes_s_000090.png",
+      "mean_similarity": 0.9420114755630493,
+      "rank": 202
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimp_s_002231.png",
+      "mean_similarity": 0.9419841170310974,
+      "rank": 203
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimpanzee_s_000802.png",
+      "mean_similarity": 0.941966712474823,
+      "rank": 204
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimpanzee_s_002138.png",
+      "mean_similarity": 0.9419237375259399,
+      "rank": 205
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimp_s_000556.png",
+      "mean_similarity": 0.9419111013412476,
+      "rank": 206
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimp_s_002370.png",
+      "mean_similarity": 0.9418688416481018,
+      "rank": 207
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimp_s_000616.png",
+      "mean_similarity": 0.9418323040008545,
+      "rank": 208
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimp_s_002369.png",
+      "mean_similarity": 0.9418126940727234,
+      "rank": 209
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimp_s_000145.png",
+      "mean_similarity": 0.9418002367019653,
+      "rank": 210
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimpanzee_s_000037.png",
+      "mean_similarity": 0.9417475461959839,
+      "rank": 211
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimpanzee_s_001912.png",
+      "mean_similarity": 0.9417303800582886,
+      "rank": 212
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimp_s_002245.png",
+      "mean_similarity": 0.9417189955711365,
+      "rank": 213
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimpanzee_s_002043.png",
+      "mean_similarity": 0.9417005777359009,
+      "rank": 214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimpanzee_s_002257.png",
+      "mean_similarity": 0.9416750073432922,
+      "rank": 215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimp_s_000020.png",
+      "mean_similarity": 0.9416542053222656,
+      "rank": 216
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimp_s_001899.png",
+      "mean_similarity": 0.9416528344154358,
+      "rank": 217
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimpanzee_s_001255.png",
+      "mean_similarity": 0.9416459798812866,
+      "rank": 218
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimpanzee_s_000731.png",
+      "mean_similarity": 0.941635251045227,
+      "rank": 219
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimpanzee_s_000249.png",
+      "mean_similarity": 0.9416221976280212,
+      "rank": 220
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimpanzee_s_000011.png",
+      "mean_similarity": 0.941550076007843,
+      "rank": 221
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimp_s_001190.png",
+      "mean_similarity": 0.9415414333343506,
+      "rank": 222
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimp_s_001914.png",
+      "mean_similarity": 0.9415371417999268,
+      "rank": 223
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimpanzee_s_000149.png",
+      "mean_similarity": 0.9415051937103271,
+      "rank": 224
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimpanzee_s_001762.png",
+      "mean_similarity": 0.9414918422698975,
+      "rank": 225
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimp_s_000541.png",
+      "mean_similarity": 0.9414756298065186,
+      "rank": 226
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimp_s_000124.png",
+      "mean_similarity": 0.9414752721786499,
+      "rank": 227
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimpanzee_s_000167.png",
+      "mean_similarity": 0.9414688348770142,
+      "rank": 228
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\pan_troglodytes_s_000101.png",
+      "mean_similarity": 0.9414536952972412,
+      "rank": 229
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimp_s_002155.png",
+      "mean_similarity": 0.9414531588554382,
+      "rank": 230
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimpanzee_s_000170.png",
+      "mean_similarity": 0.9414216876029968,
+      "rank": 231
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimpanzee_s_000503.png",
+      "mean_similarity": 0.9414121508598328,
+      "rank": 232
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimpanzee_s_001178.png",
+      "mean_similarity": 0.941387951374054,
+      "rank": 233
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimp_s_001419.png",
+      "mean_similarity": 0.9413480162620544,
+      "rank": 234
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimpanzee_s_001790.png",
+      "mean_similarity": 0.9413110613822937,
+      "rank": 235
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimpanzee_s_000267.png",
+      "mean_similarity": 0.9413058757781982,
+      "rank": 236
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimp_s_002101.png",
+      "mean_similarity": 0.9413007497787476,
+      "rank": 237
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimp_s_000139.png",
+      "mean_similarity": 0.9412937760353088,
+      "rank": 238
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimpanzee_s_000643.png",
+      "mean_similarity": 0.9412933588027954,
+      "rank": 239
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\pan_troglodytes_s_000158.png",
+      "mean_similarity": 0.9412644505500793,
+      "rank": 240
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimpanzee_s_001187.png",
+      "mean_similarity": 0.941229522228241,
+      "rank": 241
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimpanzee_s_002182.png",
+      "mean_similarity": 0.9412198662757874,
+      "rank": 242
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimp_s_001528.png",
+      "mean_similarity": 0.9412084221839905,
+      "rank": 243
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimpanzee_s_000176.png",
+      "mean_similarity": 0.9411886930465698,
+      "rank": 244
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimpanzee_s_000662.png",
+      "mean_similarity": 0.9411574006080627,
+      "rank": 245
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimpanzee_s_000798.png",
+      "mean_similarity": 0.9410935640335083,
+      "rank": 246
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimpanzee_s_000536.png",
+      "mean_similarity": 0.9410859942436218,
+      "rank": 247
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimp_s_000008.png",
+      "mean_similarity": 0.9410774111747742,
+      "rank": 248
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimpanzee_s_002217.png",
+      "mean_similarity": 0.9410648941993713,
+      "rank": 249
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\022.chimpanzee\\chimp_s_000121.png",
+      "mean_similarity": 0.9409990310668945,
+      "rank": 250
+    }
+  ]
+}

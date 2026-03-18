@@ -1,0 +1,25 @@
+{
+  "class_name": "Tropical Kingbird",
+  "global_description": "A medium-sized bird with a slender, streamlined body and a long tail. It features a bright yellow underbelly and a contrasting gray head and back. The wings are broad and dark with lighter edges, and the beak is short and pointed.",
+  "discriminative_attributes": [
+    "Bright yellow underbelly",
+    "Gray head and back",
+    "Broad dark wings with light edges",
+    "Long tail with dark feathers",
+    "Short pointed beak"
+  ],
+  "part_details": {
+    "head": "Smooth, rounded, gray with a slight crest.",
+    "underbelly": "Bright yellow, smooth, and vibrant.",
+    "wings": "Broad, dark with lighter feather edges.",
+    "tail": "Long, dark, slightly forked at the tip.",
+    "beak": "Short, pointed, dark gray."
+  },
+  "spatial_relations": [
+    "The gray head transitions smoothly into the yellow underbelly.",
+    "The broad wings extend from the sides of the body.",
+    "The long tail extends straight from the rear."
+  ],
+  "original_dataset_key": "CUB200",
+  "original_class_key": "tropical_kingbird"
+}

@@ -1,0 +1,26 @@
+{
+  "class_name": "willow tree",
+  "global_description": "A large deciduous tree with a distinctive weeping form, featuring long, slender branches that droop towards the ground. The leaves are narrow, lance-shaped, and typically light green. The bark is rough and grayish-brown, adding texture to the tree's overall appearance.",
+  "discriminative_attributes": [
+    "Weeping form",
+    "Long, slender branches",
+    "Narrow, lance-shaped leaves",
+    "Rough, grayish-brown bark",
+    "Drooping branches"
+  ],
+  "part_details": {
+    "branches": "Long, slender, and drooping, creating a weeping appearance.",
+    "leaves": "Narrow, lance-shaped, and light green, densely covering the branches.",
+    "bark": "Rough texture, grayish-brown color, covering the trunk and branches.",
+    "trunk": "Thick and sturdy, supporting the extensive canopy.",
+    "canopy": "Wide and spreading, formed by the drooping branches."
+  },
+  "spatial_relations": [
+    "Branches extend downward from the trunk",
+    "Leaves densely cover the branches",
+    "Bark covers the trunk and branches",
+    "Canopy spreads wide from the trunk"
+  ],
+  "original_dataset_key": "cifar100",
+  "original_class_key": "willow_tree"
+}

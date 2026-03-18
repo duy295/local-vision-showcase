@@ -1,0 +1,23 @@
+{
+  "class_name": "bowl",
+  "global_description": "A round, open-top container with a smooth, curved interior and exterior. Typically made of ceramic, glass, or metal, it can be found in various colors, often with a glossy or matte finish. The rim is slightly flared, and the base is flat for stability.",
+  "discriminative_attributes": [
+    "Round, open-top shape",
+    "Smooth, curved interior",
+    "Ceramic, glass, or metal material",
+    "Glossy or matte finish",
+    "Flat base for stability"
+  ],
+  "part_details": {
+    "rim": "Slightly flared, smooth edge",
+    "interior": "Curved, smooth surface",
+    "exterior": "Curved, smooth surface",
+    "base": "Flat, stable surface"
+  },
+  "spatial_relations": [
+    "Rim at top of bowl",
+    "Base at bottom of bowl"
+  ],
+  "original_dataset_key": "cifar100",
+  "original_class_key": "bowl"
+}

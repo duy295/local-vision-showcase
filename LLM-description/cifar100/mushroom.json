@@ -1,0 +1,25 @@
+{
+  "class_name": "mushroom",
+  "global_description": "A small to medium-sized fungus with a distinct umbrella-like cap and a slender stalk. The cap is often smooth or slightly textured, varying in color from white to brown or red. The underside of the cap features gills or pores, and the stalk is typically cylindrical and pale.",
+  "discriminative_attributes": [
+    "Umbrella-like cap",
+    "Gills or pores under cap",
+    "Cylindrical stalk",
+    "Varied cap colors",
+    "Smooth or textured cap"
+  ],
+  "part_details": {
+    "cap": "Umbrella-shaped, smooth or textured, colors range from white to brown or red",
+    "gills": "Located under the cap, thin and closely spaced",
+    "stalk": "Cylindrical, pale, supporting the cap",
+    "pores": "Alternative to gills, small openings under cap",
+    "texture": "Smooth or slightly textured cap surface"
+  },
+  "spatial_relations": [
+    "Cap positioned on top of stalk",
+    "Gills or pores beneath cap",
+    "Stalk extends from ground to cap"
+  ],
+  "original_dataset_key": "cifar100",
+  "original_class_key": "mushroom"
+}

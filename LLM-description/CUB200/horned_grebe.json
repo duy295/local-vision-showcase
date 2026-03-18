@@ -1,0 +1,24 @@
+{
+  "class_name": "Horned Grebe",
+  "global_description": "A small, compact waterbird with a rounded body and a distinctive head shape. It features striking red eyes and a contrasting black and white plumage. The head is adorned with golden tufts resembling horns, and the body is covered in smooth, water-repellent feathers.",
+  "discriminative_attributes": [
+    "Golden horn-like head tufts",
+    "Bright red eyes",
+    "Black and white plumage",
+    "Compact rounded body",
+    "Smooth water-repellent feathers"
+  ],
+  "part_details": {
+    "head": "Rounded with prominent golden tufts extending backwards, contrasting with the black crown.",
+    "eyes": "Bright red, small, and round, set against the dark feathers of the face.",
+    "plumage": "Black on the upper parts and white on the underparts, with a smooth texture.",
+    "body": "Compact and rounded, covered in sleek, water-repellent feathers."
+  },
+  "spatial_relations": [
+    "The golden tufts extend backwards from the sides of the head.",
+    "The red eyes are positioned centrally on the face.",
+    "The black plumage covers the upper body, while the white feathers cover the underparts."
+  ],
+  "original_dataset_key": "CUB200",
+  "original_class_key": "horned_grebe"
+}

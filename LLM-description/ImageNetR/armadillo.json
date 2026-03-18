@@ -1,0 +1,25 @@
+{
+  "class_name": "armadillo",
+  "global_description": "Small mammal with hard segmented armor, rounded body, short legs, pointed snout, tail extending behind, typically gray or brown, capable of curling into a ball.",
+  "discriminative_attributes": [
+    "Segmented armor",
+    "Rounded body",
+    "Short legs",
+    "Pointed snout",
+    "Tail extending behind"
+  ],
+  "part_details": {
+    "head": "Small with pointed snout",
+    "body": "Rounded with hard segmented armor",
+    "legs": "Short and sturdy",
+    "tail": "Long, extending behind",
+    "armor": "Hard plates covering body"
+  },
+  "spatial_relations": [
+    "Head at front, tail at rear",
+    "Legs beneath body",
+    "Armor covering body"
+  ],
+  "original_dataset_key": "ImageNetR",
+  "original_class_key": "armadillo"
+}

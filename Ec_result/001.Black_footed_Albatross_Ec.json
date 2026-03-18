@@ -1,0 +1,159 @@
+{
+  "class_name": "001.Black_footed_Albatross",
+  "class_idx": 0,
+  "num_images_in_class": 30,
+  "ec_size_requested": 30,
+  "ec_size_actual": 30,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\001.Black_footed_Albatross\\Black_Footed_Albatross_0010_796097.jpg",
+      "mean_similarity": 0.9499185085296631,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\001.Black_footed_Albatross\\Black_Footed_Albatross_0081_426.jpg",
+      "mean_similarity": 0.9498152732849121,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\001.Black_footed_Albatross\\Black_Footed_Albatross_0032_796115.jpg",
+      "mean_similarity": 0.9496394991874695,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\001.Black_footed_Albatross\\Black_Footed_Albatross_0068_796135.jpg",
+      "mean_similarity": 0.949345052242279,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\001.Black_footed_Albatross\\Black_Footed_Albatross_0039_796132.jpg",
+      "mean_similarity": 0.949224591255188,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\001.Black_footed_Albatross\\Black_Footed_Albatross_0063_796141.jpg",
+      "mean_similarity": 0.9491947889328003,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\001.Black_footed_Albatross\\Black_Footed_Albatross_0071_796113.jpg",
+      "mean_similarity": 0.9490495324134827,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\001.Black_footed_Albatross\\Black_Footed_Albatross_0069_796139.jpg",
+      "mean_similarity": 0.949009895324707,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\001.Black_footed_Albatross\\Black_Footed_Albatross_0036_796127.jpg",
+      "mean_similarity": 0.9489192366600037,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\001.Black_footed_Albatross\\Black_Footed_Albatross_0057_796106.jpg",
+      "mean_similarity": 0.9488422870635986,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\001.Black_footed_Albatross\\Black_Footed_Albatross_0056_796078.jpg",
+      "mean_similarity": 0.9484300017356873,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\001.Black_footed_Albatross\\Black_Footed_Albatross_0051_796103.jpg",
+      "mean_similarity": 0.9482621550559998,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\001.Black_footed_Albatross\\Black_Footed_Albatross_0077_796114.jpg",
+      "mean_similarity": 0.9478974342346191,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\001.Black_footed_Albatross\\Black_Footed_Albatross_0017_796098.jpg",
+      "mean_similarity": 0.9478383660316467,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\001.Black_footed_Albatross\\Black_Footed_Albatross_0074_59.jpg",
+      "mean_similarity": 0.9478071928024292,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\001.Black_footed_Albatross\\Black_Footed_Albatross_0060_796076.jpg",
+      "mean_similarity": 0.9476091861724854,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\001.Black_footed_Albatross\\Black_Footed_Albatross_0009_34.jpg",
+      "mean_similarity": 0.9476038217544556,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\001.Black_footed_Albatross\\Black_Footed_Albatross_0040_796066.jpg",
+      "mean_similarity": 0.947521984577179,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\001.Black_footed_Albatross\\Black_Footed_Albatross_0041_796108.jpg",
+      "mean_similarity": 0.9471800327301025,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\001.Black_footed_Albatross\\Black_Footed_Albatross_0089_796069.jpg",
+      "mean_similarity": 0.9466407895088196,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\001.Black_footed_Albatross\\Black_Footed_Albatross_0007_796138.jpg",
+      "mean_similarity": 0.945518434047699,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\001.Black_footed_Albatross\\Black_Footed_Albatross_0079_796122.jpg",
+      "mean_similarity": 0.9453705549240112,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\001.Black_footed_Albatross\\Black_Footed_Albatross_0047_796064.jpg",
+      "mean_similarity": 0.9449697136878967,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\001.Black_footed_Albatross\\Black_Footed_Albatross_0080_796096.jpg",
+      "mean_similarity": 0.944958508014679,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\001.Black_footed_Albatross\\Black_Footed_Albatross_0019_796104.jpg",
+      "mean_similarity": 0.9443049430847168,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\001.Black_footed_Albatross\\Black_Footed_Albatross_0067_170.jpg",
+      "mean_similarity": 0.9419575333595276,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\001.Black_footed_Albatross\\Black_Footed_Albatross_0038_212.jpg",
+      "mean_similarity": 0.9417288303375244,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\001.Black_footed_Albatross\\Black_Footed_Albatross_0031_100.jpg",
+      "mean_similarity": 0.933936595916748,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\001.Black_footed_Albatross\\Black_Footed_Albatross_0014_89.jpg",
+      "mean_similarity": 0.9324584007263184,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\001.Black_footed_Albatross\\Black_Footed_Albatross_0023_796059.jpg",
+      "mean_similarity": 0.9306679964065552,
+      "rank": 30
+    }
+  ]
+}

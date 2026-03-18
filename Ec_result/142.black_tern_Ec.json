@@ -1,0 +1,434 @@
+{
+  "class_name": "Black Tern",
+  "class_idx": 142,
+  "class_folder": "142.Black_Tern",
+  "num_images_in_class": 10,
+  "ec_size_requested": 30,
+  "ec_size_actual": 40,
+  "num_fewshot": 10,
+  "num_synthesized": 30,
+  "fewshot_emphasis_weight": 3.0,
+  "hybrid_lambda": 0.6,
+  "related_base_classes": [
+    {
+      "class_key": "gray_kingbird",
+      "relevance_score": 1.7508
+    },
+    {
+      "class_key": "scissor_tailed_flycatcher",
+      "relevance_score": 1.6761
+    },
+    {
+      "class_key": "white_breasted_nuthatch",
+      "relevance_score": 1.3406
+    },
+    {
+      "class_key": "glaucous_winged_gull",
+      "relevance_score": 1.3112
+    },
+    {
+      "class_key": "northern_fulmar",
+      "relevance_score": 1.2945
+    }
+  ],
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\Incremental class - Copy\\142.Black_Tern\\Black_Tern_0077_144117.jpg",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 1,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\Incremental class - Copy\\142.Black_Tern\\Black_Tern_0013_143892.jpg",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 2,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\Incremental class - Copy\\142.Black_Tern\\Black_Tern_0004_143881.jpg",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 3,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\Incremental class - Copy\\142.Black_Tern\\Black_Tern_0082_144372.jpg",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 4,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\Incremental class - Copy\\142.Black_Tern\\Black_Tern_0037_144110.jpg",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 5,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\Incremental class - Copy\\142.Black_Tern\\Black_Tern_0029_144140.jpg",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 6,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\Incremental class - Copy\\142.Black_Tern\\Black_Tern_0083_144083.jpg",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 7,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\Incremental class - Copy\\142.Black_Tern\\Black_Tern_0015_143979.jpg",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 8,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\Incremental class - Copy\\142.Black_Tern\\Black_Tern_0099_144242.jpg",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 9,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\Incremental class - Copy\\142.Black_Tern\\Black_Tern_0063_144731.jpg",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 10,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\045.Northern_Fulmar\\Northern_Fulmar_0041_44013.jpg",
+      "mean_similarity": 0.9792145,
+      "rank": 11,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\041.Scissor_tailed_Flycatcher\\Scissor_Tailed_Flycatcher_0035_42025.jpg",
+      "mean_similarity": 0.9792144,
+      "rank": 12,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\045.Northern_Fulmar\\Northern_Fulmar_0047_43698.jpg",
+      "mean_similarity": 0.9792144,
+      "rank": 13,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\078.Gray_Kingbird\\Gray_Kingbird_0016_70288.jpg",
+      "mean_similarity": 0.9792143,
+      "rank": 14,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\041.Scissor_tailed_Flycatcher\\Scissor_Tailed_Flycatcher_0089_41810.jpg",
+      "mean_similarity": 0.9792143,
+      "rank": 15,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\045.Northern_Fulmar\\Northern_Fulmar_0099_44015.jpg",
+      "mean_similarity": 0.9792141000000001,
+      "rank": 16,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\045.Northern_Fulmar\\Northern_Fulmar_0039_43689.jpg",
+      "mean_similarity": 0.9792141000000001,
+      "rank": 17,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\041.Scissor_tailed_Flycatcher\\Scissor_Tailed_Flycatcher_0077_41688.jpg",
+      "mean_similarity": 0.9792141000000001,
+      "rank": 18,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\078.Gray_Kingbird\\Gray_Kingbird_0023_795035.jpg",
+      "mean_similarity": 0.9792141000000001,
+      "rank": 19,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\060.Glaucous_winged_Gull\\Glaucous_Winged_Gull_0028_44628.jpg",
+      "mean_similarity": 0.9792141000000001,
+      "rank": 20,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\045.Northern_Fulmar\\Northern_Fulmar_0023_43809.jpg",
+      "mean_similarity": 0.979214,
+      "rank": 21,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\045.Northern_Fulmar\\Northern_Fulmar_0010_44112.jpg",
+      "mean_similarity": 0.979214,
+      "rank": 22,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\041.Scissor_tailed_Flycatcher\\Scissor_Tailed_Flycatcher_0026_41774.jpg",
+      "mean_similarity": 0.979214,
+      "rank": 23,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\045.Northern_Fulmar\\Northern_Fulmar_0074_43955.jpg",
+      "mean_similarity": 0.9792139000000001,
+      "rank": 24,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\045.Northern_Fulmar\\Northern_Fulmar_0048_43672.jpg",
+      "mean_similarity": 0.9792139000000001,
+      "rank": 25,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\060.Glaucous_winged_Gull\\Glaucous_Winged_Gull_0005_44860.jpg",
+      "mean_similarity": 0.9792139000000001,
+      "rank": 26,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\078.Gray_Kingbird\\Gray_Kingbird_0037_70050.jpg",
+      "mean_similarity": 0.9792139000000001,
+      "rank": 27,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\078.Gray_Kingbird\\Gray_Kingbird_0040_70313.jpg",
+      "mean_similarity": 0.9792139000000001,
+      "rank": 28,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\078.Gray_Kingbird\\Gray_Kingbird_0003_70305.jpg",
+      "mean_similarity": 0.9792139000000001,
+      "rank": 29,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\060.Glaucous_winged_Gull\\Glaucous_Winged_Gull_0093_44724.jpg",
+      "mean_similarity": 0.9792139000000001,
+      "rank": 30,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\041.Scissor_tailed_Flycatcher\\Scissor_Tailed_Flycatcher_0028_42010.jpg",
+      "mean_similarity": 0.9792138,
+      "rank": 31,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\041.Scissor_tailed_Flycatcher\\Scissor_Tailed_Flycatcher_0110_42136.jpg",
+      "mean_similarity": 0.9792138,
+      "rank": 32,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\094.White_breasted_Nuthatch\\White_Breasted_Nuthatch_0097_85940.jpg",
+      "mean_similarity": 0.9792138,
+      "rank": 33,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\041.Scissor_tailed_Flycatcher\\Scissor_Tailed_Flycatcher_0115_42137.jpg",
+      "mean_similarity": 0.9792137000000001,
+      "rank": 34,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\078.Gray_Kingbird\\Gray_Kingbird_0028_70303.jpg",
+      "mean_similarity": 0.9792137000000001,
+      "rank": 35,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\041.Scissor_tailed_Flycatcher\\Scissor_Tailed_Flycatcher_0111_42118.jpg",
+      "mean_similarity": 0.9792137000000001,
+      "rank": 36,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\060.Glaucous_winged_Gull\\Glaucous_Winged_Gull_0014_44832.jpg",
+      "mean_similarity": 0.9792137000000001,
+      "rank": 37,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\060.Glaucous_winged_Gull\\Glaucous_Winged_Gull_0045_44906.jpg",
+      "mean_similarity": 0.9792137000000001,
+      "rank": 38,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\094.White_breasted_Nuthatch\\White_Breasted_Nuthatch_0054_86551.jpg",
+      "mean_similarity": 0.9792137000000001,
+      "rank": 39,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\094.White_breasted_Nuthatch\\White_Breasted_Nuthatch_0065_85829.jpg",
+      "mean_similarity": 0.9792137000000001,
+      "rank": 40,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    }
+  ],
+  "debug": {
+    "total_candidates": 76,
+    "after_voting": 76,
+    "after_dedup": 30,
+    "dedup_mode": "backbone",
+    "top_segments": [
+      {
+        "class": "078.Gray_Kingbird",
+        "seg": 3,
+        "hybrid": 1.5948,
+        "magnitude": 9.7921,
+        "borda": 228.0
+      },
+      {
+        "class": "041.Scissor_tailed_Flycatcher",
+        "seg": 0,
+        "hybrid": 1.5474,
+        "magnitude": 9.7921,
+        "borda": 221.0
+      },
+      {
+        "class": "060.Glaucous_winged_Gull",
+        "seg": 4,
+        "hybrid": 1.5135,
+        "magnitude": 9.7921,
+        "borda": 216.0
+      },
+      {
+        "class": "060.Glaucous_winged_Gull",
+        "seg": 3,
+        "hybrid": 1.2876,
+        "magnitude": 9.7921,
+        "borda": 217.0
+      },
+      {
+        "class": "045.Northern_Fulmar",
+        "seg": 2,
+        "hybrid": 0.8923,
+        "magnitude": 9.7921,
+        "borda": 193.0
+      },
+      {
+        "class": "045.Northern_Fulmar",
+        "seg": 4,
+        "hybrid": 0.872,
+        "magnitude": 9.7921,
+        "borda": 190.0
+      },
+      {
+        "class": "045.Northern_Fulmar",
+        "seg": 0,
+        "hybrid": 0.5174,
+        "magnitude": 9.7921,
+        "borda": 172.0
+      },
+      {
+        "class": "060.Glaucous_winged_Gull",
+        "seg": 2,
+        "hybrid": 0.3546,
+        "magnitude": 9.7921,
+        "borda": 148.0
+      },
+      {
+        "class": "041.Scissor_tailed_Flycatcher",
+        "seg": 2,
+        "hybrid": 0.217,
+        "magnitude": 9.7921,
+        "borda": 162.0
+      },
+      {
+        "class": "078.Gray_Kingbird",
+        "seg": 1,
+        "hybrid": 0.1627,
+        "magnitude": 9.7921,
+        "borda": 154.0
+      }
+    ]
+  }
+}

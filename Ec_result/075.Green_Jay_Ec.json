@@ -1,0 +1,159 @@
+{
+  "class_name": "075.Green_Jay",
+  "class_idx": 74,
+  "num_images_in_class": 30,
+  "ec_size_requested": 30,
+  "ec_size_actual": 30,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\075.Green_Jay\\Green_Jay_0049_65600.jpg",
+      "mean_similarity": 0.9485771059989929,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\075.Green_Jay\\Green_Jay_0071_65799.jpg",
+      "mean_similarity": 0.948188304901123,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\075.Green_Jay\\Green_Jay_0075_65701.jpg",
+      "mean_similarity": 0.9481603503227234,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\075.Green_Jay\\Green_Jay_0006_65788.jpg",
+      "mean_similarity": 0.947326123714447,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\075.Green_Jay\\Green_Jay_0095_65881.jpg",
+      "mean_similarity": 0.9468942880630493,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\075.Green_Jay\\Green_Jay_0085_66077.jpg",
+      "mean_similarity": 0.9466097354888916,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\075.Green_Jay\\Green_Jay_0032_65851.jpg",
+      "mean_similarity": 0.9466032981872559,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\075.Green_Jay\\Green_Jay_0051_65662.jpg",
+      "mean_similarity": 0.9465805292129517,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\075.Green_Jay\\Green_Jay_0055_65807.jpg",
+      "mean_similarity": 0.9465796947479248,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\075.Green_Jay\\Green_Jay_0044_66228.jpg",
+      "mean_similarity": 0.9465760588645935,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\075.Green_Jay\\Green_Jay_0121_65564.jpg",
+      "mean_similarity": 0.9464641213417053,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\075.Green_Jay\\Green_Jay_0039_66118.jpg",
+      "mean_similarity": 0.9464609622955322,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\075.Green_Jay\\Green_Jay_0128_65629.jpg",
+      "mean_similarity": 0.9462735652923584,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\075.Green_Jay\\Green_Jay_0129_65680.jpg",
+      "mean_similarity": 0.9460504651069641,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\075.Green_Jay\\Green_Jay_0014_65825.jpg",
+      "mean_similarity": 0.9459811449050903,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\075.Green_Jay\\Green_Jay_0016_65864.jpg",
+      "mean_similarity": 0.9453701376914978,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\075.Green_Jay\\Green_Jay_0040_65863.jpg",
+      "mean_similarity": 0.9453619718551636,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\075.Green_Jay\\Green_Jay_0111_65869.jpg",
+      "mean_similarity": 0.945147693157196,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\075.Green_Jay\\Green_Jay_0100_65786.jpg",
+      "mean_similarity": 0.9450151920318604,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\075.Green_Jay\\Green_Jay_0086_65847.jpg",
+      "mean_similarity": 0.9447758793830872,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\075.Green_Jay\\Green_Jay_0114_65841.jpg",
+      "mean_similarity": 0.94383305311203,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\075.Green_Jay\\Green_Jay_0036_65660.jpg",
+      "mean_similarity": 0.9435569643974304,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\075.Green_Jay\\Green_Jay_0023_65898.jpg",
+      "mean_similarity": 0.942841112613678,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\075.Green_Jay\\Green_Jay_0015_65796.jpg",
+      "mean_similarity": 0.9424391984939575,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\075.Green_Jay\\Green_Jay_0003_65767.jpg",
+      "mean_similarity": 0.942140519618988,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\075.Green_Jay\\Green_Jay_0020_66168.jpg",
+      "mean_similarity": 0.9375828504562378,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\075.Green_Jay\\Green_Jay_0043_65805.jpg",
+      "mean_similarity": 0.9249211549758911,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\075.Green_Jay\\Green_Jay_0102_65813.jpg",
+      "mean_similarity": 0.9199992418289185,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\075.Green_Jay\\Green_Jay_0066_65902.jpg",
+      "mean_similarity": 0.9169695377349854,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\075.Green_Jay\\Green_Jay_0094_65775.jpg",
+      "mean_similarity": 0.9063159227371216,
+      "rank": 30
+    }
+  ]
+}

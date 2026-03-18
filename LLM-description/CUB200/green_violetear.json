@@ -1,0 +1,25 @@
+{
+  "class_name": "Green Violetear",
+  "global_description": "A medium-sized hummingbird with a compact, streamlined body. Predominantly iridescent green with a metallic sheen, featuring a distinctive violet ear patch. The bird has a slightly curved black bill and a forked tail with blue and green hues.",
+  "discriminative_attributes": [
+    "Iridescent green plumage",
+    "Violet ear patch",
+    "Slightly curved black bill",
+    "Forked tail with blue-green hues",
+    "Compact, streamlined body"
+  ],
+  "part_details": {
+    "plumage": "Bright iridescent green with a metallic sheen, covering most of the body.",
+    "ear_patch": "Distinctive violet patch located behind the eyes.",
+    "bill": "Slightly curved, slender, and black.",
+    "tail": "Forked with a mix of blue and green feathers.",
+    "wings": "Narrow and pointed, aiding in rapid flight."
+  },
+  "spatial_relations": [
+    "The violet ear patch is located behind the eyes on each side of the head.",
+    "The slightly curved bill extends from the front of the head.",
+    "The forked tail is positioned at the rear of the body."
+  ],
+  "original_dataset_key": "CUB200",
+  "original_class_key": "green_violetear"
+}

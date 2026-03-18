@@ -1,0 +1,25 @@
+{
+  "class_name": "Sooty Albatross",
+  "global_description": "A medium-sized seabird with a streamlined body and long, narrow wings. It has a predominantly dark sooty brown plumage with a lighter grayish head and neck. The bird features a slender, hooked black bill and a distinctive white eye-ring.",
+  "discriminative_attributes": [
+    "Dark sooty brown plumage",
+    "Long narrow wings",
+    "Slender hooked black bill",
+    "White eye-ring",
+    "Grayish head and neck"
+  ],
+  "part_details": {
+    "plumage": "Dark sooty brown with a smooth texture",
+    "wings": "Long, narrow, and pointed, dark brown",
+    "bill": "Slender, hooked, black",
+    "eye-ring": "Distinctive white circle around the eye",
+    "head": "Grayish with a smooth texture"
+  },
+  "spatial_relations": [
+    "The long wings extend from the sides of the streamlined body",
+    "The slender bill protrudes from the front of the grayish head",
+    "The white eye-ring encircles the eye on the head"
+  ],
+  "original_dataset_key": "CUB200",
+  "original_class_key": "sooty_albatross"
+}

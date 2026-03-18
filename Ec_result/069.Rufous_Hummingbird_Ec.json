@@ -1,0 +1,159 @@
+{
+  "class_name": "069.Rufous_Hummingbird",
+  "class_idx": 68,
+  "num_images_in_class": 30,
+  "ec_size_requested": 30,
+  "ec_size_actual": 30,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\069.Rufous_Hummingbird\\Rufous_Hummingbird_0127_59587.jpg",
+      "mean_similarity": 0.9499828815460205,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\069.Rufous_Hummingbird\\Rufous_Hummingbird_0077_59452.jpg",
+      "mean_similarity": 0.9497815370559692,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\069.Rufous_Hummingbird\\Rufous_Hummingbird_0113_59444.jpg",
+      "mean_similarity": 0.9497074484825134,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\069.Rufous_Hummingbird\\Rufous_Hummingbird_0035_59434.jpg",
+      "mean_similarity": 0.9496558308601379,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\069.Rufous_Hummingbird\\Rufous_Hummingbird_0111_59408.jpg",
+      "mean_similarity": 0.9494292140007019,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\069.Rufous_Hummingbird\\Rufous_Hummingbird_0115_59202.jpg",
+      "mean_similarity": 0.9493597745895386,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\069.Rufous_Hummingbird\\Rufous_Hummingbird_0045_59533.jpg",
+      "mean_similarity": 0.9490785598754883,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\069.Rufous_Hummingbird\\Rufous_Hummingbird_0109_60021.jpg",
+      "mean_similarity": 0.9490657448768616,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\069.Rufous_Hummingbird\\Rufous_Hummingbird_0031_58391.jpg",
+      "mean_similarity": 0.9490519762039185,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\069.Rufous_Hummingbird\\Rufous_Hummingbird_0037_60415.jpg",
+      "mean_similarity": 0.9488278031349182,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\069.Rufous_Hummingbird\\Rufous_Hummingbird_0089_59524.jpg",
+      "mean_similarity": 0.9485897421836853,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\069.Rufous_Hummingbird\\Rufous_Hummingbird_0022_58725.jpg",
+      "mean_similarity": 0.9485176205635071,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\069.Rufous_Hummingbird\\Rufous_Hummingbird_0102_59414.jpg",
+      "mean_similarity": 0.9483464956283569,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\069.Rufous_Hummingbird\\Rufous_Hummingbird_0106_60465.jpg",
+      "mean_similarity": 0.9480598568916321,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\069.Rufous_Hummingbird\\Rufous_Hummingbird_0024_59636.jpg",
+      "mean_similarity": 0.9476694464683533,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\069.Rufous_Hummingbird\\Rufous_Hummingbird_0055_59935.jpg",
+      "mean_similarity": 0.9472883343696594,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\069.Rufous_Hummingbird\\Rufous_Hummingbird_0047_59448.jpg",
+      "mean_similarity": 0.9469560980796814,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\069.Rufous_Hummingbird\\Rufous_Hummingbird_0091_60551.jpg",
+      "mean_similarity": 0.9463226795196533,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\069.Rufous_Hummingbird\\Rufous_Hummingbird_0048_58478.jpg",
+      "mean_similarity": 0.9457687735557556,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\069.Rufous_Hummingbird\\Rufous_Hummingbird_0006_59621.jpg",
+      "mean_similarity": 0.9453610181808472,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\069.Rufous_Hummingbird\\Rufous_Hummingbird_0118_59393.jpg",
+      "mean_similarity": 0.9453044533729553,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\069.Rufous_Hummingbird\\Rufous_Hummingbird_0018_59447.jpg",
+      "mean_similarity": 0.9417935609817505,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\069.Rufous_Hummingbird\\Rufous_Hummingbird_0116_58568.jpg",
+      "mean_similarity": 0.941749095916748,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\069.Rufous_Hummingbird\\Rufous_Hummingbird_0043_58652.jpg",
+      "mean_similarity": 0.9407954216003418,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\069.Rufous_Hummingbird\\Rufous_Hummingbird_0064_58509.jpg",
+      "mean_similarity": 0.9407418966293335,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\069.Rufous_Hummingbird\\Rufous_Hummingbird_0060_58986.jpg",
+      "mean_similarity": 0.9406800270080566,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\069.Rufous_Hummingbird\\Rufous_Hummingbird_0025_59461.jpg",
+      "mean_similarity": 0.9377687573432922,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\069.Rufous_Hummingbird\\Rufous_Hummingbird_0120_59900.jpg",
+      "mean_similarity": 0.9355244636535645,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\069.Rufous_Hummingbird\\Rufous_Hummingbird_0095_60360.jpg",
+      "mean_similarity": 0.9345066547393799,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\069.Rufous_Hummingbird\\Rufous_Hummingbird_0123_58546.jpg",
+      "mean_similarity": 0.9313050508499146,
+      "rank": 30
+    }
+  ]
+}

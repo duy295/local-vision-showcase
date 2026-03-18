@@ -1,0 +1,1259 @@
+{
+  "class_name": "lizard",
+  "class_idx": 44,
+  "num_images_in_class": 500,
+  "ec_size_requested": 250,
+  "ec_size_actual": 250,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\gecko_s_001337.png",
+      "mean_similarity": 0.943139374256134,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\lizard_s_002308.png",
+      "mean_similarity": 0.9427781105041504,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\gecko_s_000036.png",
+      "mean_similarity": 0.9427628517150879,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\gecko_s_001504.png",
+      "mean_similarity": 0.9427188634872437,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\gecko_s_001218.png",
+      "mean_similarity": 0.9426565766334534,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\iguana_s_000762.png",
+      "mean_similarity": 0.9426518082618713,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\banded_gecko_s_001098.png",
+      "mean_similarity": 0.9425122141838074,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\gecko_s_000039.png",
+      "mean_similarity": 0.9425072073936462,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\banded_gecko_s_000165.png",
+      "mean_similarity": 0.9424713850021362,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\gecko_s_000300.png",
+      "mean_similarity": 0.9424431324005127,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\gecko_s_001447.png",
+      "mean_similarity": 0.942371129989624,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\gecko_s_000686.png",
+      "mean_similarity": 0.9423659443855286,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\gecko_s_001162.png",
+      "mean_similarity": 0.9423589110374451,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\banded_gecko_s_000528.png",
+      "mean_similarity": 0.9422460794448853,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\gecko_s_000007.png",
+      "mean_similarity": 0.9421647191047668,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\gecko_s_000771.png",
+      "mean_similarity": 0.9420605301856995,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\lizard_s_000380.png",
+      "mean_similarity": 0.9419806599617004,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\lizard_s_001552.png",
+      "mean_similarity": 0.9419152140617371,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\common_iguana_s_000279.png",
+      "mean_similarity": 0.9418777823448181,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\gecko_s_000499.png",
+      "mean_similarity": 0.9418665170669556,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\banded_gecko_s_000687.png",
+      "mean_similarity": 0.9417670369148254,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\lizard_s_002256.png",
+      "mean_similarity": 0.9417645335197449,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\gecko_s_000540.png",
+      "mean_similarity": 0.9417301416397095,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\lizard_s_000733.png",
+      "mean_similarity": 0.9416786432266235,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\lizard_s_001786.png",
+      "mean_similarity": 0.9416443109512329,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\lizard_s_000276.png",
+      "mean_similarity": 0.9415439963340759,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\lizard_s_000044.png",
+      "mean_similarity": 0.9415326118469238,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\gecko_s_000006.png",
+      "mean_similarity": 0.941522479057312,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\gecko_s_001007.png",
+      "mean_similarity": 0.9415153861045837,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\gecko_s_001301.png",
+      "mean_similarity": 0.941462516784668,
+      "rank": 30
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\iguana_s_000615.png",
+      "mean_similarity": 0.941462516784668,
+      "rank": 31
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\banded_gecko_s_000039.png",
+      "mean_similarity": 0.941405713558197,
+      "rank": 32
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\gecko_s_002478.png",
+      "mean_similarity": 0.9414024949073792,
+      "rank": 33
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\lizard_s_000632.png",
+      "mean_similarity": 0.941402018070221,
+      "rank": 34
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\banded_gecko_s_000119.png",
+      "mean_similarity": 0.9413274526596069,
+      "rank": 35
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\gecko_s_000658.png",
+      "mean_similarity": 0.9412710666656494,
+      "rank": 36
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\flying_gecko_s_000007.png",
+      "mean_similarity": 0.9412391781806946,
+      "rank": 37
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\gecko_s_001749.png",
+      "mean_similarity": 0.9412326216697693,
+      "rank": 38
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\gecko_s_000696.png",
+      "mean_similarity": 0.941127359867096,
+      "rank": 39
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\lizard_s_001215.png",
+      "mean_similarity": 0.941118597984314,
+      "rank": 40
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\banded_gecko_s_000086.png",
+      "mean_similarity": 0.9411010146141052,
+      "rank": 41
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\iguanid_lizard_s_000018.png",
+      "mean_similarity": 0.9410692453384399,
+      "rank": 42
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\lizard_s_001233.png",
+      "mean_similarity": 0.9410120248794556,
+      "rank": 43
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\iguana_s_000465.png",
+      "mean_similarity": 0.9410094022750854,
+      "rank": 44
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\banded_gecko_s_001109.png",
+      "mean_similarity": 0.9409922957420349,
+      "rank": 45
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\banded_gecko_s_001288.png",
+      "mean_similarity": 0.940979540348053,
+      "rank": 46
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\lizard_s_000745.png",
+      "mean_similarity": 0.9409768581390381,
+      "rank": 47
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\iguanid_s_000054.png",
+      "mean_similarity": 0.9409087896347046,
+      "rank": 48
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\gecko_s_001047.png",
+      "mean_similarity": 0.9408718943595886,
+      "rank": 49
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\gecko_s_001142.png",
+      "mean_similarity": 0.9408475160598755,
+      "rank": 50
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\gecko_s_001092.png",
+      "mean_similarity": 0.9407985210418701,
+      "rank": 51
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\lizard_s_001126.png",
+      "mean_similarity": 0.9407932758331299,
+      "rank": 52
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\banded_gecko_s_001333.png",
+      "mean_similarity": 0.9407884478569031,
+      "rank": 53
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\flying_gecko_s_000170.png",
+      "mean_similarity": 0.9407660365104675,
+      "rank": 54
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\banded_gecko_s_000250.png",
+      "mean_similarity": 0.9407503008842468,
+      "rank": 55
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\banded_gecko_s_000651.png",
+      "mean_similarity": 0.9407370686531067,
+      "rank": 56
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\lizard_s_000928.png",
+      "mean_similarity": 0.940679669380188,
+      "rank": 57
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\gecko_s_000608.png",
+      "mean_similarity": 0.9406712651252747,
+      "rank": 58
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\gecko_s_001659.png",
+      "mean_similarity": 0.940665066242218,
+      "rank": 59
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\iguana_s_000320.png",
+      "mean_similarity": 0.9406542778015137,
+      "rank": 60
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\lizard_s_001147.png",
+      "mean_similarity": 0.9406207799911499,
+      "rank": 61
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\gecko_s_000785.png",
+      "mean_similarity": 0.9406187534332275,
+      "rank": 62
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\lizard_s_001860.png",
+      "mean_similarity": 0.9406126141548157,
+      "rank": 63
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\banded_gecko_s_000725.png",
+      "mean_similarity": 0.940605103969574,
+      "rank": 64
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\gecko_s_001834.png",
+      "mean_similarity": 0.9405801296234131,
+      "rank": 65
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\lizard_s_000814.png",
+      "mean_similarity": 0.94053715467453,
+      "rank": 66
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\lizard_s_000701.png",
+      "mean_similarity": 0.9405307173728943,
+      "rank": 67
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\common_iguana_s_000307.png",
+      "mean_similarity": 0.9405215382575989,
+      "rank": 68
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\gecko_s_000895.png",
+      "mean_similarity": 0.9405160546302795,
+      "rank": 69
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\banded_gecko_s_000126.png",
+      "mean_similarity": 0.9404317736625671,
+      "rank": 70
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\gecko_s_000761.png",
+      "mean_similarity": 0.9404158592224121,
+      "rank": 71
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\lizard_s_000048.png",
+      "mean_similarity": 0.9404152035713196,
+      "rank": 72
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\common_iguana_s_000335.png",
+      "mean_similarity": 0.9403826594352722,
+      "rank": 73
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\lizard_s_000050.png",
+      "mean_similarity": 0.9402908682823181,
+      "rank": 74
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\gecko_s_000790.png",
+      "mean_similarity": 0.9402784705162048,
+      "rank": 75
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\gecko_s_001922.png",
+      "mean_similarity": 0.940270185470581,
+      "rank": 76
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\lizard_s_000642.png",
+      "mean_similarity": 0.940257728099823,
+      "rank": 77
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\common_iguana_s_000012.png",
+      "mean_similarity": 0.9402452707290649,
+      "rank": 78
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\banded_gecko_s_000944.png",
+      "mean_similarity": 0.9402274489402771,
+      "rank": 79
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\lizard_s_002065.png",
+      "mean_similarity": 0.9402108788490295,
+      "rank": 80
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\lizard_s_001399.png",
+      "mean_similarity": 0.940199077129364,
+      "rank": 81
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\lizard_s_000280.png",
+      "mean_similarity": 0.9401801824569702,
+      "rank": 82
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\lizard_s_001358.png",
+      "mean_similarity": 0.9401713013648987,
+      "rank": 83
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\banded_gecko_s_000612.png",
+      "mean_similarity": 0.940148115158081,
+      "rank": 84
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\gecko_s_000574.png",
+      "mean_similarity": 0.9401302337646484,
+      "rank": 85
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\gecko_s_002203.png",
+      "mean_similarity": 0.9400778412818909,
+      "rank": 86
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\gecko_s_000012.png",
+      "mean_similarity": 0.940056562423706,
+      "rank": 87
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\gecko_s_000131.png",
+      "mean_similarity": 0.9400250911712646,
+      "rank": 88
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\gecko_s_000735.png",
+      "mean_similarity": 0.940006673336029,
+      "rank": 89
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\lizard_s_000750.png",
+      "mean_similarity": 0.9399529099464417,
+      "rank": 90
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\lizard_s_001500.png",
+      "mean_similarity": 0.9399487972259521,
+      "rank": 91
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\gecko_s_000713.png",
+      "mean_similarity": 0.9399358034133911,
+      "rank": 92
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\flying_gecko_s_000244.png",
+      "mean_similarity": 0.9399253129959106,
+      "rank": 93
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\flying_gecko_s_000049.png",
+      "mean_similarity": 0.9399019479751587,
+      "rank": 94
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\iguana_s_000900.png",
+      "mean_similarity": 0.9398843050003052,
+      "rank": 95
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\gecko_s_000049.png",
+      "mean_similarity": 0.9398763179779053,
+      "rank": 96
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\gecko_s_000378.png",
+      "mean_similarity": 0.939845085144043,
+      "rank": 97
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\lizard_s_000049.png",
+      "mean_similarity": 0.9397565722465515,
+      "rank": 98
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\banded_gecko_s_001057.png",
+      "mean_similarity": 0.9397091269493103,
+      "rank": 99
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\lizard_s_000628.png",
+      "mean_similarity": 0.9396893382072449,
+      "rank": 100
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\iguanid_lizard_s_000065.png",
+      "mean_similarity": 0.9396780729293823,
+      "rank": 101
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\lizard_s_002175.png",
+      "mean_similarity": 0.9396733045578003,
+      "rank": 102
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\lizard_s_002127.png",
+      "mean_similarity": 0.9396699666976929,
+      "rank": 103
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\gecko_s_002024.png",
+      "mean_similarity": 0.9396584033966064,
+      "rank": 104
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\gecko_s_002344.png",
+      "mean_similarity": 0.9396486282348633,
+      "rank": 105
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\gecko_s_001680.png",
+      "mean_similarity": 0.9396353363990784,
+      "rank": 106
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\gecko_s_000792.png",
+      "mean_similarity": 0.9396179914474487,
+      "rank": 107
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\banded_gecko_s_001146.png",
+      "mean_similarity": 0.9395765066146851,
+      "rank": 108
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\iguanid_s_000011.png",
+      "mean_similarity": 0.9395419955253601,
+      "rank": 109
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\lizard_s_001183.png",
+      "mean_similarity": 0.9394691586494446,
+      "rank": 110
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\gecko_s_001116.png",
+      "mean_similarity": 0.9394637942314148,
+      "rank": 111
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\iguanid_s_000084.png",
+      "mean_similarity": 0.9394581317901611,
+      "rank": 112
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\banded_gecko_s_000661.png",
+      "mean_similarity": 0.9394496083259583,
+      "rank": 113
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\gecko_s_000397.png",
+      "mean_similarity": 0.9394348859786987,
+      "rank": 114
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\lizard_s_000812.png",
+      "mean_similarity": 0.9394292235374451,
+      "rank": 115
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\common_iguana_s_000287.png",
+      "mean_similarity": 0.9394037127494812,
+      "rank": 116
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\gecko_s_000536.png",
+      "mean_similarity": 0.9393957257270813,
+      "rank": 117
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\lizard_s_000498.png",
+      "mean_similarity": 0.9393835663795471,
+      "rank": 118
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\gecko_s_000485.png",
+      "mean_similarity": 0.9393638968467712,
+      "rank": 119
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\gecko_s_001599.png",
+      "mean_similarity": 0.9393561482429504,
+      "rank": 120
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\gecko_s_001746.png",
+      "mean_similarity": 0.9393264055252075,
+      "rank": 121
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\flying_gecko_s_000387.png",
+      "mean_similarity": 0.9393180012702942,
+      "rank": 122
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\gecko_s_001945.png",
+      "mean_similarity": 0.9393175840377808,
+      "rank": 123
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\iguana_s_000028.png",
+      "mean_similarity": 0.9392610788345337,
+      "rank": 124
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\gecko_s_001689.png",
+      "mean_similarity": 0.9392216205596924,
+      "rank": 125
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\gecko_s_000004.png",
+      "mean_similarity": 0.9392090439796448,
+      "rank": 126
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\gecko_s_000090.png",
+      "mean_similarity": 0.9391611218452454,
+      "rank": 127
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\gecko_s_000185.png",
+      "mean_similarity": 0.939136803150177,
+      "rank": 128
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\gecko_s_001726.png",
+      "mean_similarity": 0.9391219019889832,
+      "rank": 129
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\flying_gecko_s_000198.png",
+      "mean_similarity": 0.9391155242919922,
+      "rank": 130
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\gecko_s_000954.png",
+      "mean_similarity": 0.9390947818756104,
+      "rank": 131
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\gecko_s_001488.png",
+      "mean_similarity": 0.9390711188316345,
+      "rank": 132
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\lizard_s_001043.png",
+      "mean_similarity": 0.9390299320220947,
+      "rank": 133
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\banded_gecko_s_000650.png",
+      "mean_similarity": 0.9389340281486511,
+      "rank": 134
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\gecko_s_000682.png",
+      "mean_similarity": 0.938925564289093,
+      "rank": 135
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\gecko_s_001812.png",
+      "mean_similarity": 0.9389020204544067,
+      "rank": 136
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\banded_gecko_s_000045.png",
+      "mean_similarity": 0.9388722777366638,
+      "rank": 137
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\gecko_s_000791.png",
+      "mean_similarity": 0.9388443827629089,
+      "rank": 138
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\gecko_s_001434.png",
+      "mean_similarity": 0.9388359189033508,
+      "rank": 139
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\gecko_s_001693.png",
+      "mean_similarity": 0.9388337135314941,
+      "rank": 140
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\gecko_s_000028.png",
+      "mean_similarity": 0.9388182163238525,
+      "rank": 141
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\lizard_s_001326.png",
+      "mean_similarity": 0.9388080835342407,
+      "rank": 142
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\gecko_s_001616.png",
+      "mean_similarity": 0.9387844800949097,
+      "rank": 143
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\gecko_s_000664.png",
+      "mean_similarity": 0.9387840628623962,
+      "rank": 144
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\lizard_s_001329.png",
+      "mean_similarity": 0.9387746453285217,
+      "rank": 145
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\gecko_s_000722.png",
+      "mean_similarity": 0.9387525320053101,
+      "rank": 146
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\banded_gecko_s_001092.png",
+      "mean_similarity": 0.9387401342391968,
+      "rank": 147
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\lizard_s_002102.png",
+      "mean_similarity": 0.938731849193573,
+      "rank": 148
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\gecko_s_001758.png",
+      "mean_similarity": 0.9387127757072449,
+      "rank": 149
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\gecko_s_002177.png",
+      "mean_similarity": 0.9386883974075317,
+      "rank": 150
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\banded_gecko_s_000729.png",
+      "mean_similarity": 0.9386823773384094,
+      "rank": 151
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\lizard_s_000021.png",
+      "mean_similarity": 0.938675582408905,
+      "rank": 152
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\gecko_s_000206.png",
+      "mean_similarity": 0.9386659264564514,
+      "rank": 153
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\lizard_s_002011.png",
+      "mean_similarity": 0.9386613965034485,
+      "rank": 154
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\gecko_s_001231.png",
+      "mean_similarity": 0.9386265277862549,
+      "rank": 155
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\iguanid_s_000152.png",
+      "mean_similarity": 0.9386258721351624,
+      "rank": 156
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\banded_gecko_s_000423.png",
+      "mean_similarity": 0.9386128187179565,
+      "rank": 157
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\lizard_s_001768.png",
+      "mean_similarity": 0.9386113286018372,
+      "rank": 158
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\lizard_s_000576.png",
+      "mean_similarity": 0.9385769963264465,
+      "rank": 159
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\lizard_s_001003.png",
+      "mean_similarity": 0.9385378956794739,
+      "rank": 160
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\lizard_s_000695.png",
+      "mean_similarity": 0.9385212659835815,
+      "rank": 161
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\lizard_s_001325.png",
+      "mean_similarity": 0.938479483127594,
+      "rank": 162
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\gecko_s_001990.png",
+      "mean_similarity": 0.9384679198265076,
+      "rank": 163
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\lizard_s_002284.png",
+      "mean_similarity": 0.9384139776229858,
+      "rank": 164
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\lizard_s_001277.png",
+      "mean_similarity": 0.9383514523506165,
+      "rank": 165
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\flying_gecko_s_000001.png",
+      "mean_similarity": 0.9382920265197754,
+      "rank": 166
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\gecko_s_001486.png",
+      "mean_similarity": 0.9382272362709045,
+      "rank": 167
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\lizard_s_000429.png",
+      "mean_similarity": 0.9381720423698425,
+      "rank": 168
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\gecko_s_000312.png",
+      "mean_similarity": 0.9381573796272278,
+      "rank": 169
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\gecko_s_001415.png",
+      "mean_similarity": 0.9381530284881592,
+      "rank": 170
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\common_iguana_s_000001.png",
+      "mean_similarity": 0.9381363987922668,
+      "rank": 171
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\gecko_s_000670.png",
+      "mean_similarity": 0.9380577206611633,
+      "rank": 172
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\banded_gecko_s_000484.png",
+      "mean_similarity": 0.9380452632904053,
+      "rank": 173
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\banded_gecko_s_000928.png",
+      "mean_similarity": 0.9380297660827637,
+      "rank": 174
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\banded_gecko_s_000571.png",
+      "mean_similarity": 0.9379675984382629,
+      "rank": 175
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\lizard_s_000336.png",
+      "mean_similarity": 0.9379555583000183,
+      "rank": 176
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\lizard_s_001058.png",
+      "mean_similarity": 0.9379554390907288,
+      "rank": 177
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\gecko_s_000306.png",
+      "mean_similarity": 0.9379335641860962,
+      "rank": 178
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\banded_gecko_s_000326.png",
+      "mean_similarity": 0.9379291534423828,
+      "rank": 179
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\gecko_s_000606.png",
+      "mean_similarity": 0.9379243850708008,
+      "rank": 180
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\gecko_s_001244.png",
+      "mean_similarity": 0.9379145503044128,
+      "rank": 181
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\banded_gecko_s_000638.png",
+      "mean_similarity": 0.9378892779350281,
+      "rank": 182
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\banded_gecko_s_000272.png",
+      "mean_similarity": 0.9377649426460266,
+      "rank": 183
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\lizard_s_000717.png",
+      "mean_similarity": 0.9377617835998535,
+      "rank": 184
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\gecko_s_000063.png",
+      "mean_similarity": 0.9377545714378357,
+      "rank": 185
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\lizard_s_000917.png",
+      "mean_similarity": 0.9377240538597107,
+      "rank": 186
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\gecko_s_001652.png",
+      "mean_similarity": 0.9376958608627319,
+      "rank": 187
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\iguana_s_000480.png",
+      "mean_similarity": 0.9376012682914734,
+      "rank": 188
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\banded_gecko_s_000580.png",
+      "mean_similarity": 0.937573254108429,
+      "rank": 189
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\gecko_s_002395.png",
+      "mean_similarity": 0.937556266784668,
+      "rank": 190
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\lizard_s_002141.png",
+      "mean_similarity": 0.9375274181365967,
+      "rank": 191
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\lizard_s_002085.png",
+      "mean_similarity": 0.9375113844871521,
+      "rank": 192
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\lizard_s_000936.png",
+      "mean_similarity": 0.9375080466270447,
+      "rank": 193
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\lizard_s_001771.png",
+      "mean_similarity": 0.9374617338180542,
+      "rank": 194
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\lizard_s_001499.png",
+      "mean_similarity": 0.9374525547027588,
+      "rank": 195
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\flying_gecko_s_000009.png",
+      "mean_similarity": 0.9374375343322754,
+      "rank": 196
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\gecko_s_001719.png",
+      "mean_similarity": 0.937433660030365,
+      "rank": 197
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\lizard_s_001934.png",
+      "mean_similarity": 0.9374253749847412,
+      "rank": 198
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\gecko_s_001854.png",
+      "mean_similarity": 0.9374132752418518,
+      "rank": 199
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\gecko_s_000295.png",
+      "mean_similarity": 0.937412679195404,
+      "rank": 200
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\iguanid_s_000050.png",
+      "mean_similarity": 0.9373973608016968,
+      "rank": 201
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\gecko_s_000123.png",
+      "mean_similarity": 0.9373911023139954,
+      "rank": 202
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\banded_gecko_s_000807.png",
+      "mean_similarity": 0.9373866319656372,
+      "rank": 203
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\lizard_s_002166.png",
+      "mean_similarity": 0.9373634457588196,
+      "rank": 204
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\lizard_s_001189.png",
+      "mean_similarity": 0.9373538494110107,
+      "rank": 205
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\gecko_s_000955.png",
+      "mean_similarity": 0.9373259544372559,
+      "rank": 206
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\banded_gecko_s_000531.png",
+      "mean_similarity": 0.9373145699501038,
+      "rank": 207
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\banded_gecko_s_000323.png",
+      "mean_similarity": 0.9373123645782471,
+      "rank": 208
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\gecko_s_002442.png",
+      "mean_similarity": 0.937268853187561,
+      "rank": 209
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\gecko_s_001483.png",
+      "mean_similarity": 0.9372462630271912,
+      "rank": 210
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\gecko_s_000412.png",
+      "mean_similarity": 0.9372294545173645,
+      "rank": 211
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\banded_gecko_s_000007.png",
+      "mean_similarity": 0.937226414680481,
+      "rank": 212
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\gecko_s_000385.png",
+      "mean_similarity": 0.9371132254600525,
+      "rank": 213
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\banded_gecko_s_001108.png",
+      "mean_similarity": 0.9370642304420471,
+      "rank": 214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\gecko_s_002104.png",
+      "mean_similarity": 0.9370445609092712,
+      "rank": 215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\lizard_s_002303.png",
+      "mean_similarity": 0.9370200037956238,
+      "rank": 216
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\banded_gecko_s_001042.png",
+      "mean_similarity": 0.9370177388191223,
+      "rank": 217
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\lizard_s_000022.png",
+      "mean_similarity": 0.9368994832038879,
+      "rank": 218
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\gecko_s_000697.png",
+      "mean_similarity": 0.936880350112915,
+      "rank": 219
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\lizard_s_001341.png",
+      "mean_similarity": 0.9368798732757568,
+      "rank": 220
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\iguanid_s_000027.png",
+      "mean_similarity": 0.9368689060211182,
+      "rank": 221
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\iguana_s_000552.png",
+      "mean_similarity": 0.9368473291397095,
+      "rank": 222
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\lizard_s_001741.png",
+      "mean_similarity": 0.9368351101875305,
+      "rank": 223
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\gecko_s_001983.png",
+      "mean_similarity": 0.936805009841919,
+      "rank": 224
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\gecko_s_000263.png",
+      "mean_similarity": 0.9367426633834839,
+      "rank": 225
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\banded_gecko_s_000747.png",
+      "mean_similarity": 0.9367347955703735,
+      "rank": 226
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\lizard_s_000564.png",
+      "mean_similarity": 0.9367181062698364,
+      "rank": 227
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\gecko_s_001947.png",
+      "mean_similarity": 0.9367005825042725,
+      "rank": 228
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\lizard_s_001080.png",
+      "mean_similarity": 0.9366525411605835,
+      "rank": 229
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\banded_gecko_s_000935.png",
+      "mean_similarity": 0.9366488456726074,
+      "rank": 230
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\gecko_s_001485.png",
+      "mean_similarity": 0.9366036057472229,
+      "rank": 231
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\lizard_s_000329.png",
+      "mean_similarity": 0.93657386302948,
+      "rank": 232
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\iguana_s_000202.png",
+      "mean_similarity": 0.9365657567977905,
+      "rank": 233
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\lizard_s_000718.png",
+      "mean_similarity": 0.9364140629768372,
+      "rank": 234
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\gecko_s_000506.png",
+      "mean_similarity": 0.936405599117279,
+      "rank": 235
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\flying_gecko_s_000181.png",
+      "mean_similarity": 0.9363892674446106,
+      "rank": 236
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\gecko_s_000668.png",
+      "mean_similarity": 0.9363687038421631,
+      "rank": 237
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\gecko_s_000423.png",
+      "mean_similarity": 0.9363461136817932,
+      "rank": 238
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\gecko_s_000346.png",
+      "mean_similarity": 0.9363342523574829,
+      "rank": 239
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\gecko_s_001482.png",
+      "mean_similarity": 0.9363079071044922,
+      "rank": 240
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\lizard_s_000689.png",
+      "mean_similarity": 0.9363043308258057,
+      "rank": 241
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\banded_gecko_s_000080.png",
+      "mean_similarity": 0.9362108111381531,
+      "rank": 242
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\flying_gecko_s_000103.png",
+      "mean_similarity": 0.9361714124679565,
+      "rank": 243
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\gecko_s_000229.png",
+      "mean_similarity": 0.9361701011657715,
+      "rank": 244
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\gecko_s_001082.png",
+      "mean_similarity": 0.9360555410385132,
+      "rank": 245
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\gecko_s_002056.png",
+      "mean_similarity": 0.9359925985336304,
+      "rank": 246
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\banded_gecko_s_000670.png",
+      "mean_similarity": 0.9358481168746948,
+      "rank": 247
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\lizard_s_000345.png",
+      "mean_similarity": 0.9358389377593994,
+      "rank": 248
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\iguana_s_000844.png",
+      "mean_similarity": 0.9358096122741699,
+      "rank": 249
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\045.lizard\\lizard_s_001462.png",
+      "mean_similarity": 0.9357473254203796,
+      "rank": 250
+    }
+  ]
+}

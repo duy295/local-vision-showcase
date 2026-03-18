@@ -1,0 +1,25 @@
+{
+  "class_name": "aquarium fish",
+  "global_description": "Small to medium-sized aquatic creature with a streamlined body, vibrant colors, and smooth scales. Often features fins and a tail for swimming, with a variety of patterns and hues, typically found in glass tanks.",
+  "discriminative_attributes": [
+    "Streamlined body",
+    "Vibrant colors",
+    "Smooth scales",
+    "Fins and tail",
+    "Variety of patterns"
+  ],
+  "part_details": {
+    "body": "Streamlined with smooth scales, often vibrant in color",
+    "fins": "Thin, often translucent, aiding in swimming",
+    "tail": "Fan-like, providing propulsion",
+    "scales": "Smooth, covering the entire body",
+    "patterns": "Varied, including stripes, spots, or gradients"
+  },
+  "spatial_relations": [
+    "Fins positioned along sides and top of body",
+    "Tail extends from rear of body",
+    "Scales cover entire body surface"
+  ],
+  "original_dataset_key": "cifar100",
+  "original_class_key": "aquarium_fish"
+}

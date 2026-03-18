@@ -1,0 +1,26 @@
+{
+  "class_name": "Barn Swallow",
+  "global_description": "A small, sleek bird with a streamlined body and long, pointed wings. It features a glossy blue-black upper body and a contrasting reddish-brown throat and forehead. The underparts are pale with a buff hue, and the tail is deeply forked, enhancing its agile flight.",
+  "discriminative_attributes": [
+    "Glossy blue-black upper body",
+    "Reddish-brown throat and forehead",
+    "Pale buff underparts",
+    "Deeply forked tail",
+    "Long, pointed wings"
+  ],
+  "part_details": {
+    "upper_body": "Glossy blue-black, smooth and sleek, covering the back and wings.",
+    "throat": "Reddish-brown, distinct against the darker upper body.",
+    "forehead": "Reddish-brown, blending into the crown.",
+    "underparts": "Pale buff, smooth texture, covering the belly and chest.",
+    "tail": "Deeply forked, long and narrow, enhancing aerodynamic shape.",
+    "wings": "Long, pointed, and slender, aiding in swift flight."
+  },
+  "spatial_relations": [
+    "The reddish-brown throat is positioned below the blue-black head.",
+    "The deeply forked tail extends from the rear of the body.",
+    "The long wings are attached to the sides of the streamlined body."
+  ],
+  "original_dataset_key": "CUB200",
+  "original_class_key": "barn_swallow"
+}

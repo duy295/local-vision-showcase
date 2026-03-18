@@ -1,0 +1,26 @@
+{
+  "class_name": "Bird",
+  "global_description": "A small, slender songbird with a streamlined body and a short, slightly hooked bill. It features olive-green upperparts and white underparts with a distinctive red eye. The wings and tail are short and rounded, and the bird has a smooth, sleek texture.",
+  "discriminative_attributes": [
+    "Olive-green upperparts",
+    "White underparts",
+    "Red eye",
+    "Short, slightly hooked bill",
+    "Short, rounded wings"
+  ],
+  "part_details": {
+    "head": "Small and rounded with a red eye and a short, slightly hooked bill.",
+    "upperparts": "Olive-green, smooth and sleek.",
+    "underparts": "White, contrasting with the darker upperparts.",
+    "wings": "Short and rounded, matching the olive-green upperparts.",
+    "tail": "Short and rounded, continuing the olive-green coloration."
+  },
+  "spatial_relations": [
+    "The red eye is set prominently on the small rounded head.",
+    "The short bill is positioned at the front of the head.",
+    "The wings are attached to the sides of the body, short and rounded.",
+    "The tail extends from the rear of the body, short and rounded."
+  ],
+  "original_dataset_key": "CUB200",
+  "original_class_key": "red_eyed_vireo"
+}

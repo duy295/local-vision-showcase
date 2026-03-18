@@ -1,0 +1,25 @@
+{
+  "class_name": "Bird",
+  "global_description": "A medium-sized bird with a distinctive elongated body and a prominent crest. It features a striking black and white plumage with a vibrant red crest. The bird has a long, chisel-like bill and a strong, sturdy tail used for support against tree trunks.",
+  "discriminative_attributes": [
+    "Vibrant red crest",
+    "Black and white plumage",
+    "Long chisel-like bill",
+    "Strong tail for support",
+    "White stripes on face"
+  ],
+  "part_details": {
+    "crest": "Bright red, triangular, and prominent on top of the head.",
+    "plumage": "Predominantly black with white stripes on the face and neck.",
+    "bill": "Long, straight, and chisel-like, ideal for pecking wood.",
+    "tail": "Strong and stiff, black, used for bracing against trees.",
+    "wings": "Broad and black with white underwing patches."
+  },
+  "spatial_relations": [
+    "The red crest is positioned on top of the head.",
+    "The long bill extends forward from the face.",
+    "The strong tail is positioned at the rear, used for support."
+  ],
+  "original_dataset_key": "CUB200",
+  "original_class_key": "pileated_woodpecker"
+}

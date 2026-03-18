@@ -1,0 +1,26 @@
+{
+  "class_name": "duck",
+  "global_description": "Medium-sized waterfowl with a broad, flat bill and webbed feet. Feathers are often a mix of brown, white, and iridescent green or blue. The body is rounded with a short neck and a slightly elongated tail. The texture of the feathers is smooth and water-repellent.",
+  "discriminative_attributes": [
+    "Broad flat bill",
+    "Webbed feet",
+    "Iridescent green or blue feathers",
+    "Rounded body",
+    "Short neck"
+  ],
+  "part_details": {
+    "head": "Rounded with a broad, flat bill, often featuring iridescent feathers.",
+    "body": "Rounded with smooth, water-repellent feathers, typically brown or white.",
+    "bill": "Broad and flat, suitable for dabbling in water.",
+    "feet": "Webbed, adapted for swimming.",
+    "tail": "Slightly elongated, often with a slight upward curve."
+  },
+  "spatial_relations": [
+    "Bill at front of head",
+    "Neck connects head to body",
+    "Feet beneath body",
+    "Tail extends from rear"
+  ],
+  "original_dataset_key": "ImageNetR",
+  "original_class_key": "duck"
+}

@@ -1,0 +1,25 @@
+{
+  "class_name": "orange",
+  "global_description": "A spherical fruit with a bright orange peel, slightly rough texture, and a juicy interior divided into segments. The peel is thick and can be easily removed to reveal the sweet, juicy flesh inside. The fruit is medium-sized, fitting comfortably in the palm of a hand.",
+  "discriminative_attributes": [
+    "Bright orange color",
+    "Spherical shape",
+    "Thick, rough peel",
+    "Segmented juicy interior",
+    "Medium size"
+  ],
+  "part_details": {
+    "peel": "Thick, bright orange with a slightly rough texture",
+    "interior": "Juicy, sweet, divided into segments",
+    "segments": "Individual sections of juicy flesh",
+    "stem": "Small, often green, at the top",
+    "seeds": "Small, hard, found within segments"
+  },
+  "spatial_relations": [
+    "Peel covers the entire fruit",
+    "Segments arranged in a circular pattern inside",
+    "Stem located at the top of the fruit"
+  ],
+  "original_dataset_key": "cifar100",
+  "original_class_key": "orange"
+}

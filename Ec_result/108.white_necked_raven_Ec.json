@@ -1,0 +1,454 @@
+{
+  "class_name": "White necked Raven",
+  "class_idx": 108,
+  "class_folder": "108.White_necked_Raven",
+  "num_images_in_class": 10,
+  "ec_size_requested": 30,
+  "ec_size_actual": 40,
+  "num_fewshot": 10,
+  "num_synthesized": 30,
+  "fewshot_emphasis_weight": 3.0,
+  "hybrid_lambda": 0.6,
+  "related_base_classes": [
+    {
+      "class_key": "american_crow",
+      "relevance_score": 5.4605
+    },
+    {
+      "class_key": "fish_crow",
+      "relevance_score": 4.7704
+    },
+    {
+      "class_key": "boat_tailed_grackle",
+      "relevance_score": 4.6768
+    },
+    {
+      "class_key": "groove_billed_ani",
+      "relevance_score": 3.693
+    },
+    {
+      "class_key": "pied_kingfisher",
+      "relevance_score": 3.4807
+    },
+    {
+      "class_key": "bobolink",
+      "relevance_score": 3.1578
+    },
+    {
+      "class_key": "shiny_cowbird",
+      "relevance_score": 2.8922
+    },
+    {
+      "class_key": "blue_grosbeak",
+      "relevance_score": 2.2809
+    },
+    {
+      "class_key": "white_breasted_nuthatch",
+      "relevance_score": 1.8579
+    },
+    {
+      "class_key": "rusty_blackbird",
+      "relevance_score": 1.7336
+    }
+  ],
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\Incremental class - Copy\\108.White_necked_Raven\\White_Necked_Raven_0045_797381.jpg",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 1,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\Incremental class - Copy\\108.White_necked_Raven\\White_Necked_Raven_0004_102714.jpg",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 2,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\Incremental class - Copy\\108.White_necked_Raven\\White_Necked_Raven_0001_797384.jpg",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 3,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\Incremental class - Copy\\108.White_necked_Raven\\White_Necked_Raven_0053_797360.jpg",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 4,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\Incremental class - Copy\\108.White_necked_Raven\\White_Necked_Raven_0020_102730.jpg",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 5,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\Incremental class - Copy\\108.White_necked_Raven\\White_Necked_Raven_0018_102746.jpg",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 6,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\Incremental class - Copy\\108.White_necked_Raven\\White_Necked_Raven_0055_797352.jpg",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 7,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\Incremental class - Copy\\108.White_necked_Raven\\White_Necked_Raven_0007_102676.jpg",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 8,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\Incremental class - Copy\\108.White_necked_Raven\\White_Necked_Raven_0068_102610.jpg",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 9,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\Incremental class - Copy\\108.White_necked_Raven\\White_Necked_Raven_0041_797394.jpg",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 10,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\004.Groove_billed_Ani\\Groove_Billed_Ani_0056_1493.jpg",
+      "mean_similarity": 0.979215,
+      "rank": 11,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\011.Rusty_Blackbird\\Rusty_Blackbird_0011_7028.jpg",
+      "mean_similarity": 0.979215,
+      "rank": 12,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\030.Fish_Crow\\Fish_Crow_0058_25999.jpg",
+      "mean_similarity": 0.979215,
+      "rank": 13,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\049.Boat_tailed_Grackle\\Boat_Tailed_Grackle_0017_33480.jpg",
+      "mean_similarity": 0.979215,
+      "rank": 14,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\004.Groove_billed_Ani\\Groove_Billed_Ani_0015_1653.jpg",
+      "mean_similarity": 0.979215,
+      "rank": 15,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\030.Fish_Crow\\Fish_Crow_0005_25912.jpg",
+      "mean_similarity": 0.979215,
+      "rank": 16,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\027.Shiny_Cowbird\\Shiny_Cowbird_0019_24323.jpg",
+      "mean_similarity": 0.979215,
+      "rank": 17,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\004.Groove_billed_Ani\\Groove_Billed_Ani_0051_1650.jpg",
+      "mean_similarity": 0.979215,
+      "rank": 18,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\049.Boat_tailed_Grackle\\Boat_Tailed_Grackle_0100_33985.jpg",
+      "mean_similarity": 0.979215,
+      "rank": 19,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\030.Fish_Crow\\Fish_Crow_0060_26016.jpg",
+      "mean_similarity": 0.979215,
+      "rank": 20,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\004.Groove_billed_Ani\\Groove_Billed_Ani_0071_1559.jpg",
+      "mean_similarity": 0.979215,
+      "rank": 21,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\004.Groove_billed_Ani\\Groove_Billed_Ani_0076_1661.jpg",
+      "mean_similarity": 0.979215,
+      "rank": 22,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\029.American_Crow\\American_Crow_0012_25305.jpg",
+      "mean_similarity": 0.979215,
+      "rank": 23,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\004.Groove_billed_Ani\\Groove_Billed_Ani_0065_1502.jpg",
+      "mean_similarity": 0.979215,
+      "rank": 24,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\004.Groove_billed_Ani\\Groove_Billed_Ani_0007_1615.jpg",
+      "mean_similarity": 0.979215,
+      "rank": 25,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\027.Shiny_Cowbird\\Shiny_Cowbird_0083_796834.jpg",
+      "mean_similarity": 0.979215,
+      "rank": 26,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\011.Rusty_Blackbird\\Rusty_Blackbird_0122_6736.jpg",
+      "mean_similarity": 0.979215,
+      "rank": 27,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\004.Groove_billed_Ani\\Groove_Billed_Ani_0091_1728.jpg",
+      "mean_similarity": 0.9792149000000001,
+      "rank": 28,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\011.Rusty_Blackbird\\Rusty_Blackbird_0073_6744.jpg",
+      "mean_similarity": 0.9792149000000001,
+      "rank": 29,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\030.Fish_Crow\\Fish_Crow_0083_25949.jpg",
+      "mean_similarity": 0.9792149000000001,
+      "rank": 30,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\030.Fish_Crow\\Fish_Crow_0081_25908.jpg",
+      "mean_similarity": 0.9792149000000001,
+      "rank": 31,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\049.Boat_tailed_Grackle\\Boat_Tailed_Grackle_0068_33387.jpg",
+      "mean_similarity": 0.9792149000000001,
+      "rank": 32,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\049.Boat_tailed_Grackle\\Boat_Tailed_Grackle_0113_33490.jpg",
+      "mean_similarity": 0.9792149000000001,
+      "rank": 33,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\029.American_Crow\\American_Crow_0111_25127.jpg",
+      "mean_similarity": 0.9792149000000001,
+      "rank": 34,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\027.Shiny_Cowbird\\Shiny_Cowbird_0086_24386.jpg",
+      "mean_similarity": 0.9792149000000001,
+      "rank": 35,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\011.Rusty_Blackbird\\Rusty_Blackbird_0114_6760.jpg",
+      "mean_similarity": 0.9792149000000001,
+      "rank": 36,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\030.Fish_Crow\\Fish_Crow_0016_25854.jpg",
+      "mean_similarity": 0.9792149000000001,
+      "rank": 37,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\004.Groove_billed_Ani\\Groove_Billed_Ani_0058_1751.jpg",
+      "mean_similarity": 0.9792149000000001,
+      "rank": 38,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\011.Rusty_Blackbird\\Rusty_Blackbird_0009_6853.jpg",
+      "mean_similarity": 0.9792149000000001,
+      "rank": 39,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\004.Groove_billed_Ani\\Groove_Billed_Ani_0012_1784.jpg",
+      "mean_similarity": 0.9792147999999999,
+      "rank": 40,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    }
+  ],
+  "debug": {
+    "total_candidates": 165,
+    "after_voting": 165,
+    "after_dedup": 30,
+    "dedup_mode": "backbone",
+    "top_segments": [
+      {
+        "class": "029.American_Crow",
+        "seg": 3,
+        "hybrid": 1.3704,
+        "magnitude": 9.7922,
+        "borda": 482.0
+      },
+      {
+        "class": "004.Groove_billed_Ani",
+        "seg": 1,
+        "hybrid": 1.1523,
+        "magnitude": 9.7921,
+        "borda": 442.0
+      },
+      {
+        "class": "011.Rusty_Blackbird",
+        "seg": 2,
+        "hybrid": 1.1464,
+        "magnitude": 9.7921,
+        "borda": 440.0
+      },
+      {
+        "class": "030.Fish_Crow",
+        "seg": 2,
+        "hybrid": 1.0789,
+        "magnitude": 9.7921,
+        "borda": 451.0
+      },
+      {
+        "class": "049.Boat_tailed_Grackle",
+        "seg": 0,
+        "hybrid": 1.0494,
+        "magnitude": 9.7921,
+        "borda": 441.0
+      },
+      {
+        "class": "030.Fish_Crow",
+        "seg": 4,
+        "hybrid": 0.9932,
+        "magnitude": 9.7921,
+        "borda": 422.0
+      },
+      {
+        "class": "049.Boat_tailed_Grackle",
+        "seg": 4,
+        "hybrid": 0.9637,
+        "magnitude": 9.7921,
+        "borda": 412.0
+      },
+      {
+        "class": "004.Groove_billed_Ani",
+        "seg": 2,
+        "hybrid": 0.9548,
+        "magnitude": 9.7921,
+        "borda": 409.0
+      },
+      {
+        "class": "004.Groove_billed_Ani",
+        "seg": 3,
+        "hybrid": 0.9312,
+        "magnitude": 9.7921,
+        "borda": 401.0
+      },
+      {
+        "class": "030.Fish_Crow",
+        "seg": 0,
+        "hybrid": 0.9016,
+        "magnitude": 9.7921,
+        "borda": 391.0
+      }
+    ]
+  }
+}

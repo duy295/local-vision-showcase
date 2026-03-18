@@ -1,0 +1,159 @@
+{
+  "class_name": "038.Great_Crested_Flycatcher",
+  "class_idx": 37,
+  "num_images_in_class": 30,
+  "ec_size_requested": 30,
+  "ec_size_actual": 30,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\038.Great_Crested_Flycatcher\\Great_Crested_Flycatcher_0027_29532.jpg",
+      "mean_similarity": 0.9423789978027344,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\038.Great_Crested_Flycatcher\\Great_Crested_Flycatcher_0084_29716.jpg",
+      "mean_similarity": 0.9421958923339844,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\038.Great_Crested_Flycatcher\\Great_Crested_Flycatcher_0050_29786.jpg",
+      "mean_similarity": 0.9418269395828247,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\038.Great_Crested_Flycatcher\\Great_Crested_Flycatcher_0068_29416.jpg",
+      "mean_similarity": 0.9417481422424316,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\038.Great_Crested_Flycatcher\\Great_Crested_Flycatcher_0019_29801.jpg",
+      "mean_similarity": 0.9415960311889648,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\038.Great_Crested_Flycatcher\\Great_Crested_Flycatcher_0092_29583.jpg",
+      "mean_similarity": 0.9412661790847778,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\038.Great_Crested_Flycatcher\\Great_Crested_Flycatcher_0023_29481.jpg",
+      "mean_similarity": 0.9411787986755371,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\038.Great_Crested_Flycatcher\\Great_Crested_Flycatcher_0085_29812.jpg",
+      "mean_similarity": 0.9408359527587891,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\038.Great_Crested_Flycatcher\\Great_Crested_Flycatcher_0105_29456.jpg",
+      "mean_similarity": 0.9406685829162598,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\038.Great_Crested_Flycatcher\\Great_Crested_Flycatcher_0070_29455.jpg",
+      "mean_similarity": 0.9393045902252197,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\038.Great_Crested_Flycatcher\\Great_Crested_Flycatcher_0082_29445.jpg",
+      "mean_similarity": 0.9389103651046753,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\038.Great_Crested_Flycatcher\\Great_Crested_Flycatcher_0038_29533.jpg",
+      "mean_similarity": 0.938823938369751,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\038.Great_Crested_Flycatcher\\Great_Crested_Flycatcher_0040_29447.jpg",
+      "mean_similarity": 0.9383901357650757,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\038.Great_Crested_Flycatcher\\Great_Crested_Flycatcher_0108_29712.jpg",
+      "mean_similarity": 0.9361740350723267,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\038.Great_Crested_Flycatcher\\Great_Crested_Flycatcher_0099_29305.jpg",
+      "mean_similarity": 0.9335891604423523,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\038.Great_Crested_Flycatcher\\Great_Crested_Flycatcher_0066_29488.jpg",
+      "mean_similarity": 0.9334797859191895,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\038.Great_Crested_Flycatcher\\Great_Crested_Flycatcher_0089_29592.jpg",
+      "mean_similarity": 0.9313279390335083,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\038.Great_Crested_Flycatcher\\Great_Crested_Flycatcher_0107_29501.jpg",
+      "mean_similarity": 0.9311885833740234,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\038.Great_Crested_Flycatcher\\Great_Crested_Flycatcher_0136_29490.jpg",
+      "mean_similarity": 0.9310591220855713,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\038.Great_Crested_Flycatcher\\Great_Crested_Flycatcher_0009_29831.jpg",
+      "mean_similarity": 0.9295971393585205,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\038.Great_Crested_Flycatcher\\Great_Crested_Flycatcher_0006_29362.jpg",
+      "mean_similarity": 0.9291198253631592,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\038.Great_Crested_Flycatcher\\Great_Crested_Flycatcher_0086_29518.jpg",
+      "mean_similarity": 0.9284136295318604,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\038.Great_Crested_Flycatcher\\Great_Crested_Flycatcher_0087_29252.jpg",
+      "mean_similarity": 0.9283962249755859,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\038.Great_Crested_Flycatcher\\Great_Crested_Flycatcher_0048_29586.jpg",
+      "mean_similarity": 0.9276672005653381,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\038.Great_Crested_Flycatcher\\Great_Crested_Flycatcher_0067_29384.jpg",
+      "mean_similarity": 0.925433874130249,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\038.Great_Crested_Flycatcher\\Great_Crested_Flycatcher_0049_29474.jpg",
+      "mean_similarity": 0.924959659576416,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\038.Great_Crested_Flycatcher\\Great_Crested_Flycatcher_0004_29701.jpg",
+      "mean_similarity": 0.9215298891067505,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\038.Great_Crested_Flycatcher\\Great_Crested_Flycatcher_0058_29523.jpg",
+      "mean_similarity": 0.9125056862831116,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\038.Great_Crested_Flycatcher\\Great_Crested_Flycatcher_0069_29603.jpg",
+      "mean_similarity": 0.9100181460380554,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\038.Great_Crested_Flycatcher\\Great_Crested_Flycatcher_0063_29507.jpg",
+      "mean_similarity": 0.8952178955078125,
+      "rank": 30
+    }
+  ]
+}

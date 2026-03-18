@@ -1,0 +1,25 @@
+{
+  "class_name": "Bird",
+  "global_description": "A small, compact bird with a conical beak and a vibrant yellow body. It features black wings and tail with white markings. The bird's texture is smooth with a glossy appearance, and it has a distinctive black cap on its head.",
+  "discriminative_attributes": [
+    "Vibrant yellow body",
+    "Black wings with white markings",
+    "Conical beak",
+    "Black tail",
+    "Distinctive black cap on head"
+  ],
+  "part_details": {
+    "body": "Bright yellow, smooth and glossy texture.",
+    "wings": "Black with white markings, sleek and pointed.",
+    "tail": "Black, short and slightly forked.",
+    "head": "Yellow with a distinctive black cap.",
+    "beak": "Short, conical, and pointed."
+  },
+  "spatial_relations": [
+    "The black cap covers the top of the head.",
+    "The wings are attached to the sides of the yellow body.",
+    "The tail extends from the rear of the body."
+  ],
+  "original_dataset_key": "CUB200",
+  "original_class_key": "american_goldfinch"
+}

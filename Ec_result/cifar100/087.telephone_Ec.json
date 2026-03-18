@@ -1,0 +1,454 @@
+{
+  "class_name": "telephone",
+  "class_idx": 87,
+  "class_folder": "087.telephone",
+  "num_images_in_class": 10,
+  "ec_size_requested": 30,
+  "ec_size_actual": 40,
+  "num_fewshot": 10,
+  "num_synthesized": 30,
+  "fewshot_emphasis_weight": 3.0,
+  "hybrid_lambda": 0.6,
+  "related_base_classes": [
+    {
+      "class_key": "bottle",
+      "relevance_score": 3.9858
+    },
+    {
+      "class_key": "keyboard",
+      "relevance_score": 3.8125
+    },
+    {
+      "class_key": "clock",
+      "relevance_score": 3.4734
+    },
+    {
+      "class_key": "can",
+      "relevance_score": 3.1501
+    },
+    {
+      "class_key": "lamp",
+      "relevance_score": 2.9314
+    },
+    {
+      "class_key": "motorcycle",
+      "relevance_score": 2.7789
+    },
+    {
+      "class_key": "mouse",
+      "relevance_score": 2.7697
+    },
+    {
+      "class_key": "lawn_mower",
+      "relevance_score": 2.7526
+    },
+    {
+      "class_key": "pickup_truck",
+      "relevance_score": 2.2411
+    },
+    {
+      "class_key": "cup",
+      "relevance_score": 2.0114
+    }
+  ],
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\images\\087.telephone\\desk_phone_s_000007.png",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 1,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979728
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\images\\087.telephone\\desk_phone_s_000009.png",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 2,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979729
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\images\\087.telephone\\desk_phone_s_000012.png",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 3,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979728
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\images\\087.telephone\\desk_phone_s_000022.png",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 4,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979728
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\images\\087.telephone\\desk_phone_s_000023.png",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 5,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979729
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\images\\087.telephone\\desk_phone_s_000024.png",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 6,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979729
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\images\\087.telephone\\desk_phone_s_000025.png",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 7,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979729
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\images\\087.telephone\\desk_phone_s_000028.png",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 8,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979729
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\images\\087.telephone\\desk_phone_s_000034.png",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 9,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979729
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\images\\087.telephone\\desk_phone_s_000035.png",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 10,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979729
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\lamp_s_001116.png",
+      "mean_similarity": 0.9797285000000001,
+      "rank": 11,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979728
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\computer_keyboard_s_001248.png",
+      "mean_similarity": 0.9797283000000001,
+      "rank": 12,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979728
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\029.cup\\goblet_s_001232.png",
+      "mean_similarity": 0.9797283000000001,
+      "rank": 13,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979728
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\discharge_lamp_s_000675.png",
+      "mean_similarity": 0.9797283000000001,
+      "rank": 14,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979728
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\discharge_lamp_s_000342.png",
+      "mean_similarity": 0.9797283000000001,
+      "rank": 15,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979728
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\029.cup\\goblet_s_000026.png",
+      "mean_similarity": 0.9797281,
+      "rank": 16,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979728
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\clavier_s_000565.png",
+      "mean_similarity": 0.9797280000000002,
+      "rank": 17,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979728
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\electric_lamp_s_000222.png",
+      "mean_similarity": 0.9797280000000002,
+      "rank": 18,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979728
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\029.cup\\goblet_s_000764.png",
+      "mean_similarity": 0.9797279,
+      "rank": 19,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979728
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\lamp_s_001651.png",
+      "mean_similarity": 0.9797278,
+      "rank": 20,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979728
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\029.cup\\beaker_s_000692.png",
+      "mean_similarity": 0.9797278,
+      "rank": 21,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979728
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\electric_lamp_s_000109.png",
+      "mean_similarity": 0.9797277,
+      "rank": 22,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979728
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\electric_lamp_s_000648.png",
+      "mean_similarity": 0.9797277,
+      "rank": 23,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979728
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\029.cup\\goblet_s_000793.png",
+      "mean_similarity": 0.9797277,
+      "rank": 24,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979728
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\029.cup\\goblet_s_000020.png",
+      "mean_similarity": 0.9797277,
+      "rank": 25,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979728
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\042.lawn_mower\\motor_mower_s_000662.png",
+      "mean_similarity": 0.9797277,
+      "rank": 26,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979728
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\keyboard_s_001542.png",
+      "mean_similarity": 0.9797276,
+      "rank": 27,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979728
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\alarm_clock_s_000894.png",
+      "mean_similarity": 0.9797276,
+      "rank": 28,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979728
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\alarm_clock_s_000447.png",
+      "mean_similarity": 0.9797276,
+      "rank": 29,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979728
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\alarm_clock_s_000141.png",
+      "mean_similarity": 0.9797276,
+      "rank": 30,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979728
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\029.cup\\goblet_s_000996.png",
+      "mean_similarity": 0.9797276,
+      "rank": 31,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979728
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\rushlight_s_000560.png",
+      "mean_similarity": 0.9797276,
+      "rank": 32,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979728
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\rushlight_s_000150.png",
+      "mean_similarity": 0.9797276,
+      "rank": 33,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979728
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\023.clock\\alarm_clock_s_000744.png",
+      "mean_similarity": 0.9797276,
+      "rank": 34,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979728
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\029.cup\\goblet_s_000219.png",
+      "mean_similarity": 0.9797276,
+      "rank": 35,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979727
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\keyboard_s_001558.png",
+      "mean_similarity": 0.9797276,
+      "rank": 36,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979728
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\keyboard_s_000968.png",
+      "mean_similarity": 0.9797276,
+      "rank": 37,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979728
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\029.cup\\goblet_s_000950.png",
+      "mean_similarity": 0.9797275000000001,
+      "rank": 38,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979727
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\041.lamp\\electric_lamp_s_000434.png",
+      "mean_similarity": 0.9797275000000001,
+      "rank": 39,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979727
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\029.cup\\goblet_s_001600.png",
+      "mean_similarity": 0.9797275000000001,
+      "rank": 40,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979728
+    }
+  ],
+  "debug": {
+    "total_candidates": 200,
+    "after_voting": 200,
+    "after_dedup": 30,
+    "dedup_mode": "backbone",
+    "top_segments": [
+      {
+        "class": "keyboard",
+        "seg": 0,
+        "hybrid": 1.5959,
+        "magnitude": 9.7973,
+        "borda": 495.0
+      },
+      {
+        "class": "lamp",
+        "seg": 2,
+        "hybrid": 1.4789,
+        "magnitude": 9.7973,
+        "borda": 488.0
+      },
+      {
+        "class": "cup",
+        "seg": 0,
+        "hybrid": 1.4621,
+        "magnitude": 9.7973,
+        "borda": 482.0
+      },
+      {
+        "class": "lamp",
+        "seg": 3,
+        "hybrid": 1.3116,
+        "magnitude": 9.7973,
+        "borda": 463.0
+      },
+      {
+        "class": "clock",
+        "seg": 3,
+        "hybrid": 1.2573,
+        "magnitude": 9.7973,
+        "borda": 461.0
+      },
+      {
+        "class": "lamp",
+        "seg": 0,
+        "hybrid": 1.1862,
+        "magnitude": 9.7973,
+        "borda": 453.0
+      },
+      {
+        "class": "cup",
+        "seg": 1,
+        "hybrid": 1.0761,
+        "magnitude": 9.7973,
+        "borda": 431.0
+      },
+      {
+        "class": "cup",
+        "seg": 4,
+        "hybrid": 1.0106,
+        "magnitude": 9.7973,
+        "borda": 425.0
+      },
+      {
+        "class": "lamp",
+        "seg": 1,
+        "hybrid": 1.005,
+        "magnitude": 9.7973,
+        "borda": 423.0
+      },
+      {
+        "class": "keyboard",
+        "seg": 1,
+        "hybrid": 0.9339,
+        "magnitude": 9.7973,
+        "borda": 415.0
+      }
+    ]
+  }
+}

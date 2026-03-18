@@ -1,0 +1,1259 @@
+{
+  "class_name": "girl",
+  "class_idx": 35,
+  "num_images_in_class": 500,
+  "ec_size_requested": 250,
+  "ec_size_actual": 250,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\little_girl_s_000096.png",
+      "mean_similarity": 0.9412602782249451,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\chachka_s_000034.png",
+      "mean_similarity": 0.9411473274230957,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\young_lady_s_000062.png",
+      "mean_similarity": 0.9402694702148438,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\girl_s_001629.png",
+      "mean_similarity": 0.9399675726890564,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\young_girl_s_001342.png",
+      "mean_similarity": 0.9398212432861328,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\girl_s_001137.png",
+      "mean_similarity": 0.939812183380127,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\girl_s_001372.png",
+      "mean_similarity": 0.9395236372947693,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\little_girl_s_001446.png",
+      "mean_similarity": 0.9395062923431396,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\little_girl_s_000018.png",
+      "mean_similarity": 0.9394114017486572,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\ring_girl_s_000140.png",
+      "mean_similarity": 0.9392750263214111,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\young_girl_s_001584.png",
+      "mean_similarity": 0.939268946647644,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\young_girl_s_000044.png",
+      "mean_similarity": 0.9390531182289124,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\little_girl_s_000266.png",
+      "mean_similarity": 0.939041018486023,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\female_child_s_001502.png",
+      "mean_similarity": 0.9389880895614624,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\female_child_s_001132.png",
+      "mean_similarity": 0.9389103055000305,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\sister_s_000398.png",
+      "mean_similarity": 0.9388598203659058,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\young_girl_s_001061.png",
+      "mean_similarity": 0.9387390613555908,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\girl_s_001333.png",
+      "mean_similarity": 0.938730001449585,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\young_girl_s_000627.png",
+      "mean_similarity": 0.9387140870094299,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\young_lady_s_000104.png",
+      "mean_similarity": 0.9386550188064575,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\young_girl_s_000186.png",
+      "mean_similarity": 0.9385427236557007,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\female_child_s_001232.png",
+      "mean_similarity": 0.9385316371917725,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\girl_s_000305.png",
+      "mean_similarity": 0.9384939074516296,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\girl_s_000258.png",
+      "mean_similarity": 0.9384542107582092,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\little_girl_s_000364.png",
+      "mean_similarity": 0.938382625579834,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\missy_s_000260.png",
+      "mean_similarity": 0.9383783340454102,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\female_child_s_000197.png",
+      "mean_similarity": 0.9383284449577332,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\little_girl_s_000356.png",
+      "mean_similarity": 0.9382983446121216,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\young_girl_s_000042.png",
+      "mean_similarity": 0.938270092010498,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\young_lady_s_000993.png",
+      "mean_similarity": 0.9382531046867371,
+      "rank": 30
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\little_girl_s_000610.png",
+      "mean_similarity": 0.9382273554801941,
+      "rank": 31
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\little_girl_s_000075.png",
+      "mean_similarity": 0.9382109045982361,
+      "rank": 32
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\little_girl_s_000277.png",
+      "mean_similarity": 0.938033401966095,
+      "rank": 33
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\little_girl_s_000350.png",
+      "mean_similarity": 0.9379591941833496,
+      "rank": 34
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\young_lady_s_001248.png",
+      "mean_similarity": 0.9378603100776672,
+      "rank": 35
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\sister_s_000374.png",
+      "mean_similarity": 0.9378493428230286,
+      "rank": 36
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\girl_s_000892.png",
+      "mean_similarity": 0.9378336071968079,
+      "rank": 37
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\female_child_s_000581.png",
+      "mean_similarity": 0.9378139972686768,
+      "rank": 38
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\young_girl_s_002016.png",
+      "mean_similarity": 0.9377918839454651,
+      "rank": 39
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\girl_s_000544.png",
+      "mean_similarity": 0.937682032585144,
+      "rank": 40
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\young_girl_s_001519.png",
+      "mean_similarity": 0.9376795291900635,
+      "rank": 41
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\girl_s_002114.png",
+      "mean_similarity": 0.9376296401023865,
+      "rank": 42
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\young_girl_s_001282.png",
+      "mean_similarity": 0.9376218318939209,
+      "rank": 43
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\peri_s_000078.png",
+      "mean_similarity": 0.9376062750816345,
+      "rank": 44
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\young_girl_s_000408.png",
+      "mean_similarity": 0.9376016855239868,
+      "rank": 45
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\female_child_s_000995.png",
+      "mean_similarity": 0.9374955296516418,
+      "rank": 46
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\little_girl_s_000159.png",
+      "mean_similarity": 0.9374637007713318,
+      "rank": 47
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\young_girl_s_000107.png",
+      "mean_similarity": 0.9374170899391174,
+      "rank": 48
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\young_girl_s_001653.png",
+      "mean_similarity": 0.9373825192451477,
+      "rank": 49
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\little_girl_s_000361.png",
+      "mean_similarity": 0.9373555779457092,
+      "rank": 50
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\female_child_s_001236.png",
+      "mean_similarity": 0.9373524188995361,
+      "rank": 51
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\female_child_s_001613.png",
+      "mean_similarity": 0.9373193383216858,
+      "rank": 52
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\girl_s_001073.png",
+      "mean_similarity": 0.9373024106025696,
+      "rank": 53
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\young_girl_s_000884.png",
+      "mean_similarity": 0.9372443556785583,
+      "rank": 54
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\young_girl_s_000715.png",
+      "mean_similarity": 0.937231183052063,
+      "rank": 55
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\female_child_s_000008.png",
+      "mean_similarity": 0.9372120499610901,
+      "rank": 56
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\sweater_girl_s_001168.png",
+      "mean_similarity": 0.9372069239616394,
+      "rank": 57
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\sister_s_000385.png",
+      "mean_similarity": 0.9371050000190735,
+      "rank": 58
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\baby_s_000321.png",
+      "mean_similarity": 0.9370428323745728,
+      "rank": 59
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\girl_s_001043.png",
+      "mean_similarity": 0.9370402693748474,
+      "rank": 60
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\girl_s_000930.png",
+      "mean_similarity": 0.9370316863059998,
+      "rank": 61
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\party_girl_s_000283.png",
+      "mean_similarity": 0.9369826316833496,
+      "rank": 62
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\belle_s_000295.png",
+      "mean_similarity": 0.9369277954101562,
+      "rank": 63
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\young_girl_s_002252.png",
+      "mean_similarity": 0.9369257688522339,
+      "rank": 64
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\sweater_girl_s_000687.png",
+      "mean_similarity": 0.9369176626205444,
+      "rank": 65
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\girl_s_001499.png",
+      "mean_similarity": 0.9369158148765564,
+      "rank": 66
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\gamine_s_000081.png",
+      "mean_similarity": 0.9369134902954102,
+      "rank": 67
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\lassie_s_000098.png",
+      "mean_similarity": 0.9367781281471252,
+      "rank": 68
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\female_child_s_000128.png",
+      "mean_similarity": 0.9367449879646301,
+      "rank": 69
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\little_girl_s_000128.png",
+      "mean_similarity": 0.9367069005966187,
+      "rank": 70
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\young_girl_s_001680.png",
+      "mean_similarity": 0.936698853969574,
+      "rank": 71
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\young_lady_s_000576.png",
+      "mean_similarity": 0.936676561832428,
+      "rank": 72
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\young_lady_s_000986.png",
+      "mean_similarity": 0.9366469979286194,
+      "rank": 73
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\female_child_s_000411.png",
+      "mean_similarity": 0.9364936947822571,
+      "rank": 74
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\young_girl_s_001234.png",
+      "mean_similarity": 0.936436116695404,
+      "rank": 75
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\female_child_s_001614.png",
+      "mean_similarity": 0.9364289045333862,
+      "rank": 76
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\little_girl_s_000381.png",
+      "mean_similarity": 0.9363957047462463,
+      "rank": 77
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\gamine_s_000061.png",
+      "mean_similarity": 0.936390221118927,
+      "rank": 78
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\little_girl_s_000374.png",
+      "mean_similarity": 0.9363831281661987,
+      "rank": 79
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\damoiselle_s_000123.png",
+      "mean_similarity": 0.9363762140274048,
+      "rank": 80
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\girl_s_001827.png",
+      "mean_similarity": 0.9363725185394287,
+      "rank": 81
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\female_child_s_000340.png",
+      "mean_similarity": 0.9363247156143188,
+      "rank": 82
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\young_girl_s_000254.png",
+      "mean_similarity": 0.9363144040107727,
+      "rank": 83
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\girl_s_000181.png",
+      "mean_similarity": 0.9363123774528503,
+      "rank": 84
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\sweater_girl_s_001973.png",
+      "mean_similarity": 0.9362937211990356,
+      "rank": 85
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\female_child_s_001307.png",
+      "mean_similarity": 0.9362514019012451,
+      "rank": 86
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\girl_s_001812.png",
+      "mean_similarity": 0.9362215399742126,
+      "rank": 87
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\female_child_s_000271.png",
+      "mean_similarity": 0.9362154603004456,
+      "rank": 88
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\young_girl_s_001489.png",
+      "mean_similarity": 0.9361845850944519,
+      "rank": 89
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\sister_s_000319.png",
+      "mean_similarity": 0.9361160397529602,
+      "rank": 90
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\little_girl_s_000045.png",
+      "mean_similarity": 0.9359572529792786,
+      "rank": 91
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\young_lady_s_000286.png",
+      "mean_similarity": 0.9359091520309448,
+      "rank": 92
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\little_girl_s_001411.png",
+      "mean_similarity": 0.9358415603637695,
+      "rank": 93
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\young_girl_s_000443.png",
+      "mean_similarity": 0.9358404874801636,
+      "rank": 94
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\female_child_s_000595.png",
+      "mean_similarity": 0.9357376098632812,
+      "rank": 95
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\little_girl_s_000016.png",
+      "mean_similarity": 0.9357308745384216,
+      "rank": 96
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\sister_s_000586.png",
+      "mean_similarity": 0.9356976747512817,
+      "rank": 97
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\girl_s_000516.png",
+      "mean_similarity": 0.9356552362442017,
+      "rank": 98
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\damoiselle_s_000168.png",
+      "mean_similarity": 0.9356539249420166,
+      "rank": 99
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\young_girl_s_000571.png",
+      "mean_similarity": 0.9356353878974915,
+      "rank": 100
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\young_lady_s_000619.png",
+      "mean_similarity": 0.935555100440979,
+      "rank": 101
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\young_girl_s_001343.png",
+      "mean_similarity": 0.9355403780937195,
+      "rank": 102
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\female_child_s_000759.png",
+      "mean_similarity": 0.9355374574661255,
+      "rank": 103
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\girl_s_001594.png",
+      "mean_similarity": 0.935506284236908,
+      "rank": 104
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\little_girl_s_000353.png",
+      "mean_similarity": 0.9354188442230225,
+      "rank": 105
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\little_girl_s_000253.png",
+      "mean_similarity": 0.9353904724121094,
+      "rank": 106
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\girl_s_000267.png",
+      "mean_similarity": 0.9352930784225464,
+      "rank": 107
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\gamine_s_000111.png",
+      "mean_similarity": 0.9352850317955017,
+      "rank": 108
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\young_girl_s_000654.png",
+      "mean_similarity": 0.9352520108222961,
+      "rank": 109
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\young_girl_s_000199.png",
+      "mean_similarity": 0.9352352023124695,
+      "rank": 110
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\female_child_s_001572.png",
+      "mean_similarity": 0.9351669549942017,
+      "rank": 111
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\young_girl_s_002222.png",
+      "mean_similarity": 0.9351447820663452,
+      "rank": 112
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\little_girl_s_000352.png",
+      "mean_similarity": 0.9351342916488647,
+      "rank": 113
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\girl_s_000753.png",
+      "mean_similarity": 0.9351139664649963,
+      "rank": 114
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\young_girl_s_002226.png",
+      "mean_similarity": 0.935060441493988,
+      "rank": 115
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\young_girl_s_002353.png",
+      "mean_similarity": 0.9350541234016418,
+      "rank": 116
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\little_girl_s_001432.png",
+      "mean_similarity": 0.9350447654724121,
+      "rank": 117
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\young_girl_s_000824.png",
+      "mean_similarity": 0.9349405765533447,
+      "rank": 118
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\bimbo_s_000319.png",
+      "mean_similarity": 0.9349295496940613,
+      "rank": 119
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\little_girl_s_000004.png",
+      "mean_similarity": 0.9349139928817749,
+      "rank": 120
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\little_girl_s_000637.png",
+      "mean_similarity": 0.934900164604187,
+      "rank": 121
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\little_girl_s_000275.png",
+      "mean_similarity": 0.9348987936973572,
+      "rank": 122
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\girl_s_001358.png",
+      "mean_similarity": 0.9348776340484619,
+      "rank": 123
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\female_child_s_000106.png",
+      "mean_similarity": 0.9348592758178711,
+      "rank": 124
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\female_child_s_000345.png",
+      "mean_similarity": 0.934837818145752,
+      "rank": 125
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\female_child_s_000127.png",
+      "mean_similarity": 0.9348278045654297,
+      "rank": 126
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\tomboy_s_000279.png",
+      "mean_similarity": 0.9348150491714478,
+      "rank": 127
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\sweater_girl_s_001737.png",
+      "mean_similarity": 0.9348086714744568,
+      "rank": 128
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\girl_s_000287.png",
+      "mean_similarity": 0.9347923994064331,
+      "rank": 129
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\girl_s_001949.png",
+      "mean_similarity": 0.9347522258758545,
+      "rank": 130
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\young_lady_s_001345.png",
+      "mean_similarity": 0.9347399473190308,
+      "rank": 131
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\little_girl_s_001223.png",
+      "mean_similarity": 0.9347177147865295,
+      "rank": 132
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\shop_girl_s_000216.png",
+      "mean_similarity": 0.9346035718917847,
+      "rank": 133
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\sweater_girl_s_000528.png",
+      "mean_similarity": 0.9345940351486206,
+      "rank": 134
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\girl_s_000182.png",
+      "mean_similarity": 0.9345552325248718,
+      "rank": 135
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\female_child_s_000020.png",
+      "mean_similarity": 0.9344728589057922,
+      "rank": 136
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\sweater_girl_s_000062.png",
+      "mean_similarity": 0.9344482421875,
+      "rank": 137
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\young_lady_s_000974.png",
+      "mean_similarity": 0.9343997240066528,
+      "rank": 138
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\little_girl_s_000351.png",
+      "mean_similarity": 0.9343903660774231,
+      "rank": 139
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\girl_s_001009.png",
+      "mean_similarity": 0.9342323541641235,
+      "rank": 140
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\young_girl_s_000629.png",
+      "mean_similarity": 0.9342020750045776,
+      "rank": 141
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\female_child_s_001441.png",
+      "mean_similarity": 0.934177815914154,
+      "rank": 142
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\female_child_s_001222.png",
+      "mean_similarity": 0.9340811967849731,
+      "rank": 143
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\little_girl_s_001448.png",
+      "mean_similarity": 0.9340740442276001,
+      "rank": 144
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\little_girl_s_000071.png",
+      "mean_similarity": 0.9339582920074463,
+      "rank": 145
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\sweater_girl_s_000040.png",
+      "mean_similarity": 0.9339569807052612,
+      "rank": 146
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\young_girl_s_000759.png",
+      "mean_similarity": 0.9339345097541809,
+      "rank": 147
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\young_girl_s_001189.png",
+      "mean_similarity": 0.9338774085044861,
+      "rank": 148
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\young_girl_s_000028.png",
+      "mean_similarity": 0.9338627457618713,
+      "rank": 149
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\female_child_s_000291.png",
+      "mean_similarity": 0.9338237047195435,
+      "rank": 150
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\girl_s_000423.png",
+      "mean_similarity": 0.9337538480758667,
+      "rank": 151
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\girl_s_000225.png",
+      "mean_similarity": 0.9337201714515686,
+      "rank": 152
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\female_child_s_000988.png",
+      "mean_similarity": 0.9336893558502197,
+      "rank": 153
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\girl_s_001284.png",
+      "mean_similarity": 0.9336839318275452,
+      "rank": 154
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\young_girl_s_001050.png",
+      "mean_similarity": 0.9336675405502319,
+      "rank": 155
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\female_child_s_001412.png",
+      "mean_similarity": 0.9336506128311157,
+      "rank": 156
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\ring_girl_s_000254.png",
+      "mean_similarity": 0.9335875511169434,
+      "rank": 157
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\little_girl_s_000303.png",
+      "mean_similarity": 0.9335750937461853,
+      "rank": 158
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\little_girl_s_000355.png",
+      "mean_similarity": 0.9335452318191528,
+      "rank": 159
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\female_child_s_000352.png",
+      "mean_similarity": 0.93342125415802,
+      "rank": 160
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\young_girl_s_000004.png",
+      "mean_similarity": 0.9333717823028564,
+      "rank": 161
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\girl_s_001998.png",
+      "mean_similarity": 0.9333663582801819,
+      "rank": 162
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\girl_s_000683.png",
+      "mean_similarity": 0.933337390422821,
+      "rank": 163
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\little_girl_s_000177.png",
+      "mean_similarity": 0.933222234249115,
+      "rank": 164
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\female_child_s_000119.png",
+      "mean_similarity": 0.9332135319709778,
+      "rank": 165
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\baby_s_000319.png",
+      "mean_similarity": 0.933213472366333,
+      "rank": 166
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\may_queen_s_000195.png",
+      "mean_similarity": 0.9331687688827515,
+      "rank": 167
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\girl_s_000255.png",
+      "mean_similarity": 0.9330165386199951,
+      "rank": 168
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\sister_s_000035.png",
+      "mean_similarity": 0.9329953789710999,
+      "rank": 169
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\sister_s_000372.png",
+      "mean_similarity": 0.932975172996521,
+      "rank": 170
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\female_child_s_000616.png",
+      "mean_similarity": 0.9329716563224792,
+      "rank": 171
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\young_lady_s_000005.png",
+      "mean_similarity": 0.932971179485321,
+      "rank": 172
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\girl_s_000275.png",
+      "mean_similarity": 0.9329648613929749,
+      "rank": 173
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\female_child_s_000432.png",
+      "mean_similarity": 0.932894766330719,
+      "rank": 174
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\working_girl_s_000394.png",
+      "mean_similarity": 0.9328816533088684,
+      "rank": 175
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\little_girl_s_000359.png",
+      "mean_similarity": 0.9328052997589111,
+      "rank": 176
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\sweater_girl_s_001076.png",
+      "mean_similarity": 0.9327969551086426,
+      "rank": 177
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\young_girl_s_000720.png",
+      "mean_similarity": 0.9327920079231262,
+      "rank": 178
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\little_girl_s_000181.png",
+      "mean_similarity": 0.9327144622802734,
+      "rank": 179
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\girl_s_000727.png",
+      "mean_similarity": 0.9326913356781006,
+      "rank": 180
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\little_girl_s_000862.png",
+      "mean_similarity": 0.9326372742652893,
+      "rank": 181
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\female_child_s_001029.png",
+      "mean_similarity": 0.932608425617218,
+      "rank": 182
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\young_girl_s_001210.png",
+      "mean_similarity": 0.9325674176216125,
+      "rank": 183
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\sweater_girl_s_001403.png",
+      "mean_similarity": 0.9325252175331116,
+      "rank": 184
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\girl_s_001805.png",
+      "mean_similarity": 0.9324666261672974,
+      "rank": 185
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\little_girl_s_000641.png",
+      "mean_similarity": 0.9324406981468201,
+      "rank": 186
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\chachka_s_000062.png",
+      "mean_similarity": 0.9323503375053406,
+      "rank": 187
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\girl_s_001807.png",
+      "mean_similarity": 0.9323493242263794,
+      "rank": 188
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\sweater_girl_s_000979.png",
+      "mean_similarity": 0.9323399066925049,
+      "rank": 189
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\girl_s_002185.png",
+      "mean_similarity": 0.9322383403778076,
+      "rank": 190
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\female_child_s_000804.png",
+      "mean_similarity": 0.9322300553321838,
+      "rank": 191
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\female_child_s_000555.png",
+      "mean_similarity": 0.9322171211242676,
+      "rank": 192
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\girl_s_000691.png",
+      "mean_similarity": 0.9322109818458557,
+      "rank": 193
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\female_child_s_001073.png",
+      "mean_similarity": 0.9321812987327576,
+      "rank": 194
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\young_girl_s_000399.png",
+      "mean_similarity": 0.9321296811103821,
+      "rank": 195
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\girl_s_000266.png",
+      "mean_similarity": 0.9320811033248901,
+      "rank": 196
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\belle_s_000115.png",
+      "mean_similarity": 0.9320586919784546,
+      "rank": 197
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\young_girl_s_001589.png",
+      "mean_similarity": 0.9319996237754822,
+      "rank": 198
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\female_child_s_001506.png",
+      "mean_similarity": 0.931972861289978,
+      "rank": 199
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\sister_s_000700.png",
+      "mean_similarity": 0.9319557547569275,
+      "rank": 200
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\young_lady_s_001099.png",
+      "mean_similarity": 0.9319007992744446,
+      "rank": 201
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\girl_s_001593.png",
+      "mean_similarity": 0.931882381439209,
+      "rank": 202
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\female_child_s_000961.png",
+      "mean_similarity": 0.9318786859512329,
+      "rank": 203
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\girl_s_000311.png",
+      "mean_similarity": 0.9318711757659912,
+      "rank": 204
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\little_girl_s_001242.png",
+      "mean_similarity": 0.9318355917930603,
+      "rank": 205
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\sister_s_000766.png",
+      "mean_similarity": 0.9318126440048218,
+      "rank": 206
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\female_child_s_000589.png",
+      "mean_similarity": 0.931797444820404,
+      "rank": 207
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\girl_s_001325.png",
+      "mean_similarity": 0.9317784309387207,
+      "rank": 208
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\young_girl_s_001406.png",
+      "mean_similarity": 0.9317713379859924,
+      "rank": 209
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\girl_s_000874.png",
+      "mean_similarity": 0.9317232966423035,
+      "rank": 210
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\sweater_girl_s_001065.png",
+      "mean_similarity": 0.9316474795341492,
+      "rank": 211
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\little_girl_s_000233.png",
+      "mean_similarity": 0.9316397905349731,
+      "rank": 212
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\girl_s_000242.png",
+      "mean_similarity": 0.9316299557685852,
+      "rank": 213
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\little_girl_s_000669.png",
+      "mean_similarity": 0.9315922856330872,
+      "rank": 214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\young_girl_s_000245.png",
+      "mean_similarity": 0.9315754175186157,
+      "rank": 215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\little_girl_s_000742.png",
+      "mean_similarity": 0.9315556287765503,
+      "rank": 216
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\gamine_s_000470.png",
+      "mean_similarity": 0.9315491914749146,
+      "rank": 217
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\sweater_girl_s_001519.png",
+      "mean_similarity": 0.9313672780990601,
+      "rank": 218
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\girl_s_000738.png",
+      "mean_similarity": 0.9313147068023682,
+      "rank": 219
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\female_child_s_001015.png",
+      "mean_similarity": 0.9312731027603149,
+      "rank": 220
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\little_girl_s_000360.png",
+      "mean_similarity": 0.9312726259231567,
+      "rank": 221
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\belle_s_000118.png",
+      "mean_similarity": 0.9312718510627747,
+      "rank": 222
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\little_girl_s_001451.png",
+      "mean_similarity": 0.9312461018562317,
+      "rank": 223
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\little_girl_s_000989.png",
+      "mean_similarity": 0.9312454462051392,
+      "rank": 224
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\little_girl_s_001098.png",
+      "mean_similarity": 0.931238055229187,
+      "rank": 225
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\girl_s_001841.png",
+      "mean_similarity": 0.9312125444412231,
+      "rank": 226
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\young_lady_s_000647.png",
+      "mean_similarity": 0.9311795234680176,
+      "rank": 227
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\fille_s_000331.png",
+      "mean_similarity": 0.9311602115631104,
+      "rank": 228
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\sweater_girl_s_001893.png",
+      "mean_similarity": 0.9311268925666809,
+      "rank": 229
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\girl_s_001797.png",
+      "mean_similarity": 0.9310727119445801,
+      "rank": 230
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\girl_s_000773.png",
+      "mean_similarity": 0.9310702681541443,
+      "rank": 231
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\girl_s_001559.png",
+      "mean_similarity": 0.9310399293899536,
+      "rank": 232
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\little_girl_s_000229.png",
+      "mean_similarity": 0.9310294389724731,
+      "rank": 233
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\young_girl_s_002237.png",
+      "mean_similarity": 0.9309751391410828,
+      "rank": 234
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\young_lady_s_000992.png",
+      "mean_similarity": 0.9309406876564026,
+      "rank": 235
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\female_child_s_001017.png",
+      "mean_similarity": 0.9309068322181702,
+      "rank": 236
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\sweater_girl_s_001876.png",
+      "mean_similarity": 0.9308742880821228,
+      "rank": 237
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\girl_s_001251.png",
+      "mean_similarity": 0.9308100938796997,
+      "rank": 238
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\little_girl_s_000146.png",
+      "mean_similarity": 0.9307804107666016,
+      "rank": 239
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\party_girl_s_000310.png",
+      "mean_similarity": 0.9307575821876526,
+      "rank": 240
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\female_child_s_001219.png",
+      "mean_similarity": 0.930729329586029,
+      "rank": 241
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\little_girl_s_000259.png",
+      "mean_similarity": 0.9306791424751282,
+      "rank": 242
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\little_girl_s_000051.png",
+      "mean_similarity": 0.9306787848472595,
+      "rank": 243
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\chick_s_000131.png",
+      "mean_similarity": 0.9305823445320129,
+      "rank": 244
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\party_girl_s_000299.png",
+      "mean_similarity": 0.930565595626831,
+      "rank": 245
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\female_child_s_000021.png",
+      "mean_similarity": 0.9304846525192261,
+      "rank": 246
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\young_girl_s_001657.png",
+      "mean_similarity": 0.9304702281951904,
+      "rank": 247
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\working_girl_s_000047.png",
+      "mean_similarity": 0.930454671382904,
+      "rank": 248
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\girl_s_000503.png",
+      "mean_similarity": 0.9304507970809937,
+      "rank": 249
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\036.girl\\female_child_s_000897.png",
+      "mean_similarity": 0.9304249286651611,
+      "rank": 250
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "class_name": "Bird",
+  "global_description": "A small, slender songbird with a streamlined body and a slightly curved beak. It has a brown-streaked back and a creamy white underbelly with dark streaks. The bird features a distinctive white eyebrow stripe above the eye and a dark brown cap.",
+  "discriminative_attributes": [
+    "Brown-streaked back",
+    "Creamy white underbelly with dark streaks",
+    "White eyebrow stripe",
+    "Dark brown cap",
+    "Slightly curved beak"
+  ],
+  "part_details": {
+    "back": "Brown with dark streaks, providing a camouflaged appearance.",
+    "underbelly": "Creamy white with prominent dark streaks running longitudinally.",
+    "eyebrow_stripe": "Distinctive white line above the eye, contrasting with the darker head.",
+    "cap": "Dark brown, covering the top of the head.",
+    "beak": "Slightly curved, slender, and pointed, suitable for foraging."
+  },
+  "spatial_relations": [
+    "The white eyebrow stripe runs above the eye, separating the cap from the face.",
+    "The dark streaks on the underbelly run parallel along the length of the body.",
+    "The beak extends forward from the face, slightly curving downwards."
+  ],
+  "original_dataset_key": "CUB200",
+  "original_class_key": "northern_waterthrush"
+}

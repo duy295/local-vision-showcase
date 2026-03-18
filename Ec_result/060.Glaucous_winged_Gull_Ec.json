@@ -1,0 +1,159 @@
+{
+  "class_name": "060.Glaucous_winged_Gull",
+  "class_idx": 59,
+  "num_images_in_class": 30,
+  "ec_size_requested": 30,
+  "ec_size_actual": 30,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\060.Glaucous_winged_Gull\\Glaucous_Winged_Gull_0032_44594.jpg",
+      "mean_similarity": 0.9496366381645203,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\060.Glaucous_winged_Gull\\Glaucous_Winged_Gull_0073_44253.jpg",
+      "mean_similarity": 0.94893878698349,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\060.Glaucous_winged_Gull\\Glaucous_Winged_Gull_0127_44258.jpg",
+      "mean_similarity": 0.9487494230270386,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\060.Glaucous_winged_Gull\\Glaucous_Winged_Gull_0129_44742.jpg",
+      "mean_similarity": 0.9486483931541443,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\060.Glaucous_winged_Gull\\Glaucous_Winged_Gull_0028_44628.jpg",
+      "mean_similarity": 0.9483530521392822,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\060.Glaucous_winged_Gull\\Glaucous_Winged_Gull_0012_44264.jpg",
+      "mean_similarity": 0.9483336806297302,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\060.Glaucous_winged_Gull\\Glaucous_Winged_Gull_0060_44215.jpg",
+      "mean_similarity": 0.9483129382133484,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\060.Glaucous_winged_Gull\\Glaucous_Winged_Gull_0126_44761.jpg",
+      "mean_similarity": 0.9480620622634888,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\060.Glaucous_winged_Gull\\Glaucous_Winged_Gull_0091_44848.jpg",
+      "mean_similarity": 0.9479441046714783,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\060.Glaucous_winged_Gull\\Glaucous_Winged_Gull_0049_45065.jpg",
+      "mean_similarity": 0.9476551413536072,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\060.Glaucous_winged_Gull\\Glaucous_Winged_Gull_0057_44807.jpg",
+      "mean_similarity": 0.9475698471069336,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\060.Glaucous_winged_Gull\\Glaucous_Winged_Gull_0096_45012.jpg",
+      "mean_similarity": 0.9473762512207031,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\060.Glaucous_winged_Gull\\Glaucous_Winged_Gull_0023_45090.jpg",
+      "mean_similarity": 0.9470159411430359,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\060.Glaucous_winged_Gull\\Glaucous_Winged_Gull_0138_44694.jpg",
+      "mean_similarity": 0.9468140602111816,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\060.Glaucous_winged_Gull\\Glaucous_Winged_Gull_0081_45223.jpg",
+      "mean_similarity": 0.9464071989059448,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\060.Glaucous_winged_Gull\\Glaucous_Winged_Gull_0034_44625.jpg",
+      "mean_similarity": 0.9463688135147095,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\060.Glaucous_winged_Gull\\Glaucous_Winged_Gull_0078_44461.jpg",
+      "mean_similarity": 0.9459609985351562,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\060.Glaucous_winged_Gull\\Glaucous_Winged_Gull_0087_44550.jpg",
+      "mean_similarity": 0.9453625082969666,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\060.Glaucous_winged_Gull\\Glaucous_Winged_Gull_0093_44724.jpg",
+      "mean_similarity": 0.9451360702514648,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\060.Glaucous_winged_Gull\\Glaucous_Winged_Gull_0005_44860.jpg",
+      "mean_similarity": 0.9448833465576172,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\060.Glaucous_winged_Gull\\Glaucous_Winged_Gull_0110_44377.jpg",
+      "mean_similarity": 0.9436972141265869,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\060.Glaucous_winged_Gull\\Glaucous_Winged_Gull_0002_44612.jpg",
+      "mean_similarity": 0.9431808590888977,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\060.Glaucous_winged_Gull\\Glaucous_Winged_Gull_0051_44543.jpg",
+      "mean_similarity": 0.9427489638328552,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\060.Glaucous_winged_Gull\\Glaucous_Winged_Gull_0132_44435.jpg",
+      "mean_similarity": 0.9416245818138123,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\060.Glaucous_winged_Gull\\Glaucous_Winged_Gull_0045_44906.jpg",
+      "mean_similarity": 0.940674901008606,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\060.Glaucous_winged_Gull\\Glaucous_Winged_Gull_0067_45156.jpg",
+      "mean_similarity": 0.9383153915405273,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\060.Glaucous_winged_Gull\\Glaucous_Winged_Gull_0133_44738.jpg",
+      "mean_similarity": 0.9370408654212952,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\060.Glaucous_winged_Gull\\Glaucous_Winged_Gull_0134_44743.jpg",
+      "mean_similarity": 0.9342837333679199,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\060.Glaucous_winged_Gull\\Glaucous_Winged_Gull_0014_44832.jpg",
+      "mean_similarity": 0.93425053358078,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\060.Glaucous_winged_Gull\\Glaucous_Winged_Gull_0086_44268.jpg",
+      "mean_similarity": 0.9268796443939209,
+      "rank": 30
+    }
+  ]
+}

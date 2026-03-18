@@ -1,0 +1,26 @@
+{
+  "class_name": "Field Sparrow",
+  "global_description": "A small, plump songbird with a rounded body and short tail. It features a pale grayish-brown plumage with a distinctive rusty cap and a white eye ring. The wings are streaked with brown, and the underparts are light with a buffy wash.",
+  "discriminative_attributes": [
+    "Rusty cap on head",
+    "White eye ring",
+    "Pale grayish-brown plumage",
+    "Brown streaked wings",
+    "Buffy underparts"
+  ],
+  "part_details": {
+    "head": "Rounded with a rusty cap and a white eye ring.",
+    "plumage": "Overall pale grayish-brown with brown streaks on wings.",
+    "wings": "Short, rounded, with brown streaks.",
+    "tail": "Short and slightly notched.",
+    "underparts": "Light with a buffy wash."
+  },
+  "spatial_relations": [
+    "The rusty cap is on top of the head.",
+    "The white eye ring encircles the eye.",
+    "The wings are attached to the sides of the body.",
+    "The tail extends from the rear of the body."
+  ],
+  "original_dataset_key": "CUB200",
+  "original_class_key": "field_sparrow"
+}

@@ -1,0 +1,25 @@
+{
+  "class_name": "peacock",
+  "global_description": "Large bird with iridescent blue and green plumage, long train of tail feathers with eye-like patterns, slender neck, small head with crest, and strong legs.",
+  "discriminative_attributes": [
+    "Iridescent plumage",
+    "Long tail feathers",
+    "Eye-like patterns",
+    "Slender neck",
+    "Crested head"
+  ],
+  "part_details": {
+    "head": "Small with a crest of feathers",
+    "neck": "Slender and iridescent blue",
+    "body": "Covered in vibrant blue and green feathers",
+    "tail": "Long with eye-like patterns",
+    "legs": "Strong and sturdy"
+  },
+  "spatial_relations": [
+    "Neck extends from body",
+    "Tail feathers fan out from rear",
+    "Crest on top of head"
+  ],
+  "original_dataset_key": "ImageNetR",
+  "original_class_key": "peacock"
+}

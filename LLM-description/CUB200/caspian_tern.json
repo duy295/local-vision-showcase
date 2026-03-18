@@ -1,0 +1,26 @@
+{
+  "class_name": "Caspian Tern",
+  "global_description": "A large, sleek seabird with a streamlined body and a predominantly white plumage. It features a distinctive black cap on the head, a long, sharp orange-red bill, and gray wings with black tips. The bird's legs are short and black.",
+  "discriminative_attributes": [
+    "White plumage",
+    "Black cap on head",
+    "Long orange-red bill",
+    "Gray wings with black tips",
+    "Short black legs"
+  ],
+  "part_details": {
+    "head": "White with a prominent black cap covering the top.",
+    "bill": "Long, straight, and pointed, bright orange-red in color.",
+    "wings": "Long and narrow, gray with black tips.",
+    "legs": "Short and black, supporting the body close to the ground.",
+    "body": "Streamlined and predominantly white, aiding in flight."
+  },
+  "spatial_relations": [
+    "The black cap covers the top of the head.",
+    "The orange-red bill extends forward from the face.",
+    "The gray wings are positioned laterally with black tips.",
+    "The short black legs are positioned under the body."
+  ],
+  "original_dataset_key": "CUB200",
+  "original_class_key": "caspian_tern"
+}

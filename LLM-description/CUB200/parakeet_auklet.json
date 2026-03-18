@@ -1,0 +1,26 @@
+{
+  "class_name": "Parakeet Auklet",
+  "global_description": "A small, stocky seabird with a compact body and short neck. It has predominantly black plumage on the upper parts and white underparts. The bird features a distinctive orange-red bill and a white facial plume extending from the eye. Its wings are short and rounded, and it has a short tail.",
+  "discriminative_attributes": [
+    "Compact body shape",
+    "Orange-red bill",
+    "White facial plume",
+    "Black upper plumage",
+    "White underparts"
+  ],
+  "part_details": {
+    "bill": "Short, thick, and bright orange-red, slightly curved.",
+    "plumage": "Black on the back and wings, white on the belly and underparts.",
+    "facial_plume": "Thin white line extending from the eye backward.",
+    "wings": "Short, rounded, black with a glossy sheen.",
+    "tail": "Short, black, slightly rounded."
+  },
+  "spatial_relations": [
+    "The white facial plume extends backward from the eye.",
+    "The orange-red bill is positioned at the front of the face.",
+    "The black wings are attached to the sides of the body.",
+    "The short tail is located at the rear of the body."
+  ],
+  "original_dataset_key": "CUB200",
+  "original_class_key": "parakeet_auklet"
+}

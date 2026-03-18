@@ -1,0 +1,25 @@
+{
+  "class_name": "snake",
+  "global_description": "Elongated, cylindrical reptile with smooth, scaly skin, typically in shades of green, brown, or patterned with stripes or spots. Lacks limbs, has a narrow head with slit-like eyes and a forked tongue.",
+  "discriminative_attributes": [
+    "Elongated cylindrical body",
+    "Smooth scaly skin",
+    "Narrow head",
+    "Forked tongue",
+    "Slit-like eyes"
+  ],
+  "part_details": {
+    "head": "Narrow with slit-like eyes and forked tongue",
+    "body": "Elongated, cylindrical with smooth scales",
+    "skin": "Scaly, often patterned with stripes or spots",
+    "eyes": "Slit-like, positioned on sides of head",
+    "tongue": "Forked, protrudes from mouth"
+  },
+  "spatial_relations": [
+    "Head at front of elongated body",
+    "Tongue extends from mouth",
+    "Eyes on sides of head"
+  ],
+  "original_dataset_key": "cifar100",
+  "original_class_key": "snake"
+}

@@ -1,0 +1,25 @@
+{
+  "class_name": "Bird",
+  "global_description": "A medium-sized seabird with a streamlined body and long wings. Predominantly white with gray wings and back, featuring a slightly hooked yellow bill. The wings have a distinctive glaucous tint and the legs are pinkish.",
+  "discriminative_attributes": [
+    "Gray wings with glaucous tint",
+    "White body and head",
+    "Yellow hooked bill",
+    "Pinkish legs",
+    "Streamlined body shape"
+  ],
+  "part_details": {
+    "wings": "Long, narrow, gray with a glaucous tint, slightly darker tips.",
+    "body": "Streamlined, predominantly white with a smooth texture.",
+    "bill": "Short, slightly hooked, yellow with a sharp tip.",
+    "legs": "Short, pinkish, with webbed feet.",
+    "head": "Rounded, white, with small dark eyes."
+  },
+  "spatial_relations": [
+    "The wings extend laterally from the sides of the body.",
+    "The bill protrudes forward from the front of the head.",
+    "The legs are positioned underneath the body, supporting it when on land."
+  ],
+  "original_dataset_key": "CUB200",
+  "original_class_key": "glaucous_winged_gull"
+}

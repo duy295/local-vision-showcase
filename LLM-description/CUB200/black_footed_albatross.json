@@ -1,0 +1,25 @@
+{
+  "class_name": "Black Footed Albatross",
+  "global_description": "A large seabird with a streamlined body and long, narrow wings. It has predominantly dark brown plumage with a lighter face and a distinctive black beak. The bird's feet are black, and its feathers have a slightly glossy texture.",
+  "discriminative_attributes": [
+    "Dark brown plumage",
+    "Long narrow wings",
+    "Black beak",
+    "Lighter face",
+    "Black feet"
+  ],
+  "part_details": {
+    "wings": "Long, narrow, and dark brown with a slightly glossy texture.",
+    "beak": "Stout, black, and slightly hooked at the tip.",
+    "feet": "Webbed, black, and suited for swimming.",
+    "face": "Lighter brown, contrasting with the darker body.",
+    "body": "Streamlined with a sleek, dark brown appearance."
+  },
+  "spatial_relations": [
+    "The long wings extend laterally from the streamlined body.",
+    "The black beak protrudes from the lighter face.",
+    "The black feet are positioned at the base of the body."
+  ],
+  "original_dataset_key": "CUB200",
+  "original_class_key": "black_footed_albatross"
+}

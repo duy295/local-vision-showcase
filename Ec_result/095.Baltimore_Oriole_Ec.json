@@ -1,0 +1,159 @@
+{
+  "class_name": "095.Baltimore_Oriole",
+  "class_idx": 94,
+  "num_images_in_class": 30,
+  "ec_size_requested": 30,
+  "ec_size_actual": 30,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\095.Baltimore_Oriole\\Baltimore_Oriole_0101_87207.jpg",
+      "mean_similarity": 0.9451041221618652,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\095.Baltimore_Oriole\\Baltimore_Oriole_0045_88178.jpg",
+      "mean_similarity": 0.9449971914291382,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\095.Baltimore_Oriole\\Baltimore_Oriole_0111_87449.jpg",
+      "mean_similarity": 0.9445512890815735,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\095.Baltimore_Oriole\\Baltimore_Oriole_0131_87542.jpg",
+      "mean_similarity": 0.9444419741630554,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\095.Baltimore_Oriole\\Baltimore_Oriole_0102_88818.jpg",
+      "mean_similarity": 0.9442794322967529,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\095.Baltimore_Oriole\\Baltimore_Oriole_0064_89554.jpg",
+      "mean_similarity": 0.9438367486000061,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\095.Baltimore_Oriole\\Baltimore_Oriole_0007_88038.jpg",
+      "mean_similarity": 0.9432423114776611,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\095.Baltimore_Oriole\\Baltimore_Oriole_0027_87561.jpg",
+      "mean_similarity": 0.9430965781211853,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\095.Baltimore_Oriole\\Baltimore_Oriole_0092_87435.jpg",
+      "mean_similarity": 0.9430810809135437,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\095.Baltimore_Oriole\\Baltimore_Oriole_0091_88487.jpg",
+      "mean_similarity": 0.9428629875183105,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\095.Baltimore_Oriole\\Baltimore_Oriole_0038_87083.jpg",
+      "mean_similarity": 0.9428174495697021,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\095.Baltimore_Oriole\\Baltimore_Oriole_0069_87839.jpg",
+      "mean_similarity": 0.9426472187042236,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\095.Baltimore_Oriole\\Baltimore_Oriole_0052_89553.jpg",
+      "mean_similarity": 0.942168653011322,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\095.Baltimore_Oriole\\Baltimore_Oriole_0130_89596.jpg",
+      "mean_similarity": 0.9416067004203796,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\095.Baltimore_Oriole\\Baltimore_Oriole_0084_89684.jpg",
+      "mean_similarity": 0.941523551940918,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\095.Baltimore_Oriole\\Baltimore_Oriole_0071_89611.jpg",
+      "mean_similarity": 0.9410771727561951,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\095.Baltimore_Oriole\\Baltimore_Oriole_0119_88022.jpg",
+      "mean_similarity": 0.9407368302345276,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\095.Baltimore_Oriole\\Baltimore_Oriole_0039_88027.jpg",
+      "mean_similarity": 0.9406483173370361,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\095.Baltimore_Oriole\\Baltimore_Oriole_0020_87066.jpg",
+      "mean_similarity": 0.9397974014282227,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\095.Baltimore_Oriole\\Baltimore_Oriole_0024_89720.jpg",
+      "mean_similarity": 0.93885737657547,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\095.Baltimore_Oriole\\Baltimore_Oriole_0128_87796.jpg",
+      "mean_similarity": 0.938441276550293,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\095.Baltimore_Oriole\\Baltimore_Oriole_0120_88403.jpg",
+      "mean_similarity": 0.9348210096359253,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\095.Baltimore_Oriole\\Baltimore_Oriole_0021_87089.jpg",
+      "mean_similarity": 0.9305068850517273,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\095.Baltimore_Oriole\\Baltimore_Oriole_0104_86979.jpg",
+      "mean_similarity": 0.9294262528419495,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\095.Baltimore_Oriole\\Baltimore_Oriole_0050_89750.jpg",
+      "mean_similarity": 0.9279094338417053,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\095.Baltimore_Oriole\\Baltimore_Oriole_0106_89680.jpg",
+      "mean_similarity": 0.9236772656440735,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\095.Baltimore_Oriole\\Baltimore_Oriole_0133_87602.jpg",
+      "mean_similarity": 0.9208953976631165,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\095.Baltimore_Oriole\\Baltimore_Oriole_0014_87690.jpg",
+      "mean_similarity": 0.9098038673400879,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\095.Baltimore_Oriole\\Baltimore_Oriole_0033_88347.jpg",
+      "mean_similarity": 0.9079046249389648,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\095.Baltimore_Oriole\\Baltimore_Oriole_0100_89908.jpg",
+      "mean_similarity": 0.9041178226470947,
+      "rank": 30
+    }
+  ]
+}

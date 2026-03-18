@@ -1,0 +1,159 @@
+{
+  "class_name": "085.Horned_Lark",
+  "class_idx": 84,
+  "num_images_in_class": 30,
+  "ec_size_requested": 30,
+  "ec_size_actual": 30,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\085.Horned_Lark\\Horned_Lark_0049_74574.jpg",
+      "mean_similarity": 0.9472141861915588,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\085.Horned_Lark\\Horned_Lark_0133_73882.jpg",
+      "mean_similarity": 0.9468412399291992,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\085.Horned_Lark\\Horned_Lark_0066_74796.jpg",
+      "mean_similarity": 0.946198046207428,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\085.Horned_Lark\\Horned_Lark_0095_74640.jpg",
+      "mean_similarity": 0.9458513259887695,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\085.Horned_Lark\\Horned_Lark_0013_74374.jpg",
+      "mean_similarity": 0.9458156228065491,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\085.Horned_Lark\\Horned_Lark_0091_74087.jpg",
+      "mean_similarity": 0.9454039931297302,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\085.Horned_Lark\\Horned_Lark_0028_74408.jpg",
+      "mean_similarity": 0.9450069069862366,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\085.Horned_Lark\\Horned_Lark_0043_74450.jpg",
+      "mean_similarity": 0.9445129036903381,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\085.Horned_Lark\\Horned_Lark_0072_74067.jpg",
+      "mean_similarity": 0.9438780546188354,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\085.Horned_Lark\\Horned_Lark_0046_73950.jpg",
+      "mean_similarity": 0.9436991214752197,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\085.Horned_Lark\\Horned_Lark_0059_74144.jpg",
+      "mean_similarity": 0.9436488747596741,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\085.Horned_Lark\\Horned_Lark_0076_73931.jpg",
+      "mean_similarity": 0.9432857036590576,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\085.Horned_Lark\\Horned_Lark_0096_74075.jpg",
+      "mean_similarity": 0.9422504305839539,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\085.Horned_Lark\\Horned_Lark_0069_74093.jpg",
+      "mean_similarity": 0.9418288469314575,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\085.Horned_Lark\\Horned_Lark_0138_74083.jpg",
+      "mean_similarity": 0.9418262839317322,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\085.Horned_Lark\\Horned_Lark_0079_73958.jpg",
+      "mean_similarity": 0.9413378238677979,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\085.Horned_Lark\\Horned_Lark_0113_74613.jpg",
+      "mean_similarity": 0.9413058161735535,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\085.Horned_Lark\\Horned_Lark_0010_75291.jpg",
+      "mean_similarity": 0.9412391781806946,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\085.Horned_Lark\\Horned_Lark_0009_74646.jpg",
+      "mean_similarity": 0.941234827041626,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\085.Horned_Lark\\Horned_Lark_0025_75003.jpg",
+      "mean_similarity": 0.9407595992088318,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\085.Horned_Lark\\Horned_Lark_0035_74555.jpg",
+      "mean_similarity": 0.9402832984924316,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\085.Horned_Lark\\Horned_Lark_0127_74414.jpg",
+      "mean_similarity": 0.939260721206665,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\085.Horned_Lark\\Horned_Lark_0130_74001.jpg",
+      "mean_similarity": 0.9391373991966248,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\085.Horned_Lark\\Horned_Lark_0089_74386.jpg",
+      "mean_similarity": 0.9376583695411682,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\085.Horned_Lark\\Horned_Lark_0097_74496.jpg",
+      "mean_similarity": 0.9373462200164795,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\085.Horned_Lark\\Horned_Lark_0116_73840.jpg",
+      "mean_similarity": 0.9342825412750244,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\085.Horned_Lark\\Horned_Lark_0015_74855.jpg",
+      "mean_similarity": 0.9337140321731567,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\085.Horned_Lark\\Horned_Lark_0088_74590.jpg",
+      "mean_similarity": 0.9319910407066345,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\085.Horned_Lark\\Horned_Lark_0134_74689.jpg",
+      "mean_similarity": 0.9307058453559875,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\085.Horned_Lark\\Horned_Lark_0067_75266.jpg",
+      "mean_similarity": 0.9149988889694214,
+      "rank": 30
+    }
+  ]
+}

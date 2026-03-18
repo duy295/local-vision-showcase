@@ -1,0 +1,26 @@
+{
+  "class_name": "lawn mower",
+  "global_description": "A machine with a rectangular metal body, typically green or red, featuring a rotating blade underneath, four wheels, a handlebar for pushing, and a grass collection bag at the rear.",
+  "discriminative_attributes": [
+    "Rectangular metal body",
+    "Rotating blade underneath",
+    "Four wheels",
+    "Handlebar for pushing",
+    "Grass collection bag"
+  ],
+  "part_details": {
+    "body": "Rectangular, metal, often green or red",
+    "blade": "Rotating, located underneath",
+    "wheels": "Four, attached to corners",
+    "handlebar": "Curved, for pushing",
+    "bag": "Attached at rear, for grass collection"
+  },
+  "spatial_relations": [
+    "Blade positioned underneath body",
+    "Wheels at corners of body",
+    "Handlebar extends from rear",
+    "Bag attached at rear"
+  ],
+  "original_dataset_key": "cifar100",
+  "original_class_key": "lawn_mower"
+}

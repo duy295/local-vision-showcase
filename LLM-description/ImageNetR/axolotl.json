@@ -1,0 +1,25 @@
+{
+  "class_name": "axolotl",
+  "global_description": "A small amphibian with a slender, elongated body and smooth, moist skin. It is typically pale pink or white with visible external gills on either side of its head. The axolotl has a wide, flat head with small eyes and a broad mouth. Its limbs are short with delicate fingers, and it has a long, tapering tail.",
+  "discriminative_attributes": [
+    "External gills on head",
+    "Slender, elongated body",
+    "Pale pink or white color",
+    "Smooth, moist skin",
+    "Short limbs with delicate fingers"
+  ],
+  "part_details": {
+    "head": "Wide and flat with small eyes and external gills",
+    "body": "Slender and elongated with smooth skin",
+    "gills": "Feathery, external, located on sides of head",
+    "limbs": "Short with delicate fingers",
+    "tail": "Long and tapering"
+  },
+  "spatial_relations": [
+    "Gills positioned on sides of head",
+    "Limbs attached to sides of body",
+    "Tail extending from rear of body"
+  ],
+  "original_dataset_key": "ImageNetR",
+  "original_class_key": "axolotl"
+}

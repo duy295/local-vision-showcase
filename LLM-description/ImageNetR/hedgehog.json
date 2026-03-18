@@ -1,0 +1,26 @@
+{
+  "class_name": "hedgehog",
+  "global_description": "Small mammal with a rounded body covered in short spines, typically brown or gray. It has a pointed snout, small eyes, and short legs. The spines are stiff and sharp, providing protection.",
+  "discriminative_attributes": [
+    "Covered in short spines",
+    "Rounded body",
+    "Pointed snout",
+    "Small eyes",
+    "Short legs"
+  ],
+  "part_details": {
+    "head": "Small with a pointed snout and small eyes",
+    "body": "Rounded, covered in short, stiff spines",
+    "spines": "Short, stiff, and sharp, covering the back",
+    "legs": "Short and sturdy, adapted for walking",
+    "eyes": "Small and dark"
+  },
+  "spatial_relations": [
+    "Head at front of body",
+    "Spines covering back",
+    "Legs beneath body",
+    "Eyes on sides of head"
+  ],
+  "original_dataset_key": "ImageNetR",
+  "original_class_key": "hedgehog"
+}

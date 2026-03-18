@@ -1,0 +1,1259 @@
+{
+  "class_name": "keyboard",
+  "class_idx": 39,
+  "num_images_in_class": 500,
+  "ec_size_requested": 250,
+  "ec_size_actual": 250,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\computer_keyboard_s_001789.png",
+      "mean_similarity": 0.9418028593063354,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\computer_keyboard_s_001192.png",
+      "mean_similarity": 0.9412389993667603,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\clavier_s_000542.png",
+      "mean_similarity": 0.9410216808319092,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\keyboard_s_001821.png",
+      "mean_similarity": 0.9408178925514221,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\clavier_s_000398.png",
+      "mean_similarity": 0.9403844475746155,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\clavier_s_000577.png",
+      "mean_similarity": 0.9402335286140442,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\computer_keyboard_s_001278.png",
+      "mean_similarity": 0.9402104020118713,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\computer_keyboard_s_001091.png",
+      "mean_similarity": 0.9401474595069885,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\keyboard_s_000235.png",
+      "mean_similarity": 0.9400811195373535,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\computer_keyboard_s_001090.png",
+      "mean_similarity": 0.9400615096092224,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\computer_keyboard_s_000620.png",
+      "mean_similarity": 0.9400185942649841,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\computer_keyboard_s_000711.png",
+      "mean_similarity": 0.9400160908699036,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\keyboard_s_001052.png",
+      "mean_similarity": 0.9399920701980591,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\computer_keyboard_s_001609.png",
+      "mean_similarity": 0.9399140477180481,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\keyboard_s_001558.png",
+      "mean_similarity": 0.9399130344390869,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\keyboard_s_001233.png",
+      "mean_similarity": 0.9399121999740601,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\keyboard_s_000836.png",
+      "mean_similarity": 0.9398334622383118,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\keyboard_s_001086.png",
+      "mean_similarity": 0.9396771192550659,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\computer_keyboard_s_000463.png",
+      "mean_similarity": 0.9396472573280334,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\keyboard_s_000757.png",
+      "mean_similarity": 0.9396263360977173,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\keyboard_s_000368.png",
+      "mean_similarity": 0.9395764470100403,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\computer_keyboard_s_000793.png",
+      "mean_similarity": 0.9395736455917358,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\computer_keyboard_s_002162.png",
+      "mean_similarity": 0.9395650625228882,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\clavier_s_000854.png",
+      "mean_similarity": 0.9395553469657898,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\computer_keyboard_s_000750.png",
+      "mean_similarity": 0.9395413398742676,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\keyboard_s_001433.png",
+      "mean_similarity": 0.9394673109054565,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\computer_keyboard_s_000442.png",
+      "mean_similarity": 0.9393804669380188,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\keyboard_s_001636.png",
+      "mean_similarity": 0.939347505569458,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\keyboard_s_000092.png",
+      "mean_similarity": 0.939268946647644,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\computer_keyboard_s_000370.png",
+      "mean_similarity": 0.9392235279083252,
+      "rank": 30
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\clavier_s_000300.png",
+      "mean_similarity": 0.9392223358154297,
+      "rank": 31
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\keyboard_s_001560.png",
+      "mean_similarity": 0.9392182230949402,
+      "rank": 32
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\computer_keyboard_s_000043.png",
+      "mean_similarity": 0.9391348361968994,
+      "rank": 33
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\keyboard_s_000972.png",
+      "mean_similarity": 0.9390273094177246,
+      "rank": 34
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\clavier_s_000821.png",
+      "mean_similarity": 0.9390087723731995,
+      "rank": 35
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\computer_keyboard_s_000700.png",
+      "mean_similarity": 0.9389967322349548,
+      "rank": 36
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\computer_keyboard_s_000758.png",
+      "mean_similarity": 0.9389858841896057,
+      "rank": 37
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\keyboard_s_001648.png",
+      "mean_similarity": 0.9389534592628479,
+      "rank": 38
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\computer_keyboard_s_001945.png",
+      "mean_similarity": 0.9389323592185974,
+      "rank": 39
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\clavier_s_000387.png",
+      "mean_similarity": 0.9388703107833862,
+      "rank": 40
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\computer_keyboard_s_001089.png",
+      "mean_similarity": 0.9387941360473633,
+      "rank": 41
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\computer_keyboard_s_001837.png",
+      "mean_similarity": 0.9387508630752563,
+      "rank": 42
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\keyboard_s_000184.png",
+      "mean_similarity": 0.9387013912200928,
+      "rank": 43
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\computer_keyboard_s_001371.png",
+      "mean_similarity": 0.9386988282203674,
+      "rank": 44
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\computer_keyboard_s_000460.png",
+      "mean_similarity": 0.9386687278747559,
+      "rank": 45
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\computer_keyboard_s_002286.png",
+      "mean_similarity": 0.938660740852356,
+      "rank": 46
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\computer_keyboard_s_000149.png",
+      "mean_similarity": 0.9385894536972046,
+      "rank": 47
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\computer_keyboard_s_000164.png",
+      "mean_similarity": 0.938555121421814,
+      "rank": 48
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\clavier_s_000865.png",
+      "mean_similarity": 0.9385461211204529,
+      "rank": 49
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\clavier_s_000565.png",
+      "mean_similarity": 0.9384771585464478,
+      "rank": 50
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\computer_keyboard_s_001596.png",
+      "mean_similarity": 0.9384240508079529,
+      "rank": 51
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\keyboard_s_000082.png",
+      "mean_similarity": 0.9384106993675232,
+      "rank": 52
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\clavier_s_000818.png",
+      "mean_similarity": 0.9384055137634277,
+      "rank": 53
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\computer_keyboard_s_001735.png",
+      "mean_similarity": 0.938363790512085,
+      "rank": 54
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\keyboard_s_000968.png",
+      "mean_similarity": 0.9383587837219238,
+      "rank": 55
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\keyboard_s_000156.png",
+      "mean_similarity": 0.9383343458175659,
+      "rank": 56
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\clavier_s_000458.png",
+      "mean_similarity": 0.9383302927017212,
+      "rank": 57
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\computer_keyboard_s_000002.png",
+      "mean_similarity": 0.9383206963539124,
+      "rank": 58
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\computer_keyboard_s_001310.png",
+      "mean_similarity": 0.938315212726593,
+      "rank": 59
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\computer_keyboard_s_002006.png",
+      "mean_similarity": 0.9382914900779724,
+      "rank": 60
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\clavier_s_000159.png",
+      "mean_similarity": 0.9382761716842651,
+      "rank": 61
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\keyboard_s_001128.png",
+      "mean_similarity": 0.938169002532959,
+      "rank": 62
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\clavier_s_000184.png",
+      "mean_similarity": 0.9380977749824524,
+      "rank": 63
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\computer_keyboard_s_000938.png",
+      "mean_similarity": 0.938076376914978,
+      "rank": 64
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\keyboard_s_000825.png",
+      "mean_similarity": 0.938058614730835,
+      "rank": 65
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\computer_keyboard_s_001417.png",
+      "mean_similarity": 0.9380374550819397,
+      "rank": 66
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\computer_keyboard_s_000951.png",
+      "mean_similarity": 0.9380369782447815,
+      "rank": 67
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\keyboard_s_001140.png",
+      "mean_similarity": 0.9380161762237549,
+      "rank": 68
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\clavier_s_000193.png",
+      "mean_similarity": 0.9379924535751343,
+      "rank": 69
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\clavier_s_000977.png",
+      "mean_similarity": 0.9379188418388367,
+      "rank": 70
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\computer_keyboard_s_000710.png",
+      "mean_similarity": 0.937885046005249,
+      "rank": 71
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\clavier_s_000070.png",
+      "mean_similarity": 0.9378430247306824,
+      "rank": 72
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\clavier_s_000216.png",
+      "mean_similarity": 0.9378232955932617,
+      "rank": 73
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\keyboard_s_001958.png",
+      "mean_similarity": 0.9378116726875305,
+      "rank": 74
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\clavier_s_001009.png",
+      "mean_similarity": 0.9377384185791016,
+      "rank": 75
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\keyboard_s_000357.png",
+      "mean_similarity": 0.937699019908905,
+      "rank": 76
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\computer_keyboard_s_000012.png",
+      "mean_similarity": 0.937690019607544,
+      "rank": 77
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\clavier_s_000114.png",
+      "mean_similarity": 0.9376363754272461,
+      "rank": 78
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\computer_keyboard_s_000868.png",
+      "mean_similarity": 0.937630295753479,
+      "rank": 79
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\computer_keyboard_s_000401.png",
+      "mean_similarity": 0.9376001954078674,
+      "rank": 80
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\computer_keyboard_s_002244.png",
+      "mean_similarity": 0.9375810623168945,
+      "rank": 81
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\computer_keyboard_s_001342.png",
+      "mean_similarity": 0.937568724155426,
+      "rank": 82
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\clavier_s_000213.png",
+      "mean_similarity": 0.9375584721565247,
+      "rank": 83
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\clavier_s_000036.png",
+      "mean_similarity": 0.9374979734420776,
+      "rank": 84
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\clavier_s_000119.png",
+      "mean_similarity": 0.9374699592590332,
+      "rank": 85
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\clavier_s_000543.png",
+      "mean_similarity": 0.93741774559021,
+      "rank": 86
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\keyboard_s_001319.png",
+      "mean_similarity": 0.937417209148407,
+      "rank": 87
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\computer_keyboard_s_001096.png",
+      "mean_similarity": 0.9373558163642883,
+      "rank": 88
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\clavier_s_000063.png",
+      "mean_similarity": 0.9372965693473816,
+      "rank": 89
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\clavier_s_000771.png",
+      "mean_similarity": 0.9372699856758118,
+      "rank": 90
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\computer_keyboard_s_000664.png",
+      "mean_similarity": 0.9372685551643372,
+      "rank": 91
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\clavier_s_000228.png",
+      "mean_similarity": 0.937262237071991,
+      "rank": 92
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\computer_keyboard_s_000548.png",
+      "mean_similarity": 0.93724524974823,
+      "rank": 93
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\computer_keyboard_s_002078.png",
+      "mean_similarity": 0.9372236132621765,
+      "rank": 94
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\clavier_s_000210.png",
+      "mean_similarity": 0.9372047185897827,
+      "rank": 95
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\keyboard_s_001384.png",
+      "mean_similarity": 0.9371359348297119,
+      "rank": 96
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\clavier_s_000014.png",
+      "mean_similarity": 0.9371207356452942,
+      "rank": 97
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\computer_keyboard_s_000375.png",
+      "mean_similarity": 0.9370971918106079,
+      "rank": 98
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\keyboard_s_000164.png",
+      "mean_similarity": 0.9370907545089722,
+      "rank": 99
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\computer_keyboard_s_001671.png",
+      "mean_similarity": 0.9370656609535217,
+      "rank": 100
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\computer_keyboard_s_000892.png",
+      "mean_similarity": 0.9370633363723755,
+      "rank": 101
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\clavier_s_000675.png",
+      "mean_similarity": 0.9370102882385254,
+      "rank": 102
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\clavier_s_000378.png",
+      "mean_similarity": 0.936995804309845,
+      "rank": 103
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\keyboard_s_001496.png",
+      "mean_similarity": 0.9369897246360779,
+      "rank": 104
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\clavier_s_000534.png",
+      "mean_similarity": 0.9369714260101318,
+      "rank": 105
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\keyboard_s_000925.png",
+      "mean_similarity": 0.9369696378707886,
+      "rank": 106
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\keyboard_s_000652.png",
+      "mean_similarity": 0.9369279742240906,
+      "rank": 107
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\computer_keyboard_s_001372.png",
+      "mean_similarity": 0.9368508458137512,
+      "rank": 108
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\computer_keyboard_s_001429.png",
+      "mean_similarity": 0.9368271231651306,
+      "rank": 109
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\computer_keyboard_s_001556.png",
+      "mean_similarity": 0.936771035194397,
+      "rank": 110
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\computer_keyboard_s_000313.png",
+      "mean_similarity": 0.936730146408081,
+      "rank": 111
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\keyboard_s_000630.png",
+      "mean_similarity": 0.936698853969574,
+      "rank": 112
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\computer_keyboard_s_000067.png",
+      "mean_similarity": 0.9366949200630188,
+      "rank": 113
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\computer_keyboard_s_000572.png",
+      "mean_similarity": 0.9366920590400696,
+      "rank": 114
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\keypad_s_000039.png",
+      "mean_similarity": 0.936667799949646,
+      "rank": 115
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\clavier_s_000173.png",
+      "mean_similarity": 0.9366518259048462,
+      "rank": 116
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\clavier_s_000442.png",
+      "mean_similarity": 0.9366462826728821,
+      "rank": 117
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\keyboard_s_000342.png",
+      "mean_similarity": 0.9366122484207153,
+      "rank": 118
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\keyboard_s_000158.png",
+      "mean_similarity": 0.936530590057373,
+      "rank": 119
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\computer_keyboard_s_001468.png",
+      "mean_similarity": 0.9365261793136597,
+      "rank": 120
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\keyboard_s_000186.png",
+      "mean_similarity": 0.936509370803833,
+      "rank": 121
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\computer_keyboard_s_000888.png",
+      "mean_similarity": 0.9364587068557739,
+      "rank": 122
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\keyboard_s_000138.png",
+      "mean_similarity": 0.9364426136016846,
+      "rank": 123
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\computer_keyboard_s_000004.png",
+      "mean_similarity": 0.9364320635795593,
+      "rank": 124
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\keyboard_s_000530.png",
+      "mean_similarity": 0.9364296793937683,
+      "rank": 125
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\computer_keyboard_s_001082.png",
+      "mean_similarity": 0.9364252090454102,
+      "rank": 126
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\computer_keyboard_s_001163.png",
+      "mean_similarity": 0.9364105463027954,
+      "rank": 127
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\keyboard_s_000143.png",
+      "mean_similarity": 0.9363269209861755,
+      "rank": 128
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\computer_keyboard_s_001051.png",
+      "mean_similarity": 0.9363177418708801,
+      "rank": 129
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\computer_keyboard_s_000667.png",
+      "mean_similarity": 0.9362953305244446,
+      "rank": 130
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\computer_keyboard_s_001235.png",
+      "mean_similarity": 0.9362604022026062,
+      "rank": 131
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\keyboard_s_001475.png",
+      "mean_similarity": 0.936255931854248,
+      "rank": 132
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\computer_keyboard_s_000115.png",
+      "mean_similarity": 0.9362325668334961,
+      "rank": 133
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\computer_keyboard_s_001568.png",
+      "mean_similarity": 0.9362236261367798,
+      "rank": 134
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\keyboard_s_001157.png",
+      "mean_similarity": 0.9361867308616638,
+      "rank": 135
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\computer_keyboard_s_000897.png",
+      "mean_similarity": 0.9361408948898315,
+      "rank": 136
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\computer_keyboard_s_000304.png",
+      "mean_similarity": 0.9360727071762085,
+      "rank": 137
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\keyboard_s_001617.png",
+      "mean_similarity": 0.9360695481300354,
+      "rank": 138
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\keyboard_s_001076.png",
+      "mean_similarity": 0.9360422492027283,
+      "rank": 139
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\computer_keyboard_s_000891.png",
+      "mean_similarity": 0.9360095858573914,
+      "rank": 140
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\keyboard_s_000389.png",
+      "mean_similarity": 0.9359889626502991,
+      "rank": 141
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\computer_keyboard_s_001248.png",
+      "mean_similarity": 0.9359840154647827,
+      "rank": 142
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\computer_keyboard_s_001409.png",
+      "mean_similarity": 0.9359800219535828,
+      "rank": 143
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\keyboard_s_000501.png",
+      "mean_similarity": 0.9359555840492249,
+      "rank": 144
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\keyboard_s_001691.png",
+      "mean_similarity": 0.9359538555145264,
+      "rank": 145
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\keyboard_s_001526.png",
+      "mean_similarity": 0.9359467625617981,
+      "rank": 146
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\computer_keyboard_s_000581.png",
+      "mean_similarity": 0.935901939868927,
+      "rank": 147
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\computer_keyboard_s_000015.png",
+      "mean_similarity": 0.9358680844306946,
+      "rank": 148
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\keyboard_s_001659.png",
+      "mean_similarity": 0.9358083009719849,
+      "rank": 149
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\keyboard_s_000025.png",
+      "mean_similarity": 0.9357959032058716,
+      "rank": 150
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\computer_keyboard_s_001957.png",
+      "mean_similarity": 0.9357748627662659,
+      "rank": 151
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\keyboard_s_001470.png",
+      "mean_similarity": 0.935714840888977,
+      "rank": 152
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\computer_keyboard_s_001747.png",
+      "mean_similarity": 0.9356974363327026,
+      "rank": 153
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\computer_keyboard_s_000714.png",
+      "mean_similarity": 0.9356863498687744,
+      "rank": 154
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\computer_keyboard_s_001462.png",
+      "mean_similarity": 0.9356564879417419,
+      "rank": 155
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\keyboard_s_001547.png",
+      "mean_similarity": 0.9356469511985779,
+      "rank": 156
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\keyboard_s_000073.png",
+      "mean_similarity": 0.935640811920166,
+      "rank": 157
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\keyboard_s_001955.png",
+      "mean_similarity": 0.9355964064598083,
+      "rank": 158
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\computer_keyboard_s_000257.png",
+      "mean_similarity": 0.9355689287185669,
+      "rank": 159
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\keyboard_s_000896.png",
+      "mean_similarity": 0.935567319393158,
+      "rank": 160
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\keyboard_s_001098.png",
+      "mean_similarity": 0.9355639815330505,
+      "rank": 161
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\clavier_s_000146.png",
+      "mean_similarity": 0.9354352951049805,
+      "rank": 162
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\computer_keyboard_s_000506.png",
+      "mean_similarity": 0.935416579246521,
+      "rank": 163
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\computer_keyboard_s_001217.png",
+      "mean_similarity": 0.9354003071784973,
+      "rank": 164
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\computer_keyboard_s_001347.png",
+      "mean_similarity": 0.9353832006454468,
+      "rank": 165
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\keyboard_s_001222.png",
+      "mean_similarity": 0.935359001159668,
+      "rank": 166
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\computer_keyboard_s_000132.png",
+      "mean_similarity": 0.9353105425834656,
+      "rank": 167
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\computer_keyboard_s_000530.png",
+      "mean_similarity": 0.9352730512619019,
+      "rank": 168
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\keyboard_s_001149.png",
+      "mean_similarity": 0.935250997543335,
+      "rank": 169
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\keyboard_s_001144.png",
+      "mean_similarity": 0.9352231025695801,
+      "rank": 170
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\computer_keyboard_s_001665.png",
+      "mean_similarity": 0.9352172613143921,
+      "rank": 171
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\computer_keyboard_s_001573.png",
+      "mean_similarity": 0.9351650476455688,
+      "rank": 172
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\clavier_s_000272.png",
+      "mean_similarity": 0.9351544976234436,
+      "rank": 173
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\keyboard_s_001932.png",
+      "mean_similarity": 0.9350224733352661,
+      "rank": 174
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\computer_keyboard_s_000712.png",
+      "mean_similarity": 0.9349578619003296,
+      "rank": 175
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\keyboard_s_001542.png",
+      "mean_similarity": 0.9349060654640198,
+      "rank": 176
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\computer_keyboard_s_001931.png",
+      "mean_similarity": 0.9348701238632202,
+      "rank": 177
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\computer_keyboard_s_001905.png",
+      "mean_similarity": 0.9347887635231018,
+      "rank": 178
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\computer_keyboard_s_000969.png",
+      "mean_similarity": 0.9347872138023376,
+      "rank": 179
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\clavier_s_000105.png",
+      "mean_similarity": 0.9347811937332153,
+      "rank": 180
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\computer_keyboard_s_001119.png",
+      "mean_similarity": 0.9347652792930603,
+      "rank": 181
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\computer_keyboard_s_002076.png",
+      "mean_similarity": 0.9347410798072815,
+      "rank": 182
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\keyboard_s_001844.png",
+      "mean_similarity": 0.9347251653671265,
+      "rank": 183
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\keyboard_s_000823.png",
+      "mean_similarity": 0.9347158670425415,
+      "rank": 184
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\computer_keyboard_s_000236.png",
+      "mean_similarity": 0.9346453547477722,
+      "rank": 185
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\computer_keyboard_s_002102.png",
+      "mean_similarity": 0.9346209168434143,
+      "rank": 186
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\keyboard_s_000786.png",
+      "mean_similarity": 0.9345571398735046,
+      "rank": 187
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\keyboard_s_001361.png",
+      "mean_similarity": 0.9345556497573853,
+      "rank": 188
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\clavier_s_000026.png",
+      "mean_similarity": 0.9345431923866272,
+      "rank": 189
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\clavier_s_000446.png",
+      "mean_similarity": 0.9345338344573975,
+      "rank": 190
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\clavier_s_001033.png",
+      "mean_similarity": 0.9344940781593323,
+      "rank": 191
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\computer_keyboard_s_000999.png",
+      "mean_similarity": 0.9344921708106995,
+      "rank": 192
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\keyboard_s_002027.png",
+      "mean_similarity": 0.9344660639762878,
+      "rank": 193
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\keyboard_s_000547.png",
+      "mean_similarity": 0.9344330430030823,
+      "rank": 194
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\clavier_s_000161.png",
+      "mean_similarity": 0.934377133846283,
+      "rank": 195
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\computer_keyboard_s_000060.png",
+      "mean_similarity": 0.934337317943573,
+      "rank": 196
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\computer_keyboard_s_001532.png",
+      "mean_similarity": 0.9342854619026184,
+      "rank": 197
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\computer_keyboard_s_001461.png",
+      "mean_similarity": 0.9342740774154663,
+      "rank": 198
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\clavier_s_000742.png",
+      "mean_similarity": 0.9342607259750366,
+      "rank": 199
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\computer_keyboard_s_000009.png",
+      "mean_similarity": 0.9342408180236816,
+      "rank": 200
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\computer_keyboard_s_002201.png",
+      "mean_similarity": 0.9342321157455444,
+      "rank": 201
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\keyboard_s_000134.png",
+      "mean_similarity": 0.9341910481452942,
+      "rank": 202
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\keyboard_s_000857.png",
+      "mean_similarity": 0.9341891407966614,
+      "rank": 203
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\computer_keyboard_s_001320.png",
+      "mean_similarity": 0.934187650680542,
+      "rank": 204
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\clavier_s_000712.png",
+      "mean_similarity": 0.9341832995414734,
+      "rank": 205
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\computer_keyboard_s_001086.png",
+      "mean_similarity": 0.9341709613800049,
+      "rank": 206
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\clavier_s_000863.png",
+      "mean_similarity": 0.9341360330581665,
+      "rank": 207
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\keyboard_s_000581.png",
+      "mean_similarity": 0.9341320991516113,
+      "rank": 208
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\keyboard_s_001548.png",
+      "mean_similarity": 0.9340915679931641,
+      "rank": 209
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\keyboard_s_000384.png",
+      "mean_similarity": 0.9340602159500122,
+      "rank": 210
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\clavier_s_000916.png",
+      "mean_similarity": 0.9340285062789917,
+      "rank": 211
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\clavier_s_000447.png",
+      "mean_similarity": 0.9339995980262756,
+      "rank": 212
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\computer_keyboard_s_000184.png",
+      "mean_similarity": 0.9339303970336914,
+      "rank": 213
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\computer_keyboard_s_000585.png",
+      "mean_similarity": 0.9339161515235901,
+      "rank": 214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\computer_keyboard_s_000614.png",
+      "mean_similarity": 0.9339140057563782,
+      "rank": 215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\clavier_s_000973.png",
+      "mean_similarity": 0.933896005153656,
+      "rank": 216
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\keyboard_s_001688.png",
+      "mean_similarity": 0.9338904619216919,
+      "rank": 217
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\clavier_s_000441.png",
+      "mean_similarity": 0.9338618516921997,
+      "rank": 218
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\computer_keyboard_s_001360.png",
+      "mean_similarity": 0.9337595701217651,
+      "rank": 219
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\clavier_s_000417.png",
+      "mean_similarity": 0.9337446689605713,
+      "rank": 220
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\computer_keyboard_s_000481.png",
+      "mean_similarity": 0.9337051510810852,
+      "rank": 221
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\computer_keyboard_s_000757.png",
+      "mean_similarity": 0.9336932897567749,
+      "rank": 222
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\keyboard_s_000748.png",
+      "mean_similarity": 0.9336406588554382,
+      "rank": 223
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\computer_keyboard_s_001076.png",
+      "mean_similarity": 0.9336356520652771,
+      "rank": 224
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\computer_keyboard_s_000025.png",
+      "mean_similarity": 0.9336012005805969,
+      "rank": 225
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\computer_keyboard_s_000661.png",
+      "mean_similarity": 0.9335616827011108,
+      "rank": 226
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\keyboard_s_000006.png",
+      "mean_similarity": 0.9335342049598694,
+      "rank": 227
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\keyboard_s_001466.png",
+      "mean_similarity": 0.9334772229194641,
+      "rank": 228
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\computer_keyboard_s_000873.png",
+      "mean_similarity": 0.9334756135940552,
+      "rank": 229
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\computer_keyboard_s_001949.png",
+      "mean_similarity": 0.9334683418273926,
+      "rank": 230
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\computer_keyboard_s_000492.png",
+      "mean_similarity": 0.9334163665771484,
+      "rank": 231
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\computer_keyboard_s_001445.png",
+      "mean_similarity": 0.9333617687225342,
+      "rank": 232
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\computer_keyboard_s_002273.png",
+      "mean_similarity": 0.9333100318908691,
+      "rank": 233
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\computer_keyboard_s_000900.png",
+      "mean_similarity": 0.9332776069641113,
+      "rank": 234
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\computer_keyboard_s_000018.png",
+      "mean_similarity": 0.9332764744758606,
+      "rank": 235
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\computer_keyboard_s_000612.png",
+      "mean_similarity": 0.9332733750343323,
+      "rank": 236
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\keyboard_s_000842.png",
+      "mean_similarity": 0.933251678943634,
+      "rank": 237
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\keyboard_s_001227.png",
+      "mean_similarity": 0.9331183433532715,
+      "rank": 238
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\computer_keyboard_s_000743.png",
+      "mean_similarity": 0.9329660534858704,
+      "rank": 239
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\computer_keyboard_s_001272.png",
+      "mean_similarity": 0.9329488277435303,
+      "rank": 240
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\keyboard_s_001467.png",
+      "mean_similarity": 0.9329478144645691,
+      "rank": 241
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\clavier_s_000149.png",
+      "mean_similarity": 0.9328978061676025,
+      "rank": 242
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\computer_keyboard_s_000417.png",
+      "mean_similarity": 0.9328580498695374,
+      "rank": 243
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\computer_keyboard_s_000831.png",
+      "mean_similarity": 0.9328098893165588,
+      "rank": 244
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\computer_keyboard_s_000706.png",
+      "mean_similarity": 0.9327847957611084,
+      "rank": 245
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\clavier_s_000002.png",
+      "mean_similarity": 0.9327519536018372,
+      "rank": 246
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\computer_keyboard_s_000889.png",
+      "mean_similarity": 0.9327489137649536,
+      "rank": 247
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\clavier_s_000529.png",
+      "mean_similarity": 0.9327448606491089,
+      "rank": 248
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\computer_keyboard_s_001332.png",
+      "mean_similarity": 0.9326696991920471,
+      "rank": 249
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\040.keyboard\\clavier_s_000093.png",
+      "mean_similarity": 0.9326118230819702,
+      "rank": 250
+    }
+  ]
+}

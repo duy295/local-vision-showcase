@@ -1,0 +1,26 @@
+{
+  "class_name": "Bird",
+  "global_description": "A small, slender songbird with a rounded body and short tail. It features a streaked brown and gray plumage with a buffy breast and a distinctive white eye-ring. The wings and back are brown with darker streaks, and the underparts are pale with fine streaks.",
+  "discriminative_attributes": [
+    "Streaked brown and gray plumage",
+    "Buffy breast with fine streaks",
+    "Distinctive white eye-ring",
+    "Short tail",
+    "Brown wings with darker streaks"
+  ],
+  "part_details": {
+    "head": "Rounded with a white eye-ring and streaked crown",
+    "wings": "Brown with darker streaks",
+    "breast": "Buffy with fine streaks",
+    "tail": "Short and brown",
+    "back": "Brown with streaks"
+  },
+  "spatial_relations": [
+    "The white eye-ring encircles the eye",
+    "The streaked crown is on top of the head",
+    "The wings are attached to the sides of the body",
+    "The tail extends from the rear of the body"
+  ],
+  "original_dataset_key": "CUB200",
+  "original_class_key": "lincoln_sparrow"
+}

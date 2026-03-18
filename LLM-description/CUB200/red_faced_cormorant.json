@@ -1,0 +1,25 @@
+{
+  "class_name": "Bird",
+  "global_description": "A medium-sized seabird with a streamlined body, predominantly black plumage, and a distinctive red face. It has a long, slender neck and a sharp, hooked bill. The feathers are glossy and the wings are long and narrow.",
+  "discriminative_attributes": [
+    "Red facial skin",
+    "Glossy black plumage",
+    "Long slender neck",
+    "Sharp hooked bill",
+    "Narrow wings"
+  ],
+  "part_details": {
+    "face": "Bright red skin around the eyes and beak, contrasting with dark feathers.",
+    "plumage": "Glossy black feathers covering the body, providing a sleek appearance.",
+    "neck": "Long and slender, covered in black feathers.",
+    "bill": "Sharp and hooked, dark in color, suited for catching fish.",
+    "wings": "Long and narrow, enabling efficient flight over water."
+  },
+  "spatial_relations": [
+    "The red face is positioned at the front of the head.",
+    "The long neck extends from the body to the head.",
+    "The wings are attached to the sides of the body."
+  ],
+  "original_dataset_key": "CUB200",
+  "original_class_key": "red_faced_cormorant"
+}

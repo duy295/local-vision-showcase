@@ -1,0 +1,27 @@
+{
+  "class_name": "Pelagic Cormorant",
+  "global_description": "A slender, medium-sized seabird with a long neck and thin body. It has glossy black plumage with iridescent green and purple hues, a long, thin bill, and a distinctive red face patch. The wings are narrow and pointed, and the tail is long and wedge-shaped.",
+  "discriminative_attributes": [
+    "Glossy black plumage",
+    "Iridescent green and purple hues",
+    "Long thin bill",
+    "Red face patch",
+    "Narrow pointed wings",
+    "Long wedge-shaped tail"
+  ],
+  "part_details": {
+    "plumage": "Glossy black with iridescent green and purple tones, smooth texture.",
+    "bill": "Long, thin, slightly hooked at the tip, dark gray.",
+    "face": "Red patch around the eyes, contrasting with dark feathers.",
+    "wings": "Narrow, pointed, black with a glossy sheen.",
+    "tail": "Long, wedge-shaped, black with a glossy finish."
+  },
+  "spatial_relations": [
+    "The long thin bill extends from the front of the head.",
+    "The red face patch surrounds the eyes.",
+    "The narrow wings are attached to the sides of the body.",
+    "The long tail extends from the rear of the body."
+  ],
+  "original_dataset_key": "CUB200",
+  "original_class_key": "pelagic_cormorant"
+}

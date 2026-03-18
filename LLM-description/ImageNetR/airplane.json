@@ -1,0 +1,26 @@
+{
+  "class_name": "airplane",
+  "global_description": "Large flying vehicle with elongated fuselage, wide wings, typically metallic with white or silver finish, featuring engines, tail fin, and landing gear.",
+  "discriminative_attributes": [
+    "Elongated fuselage",
+    "Wide wings",
+    "Metallic body",
+    "Engines under wings",
+    "Tail fin"
+  ],
+  "part_details": {
+    "fuselage": "Elongated, cylindrical, metallic body",
+    "wings": "Wide, flat, extending from sides",
+    "engines": "Cylindrical, located under wings",
+    "tail": "Vertical fin at rear",
+    "landing gear": "Wheels beneath fuselage"
+  },
+  "spatial_relations": [
+    "Wings extend from fuselage",
+    "Engines under wings",
+    "Tail fin at rear",
+    "Landing gear beneath fuselage"
+  ],
+  "original_dataset_key": "ImageNetR",
+  "original_class_key": "airplane"
+}

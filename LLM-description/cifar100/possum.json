@@ -1,0 +1,26 @@
+{
+  "class_name": "possum",
+  "global_description": "Medium-sized marsupial with a long, prehensile tail, pointed snout, and large ears. Its fur is typically gray or brown, with a lighter underside. The body is rounded, and it has sharp claws for climbing.",
+  "discriminative_attributes": [
+    "Prehensile tail",
+    "Pointed snout",
+    "Large ears",
+    "Gray or brown fur",
+    "Sharp climbing claws"
+  ],
+  "part_details": {
+    "head": "Pointed snout with large ears and dark eyes",
+    "body": "Rounded with gray or brown fur, lighter underside",
+    "tail": "Long, prehensile, often hairless",
+    "legs": "Short with sharp claws",
+    "fur": "Soft, typically gray or brown"
+  },
+  "spatial_relations": [
+    "Head at front with snout and ears",
+    "Tail extending from rear",
+    "Legs beneath body",
+    "Fur covering body"
+  ],
+  "original_dataset_key": "cifar100",
+  "original_class_key": "possum"
+}

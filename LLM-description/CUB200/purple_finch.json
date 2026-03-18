@@ -1,0 +1,25 @@
+{
+  "class_name": "Purple Finch",
+  "global_description": "A small, plump bird with a conical beak and a rounded body. The plumage is predominantly a rich raspberry red, especially on the head, chest, and back, with streaked brown wings and tail. The underparts are lighter with a mix of white and red.",
+  "discriminative_attributes": [
+    "Raspberry red head and chest",
+    "Brown streaked wings and tail",
+    "Conical beak",
+    "Rounded body shape",
+    "Lighter underparts with red tinge"
+  ],
+  "part_details": {
+    "head": "Rich raspberry red, rounded with small eyes.",
+    "beak": "Short, conical, and pointed, suitable for seed eating.",
+    "wings": "Brown with darker streaks, folded against the body.",
+    "tail": "Short, brown, slightly forked with streaks.",
+    "underparts": "Lighter, mix of white and red, less vibrant than head."
+  },
+  "spatial_relations": [
+    "The raspberry red head transitions into the chest.",
+    "The brown wings are positioned laterally, folded against the body.",
+    "The short tail extends from the rear of the body."
+  ],
+  "original_dataset_key": "CUB200",
+  "original_class_key": "purple_finch"
+}

@@ -1,0 +1,159 @@
+{
+  "class_name": "048.European_Goldfinch",
+  "class_idx": 47,
+  "num_images_in_class": 30,
+  "ec_size_requested": 30,
+  "ec_size_actual": 30,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\048.European_Goldfinch\\European_Goldfinch_0068_33359.jpg",
+      "mean_similarity": 0.947944164276123,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\048.European_Goldfinch\\European_Goldfinch_0098_33152.jpg",
+      "mean_similarity": 0.9469054341316223,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\048.European_Goldfinch\\European_Goldfinch_0054_33169.jpg",
+      "mean_similarity": 0.9463424682617188,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\048.European_Goldfinch\\European_Goldfinch_0004_33313.jpg",
+      "mean_similarity": 0.9463053941726685,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\048.European_Goldfinch\\European_Goldfinch_0090_794648.jpg",
+      "mean_similarity": 0.9461842179298401,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\048.European_Goldfinch\\European_Goldfinch_0006_794661.jpg",
+      "mean_similarity": 0.9461218118667603,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\048.European_Goldfinch\\European_Goldfinch_0093_794653.jpg",
+      "mean_similarity": 0.9457522630691528,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\048.European_Goldfinch\\European_Goldfinch_0100_794685.jpg",
+      "mean_similarity": 0.9457377791404724,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\048.European_Goldfinch\\European_Goldfinch_0014_794672.jpg",
+      "mean_similarity": 0.9457323551177979,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\048.European_Goldfinch\\European_Goldfinch_0003_33066.jpg",
+      "mean_similarity": 0.9455763101577759,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\048.European_Goldfinch\\European_Goldfinch_0076_33173.jpg",
+      "mean_similarity": 0.9455561637878418,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\048.European_Goldfinch\\European_Goldfinch_0025_794647.jpg",
+      "mean_similarity": 0.9455432295799255,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\048.European_Goldfinch\\European_Goldfinch_0078_33170.jpg",
+      "mean_similarity": 0.9453152418136597,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\048.European_Goldfinch\\European_Goldfinch_0088_794651.jpg",
+      "mean_similarity": 0.9442333579063416,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\048.European_Goldfinch\\European_Goldfinch_0064_794670.jpg",
+      "mean_similarity": 0.9441373348236084,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\048.European_Goldfinch\\European_Goldfinch_0053_794639.jpg",
+      "mean_similarity": 0.9427902102470398,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\048.European_Goldfinch\\European_Goldfinch_0041_794645.jpg",
+      "mean_similarity": 0.9425382018089294,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\048.European_Goldfinch\\European_Goldfinch_0101_33127.jpg",
+      "mean_similarity": 0.9424294829368591,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\048.European_Goldfinch\\European_Goldfinch_0074_33348.jpg",
+      "mean_similarity": 0.9410083293914795,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\048.European_Goldfinch\\European_Goldfinch_0008_33153.jpg",
+      "mean_similarity": 0.9403820633888245,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\048.European_Goldfinch\\European_Goldfinch_0045_794690.jpg",
+      "mean_similarity": 0.940201461315155,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\048.European_Goldfinch\\European_Goldfinch_0052_33082.jpg",
+      "mean_similarity": 0.9381011128425598,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\048.European_Goldfinch\\European_Goldfinch_0103_794664.jpg",
+      "mean_similarity": 0.9380591511726379,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\048.European_Goldfinch\\European_Goldfinch_0032_794679.jpg",
+      "mean_similarity": 0.9373505711555481,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\048.European_Goldfinch\\European_Goldfinch_0030_33357.jpg",
+      "mean_similarity": 0.9367887377738953,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\048.European_Goldfinch\\European_Goldfinch_0046_33307.jpg",
+      "mean_similarity": 0.9346702098846436,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\048.European_Goldfinch\\European_Goldfinch_0012_794646.jpg",
+      "mean_similarity": 0.9280814528465271,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\048.European_Goldfinch\\European_Goldfinch_0097_794688.jpg",
+      "mean_similarity": 0.9246652722358704,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\048.European_Goldfinch\\European_Goldfinch_0107_794655.jpg",
+      "mean_similarity": 0.8701121807098389,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\048.European_Goldfinch\\European_Goldfinch_0013_794687.jpg",
+      "mean_similarity": 0.8556823134422302,
+      "rank": 30
+    }
+  ]
+}

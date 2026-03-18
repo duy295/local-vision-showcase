@@ -1,0 +1,24 @@
+{
+  "class_name": "Bird",
+  "global_description": "A medium-sized songbird with a compact body and a short, thick bill. The male is bright red all over, while the female is yellowish-olive with a reddish tint on the wings and tail. Both have smooth, unpatterned plumage.",
+  "discriminative_attributes": [
+    "Bright red male plumage",
+    "Yellowish-olive female with red tint",
+    "Short, thick bill",
+    "Smooth, unpatterned feathers",
+    "Compact body shape"
+  ],
+  "part_details": {
+    "plumage": "Male is bright red, female is yellowish-olive with reddish wings and tail.",
+    "bill": "Short, thick, conical, suitable for seed eating.",
+    "wings": "Medium length, smooth feathers, reddish tint on females.",
+    "tail": "Medium length, slightly notched, reddish tint on females."
+  },
+  "spatial_relations": [
+    "The bill is positioned centrally on the face.",
+    "The wings extend laterally from the body.",
+    "The tail is positioned at the rear of the body."
+  ],
+  "original_dataset_key": "CUB200",
+  "original_class_key": "summer_tanager"
+}

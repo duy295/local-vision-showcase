@@ -1,0 +1,23 @@
+{
+  "class_name": "sunflower",
+  "global_description": "Tall plant with a large, round flower head, bright yellow petals, and a dark brown central disc. The stem is long and green, with broad, rough leaves. The texture is coarse, and the overall appearance is vibrant and striking.",
+  "discriminative_attributes": [
+    "Large round flower head",
+    "Bright yellow petals",
+    "Dark brown central disc",
+    "Long green stem",
+    "Broad rough leaves"
+  ],
+  "part_details": {
+    "flower_head": "Large and round with bright yellow petals surrounding a dark brown central disc.",
+    "stem": "Long, green, and sturdy, supporting the flower head.",
+    "leaves": "Broad, rough, and green, attached to the stem."
+  },
+  "spatial_relations": [
+    "Petals encircle the central disc",
+    "Stem supports the flower head",
+    "Leaves extend from the stem"
+  ],
+  "original_dataset_key": "cifar100",
+  "original_class_key": "sunflower"
+}

@@ -1,0 +1,159 @@
+{
+  "class_name": "006.Least_Auklet",
+  "class_idx": 5,
+  "num_images_in_class": 30,
+  "ec_size_requested": 30,
+  "ec_size_actual": 30,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\006.Least_Auklet\\Least_Auklet_0016_1903.jpg",
+      "mean_similarity": 0.9461135268211365,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\006.Least_Auklet\\Least_Auklet_0030_795116.jpg",
+      "mean_similarity": 0.9451508522033691,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\006.Least_Auklet\\Least_Auklet_0040_795100.jpg",
+      "mean_similarity": 0.9445812106132507,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\006.Least_Auklet\\Least_Auklet_0060_795095.jpg",
+      "mean_similarity": 0.943558394908905,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\006.Least_Auklet\\Least_Auklet_0012_795074.jpg",
+      "mean_similarity": 0.9434868097305298,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\006.Least_Auklet\\Least_Auklet_0018_795077.jpg",
+      "mean_similarity": 0.9431270956993103,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\006.Least_Auklet\\Least_Auklet_0045_795069.jpg",
+      "mean_similarity": 0.9431204795837402,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\006.Least_Auklet\\Least_Auklet_0035_1888.jpg",
+      "mean_similarity": 0.9427319169044495,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\006.Least_Auklet\\Least_Auklet_0057_795126.jpg",
+      "mean_similarity": 0.9424734115600586,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\006.Least_Auklet\\Least_Auklet_0052_795088.jpg",
+      "mean_similarity": 0.9423449039459229,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\006.Least_Auklet\\Least_Auklet_0063_795134.jpg",
+      "mean_similarity": 0.9423102736473083,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\006.Least_Auklet\\Least_Auklet_0008_795071.jpg",
+      "mean_similarity": 0.9418542981147766,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\006.Least_Auklet\\Least_Auklet_0010_795092.jpg",
+      "mean_similarity": 0.9416160583496094,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\006.Least_Auklet\\Least_Auklet_0050_1924.jpg",
+      "mean_similarity": 0.941542387008667,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\006.Least_Auklet\\Least_Auklet_0021_795127.jpg",
+      "mean_similarity": 0.9410596489906311,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\006.Least_Auklet\\Least_Auklet_0034_795096.jpg",
+      "mean_similarity": 0.9405152797698975,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\006.Least_Auklet\\Least_Auklet_0017_795084.jpg",
+      "mean_similarity": 0.9402327537536621,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\006.Least_Auklet\\Least_Auklet_0026_795066.jpg",
+      "mean_similarity": 0.9400836229324341,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\006.Least_Auklet\\Least_Auklet_0043_795067.jpg",
+      "mean_similarity": 0.9399223327636719,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\006.Least_Auklet\\Least_Auklet_0011_795109.jpg",
+      "mean_similarity": 0.9387565851211548,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\006.Least_Auklet\\Least_Auklet_0054_795130.jpg",
+      "mean_similarity": 0.9386283159255981,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\006.Least_Auklet\\Least_Auklet_0029_795122.jpg",
+      "mean_similarity": 0.9377493858337402,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\006.Least_Auklet\\Least_Auklet_0020_795080.jpg",
+      "mean_similarity": 0.9377468824386597,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\006.Least_Auklet\\Least_Auklet_0027_795091.jpg",
+      "mean_similarity": 0.9374947547912598,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\006.Least_Auklet\\Least_Auklet_0024_795120.jpg",
+      "mean_similarity": 0.9373501539230347,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\006.Least_Auklet\\Least_Auklet_0042_1874.jpg",
+      "mean_similarity": 0.9349361062049866,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\006.Least_Auklet\\Least_Auklet_0058_1931.jpg",
+      "mean_similarity": 0.9336746335029602,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\006.Least_Auklet\\Least_Auklet_0015_795065.jpg",
+      "mean_similarity": 0.9335549473762512,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\006.Least_Auklet\\Least_Auklet_0007_795123.jpg",
+      "mean_similarity": 0.9301279187202454,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\006.Least_Auklet\\Least_Auklet_0038_795132.jpg",
+      "mean_similarity": 0.9227885603904724,
+      "rank": 30
+    }
+  ]
+}

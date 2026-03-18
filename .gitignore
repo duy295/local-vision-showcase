@@ -3,8 +3,8 @@ env/
 venv/
 .venv/
 E:/DATASET-FSCIL/
-Ec_result/
-weights/
+#Ec_result/
+#weights/
 # Không đẩy Dataset nặng (Sửa tên theo folder của sư đệ)
 CUB_200_2011/
 images/
@@ -12,10 +12,10 @@ images/
 *.png
 output_json
 # Không đẩy các file lưu model
-*.pth
+#*.pth
 *.h5
 
-LLM-description
+#LLM-description
 .vscode/test.py
 # Các file rác hệ thống
 __pycache__/

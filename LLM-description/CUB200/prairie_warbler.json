@@ -1,0 +1,27 @@
+{
+  "class_name": "Bird",
+  "global_description": "A small, slender songbird with a streamlined body, predominantly yellow with olive green and brown streaks. It features a pointed beak, bright yellow underparts, and a distinctive black streaked pattern on the sides. The wings and tail are brown with subtle yellow edges.",
+  "discriminative_attributes": [
+    "Bright yellow underparts",
+    "Olive green back",
+    "Black streaks on sides",
+    "Brown wings with yellow edges",
+    "Pointed beak"
+  ],
+  "part_details": {
+    "beak": "Short, pointed, and slightly curved, grayish in color.",
+    "underparts": "Vivid yellow, smooth texture, extending from throat to belly.",
+    "back": "Olive green with a smooth, matte texture.",
+    "wings": "Brown with subtle yellow edges, streamlined shape.",
+    "tail": "Brown, slightly forked with yellow tinges."
+  },
+  "spatial_relations": [
+    "The pointed beak is positioned at the front of the head.",
+    "The bright yellow underparts extend from the throat to the belly.",
+    "The olive green back covers the upper body.",
+    "The brown wings are attached to the sides of the body.",
+    "The tail extends from the rear of the body."
+  ],
+  "original_dataset_key": "CUB200",
+  "original_class_key": "prairie_warbler"
+}

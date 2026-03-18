@@ -1,0 +1,25 @@
+{
+  "class_name": "Bird",
+  "global_description": "A medium-sized bird with a sleek, aerodynamic body. It features vibrant blue plumage with black and white accents. The bird has a pointed beak, a prominent crest on its head, and a long, narrow tail. Its wings are broad and rounded, aiding in agile flight.",
+  "discriminative_attributes": [
+    "Vibrant blue plumage",
+    "Prominent crest on head",
+    "Black and white facial markings",
+    "Long, narrow tail",
+    "Broad, rounded wings"
+  ],
+  "part_details": {
+    "head": "Blue with a prominent crest, black and white facial markings.",
+    "beak": "Short, pointed, black.",
+    "wings": "Broad, rounded, blue with black and white patterns.",
+    "tail": "Long, narrow, blue with black bars.",
+    "body": "Sleek, blue with white underparts."
+  },
+  "spatial_relations": [
+    "The crest is positioned on top of the head.",
+    "The wings extend from the sides of the body.",
+    "The tail extends from the rear of the body."
+  ],
+  "original_dataset_key": "CUB200",
+  "original_class_key": "blue_jay"
+}

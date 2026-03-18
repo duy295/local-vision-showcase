@@ -1,0 +1,26 @@
+{
+  "class_name": "hamster",
+  "global_description": "Small, round-bodied rodent with soft fur, typically golden brown or gray, short legs, small ears, and a stubby tail. The face is characterized by large cheek pouches for food storage and small, bright eyes.",
+  "discriminative_attributes": [
+    "Round body",
+    "Soft fur",
+    "Large cheek pouches",
+    "Small ears",
+    "Stubby tail"
+  ],
+  "part_details": {
+    "head": "Small with large cheek pouches and bright eyes",
+    "body": "Compact and round with soft fur",
+    "legs": "Short and sturdy",
+    "tail": "Stubby and barely visible",
+    "ears": "Small and rounded"
+  },
+  "spatial_relations": [
+    "Head at front of body",
+    "Legs beneath body",
+    "Tail at rear",
+    "Ears on top of head"
+  ],
+  "original_dataset_key": "cifar100",
+  "original_class_key": "hamster"
+}

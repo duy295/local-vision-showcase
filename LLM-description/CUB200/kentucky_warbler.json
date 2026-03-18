@@ -1,0 +1,26 @@
+{
+  "class_name": "Kentucky Warbler",
+  "global_description": "A small, plump songbird with a rounded body and short tail. It features vibrant olive-green upperparts and bright yellow underparts. The face is marked with a distinctive black mask and sideburns, contrasting with the yellow throat and eye ring.",
+  "discriminative_attributes": [
+    "Olive-green upperparts",
+    "Bright yellow underparts",
+    "Black facial mask",
+    "Yellow eye ring",
+    "Short tail"
+  ],
+  "part_details": {
+    "upperparts": "Vibrant olive-green, smooth feathers covering the back and wings.",
+    "underparts": "Bright yellow, soft plumage on the belly and chest.",
+    "face": "Black mask extending from the beak through the eyes, with black sideburns.",
+    "eye_ring": "Thin, bright yellow ring encircling the eyes.",
+    "tail": "Short, rounded, olive-green with subtle feathering."
+  },
+  "spatial_relations": [
+    "The black mask extends from the beak across the eyes.",
+    "The yellow eye ring encircles the eyes within the black mask.",
+    "The olive-green upperparts cover the back and wings.",
+    "The bright yellow underparts span from the throat to the belly."
+  ],
+  "original_dataset_key": "CUB200",
+  "original_class_key": "kentucky_warbler"
+}

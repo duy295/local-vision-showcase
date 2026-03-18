@@ -1,0 +1,27 @@
+{
+  "class_name": "Horned Puffin",
+  "global_description": "A medium-sized seabird with a distinctive black and white plumage. It has a rounded body, short neck, and a large, colorful beak. The face is white with a black cap and a small, horn-like projection above each eye. The wings and back are black, while the underparts are white. The legs and feet are bright orange.",
+  "discriminative_attributes": [
+    "Black and white plumage",
+    "Large colorful beak",
+    "Black cap with horn-like projections",
+    "Bright orange legs and feet",
+    "Rounded body"
+  ],
+  "part_details": {
+    "beak": "Large, triangular, colorful with orange and yellow hues",
+    "face": "White with a black cap and small horn-like projections",
+    "wings": "Short, black, rounded",
+    "legs": "Bright orange, short",
+    "body": "Rounded, black and white"
+  },
+  "spatial_relations": [
+    "The colorful beak is positioned at the front of the face",
+    "The black cap covers the top of the head",
+    "The horn-like projections are above the eyes",
+    "The wings are attached to the sides of the body",
+    "The legs extend from the lower body"
+  ],
+  "original_dataset_key": "CUB200",
+  "original_class_key": "horned_puffin"
+}

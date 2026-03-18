@@ -1,0 +1,24 @@
+{
+  "class_name": "cup",
+  "global_description": "A small, cylindrical container with a handle, typically made of ceramic, glass, or plastic. It has a smooth surface, often with a glossy finish. The cup is designed to hold liquids, with an open top and a flat base for stability.",
+  "discriminative_attributes": [
+    "Cylindrical shape",
+    "Single handle",
+    "Open top",
+    "Flat base",
+    "Glossy finish"
+  ],
+  "part_details": {
+    "body": "Cylindrical, smooth, often glossy surface",
+    "handle": "Curved, attached to side",
+    "base": "Flat, stable surface",
+    "rim": "Smooth, open top"
+  },
+  "spatial_relations": [
+    "Handle attached to side of body",
+    "Base at bottom of body",
+    "Rim at top of body"
+  ],
+  "original_dataset_key": "ImageNetR",
+  "original_class_key": "cup"
+}

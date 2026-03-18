@@ -1,0 +1,25 @@
+{
+  "class_name": "Bird",
+  "global_description": "A small, plump songbird with a compact body and a short tail. It features a warm brown upper body and a lighter, buff-colored underbelly. The bird has a distinctive white eyebrow stripe above its eye and a slightly curved bill.",
+  "discriminative_attributes": [
+    "Warm brown upper body",
+    "Buff-colored underbelly",
+    "White eyebrow stripe",
+    "Short tail",
+    "Slightly curved bill"
+  ],
+  "part_details": {
+    "upper_body": "Warm brown with subtle streaks",
+    "underbelly": "Buff-colored, smooth texture",
+    "eyebrow_stripe": "Distinctive white line above the eye",
+    "tail": "Short, rounded",
+    "bill": "Slightly curved, pointed"
+  },
+  "spatial_relations": [
+    "The white eyebrow stripe runs above the eye",
+    "The short tail extends from the rear",
+    "The slightly curved bill protrudes from the face"
+  ],
+  "original_dataset_key": "CUB200",
+  "original_class_key": "carolina_wren"
+}

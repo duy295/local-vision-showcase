@@ -1,0 +1,24 @@
+{
+  "class_name": "Bird",
+  "global_description": "A small, plump songbird with a rounded body and short tail. It features a distinctive white throat patch and a striped head with black and white markings. The wings and back are brown with streaks, and the underparts are pale gray.",
+  "discriminative_attributes": [
+    "White throat patch",
+    "Black and white striped head",
+    "Brown streaked wings",
+    "Pale gray underparts",
+    "Short tail"
+  ],
+  "part_details": {
+    "head": "Black and white stripes with a prominent white throat patch.",
+    "wings": "Brown with darker streaks, medium length.",
+    "tail": "Short, brown with subtle streaks.",
+    "underparts": "Pale gray, smooth texture."
+  },
+  "spatial_relations": [
+    "The white throat patch is centrally located on the lower head.",
+    "The striped head is positioned above the pale gray underparts.",
+    "The brown wings extend from the sides of the body."
+  ],
+  "original_dataset_key": "CUB200",
+  "original_class_key": "white_throated_sparrow"
+}

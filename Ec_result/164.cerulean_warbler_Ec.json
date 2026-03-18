@@ -1,0 +1,446 @@
+{
+  "class_name": "Cerulean Warbler",
+  "class_idx": 164,
+  "class_folder": "164.Cerulean_Warbler",
+  "num_images_in_class": 10,
+  "ec_size_requested": 30,
+  "ec_size_actual": 40,
+  "num_fewshot": 10,
+  "num_synthesized": 30,
+  "fewshot_emphasis_weight": 3.0,
+  "hybrid_lambda": 0.6,
+  "related_base_classes": [
+    {
+      "class_key": "white_breasted_nuthatch",
+      "relevance_score": 2.5221
+    },
+    {
+      "class_key": "blue_jay",
+      "relevance_score": 2.4374
+    },
+    {
+      "class_key": "blue_grosbeak",
+      "relevance_score": 2.332
+    },
+    {
+      "class_key": "florida_jay",
+      "relevance_score": 2.3091
+    },
+    {
+      "class_key": "ringed_kingfisher",
+      "relevance_score": 2.1917
+    },
+    {
+      "class_key": "indigo_bunting",
+      "relevance_score": 2.1871
+    },
+    {
+      "class_key": "olive_sided_flycatcher",
+      "relevance_score": 1.3793
+    },
+    {
+      "class_key": "gray_catbird",
+      "relevance_score": 1.3205
+    }
+  ],
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\Incremental class - Copy\\164.Cerulean_Warbler\\Cerulean_Warbler_0078_163271.jpg",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 1,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\Incremental class - Copy\\164.Cerulean_Warbler\\Cerulean_Warbler_0014_797226.jpg",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 2,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\Incremental class - Copy\\164.Cerulean_Warbler\\Cerulean_Warbler_0003_163305.jpg",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 3,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\Incremental class - Copy\\164.Cerulean_Warbler\\Cerulean_Warbler_0084_797177.jpg",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 4,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\Incremental class - Copy\\164.Cerulean_Warbler\\Cerulean_Warbler_0035_163269.jpg",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 5,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\Incremental class - Copy\\164.Cerulean_Warbler\\Cerulean_Warbler_0033_797176.jpg",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 6,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\Incremental class - Copy\\164.Cerulean_Warbler\\Cerulean_Warbler_0086_797214.jpg",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 7,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\Incremental class - Copy\\164.Cerulean_Warbler\\Cerulean_Warbler_0018_797183.jpg",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 8,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\Incremental class - Copy\\164.Cerulean_Warbler\\Cerulean_Warbler_0091_163331.jpg",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 9,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\Incremental class - Copy\\164.Cerulean_Warbler\\Cerulean_Warbler_0072_163200.jpg",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 10,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\074.Florida_Jay\\Florida_Jay_0104_64885.jpg",
+      "mean_similarity": 0.9792147,
+      "rank": 11,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\074.Florida_Jay\\Florida_Jay_0003_65036.jpg",
+      "mean_similarity": 0.9792147,
+      "rank": 12,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\094.White_breasted_Nuthatch\\White_Breasted_Nuthatch_0043_86196.jpg",
+      "mean_similarity": 0.9792147,
+      "rank": 13,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\074.Florida_Jay\\Florida_Jay_0081_64859.jpg",
+      "mean_similarity": 0.9792147,
+      "rank": 14,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\019.Gray_Catbird\\Gray_Catbird_0107_20513.jpg",
+      "mean_similarity": 0.9792147,
+      "rank": 15,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\094.White_breasted_Nuthatch\\White_Breasted_Nuthatch_0111_86621.jpg",
+      "mean_similarity": 0.9792146000000002,
+      "rank": 16,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\019.Gray_Catbird\\Gray_Catbird_0023_20668.jpg",
+      "mean_similarity": 0.9792146000000002,
+      "rank": 17,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\019.Gray_Catbird\\Gray_Catbird_0001_20695.jpg",
+      "mean_similarity": 0.9792145,
+      "rank": 18,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\040.Olive_sided_Flycatcher\\Olive_Sided_Flycatcher_0059_30536.jpg",
+      "mean_similarity": 0.9792145,
+      "rank": 19,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\040.Olive_sided_Flycatcher\\Olive_Sided_Flycatcher_0014_30651.jpg",
+      "mean_similarity": 0.9792145,
+      "rank": 20,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\094.White_breasted_Nuthatch\\White_Breasted_Nuthatch_0047_85819.jpg",
+      "mean_similarity": 0.9792144,
+      "rank": 21,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\094.White_breasted_Nuthatch\\White_Breasted_Nuthatch_0055_86075.jpg",
+      "mean_similarity": 0.9792144,
+      "rank": 22,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\073.Blue_Jay\\Blue_Jay_0066_61490.jpg",
+      "mean_similarity": 0.9792144,
+      "rank": 23,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\074.Florida_Jay\\Florida_Jay_0063_64781.jpg",
+      "mean_similarity": 0.9792143,
+      "rank": 24,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\019.Gray_Catbird\\Gray_Catbird_0129_20987.jpg",
+      "mean_similarity": 0.9792143,
+      "rank": 25,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\094.White_breasted_Nuthatch\\White_Breasted_Nuthatch_0065_85829.jpg",
+      "mean_similarity": 0.9792143,
+      "rank": 26,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\074.Florida_Jay\\Florida_Jay_0095_64707.jpg",
+      "mean_similarity": 0.9792143,
+      "rank": 27,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\019.Gray_Catbird\\Gray_Catbird_0091_20416.jpg",
+      "mean_similarity": 0.9792143,
+      "rank": 28,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\054.Blue_Grosbeak\\Blue_Grosbeak_0073_37148.jpg",
+      "mean_similarity": 0.9792143,
+      "rank": 29,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\054.Blue_Grosbeak\\Blue_Grosbeak_0023_37069.jpg",
+      "mean_similarity": 0.9792143,
+      "rank": 30,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\040.Olive_sided_Flycatcher\\Olive_Sided_Flycatcher_0052_30639.jpg",
+      "mean_similarity": 0.9792143,
+      "rank": 31,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\094.White_breasted_Nuthatch\\White_Breasted_Nuthatch_0054_86551.jpg",
+      "mean_similarity": 0.9792142,
+      "rank": 32,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\074.Florida_Jay\\Florida_Jay_0071_64993.jpg",
+      "mean_similarity": 0.9792142,
+      "rank": 33,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\074.Florida_Jay\\Florida_Jay_0079_64713.jpg",
+      "mean_similarity": 0.9792142,
+      "rank": 34,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\019.Gray_Catbird\\Gray_Catbird_0100_20674.jpg",
+      "mean_similarity": 0.9792142,
+      "rank": 35,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\040.Olive_sided_Flycatcher\\Olive_Sided_Flycatcher_0012_796876.jpg",
+      "mean_similarity": 0.9792142,
+      "rank": 36,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\019.Gray_Catbird\\Gray_Catbird_0125_19833.jpg",
+      "mean_similarity": 0.9792142,
+      "rank": 37,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\094.White_breasted_Nuthatch\\White_Breasted_Nuthatch_0048_86207.jpg",
+      "mean_similarity": 0.9792141000000001,
+      "rank": 38,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\094.White_breasted_Nuthatch\\White_Breasted_Nuthatch_0106_85955.jpg",
+      "mean_similarity": 0.9792141000000001,
+      "rank": 39,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\019.Gray_Catbird\\Gray_Catbird_0074_19601.jpg",
+      "mean_similarity": 0.9792141000000001,
+      "rank": 40,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    }
+  ],
+  "debug": {
+    "total_candidates": 126,
+    "after_voting": 126,
+    "after_dedup": 30,
+    "dedup_mode": "backbone",
+    "top_segments": [
+      {
+        "class": "074.Florida_Jay",
+        "seg": 2,
+        "hybrid": 1.6443,
+        "magnitude": 9.7921,
+        "borda": 378.0
+      },
+      {
+        "class": "074.Florida_Jay",
+        "seg": 3,
+        "hybrid": 1.3401,
+        "magnitude": 9.7921,
+        "borda": 360.0
+      },
+      {
+        "class": "094.White_breasted_Nuthatch",
+        "seg": 0,
+        "hybrid": 1.2554,
+        "magnitude": 9.7921,
+        "borda": 340.0
+      },
+      {
+        "class": "094.White_breasted_Nuthatch",
+        "seg": 1,
+        "hybrid": 1.0949,
+        "magnitude": 9.7921,
+        "borda": 329.0
+      },
+      {
+        "class": "074.Florida_Jay",
+        "seg": 0,
+        "hybrid": 1.0906,
+        "magnitude": 9.7921,
+        "borda": 328.0
+      },
+      {
+        "class": "019.Gray_Catbird",
+        "seg": 0,
+        "hybrid": 1.0102,
+        "magnitude": 9.7921,
+        "borda": 309.0
+      },
+      {
+        "class": "094.White_breasted_Nuthatch",
+        "seg": 3,
+        "hybrid": 0.9174,
+        "magnitude": 9.7921,
+        "borda": 314.0
+      },
+      {
+        "class": "074.Florida_Jay",
+        "seg": 1,
+        "hybrid": 0.9047,
+        "magnitude": 9.7921,
+        "borda": 311.0
+      },
+      {
+        "class": "074.Florida_Jay",
+        "seg": 4,
+        "hybrid": 0.8877,
+        "magnitude": 9.7921,
+        "borda": 307.0
+      },
+      {
+        "class": "019.Gray_Catbird",
+        "seg": 2,
+        "hybrid": 0.7481,
+        "magnitude": 9.7921,
+        "borda": 274.0
+      }
+    ]
+  }
+}

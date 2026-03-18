@@ -1,0 +1,26 @@
+{
+  "class_name": "Bird",
+  "global_description": "A medium-sized bird with a rounded body and a distinctive green tail. It has a gray head with a striking rufous crown, olive-green upperparts, and a white throat. The bird's underparts are pale with a hint of buff, and its wings are a mix of green and brown.",
+  "discriminative_attributes": [
+    "Green tail",
+    "Rufous crown",
+    "Gray head",
+    "White throat",
+    "Olive-green upperparts"
+  ],
+  "part_details": {
+    "head": "Gray with a prominent rufous crown and white throat.",
+    "tail": "Long and green, contrasting with the body.",
+    "upperparts": "Olive-green, blending into the wings.",
+    "underparts": "Pale with a buff tinge.",
+    "wings": "Green and brown, matching the upperparts."
+  },
+  "spatial_relations": [
+    "The rufous crown is on top of the gray head.",
+    "The green tail extends from the rear of the body.",
+    "The white throat is below the gray head.",
+    "The olive-green upperparts cover the back and wings."
+  ],
+  "original_dataset_key": "CUB200",
+  "original_class_key": "green_tailed_towhee"
+}

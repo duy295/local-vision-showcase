@@ -1,0 +1,26 @@
+{
+  "class_name": "Marsh Wren",
+  "global_description": "A small, compact bird with a rounded body and short tail, predominantly brown with lighter underparts. It features a distinctive white eyebrow stripe and a slightly curved bill. The wings and tail are barred with darker brown patterns, and the legs are thin and pale.",
+  "discriminative_attributes": [
+    "Small rounded body",
+    "Distinctive white eyebrow stripe",
+    "Short barred tail",
+    "Brown barred wings",
+    "Slightly curved bill"
+  ],
+  "part_details": {
+    "body": "Compact, rounded, predominantly brown with lighter underparts.",
+    "head": "Brown with a prominent white eyebrow stripe above the eye.",
+    "bill": "Short, slightly curved, and pointed, brownish in color.",
+    "wings": "Brown with darker brown barring, short and rounded.",
+    "tail": "Short, brown with darker barring, held upright.",
+    "legs": "Thin, pale, adapted for perching."
+  },
+  "spatial_relations": [
+    "The white eyebrow stripe runs above the eye on the head.",
+    "The short tail is positioned upright at the rear of the body.",
+    "The wings are attached to the sides of the body, showing barring."
+  ],
+  "original_dataset_key": "CUB200",
+  "original_class_key": "marsh_wren"
+}

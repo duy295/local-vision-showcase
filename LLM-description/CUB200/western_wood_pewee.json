@@ -1,0 +1,26 @@
+{
+  "class_name": "Western Wood Pewee",
+  "global_description": "A small, slender songbird with a streamlined body and a subtle grayish-brown plumage. It features a slightly crested head, a short, thin bill, and a pale underbelly. The wings and tail are darker with faint wing bars.",
+  "discriminative_attributes": [
+    "Grayish-brown plumage",
+    "Slightly crested head",
+    "Short thin bill",
+    "Pale underbelly",
+    "Darker wings with faint bars"
+  ],
+  "part_details": {
+    "head": "Slightly crested, grayish-brown with a subtle contrast to the body.",
+    "bill": "Short, thin, and dark, suited for catching insects.",
+    "wings": "Darker grayish-brown with faint wing bars, long and pointed.",
+    "tail": "Medium length, darker than the body, slightly notched.",
+    "underbelly": "Pale gray, providing contrast to the darker upper parts."
+  },
+  "spatial_relations": [
+    "The slightly crested head transitions smoothly into the streamlined body.",
+    "The short bill is positioned at the front of the head.",
+    "The wings extend along the sides of the body, ending near the tail.",
+    "The tail is aligned with the body, extending from the rear."
+  ],
+  "original_dataset_key": "CUB200",
+  "original_class_key": "western_wood_pewee"
+}

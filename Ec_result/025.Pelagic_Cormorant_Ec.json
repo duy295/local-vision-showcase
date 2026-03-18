@@ -1,0 +1,159 @@
+{
+  "class_name": "025.Pelagic_Cormorant",
+  "class_idx": 24,
+  "num_images_in_class": 30,
+  "ec_size_requested": 30,
+  "ec_size_actual": 30,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\025.Pelagic_Cormorant\\Pelagic_Cormorant_0084_23836.jpg",
+      "mean_similarity": 0.9426892995834351,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\025.Pelagic_Cormorant\\Pelagic_Cormorant_0047_23718.jpg",
+      "mean_similarity": 0.9400734305381775,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\025.Pelagic_Cormorant\\Pelagic_Cormorant_0062_23623.jpg",
+      "mean_similarity": 0.9395771622657776,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\025.Pelagic_Cormorant\\Pelagic_Cormorant_0017_23875.jpg",
+      "mean_similarity": 0.939164400100708,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\025.Pelagic_Cormorant\\Pelagic_Cormorant_0080_23890.jpg",
+      "mean_similarity": 0.9385930895805359,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\025.Pelagic_Cormorant\\Pelagic_Cormorant_0024_23712.jpg",
+      "mean_similarity": 0.9374116063117981,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\025.Pelagic_Cormorant\\Pelagic_Cormorant_0053_23760.jpg",
+      "mean_similarity": 0.937301754951477,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\025.Pelagic_Cormorant\\Pelagic_Cormorant_0093_23722.jpg",
+      "mean_similarity": 0.9368259906768799,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\025.Pelagic_Cormorant\\Pelagic_Cormorant_0061_23548.jpg",
+      "mean_similarity": 0.9367619752883911,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\025.Pelagic_Cormorant\\Pelagic_Cormorant_0086_23719.jpg",
+      "mean_similarity": 0.936369776725769,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\025.Pelagic_Cormorant\\Pelagic_Cormorant_0022_23802.jpg",
+      "mean_similarity": 0.9353582262992859,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\025.Pelagic_Cormorant\\Pelagic_Cormorant_0083_23557.jpg",
+      "mean_similarity": 0.9346663355827332,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\025.Pelagic_Cormorant\\Pelagic_Cormorant_0037_23889.jpg",
+      "mean_similarity": 0.9344340562820435,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\025.Pelagic_Cormorant\\Pelagic_Cormorant_0057_24002.jpg",
+      "mean_similarity": 0.933210551738739,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\025.Pelagic_Cormorant\\Pelagic_Cormorant_0085_23821.jpg",
+      "mean_similarity": 0.9329524636268616,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\025.Pelagic_Cormorant\\Pelagic_Cormorant_0044_23536.jpg",
+      "mean_similarity": 0.9326376914978027,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\025.Pelagic_Cormorant\\Pelagic_Cormorant_0019_23546.jpg",
+      "mean_similarity": 0.9324844479560852,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\025.Pelagic_Cormorant\\Pelagic_Cormorant_0064_23641.jpg",
+      "mean_similarity": 0.9319853782653809,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\025.Pelagic_Cormorant\\Pelagic_Cormorant_0054_23812.jpg",
+      "mean_similarity": 0.9316191673278809,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\025.Pelagic_Cormorant\\Pelagic_Cormorant_0088_23855.jpg",
+      "mean_similarity": 0.9312986731529236,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\025.Pelagic_Cormorant\\Pelagic_Cormorant_0026_23792.jpg",
+      "mean_similarity": 0.9311208724975586,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\025.Pelagic_Cormorant\\Pelagic_Cormorant_0008_23602.jpg",
+      "mean_similarity": 0.9309633374214172,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\025.Pelagic_Cormorant\\Pelagic_Cormorant_0012_23565.jpg",
+      "mean_similarity": 0.9305195212364197,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\025.Pelagic_Cormorant\\Pelagic_Cormorant_0011_23667.jpg",
+      "mean_similarity": 0.9297881722450256,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\025.Pelagic_Cormorant\\Pelagic_Cormorant_0055_23415.jpg",
+      "mean_similarity": 0.9296711683273315,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\025.Pelagic_Cormorant\\Pelagic_Cormorant_0029_23545.jpg",
+      "mean_similarity": 0.9275932312011719,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\025.Pelagic_Cormorant\\Pelagic_Cormorant_0035_23849.jpg",
+      "mean_similarity": 0.9261083602905273,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\025.Pelagic_Cormorant\\Pelagic_Cormorant_0038_23643.jpg",
+      "mean_similarity": 0.9226899743080139,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\025.Pelagic_Cormorant\\Pelagic_Cormorant_0018_23880.jpg",
+      "mean_similarity": 0.9210379719734192,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\025.Pelagic_Cormorant\\Pelagic_Cormorant_0100_23894.jpg",
+      "mean_similarity": 0.9100263118743896,
+      "rank": 30
+    }
+  ]
+}

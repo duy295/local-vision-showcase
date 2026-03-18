@@ -1,0 +1,450 @@
+{
+  "class_name": "Seaside Sparrow",
+  "class_idx": 128,
+  "class_folder": "128.Seaside_Sparrow",
+  "num_images_in_class": 10,
+  "ec_size_requested": 30,
+  "ec_size_actual": 40,
+  "num_fewshot": 10,
+  "num_synthesized": 30,
+  "fewshot_emphasis_weight": 3.0,
+  "hybrid_lambda": 0.6,
+  "related_base_classes": [
+    {
+      "class_key": "western_meadowlark",
+      "relevance_score": 2.2083
+    },
+    {
+      "class_key": "great_crested_flycatcher",
+      "relevance_score": 2.0579
+    },
+    {
+      "class_key": "olive_sided_flycatcher",
+      "relevance_score": 1.7642
+    },
+    {
+      "class_key": "horned_lark",
+      "relevance_score": 1.6858
+    },
+    {
+      "class_key": "yellow_bellied_flycatcher",
+      "relevance_score": 1.3481
+    },
+    {
+      "class_key": "gray_catbird",
+      "relevance_score": 1.2345
+    },
+    {
+      "class_key": "ruby_throated_hummingbird",
+      "relevance_score": 1.1896
+    },
+    {
+      "class_key": "ringed_kingfisher",
+      "relevance_score": 1.1243
+    },
+    {
+      "class_key": "chuck_will_widow",
+      "relevance_score": 0.7221
+    }
+  ],
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\Incremental class - Copy\\128.Seaside_Sparrow\\Seaside_Sparrow_0046_120768.jpg",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 1,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979216
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\Incremental class - Copy\\128.Seaside_Sparrow\\Seaside_Sparrow_0011_120820.jpg",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 2,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979216
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\Incremental class - Copy\\128.Seaside_Sparrow\\Seaside_Sparrow_0001_120720.jpg",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 3,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979216
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\Incremental class - Copy\\128.Seaside_Sparrow\\Seaside_Sparrow_0049_120735.jpg",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 4,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979216
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\Incremental class - Copy\\128.Seaside_Sparrow\\Seaside_Sparrow_0023_796525.jpg",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 5,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\Incremental class - Copy\\128.Seaside_Sparrow\\Seaside_Sparrow_0021_120699.jpg",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 6,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979216
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\Incremental class - Copy\\128.Seaside_Sparrow\\Seaside_Sparrow_0050_796508.jpg",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 7,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\Incremental class - Copy\\128.Seaside_Sparrow\\Seaside_Sparrow_0012_120732.jpg",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 8,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979216
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\Incremental class - Copy\\128.Seaside_Sparrow\\Seaside_Sparrow_0067_796532.jpg",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 9,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\Incremental class - Copy\\128.Seaside_Sparrow\\Seaside_Sparrow_0042_796528.jpg",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 10,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\085.Horned_Lark\\Horned_Lark_0035_74555.jpg",
+      "mean_similarity": 0.9792151000000001,
+      "rank": 11,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\085.Horned_Lark\\Horned_Lark_0130_74001.jpg",
+      "mean_similarity": 0.9792147999999999,
+      "rank": 12,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\088.Western_Meadowlark\\Western_Meadowlark_0053_77774.jpg",
+      "mean_similarity": 0.9792147999999999,
+      "rank": 13,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\085.Horned_Lark\\Horned_Lark_0079_73958.jpg",
+      "mean_similarity": 0.9792147,
+      "rank": 14,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\085.Horned_Lark\\Horned_Lark_0069_74093.jpg",
+      "mean_similarity": 0.9792146000000002,
+      "rank": 15,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\085.Horned_Lark\\Horned_Lark_0028_74408.jpg",
+      "mean_similarity": 0.9792146000000002,
+      "rank": 16,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\088.Western_Meadowlark\\Western_Meadowlark_0118_78820.jpg",
+      "mean_similarity": 0.9792145,
+      "rank": 17,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\085.Horned_Lark\\Horned_Lark_0009_74646.jpg",
+      "mean_similarity": 0.9792144,
+      "rank": 18,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\085.Horned_Lark\\Horned_Lark_0138_74083.jpg",
+      "mean_similarity": 0.9792144,
+      "rank": 19,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\088.Western_Meadowlark\\Western_Meadowlark_0104_78105.jpg",
+      "mean_similarity": 0.9792143,
+      "rank": 20,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\085.Horned_Lark\\Horned_Lark_0010_75291.jpg",
+      "mean_similarity": 0.9792142,
+      "rank": 21,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\088.Western_Meadowlark\\Western_Meadowlark_0097_78239.jpg",
+      "mean_similarity": 0.9792142,
+      "rank": 22,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\088.Western_Meadowlark\\Western_Meadowlark_0058_78247.jpg",
+      "mean_similarity": 0.9792141000000001,
+      "rank": 23,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\022.Chuck_will_Widow\\Chuck_Will_Widow_0006_796986.jpg",
+      "mean_similarity": 0.9792141000000001,
+      "rank": 24,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\022.Chuck_will_Widow\\Chuck_Will_Widow_0046_796966.jpg",
+      "mean_similarity": 0.979214,
+      "rank": 25,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\088.Western_Meadowlark\\Western_Meadowlark_0085_77745.jpg",
+      "mean_similarity": 0.9792139000000001,
+      "rank": 26,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\022.Chuck_will_Widow\\Chuck_Will_Widow_0053_796953.jpg",
+      "mean_similarity": 0.9792139000000001,
+      "rank": 27,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\040.Olive_sided_Flycatcher\\Olive_Sided_Flycatcher_0059_30536.jpg",
+      "mean_similarity": 0.9792139000000001,
+      "rank": 28,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\085.Horned_Lark\\Horned_Lark_0116_73840.jpg",
+      "mean_similarity": 0.9792138,
+      "rank": 29,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\088.Western_Meadowlark\\Western_Meadowlark_0112_78760.jpg",
+      "mean_similarity": 0.9792136,
+      "rank": 30,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\088.Western_Meadowlark\\Western_Meadowlark_0052_77781.jpg",
+      "mean_similarity": 0.9792136,
+      "rank": 31,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\022.Chuck_will_Widow\\Chuck_Will_Widow_0057_796970.jpg",
+      "mean_similarity": 0.9792134000000001,
+      "rank": 32,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979213
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\068.Ruby_throated_Hummingbird\\Ruby_Throated_Hummingbird_0083_57397.jpg",
+      "mean_similarity": 0.9792134000000001,
+      "rank": 33,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979213
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\082.Ringed_Kingfisher\\Ringed_Kingfisher_0039_71052.jpg",
+      "mean_similarity": 0.9792134000000001,
+      "rank": 34,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979213
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\068.Ruby_throated_Hummingbird\\Ruby_Throated_Hummingbird_0088_57366.jpg",
+      "mean_similarity": 0.9792133000000001,
+      "rank": 35,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979213
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\019.Gray_Catbird\\Gray_Catbird_0001_20695.jpg",
+      "mean_similarity": 0.9792133000000001,
+      "rank": 36,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979213
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\022.Chuck_will_Widow\\Chuck_Will_Widow_0005_796998.jpg",
+      "mean_similarity": 0.9792132000000001,
+      "rank": 37,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979213
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\040.Olive_sided_Flycatcher\\Olive_Sided_Flycatcher_0033_30532.jpg",
+      "mean_similarity": 0.9792132000000001,
+      "rank": 38,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979213
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\068.Ruby_throated_Hummingbird\\Ruby_Throated_Hummingbird_0030_57422.jpg",
+      "mean_similarity": 0.9792132000000001,
+      "rank": 39,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979213
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\019.Gray_Catbird\\Gray_Catbird_0023_20668.jpg",
+      "mean_similarity": 0.9792132000000001,
+      "rank": 40,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979213
+    }
+  ],
+  "debug": {
+    "total_candidates": 149,
+    "after_voting": 149,
+    "after_dedup": 30,
+    "dedup_mode": "backbone",
+    "top_segments": [
+      {
+        "class": "085.Horned_Lark",
+        "seg": 4,
+        "hybrid": 1.8872,
+        "magnitude": 9.7921,
+        "borda": 443.0
+      },
+      {
+        "class": "085.Horned_Lark",
+        "seg": 3,
+        "hybrid": 1.8065,
+        "magnitude": 9.7921,
+        "borda": 440.0
+      },
+      {
+        "class": "088.Western_Meadowlark",
+        "seg": 1,
+        "hybrid": 1.6229,
+        "magnitude": 9.7921,
+        "borda": 427.0
+      },
+      {
+        "class": "085.Horned_Lark",
+        "seg": 2,
+        "hybrid": 1.607,
+        "magnitude": 9.7921,
+        "borda": 422.0
+      },
+      {
+        "class": "085.Horned_Lark",
+        "seg": 1,
+        "hybrid": 1.2854,
+        "magnitude": 9.7921,
+        "borda": 388.0
+      },
+      {
+        "class": "088.Western_Meadowlark",
+        "seg": 0,
+        "hybrid": 1.2429,
+        "magnitude": 9.7921,
+        "borda": 397.0
+      },
+      {
+        "class": "088.Western_Meadowlark",
+        "seg": 3,
+        "hybrid": 1.2238,
+        "magnitude": 9.7921,
+        "borda": 391.0
+      },
+      {
+        "class": "088.Western_Meadowlark",
+        "seg": 4,
+        "hybrid": 1.1081,
+        "magnitude": 9.7921,
+        "borda": 377.0
+      },
+      {
+        "class": "085.Horned_Lark",
+        "seg": 0,
+        "hybrid": 1.1049,
+        "magnitude": 9.7921,
+        "borda": 376.0
+      },
+      {
+        "class": "022.Chuck_will_Widow",
+        "seg": 0,
+        "hybrid": 1.0274,
+        "magnitude": 9.7921,
+        "borda": 374.0
+      }
+    ]
+  }
+}

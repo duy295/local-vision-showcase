@@ -1,0 +1,26 @@
+{
+  "class_name": "wardrobe",
+  "global_description": "Tall, rectangular furniture piece, typically made of wood or metal, with doors that open to reveal storage space for clothes. Often features a smooth or paneled surface, with handles or knobs for opening. Commonly in neutral colors like brown, white, or black.",
+  "discriminative_attributes": [
+    "Tall rectangular shape",
+    "Wood or metal material",
+    "Doors with handles",
+    "Interior storage space",
+    "Neutral colors"
+  ],
+  "part_details": {
+    "doors": "Large, often paneled, with handles or knobs",
+    "interior": "Storage space with shelves or hanging rod",
+    "handles": "Metal or wood, attached to doors",
+    "surface": "Smooth or paneled, often polished",
+    "base": "Flat, supporting the structure"
+  },
+  "spatial_relations": [
+    "Doors at front of structure",
+    "Handles on doors",
+    "Interior behind doors",
+    "Base supports entire piece"
+  ],
+  "original_dataset_key": "cifar100",
+  "original_class_key": "wardrobe"
+}

@@ -1,0 +1,22 @@
+{
+  "class_name": "worm",
+  "global_description": "Elongated, cylindrical invertebrate with smooth, moist skin, typically brown or pink. Lacks limbs, with a tapered head and segmented body. Moves by contracting and expanding its body segments.",
+  "discriminative_attributes": [
+    "Elongated cylindrical shape",
+    "Smooth moist skin",
+    "Brown or pink color",
+    "Segmented body",
+    "Lacks limbs"
+  ],
+  "part_details": {
+    "head": "Tapered, indistinct from body",
+    "body": "Elongated, segmented, smooth texture",
+    "skin": "Moist, smooth, flexible"
+  },
+  "spatial_relations": [
+    "Head at front, indistinct from body",
+    "Body segmented along length"
+  ],
+  "original_dataset_key": "cifar100",
+  "original_class_key": "worm"
+}

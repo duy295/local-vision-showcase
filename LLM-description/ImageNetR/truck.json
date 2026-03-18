@@ -1,0 +1,26 @@
+{
+  "class_name": "truck",
+  "global_description": "Large vehicle with a rectangular body, typically metallic with a cab and cargo area. Often seen in colors like white, blue, or red. Features include large wheels, a front grille, side mirrors, and a flatbed or enclosed cargo space.",
+  "discriminative_attributes": [
+    "Rectangular body",
+    "Large wheels",
+    "Front grille",
+    "Side mirrors",
+    "Cargo area"
+  ],
+  "part_details": {
+    "cab": "Front section with windshield and side mirrors",
+    "cargo_area": "Flatbed or enclosed space for carrying goods",
+    "wheels": "Large, sturdy, typically four or more",
+    "grille": "Front section with horizontal or vertical slats",
+    "mirrors": "Side mirrors for rear visibility"
+  },
+  "spatial_relations": [
+    "Cab at front of vehicle",
+    "Cargo area behind cab",
+    "Wheels beneath body",
+    "Grille at front of cab"
+  ],
+  "original_dataset_key": "ImageNetR",
+  "original_class_key": "truck"
+}

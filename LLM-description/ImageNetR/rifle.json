@@ -1,0 +1,26 @@
+{
+  "class_name": "rifle",
+  "global_description": "Long, slender firearm with a metallic barrel, typically black or dark gray, featuring a wooden or synthetic stock. The rifle has a cylindrical barrel, a trigger mechanism, and a sighting system on top. The stock is often textured for grip, and the overall design is streamlined for precision shooting.",
+  "discriminative_attributes": [
+    "Long, slender shape",
+    "Metallic barrel",
+    "Wooden or synthetic stock",
+    "Trigger mechanism",
+    "Sighting system"
+  ],
+  "part_details": {
+    "barrel": "Cylindrical, metallic, typically black or dark gray",
+    "stock": "Wooden or synthetic, textured for grip",
+    "trigger": "Small, metallic, located beneath the barrel",
+    "sight": "Mounted on top, for aiming",
+    "butt": "Flat end of the stock, rests against shoulder"
+  },
+  "spatial_relations": [
+    "Barrel extends from stock",
+    "Trigger beneath barrel",
+    "Sight on top of barrel",
+    "Butt at rear of stock"
+  ],
+  "original_dataset_key": "ImageNetR",
+  "original_class_key": "rifle"
+}

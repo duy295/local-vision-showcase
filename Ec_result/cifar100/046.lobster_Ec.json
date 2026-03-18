@@ -1,0 +1,1259 @@
+{
+  "class_name": "lobster",
+  "class_idx": 45,
+  "num_images_in_class": 500,
+  "ec_size_requested": 250,
+  "ec_size_actual": 250,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\northern_lobster_s_000222.png",
+      "mean_similarity": 0.9387503266334534,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\lobster_s_001647.png",
+      "mean_similarity": 0.9381036162376404,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\american_lobster_s_000632.png",
+      "mean_similarity": 0.9374518394470215,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\lobster_s_001017.png",
+      "mean_similarity": 0.9373618960380554,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\lobster_s_000072.png",
+      "mean_similarity": 0.9373406767845154,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\lobster_s_002172.png",
+      "mean_similarity": 0.9368999004364014,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\northern_lobster_s_000067.png",
+      "mean_similarity": 0.9367175698280334,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\american_lobster_s_000231.png",
+      "mean_similarity": 0.9367167949676514,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\american_lobster_s_000829.png",
+      "mean_similarity": 0.9366241097450256,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\lobster_s_001690.png",
+      "mean_similarity": 0.9363996386528015,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\american_lobster_s_001232.png",
+      "mean_similarity": 0.9363290667533875,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\lobster_s_000613.png",
+      "mean_similarity": 0.9363186955451965,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\lobster_s_001622.png",
+      "mean_similarity": 0.9362695217132568,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\american_lobster_s_000408.png",
+      "mean_similarity": 0.9360505938529968,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\american_lobster_s_000143.png",
+      "mean_similarity": 0.9359084367752075,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\lobster_s_000823.png",
+      "mean_similarity": 0.9357313513755798,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\american_lobster_s_000157.png",
+      "mean_similarity": 0.9356318712234497,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\american_lobster_s_000017.png",
+      "mean_similarity": 0.9356290102005005,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\lobster_s_001843.png",
+      "mean_similarity": 0.9356051087379456,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\lobster_s_001031.png",
+      "mean_similarity": 0.9353822469711304,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\lobster_s_001466.png",
+      "mean_similarity": 0.9352235794067383,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\american_lobster_s_001167.png",
+      "mean_similarity": 0.9351569414138794,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\lobster_s_001448.png",
+      "mean_similarity": 0.9349499940872192,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\lobster_s_001163.png",
+      "mean_similarity": 0.9349387288093567,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\american_lobster_s_000267.png",
+      "mean_similarity": 0.9349343776702881,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\lobster_s_001388.png",
+      "mean_similarity": 0.9347833395004272,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\lobster_s_000564.png",
+      "mean_similarity": 0.9347788691520691,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\american_lobster_s_000979.png",
+      "mean_similarity": 0.9346386790275574,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\lobster_s_001310.png",
+      "mean_similarity": 0.9345885515213013,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\lobster_s_000910.png",
+      "mean_similarity": 0.9345877766609192,
+      "rank": 30
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\lobster_s_000269.png",
+      "mean_similarity": 0.9345811009407043,
+      "rank": 31
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\lobster_s_001320.png",
+      "mean_similarity": 0.9345687627792358,
+      "rank": 32
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\lobster_s_000563.png",
+      "mean_similarity": 0.9345607757568359,
+      "rank": 33
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\american_lobster_s_000291.png",
+      "mean_similarity": 0.9345048666000366,
+      "rank": 34
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\lobster_s_000241.png",
+      "mean_similarity": 0.9344525337219238,
+      "rank": 35
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\american_lobster_s_000142.png",
+      "mean_similarity": 0.9344490766525269,
+      "rank": 36
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\lobster_s_000428.png",
+      "mean_similarity": 0.9344363808631897,
+      "rank": 37
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\american_lobster_s_000166.png",
+      "mean_similarity": 0.9343826770782471,
+      "rank": 38
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\lobster_s_002090.png",
+      "mean_similarity": 0.9342039823532104,
+      "rank": 39
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\american_lobster_s_000652.png",
+      "mean_similarity": 0.9341320991516113,
+      "rank": 40
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\lobster_s_001288.png",
+      "mean_similarity": 0.9340955018997192,
+      "rank": 41
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\american_lobster_s_000150.png",
+      "mean_similarity": 0.9340828061103821,
+      "rank": 42
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\lobster_s_000003.png",
+      "mean_similarity": 0.9340326189994812,
+      "rank": 43
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\lobster_s_002136.png",
+      "mean_similarity": 0.9339798092842102,
+      "rank": 44
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\american_lobster_s_000256.png",
+      "mean_similarity": 0.9339215755462646,
+      "rank": 45
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\lobster_s_001641.png",
+      "mean_similarity": 0.9337684512138367,
+      "rank": 46
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\lobster_s_000792.png",
+      "mean_similarity": 0.9337565898895264,
+      "rank": 47
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\lobster_s_001890.png",
+      "mean_similarity": 0.9337548613548279,
+      "rank": 48
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\lobster_s_002127.png",
+      "mean_similarity": 0.9337169528007507,
+      "rank": 49
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\lobster_s_000400.png",
+      "mean_similarity": 0.9336446523666382,
+      "rank": 50
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\lobster_s_001626.png",
+      "mean_similarity": 0.9335716962814331,
+      "rank": 51
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\lobster_s_000556.png",
+      "mean_similarity": 0.9334487318992615,
+      "rank": 52
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\lobster_s_001680.png",
+      "mean_similarity": 0.933363676071167,
+      "rank": 53
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\american_lobster_s_000567.png",
+      "mean_similarity": 0.9333251714706421,
+      "rank": 54
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\american_lobster_s_000705.png",
+      "mean_similarity": 0.9331404566764832,
+      "rank": 55
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\american_lobster_s_000544.png",
+      "mean_similarity": 0.9330904483795166,
+      "rank": 56
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\american_lobster_s_000050.png",
+      "mean_similarity": 0.9330411553382874,
+      "rank": 57
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\american_lobster_s_000120.png",
+      "mean_similarity": 0.9330356121063232,
+      "rank": 58
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\lobster_s_002048.png",
+      "mean_similarity": 0.9329099059104919,
+      "rank": 59
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\lobster_s_000993.png",
+      "mean_similarity": 0.9328939914703369,
+      "rank": 60
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\lobster_s_002084.png",
+      "mean_similarity": 0.9328877329826355,
+      "rank": 61
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\lobster_s_001383.png",
+      "mean_similarity": 0.9328781962394714,
+      "rank": 62
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\lobster_s_002044.png",
+      "mean_similarity": 0.932828426361084,
+      "rank": 63
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\lobster_s_001910.png",
+      "mean_similarity": 0.9326924085617065,
+      "rank": 64
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\lobster_s_000984.png",
+      "mean_similarity": 0.932669460773468,
+      "rank": 65
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\lobster_s_000887.png",
+      "mean_similarity": 0.9326450824737549,
+      "rank": 66
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\american_lobster_s_000016.png",
+      "mean_similarity": 0.9325956106185913,
+      "rank": 67
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\lobster_s_000842.png",
+      "mean_similarity": 0.9325605034828186,
+      "rank": 68
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\northern_lobster_s_000033.png",
+      "mean_similarity": 0.9325453042984009,
+      "rank": 69
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\maine_lobster_s_000654.png",
+      "mean_similarity": 0.9325436353683472,
+      "rank": 70
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\lobster_s_000268.png",
+      "mean_similarity": 0.9325420260429382,
+      "rank": 71
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\lobster_s_001064.png",
+      "mean_similarity": 0.9325281381607056,
+      "rank": 72
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\lobster_s_002145.png",
+      "mean_similarity": 0.9324841499328613,
+      "rank": 73
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\american_lobster_s_000709.png",
+      "mean_similarity": 0.9324595332145691,
+      "rank": 74
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\american_lobster_s_000542.png",
+      "mean_similarity": 0.9324207901954651,
+      "rank": 75
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\lobster_s_001888.png",
+      "mean_similarity": 0.9323614835739136,
+      "rank": 76
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\lobster_s_002162.png",
+      "mean_similarity": 0.9323067665100098,
+      "rank": 77
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\lobster_s_001731.png",
+      "mean_similarity": 0.9322985410690308,
+      "rank": 78
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\maine_lobster_s_000157.png",
+      "mean_similarity": 0.9322729110717773,
+      "rank": 79
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\lobster_s_001201.png",
+      "mean_similarity": 0.9322667717933655,
+      "rank": 80
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\lobster_s_001315.png",
+      "mean_similarity": 0.9320982694625854,
+      "rank": 81
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\lobster_s_000421.png",
+      "mean_similarity": 0.9320508241653442,
+      "rank": 82
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\lobster_s_002100.png",
+      "mean_similarity": 0.9320199489593506,
+      "rank": 83
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\lobster_s_001675.png",
+      "mean_similarity": 0.9320072531700134,
+      "rank": 84
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\lobster_s_001370.png",
+      "mean_similarity": 0.9319906830787659,
+      "rank": 85
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\lobster_s_000348.png",
+      "mean_similarity": 0.9319660067558289,
+      "rank": 86
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\lobster_s_001426.png",
+      "mean_similarity": 0.9319542646408081,
+      "rank": 87
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\lobster_s_001702.png",
+      "mean_similarity": 0.9319342970848083,
+      "rank": 88
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\lobster_s_001110.png",
+      "mean_similarity": 0.9319285750389099,
+      "rank": 89
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\lobster_s_000059.png",
+      "mean_similarity": 0.9318315386772156,
+      "rank": 90
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\maine_lobster_s_000254.png",
+      "mean_similarity": 0.9317787885665894,
+      "rank": 91
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\american_lobster_s_000575.png",
+      "mean_similarity": 0.9317132830619812,
+      "rank": 92
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\american_lobster_s_000582.png",
+      "mean_similarity": 0.9317013621330261,
+      "rank": 93
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\lobster_s_001842.png",
+      "mean_similarity": 0.9316096901893616,
+      "rank": 94
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\lobster_s_001467.png",
+      "mean_similarity": 0.9315930604934692,
+      "rank": 95
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\american_lobster_s_001187.png",
+      "mean_similarity": 0.9315847158432007,
+      "rank": 96
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\lobster_s_000365.png",
+      "mean_similarity": 0.9315123558044434,
+      "rank": 97
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\lobster_s_000213.png",
+      "mean_similarity": 0.9313955903053284,
+      "rank": 98
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\lobster_s_001732.png",
+      "mean_similarity": 0.9313921928405762,
+      "rank": 99
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\lobster_s_002186.png",
+      "mean_similarity": 0.9312759637832642,
+      "rank": 100
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\american_lobster_s_000881.png",
+      "mean_similarity": 0.9312254190444946,
+      "rank": 101
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\lobster_s_001841.png",
+      "mean_similarity": 0.9311893582344055,
+      "rank": 102
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\lobster_s_001279.png",
+      "mean_similarity": 0.9311748147010803,
+      "rank": 103
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\american_lobster_s_000433.png",
+      "mean_similarity": 0.9310659766197205,
+      "rank": 104
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\lobster_s_000300.png",
+      "mean_similarity": 0.9309943318367004,
+      "rank": 105
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\northern_lobster_s_000310.png",
+      "mean_similarity": 0.9309686422348022,
+      "rank": 106
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\american_lobster_s_000940.png",
+      "mean_similarity": 0.9308921694755554,
+      "rank": 107
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\lobster_s_000463.png",
+      "mean_similarity": 0.9308213591575623,
+      "rank": 108
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\lobster_s_000830.png",
+      "mean_similarity": 0.9307960867881775,
+      "rank": 109
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\american_lobster_s_000115.png",
+      "mean_similarity": 0.9307736754417419,
+      "rank": 110
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\lobster_s_001215.png",
+      "mean_similarity": 0.9307397603988647,
+      "rank": 111
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\lobster_s_000615.png",
+      "mean_similarity": 0.9307243227958679,
+      "rank": 112
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\lobster_s_002266.png",
+      "mean_similarity": 0.9305558800697327,
+      "rank": 113
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\northern_lobster_s_000710.png",
+      "mean_similarity": 0.9305002689361572,
+      "rank": 114
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\lobster_s_000989.png",
+      "mean_similarity": 0.9303768277168274,
+      "rank": 115
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\american_lobster_s_000008.png",
+      "mean_similarity": 0.9303009510040283,
+      "rank": 116
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\lobster_s_002306.png",
+      "mean_similarity": 0.9301931858062744,
+      "rank": 117
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\lobster_s_002163.png",
+      "mean_similarity": 0.930191695690155,
+      "rank": 118
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\lobster_s_001307.png",
+      "mean_similarity": 0.9299596548080444,
+      "rank": 119
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\lobster_s_001895.png",
+      "mean_similarity": 0.9299466013908386,
+      "rank": 120
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\american_lobster_s_000959.png",
+      "mean_similarity": 0.9299226999282837,
+      "rank": 121
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\lobster_s_000841.png",
+      "mean_similarity": 0.9299225807189941,
+      "rank": 122
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\lobster_s_001091.png",
+      "mean_similarity": 0.9298790097236633,
+      "rank": 123
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\maine_lobster_s_000386.png",
+      "mean_similarity": 0.9298430681228638,
+      "rank": 124
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\lobster_s_000402.png",
+      "mean_similarity": 0.9297096729278564,
+      "rank": 125
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\lobster_s_000095.png",
+      "mean_similarity": 0.9296825528144836,
+      "rank": 126
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\northern_lobster_s_000042.png",
+      "mean_similarity": 0.9296767711639404,
+      "rank": 127
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\lobster_s_001161.png",
+      "mean_similarity": 0.9294973015785217,
+      "rank": 128
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\american_lobster_s_000172.png",
+      "mean_similarity": 0.9294833540916443,
+      "rank": 129
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\lobster_s_001627.png",
+      "mean_similarity": 0.9294570684432983,
+      "rank": 130
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\american_lobster_s_000139.png",
+      "mean_similarity": 0.9294281005859375,
+      "rank": 131
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\american_lobster_s_000345.png",
+      "mean_similarity": 0.9294268488883972,
+      "rank": 132
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\lobster_s_001124.png",
+      "mean_similarity": 0.9293134808540344,
+      "rank": 133
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\lobster_s_000550.png",
+      "mean_similarity": 0.9292179942131042,
+      "rank": 134
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\american_lobster_s_001205.png",
+      "mean_similarity": 0.9291648864746094,
+      "rank": 135
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\lobster_s_000086.png",
+      "mean_similarity": 0.9290438294410706,
+      "rank": 136
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\lobster_s_000185.png",
+      "mean_similarity": 0.9290319681167603,
+      "rank": 137
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\lobster_s_001319.png",
+      "mean_similarity": 0.9289993643760681,
+      "rank": 138
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\lobster_s_000176.png",
+      "mean_similarity": 0.9288644790649414,
+      "rank": 139
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\maine_lobster_s_000644.png",
+      "mean_similarity": 0.928831160068512,
+      "rank": 140
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\lobster_s_000333.png",
+      "mean_similarity": 0.9287449717521667,
+      "rank": 141
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\lobster_s_000247.png",
+      "mean_similarity": 0.9286884665489197,
+      "rank": 142
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\lobster_s_002185.png",
+      "mean_similarity": 0.9286287426948547,
+      "rank": 143
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\northern_lobster_s_000334.png",
+      "mean_similarity": 0.9286068081855774,
+      "rank": 144
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\lobster_s_001386.png",
+      "mean_similarity": 0.9285289645195007,
+      "rank": 145
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\american_lobster_s_000986.png",
+      "mean_similarity": 0.9285245537757874,
+      "rank": 146
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\lobster_s_001637.png",
+      "mean_similarity": 0.9284806847572327,
+      "rank": 147
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\lobster_s_001601.png",
+      "mean_similarity": 0.9284741878509521,
+      "rank": 148
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\american_lobster_s_000411.png",
+      "mean_similarity": 0.9284505248069763,
+      "rank": 149
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\lobster_s_001796.png",
+      "mean_similarity": 0.92844158411026,
+      "rank": 150
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\lobster_s_000661.png",
+      "mean_similarity": 0.9284347295761108,
+      "rank": 151
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\lobster_s_001132.png",
+      "mean_similarity": 0.9283769726753235,
+      "rank": 152
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\lobster_s_000121.png",
+      "mean_similarity": 0.9283627867698669,
+      "rank": 153
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\lobster_s_001011.png",
+      "mean_similarity": 0.9282649159431458,
+      "rank": 154
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\american_lobster_s_000657.png",
+      "mean_similarity": 0.9281244277954102,
+      "rank": 155
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\american_lobster_s_000044.png",
+      "mean_similarity": 0.9280999898910522,
+      "rank": 156
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\northern_lobster_s_001006.png",
+      "mean_similarity": 0.927977442741394,
+      "rank": 157
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\lobster_s_000771.png",
+      "mean_similarity": 0.9279424548149109,
+      "rank": 158
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\lobster_s_001768.png",
+      "mean_similarity": 0.9278272986412048,
+      "rank": 159
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\northern_lobster_s_000333.png",
+      "mean_similarity": 0.9278150200843811,
+      "rank": 160
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\lobster_s_001631.png",
+      "mean_similarity": 0.9277852773666382,
+      "rank": 161
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\lobster_s_000811.png",
+      "mean_similarity": 0.9277827143669128,
+      "rank": 162
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\lobster_s_000446.png",
+      "mean_similarity": 0.9277399182319641,
+      "rank": 163
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\lobster_s_001717.png",
+      "mean_similarity": 0.9277326464653015,
+      "rank": 164
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\lobster_s_001048.png",
+      "mean_similarity": 0.9276939034461975,
+      "rank": 165
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\maine_lobster_s_000415.png",
+      "mean_similarity": 0.9276871681213379,
+      "rank": 166
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\lobster_s_001508.png",
+      "mean_similarity": 0.9275681376457214,
+      "rank": 167
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\lobster_s_001652.png",
+      "mean_similarity": 0.9275494813919067,
+      "rank": 168
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\lobster_s_001164.png",
+      "mean_similarity": 0.9275233149528503,
+      "rank": 169
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\lobster_s_002195.png",
+      "mean_similarity": 0.9274553060531616,
+      "rank": 170
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\american_lobster_s_000104.png",
+      "mean_similarity": 0.9273717403411865,
+      "rank": 171
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\lobster_s_001848.png",
+      "mean_similarity": 0.9273713827133179,
+      "rank": 172
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\american_lobster_s_000109.png",
+      "mean_similarity": 0.9273695349693298,
+      "rank": 173
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\northern_lobster_s_000187.png",
+      "mean_similarity": 0.9273585677146912,
+      "rank": 174
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\northern_lobster_s_000017.png",
+      "mean_similarity": 0.9273417592048645,
+      "rank": 175
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\lobster_s_000052.png",
+      "mean_similarity": 0.9273188710212708,
+      "rank": 176
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\lobster_s_000865.png",
+      "mean_similarity": 0.9273138046264648,
+      "rank": 177
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\lobster_s_000465.png",
+      "mean_similarity": 0.9272785186767578,
+      "rank": 178
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\lobster_s_001936.png",
+      "mean_similarity": 0.9272018671035767,
+      "rank": 179
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\lobster_s_001846.png",
+      "mean_similarity": 0.9271939992904663,
+      "rank": 180
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\lobster_s_002039.png",
+      "mean_similarity": 0.9271895289421082,
+      "rank": 181
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\lobster_s_000444.png",
+      "mean_similarity": 0.9270967841148376,
+      "rank": 182
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\maine_lobster_s_000030.png",
+      "mean_similarity": 0.926980197429657,
+      "rank": 183
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\lobster_s_000332.png",
+      "mean_similarity": 0.9269558787345886,
+      "rank": 184
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\lobster_s_001511.png",
+      "mean_similarity": 0.9269415736198425,
+      "rank": 185
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\northern_lobster_s_000891.png",
+      "mean_similarity": 0.9269219636917114,
+      "rank": 186
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\lobster_s_001577.png",
+      "mean_similarity": 0.9269086122512817,
+      "rank": 187
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\lobster_s_002270.png",
+      "mean_similarity": 0.9267911911010742,
+      "rank": 188
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\lobster_s_000542.png",
+      "mean_similarity": 0.9267603158950806,
+      "rank": 189
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\lobster_s_001623.png",
+      "mean_similarity": 0.9266877174377441,
+      "rank": 190
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\maine_lobster_s_001534.png",
+      "mean_similarity": 0.926649808883667,
+      "rank": 191
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\northern_lobster_s_000828.png",
+      "mean_similarity": 0.9266349673271179,
+      "rank": 192
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\lobster_s_001915.png",
+      "mean_similarity": 0.9266253709793091,
+      "rank": 193
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\northern_lobster_s_000394.png",
+      "mean_similarity": 0.9266126155853271,
+      "rank": 194
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\northern_lobster_s_000050.png",
+      "mean_similarity": 0.9265256524085999,
+      "rank": 195
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\northern_lobster_s_000863.png",
+      "mean_similarity": 0.926516592502594,
+      "rank": 196
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\northern_lobster_s_000718.png",
+      "mean_similarity": 0.9264242649078369,
+      "rank": 197
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\lobster_s_002173.png",
+      "mean_similarity": 0.9263414740562439,
+      "rank": 198
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\lobster_s_001976.png",
+      "mean_similarity": 0.9263297319412231,
+      "rank": 199
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\lobster_s_002188.png",
+      "mean_similarity": 0.926311731338501,
+      "rank": 200
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\lobster_s_002059.png",
+      "mean_similarity": 0.9262993931770325,
+      "rank": 201
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\lobster_s_001129.png",
+      "mean_similarity": 0.9262849688529968,
+      "rank": 202
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\lobster_s_001101.png",
+      "mean_similarity": 0.9262281656265259,
+      "rank": 203
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\northern_lobster_s_000539.png",
+      "mean_similarity": 0.9261963367462158,
+      "rank": 204
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\lobster_s_000263.png",
+      "mean_similarity": 0.9261658191680908,
+      "rank": 205
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\lobster_s_001108.png",
+      "mean_similarity": 0.9261555075645447,
+      "rank": 206
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\lobster_s_000566.png",
+      "mean_similarity": 0.9260786175727844,
+      "rank": 207
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\maine_lobster_s_000877.png",
+      "mean_similarity": 0.9260618090629578,
+      "rank": 208
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\lobster_s_001595.png",
+      "mean_similarity": 0.9260295629501343,
+      "rank": 209
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\lobster_s_001952.png",
+      "mean_similarity": 0.9260098934173584,
+      "rank": 210
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\maine_lobster_s_000116.png",
+      "mean_similarity": 0.9259997606277466,
+      "rank": 211
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\lobster_s_001682.png",
+      "mean_similarity": 0.9258428812026978,
+      "rank": 212
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\lobster_s_002215.png",
+      "mean_similarity": 0.9258130788803101,
+      "rank": 213
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\lobster_s_000181.png",
+      "mean_similarity": 0.9257412552833557,
+      "rank": 214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\lobster_s_000980.png",
+      "mean_similarity": 0.925726592540741,
+      "rank": 215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\american_lobster_s_000137.png",
+      "mean_similarity": 0.9256866574287415,
+      "rank": 216
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\american_lobster_s_000002.png",
+      "mean_similarity": 0.9256137609481812,
+      "rank": 217
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\lobster_s_000133.png",
+      "mean_similarity": 0.9255737066268921,
+      "rank": 218
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\lobster_s_001295.png",
+      "mean_similarity": 0.9255710244178772,
+      "rank": 219
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\northern_lobster_s_000204.png",
+      "mean_similarity": 0.9255508184432983,
+      "rank": 220
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\northern_lobster_s_000627.png",
+      "mean_similarity": 0.9255337715148926,
+      "rank": 221
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\american_lobster_s_000138.png",
+      "mean_similarity": 0.9254452586174011,
+      "rank": 222
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\lobster_s_002194.png",
+      "mean_similarity": 0.9254404902458191,
+      "rank": 223
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\maine_lobster_s_000845.png",
+      "mean_similarity": 0.9253712892532349,
+      "rank": 224
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\american_lobster_s_000976.png",
+      "mean_similarity": 0.9253506660461426,
+      "rank": 225
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\lobster_s_001802.png",
+      "mean_similarity": 0.925333559513092,
+      "rank": 226
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\lobster_s_000981.png",
+      "mean_similarity": 0.9253161549568176,
+      "rank": 227
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\lobster_s_000877.png",
+      "mean_similarity": 0.9252781867980957,
+      "rank": 228
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\lobster_s_001313.png",
+      "mean_similarity": 0.9252081513404846,
+      "rank": 229
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\american_lobster_s_000480.png",
+      "mean_similarity": 0.9251205921173096,
+      "rank": 230
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\lobster_s_002121.png",
+      "mean_similarity": 0.9250816106796265,
+      "rank": 231
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\northern_lobster_s_000043.png",
+      "mean_similarity": 0.9250509142875671,
+      "rank": 232
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\lobster_s_000969.png",
+      "mean_similarity": 0.9250496029853821,
+      "rank": 233
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\american_lobster_s_000577.png",
+      "mean_similarity": 0.9249962568283081,
+      "rank": 234
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\american_lobster_s_000121.png",
+      "mean_similarity": 0.9249464869499207,
+      "rank": 235
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\maine_lobster_s_001131.png",
+      "mean_similarity": 0.9248996376991272,
+      "rank": 236
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\american_lobster_s_000077.png",
+      "mean_similarity": 0.9248731136322021,
+      "rank": 237
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\lobster_s_000336.png",
+      "mean_similarity": 0.9248361587524414,
+      "rank": 238
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\lobster_s_001786.png",
+      "mean_similarity": 0.9247987270355225,
+      "rank": 239
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\american_lobster_s_000111.png",
+      "mean_similarity": 0.9247463345527649,
+      "rank": 240
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\lobster_s_000819.png",
+      "mean_similarity": 0.9246662259101868,
+      "rank": 241
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\lobster_s_002101.png",
+      "mean_similarity": 0.9246494770050049,
+      "rank": 242
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\american_lobster_s_000326.png",
+      "mean_similarity": 0.9243489503860474,
+      "rank": 243
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\lobster_s_001497.png",
+      "mean_similarity": 0.924346923828125,
+      "rank": 244
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\lobster_s_001153.png",
+      "mean_similarity": 0.9242824912071228,
+      "rank": 245
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\american_lobster_s_000629.png",
+      "mean_similarity": 0.9242742657661438,
+      "rank": 246
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\lobster_s_001894.png",
+      "mean_similarity": 0.9242611527442932,
+      "rank": 247
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\american_lobster_s_000055.png",
+      "mean_similarity": 0.9242595434188843,
+      "rank": 248
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\maine_lobster_s_000219.png",
+      "mean_similarity": 0.923980176448822,
+      "rank": 249
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\american_lobster_s_000606.png",
+      "mean_similarity": 0.9239159822463989,
+      "rank": 250
+    }
+  ]
+}

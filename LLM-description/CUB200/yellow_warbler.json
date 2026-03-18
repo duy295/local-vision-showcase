@@ -1,0 +1,27 @@
+{
+  "class_name": "Yellow Warbler",
+  "global_description": "A small, slender songbird with a rounded body and a predominantly bright yellow plumage. It features olive-green wings and tail, with subtle streaks of reddish-brown on the chest. The bird has a short, pointed beak and dark eyes.",
+  "discriminative_attributes": [
+    "Bright yellow plumage",
+    "Olive-green wings and tail",
+    "Reddish-brown chest streaks",
+    "Small rounded body",
+    "Short pointed beak"
+  ],
+  "part_details": {
+    "plumage": "Bright yellow overall with olive-green on wings and tail.",
+    "wings": "Olive-green, blending with the yellow body.",
+    "tail": "Olive-green, slightly forked.",
+    "chest": "Yellow with subtle reddish-brown streaks.",
+    "beak": "Short, pointed, dark gray.",
+    "eyes": "Small, round, dark."
+  },
+  "spatial_relations": [
+    "The olive-green wings are attached to the sides of the yellow body.",
+    "The tail extends from the rear of the body.",
+    "The reddish-brown streaks are located on the chest.",
+    "The beak protrudes from the front of the head."
+  ],
+  "original_dataset_key": "CUB200",
+  "original_class_key": "yellow_warbler"
+}

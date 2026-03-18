@@ -1,0 +1,25 @@
+{
+  "class_name": "Great Grey Shrike",
+  "global_description": "A medium-sized bird with a streamlined body, predominantly grey plumage, and a distinctive black mask across the eyes. It has a slightly hooked beak and long, narrow wings with black and white markings. The tail is long and black with white edges.",
+  "discriminative_attributes": [
+    "Grey plumage",
+    "Black eye mask",
+    "Hooked beak",
+    "Black and white wing markings",
+    "Long black tail with white edges"
+  ],
+  "part_details": {
+    "head": "Rounded with a prominent black mask across the eyes, grey crown.",
+    "beak": "Short, strong, slightly hooked, dark grey.",
+    "wings": "Long, narrow, grey with black and white patterning.",
+    "tail": "Long, black with white outer edges, slightly forked.",
+    "body": "Streamlined, predominantly grey with lighter underparts."
+  },
+  "spatial_relations": [
+    "The black mask spans across the eyes and extends to the sides of the head.",
+    "The wings are positioned laterally along the body, extending outwards.",
+    "The tail extends straight from the rear of the body, slightly forked."
+  ],
+  "original_dataset_key": "CUB200",
+  "original_class_key": "great_grey_shrike"
+}

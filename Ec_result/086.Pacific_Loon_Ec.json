@@ -1,0 +1,159 @@
+{
+  "class_name": "086.Pacific_Loon",
+  "class_idx": 85,
+  "num_images_in_class": 30,
+  "ec_size_requested": 30,
+  "ec_size_actual": 30,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\086.Pacific_Loon\\Pacific_Loon_0067_75423.jpg",
+      "mean_similarity": 0.9465846419334412,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\086.Pacific_Loon\\Pacific_Loon_0065_75588.jpg",
+      "mean_similarity": 0.9456759691238403,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\086.Pacific_Loon\\Pacific_Loon_0051_75514.jpg",
+      "mean_similarity": 0.9447583556175232,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\086.Pacific_Loon\\Pacific_Loon_0021_75859.jpg",
+      "mean_similarity": 0.9443341493606567,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\086.Pacific_Loon\\Pacific_Loon_0012_75736.jpg",
+      "mean_similarity": 0.9443250298500061,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\086.Pacific_Loon\\Pacific_Loon_0066_75547.jpg",
+      "mean_similarity": 0.9442670345306396,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\086.Pacific_Loon\\Pacific_Loon_0052_75451.jpg",
+      "mean_similarity": 0.9441887140274048,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\086.Pacific_Loon\\Pacific_Loon_0023_75476.jpg",
+      "mean_similarity": 0.9434844255447388,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\086.Pacific_Loon\\Pacific_Loon_0014_75468.jpg",
+      "mean_similarity": 0.943226158618927,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\086.Pacific_Loon\\Pacific_Loon_0025_75436.jpg",
+      "mean_similarity": 0.9429239630699158,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\086.Pacific_Loon\\Pacific_Loon_0046_75439.jpg",
+      "mean_similarity": 0.9428099989891052,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\086.Pacific_Loon\\Pacific_Loon_0017_75835.jpg",
+      "mean_similarity": 0.9426624178886414,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\086.Pacific_Loon\\Pacific_Loon_0022_75405.jpg",
+      "mean_similarity": 0.9425919055938721,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\086.Pacific_Loon\\Pacific_Loon_0036_75539.jpg",
+      "mean_similarity": 0.9424994587898254,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\086.Pacific_Loon\\Pacific_Loon_0031_75531.jpg",
+      "mean_similarity": 0.9424929022789001,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\086.Pacific_Loon\\Pacific_Loon_0015_75443.jpg",
+      "mean_similarity": 0.9421440362930298,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\086.Pacific_Loon\\Pacific_Loon_0057_75854.jpg",
+      "mean_similarity": 0.942003071308136,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\086.Pacific_Loon\\Pacific_Loon_0035_75395.jpg",
+      "mean_similarity": 0.9419304132461548,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\086.Pacific_Loon\\Pacific_Loon_0019_75422.jpg",
+      "mean_similarity": 0.9419191479682922,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\086.Pacific_Loon\\Pacific_Loon_0029_75495.jpg",
+      "mean_similarity": 0.9412136077880859,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\086.Pacific_Loon\\Pacific_Loon_0038_75526.jpg",
+      "mean_similarity": 0.9410576820373535,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\086.Pacific_Loon\\Pacific_Loon_0013_75530.jpg",
+      "mean_similarity": 0.9409972429275513,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\086.Pacific_Loon\\Pacific_Loon_0054_75543.jpg",
+      "mean_similarity": 0.9408674240112305,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\086.Pacific_Loon\\Pacific_Loon_0011_75726.jpg",
+      "mean_similarity": 0.9400111436843872,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\086.Pacific_Loon\\Pacific_Loon_0006_75386.jpg",
+      "mean_similarity": 0.9386081695556641,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\086.Pacific_Loon\\Pacific_Loon_0039_75517.jpg",
+      "mean_similarity": 0.9373743534088135,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\086.Pacific_Loon\\Pacific_Loon_0034_75438.jpg",
+      "mean_similarity": 0.9367700815200806,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\086.Pacific_Loon\\Pacific_Loon_0009_75642.jpg",
+      "mean_similarity": 0.930736780166626,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\086.Pacific_Loon\\Pacific_Loon_0037_75800.jpg",
+      "mean_similarity": 0.9198766350746155,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\086.Pacific_Loon\\Pacific_Loon_0063_75865.jpg",
+      "mean_similarity": 0.9175569415092468,
+      "rank": 30
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "class_name": "fire engine",
+  "global_description": "Large, elongated vehicle with a bright red body, equipped with ladders, hoses, and flashing emergency lights. The exterior is metallic with a glossy finish, featuring multiple compartments for equipment storage. It has a cab for firefighters and a rear section for water tanks.",
+  "discriminative_attributes": [
+    "Bright red color",
+    "Ladders on top",
+    "Flashing emergency lights",
+    "Multiple equipment compartments",
+    "Large water tank"
+  ],
+  "part_details": {
+    "lights": "Flashing red and white emergency lights on top",
+    "body": "Elongated, bright red with a glossy metallic finish",
+    "ladders": "Long, extendable ladders mounted on top",
+    "compartments": "Multiple side compartments for equipment",
+    "tank": "Large water tank at rear"
+  },
+  "spatial_relations": [
+    "Ladders mounted on top of the body",
+    "Lights positioned on top of the cab",
+    "Compartments along the sides",
+    "Tank located at the rear"
+  ],
+  "original_dataset_key": "ImageNetR",
+  "original_class_key": "fire_engine"
+}

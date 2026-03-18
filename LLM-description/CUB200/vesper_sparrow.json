@@ -1,0 +1,26 @@
+{
+  "class_name": "Vesper Sparrow",
+  "global_description": "A small, slender bird with a streamlined body and a short, conical beak. Its plumage is predominantly brown with streaks of black and white, providing a camouflaged appearance. The wings and tail are medium-length with a slightly rounded shape.",
+  "discriminative_attributes": [
+    "Brown streaked plumage",
+    "Short conical beak",
+    "White eye ring",
+    "Medium-length wings",
+    "Rounded tail"
+  ],
+  "part_details": {
+    "plumage": "Brown with black and white streaks, providing camouflage.",
+    "beak": "Short, conical, and pale in color.",
+    "eye_ring": "Distinct white ring around the eye.",
+    "wings": "Medium-length, brown with streaks.",
+    "tail": "Slightly rounded, brown with streaks."
+  },
+  "spatial_relations": [
+    "The wings are positioned on either side of the body.",
+    "The tail extends from the rear of the body.",
+    "The beak is located at the front of the head.",
+    "The eye ring encircles the eye."
+  ],
+  "original_dataset_key": "CUB200",
+  "original_class_key": "vesper_sparrow"
+}

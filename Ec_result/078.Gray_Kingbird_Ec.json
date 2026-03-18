@@ -1,0 +1,159 @@
+{
+  "class_name": "078.Gray_Kingbird",
+  "class_idx": 77,
+  "num_images_in_class": 30,
+  "ec_size_requested": 30,
+  "ec_size_actual": 30,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\078.Gray_Kingbird\\Gray_Kingbird_0018_70241.jpg",
+      "mean_similarity": 0.9478969573974609,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\078.Gray_Kingbird\\Gray_Kingbird_0063_70287.jpg",
+      "mean_similarity": 0.9477071166038513,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\078.Gray_Kingbird\\Gray_Kingbird_0040_70313.jpg",
+      "mean_similarity": 0.947558581829071,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\078.Gray_Kingbird\\Gray_Kingbird_0003_70305.jpg",
+      "mean_similarity": 0.9474295377731323,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\078.Gray_Kingbird\\Gray_Kingbird_0068_70292.jpg",
+      "mean_similarity": 0.9467920660972595,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\078.Gray_Kingbird\\Gray_Kingbird_0050_70056.jpg",
+      "mean_similarity": 0.9463181495666504,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\078.Gray_Kingbird\\Gray_Kingbird_0025_70152.jpg",
+      "mean_similarity": 0.9449745416641235,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\078.Gray_Kingbird\\Gray_Kingbird_0060_795021.jpg",
+      "mean_similarity": 0.9448282718658447,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\078.Gray_Kingbird\\Gray_Kingbird_0083_70162.jpg",
+      "mean_similarity": 0.9446428418159485,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\078.Gray_Kingbird\\Gray_Kingbird_0069_70082.jpg",
+      "mean_similarity": 0.9444687962532043,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\078.Gray_Kingbird\\Gray_Kingbird_0041_70119.jpg",
+      "mean_similarity": 0.9441462755203247,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\078.Gray_Kingbird\\Gray_Kingbird_0045_70256.jpg",
+      "mean_similarity": 0.9436036944389343,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\078.Gray_Kingbird\\Gray_Kingbird_0016_70288.jpg",
+      "mean_similarity": 0.9433684349060059,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\078.Gray_Kingbird\\Gray_Kingbird_0009_795023.jpg",
+      "mean_similarity": 0.943307638168335,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\078.Gray_Kingbird\\Gray_Kingbird_0028_70303.jpg",
+      "mean_similarity": 0.9433014392852783,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\078.Gray_Kingbird\\Gray_Kingbird_0022_70155.jpg",
+      "mean_similarity": 0.9431120157241821,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\078.Gray_Kingbird\\Gray_Kingbird_0035_795027.jpg",
+      "mean_similarity": 0.9430748224258423,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\078.Gray_Kingbird\\Gray_Kingbird_0059_795030.jpg",
+      "mean_similarity": 0.9417955875396729,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\078.Gray_Kingbird\\Gray_Kingbird_0071_70100.jpg",
+      "mean_similarity": 0.9410759210586548,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\078.Gray_Kingbird\\Gray_Kingbird_0026_70089.jpg",
+      "mean_similarity": 0.9408547878265381,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\078.Gray_Kingbird\\Gray_Kingbird_0062_795026.jpg",
+      "mean_similarity": 0.9401794075965881,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\078.Gray_Kingbird\\Gray_Kingbird_0042_70083.jpg",
+      "mean_similarity": 0.9377344250679016,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\078.Gray_Kingbird\\Gray_Kingbird_0006_70268.jpg",
+      "mean_similarity": 0.9370900988578796,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\078.Gray_Kingbird\\Gray_Kingbird_0030_70110.jpg",
+      "mean_similarity": 0.9370047450065613,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\078.Gray_Kingbird\\Gray_Kingbird_0023_795035.jpg",
+      "mean_similarity": 0.9366336464881897,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\078.Gray_Kingbird\\Gray_Kingbird_0037_70050.jpg",
+      "mean_similarity": 0.936331033706665,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\078.Gray_Kingbird\\Gray_Kingbird_0052_795024.jpg",
+      "mean_similarity": 0.9356058239936829,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\078.Gray_Kingbird\\Gray_Kingbird_0008_70282.jpg",
+      "mean_similarity": 0.9275872707366943,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\078.Gray_Kingbird\\Gray_Kingbird_0080_70077.jpg",
+      "mean_similarity": 0.9268964529037476,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\078.Gray_Kingbird\\Gray_Kingbird_0038_70118.jpg",
+      "mean_similarity": 0.9228779077529907,
+      "rank": 30
+    }
+  ]
+}

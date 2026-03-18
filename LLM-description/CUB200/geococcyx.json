@@ -1,0 +1,26 @@
+{
+  "class_name": "Geococcyx",
+  "global_description": "A medium-sized bird with a streamlined body, predominantly brown with white streaks. It has a long tail and strong legs, adapted for running. The head features a distinctive crest and a long, slightly curved beak.",
+  "discriminative_attributes": [
+    "Brown and white streaked plumage",
+    "Long tail",
+    "Strong legs for running",
+    "Distinctive head crest",
+    "Long, slightly curved beak"
+  ],
+  "part_details": {
+    "plumage": "Brown with white streaks, providing camouflage",
+    "tail": "Long and straight, aiding in balance",
+    "legs": "Strong and muscular, adapted for running",
+    "head": "Crested with a long, slightly curved beak",
+    "beak": "Long, slightly curved, suited for catching prey"
+  },
+  "spatial_relations": [
+    "The long tail extends from the rear of the body",
+    "The strong legs are positioned under the body",
+    "The head crest is located on top of the head",
+    "The beak protrudes from the front of the head"
+  ],
+  "original_dataset_key": "CUB200",
+  "original_class_key": "geococcyx"
+}

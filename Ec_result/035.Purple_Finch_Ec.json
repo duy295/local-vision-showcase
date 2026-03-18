@@ -1,0 +1,159 @@
+{
+  "class_name": "035.Purple_Finch",
+  "class_idx": 34,
+  "num_images_in_class": 30,
+  "ec_size_requested": 30,
+  "ec_size_actual": 30,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\035.Purple_Finch\\Purple_Finch_0104_28088.jpg",
+      "mean_similarity": 0.948381245136261,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\035.Purple_Finch\\Purple_Finch_0096_27688.jpg",
+      "mean_similarity": 0.9483225345611572,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\035.Purple_Finch\\Purple_Finch_0113_27547.jpg",
+      "mean_similarity": 0.9482885003089905,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\035.Purple_Finch\\Purple_Finch_0082_27639.jpg",
+      "mean_similarity": 0.9480130672454834,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\035.Purple_Finch\\Purple_Finch_0005_27512.jpg",
+      "mean_similarity": 0.9479626417160034,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\035.Purple_Finch\\Purple_Finch_0108_28143.jpg",
+      "mean_similarity": 0.9478592872619629,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\035.Purple_Finch\\Purple_Finch_0025_28174.jpg",
+      "mean_similarity": 0.9478365778923035,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\035.Purple_Finch\\Purple_Finch_0102_27308.jpg",
+      "mean_similarity": 0.9476344585418701,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\035.Purple_Finch\\Purple_Finch_0111_27293.jpg",
+      "mean_similarity": 0.9476274251937866,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\035.Purple_Finch\\Purple_Finch_0013_27506.jpg",
+      "mean_similarity": 0.9475522637367249,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\035.Purple_Finch\\Purple_Finch_0071_27443.jpg",
+      "mean_similarity": 0.9472498297691345,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\035.Purple_Finch\\Purple_Finch_0036_27641.jpg",
+      "mean_similarity": 0.9471302032470703,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\035.Purple_Finch\\Purple_Finch_0048_27670.jpg",
+      "mean_similarity": 0.9470864534378052,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\035.Purple_Finch\\Purple_Finch_0074_28101.jpg",
+      "mean_similarity": 0.945859432220459,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\035.Purple_Finch\\Purple_Finch_0092_27264.jpg",
+      "mean_similarity": 0.945559024810791,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\035.Purple_Finch\\Purple_Finch_0014_27322.jpg",
+      "mean_similarity": 0.9455416798591614,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\035.Purple_Finch\\Purple_Finch_0094_27323.jpg",
+      "mean_similarity": 0.94536292552948,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\035.Purple_Finch\\Purple_Finch_0134_27526.jpg",
+      "mean_similarity": 0.9453328847885132,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\035.Purple_Finch\\Purple_Finch_0081_27913.jpg",
+      "mean_similarity": 0.9446206092834473,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\035.Purple_Finch\\Purple_Finch_0053_27543.jpg",
+      "mean_similarity": 0.9441654086112976,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\035.Purple_Finch\\Purple_Finch_0088_28076.jpg",
+      "mean_similarity": 0.9441299438476562,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\035.Purple_Finch\\Purple_Finch_0011_27633.jpg",
+      "mean_similarity": 0.9428379535675049,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\035.Purple_Finch\\Purple_Finch_0004_27565.jpg",
+      "mean_similarity": 0.9426174759864807,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\035.Purple_Finch\\Purple_Finch_0050_27702.jpg",
+      "mean_similarity": 0.9421313405036926,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\035.Purple_Finch\\Purple_Finch_0110_27750.jpg",
+      "mean_similarity": 0.9416718482971191,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\035.Purple_Finch\\Purple_Finch_0032_27305.jpg",
+      "mean_similarity": 0.9416251182556152,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\035.Purple_Finch\\Purple_Finch_0006_27950.jpg",
+      "mean_similarity": 0.9408460259437561,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\035.Purple_Finch\\Purple_Finch_0114_27837.jpg",
+      "mean_similarity": 0.9373651146888733,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\035.Purple_Finch\\Purple_Finch_0086_27637.jpg",
+      "mean_similarity": 0.9364122748374939,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\035.Purple_Finch\\Purple_Finch_0049_27507.jpg",
+      "mean_similarity": 0.8637725114822388,
+      "rank": 30
+    }
+  ]
+}

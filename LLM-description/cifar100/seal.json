@@ -1,0 +1,26 @@
+{
+  "class_name": "seal",
+  "global_description": "Streamlined aquatic mammal with a torpedo-shaped body, covered in smooth, gray or brown fur. It has large, dark eyes, small external ear openings, and whiskers on its rounded face. The limbs are modified into flippers, with the rear flippers extending behind the body for propulsion in water.",
+  "discriminative_attributes": [
+    "Torpedo-shaped body",
+    "Smooth gray or brown fur",
+    "Large dark eyes",
+    "Whiskered face",
+    "Flipper-like limbs"
+  ],
+  "part_details": {
+    "head": "Rounded with large dark eyes and whiskers",
+    "body": "Streamlined, torpedo-shaped, covered in smooth fur",
+    "flippers": "Modified limbs for swimming, rear flippers extend behind",
+    "eyes": "Large and dark, adapted for underwater vision",
+    "fur": "Smooth, typically gray or brown"
+  },
+  "spatial_relations": [
+    "Head at front of body",
+    "Flippers attached to sides and rear",
+    "Eyes positioned on sides of head",
+    "Whiskers on face"
+  ],
+  "original_dataset_key": "cifar100",
+  "original_class_key": "seal"
+}

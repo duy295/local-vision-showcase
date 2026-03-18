@@ -1,0 +1,25 @@
+{
+  "class_name": "tiger",
+  "global_description": "Large feline with muscular body, orange fur with black stripes, white underbelly, powerful limbs, long tail, and a broad head with sharp teeth and whiskers.",
+  "discriminative_attributes": [
+    "Orange fur with black stripes",
+    "Muscular body",
+    "Broad head",
+    "Sharp teeth",
+    "Long tail"
+  ],
+  "part_details": {
+    "head": "Broad with sharp teeth and whiskers",
+    "body": "Muscular with orange fur and black stripes",
+    "limbs": "Powerful and muscular",
+    "tail": "Long and striped",
+    "fur": "Orange with black stripes and white underbelly"
+  },
+  "spatial_relations": [
+    "Head at front of body",
+    "Limbs attached to sides of body",
+    "Tail extending from rear"
+  ],
+  "original_dataset_key": "ImageNetR",
+  "original_class_key": "tiger"
+}

@@ -1,0 +1,25 @@
+{
+  "class_name": "Bird",
+  "global_description": "A medium-sized bird with a sleek, elongated body and glossy black plumage. It features a slender, slightly curved beak and bright yellow eyes. The feathers have an iridescent sheen, appearing bluish or greenish in certain lights.",
+  "discriminative_attributes": [
+    "Glossy black plumage",
+    "Bright yellow eyes",
+    "Slightly curved slender beak",
+    "Iridescent feather sheen",
+    "Medium-sized elongated body"
+  ],
+  "part_details": {
+    "plumage": "Glossy black with iridescent blue-green sheen, smooth texture.",
+    "eyes": "Bright yellow, small, and round, contrasting with dark feathers.",
+    "beak": "Slender, slightly curved, black, and pointed.",
+    "body": "Medium-sized, elongated, streamlined with smooth feather coverage.",
+    "wings": "Long, narrow, black with subtle iridescence."
+  },
+  "spatial_relations": [
+    "The slender beak extends from the front of the head.",
+    "The bright yellow eyes are positioned on either side of the head.",
+    "The wings are attached to the sides of the elongated body."
+  ],
+  "original_dataset_key": "CUB200",
+  "original_class_key": "brewer_blackbird"
+}

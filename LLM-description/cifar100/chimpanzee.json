@@ -1,0 +1,26 @@
+{
+  "class_name": "chimpanzee",
+  "global_description": "Medium-sized primate with robust body, long arms, short legs, and a flat face. Covered in coarse black hair with a bare face, ears, and hands. Expressive eyes and prominent brow ridge. Adapted for climbing and knuckle-walking.",
+  "discriminative_attributes": [
+    "Robust body",
+    "Long arms",
+    "Flat face",
+    "Coarse black hair",
+    "Bare face and hands"
+  ],
+  "part_details": {
+    "head": "Flat face with expressive eyes and prominent brow ridge",
+    "body": "Robust with coarse black hair",
+    "arms": "Long, adapted for climbing",
+    "legs": "Short, sturdy",
+    "hands": "Bare, with opposable thumbs"
+  },
+  "spatial_relations": [
+    "Head at top of body",
+    "Arms extend from shoulders",
+    "Legs beneath body",
+    "Hands at end of arms"
+  ],
+  "original_dataset_key": "cifar100",
+  "original_class_key": "chimpanzee"
+}

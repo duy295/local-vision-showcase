@@ -1,0 +1,26 @@
+{
+  "class_name": "bird",
+  "global_description": "A feathered vertebrate with a streamlined body, typically featuring wings, a beak, and talons. Birds vary widely in size and color, often exhibiting vibrant plumage. They possess lightweight skeletons and are adapted for flight, with some species having specialized beaks and feet for their ecological niches.",
+  "discriminative_attributes": [
+    "Feathered body",
+    "Wings for flight",
+    "Beak instead of teeth",
+    "Lightweight skeleton",
+    "Talons or webbed feet"
+  ],
+  "part_details": {
+    "head": "Small with a beak, often colorful or patterned",
+    "body": "Streamlined, covered in feathers, varying in color",
+    "wings": "Feathered, adapted for flight, size varies",
+    "legs": "Thin, often with talons or webbed for swimming",
+    "tail": "Feathered, used for steering in flight"
+  },
+  "spatial_relations": [
+    "Wings extend from sides of body",
+    "Beak positioned at front of head",
+    "Legs beneath body",
+    "Tail at rear of body"
+  ],
+  "original_dataset_key": "ImageNetR",
+  "original_class_key": "bird"
+}

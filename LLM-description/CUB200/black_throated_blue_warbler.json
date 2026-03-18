@@ -1,0 +1,25 @@
+{
+  "class_name": "Bird",
+  "global_description": "A small, compact songbird with a sleek, rounded body. It features a striking contrast of deep blue and black plumage on the upper parts and a white belly. The bird has a distinctive black throat and face mask, with a short, pointed beak.",
+  "discriminative_attributes": [
+    "Deep blue upperparts",
+    "Black throat and face mask",
+    "White belly",
+    "Short pointed beak",
+    "Compact rounded body"
+  ],
+  "part_details": {
+    "upperparts": "Deep blue plumage covering the head, back, and wings.",
+    "throat": "Black, forming a distinct mask-like pattern.",
+    "belly": "White, contrasting sharply with the darker upperparts.",
+    "beak": "Short, pointed, and dark-colored.",
+    "wings": "Deep blue with black accents, sleek and rounded."
+  },
+  "spatial_relations": [
+    "The black throat is positioned below the blue head.",
+    "The white belly is located beneath the black throat.",
+    "The deep blue wings extend from the sides of the body."
+  ],
+  "original_dataset_key": "CUB200",
+  "original_class_key": "black_throated_blue_warbler"
+}

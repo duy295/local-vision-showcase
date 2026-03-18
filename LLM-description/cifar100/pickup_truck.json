@@ -1,0 +1,26 @@
+{
+  "class_name": "pickup truck",
+  "global_description": "A robust vehicle with an open cargo bed, typically featuring a cab for passengers and a flatbed for transporting goods. The body is often metallic, available in various colors, with large wheels and a prominent front grille.",
+  "discriminative_attributes": [
+    "Open cargo bed",
+    "Cab for passengers",
+    "Large wheels",
+    "Prominent front grille",
+    "Metallic body"
+  ],
+  "part_details": {
+    "cab": "Enclosed area for passengers, often with two or four doors",
+    "cargo bed": "Open flatbed at the rear for carrying goods",
+    "wheels": "Large and sturdy, designed for rough terrain",
+    "grille": "Prominent front grille, often metallic",
+    "body": "Metallic, available in various colors"
+  },
+  "spatial_relations": [
+    "Cab positioned at front of vehicle",
+    "Cargo bed extends from rear of cab",
+    "Wheels beneath body",
+    "Grille at front of cab"
+  ],
+  "original_dataset_key": "cifar100",
+  "original_class_key": "pickup_truck"
+}

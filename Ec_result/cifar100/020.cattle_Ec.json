@@ -1,0 +1,1259 @@
+{
+  "class_name": "cattle",
+  "class_idx": 19,
+  "num_images_in_class": 500,
+  "ec_size_requested": 250,
+  "ec_size_actual": 250,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\cows_s_000080.png",
+      "mean_similarity": 0.9414019584655762,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\oxen_s_001258.png",
+      "mean_similarity": 0.941254198551178,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\cows_s_001797.png",
+      "mean_similarity": 0.9411987066268921,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\bos_taurus_s_000462.png",
+      "mean_similarity": 0.9410990476608276,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\oxen_s_001032.png",
+      "mean_similarity": 0.941013514995575,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\bos_taurus_s_000707.png",
+      "mean_similarity": 0.9409475326538086,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\cows_s_000341.png",
+      "mean_similarity": 0.9408026337623596,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\cattle_s_000545.png",
+      "mean_similarity": 0.94077068567276,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\cows_s_000583.png",
+      "mean_similarity": 0.9407689571380615,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\bos_taurus_s_000335.png",
+      "mean_similarity": 0.9407016038894653,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\cows_s_001517.png",
+      "mean_similarity": 0.9404358267784119,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\bos_taurus_s_000702.png",
+      "mean_similarity": 0.9403851628303528,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\cattle_s_001520.png",
+      "mean_similarity": 0.9403441548347473,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\oxen_s_002384.png",
+      "mean_similarity": 0.9402738809585571,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\bos_taurus_s_000426.png",
+      "mean_similarity": 0.9402157068252563,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\oxen_s_001624.png",
+      "mean_similarity": 0.9401791095733643,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\bos_taurus_s_000049.png",
+      "mean_similarity": 0.9401740431785583,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\cows_s_000002.png",
+      "mean_similarity": 0.9401499629020691,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\cattle_s_001138.png",
+      "mean_similarity": 0.940138578414917,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\cattle_s_000259.png",
+      "mean_similarity": 0.9400982856750488,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\cows_s_001665.png",
+      "mean_similarity": 0.940075695514679,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\cattle_s_000132.png",
+      "mean_similarity": 0.9398021101951599,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\oxen_s_002099.png",
+      "mean_similarity": 0.9397709369659424,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\bos_taurus_s_000523.png",
+      "mean_similarity": 0.9397549033164978,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\cattle_s_000629.png",
+      "mean_similarity": 0.9397333264350891,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\bos_taurus_s_000293.png",
+      "mean_similarity": 0.9395812153816223,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\cattle_s_000253.png",
+      "mean_similarity": 0.9394936561584473,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\cattle_s_000578.png",
+      "mean_similarity": 0.939418375492096,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\bos_taurus_s_000360.png",
+      "mean_similarity": 0.9393998980522156,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\bos_taurus_s_000657.png",
+      "mean_similarity": 0.939384400844574,
+      "rank": 30
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\cattle_s_002224.png",
+      "mean_similarity": 0.9393531084060669,
+      "rank": 31
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\bos_taurus_s_000371.png",
+      "mean_similarity": 0.9393378496170044,
+      "rank": 32
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\cattle_s_000071.png",
+      "mean_similarity": 0.9392322301864624,
+      "rank": 33
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\cattle_s_001139.png",
+      "mean_similarity": 0.9392017126083374,
+      "rank": 34
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\oxen_s_002047.png",
+      "mean_similarity": 0.9389472603797913,
+      "rank": 35
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\cattle_s_001133.png",
+      "mean_similarity": 0.9388229846954346,
+      "rank": 36
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\cattle_s_002226.png",
+      "mean_similarity": 0.9388085603713989,
+      "rank": 37
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\oxen_s_001327.png",
+      "mean_similarity": 0.9387197494506836,
+      "rank": 38
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\bos_taurus_s_000350.png",
+      "mean_similarity": 0.9386321306228638,
+      "rank": 39
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\oxen_s_002071.png",
+      "mean_similarity": 0.9386066794395447,
+      "rank": 40
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\bos_taurus_s_000069.png",
+      "mean_similarity": 0.9385996460914612,
+      "rank": 41
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\cows_s_000597.png",
+      "mean_similarity": 0.938587486743927,
+      "rank": 42
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\bos_taurus_s_000372.png",
+      "mean_similarity": 0.9385789632797241,
+      "rank": 43
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\bos_taurus_s_000358.png",
+      "mean_similarity": 0.9385614395141602,
+      "rank": 44
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\cattle_s_000171.png",
+      "mean_similarity": 0.9385601282119751,
+      "rank": 45
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\cattle_s_001416.png",
+      "mean_similarity": 0.9385528564453125,
+      "rank": 46
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\cows_s_001465.png",
+      "mean_similarity": 0.9385101795196533,
+      "rank": 47
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\cattle_s_001336.png",
+      "mean_similarity": 0.9384584426879883,
+      "rank": 48
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\cows_s_000129.png",
+      "mean_similarity": 0.9383538961410522,
+      "rank": 49
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\bos_taurus_s_000178.png",
+      "mean_similarity": 0.9383522272109985,
+      "rank": 50
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\cows_s_001800.png",
+      "mean_similarity": 0.9383458495140076,
+      "rank": 51
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\cows_s_000550.png",
+      "mean_similarity": 0.9383455514907837,
+      "rank": 52
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\oxen_s_000728.png",
+      "mean_similarity": 0.9383160471916199,
+      "rank": 53
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\cattle_s_000572.png",
+      "mean_similarity": 0.9382548332214355,
+      "rank": 54
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\cattle_s_001658.png",
+      "mean_similarity": 0.938073992729187,
+      "rank": 55
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\oxen_s_001938.png",
+      "mean_similarity": 0.9380657076835632,
+      "rank": 56
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\oxen_s_002464.png",
+      "mean_similarity": 0.9380463361740112,
+      "rank": 57
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\cattle_s_000042.png",
+      "mean_similarity": 0.9379802942276001,
+      "rank": 58
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\cows_s_000294.png",
+      "mean_similarity": 0.9379761815071106,
+      "rank": 59
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\cattle_s_002002.png",
+      "mean_similarity": 0.9379060864448547,
+      "rank": 60
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\cattle_s_001248.png",
+      "mean_similarity": 0.9379058480262756,
+      "rank": 61
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\cattle_s_000367.png",
+      "mean_similarity": 0.9379047751426697,
+      "rank": 62
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\cattle_s_001566.png",
+      "mean_similarity": 0.9378385543823242,
+      "rank": 63
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\oxen_s_001496.png",
+      "mean_similarity": 0.9378252029418945,
+      "rank": 64
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\cattle_s_000081.png",
+      "mean_similarity": 0.9378179311752319,
+      "rank": 65
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\oxen_s_000607.png",
+      "mean_similarity": 0.9377806186676025,
+      "rank": 66
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\cows_s_001555.png",
+      "mean_similarity": 0.9377718567848206,
+      "rank": 67
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\cattle_s_000654.png",
+      "mean_similarity": 0.9377579689025879,
+      "rank": 68
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\oxen_s_001011.png",
+      "mean_similarity": 0.9377269148826599,
+      "rank": 69
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\cattle_s_000501.png",
+      "mean_similarity": 0.9376957416534424,
+      "rank": 70
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\bos_taurus_s_000170.png",
+      "mean_similarity": 0.9376944303512573,
+      "rank": 71
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\bos_taurus_s_000619.png",
+      "mean_similarity": 0.9376050233840942,
+      "rank": 72
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\cows_s_000585.png",
+      "mean_similarity": 0.9375944137573242,
+      "rank": 73
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\oxen_s_000428.png",
+      "mean_similarity": 0.9375836253166199,
+      "rank": 74
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\cattle_s_001046.png",
+      "mean_similarity": 0.9375689029693604,
+      "rank": 75
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\cattle_s_000752.png",
+      "mean_similarity": 0.9375419616699219,
+      "rank": 76
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\oxen_s_001152.png",
+      "mean_similarity": 0.93753582239151,
+      "rank": 77
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\bos_taurus_s_000213.png",
+      "mean_similarity": 0.9375109076499939,
+      "rank": 78
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\bos_taurus_s_000280.png",
+      "mean_similarity": 0.9374558329582214,
+      "rank": 79
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\cattle_s_001143.png",
+      "mean_similarity": 0.9374434947967529,
+      "rank": 80
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\cattle_s_000359.png",
+      "mean_similarity": 0.9374354481697083,
+      "rank": 81
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\cattle_s_000138.png",
+      "mean_similarity": 0.9373965263366699,
+      "rank": 82
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\oxen_s_000600.png",
+      "mean_similarity": 0.9373752474784851,
+      "rank": 83
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\cows_s_001031.png",
+      "mean_similarity": 0.9373653531074524,
+      "rank": 84
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\cattle_s_000773.png",
+      "mean_similarity": 0.9373615384101868,
+      "rank": 85
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\bos_taurus_s_000154.png",
+      "mean_similarity": 0.9373003840446472,
+      "rank": 86
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\cattle_s_000427.png",
+      "mean_similarity": 0.9372895359992981,
+      "rank": 87
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\bos_taurus_s_000759.png",
+      "mean_similarity": 0.9372603893280029,
+      "rank": 88
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\oxen_s_002044.png",
+      "mean_similarity": 0.9372190833091736,
+      "rank": 89
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\oxen_s_001753.png",
+      "mean_similarity": 0.9371632933616638,
+      "rank": 90
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\oxen_s_002555.png",
+      "mean_similarity": 0.937113881111145,
+      "rank": 91
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\cattle_s_001838.png",
+      "mean_similarity": 0.9371088147163391,
+      "rank": 92
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\oxen_s_002370.png",
+      "mean_similarity": 0.9370833039283752,
+      "rank": 93
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\cattle_s_001436.png",
+      "mean_similarity": 0.9370693564414978,
+      "rank": 94
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\oxen_s_001892.png",
+      "mean_similarity": 0.9370038509368896,
+      "rank": 95
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\cattle_s_000734.png",
+      "mean_similarity": 0.9369970560073853,
+      "rank": 96
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\bos_taurus_s_000282.png",
+      "mean_similarity": 0.9369789361953735,
+      "rank": 97
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\oxen_s_000603.png",
+      "mean_similarity": 0.9369718432426453,
+      "rank": 98
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\cattle_s_000362.png",
+      "mean_similarity": 0.9369622468948364,
+      "rank": 99
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\oxen_s_002008.png",
+      "mean_similarity": 0.9369098544120789,
+      "rank": 100
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\cows_s_000191.png",
+      "mean_similarity": 0.9369060397148132,
+      "rank": 101
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\oxen_s_000108.png",
+      "mean_similarity": 0.9369049668312073,
+      "rank": 102
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\cattle_s_000044.png",
+      "mean_similarity": 0.9368975162506104,
+      "rank": 103
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\cattle_s_000814.png",
+      "mean_similarity": 0.9368830919265747,
+      "rank": 104
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\cattle_s_001892.png",
+      "mean_similarity": 0.9368405938148499,
+      "rank": 105
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\cattle_s_001605.png",
+      "mean_similarity": 0.9367960095405579,
+      "rank": 106
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\oxen_s_001908.png",
+      "mean_similarity": 0.9367903470993042,
+      "rank": 107
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\oxen_s_000430.png",
+      "mean_similarity": 0.9367547631263733,
+      "rank": 108
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\cattle_s_000460.png",
+      "mean_similarity": 0.9367526769638062,
+      "rank": 109
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\cattle_s_001978.png",
+      "mean_similarity": 0.9367125034332275,
+      "rank": 110
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\bos_taurus_s_000628.png",
+      "mean_similarity": 0.936675488948822,
+      "rank": 111
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\oxen_s_000991.png",
+      "mean_similarity": 0.9366713166236877,
+      "rank": 112
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\cattle_s_001042.png",
+      "mean_similarity": 0.9366611242294312,
+      "rank": 113
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\cattle_s_000282.png",
+      "mean_similarity": 0.9366095662117004,
+      "rank": 114
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\oxen_s_000844.png",
+      "mean_similarity": 0.9366075992584229,
+      "rank": 115
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\bos_taurus_s_000223.png",
+      "mean_similarity": 0.9366018772125244,
+      "rank": 116
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\cattle_s_001530.png",
+      "mean_similarity": 0.9365934133529663,
+      "rank": 117
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\oxen_s_001118.png",
+      "mean_similarity": 0.9365914463996887,
+      "rank": 118
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\cattle_s_001528.png",
+      "mean_similarity": 0.936565637588501,
+      "rank": 119
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\cows_s_002039.png",
+      "mean_similarity": 0.9365243315696716,
+      "rank": 120
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\cattle_s_001907.png",
+      "mean_similarity": 0.9365237355232239,
+      "rank": 121
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\cattle_s_000055.png",
+      "mean_similarity": 0.9365093111991882,
+      "rank": 122
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\oxen_s_000431.png",
+      "mean_similarity": 0.9364246129989624,
+      "rank": 123
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\bos_taurus_s_000005.png",
+      "mean_similarity": 0.9363966584205627,
+      "rank": 124
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\cattle_s_000348.png",
+      "mean_similarity": 0.9363943338394165,
+      "rank": 125
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\oxen_s_001476.png",
+      "mean_similarity": 0.9363909959793091,
+      "rank": 126
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\bos_taurus_s_000298.png",
+      "mean_similarity": 0.9363508820533752,
+      "rank": 127
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\cows_s_000799.png",
+      "mean_similarity": 0.9363077878952026,
+      "rank": 128
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\cattle_s_000088.png",
+      "mean_similarity": 0.9362868666648865,
+      "rank": 129
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\oxen_s_000405.png",
+      "mean_similarity": 0.9362796545028687,
+      "rank": 130
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\cattle_s_000736.png",
+      "mean_similarity": 0.9362548589706421,
+      "rank": 131
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\cattle_s_000193.png",
+      "mean_similarity": 0.9362521767616272,
+      "rank": 132
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\oxen_s_001991.png",
+      "mean_similarity": 0.9362132549285889,
+      "rank": 133
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\cattle_s_001521.png",
+      "mean_similarity": 0.9362013936042786,
+      "rank": 134
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\bos_taurus_s_000587.png",
+      "mean_similarity": 0.9361779689788818,
+      "rank": 135
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\cattle_s_001532.png",
+      "mean_similarity": 0.9361664652824402,
+      "rank": 136
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\bos_taurus_s_000085.png",
+      "mean_similarity": 0.9361456632614136,
+      "rank": 137
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\cows_s_001493.png",
+      "mean_similarity": 0.9360799193382263,
+      "rank": 138
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\cows_s_001469.png",
+      "mean_similarity": 0.9360606670379639,
+      "rank": 139
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\oxen_s_000017.png",
+      "mean_similarity": 0.9359471201896667,
+      "rank": 140
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\cattle_s_002129.png",
+      "mean_similarity": 0.9358957409858704,
+      "rank": 141
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\cows_s_001307.png",
+      "mean_similarity": 0.9358534812927246,
+      "rank": 142
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\cattle_s_000522.png",
+      "mean_similarity": 0.9357885718345642,
+      "rank": 143
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\bos_taurus_s_000022.png",
+      "mean_similarity": 0.9357790946960449,
+      "rank": 144
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\cattle_s_002135.png",
+      "mean_similarity": 0.9357771873474121,
+      "rank": 145
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\cattle_s_000624.png",
+      "mean_similarity": 0.9357696175575256,
+      "rank": 146
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\cattle_s_001052.png",
+      "mean_similarity": 0.9357134699821472,
+      "rank": 147
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\cattle_s_000095.png",
+      "mean_similarity": 0.9356260299682617,
+      "rank": 148
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\cows_s_001518.png",
+      "mean_similarity": 0.9355941414833069,
+      "rank": 149
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\oxen_s_000830.png",
+      "mean_similarity": 0.9355866312980652,
+      "rank": 150
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\cows_s_002300.png",
+      "mean_similarity": 0.9355446696281433,
+      "rank": 151
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\cows_s_000127.png",
+      "mean_similarity": 0.935462474822998,
+      "rank": 152
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\bos_taurus_s_000430.png",
+      "mean_similarity": 0.9353846907615662,
+      "rank": 153
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\oxen_s_001755.png",
+      "mean_similarity": 0.9353107213973999,
+      "rank": 154
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\cows_s_001209.png",
+      "mean_similarity": 0.935297966003418,
+      "rank": 155
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\cattle_s_000272.png",
+      "mean_similarity": 0.9352434873580933,
+      "rank": 156
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\cows_s_001472.png",
+      "mean_similarity": 0.9352025985717773,
+      "rank": 157
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\cows_s_001290.png",
+      "mean_similarity": 0.9351152181625366,
+      "rank": 158
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\bos_taurus_s_000479.png",
+      "mean_similarity": 0.9350908994674683,
+      "rank": 159
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\bos_taurus_s_000343.png",
+      "mean_similarity": 0.935078501701355,
+      "rank": 160
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\bos_taurus_s_000458.png",
+      "mean_similarity": 0.9349777698516846,
+      "rank": 161
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\bos_taurus_s_000374.png",
+      "mean_similarity": 0.9349650740623474,
+      "rank": 162
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\oxen_s_000776.png",
+      "mean_similarity": 0.9349122643470764,
+      "rank": 163
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\bos_taurus_s_000082.png",
+      "mean_similarity": 0.9348872303962708,
+      "rank": 164
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\bos_taurus_s_000146.png",
+      "mean_similarity": 0.9348675012588501,
+      "rank": 165
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\cattle_s_001340.png",
+      "mean_similarity": 0.9348469972610474,
+      "rank": 166
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\cattle_s_000758.png",
+      "mean_similarity": 0.9348465800285339,
+      "rank": 167
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\bos_taurus_s_000423.png",
+      "mean_similarity": 0.9348384737968445,
+      "rank": 168
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\cattle_s_001518.png",
+      "mean_similarity": 0.9347752928733826,
+      "rank": 169
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\cows_s_001583.png",
+      "mean_similarity": 0.9347648620605469,
+      "rank": 170
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\oxen_s_000551.png",
+      "mean_similarity": 0.9347549676895142,
+      "rank": 171
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\oxen_s_000796.png",
+      "mean_similarity": 0.93471360206604,
+      "rank": 172
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\bos_taurus_s_000353.png",
+      "mean_similarity": 0.9347081780433655,
+      "rank": 173
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\bos_taurus_s_000072.png",
+      "mean_similarity": 0.9346672296524048,
+      "rank": 174
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\oxen_s_002472.png",
+      "mean_similarity": 0.9345763325691223,
+      "rank": 175
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\cattle_s_001023.png",
+      "mean_similarity": 0.9345437288284302,
+      "rank": 176
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\cattle_s_000403.png",
+      "mean_similarity": 0.9345120191574097,
+      "rank": 177
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\bos_taurus_s_000436.png",
+      "mean_similarity": 0.9345000982284546,
+      "rank": 178
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\cows_s_002071.png",
+      "mean_similarity": 0.9344810843467712,
+      "rank": 179
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\oxen_s_002462.png",
+      "mean_similarity": 0.9344601035118103,
+      "rank": 180
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\cows_s_000330.png",
+      "mean_similarity": 0.9344200491905212,
+      "rank": 181
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\oxen_s_002490.png",
+      "mean_similarity": 0.934393048286438,
+      "rank": 182
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\cattle_s_001969.png",
+      "mean_similarity": 0.9343900084495544,
+      "rank": 183
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\cattle_s_000278.png",
+      "mean_similarity": 0.9343412518501282,
+      "rank": 184
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\oxen_s_001641.png",
+      "mean_similarity": 0.9343332052230835,
+      "rank": 185
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\bos_taurus_s_000026.png",
+      "mean_similarity": 0.9343260526657104,
+      "rank": 186
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\bos_taurus_s_000763.png",
+      "mean_similarity": 0.9342909455299377,
+      "rank": 187
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\cattle_s_000551.png",
+      "mean_similarity": 0.9342755675315857,
+      "rank": 188
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\oxen_s_002522.png",
+      "mean_similarity": 0.934248685836792,
+      "rank": 189
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\cows_s_002020.png",
+      "mean_similarity": 0.9341955184936523,
+      "rank": 190
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\cattle_s_000092.png",
+      "mean_similarity": 0.9341566562652588,
+      "rank": 191
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\cows_s_001356.png",
+      "mean_similarity": 0.9341351389884949,
+      "rank": 192
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\oxen_s_001632.png",
+      "mean_similarity": 0.9341235160827637,
+      "rank": 193
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\cows_s_001145.png",
+      "mean_similarity": 0.9339966773986816,
+      "rank": 194
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\cattle_s_001095.png",
+      "mean_similarity": 0.933969259262085,
+      "rank": 195
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\bos_taurus_s_000347.png",
+      "mean_similarity": 0.9338770508766174,
+      "rank": 196
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\cattle_s_000150.png",
+      "mean_similarity": 0.9338768720626831,
+      "rank": 197
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\cattle_s_001846.png",
+      "mean_similarity": 0.93387371301651,
+      "rank": 198
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\oxen_s_001703.png",
+      "mean_similarity": 0.9337373375892639,
+      "rank": 199
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\bos_taurus_s_000367.png",
+      "mean_similarity": 0.9337252378463745,
+      "rank": 200
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\cows_s_001378.png",
+      "mean_similarity": 0.9337033629417419,
+      "rank": 201
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\oxen_s_001906.png",
+      "mean_similarity": 0.9336240887641907,
+      "rank": 202
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\bos_taurus_s_000429.png",
+      "mean_similarity": 0.9336020946502686,
+      "rank": 203
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\bos_taurus_s_000001.png",
+      "mean_similarity": 0.9335891604423523,
+      "rank": 204
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\cows_s_000716.png",
+      "mean_similarity": 0.9335691928863525,
+      "rank": 205
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\bos_taurus_s_000729.png",
+      "mean_similarity": 0.9335611462593079,
+      "rank": 206
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\bos_taurus_s_000278.png",
+      "mean_similarity": 0.9335533976554871,
+      "rank": 207
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\cattle_s_000759.png",
+      "mean_similarity": 0.9335113763809204,
+      "rank": 208
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\oxen_s_001748.png",
+      "mean_similarity": 0.9334704875946045,
+      "rank": 209
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\bos_taurus_s_000582.png",
+      "mean_similarity": 0.9334568977355957,
+      "rank": 210
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\cattle_s_000056.png",
+      "mean_similarity": 0.9333869814872742,
+      "rank": 211
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\cattle_s_000376.png",
+      "mean_similarity": 0.9333794116973877,
+      "rank": 212
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\cattle_s_001145.png",
+      "mean_similarity": 0.9333652853965759,
+      "rank": 213
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\oxen_s_001442.png",
+      "mean_similarity": 0.9333361983299255,
+      "rank": 214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\cattle_s_000810.png",
+      "mean_similarity": 0.9332672357559204,
+      "rank": 215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\cattle_s_000459.png",
+      "mean_similarity": 0.9331952929496765,
+      "rank": 216
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\bos_taurus_s_000774.png",
+      "mean_similarity": 0.9330676794052124,
+      "rank": 217
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\oxen_s_002245.png",
+      "mean_similarity": 0.9330674409866333,
+      "rank": 218
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\cows_s_000444.png",
+      "mean_similarity": 0.933046281337738,
+      "rank": 219
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\cows_s_000536.png",
+      "mean_similarity": 0.9330392479896545,
+      "rank": 220
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\cattle_s_000089.png",
+      "mean_similarity": 0.9330233931541443,
+      "rank": 221
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\bos_taurus_s_000043.png",
+      "mean_similarity": 0.9330177307128906,
+      "rank": 222
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\cattle_s_001439.png",
+      "mean_similarity": 0.9329982995986938,
+      "rank": 223
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\cattle_s_000030.png",
+      "mean_similarity": 0.932980477809906,
+      "rank": 224
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\bos_taurus_s_000746.png",
+      "mean_similarity": 0.9329685568809509,
+      "rank": 225
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\oxen_s_001635.png",
+      "mean_similarity": 0.9329086542129517,
+      "rank": 226
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\cattle_s_000186.png",
+      "mean_similarity": 0.9328545331954956,
+      "rank": 227
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\cows_s_001107.png",
+      "mean_similarity": 0.9328153729438782,
+      "rank": 228
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\cattle_s_002290.png",
+      "mean_similarity": 0.932719349861145,
+      "rank": 229
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\cows_s_001381.png",
+      "mean_similarity": 0.9327143430709839,
+      "rank": 230
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\bos_taurus_s_000751.png",
+      "mean_similarity": 0.9325550198554993,
+      "rank": 231
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\cattle_s_001529.png",
+      "mean_similarity": 0.9325249791145325,
+      "rank": 232
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\oxen_s_001591.png",
+      "mean_similarity": 0.9325144290924072,
+      "rank": 233
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\oxen_s_001163.png",
+      "mean_similarity": 0.9325054287910461,
+      "rank": 234
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\bos_taurus_s_000532.png",
+      "mean_similarity": 0.9324920177459717,
+      "rank": 235
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\cows_s_001761.png",
+      "mean_similarity": 0.9324703216552734,
+      "rank": 236
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\bos_taurus_s_000297.png",
+      "mean_similarity": 0.9324489235877991,
+      "rank": 237
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\bos_taurus_s_000029.png",
+      "mean_similarity": 0.932440996170044,
+      "rank": 238
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\oxen_s_002061.png",
+      "mean_similarity": 0.9324313998222351,
+      "rank": 239
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\cattle_s_000574.png",
+      "mean_similarity": 0.9324240684509277,
+      "rank": 240
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\oxen_s_000020.png",
+      "mean_similarity": 0.9323232769966125,
+      "rank": 241
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\oxen_s_001735.png",
+      "mean_similarity": 0.9322428107261658,
+      "rank": 242
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\bos_taurus_s_000201.png",
+      "mean_similarity": 0.932220995426178,
+      "rank": 243
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\cows_s_000120.png",
+      "mean_similarity": 0.9321854114532471,
+      "rank": 244
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\cattle_s_000331.png",
+      "mean_similarity": 0.9321087598800659,
+      "rank": 245
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\cattle_s_000378.png",
+      "mean_similarity": 0.9320579767227173,
+      "rank": 246
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\oxen_s_002084.png",
+      "mean_similarity": 0.9320403337478638,
+      "rank": 247
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\oxen_s_001623.png",
+      "mean_similarity": 0.9320235848426819,
+      "rank": 248
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\bos_taurus_s_000254.png",
+      "mean_similarity": 0.9319729804992676,
+      "rank": 249
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\020.cattle\\cows_s_001389.png",
+      "mean_similarity": 0.9318985939025879,
+      "rank": 250
+    }
+  ]
+}

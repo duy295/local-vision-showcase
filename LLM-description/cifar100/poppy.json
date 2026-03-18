@@ -1,0 +1,22 @@
+{
+  "class_name": "poppy",
+  "global_description": "A delicate flowering plant with a slender green stem, vibrant red petals, and a central dark seed pod. The petals are thin and papery, often with a slightly crinkled texture. The overall shape is cup-like, with the petals forming a bowl around the central pod.",
+  "discriminative_attributes": [
+    "Vibrant red petals",
+    "Central dark seed pod",
+    "Thin, papery petals",
+    "Slender green stem",
+    "Cup-like flower shape"
+  ],
+  "part_details": {
+    "petals": "Vibrant red, thin, papery, slightly crinkled",
+    "stem": "Slender, green, smooth",
+    "seed_pod": "Central, dark, rounded"
+  },
+  "spatial_relations": [
+    "Petals surround central seed pod",
+    "Stem supports flower from below"
+  ],
+  "original_dataset_key": "cifar100",
+  "original_class_key": "poppy"
+}

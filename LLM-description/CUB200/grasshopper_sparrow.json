@@ -1,0 +1,25 @@
+{
+  "class_name": "Bird",
+  "global_description": "A small, stocky bird with a rounded body and short tail. It has a predominantly brown and buff plumage with streaked patterns. The head is flat with a pale eye ring and a short, conical bill. The wings are short and rounded.",
+  "discriminative_attributes": [
+    "Brown and buff streaked plumage",
+    "Flat head with pale eye ring",
+    "Short conical bill",
+    "Rounded wings",
+    "Short tail"
+  ],
+  "part_details": {
+    "head": "Flat with a pale eye ring and brown streaks.",
+    "bill": "Short, conical, and pale in color.",
+    "plumage": "Brown and buff with streaked patterns.",
+    "wings": "Short, rounded, and brown.",
+    "tail": "Short and brown."
+  },
+  "spatial_relations": [
+    "The short conical bill is positioned at the front of the flat head.",
+    "The rounded wings are attached to the sides of the body.",
+    "The short tail extends from the rear of the body."
+  ],
+  "original_dataset_key": "CUB200",
+  "original_class_key": "grasshopper_sparrow"
+}

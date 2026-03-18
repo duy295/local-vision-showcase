@@ -1,0 +1,26 @@
+{
+  "class_name": "ostrich",
+  "global_description": "Large flightless bird with long neck and legs, bulky body covered in fluffy feathers, predominantly black and white plumage, small head with large eyes and flat beak, powerful legs adapted for running.",
+  "discriminative_attributes": [
+    "Long neck and legs",
+    "Bulky body",
+    "Black and white plumage",
+    "Small head with large eyes",
+    "Flat beak"
+  ],
+  "part_details": {
+    "head": "Small with large eyes and flat beak",
+    "neck": "Long and slender, covered in sparse feathers",
+    "body": "Bulky with fluffy black and white feathers",
+    "legs": "Long and powerful, adapted for running",
+    "feathers": "Fluffy, predominantly black and white"
+  },
+  "spatial_relations": [
+    "Neck extends from body to head",
+    "Legs positioned beneath body",
+    "Head at top of neck",
+    "Feathers covering body"
+  ],
+  "original_dataset_key": "ImageNetR",
+  "original_class_key": "ostrich"
+}

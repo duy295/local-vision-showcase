@@ -1,0 +1,25 @@
+{
+  "class_name": "Bird",
+  "global_description": "A small, compact bird with a rounded body and short tail. It features a distinctive gray crown on its head, with a rosy pink wash on its underparts and wings. The bird's plumage is a mix of brown and gray tones, with a slightly streaked appearance.",
+  "discriminative_attributes": [
+    "Gray crown on head",
+    "Rosy pink underparts",
+    "Brown and gray streaked plumage",
+    "Compact rounded body",
+    "Short tail"
+  ],
+  "part_details": {
+    "head": "Gray crown with a slightly rounded shape, contrasting with darker brown face and neck.",
+    "body": "Compact and rounded, with a mix of brown and gray feathers, showing a streaked pattern.",
+    "wings": "Rosy pink wash on the wings, blending with brown and gray feathers.",
+    "tail": "Short and slightly rounded, matching the overall brown and gray coloration.",
+    "underparts": "Rosy pink wash, providing a distinctive contrast to the darker upper body."
+  },
+  "spatial_relations": [
+    "The gray crown is positioned on top of the head, above the darker face.",
+    "The rosy pink underparts extend from the chest down to the belly.",
+    "The wings are attached to the sides of the body, showing a rosy wash."
+  ],
+  "original_dataset_key": "CUB200",
+  "original_class_key": "gray_crowned_rosy_finch"
+}

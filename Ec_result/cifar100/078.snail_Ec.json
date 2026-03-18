@@ -1,0 +1,454 @@
+{
+  "class_name": "snail",
+  "class_idx": 78,
+  "class_folder": "078.snail",
+  "num_images_in_class": 10,
+  "ec_size_requested": 30,
+  "ec_size_actual": 40,
+  "num_fewshot": 10,
+  "num_synthesized": 30,
+  "fewshot_emphasis_weight": 3.0,
+  "hybrid_lambda": 0.6,
+  "related_base_classes": [
+    {
+      "class_key": "mushroom",
+      "relevance_score": 4.734
+    },
+    {
+      "class_key": "beetle",
+      "relevance_score": 4.354
+    },
+    {
+      "class_key": "caterpillar",
+      "relevance_score": 4.2813
+    },
+    {
+      "class_key": "bee",
+      "relevance_score": 3.604
+    },
+    {
+      "class_key": "cockroach",
+      "relevance_score": 3.486
+    },
+    {
+      "class_key": "mouse",
+      "relevance_score": 3.234
+    },
+    {
+      "class_key": "crab",
+      "relevance_score": 3.1334
+    },
+    {
+      "class_key": "pear",
+      "relevance_score": 2.1449
+    },
+    {
+      "class_key": "lobster",
+      "relevance_score": 2.1273
+    },
+    {
+      "class_key": "apple",
+      "relevance_score": 1.7436
+    }
+  ],
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\images\\078.snail\\brown_snail_s_000006.png",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 1,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979725
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\images\\078.snail\\brown_snail_s_000012.png",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 2,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979725
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\images\\078.snail\\brown_snail_s_000019.png",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 3,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979725
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\images\\078.snail\\brown_snail_s_000030.png",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 4,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979725
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\images\\078.snail\\brown_snail_s_000033.png",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 5,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979725
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\images\\078.snail\\brown_snail_s_000040.png",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 6,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979725
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\images\\078.snail\\brown_snail_s_000045.png",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 7,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979725
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\images\\078.snail\\brown_snail_s_000050.png",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 8,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979725
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\images\\078.snail\\brown_snail_s_000067.png",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 9,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979725
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\images\\078.snail\\brown_snail_s_000077.png",
+      "mean_similarity": 0.30000000000000004,
+      "rank": 10,
+      "source": "fewshot",
+      "weight": 3.0,
+      "mean_similarity_to_fewshot_backbone": 0.979725
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\lobster_s_000563.png",
+      "mean_similarity": 0.9797259,
+      "rank": 11,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979726
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\stone_crab_s_000140.png",
+      "mean_similarity": 0.9797257,
+      "rank": 12,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979726
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\mushroom_s_000569.png",
+      "mean_similarity": 0.9797256000000001,
+      "rank": 13,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979726
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\mushroom_s_000778.png",
+      "mean_similarity": 0.9797256000000001,
+      "rank": 14,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979726
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\mushroom_s_001396.png",
+      "mean_similarity": 0.9797256000000001,
+      "rank": 15,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979725
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\019.caterpillar\\caterpillar_s_002244.png",
+      "mean_similarity": 0.9797256000000001,
+      "rank": 16,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979726
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\mushroom_s_000572.png",
+      "mean_similarity": 0.9797255,
+      "rank": 17,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979725
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\mushroom_s_000332.png",
+      "mean_similarity": 0.9797255,
+      "rank": 18,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979725
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\crab_s_002248.png",
+      "mean_similarity": 0.9797255,
+      "rank": 19,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979725
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\crab_s_001377.png",
+      "mean_similarity": 0.9797254000000001,
+      "rank": 20,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979725
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\crab_s_002701.png",
+      "mean_similarity": 0.9797254000000001,
+      "rank": 21,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979725
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\stone_crab_s_000224.png",
+      "mean_similarity": 0.9797254000000001,
+      "rank": 22,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979725
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\mushroom_s_001499.png",
+      "mean_similarity": 0.9797254000000001,
+      "rank": 23,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979725
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\crab_s_002209.png",
+      "mean_similarity": 0.9797254000000001,
+      "rank": 24,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979725
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\mushroom_s_002143.png",
+      "mean_similarity": 0.9797253,
+      "rank": 25,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979725
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\mushroom_s_002389.png",
+      "mean_similarity": 0.9797253,
+      "rank": 26,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979725
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\dungeness_crab_s_000128.png",
+      "mean_similarity": 0.9797253,
+      "rank": 27,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979725
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\crab_s_002441.png",
+      "mean_similarity": 0.9797253,
+      "rank": 28,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979725
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\american_lobster_s_000976.png",
+      "mean_similarity": 0.9797253,
+      "rank": 29,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979725
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\lobster_s_002145.png",
+      "mean_similarity": 0.9797253,
+      "rank": 30,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979725
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\lobster_s_000993.png",
+      "mean_similarity": 0.9797253,
+      "rank": 31,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979725
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\lobster_s_000910.png",
+      "mean_similarity": 0.9797253,
+      "rank": 32,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979725
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\051.mouse\\harvest_mouse_s_001066.png",
+      "mean_similarity": 0.9797253,
+      "rank": 33,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979725
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\027.crab\\crab_s_001401.png",
+      "mean_similarity": 0.9797252000000001,
+      "rank": 34,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979725
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\052.mushroom\\mushroom_s_001733.png",
+      "mean_similarity": 0.9797252000000001,
+      "rank": 35,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979725
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\american_lobster_s_000109.png",
+      "mean_similarity": 0.9797252000000001,
+      "rank": 36,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979725
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\mcintosh_s_000964.png",
+      "mean_similarity": 0.9797252000000001,
+      "rank": 37,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979725
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\001.apple\\macoun_s_000965.png",
+      "mean_similarity": 0.9797252000000001,
+      "rank": 38,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979725
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\046.lobster\\lobster_s_001622.png",
+      "mean_similarity": 0.9797252000000001,
+      "rank": 39,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979725
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\007.bee\\honeybee_s_000152.png",
+      "mean_similarity": 0.9797252000000001,
+      "rank": 40,
+      "source": "synthesized",
+      "weight": 1.0,
+      "mean_similarity_to_fewshot_backbone": 0.979725
+    }
+  ],
+  "debug": {
+    "total_candidates": 200,
+    "after_voting": 200,
+    "after_dedup": 30,
+    "dedup_mode": "backbone",
+    "top_segments": [
+      {
+        "class": "mushroom",
+        "seg": 1,
+        "hybrid": 1.8596,
+        "magnitude": 9.7973,
+        "borda": 479.0
+      },
+      {
+        "class": "mushroom",
+        "seg": 4,
+        "hybrid": 1.7095,
+        "magnitude": 9.7973,
+        "borda": 468.0
+      },
+      {
+        "class": "crab",
+        "seg": 0,
+        "hybrid": 1.5593,
+        "magnitude": 9.7973,
+        "borda": 457.0
+      },
+      {
+        "class": "crab",
+        "seg": 1,
+        "hybrid": 1.5405,
+        "magnitude": 9.7973,
+        "borda": 451.0
+      },
+      {
+        "class": "mushroom",
+        "seg": 0,
+        "hybrid": 1.4028,
+        "magnitude": 9.7973,
+        "borda": 444.0
+      },
+      {
+        "class": "mushroom",
+        "seg": 3,
+        "hybrid": 1.3652,
+        "magnitude": 9.7973,
+        "borda": 432.0
+      },
+      {
+        "class": "lobster",
+        "seg": 4,
+        "hybrid": 1.362,
+        "magnitude": 9.7973,
+        "borda": 431.0
+      },
+      {
+        "class": "lobster",
+        "seg": 1,
+        "hybrid": 1.3526,
+        "magnitude": 9.7973,
+        "borda": 428.0
+      },
+      {
+        "class": "mushroom",
+        "seg": 2,
+        "hybrid": 1.1867,
+        "magnitude": 9.7973,
+        "borda": 412.0
+      },
+      {
+        "class": "lobster",
+        "seg": 3,
+        "hybrid": 1.1773,
+        "magnitude": 9.7973,
+        "borda": 409.0
+      }
+    ]
+  }
+}

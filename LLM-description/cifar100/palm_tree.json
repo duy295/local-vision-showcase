@@ -1,0 +1,23 @@
+{
+  "class_name": "palm tree",
+  "global_description": "Tall, slender tree with a cylindrical trunk and a crown of large, fan-shaped green leaves. The trunk is rough and textured, often brown or gray, and the leaves are long and arching, creating a canopy at the top.",
+  "discriminative_attributes": [
+    "Tall, slender trunk",
+    "Fan-shaped green leaves",
+    "Rough, textured trunk",
+    "Arching leaf canopy",
+    "Cylindrical trunk"
+  ],
+  "part_details": {
+    "trunk": "Tall, cylindrical, rough texture, brown or gray",
+    "leaves": "Large, fan-shaped, green, arching",
+    "crown": "Dense canopy of leaves at top"
+  },
+  "spatial_relations": [
+    "Leaves form a canopy at the top of the trunk",
+    "Trunk extends vertically from the ground",
+    "Leaves arch outward from the crown"
+  ],
+  "original_dataset_key": "cifar100",
+  "original_class_key": "palm_tree"
+}

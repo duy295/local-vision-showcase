@@ -1,0 +1,22 @@
+{
+  "class_name": "plate",
+  "global_description": "A flat, round dish typically made of ceramic, glass, or plastic. It has a smooth surface and a slightly raised rim. Plates are often white or decorated with patterns and are used for serving food.",
+  "discriminative_attributes": [
+    "Flat, round shape",
+    "Slightly raised rim",
+    "Smooth surface",
+    "Ceramic, glass, or plastic material",
+    "White or patterned"
+  ],
+  "part_details": {
+    "surface": "Smooth, flat area for holding food",
+    "rim": "Slightly raised edge around the perimeter",
+    "base": "Flat underside for stability"
+  },
+  "spatial_relations": [
+    "Rim encircles the surface",
+    "Base supports the plate"
+  ],
+  "original_dataset_key": "cifar100",
+  "original_class_key": "plate"
+}

@@ -1,0 +1,159 @@
+{
+  "class_name": "074.Florida_Jay",
+  "class_idx": 73,
+  "num_images_in_class": 30,
+  "ec_size_requested": 30,
+  "ec_size_actual": 30,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\074.Florida_Jay\\Florida_Jay_0075_65093.jpg",
+      "mean_similarity": 0.9444414377212524,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\074.Florida_Jay\\Florida_Jay_0085_65129.jpg",
+      "mean_similarity": 0.9443917274475098,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\074.Florida_Jay\\Florida_Jay_0104_64885.jpg",
+      "mean_similarity": 0.9436860084533691,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\074.Florida_Jay\\Florida_Jay_0109_64558.jpg",
+      "mean_similarity": 0.9436483383178711,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\074.Florida_Jay\\Florida_Jay_0003_65036.jpg",
+      "mean_similarity": 0.9431464076042175,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\074.Florida_Jay\\Florida_Jay_0063_64781.jpg",
+      "mean_similarity": 0.942898690700531,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\074.Florida_Jay\\Florida_Jay_0066_65018.jpg",
+      "mean_similarity": 0.9424023032188416,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\074.Florida_Jay\\Florida_Jay_0021_64698.jpg",
+      "mean_similarity": 0.9422516822814941,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\074.Florida_Jay\\Florida_Jay_0111_64651.jpg",
+      "mean_similarity": 0.942168653011322,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\074.Florida_Jay\\Florida_Jay_0053_64966.jpg",
+      "mean_similarity": 0.9417769312858582,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\074.Florida_Jay\\Florida_Jay_0081_64859.jpg",
+      "mean_similarity": 0.941723108291626,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\074.Florida_Jay\\Florida_Jay_0039_64576.jpg",
+      "mean_similarity": 0.94153892993927,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\074.Florida_Jay\\Florida_Jay_0108_64694.jpg",
+      "mean_similarity": 0.9413120150566101,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\074.Florida_Jay\\Florida_Jay_0035_64463.jpg",
+      "mean_similarity": 0.9403244256973267,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\074.Florida_Jay\\Florida_Jay_0093_64675.jpg",
+      "mean_similarity": 0.9401279091835022,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\074.Florida_Jay\\Florida_Jay_0002_64476.jpg",
+      "mean_similarity": 0.9395627975463867,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\074.Florida_Jay\\Florida_Jay_0050_65099.jpg",
+      "mean_similarity": 0.9364778995513916,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\074.Florida_Jay\\Florida_Jay_0018_64994.jpg",
+      "mean_similarity": 0.9361904859542847,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\074.Florida_Jay\\Florida_Jay_0008_64482.jpg",
+      "mean_similarity": 0.93440181016922,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\074.Florida_Jay\\Florida_Jay_0025_64673.jpg",
+      "mean_similarity": 0.9340648651123047,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\074.Florida_Jay\\Florida_Jay_0036_65107.jpg",
+      "mean_similarity": 0.9335015416145325,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\074.Florida_Jay\\Florida_Jay_0037_64515.jpg",
+      "mean_similarity": 0.9301382899284363,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\074.Florida_Jay\\Florida_Jay_0095_64707.jpg",
+      "mean_similarity": 0.9295049905776978,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\074.Florida_Jay\\Florida_Jay_0029_65114.jpg",
+      "mean_similarity": 0.9291208386421204,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\074.Florida_Jay\\Florida_Jay_0054_65046.jpg",
+      "mean_similarity": 0.928297758102417,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\074.Florida_Jay\\Florida_Jay_0047_65088.jpg",
+      "mean_similarity": 0.9275327324867249,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\074.Florida_Jay\\Florida_Jay_0071_64993.jpg",
+      "mean_similarity": 0.9236384630203247,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\074.Florida_Jay\\Florida_Jay_0079_64713.jpg",
+      "mean_similarity": 0.9220828413963318,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\074.Florida_Jay\\Florida_Jay_0092_64924.jpg",
+      "mean_similarity": 0.9002414345741272,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CUB_200_2011\\building model\\train\\074.Florida_Jay\\Florida_Jay_0088_65147.jpg",
+      "mean_similarity": 0.8983627557754517,
+      "rank": 30
+    }
+  ]
+}

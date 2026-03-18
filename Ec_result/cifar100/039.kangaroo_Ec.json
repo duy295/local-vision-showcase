@@ -1,0 +1,1259 @@
+{
+  "class_name": "kangaroo",
+  "class_idx": 38,
+  "num_images_in_class": 500,
+  "ec_size_requested": 250,
+  "ec_size_actual": 250,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\kangaroo_s_000577.png",
+      "mean_similarity": 0.9422977566719055,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\macropus_giganteus_s_000282.png",
+      "mean_similarity": 0.9422106146812439,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\kangaroo_s_000042.png",
+      "mean_similarity": 0.9419780373573303,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\wallaby_s_000387.png",
+      "mean_similarity": 0.9418591856956482,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\kangaroo_s_001310.png",
+      "mean_similarity": 0.9413732290267944,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\kangaroo_s_002246.png",
+      "mean_similarity": 0.9412968158721924,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\kangaroo_s_002044.png",
+      "mean_similarity": 0.9412535429000854,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\giant_kangaroo_s_000480.png",
+      "mean_similarity": 0.9412159323692322,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\kangaroo_s_000978.png",
+      "mean_similarity": 0.9411247968673706,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\kangaroo_s_001623.png",
+      "mean_similarity": 0.9409650564193726,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\kangaroo_s_000453.png",
+      "mean_similarity": 0.9408778548240662,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\kangaroo_s_002235.png",
+      "mean_similarity": 0.94083172082901,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\wallaby_s_000083.png",
+      "mean_similarity": 0.9408146142959595,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\kangaroo_s_001804.png",
+      "mean_similarity": 0.9407311081886292,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\kangaroo_s_000182.png",
+      "mean_similarity": 0.9406141042709351,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\macropus_giganteus_s_000596.png",
+      "mean_similarity": 0.9406075477600098,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\macropus_giganteus_s_000206.png",
+      "mean_similarity": 0.9405707120895386,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\kangaroo_s_000959.png",
+      "mean_similarity": 0.9405682682991028,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\kangaroo_s_001795.png",
+      "mean_similarity": 0.9405483603477478,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\kangaroo_s_000199.png",
+      "mean_similarity": 0.9405062794685364,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\wallaby_s_000087.png",
+      "mean_similarity": 0.9404909014701843,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\kangaroo_s_001276.png",
+      "mean_similarity": 0.9404686689376831,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\kangaroo_s_001785.png",
+      "mean_similarity": 0.9404595494270325,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\kangaroo_s_000358.png",
+      "mean_similarity": 0.9404568672180176,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\kangaroo_s_002934.png",
+      "mean_similarity": 0.940449059009552,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\macropus_giganteus_s_000224.png",
+      "mean_similarity": 0.940398633480072,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\macropus_giganteus_s_000090.png",
+      "mean_similarity": 0.9403640627861023,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\kangaroo_s_001597.png",
+      "mean_similarity": 0.9403637647628784,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\wallaby_s_000124.png",
+      "mean_similarity": 0.9403393864631653,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\kangaroo_s_001957.png",
+      "mean_similarity": 0.9403291344642639,
+      "rank": 30
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\macropus_giganteus_s_000642.png",
+      "mean_similarity": 0.9401957988739014,
+      "rank": 31
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\wallaby_s_000643.png",
+      "mean_similarity": 0.9401833415031433,
+      "rank": 32
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\kangaroo_s_000113.png",
+      "mean_similarity": 0.9401487708091736,
+      "rank": 33
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\kangaroo_s_002911.png",
+      "mean_similarity": 0.940142810344696,
+      "rank": 34
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\wallaby_s_000688.png",
+      "mean_similarity": 0.9400880932807922,
+      "rank": 35
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\kangaroo_s_000705.png",
+      "mean_similarity": 0.9400537014007568,
+      "rank": 36
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\wallaby_s_000086.png",
+      "mean_similarity": 0.940004289150238,
+      "rank": 37
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\macropus_giganteus_s_000022.png",
+      "mean_similarity": 0.9399899840354919,
+      "rank": 38
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\kangaroo_s_000174.png",
+      "mean_similarity": 0.9399778842926025,
+      "rank": 39
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\wallaby_s_000085.png",
+      "mean_similarity": 0.9399332404136658,
+      "rank": 40
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\kangaroo_s_002495.png",
+      "mean_similarity": 0.9398983120918274,
+      "rank": 41
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\kangaroo_s_000106.png",
+      "mean_similarity": 0.9398948550224304,
+      "rank": 42
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\macropus_giganteus_s_000407.png",
+      "mean_similarity": 0.9398772716522217,
+      "rank": 43
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\macropus_giganteus_s_000322.png",
+      "mean_similarity": 0.939833402633667,
+      "rank": 44
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\macropus_giganteus_s_000004.png",
+      "mean_similarity": 0.9398224949836731,
+      "rank": 45
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\kangaroo_s_000546.png",
+      "mean_similarity": 0.9397162795066833,
+      "rank": 46
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\kangaroo_s_001930.png",
+      "mean_similarity": 0.9397000670433044,
+      "rank": 47
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\wallaby_s_000084.png",
+      "mean_similarity": 0.9396934509277344,
+      "rank": 48
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\kangaroo_s_002227.png",
+      "mean_similarity": 0.9396742582321167,
+      "rank": 49
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\wallaby_s_000147.png",
+      "mean_similarity": 0.9396381378173828,
+      "rank": 50
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\great_grey_kangaroo_s_000007.png",
+      "mean_similarity": 0.9396152496337891,
+      "rank": 51
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\kangaroo_s_000919.png",
+      "mean_similarity": 0.9395769238471985,
+      "rank": 52
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\macropus_giganteus_s_000082.png",
+      "mean_similarity": 0.9395387768745422,
+      "rank": 53
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\kangaroo_s_000624.png",
+      "mean_similarity": 0.9394975304603577,
+      "rank": 54
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\kangaroo_s_001415.png",
+      "mean_similarity": 0.9394282102584839,
+      "rank": 55
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\macropus_giganteus_s_000555.png",
+      "mean_similarity": 0.9393883347511292,
+      "rank": 56
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\kangaroo_s_001800.png",
+      "mean_similarity": 0.939364492893219,
+      "rank": 57
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\kangaroo_s_002347.png",
+      "mean_similarity": 0.9393014907836914,
+      "rank": 58
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\kangaroo_s_002064.png",
+      "mean_similarity": 0.9391959309577942,
+      "rank": 59
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\macropus_giganteus_s_000021.png",
+      "mean_similarity": 0.9391947984695435,
+      "rank": 60
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\great_grey_kangaroo_s_000009.png",
+      "mean_similarity": 0.9390788674354553,
+      "rank": 61
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\kangaroo_s_002769.png",
+      "mean_similarity": 0.9390518069267273,
+      "rank": 62
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\macropus_giganteus_s_000438.png",
+      "mean_similarity": 0.9390345811843872,
+      "rank": 63
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\wallaby_s_000025.png",
+      "mean_similarity": 0.9389921426773071,
+      "rank": 64
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\kangaroo_s_001199.png",
+      "mean_similarity": 0.9389752745628357,
+      "rank": 65
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\wallaby_s_000633.png",
+      "mean_similarity": 0.9389416575431824,
+      "rank": 66
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\macropus_giganteus_s_000041.png",
+      "mean_similarity": 0.9389337301254272,
+      "rank": 67
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\kangaroo_s_001029.png",
+      "mean_similarity": 0.9388412237167358,
+      "rank": 68
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\kangaroo_s_001344.png",
+      "mean_similarity": 0.9388089179992676,
+      "rank": 69
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\kangaroo_s_001583.png",
+      "mean_similarity": 0.9387052059173584,
+      "rank": 70
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\macropus_giganteus_s_000393.png",
+      "mean_similarity": 0.9387022256851196,
+      "rank": 71
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\macropus_giganteus_s_000258.png",
+      "mean_similarity": 0.9386435151100159,
+      "rank": 72
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\kangaroo_s_000007.png",
+      "mean_similarity": 0.9386217594146729,
+      "rank": 73
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\kangaroo_s_000833.png",
+      "mean_similarity": 0.9385467767715454,
+      "rank": 74
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\macropus_giganteus_s_000009.png",
+      "mean_similarity": 0.9384645819664001,
+      "rank": 75
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\kangaroo_s_001150.png",
+      "mean_similarity": 0.9383280873298645,
+      "rank": 76
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\wallaby_s_000285.png",
+      "mean_similarity": 0.9383175373077393,
+      "rank": 77
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\kangaroo_s_001875.png",
+      "mean_similarity": 0.9382205605506897,
+      "rank": 78
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\giant_kangaroo_s_000719.png",
+      "mean_similarity": 0.938177764415741,
+      "rank": 79
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\kangaroo_s_002457.png",
+      "mean_similarity": 0.9381676316261292,
+      "rank": 80
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\kangaroo_s_002291.png",
+      "mean_similarity": 0.9381314516067505,
+      "rank": 81
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\wallaby_s_000266.png",
+      "mean_similarity": 0.9381231069564819,
+      "rank": 82
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\macropus_giganteus_s_000386.png",
+      "mean_similarity": 0.9380789399147034,
+      "rank": 83
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\kangaroo_s_001380.png",
+      "mean_similarity": 0.9380478858947754,
+      "rank": 84
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\kangaroo_s_002153.png",
+      "mean_similarity": 0.9380210638046265,
+      "rank": 85
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\kangaroo_s_000920.png",
+      "mean_similarity": 0.938014566898346,
+      "rank": 86
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\kangaroo_s_000156.png",
+      "mean_similarity": 0.9379989504814148,
+      "rank": 87
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\wallaby_s_000230.png",
+      "mean_similarity": 0.9379903674125671,
+      "rank": 88
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\macropus_giganteus_s_000029.png",
+      "mean_similarity": 0.937979519367218,
+      "rank": 89
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\kangaroo_s_002136.png",
+      "mean_similarity": 0.9378887414932251,
+      "rank": 90
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\giant_kangaroo_s_000670.png",
+      "mean_similarity": 0.9378700256347656,
+      "rank": 91
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\kangaroo_s_002591.png",
+      "mean_similarity": 0.9378007054328918,
+      "rank": 92
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\kangaroo_s_001230.png",
+      "mean_similarity": 0.937766432762146,
+      "rank": 93
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\wallaby_s_000090.png",
+      "mean_similarity": 0.9376106858253479,
+      "rank": 94
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\great_grey_kangaroo_s_000035.png",
+      "mean_similarity": 0.9376065731048584,
+      "rank": 95
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\kangaroo_s_000316.png",
+      "mean_similarity": 0.9376028776168823,
+      "rank": 96
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\kangaroo_s_000181.png",
+      "mean_similarity": 0.9375982284545898,
+      "rank": 97
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\kangaroo_s_000629.png",
+      "mean_similarity": 0.9375813603401184,
+      "rank": 98
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\kangaroo_s_001421.png",
+      "mean_similarity": 0.9375758767127991,
+      "rank": 99
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\giant_kangaroo_s_000011.png",
+      "mean_similarity": 0.9375648498535156,
+      "rank": 100
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\kangaroo_s_001792.png",
+      "mean_similarity": 0.9375181794166565,
+      "rank": 101
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\wallaby_s_000282.png",
+      "mean_similarity": 0.9375163912773132,
+      "rank": 102
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\kangaroo_s_001270.png",
+      "mean_similarity": 0.9374442100524902,
+      "rank": 103
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\kangaroo_s_000197.png",
+      "mean_similarity": 0.937425434589386,
+      "rank": 104
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\kangaroo_s_000589.png",
+      "mean_similarity": 0.937414288520813,
+      "rank": 105
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\macropus_giganteus_s_000408.png",
+      "mean_similarity": 0.9373869299888611,
+      "rank": 106
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\wallaby_s_000742.png",
+      "mean_similarity": 0.9373583793640137,
+      "rank": 107
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\macropus_giganteus_s_000142.png",
+      "mean_similarity": 0.9373044371604919,
+      "rank": 108
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\macropus_giganteus_s_000099.png",
+      "mean_similarity": 0.937300980091095,
+      "rank": 109
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\wallaby_s_000781.png",
+      "mean_similarity": 0.9372822046279907,
+      "rank": 110
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\wallaby_s_000315.png",
+      "mean_similarity": 0.9372409582138062,
+      "rank": 111
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\macropus_giganteus_s_000031.png",
+      "mean_similarity": 0.9372276663780212,
+      "rank": 112
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\kangaroo_s_000153.png",
+      "mean_similarity": 0.9371955990791321,
+      "rank": 113
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\wallaby_s_000165.png",
+      "mean_similarity": 0.9371892213821411,
+      "rank": 114
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\kangaroo_s_002925.png",
+      "mean_similarity": 0.9371883273124695,
+      "rank": 115
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\macropus_giganteus_s_000430.png",
+      "mean_similarity": 0.937186598777771,
+      "rank": 116
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\macropus_giganteus_s_000094.png",
+      "mean_similarity": 0.9371629953384399,
+      "rank": 117
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\kangaroo_s_000107.png",
+      "mean_similarity": 0.9371438026428223,
+      "rank": 118
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\kangaroo_s_001438.png",
+      "mean_similarity": 0.9371436834335327,
+      "rank": 119
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\kangaroo_s_001650.png",
+      "mean_similarity": 0.9371175765991211,
+      "rank": 120
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\kangaroo_s_000013.png",
+      "mean_similarity": 0.9371065497398376,
+      "rank": 121
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\kangaroo_s_002537.png",
+      "mean_similarity": 0.93703693151474,
+      "rank": 122
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\kangaroo_s_001607.png",
+      "mean_similarity": 0.9370107650756836,
+      "rank": 123
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\kangaroo_s_002430.png",
+      "mean_similarity": 0.9370043873786926,
+      "rank": 124
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\macropus_giganteus_s_000321.png",
+      "mean_similarity": 0.9369643926620483,
+      "rank": 125
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\kangaroo_s_000591.png",
+      "mean_similarity": 0.9369542002677917,
+      "rank": 126
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\kangaroo_s_002528.png",
+      "mean_similarity": 0.9369367957115173,
+      "rank": 127
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\macropus_giganteus_s_000410.png",
+      "mean_similarity": 0.9369309544563293,
+      "rank": 128
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\kangaroo_s_001077.png",
+      "mean_similarity": 0.9369019865989685,
+      "rank": 129
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\kangaroo_s_001853.png",
+      "mean_similarity": 0.9368573427200317,
+      "rank": 130
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\kangaroo_s_000046.png",
+      "mean_similarity": 0.9368561506271362,
+      "rank": 131
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\kangaroo_s_000420.png",
+      "mean_similarity": 0.9368433356285095,
+      "rank": 132
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\macropus_giganteus_s_000119.png",
+      "mean_similarity": 0.9368276596069336,
+      "rank": 133
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\macropus_giganteus_s_000451.png",
+      "mean_similarity": 0.9367899894714355,
+      "rank": 134
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\wallaby_s_000219.png",
+      "mean_similarity": 0.936758279800415,
+      "rank": 135
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\great_grey_kangaroo_s_000112.png",
+      "mean_similarity": 0.9367368817329407,
+      "rank": 136
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\kangaroo_s_002795.png",
+      "mean_similarity": 0.9366904497146606,
+      "rank": 137
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\wallaby_s_000466.png",
+      "mean_similarity": 0.9366730451583862,
+      "rank": 138
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\kangaroo_s_000051.png",
+      "mean_similarity": 0.936665952205658,
+      "rank": 139
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\kangaroo_s_001606.png",
+      "mean_similarity": 0.936646044254303,
+      "rank": 140
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\kangaroo_s_000004.png",
+      "mean_similarity": 0.9366353750228882,
+      "rank": 141
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\wallaby_s_000262.png",
+      "mean_similarity": 0.936616837978363,
+      "rank": 142
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\kangaroo_s_000161.png",
+      "mean_similarity": 0.9365149140357971,
+      "rank": 143
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\macropus_giganteus_s_000381.png",
+      "mean_similarity": 0.9365127086639404,
+      "rank": 144
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\kangaroo_s_001446.png",
+      "mean_similarity": 0.9365082383155823,
+      "rank": 145
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\macropus_giganteus_s_000530.png",
+      "mean_similarity": 0.9364776015281677,
+      "rank": 146
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\macropus_giganteus_s_000017.png",
+      "mean_similarity": 0.9364444613456726,
+      "rank": 147
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\kangaroo_s_000311.png",
+      "mean_similarity": 0.9363279342651367,
+      "rank": 148
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\macropus_giganteus_s_000615.png",
+      "mean_similarity": 0.9361782670021057,
+      "rank": 149
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\macropus_giganteus_s_000037.png",
+      "mean_similarity": 0.9361761212348938,
+      "rank": 150
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\giant_kangaroo_s_000860.png",
+      "mean_similarity": 0.9361556768417358,
+      "rank": 151
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\wallaby_s_000123.png",
+      "mean_similarity": 0.9361221194267273,
+      "rank": 152
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\kangaroo_s_001387.png",
+      "mean_similarity": 0.9361035823822021,
+      "rank": 153
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\wallaby_s_000271.png",
+      "mean_similarity": 0.9360619783401489,
+      "rank": 154
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\macropus_giganteus_s_000048.png",
+      "mean_similarity": 0.9360532760620117,
+      "rank": 155
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\kangaroo_s_000501.png",
+      "mean_similarity": 0.9360439777374268,
+      "rank": 156
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\kangaroo_s_002285.png",
+      "mean_similarity": 0.9360325932502747,
+      "rank": 157
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\giant_kangaroo_s_000776.png",
+      "mean_similarity": 0.9360179901123047,
+      "rank": 158
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\kangaroo_s_000025.png",
+      "mean_similarity": 0.9360015392303467,
+      "rank": 159
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\macropus_giganteus_s_000109.png",
+      "mean_similarity": 0.9359996914863586,
+      "rank": 160
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\macropus_giganteus_s_000478.png",
+      "mean_similarity": 0.935896098613739,
+      "rank": 161
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\macropus_giganteus_s_000470.png",
+      "mean_similarity": 0.9358680844306946,
+      "rank": 162
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\kangaroo_s_002821.png",
+      "mean_similarity": 0.935865044593811,
+      "rank": 163
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\kangaroo_s_001030.png",
+      "mean_similarity": 0.9358310103416443,
+      "rank": 164
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\kangaroo_s_000410.png",
+      "mean_similarity": 0.9356731176376343,
+      "rank": 165
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\giant_kangaroo_s_000306.png",
+      "mean_similarity": 0.9356406927108765,
+      "rank": 166
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\kangaroo_s_002168.png",
+      "mean_similarity": 0.9356359243392944,
+      "rank": 167
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\macropus_giganteus_s_000335.png",
+      "mean_similarity": 0.9356198906898499,
+      "rank": 168
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\kangaroo_s_002914.png",
+      "mean_similarity": 0.935597836971283,
+      "rank": 169
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\macropus_giganteus_s_000239.png",
+      "mean_similarity": 0.9354816675186157,
+      "rank": 170
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\kangaroo_s_002480.png",
+      "mean_similarity": 0.9353827238082886,
+      "rank": 171
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\great_grey_kangaroo_s_000015.png",
+      "mean_similarity": 0.9353636503219604,
+      "rank": 172
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\wallaby_s_000003.png",
+      "mean_similarity": 0.935334324836731,
+      "rank": 173
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\kangaroo_s_002184.png",
+      "mean_similarity": 0.9352946281433105,
+      "rank": 174
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\macropus_giganteus_s_000147.png",
+      "mean_similarity": 0.9352704882621765,
+      "rank": 175
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\macropus_giganteus_s_000401.png",
+      "mean_similarity": 0.935213029384613,
+      "rank": 176
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\wallaby_s_000600.png",
+      "mean_similarity": 0.9351940751075745,
+      "rank": 177
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\giant_kangaroo_s_000657.png",
+      "mean_similarity": 0.9351860284805298,
+      "rank": 178
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\kangaroo_s_000184.png",
+      "mean_similarity": 0.9351659417152405,
+      "rank": 179
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\kangaroo_s_002679.png",
+      "mean_similarity": 0.9351609349250793,
+      "rank": 180
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\wallaby_s_000697.png",
+      "mean_similarity": 0.9349315166473389,
+      "rank": 181
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\kangaroo_s_001832.png",
+      "mean_similarity": 0.9349250793457031,
+      "rank": 182
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\macropus_giganteus_s_000514.png",
+      "mean_similarity": 0.9349103569984436,
+      "rank": 183
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\kangaroo_s_000339.png",
+      "mean_similarity": 0.9348573684692383,
+      "rank": 184
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\kangaroo_s_001148.png",
+      "mean_similarity": 0.9348331093788147,
+      "rank": 185
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\macropus_giganteus_s_000077.png",
+      "mean_similarity": 0.934800386428833,
+      "rank": 186
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\wallaby_s_000011.png",
+      "mean_similarity": 0.9347900152206421,
+      "rank": 187
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\macropus_giganteus_s_000030.png",
+      "mean_similarity": 0.9347500801086426,
+      "rank": 188
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\kangaroo_s_001756.png",
+      "mean_similarity": 0.9347369074821472,
+      "rank": 189
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\wallaby_s_000307.png",
+      "mean_similarity": 0.9347029328346252,
+      "rank": 190
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\kangaroo_s_000021.png",
+      "mean_similarity": 0.9347020983695984,
+      "rank": 191
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\macropus_giganteus_s_000372.png",
+      "mean_similarity": 0.9346663355827332,
+      "rank": 192
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\wallaby_s_000174.png",
+      "mean_similarity": 0.9346417784690857,
+      "rank": 193
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\kangaroo_s_002807.png",
+      "mean_similarity": 0.9346213340759277,
+      "rank": 194
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\great_grey_kangaroo_s_000024.png",
+      "mean_similarity": 0.9345927238464355,
+      "rank": 195
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\kangaroo_s_000794.png",
+      "mean_similarity": 0.9345101118087769,
+      "rank": 196
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\wallaby_s_000332.png",
+      "mean_similarity": 0.9345089793205261,
+      "rank": 197
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\macropus_giganteus_s_000100.png",
+      "mean_similarity": 0.9344137907028198,
+      "rank": 198
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\macropus_giganteus_s_000061.png",
+      "mean_similarity": 0.9343293905258179,
+      "rank": 199
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\kangaroo_s_002267.png",
+      "mean_similarity": 0.9342871904373169,
+      "rank": 200
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\great_grey_kangaroo_s_000041.png",
+      "mean_similarity": 0.9342758059501648,
+      "rank": 201
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\kangaroo_s_000276.png",
+      "mean_similarity": 0.9342435002326965,
+      "rank": 202
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\macropus_giganteus_s_000305.png",
+      "mean_similarity": 0.9341078400611877,
+      "rank": 203
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\macropus_giganteus_s_000011.png",
+      "mean_similarity": 0.9340093731880188,
+      "rank": 204
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\macropus_giganteus_s_000095.png",
+      "mean_similarity": 0.9339458346366882,
+      "rank": 205
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\wallaby_s_000014.png",
+      "mean_similarity": 0.9339380860328674,
+      "rank": 206
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\kangaroo_s_002094.png",
+      "mean_similarity": 0.9337831139564514,
+      "rank": 207
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\wallaby_s_000632.png",
+      "mean_similarity": 0.9337615966796875,
+      "rank": 208
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\kangaroo_s_000326.png",
+      "mean_similarity": 0.9337504506111145,
+      "rank": 209
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\kangaroo_s_001915.png",
+      "mean_similarity": 0.9337312579154968,
+      "rank": 210
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\macropus_giganteus_s_000445.png",
+      "mean_similarity": 0.9336693286895752,
+      "rank": 211
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\kangaroo_s_001910.png",
+      "mean_similarity": 0.9336579442024231,
+      "rank": 212
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\kangaroo_s_002379.png",
+      "mean_similarity": 0.9336465001106262,
+      "rank": 213
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\macropus_giganteus_s_000065.png",
+      "mean_similarity": 0.9335986971855164,
+      "rank": 214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\kangaroo_s_001909.png",
+      "mean_similarity": 0.9335832595825195,
+      "rank": 215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\macropus_giganteus_s_000593.png",
+      "mean_similarity": 0.9335680603981018,
+      "rank": 216
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\kangaroo_s_001225.png",
+      "mean_similarity": 0.9335635304450989,
+      "rank": 217
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\kangaroo_s_001604.png",
+      "mean_similarity": 0.9335440397262573,
+      "rank": 218
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\kangaroo_s_002819.png",
+      "mean_similarity": 0.933538556098938,
+      "rank": 219
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\kangaroo_s_000594.png",
+      "mean_similarity": 0.9335009455680847,
+      "rank": 220
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\kangaroo_s_002642.png",
+      "mean_similarity": 0.933495044708252,
+      "rank": 221
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\wallaby_s_000353.png",
+      "mean_similarity": 0.933456301689148,
+      "rank": 222
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\kangaroo_s_001223.png",
+      "mean_similarity": 0.9334363341331482,
+      "rank": 223
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\kangaroo_s_000003.png",
+      "mean_similarity": 0.9333991408348083,
+      "rank": 224
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\macropus_giganteus_s_000310.png",
+      "mean_similarity": 0.9333965182304382,
+      "rank": 225
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\kangaroo_s_002007.png",
+      "mean_similarity": 0.9333904385566711,
+      "rank": 226
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\kangaroo_s_002808.png",
+      "mean_similarity": 0.9333754181861877,
+      "rank": 227
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\kangaroo_s_000365.png",
+      "mean_similarity": 0.9333269596099854,
+      "rank": 228
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\wallaby_s_000178.png",
+      "mean_similarity": 0.933276355266571,
+      "rank": 229
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\kangaroo_s_001087.png",
+      "mean_similarity": 0.9332596063613892,
+      "rank": 230
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\kangaroo_s_002907.png",
+      "mean_similarity": 0.9332263469696045,
+      "rank": 231
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\kangaroo_s_001506.png",
+      "mean_similarity": 0.9332178831100464,
+      "rank": 232
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\macropus_giganteus_s_000375.png",
+      "mean_similarity": 0.9331295490264893,
+      "rank": 233
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\kangaroo_s_002180.png",
+      "mean_similarity": 0.933072566986084,
+      "rank": 234
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\kangaroo_s_000866.png",
+      "mean_similarity": 0.9330429434776306,
+      "rank": 235
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\kangaroo_s_002009.png",
+      "mean_similarity": 0.9330118894577026,
+      "rank": 236
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\macropus_giganteus_s_000171.png",
+      "mean_similarity": 0.9329813718795776,
+      "rank": 237
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\giant_kangaroo_s_000223.png",
+      "mean_similarity": 0.9329798817634583,
+      "rank": 238
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\kangaroo_s_000303.png",
+      "mean_similarity": 0.9329450130462646,
+      "rank": 239
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\wallaby_s_000113.png",
+      "mean_similarity": 0.9328202605247498,
+      "rank": 240
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\wallaby_s_000202.png",
+      "mean_similarity": 0.932799220085144,
+      "rank": 241
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\macropus_giganteus_s_000236.png",
+      "mean_similarity": 0.9327847361564636,
+      "rank": 242
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\kangaroo_s_001601.png",
+      "mean_similarity": 0.9327580332756042,
+      "rank": 243
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\kangaroo_s_001275.png",
+      "mean_similarity": 0.9327287077903748,
+      "rank": 244
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\kangaroo_s_002188.png",
+      "mean_similarity": 0.9327215552330017,
+      "rank": 245
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\kangaroo_s_001515.png",
+      "mean_similarity": 0.9327125549316406,
+      "rank": 246
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\kangaroo_s_001115.png",
+      "mean_similarity": 0.9327073097229004,
+      "rank": 247
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\kangaroo_s_002912.png",
+      "mean_similarity": 0.9324489235877991,
+      "rank": 248
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\kangaroo_s_002879.png",
+      "mean_similarity": 0.9324343204498291,
+      "rank": 249
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\039.kangaroo\\kangaroo_s_001009.png",
+      "mean_similarity": 0.9324206709861755,
+      "rank": 250
+    }
+  ]
+}

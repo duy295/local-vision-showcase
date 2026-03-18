@@ -1,0 +1,26 @@
+{
+  "class_name": "Bird",
+  "global_description": "A small, compact bird with a distinctive red face and black-and-white head pattern. The body is predominantly brown with a striking yellow wing bar. It has a conical beak and a forked tail. The plumage is smooth and glossy.",
+  "discriminative_attributes": [
+    "Red face with black-and-white head",
+    "Yellow wing bar",
+    "Conical beak",
+    "Forked tail",
+    "Glossy brown plumage"
+  ],
+  "part_details": {
+    "head": "Red face with black and white stripes, small and rounded.",
+    "wings": "Brown with a prominent yellow bar, smooth and elongated.",
+    "beak": "Short, conical, and pale in color.",
+    "tail": "Forked, brown, and slightly elongated.",
+    "body": "Compact, smooth brown plumage with glossy texture."
+  },
+  "spatial_relations": [
+    "The red face is centrally positioned on the head.",
+    "The yellow wing bar runs across the middle of the wings.",
+    "The conical beak protrudes from the front of the head.",
+    "The forked tail extends from the rear of the body."
+  ],
+  "original_dataset_key": "CUB200",
+  "original_class_key": "european_goldfinch"
+}

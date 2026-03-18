@@ -1,0 +1,24 @@
+{
+  "class_name": "rose",
+  "global_description": "A flowering plant with a woody stem, thorny branches, and large, fragrant blooms. The flowers are typically layered with soft, velvety petals in colors like red, pink, yellow, or white. The leaves are dark green and serrated, providing a lush backdrop to the vibrant blossoms.",
+  "discriminative_attributes": [
+    "Thorny branches",
+    "Layered velvety petals",
+    "Fragrant blooms",
+    "Dark green serrated leaves",
+    "Woody stem"
+  ],
+  "part_details": {
+    "flower": "Large, layered with velvety petals, often red, pink, yellow, or white",
+    "stem": "Woody and covered with thorns",
+    "leaves": "Dark green, serrated edges, glossy texture",
+    "thorns": "Sharp, protruding from stem"
+  },
+  "spatial_relations": [
+    "Flowers at the top of stems",
+    "Leaves along the length of branches",
+    "Thorns distributed on stem"
+  ],
+  "original_dataset_key": "cifar100",
+  "original_class_key": "rose"
+}

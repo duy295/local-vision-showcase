@@ -1,0 +1,1259 @@
+{
+  "class_name": "maple_tree",
+  "class_idx": 47,
+  "num_images_in_class": 500,
+  "ec_size_requested": 250,
+  "ec_size_actual": 250,
+  "Ec": [
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\acer_saccharinum_s_000011.png",
+      "mean_similarity": 0.9461885094642639,
+      "rank": 1
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\maple_s_000368.png",
+      "mean_similarity": 0.9461884498596191,
+      "rank": 2
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\maple_s_001694.png",
+      "mean_similarity": 0.9461468458175659,
+      "rank": 3
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\acer_saccharinum_s_001101.png",
+      "mean_similarity": 0.9460498094558716,
+      "rank": 4
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\silver_maple_s_001563.png",
+      "mean_similarity": 0.9459241032600403,
+      "rank": 5
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\maple_s_001591.png",
+      "mean_similarity": 0.9458873867988586,
+      "rank": 6
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\silver_maple_s_000456.png",
+      "mean_similarity": 0.9458721280097961,
+      "rank": 7
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\maple_s_001355.png",
+      "mean_similarity": 0.9458457827568054,
+      "rank": 8
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\silver_maple_s_001215.png",
+      "mean_similarity": 0.9457979798316956,
+      "rank": 9
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\maple_s_001718.png",
+      "mean_similarity": 0.9457891583442688,
+      "rank": 10
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\maple_s_001104.png",
+      "mean_similarity": 0.945777177810669,
+      "rank": 11
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\sugar_maple_s_000139.png",
+      "mean_similarity": 0.9457157850265503,
+      "rank": 12
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\maple_s_001839.png",
+      "mean_similarity": 0.9456701874732971,
+      "rank": 13
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\acer_saccharum_s_001192.png",
+      "mean_similarity": 0.9455808997154236,
+      "rank": 14
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\sugar_maple_s_000928.png",
+      "mean_similarity": 0.9455329179763794,
+      "rank": 15
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\acer_saccharum_s_000010.png",
+      "mean_similarity": 0.9454928636550903,
+      "rank": 16
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\red_maple_s_000252.png",
+      "mean_similarity": 0.9454665184020996,
+      "rank": 17
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\maple_s_000829.png",
+      "mean_similarity": 0.9454091191291809,
+      "rank": 18
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\acer_saccharinum_s_001532.png",
+      "mean_similarity": 0.9453570246696472,
+      "rank": 19
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\sugar_maple_s_000619.png",
+      "mean_similarity": 0.9453418254852295,
+      "rank": 20
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\acer_saccharum_s_001324.png",
+      "mean_similarity": 0.9452672600746155,
+      "rank": 21
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\acer_saccharinum_s_000143.png",
+      "mean_similarity": 0.945259153842926,
+      "rank": 22
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\acer_saccharinum_s_001013.png",
+      "mean_similarity": 0.9452171325683594,
+      "rank": 23
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\acer_saccharum_s_001596.png",
+      "mean_similarity": 0.9452112317085266,
+      "rank": 24
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\sugar_maple_s_000732.png",
+      "mean_similarity": 0.9451170563697815,
+      "rank": 25
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\acer_saccharinum_s_000229.png",
+      "mean_similarity": 0.9451166391372681,
+      "rank": 26
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\silver_maple_s_001336.png",
+      "mean_similarity": 0.9451155066490173,
+      "rank": 27
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\acer_saccharum_s_000791.png",
+      "mean_similarity": 0.9450995326042175,
+      "rank": 28
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\maple_s_000046.png",
+      "mean_similarity": 0.9450989961624146,
+      "rank": 29
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\maple_s_000869.png",
+      "mean_similarity": 0.9450942873954773,
+      "rank": 30
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\acer_saccharum_s_000292.png",
+      "mean_similarity": 0.9450827836990356,
+      "rank": 31
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\silver_maple_s_001191.png",
+      "mean_similarity": 0.945077657699585,
+      "rank": 32
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\silver_maple_s_000655.png",
+      "mean_similarity": 0.9450318813323975,
+      "rank": 33
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\sugar_maple_s_002069.png",
+      "mean_similarity": 0.9450166821479797,
+      "rank": 34
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\red_maple_s_000447.png",
+      "mean_similarity": 0.944973349571228,
+      "rank": 35
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\silver_maple_s_000217.png",
+      "mean_similarity": 0.9449527859687805,
+      "rank": 36
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\sugar_maple_s_001193.png",
+      "mean_similarity": 0.9449449777603149,
+      "rank": 37
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\silver_maple_s_000104.png",
+      "mean_similarity": 0.9449434876441956,
+      "rank": 38
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\acer_saccharinum_s_000020.png",
+      "mean_similarity": 0.9449398517608643,
+      "rank": 39
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\silver_maple_s_000029.png",
+      "mean_similarity": 0.9449326992034912,
+      "rank": 40
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\acer_saccharum_s_000425.png",
+      "mean_similarity": 0.9449256658554077,
+      "rank": 41
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\silver_maple_s_000530.png",
+      "mean_similarity": 0.9449082612991333,
+      "rank": 42
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\sugar_maple_s_000694.png",
+      "mean_similarity": 0.9448827505111694,
+      "rank": 43
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\sugar_maple_s_000776.png",
+      "mean_similarity": 0.9448780417442322,
+      "rank": 44
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\acer_saccharum_s_000580.png",
+      "mean_similarity": 0.9448241591453552,
+      "rank": 45
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\acer_saccharinum_s_001518.png",
+      "mean_similarity": 0.9447832703590393,
+      "rank": 46
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\maple_s_000044.png",
+      "mean_similarity": 0.944705069065094,
+      "rank": 47
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\maple_s_001979.png",
+      "mean_similarity": 0.9446986317634583,
+      "rank": 48
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\red_maple_s_000165.png",
+      "mean_similarity": 0.9446678161621094,
+      "rank": 49
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\maple_s_000042.png",
+      "mean_similarity": 0.9446588158607483,
+      "rank": 50
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\acer_saccharum_s_000637.png",
+      "mean_similarity": 0.944657027721405,
+      "rank": 51
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\sugar_maple_s_000165.png",
+      "mean_similarity": 0.9446377754211426,
+      "rank": 52
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\acer_saccharinum_s_001564.png",
+      "mean_similarity": 0.9446048736572266,
+      "rank": 53
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\sugar_maple_s_001969.png",
+      "mean_similarity": 0.9445987939834595,
+      "rank": 54
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\acer_saccharum_s_001372.png",
+      "mean_similarity": 0.9445052742958069,
+      "rank": 55
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\acer_saccharum_s_001056.png",
+      "mean_similarity": 0.9444928765296936,
+      "rank": 56
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\silver_maple_s_000853.png",
+      "mean_similarity": 0.9444665908813477,
+      "rank": 57
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\acer_saccharum_s_001349.png",
+      "mean_similarity": 0.9444570541381836,
+      "rank": 58
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\sugar_maple_s_002058.png",
+      "mean_similarity": 0.944453239440918,
+      "rank": 59
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\silver_maple_s_001170.png",
+      "mean_similarity": 0.944442629814148,
+      "rank": 60
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\acer_saccharinum_s_000786.png",
+      "mean_similarity": 0.9444364309310913,
+      "rank": 61
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\acer_saccharum_s_000591.png",
+      "mean_similarity": 0.9444015026092529,
+      "rank": 62
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\maple_s_001321.png",
+      "mean_similarity": 0.9443583488464355,
+      "rank": 63
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\red_maple_s_000231.png",
+      "mean_similarity": 0.944354772567749,
+      "rank": 64
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\maple_s_000808.png",
+      "mean_similarity": 0.944348931312561,
+      "rank": 65
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\acer_saccharum_s_000525.png",
+      "mean_similarity": 0.9443169236183167,
+      "rank": 66
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\acer_saccharinum_s_000969.png",
+      "mean_similarity": 0.9443063139915466,
+      "rank": 67
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\acer_saccharum_s_000265.png",
+      "mean_similarity": 0.9442516565322876,
+      "rank": 68
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\sugar_maple_s_000265.png",
+      "mean_similarity": 0.9442504644393921,
+      "rank": 69
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\silver_maple_s_001898.png",
+      "mean_similarity": 0.9442136287689209,
+      "rank": 70
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\maple_s_001767.png",
+      "mean_similarity": 0.9441940784454346,
+      "rank": 71
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\acer_saccharinum_s_000014.png",
+      "mean_similarity": 0.9441842436790466,
+      "rank": 72
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\silver_maple_s_000597.png",
+      "mean_similarity": 0.944157063961029,
+      "rank": 73
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\maple_s_001412.png",
+      "mean_similarity": 0.9441560506820679,
+      "rank": 74
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\sugar_maple_s_000358.png",
+      "mean_similarity": 0.944140613079071,
+      "rank": 75
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\acer_saccharinum_s_000201.png",
+      "mean_similarity": 0.9441279172897339,
+      "rank": 76
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\silver_maple_s_000010.png",
+      "mean_similarity": 0.944109320640564,
+      "rank": 77
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\acer_saccharinum_s_000897.png",
+      "mean_similarity": 0.9441016316413879,
+      "rank": 78
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\maple_s_001780.png",
+      "mean_similarity": 0.9440800547599792,
+      "rank": 79
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\acer_saccharinum_s_000690.png",
+      "mean_similarity": 0.9440775513648987,
+      "rank": 80
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\acer_saccharum_s_000269.png",
+      "mean_similarity": 0.9440728425979614,
+      "rank": 81
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\acer_saccharum_s_000346.png",
+      "mean_similarity": 0.944068968296051,
+      "rank": 82
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\sugar_maple_s_000730.png",
+      "mean_similarity": 0.9440657496452332,
+      "rank": 83
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\sugar_maple_s_000606.png",
+      "mean_similarity": 0.944056510925293,
+      "rank": 84
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\maple_s_000697.png",
+      "mean_similarity": 0.9440489411354065,
+      "rank": 85
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\acer_saccharinum_s_000824.png",
+      "mean_similarity": 0.9440470337867737,
+      "rank": 86
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\maple_s_002251.png",
+      "mean_similarity": 0.9440229535102844,
+      "rank": 87
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\acer_saccharum_s_000488.png",
+      "mean_similarity": 0.9439627528190613,
+      "rank": 88
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\acer_saccharinum_s_000411.png",
+      "mean_similarity": 0.9438998699188232,
+      "rank": 89
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\acer_saccharinum_s_000306.png",
+      "mean_similarity": 0.9438918232917786,
+      "rank": 90
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\maple_s_000806.png",
+      "mean_similarity": 0.9438799619674683,
+      "rank": 91
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\silver_maple_s_000640.png",
+      "mean_similarity": 0.9438668489456177,
+      "rank": 92
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\silver_maple_s_000552.png",
+      "mean_similarity": 0.9438585638999939,
+      "rank": 93
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\acer_saccharinum_s_001036.png",
+      "mean_similarity": 0.943816602230072,
+      "rank": 94
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\acer_saccharinum_s_000430.png",
+      "mean_similarity": 0.9438035488128662,
+      "rank": 95
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\acer_saccharinum_s_001166.png",
+      "mean_similarity": 0.9437842965126038,
+      "rank": 96
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\silver_maple_s_001560.png",
+      "mean_similarity": 0.9437796473503113,
+      "rank": 97
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\acer_saccharum_s_000993.png",
+      "mean_similarity": 0.9437596797943115,
+      "rank": 98
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\acer_saccharum_s_001003.png",
+      "mean_similarity": 0.9437563419342041,
+      "rank": 99
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\acer_saccharinum_s_000635.png",
+      "mean_similarity": 0.9437195062637329,
+      "rank": 100
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\acer_saccharum_s_000814.png",
+      "mean_similarity": 0.9437193870544434,
+      "rank": 101
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\acer_saccharum_s_000667.png",
+      "mean_similarity": 0.9437038898468018,
+      "rank": 102
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\acer_saccharinum_s_000572.png",
+      "mean_similarity": 0.9436901807785034,
+      "rank": 103
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\silver_maple_s_001415.png",
+      "mean_similarity": 0.9436872005462646,
+      "rank": 104
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\acer_saccharum_s_001459.png",
+      "mean_similarity": 0.9436816573143005,
+      "rank": 105
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\acer_saccharinum_s_001180.png",
+      "mean_similarity": 0.9436807632446289,
+      "rank": 106
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\maple_s_000725.png",
+      "mean_similarity": 0.9436758756637573,
+      "rank": 107
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\sugar_maple_s_002136.png",
+      "mean_similarity": 0.943663477897644,
+      "rank": 108
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\acer_saccharinum_s_001603.png",
+      "mean_similarity": 0.9436455965042114,
+      "rank": 109
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\sugar_maple_s_000587.png",
+      "mean_similarity": 0.9436448812484741,
+      "rank": 110
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\acer_saccharum_s_000709.png",
+      "mean_similarity": 0.9436061978340149,
+      "rank": 111
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\silver_maple_s_000952.png",
+      "mean_similarity": 0.9435967206954956,
+      "rank": 112
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\maple_s_001298.png",
+      "mean_similarity": 0.9435650110244751,
+      "rank": 113
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\silver_maple_s_001485.png",
+      "mean_similarity": 0.9435489177703857,
+      "rank": 114
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\maple_s_000924.png",
+      "mean_similarity": 0.9435397982597351,
+      "rank": 115
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\red_maple_s_000454.png",
+      "mean_similarity": 0.9435352087020874,
+      "rank": 116
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\acer_saccharinum_s_001668.png",
+      "mean_similarity": 0.9435231685638428,
+      "rank": 117
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\silver_maple_s_001951.png",
+      "mean_similarity": 0.943522572517395,
+      "rank": 118
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\sugar_maple_s_001751.png",
+      "mean_similarity": 0.9435160756111145,
+      "rank": 119
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\silver_maple_s_000352.png",
+      "mean_similarity": 0.9435146450996399,
+      "rank": 120
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\acer_saccharum_s_000679.png",
+      "mean_similarity": 0.9435091018676758,
+      "rank": 121
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\acer_saccharinum_s_001172.png",
+      "mean_similarity": 0.943498969078064,
+      "rank": 122
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\maple_s_001833.png",
+      "mean_similarity": 0.9434972405433655,
+      "rank": 123
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\acer_saccharinum_s_000122.png",
+      "mean_similarity": 0.9434681534767151,
+      "rank": 124
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\acer_saccharinum_s_000867.png",
+      "mean_similarity": 0.9434559941291809,
+      "rank": 125
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\acer_saccharinum_s_000016.png",
+      "mean_similarity": 0.9434513449668884,
+      "rank": 126
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\acer_saccharum_s_001433.png",
+      "mean_similarity": 0.9434343576431274,
+      "rank": 127
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\silver_maple_s_000433.png",
+      "mean_similarity": 0.9434207677841187,
+      "rank": 128
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\acer_saccharinum_s_000912.png",
+      "mean_similarity": 0.9434201717376709,
+      "rank": 129
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\acer_saccharinum_s_001506.png",
+      "mean_similarity": 0.943394660949707,
+      "rank": 130
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\acer_saccharinum_s_000008.png",
+      "mean_similarity": 0.9433760046958923,
+      "rank": 131
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\rock_maple_s_000355.png",
+      "mean_similarity": 0.9433742761611938,
+      "rank": 132
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\acer_saccharinum_s_000056.png",
+      "mean_similarity": 0.9433634877204895,
+      "rank": 133
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\maple_s_001418.png",
+      "mean_similarity": 0.9433323740959167,
+      "rank": 134
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\acer_saccharum_s_001294.png",
+      "mean_similarity": 0.9432790279388428,
+      "rank": 135
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\maple_s_000927.png",
+      "mean_similarity": 0.9432662725448608,
+      "rank": 136
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\maple_s_000598.png",
+      "mean_similarity": 0.9432240724563599,
+      "rank": 137
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\acer_saccharum_s_000131.png",
+      "mean_similarity": 0.9432166218757629,
+      "rank": 138
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\acer_saccharinum_s_000299.png",
+      "mean_similarity": 0.9432105422019958,
+      "rank": 139
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\maple_s_000234.png",
+      "mean_similarity": 0.943209171295166,
+      "rank": 140
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\acer_saccharum_s_000994.png",
+      "mean_similarity": 0.9431928396224976,
+      "rank": 141
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\acer_saccharinum_s_000295.png",
+      "mean_similarity": 0.9431836009025574,
+      "rank": 142
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\acer_saccharum_s_001385.png",
+      "mean_similarity": 0.9431660175323486,
+      "rank": 143
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\silver_maple_s_001034.png",
+      "mean_similarity": 0.9431659579277039,
+      "rank": 144
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\silver_maple_s_000114.png",
+      "mean_similarity": 0.9431506991386414,
+      "rank": 145
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\acer_saccharinum_s_000533.png",
+      "mean_similarity": 0.9431226849555969,
+      "rank": 146
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\acer_saccharinum_s_000974.png",
+      "mean_similarity": 0.943115770816803,
+      "rank": 147
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\acer_saccharinum_s_000659.png",
+      "mean_similarity": 0.943103551864624,
+      "rank": 148
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\acer_saccharinum_s_000501.png",
+      "mean_similarity": 0.9430934190750122,
+      "rank": 149
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\acer_saccharinum_s_000968.png",
+      "mean_similarity": 0.9430670142173767,
+      "rank": 150
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\sugar_maple_s_000291.png",
+      "mean_similarity": 0.9430488348007202,
+      "rank": 151
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\silver_maple_s_000007.png",
+      "mean_similarity": 0.9430464506149292,
+      "rank": 152
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\silver_maple_s_000649.png",
+      "mean_similarity": 0.943038284778595,
+      "rank": 153
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\silver_maple_s_001753.png",
+      "mean_similarity": 0.9430015087127686,
+      "rank": 154
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\acer_saccharinum_s_000010.png",
+      "mean_similarity": 0.9429768919944763,
+      "rank": 155
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\silver_maple_s_001099.png",
+      "mean_similarity": 0.9429577589035034,
+      "rank": 156
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\acer_saccharinum_s_001669.png",
+      "mean_similarity": 0.9429562091827393,
+      "rank": 157
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\silver_maple_s_000073.png",
+      "mean_similarity": 0.9429527521133423,
+      "rank": 158
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\acer_saccharinum_s_001006.png",
+      "mean_similarity": 0.9429444670677185,
+      "rank": 159
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\acer_saccharum_s_000134.png",
+      "mean_similarity": 0.9429413080215454,
+      "rank": 160
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\acer_saccharinum_s_001512.png",
+      "mean_similarity": 0.9429304003715515,
+      "rank": 161
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\silver_maple_s_000057.png",
+      "mean_similarity": 0.9429001808166504,
+      "rank": 162
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\maple_s_000981.png",
+      "mean_similarity": 0.9428886771202087,
+      "rank": 163
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\sugar_maple_s_000066.png",
+      "mean_similarity": 0.9428805112838745,
+      "rank": 164
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\acer_saccharum_s_000565.png",
+      "mean_similarity": 0.9428641200065613,
+      "rank": 165
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\silver_maple_s_001435.png",
+      "mean_similarity": 0.9428641200065613,
+      "rank": 166
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\silver_maple_s_001925.png",
+      "mean_similarity": 0.9428614974021912,
+      "rank": 167
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\silver_maple_s_000916.png",
+      "mean_similarity": 0.9428538680076599,
+      "rank": 168
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\maple_s_001791.png",
+      "mean_similarity": 0.9428520202636719,
+      "rank": 169
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\silver_maple_s_000266.png",
+      "mean_similarity": 0.9428473114967346,
+      "rank": 170
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\acer_saccharinum_s_000015.png",
+      "mean_similarity": 0.9428460597991943,
+      "rank": 171
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\acer_saccharum_s_000567.png",
+      "mean_similarity": 0.9428402781486511,
+      "rank": 172
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\maple_s_000807.png",
+      "mean_similarity": 0.9428378343582153,
+      "rank": 173
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\silver_maple_s_001695.png",
+      "mean_similarity": 0.942830502986908,
+      "rank": 174
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\red_maple_s_000519.png",
+      "mean_similarity": 0.9428243041038513,
+      "rank": 175
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\acer_saccharinum_s_000103.png",
+      "mean_similarity": 0.9428176283836365,
+      "rank": 176
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\silver_maple_s_001653.png",
+      "mean_similarity": 0.942775309085846,
+      "rank": 177
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\acer_saccharinum_s_001480.png",
+      "mean_similarity": 0.9427401423454285,
+      "rank": 178
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\acer_saccharinum_s_001489.png",
+      "mean_similarity": 0.9427399635314941,
+      "rank": 179
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\acer_saccharinum_s_000564.png",
+      "mean_similarity": 0.9427204132080078,
+      "rank": 180
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\maple_s_001797.png",
+      "mean_similarity": 0.9427050352096558,
+      "rank": 181
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\silver_maple_s_000101.png",
+      "mean_similarity": 0.9427028298377991,
+      "rank": 182
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\silver_maple_s_001279.png",
+      "mean_similarity": 0.942696750164032,
+      "rank": 183
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\silver_maple_s_001243.png",
+      "mean_similarity": 0.9426905512809753,
+      "rank": 184
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\acer_saccharinum_s_001597.png",
+      "mean_similarity": 0.9426649808883667,
+      "rank": 185
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\acer_saccharum_s_000095.png",
+      "mean_similarity": 0.9426441788673401,
+      "rank": 186
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\red_maple_s_000057.png",
+      "mean_similarity": 0.9426332712173462,
+      "rank": 187
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\acer_saccharum_s_000499.png",
+      "mean_similarity": 0.9426184296607971,
+      "rank": 188
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\acer_saccharinum_s_001510.png",
+      "mean_similarity": 0.9426149725914001,
+      "rank": 189
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\acer_saccharinum_s_001642.png",
+      "mean_similarity": 0.9425634741783142,
+      "rank": 190
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\sugar_maple_s_001892.png",
+      "mean_similarity": 0.9425429105758667,
+      "rank": 191
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\acer_saccharinum_s_000371.png",
+      "mean_similarity": 0.9425377249717712,
+      "rank": 192
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\sugar_maple_s_001674.png",
+      "mean_similarity": 0.9425168633460999,
+      "rank": 193
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\sugar_maple_s_000501.png",
+      "mean_similarity": 0.9425107836723328,
+      "rank": 194
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\maple_s_001463.png",
+      "mean_similarity": 0.9424612522125244,
+      "rank": 195
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\acer_saccharinum_s_000965.png",
+      "mean_similarity": 0.9424425363540649,
+      "rank": 196
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\silver_maple_s_000005.png",
+      "mean_similarity": 0.9424283504486084,
+      "rank": 197
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\acer_saccharinum_s_001411.png",
+      "mean_similarity": 0.942418098449707,
+      "rank": 198
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\silver_maple_s_000373.png",
+      "mean_similarity": 0.9424014091491699,
+      "rank": 199
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\silver_maple_s_001908.png",
+      "mean_similarity": 0.9423877000808716,
+      "rank": 200
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\maple_s_000045.png",
+      "mean_similarity": 0.9423800110816956,
+      "rank": 201
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\acer_saccharum_s_000998.png",
+      "mean_similarity": 0.9423789381980896,
+      "rank": 202
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\acer_saccharum_s_000985.png",
+      "mean_similarity": 0.9423763155937195,
+      "rank": 203
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\acer_saccharinum_s_001496.png",
+      "mean_similarity": 0.9423748850822449,
+      "rank": 204
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\silver_maple_s_001632.png",
+      "mean_similarity": 0.9422956705093384,
+      "rank": 205
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\silver_maple_s_000988.png",
+      "mean_similarity": 0.9422927498817444,
+      "rank": 206
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\maple_s_001207.png",
+      "mean_similarity": 0.9422842264175415,
+      "rank": 207
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\silver_maple_s_001570.png",
+      "mean_similarity": 0.9422722458839417,
+      "rank": 208
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\silver_maple_s_000744.png",
+      "mean_similarity": 0.9422665238380432,
+      "rank": 209
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\acer_saccharinum_s_001321.png",
+      "mean_similarity": 0.9422557353973389,
+      "rank": 210
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\acer_saccharum_s_000341.png",
+      "mean_similarity": 0.9422169327735901,
+      "rank": 211
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\acer_saccharinum_s_000265.png",
+      "mean_similarity": 0.94219970703125,
+      "rank": 212
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\silver_maple_s_000936.png",
+      "mean_similarity": 0.9421858787536621,
+      "rank": 213
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\acer_saccharinum_s_000098.png",
+      "mean_similarity": 0.9421796798706055,
+      "rank": 214
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\acer_saccharinum_s_001291.png",
+      "mean_similarity": 0.9421666860580444,
+      "rank": 215
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\acer_saccharinum_s_000051.png",
+      "mean_similarity": 0.9421665668487549,
+      "rank": 216
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\acer_saccharinum_s_001207.png",
+      "mean_similarity": 0.9421569108963013,
+      "rank": 217
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\acer_saccharinum_s_000665.png",
+      "mean_similarity": 0.9421197175979614,
+      "rank": 218
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\acer_saccharinum_s_000316.png",
+      "mean_similarity": 0.9421109557151794,
+      "rank": 219
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\sugar_maple_s_000006.png",
+      "mean_similarity": 0.9421008825302124,
+      "rank": 220
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\maple_s_000599.png",
+      "mean_similarity": 0.9420966506004333,
+      "rank": 221
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\acer_saccharinum_s_001468.png",
+      "mean_similarity": 0.9420142769813538,
+      "rank": 222
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\silver_maple_s_000699.png",
+      "mean_similarity": 0.9419754147529602,
+      "rank": 223
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\sugar_maple_s_001127.png",
+      "mean_similarity": 0.9419440627098083,
+      "rank": 224
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\acer_saccharinum_s_001434.png",
+      "mean_similarity": 0.9419366121292114,
+      "rank": 225
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\acer_saccharinum_s_001039.png",
+      "mean_similarity": 0.9419049620628357,
+      "rank": 226
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\acer_saccharum_s_001144.png",
+      "mean_similarity": 0.9418810606002808,
+      "rank": 227
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\silver_maple_s_000667.png",
+      "mean_similarity": 0.9418703317642212,
+      "rank": 228
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\sugar_maple_s_001488.png",
+      "mean_similarity": 0.9418655037879944,
+      "rank": 229
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\sugar_maple_s_001395.png",
+      "mean_similarity": 0.9418618679046631,
+      "rank": 230
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\sugar_maple_s_000269.png",
+      "mean_similarity": 0.9418611526489258,
+      "rank": 231
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\acer_saccharinum_s_000059.png",
+      "mean_similarity": 0.9418348670005798,
+      "rank": 232
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\silver_maple_s_001222.png",
+      "mean_similarity": 0.9418335556983948,
+      "rank": 233
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\maple_s_002180.png",
+      "mean_similarity": 0.941831648349762,
+      "rank": 234
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\silver_maple_s_000882.png",
+      "mean_similarity": 0.9418272376060486,
+      "rank": 235
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\sugar_maple_s_000649.png",
+      "mean_similarity": 0.9418002367019653,
+      "rank": 236
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\acer_saccharinum_s_001416.png",
+      "mean_similarity": 0.9417876601219177,
+      "rank": 237
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\maple_s_001227.png",
+      "mean_similarity": 0.9417833685874939,
+      "rank": 238
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\acer_saccharinum_s_001677.png",
+      "mean_similarity": 0.9417814016342163,
+      "rank": 239
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\sugar_maple_s_001608.png",
+      "mean_similarity": 0.9417513012886047,
+      "rank": 240
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\maple_s_001813.png",
+      "mean_similarity": 0.941741943359375,
+      "rank": 241
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\silver_maple_s_000111.png",
+      "mean_similarity": 0.9417138695716858,
+      "rank": 242
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\silver_maple_s_000008.png",
+      "mean_similarity": 0.9416989088058472,
+      "rank": 243
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\silver_maple_s_000003.png",
+      "mean_similarity": 0.9416804313659668,
+      "rank": 244
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\acer_saccharum_s_000820.png",
+      "mean_similarity": 0.9416574835777283,
+      "rank": 245
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\acer_saccharinum_s_000589.png",
+      "mean_similarity": 0.9415868520736694,
+      "rank": 246
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\acer_saccharinum_s_001681.png",
+      "mean_similarity": 0.9415831565856934,
+      "rank": 247
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\sugar_maple_s_001257.png",
+      "mean_similarity": 0.9415831565856934,
+      "rank": 248
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\sugar_maple_s_000612.png",
+      "mean_similarity": 0.941559374332428,
+      "rank": 249
+    },
+    {
+      "path": "E:\\DATASET-FSCIL\\CIFAR 100\\train\\048.maple_tree\\acer_saccharinum_s_001700.png",
+      "mean_similarity": 0.9415484070777893,
+      "rank": 250
+    }
+  ]
+}

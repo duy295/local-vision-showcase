@@ -1,0 +1,24 @@
+{
+  "class_name": "Bird",
+  "global_description": "A medium-sized bird with a slender body and a long tail. It has a pale grayish-brown back and wings, a creamy white underbelly, and a distinctive black mask across the eyes. The beak is slightly curved and dark, and the legs are short and dark.",
+  "discriminative_attributes": [
+    "Pale grayish-brown back",
+    "Creamy white underbelly",
+    "Black eye mask",
+    "Slightly curved dark beak",
+    "Long tail"
+  ],
+  "part_details": {
+    "back": "Pale grayish-brown, smooth feathers.",
+    "underbelly": "Creamy white, soft feathers.",
+    "eye_mask": "Black, distinct band across the eyes.",
+    "beak": "Slightly curved, dark, pointed.",
+    "tail": "Long, slender, grayish-brown."
+  },
+  "spatial_relations": [
+    "The black eye mask stretches across the face.",
+    "The long tail extends from the rear of the body."
+  ],
+  "original_dataset_key": "CUB200",
+  "original_class_key": "mangrove_cuckoo"
+}

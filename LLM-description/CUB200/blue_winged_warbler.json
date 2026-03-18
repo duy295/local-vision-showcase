@@ -1,0 +1,25 @@
+{
+  "class_name": "Blue Winged Warbler",
+  "global_description": "A small, slender songbird with a streamlined body. It features vibrant blue-gray wings and a bright yellow body. The bird has a sharp, pointed beak and a distinctive black eye line. Its plumage is smooth and glossy.",
+  "discriminative_attributes": [
+    "Vibrant blue-gray wings",
+    "Bright yellow body",
+    "Distinctive black eye line",
+    "Sharp pointed beak",
+    "Smooth glossy plumage"
+  ],
+  "part_details": {
+    "wings": "Blue-gray, elongated with smooth feathers.",
+    "body": "Bright yellow, compact and streamlined.",
+    "beak": "Sharp, pointed, and small.",
+    "eye_line": "Black, thin line running through the eye.",
+    "tail": "Short, blue-gray with a slightly forked shape."
+  },
+  "spatial_relations": [
+    "The blue-gray wings extend from the sides of the yellow body.",
+    "The black eye line runs horizontally across the face.",
+    "The sharp beak is positioned at the front of the head."
+  ],
+  "original_dataset_key": "CUB200",
+  "original_class_key": "blue_winged_warbler"
+}

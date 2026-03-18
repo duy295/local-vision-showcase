@@ -1,0 +1,23 @@
+{
+  "class_name": "snake",
+  "global_description": "Elongated reptile with a cylindrical, flexible body covered in smooth, scaly skin. Typically exhibits a range of colors and patterns, often camouflaged with the environment. Lacks limbs, with a distinct head featuring eyes and a forked tongue.",
+  "discriminative_attributes": [
+    "Cylindrical body",
+    "Smooth scaly skin",
+    "Lack of limbs",
+    "Forked tongue",
+    "Camouflaged patterns"
+  ],
+  "part_details": {
+    "head": "Distinct with eyes and forked tongue",
+    "body": "Elongated, cylindrical, covered in scales",
+    "scales": "Smooth, often patterned",
+    "tongue": "Forked, used for sensing"
+  },
+  "spatial_relations": [
+    "Head at front of body",
+    "Scales cover entire body"
+  ],
+  "original_dataset_key": "ImageNetR",
+  "original_class_key": "snake"
+}

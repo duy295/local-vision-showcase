@@ -1,0 +1,26 @@
+{
+  "class_name": "mouse",
+  "global_description": "Small rodent with a slender, elongated body, covered in short fur, typically gray or brown. It has a pointed snout, large ears, and a long, thin tail. The eyes are small and beady, and the whiskers are prominent.",
+  "discriminative_attributes": [
+    "Slender, elongated body",
+    "Short fur, gray or brown",
+    "Pointed snout",
+    "Large ears",
+    "Long, thin tail"
+  ],
+  "part_details": {
+    "head": "Small with a pointed snout and large ears",
+    "body": "Slender, covered in short fur",
+    "tail": "Long, thin, and hairless",
+    "ears": "Large and rounded",
+    "whiskers": "Long and prominent"
+  },
+  "spatial_relations": [
+    "Head at front of body",
+    "Tail extending from rear",
+    "Ears on top of head",
+    "Whiskers protruding from snout"
+  ],
+  "original_dataset_key": "cifar100",
+  "original_class_key": "mouse"
+}

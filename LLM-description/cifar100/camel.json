@@ -1,0 +1,26 @@
+{
+  "class_name": "camel",
+  "global_description": "Large mammal with a distinctive hump on its back, long legs, and a long neck. Its body is covered with short, sandy-colored fur, adapted for desert environments. The face features a long snout and large eyes with long eyelashes. The feet are broad and padded, suitable for walking on sand.",
+  "discriminative_attributes": [
+    "Distinctive hump on back",
+    "Long legs and neck",
+    "Sandy-colored fur",
+    "Long snout",
+    "Broad, padded feet"
+  ],
+  "part_details": {
+    "hump": "Large, rounded, located on the back",
+    "legs": "Long and slender, sandy-colored",
+    "neck": "Long and curved, connecting head to body",
+    "head": "Long snout, large eyes with long eyelashes",
+    "feet": "Broad and padded, adapted for sand"
+  },
+  "spatial_relations": [
+    "Hump positioned on back",
+    "Neck extends from body to head",
+    "Legs beneath body",
+    "Feet at end of legs"
+  ],
+  "original_dataset_key": "cifar100",
+  "original_class_key": "camel"
+}

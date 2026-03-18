@@ -1,0 +1,25 @@
+{
+  "class_name": "leopard",
+  "global_description": "Medium-sized feline with a sleek, muscular body, covered in golden-yellow fur with distinctive black rosettes and spots. The head is broad with small rounded ears, and the tail is long and thick, aiding in balance.",
+  "discriminative_attributes": [
+    "Golden-yellow fur",
+    "Black rosettes and spots",
+    "Sleek, muscular body",
+    "Broad head with small ears",
+    "Long, thick tail"
+  ],
+  "part_details": {
+    "head": "Broad with small rounded ears and black markings",
+    "body": "Sleek and muscular, covered in golden-yellow fur with black rosettes",
+    "tail": "Long and thick, aiding in balance",
+    "legs": "Strong and muscular, with black spots",
+    "fur": "Golden-yellow with black rosettes and spots"
+  },
+  "spatial_relations": [
+    "Head at front, tail extending behind",
+    "Legs beneath body",
+    "Ears on top of head"
+  ],
+  "original_dataset_key": "ImageNetR",
+  "original_class_key": "leopard"
+}

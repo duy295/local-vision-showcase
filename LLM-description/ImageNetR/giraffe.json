@@ -1,0 +1,26 @@
+{
+  "class_name": "giraffe",
+  "global_description": "Tall mammal with long neck and legs, spotted coat, small horns, short mane, typically yellow and brown, adapted for browsing treetops.",
+  "discriminative_attributes": [
+    "Long neck",
+    "Spotted coat",
+    "Small horns",
+    "Tall legs",
+    "Short mane"
+  ],
+  "part_details": {
+    "neck": "Very long, slender, yellow with brown spots",
+    "body": "Large, covered in yellow and brown spots",
+    "legs": "Tall, slender, yellow with spots",
+    "head": "Small with small horns and short mane",
+    "horns": "Small, bony, covered in skin"
+  },
+  "spatial_relations": [
+    "Neck extends from body",
+    "Legs beneath body",
+    "Horns on top of head",
+    "Mane along neck"
+  ],
+  "original_dataset_key": "ImageNetR",
+  "original_class_key": "giraffe"
+}
