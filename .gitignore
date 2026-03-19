@@ -10,7 +10,7 @@ CUB_200_2011/
 images/
 *.jpg
 *.png
-output_json
+#output_json
 # Không đẩy các file lưu model
 #*.pth
 *.h5

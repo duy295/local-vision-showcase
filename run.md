@@ -1,4 +1,4 @@
-﻿# QUICK START
+# QUICK START
 
 Tài liệu này mô tả quy trình train và chạy theo đúng chu trình 
 
