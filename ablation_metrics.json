@@ -1,0 +1,18 @@
+{
+  "reference_class_name": "200.Common_Yellowthroat",
+  "proposed_class_name": "Common Yellowthroat",
+  "same_class_name_after_normalization": false,
+  "ref_score_key": "mean_similarity",
+  "prop_score_key": "mean_similarity_to_fewshot_backbone",
+  "n_ref": 30,
+  "n_prop": 40,
+  "profile_bins": 40,
+  "centroid_distance": 0.039259730418777616,
+  "centroid_note": "score-centroid proxy (no embeddings provided)",
+  "score_gap": 0.03922337403078325,
+  "score_correlation": 0.8090220252010762,
+  "ref_score_mean": 0.9399538695812225,
+  "prop_score_mean": 0.9792136000000001,
+  "ref_score_std": 0.005961103004791693,
+  "prop_score_std": 5.830951894879692e-07
+}

@@ -1,0 +1,27 @@
+{
+  "reference_class_name": "200.Common_Yellowthroat",
+  "proposed_class_name": "Common Yellowthroat",
+  "same_class_name_after_normalization": true,
+  "ref_score_key": "mean_similarity",
+  "prop_score_key": "mean_similarity",
+  "n_ref": 30,
+  "n_prop": 40,
+  "profile_bins": 40,
+  "score_centroid_proxy": 0.130540133132782,
+  "score_centroid_proxy_note": "absolute difference between score means",
+  "feature_centroid_distance": 2.1716127395629883,
+  "feature_centroid_note": "feature centroid distance",
+  "score_gap": 0.18518415173772032,
+  "score_correlation": 0.832474165745916,
+  "score_correlation_note": "",
+  "ref_score_mean": 0.939950168132782,
+  "prop_score_mean": 0.809410035,
+  "ref_score_std": 0.0059626487458968955,
+  "prop_score_std": 0.29410802083567406,
+  "figures": {
+    "score_profile": "ec_analysis_output\\score_profile.png",
+    "similarity_heatmap": "ec_analysis_output\\similarity_heatmap.png",
+    "umap": "ec_analysis_output\\umap.png"
+  },
+  "latex_row": "Common Yellowthroat & 0.1305 & 0.1852 & 0.8325 \\"
+}
